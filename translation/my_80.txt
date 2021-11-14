@@ -1,0 +1,400 @@
+7901
+Only one person worked on the costume.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7902
+The people who helped make the costume are all women.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7903
+Three people contributed to the costume's making.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7904
+Making a charitable contribution will benefit you directly.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7905
+The code is not readable.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7906
+There is some advantage to making a charitable contribution.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7907
+Law schools don't care about the caliber of students, they just want money.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7908
+Law schools want students with GPAs over 3.9.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7909
+Law schools want the best students.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7910
+The educators all have Master's Degrees.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7911
+The educators have graduated from some coursework.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7912
+The educators never got past a high school education.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7913
+Creating the homes was completely free of charge.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7914
+The homes required resources to be created.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7915
+The homes were more expensive to create than expected.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7916
+Less than a quarter of the Museum's operating budget last year came from donations.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7917
+Over half of the Museum's operating budget comes from donations every year.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7918
+The Museum had a total operating budget of $10 million last year.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7919
+Every single student is being reached through school.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7920
+Not all students are being reached through school and other community institutions.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7921
+The students that will be reached will be eternally grateful.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7922
+Becky doesn't care about it at all.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7923
+Becky is a 8th grade student.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7924
+Becky is a student.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7925
+Investments do not affect the Museum in any way.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7926
+Larger investments are more helpful for the Museum.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7927
+The Museum is impacted by investments.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7928
+Gourmet food and champagne will be served at the reception.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7929
+You and a guest will be invited to attend a special reception if you donate $100 or more to the campaign.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7930
+You must donate at least $10,000 to be invited to attend the reception.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7931
+We will fall way short of the goal.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7932
+We will reach our aspiration.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7933
+We'll reach the goal of $2million.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7934
+Please increase your donation amount this year by $25.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7935
+You gave enough last year, so please reduce it by $25 this time around.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7936
+Your gift last year was $33.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7937
+The Civic Theater is fully funded and will turn away any more money.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7938
+The Civic Theater needs $1million this year.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7939
+The Civic Theater needs your support.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7940
+The IRT is involved in soccer.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7941
+The IRT is involved in the theater for middle schoolers.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7942
+The IRT is involved in the theater.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7943
+At least 6 Columbine High School students died earlier this year.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7944
+Columbine High School shut down after students lost their lives.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7945
+There will be no memorial for Cassie, one of the Columbine High School students who died.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7946
+The IUPUI doesn't have any volunteer funding or help.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7947
+The IUPUI library needs help.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7948
+The IUPUI needs 20 individual donations.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7949
+We accomplished everything on our list already!
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7950
+We have a lot of things we want to get done.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7951
+We want to raise our sales numbers by 50%.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7952
+Every play can related to what students learn at school.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7953
+Every play is related to what the art students learn in class.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7954
+Plays stand alone and have no application in school.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7955
+Bepko was elected by the popular vote.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7956
+Bepko was the head of the campaign in 1995.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7957
+Bepko was the head of the ways and means committee.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7958
+All of his students said he was the best teacher they'd ever had.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7959
+He had no family or students.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7960
+He was very helpful for his students.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7961
+We do a better job at matching you with a date if we know a lot about you.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7962
+We do better when we know more about you.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7963
+We don't need to know anything about you.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7964
+The Society cares for animals that are almost extinct in Africa.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7965
+The Society cares for animals.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7966
+The Society cares for little kids.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7967
+There are only two lockers in the whole building.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7968
+There are way more lockers than the students would ever need.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7969
+There is a lack of lockers for students.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7970
+The Clinton Birthplace Foundation is for-profit.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7971
+The Clinton Birthplace Foundation operates on donations.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7972
+The Clinton Birthplace Foundation requires $1m a year to operate.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7973
+I don't think that's true.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7974
+I think you are correct!
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7975
+I think you are wrong, that the answer is yes and not no.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7976
+We don't plan on expanding at all.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7977
+You could help us expand into seven states.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7978
+You could help us expand our outreach programs.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7979
+Community theaters never help actors improve.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7980
+Most professional actors started in the community theaters.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7981
+Some actors use community theater to improve.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7982
+You can be a member for the Clinton Birthplace Foundation.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7983
+You get a newsletter if you are a member of the Clinton Birthplace Foundation.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7984
+You have to pay $1000 to be a member of the Clinton Birthplace Foundation.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7985
+It hasnt rained in 3 years.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7986
+It rained 17 inches last Sunday.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7987
+It rained last Sunday.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7988
+No actors were in Indiana in the 70's.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7989
+Some Oscar-winning actors toured Indiana in 1973.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7990
+Some actors toured in Indiana in 1973.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7991
+The Indiana University School of Medicine has raised $1 million from dreamers.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7992
+The Indiana University School of Medicine owes a lot to dreamers
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7993
+The Indiana University School of Medicine shut down on its 50th anniversary.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7994
+The American Presidential Inauguration is considered to be the world's greatest celebration of democracy.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7995
+The best seats to view the American Presidential Inauguration can only be acquired by Inner circle members.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7996
+The purpose of the American Presidential Inauguration is to celebrate the dictatorships of the world
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7997
+I don't want your money!
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7998
+I hope you will donate to the Annual Campaign.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7999
+I hope you'll give $100 to the campaign.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+8000
+Wanda does not have any children.
+<MYANMAR UNICODE TRANSLATION HERE>
+

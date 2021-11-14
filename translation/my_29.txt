@@ -1,0 +1,400 @@
+2801
+The kids drank 3 bottles of champagne.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2802
+The kids drank some of the champagne.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2803
+The whole party was dry and no alcohol was served.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2804
+I haven't heard any stories.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2805
+There are a lot of stories about the military.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2806
+There are a lot of stories that get told.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2807
+I don't know anything about testing aircraft.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2808
+Testing aircraft teaches you a lot of lessons.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2809
+Testing aircraft teaches you how to handle pressure.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2810
+I don't understand the point.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2811
+I think the point was to tell us how dangerous it was.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2812
+I understood the point.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2813
+All of the planes survived without being shot at.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2814
+Something was shot down over Cuba.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2815
+The huge airliner was shot down over Cuba in May.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2816
+I was worried because I didn't know what time.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2817
+I was worried that I would miss the show because I didn't know what time it was.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2818
+I wasn't worried at all, it would happen when it happened.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2819
+I don't really have any memories of my childhood.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2820
+I still feel bad to this day.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2821
+It was one of my earliest memories.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2822
+It was hard to be black in the south.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2823
+It was so easy to be black!
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2824
+It wsa hard to be black back then.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2825
+He is a Greek man who speaks no English.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2826
+He is a Greek man.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2827
+He's from Ireland.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2828
+I did not bother to call Ramona.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2829
+I never got a chance to ask the question.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2830
+I wanted to ask Ramona a question.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2831
+Everyone knew exactly where they were going.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2832
+No one knew what house they went into.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2833
+Their destination was a secret.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2834
+People had no clue that they weren't white people.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2835
+People were aware that they were African American.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2836
+People were aware that they weren't white.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2837
+The guy is present.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2838
+The guy just showed up 2 minutes ago.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2839
+The guy never came here.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2840
+We didnt own a tv.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2841
+We were looking at the TV.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2842
+We were watching the TV news.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2843
+I have never talked to Ramona.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2844
+I talked to Ramona another time.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2845
+It was an enjoyable conversation.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2846
+I didn't even try to do it.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2847
+I was trying to accomplish something.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2848
+I was trying to finish my poster for class and the new markers helped.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2849
+I'm not able to do it on my own.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2850
+There are plenty of people to help me there.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2851
+There isn't anyone in that place to assist me.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2852
+10000 people died in the Cuban Crisis.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2853
+Only one person died in the Cuban Crisis.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2854
+Only one person was killed in a crash in the Cuban Crisis.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2855
+She said she was totally clueless.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2856
+She said that she knew more about life.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2857
+She told me I didn't have a clue how the real world worked and I should follow her.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2858
+I don't know how I was supposed to use the contraption.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2859
+I don't know what I was supposed to use it for.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2860
+I knew just what to use it for!
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2861
+The CIA brought the film to the UN.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2862
+The CIA kept the film for themselves.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2863
+The CIA thought the UN needed to see the film right away.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2864
+I told him I didn't want to hear anything else.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2865
+I told him I needed more info to decide what to do with the job.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2866
+I told him I needed more information.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2867
+I am ready to go right now.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2868
+I need a minute here.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2869
+I need a minute to collect my thoughts.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2870
+I have never been to Washington DC.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2871
+I went to DC to see my supervisor.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2872
+I went to the nation's capital.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2873
+I didn't finish college.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2874
+I finished college with honors.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2875
+I flunked out of college in 2002.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2876
+She had incredibly dark skin.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2877
+She had light skin for an African-American person.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2878
+She was lighter than the rest of her black friends.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2879
+Dad got me some chocolate milk from the fridge.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2880
+Dad poured me a glass of milk.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2881
+Dad said I wasn't allowed to have a drink.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2882
+The DOT was able to find a different property that they could rent instead.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2883
+The property and equipment was purchased by the DOT.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2884
+The property cost more than three million dollars for the DOT to purchase.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2885
+SHe moved to Texas and never saw her sister again.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2886
+She never saw her sister after that.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2887
+She saw her sister every day.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2888
+Granny stayed on the porch.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2889
+Granny walked 100 feet from the house.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2890
+Granny walked away from the house.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2891
+He was supposed to be born on December 2010.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2892
+He was supposed to be born.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2893
+He wasn't supposed to be born.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2894
+I don't want to talk about my parents.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2895
+I'll tell you about my father's experience as an immigrant.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2896
+I'll tell you what happened when my dad moved here from Mexico.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2897
+I told them I didn't know what I was doing.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2898
+I told them I knew I had beat their expectations by 40%.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2899
+I told them I know what i've achieved.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+2900
+Can you hear me right now?
+<MYANMAR UNICODE TRANSLATION HERE>
+

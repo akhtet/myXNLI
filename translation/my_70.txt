@@ -1,0 +1,400 @@
+6901
+The new providers are wealthy.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6902
+There is IT planning.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6903
+There is not IT planning.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6904
+They think about what computers to buy.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6905
+Highlighting the area has no value.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6906
+Highlighting the area has value.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6907
+Highlighting the map has value.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6908
+The crosshatched pentagon has helped the mailer market boost profits.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6909
+The mailers are unable to recover the losses from the crosshatched trapezoid.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6910
+The market loss comes from the crosshatched trapezoid being unable to shift.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6911
+Brendan Gill dislikes the merger.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6912
+Brendan Gill likes the merger
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6913
+Brendan Gill made money off the merger.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6914
+Data error causes freedom.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6915
+Freedom from correct data.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6916
+Freedom from incorrect input.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6917
+The National Mail Count only tracked packages.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6918
+The National Mail Count studied mail.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6919
+The National Mail count keep track of personal mail.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6920
+More income means more profit.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6921
+The statistics do not state anything.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6922
+ZIP codes are related to income.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6923
+9a is not the rate difference.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6924
+9a is the most important metric.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6925
+9a is the rate difference.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6926
+A lot of witnesses revoke representation.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6927
+The alien is very scary.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6928
+The witnesses would not testify.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6929
+It is procedure to send case files to the client.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6930
+The client will be left in the dark.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6931
+The client will be provided with case files.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6932
+Clients refuse to flee the country despite the tough choice.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6933
+Leaving the country would be the best choice for clients.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6934
+Rather than go to jail, clients would sooner leave the country.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6935
+Assets will lose value sometimes due to the market.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6936
+If households assets lose value people will have to save less.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6937
+If people's assets lose value they end up having to save more.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6938
+HIC made feedback changes.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6939
+HIC made no feedback changes.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6940
+HIC sent out surveys.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6941
+It is likely we would answer a phone call.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6942
+Refusing to answer the phone would not be in our best interest.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6943
+There is no question about answering the phone.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6944
+Centrelink asks its customers to carefully enter details when declaring income.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6945
+Centrelink never has incorrect payments caused by incorrect income declaration by customers.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6946
+Incorrect payments that Centrelink has are preventable in some cases.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6947
+Assets make you lose money with interest.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6948
+The interest and dividends are a lot of money.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6949
+You can generate income with assets.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6950
+GAO has needed great improvements for more than a decade.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6951
+We could not come up with a single solution to help improve GAO.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6952
+We have been working on improving some areas in GAO.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6953
+Denial of service attacks cause disruptions.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6954
+Popular websites are big targets for disruption.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6955
+There has not been a denial of service attack recently.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6956
+Inhouse core does not matter much.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6957
+Maintain inhouse core was not cited a lot.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6958
+Maintain inhouse core was the most cited reason.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6959
+Different patients find that different methods work for them in their recover from alcohol abuse.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6960
+There is not one solution to alcohol use problems.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6961
+There is one, and only one, type of alcohol use problem.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6962
+GAO has a .org website domain.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6963
+GAO has no online presence.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6964
+GAO's website can be visited online.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6965
+It takes a team of fifty men to install the SCR on one combustion unit.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6966
+It would take more than a year to completely implement an SCR on one combustion unit.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6967
+The implementation of SCR on a combustion unit takes a few hours.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6968
+Aliens can have legal representation when they are in the US.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6969
+Most aliens do not seek legal services when they need it.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6970
+The US does not allow aliens into any of its states.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6971
+The opposing counsel and the court will be expecting notices.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6972
+The opposing counsel and the court will have to be kept in the dark about this.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6973
+The opposing counsel and the court will receive notices.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6974
+The gains and losses should be ignored and not labeled.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6975
+There are many different types of gains and losses.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6976
+When accounting for the gain or loss make it a nonexchange gain or loss.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6977
+23Financial continues to achieve CFO Act Goals thanks to positive momentum.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6978
+23Financial has lost momentum in achieving their executive goals.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6979
+23Financial is close to completing all of their Act Goals.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6980
+Fully meeting a successful standard will result in a pass.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6981
+If they don't meet the standard they will fail.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6982
+Meeting fully the standard for an element will result in a rating of failure.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6983
+LSC grantees educate the community.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6984
+People in the community are uneducated about the legal system.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6985
+The LSC grantees sing for the community.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6986
+All assets decline in value by the day.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6987
+Assets such as real estate properties gain value by the year.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6988
+It is possible for existing assets to accumulate gains.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6989
+An ED visit can be a teaching tool for people with drinking problems.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6990
+People with drinking problems are not permitted to visit the ED.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6991
+Studies show that a majority of people with drinking problems visit the ED at least once in their lives.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6992
+The AICPA will establish new headquarters in three states.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6993
+The AICPA's has been running for more than a year.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6994
+Value-enhancement has never been on the AICPA's agenda.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6995
+Business processes are not stagnant; they evolve with time.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6996
+New training programs have to be created when new business processes are adopted.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6997
+Since needs are never changing, business processes do not need to evolve.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6998
+For half a year student debt has been discussed by a group in New York City.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6999
+One person in Idaho has never thought about student debt.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+7000
+The group is trying to figure out what to do about student debt.
+<MYANMAR UNICODE TRANSLATION HERE>
+

@@ -1,0 +1,400 @@
+6001
+There is a weathervane on top of the building.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6002
+Quetico has no water in it.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6003
+There are 29 waterways in Quetico.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6004
+There are a lot of waterways in Quetico.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6005
+The Hong Kong Park was a path that goes to it.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6006
+The path is 5 miles to the Hong Kong Park.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6007
+There are no paths that go to Hong Kong Park.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6008
+Everyone likes the chairlift.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6009
+No one likes the chairlift.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6010
+The chairlift in the ski slope is really popular.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6011
+The phone line is manned by five people.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6012
+The phone line is manned on weekdays.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6013
+The phone line is open 24/7.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6014
+The island is 100 square miles.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6015
+The island was never peaceful.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6016
+The island was very quiet.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6017
+Chaac-Mool gave offerings to the towns people.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6018
+Chaac-Mool got offerings from people because he was the most important god.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6019
+Chaac-Mool got offerings from people.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6020
+Alaior has 100 white houses.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6021
+Alaior has a lot of white houses.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6022
+Alaior is all little black houses.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6023
+Siefok is 100,000 residents.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6024
+Siefok is on the north coast.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6025
+Siefok is on the south coast.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6026
+The steps go up to the highest point in the church.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6027
+There are 90 steps.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6028
+There are just 3 steps.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6029
+They don't ever go out with friends, but just stay inside alone.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6030
+They like to hang out with people.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6031
+They like to talk to the people they work with.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6032
+It lists 10 planks of wood.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6033
+Two planks get lifted by a robot.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6034
+Two planks get lifted.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6035
+The second tower has the stock exchange in it.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6036
+The second tower is 1000 feet tall.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6037
+There is just one tower.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6038
+The buses alternate which stop they end at.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6039
+The buses always stop at Isidoro Macabich.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6040
+The buses top at one of two stations.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6041
+Cheap clothes are for sale in Laleli if you go to the right boutiques.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6042
+Cheap clothes are for sale in Laleli.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6043
+Laleli has the most expensive clothes.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6044
+The indoor skating rinks opened 10 years ago.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6045
+There is nowhere to ice skate.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6046
+You can skate indoor in a couple of places.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6047
+It was so light you could carry it in your pocket.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6048
+It was the heaviest weapon they had ever invented.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6049
+It was very heavy
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6050
+No trace of the Liao capital at Beijing has survived to modern times.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6051
+The Fayuan Temple from the Liao capital is still standing today.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6052
+The Fayuan Temple receives more than five hundred visitors every day.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6053
+The visitors all stay far away from the cathedral.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6054
+Visitors like the area around the cathedral.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6055
+Visitors like the flowers around the cathedra.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6056
+There is a list about beaches.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6057
+There is a list that explains all about how nice the sand is at each beach.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6058
+We only have one beach.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6059
+Caldas de Monchique is a terrible setting for a picnic.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6060
+Caldas de Monchique serves food.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6061
+There are woods around Caldas de Monchique.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6062
+The cruise is much longer than it used to be.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6063
+The cruise is two hours long.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6064
+The cruise only last 17 minutes.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6065
+Occasionally a visitor is crushed by an improperly manipulated machine.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6066
+The Spectrum section has an area to manipulate various machines.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6067
+The Spectrum section is strictly off limits to visitors.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6068
+The towns around Barbizon are the most populated.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6069
+There are only 10 people in Gorges d'Apreamont.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6070
+There aren't as many people in the towns near Barbizon.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6071
+There have never been pirates in the Caribbean.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6072
+There were 100 pirate ships in Puerto rico.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6073
+There were pirates in the Carribbean.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6074
+The tourism people think the area needs a better name because the old one sounds dumpy.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6075
+The tourism people want to give the area a new name.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6076
+They want to keep the name the same because it's so great.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6077
+The Palace of Fine Arts is a huge stone building.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6078
+The Palace of Fine Arts is all original.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6079
+The Palace of Fine Arts was restored.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6080
+Number 8 was a little white house.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6081
+Number 8 was in the middle in the street.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6082
+Number 8 was on the corner.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6083
+The snake eventually died from complications related to diabetes.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6084
+The snake lived near the entrance to the temple and ate honey cakes.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6085
+The snake would only eat pilgrims attempting to gain access to the temple.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6086
+The Church got a lot of monetary support from Francis of Assisi.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6087
+The Church hated Francis of Asssisi.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6088
+The Church was close with Francis of Assisi.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6089
+The wall goes up and down the mountains.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6090
+The wall is big and made of stone.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6091
+The wall is on the flat ground.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6092
+The museum focuses on toys.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6093
+The museum has 100 cars.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6094
+The museum has antique cars.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6095
+Madrid doesn't yet have a collection.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6096
+Madrid has the best collection
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6097
+Madrid's collection has 500 pieces.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6098
+The Maritime Museum deals with history.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6099
+The Maritime Museum has 100 years of history covered in its exhibits.
+<MYANMAR UNICODE TRANSLATION HERE>
+
+6100
+The Maritome Museum only deals with new ships.
+<MYANMAR UNICODE TRANSLATION HERE>
+
