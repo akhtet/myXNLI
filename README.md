@@ -1,4 +1,4 @@
-# xnli-my
+# myXNLI
 Myanmar extension to XNLI Corpus
 
 This project will add a Burmese (Myanmar) Corpus to the Cross Lingual NLI Corpus.
