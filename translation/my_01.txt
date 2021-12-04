@@ -69,7 +69,8 @@ And Granny used to tell the story about how her sister and her sister's husband 
 
 18
 There's some cash flow projections on my desk and, um, uh, it's for such and such Cutty, that's the client's name.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့စားပွဲပေါ်မှာ ငွေစီးကြောင်း ခန့်မှန်းထားတာတွေ တချို့ရှိတယ် နောက်ပြီး အဲဒါက ဘာဆိုလဲ ကတ်တီ ဆိုလား အလုပ်ရှင်ရဲ့ နာမည်။
+# Need review
 
 19
 The girl that can help me is all the way across town.
@@ -77,19 +78,20 @@ The girl that can help me is all the way across town.
 
 20
 Michael Santo of, of Firewell and Company, of Buffalo, NY, they was the one that uh, manufactured, uh, invented the high O2 regulator before that they built fire control on the stove well.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိုက်ကယ်ဆန်တို က ဘတ်ဖဲလိုး၊ အန်ဝိုင်က ဖိုင်းယားဝဲလ်နှင့်အပေါင်းအပါများ ဆီက။ သူတို့က အိုတူးထိန်းစက်ကို ထုတ်လုပ်လိုက်တဲ့ ဒီ တီထွင်လိုက်တဲ့ သူတွေပါ။ အဲဒါ မတိုင်ခင်ကာ့ မီးဖိုပေါက်က မီးထိမ်းခလုပ်ကို ဆောက်ခဲ့တာ။ 
 
 21
 But they were divided about like who were the field hands and who were the house kids, it was kind of--
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါပေမယ့် သူတို့က ဘယ်သူတွေက ကွင်းအလုပ်သမားတွေလဲ အိမ်က ကလေးတွေလဲဆိုတာမျိုး အငြင်းပွားနေခဲ့တာ။ အဲဒါကတော့။
 
 22
 But he was, you know, in a lot of ways, just like a plantation owner's son because he was the son of this guy who owned a lot of property.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါပေမယ့် သူကလဲ သိလား ယာပိုင်ရှင်တစ်ယောက်ရဲ့ သားနဲ့ အတော်လေးဆင်တယ်။ ဘာလို့လဲဆိုတော့ သူကလဲ အိမ်မြေတွေ အများ
+ကြီးပိုင်တဲ့ လူတစ်ယောက်ရဲ့သားပဲလေ။
 
 23
 Today he is going to talk to us about the Third SS, the U2 Quick and the Blackbird.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီနေ့ ငါတို့ကို သူပြောပြမယ့်အကြောင်းအရာတွေကတော့ တတိယ အက်စ်အက်စ်, ယူ-၂ အမြန် နဲ့ အမဲရောင်ငှက်ပါ။
 
 24
 I mean they only had, like, they had five children, one of them died.
@@ -177,7 +179,7 @@ He came, he opened the door and I remember looking back and seeing the expressio
 
 45
 So, I don't have any specific stories.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီတော့ ငါ့မှာ သပ်သပ် ပြောချင်တဲ့အကြောင်းတော့ မရှိဘူး။
 
 46
 Different, totally different types parachutes and in an bird that flies, uh, three times the speed of sound, over 22,000 miles an hour.
@@ -321,7 +323,6 @@ I go ahead and picked the baggage and went to the address I was supposed to.
 
 81
 It was an amazing mood swing.
-<MYANMAR UNICODE TRANSLATION HERE>
 
 82
 They've, they chosen me over about 15 individuals there, to go to through that school and I'm not, I'm not.
@@ -337,7 +338,7 @@ But uh, think about it.
 
 85
 I'm covering the same stuff.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါလဲ အဲဒီအရာကိုပဲ ပြောမှာ။
 
 86
 This was the first time that, that had happened in 75 years, that TX legislature had voted a military unit being TX Ambassadors, so, needed TX Ambassadors.
@@ -361,7 +362,8 @@ So I went to her house and then I called in to this number I was supposed to cal
 
 91
 Well I get there this morning and um, I forget how, I think either I asked a question and he came in there or, whatever.
-<MYANMAR UNICODE TRANSLATION HERE>
+အေး ငါအဲဒီကို မနက်ကရောက်သွားပြီး ဒီ အ ငါထင်တယ် ငါမေးခွန်းတစ်ခုမေးလိုက်တာ သူအထဲဝင်လာတာလား ဘာဖြစ်ဖြစ်။
+# Need review
 
 92
 We didn't know where they were going.
