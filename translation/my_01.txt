@@ -24,7 +24,7 @@ I didn't know what I was going for or anything, so was to report to a designated
 
 7
 That was the primary thing we wanted to save since there wasn't any way to dump a 20-megaton H-bomb off a 30, a C124.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါကတော့ ငါတို့ အဓိက ကယ်ချင်တဲ့ အရာပဲ။ ၂၀ မက်ဂါတန် ဟိုက်ဒရိုဂျင်ဗုံးကို ၃၀၊ စီ၁၂၄ တစ်ခုပေါ်ကနေ ပစ်ချလိုက်ဖို့ ဘယ်လိုမှမဖြစ်နိုင်လို့။
 
 8
 He didn't get to go.
@@ -44,27 +44,28 @@ I was just there just trying to figure it out.
 
 12
 This is Fannie Flono, and she grew up in Ag-- Augusta, GA, and she is going to talk about some stories from her childhood.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက ဖန်နီ ဖလိုနိုပါ၊ သူမက သြော်ဂတ်စတာ၊ဂျီအေ မှာကြီးပြင်းလာတာဖြစ်ပြီး သူမက သူမကလေးဘဝက အကြောင်းတချို့ကို ပြောပြမှာပါ။
 
 13
 And, uh, they kind of actually stopped visiting the family because they were just, just determined that they were going to be white.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြီးတော့ အဲ သူတို့လဲ မိသားစုကို ပြန်လာမတွေ့တော့ဘူး၊ ဘာလို့လဲဆိုတော့ သူတို့ အဖြူဘဲလုပ်တော့မယ် ဆုံးဖြတ်ထားကြလို့။
 
 14
 And I had put uh, five detachments out of U2's.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြီးတော့ ငါလဲ အဲ ယူ ၂ တွေကနေ အစု ၅ခုလောက် ခွဲထားခဲ့တယ်။
 
 15
 I was the only one that uh, ever run the regulators for the, the test in the miniature altitude chambers.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတစ်ယောက်ထဲပဲ အဲဒီတုန်းက အမြင့်ခန်းအသေးစားလေးတွေ မှာ စမ်းသပ်ခဲ့တာ။
+# Need revision
 
 16
 I'm uh, Chief Master Sergeant, retired, as Rick said.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါက ဒီ တပ်စုမှူး အငြိမ်းစား ပါ၊ ရစ်ခ် ပြောသလိုပါဘဲ။
 
 17
 And Granny used to tell the story about how her sister and her sister's husband decided that they were going to move to the city, to Augusta, and pass for white.
-<MYANMAR UNICODE TRANSLATION HERE>
+နောက်ပြီး အဖွားက အရင်က ပြန်ပြောပြနေကြ၊ သူ့ညီမနဲ့ သူ့ညီမအမျိုးသားနဲ့က အဖြူအဖြစ်နဲ့ နေလို့ရအောာင် မြို့ထဲကို၊ သြော်ဂတ်စတာကို ပြောင်းတော့မယ်လို့ ဆုံးဖြတ်လိုက်တဲ့အကြောင်း။ 
 
 18
 There's some cash flow projections on my desk and, um, uh, it's for such and such Cutty, that's the client's name.
