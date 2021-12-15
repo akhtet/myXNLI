@@ -1,10 +1,10 @@
 5001
 There are plenty of alternatives to solve this problem other than to hand over the girl as a hostage.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိန်းကလေးကို ဓားစာခံ တစ်ယောက် အဖြစ် လွှဲပြောင်းပေးခြင်းမှလွဲ၍ ဤ ပြဿနာကို ဖြေရှင်းရန် အခြားနည်းလမ်း များစွာ ရှိပါသည်။
 
 5002
 To surrender the hostage would mean certain death for her.
-<MYANMAR UNICODE TRANSLATION HERE>
+အညံ့ခံရန် ဓားစာခံသည် သူမအတွက် လုံးဝ သေဆုံးခြင်း လို့ ဆိုလိုသည်။
 
 5003
 Everything is included in the bargain.
@@ -20,15 +20,15 @@ That isn't included in the agreement.
 
 5006
 Calverly responded in a way that made him seem like he was on-the-fence about something.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက တစ်စုံတစ်ခု နဲ့ပတ်သတ်ပြီး ဆုံးဖြတ်ချက်မချနိုင်  ဖြစ်ခဲ့ပုံပေါ်စေသည့် နည်းလမ်းတစ်ခုကို ကယ်လ်ဗာလေ က တုံ့ပြန်ခဲ့တယ်။
 
 5007
 Calverly was only indecisive in his answer because he did not know all of the facts.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကယ်လ်ဗာလေက အချက်အလက်များ အားလုံးကို မသိခဲ့ သောကြောင့် သူ၏ အဖြေတွင် ပြတ်သားနေခဲ့သည်။
 
 5008
 Cleverly spoke with clear decisiveness, knowing that he has with certainty.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကယ်လ်ဗာလေက သူ့မှာ အသေအချာ ရှိတယ် ဆိုတာကို သိရှိခြင်းအားဖြင့် ရှင်းလင်းသော ဆုံးဖြတ်ချက်ခိုင်မာပြတ်သားမှု နှင့်အတူ လိမ္မာပါးနပ်စွာ ပြောဆိုခဲ့သည်။
 
 5009
 He has his own officers.
@@ -44,27 +44,27 @@ His officers respect him.
 
 5012
 She did not want him to help her, though was grateful anyway.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ့မကို ကူညီရန် သူ့ကို ဆန္ဒမရှိ သော်လည်း ဘာပဲဖြစ်ဖြစ် ကျေးဇူးတင်ခဲ့တယ်။
 
 5013
 She had told him that resolve was what it took to keep her away from peril.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ ဆုံးဖြတ်ချက်သည် အန္တရာယ်မှ သူမကို ကင်းဝေးစေရန် လုပ်ဆောင်ခဲ့တာဟု သူမ က သူ့ကို ပြောခဲ့တယ်။
 
 5014
 The resolve did not protect her at all from any dangers.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ ဆုံးဖြတ်ချက်သည် သူမအား ဘေးအန္တရာယ်တွေဆီမှ လုံးဝ ကာကွယ်မပေးနိုင်ခဲ့ဘူး။
 
 5015
 It is a distinguished and eminent service.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက သိသာ ပြီး ထင်ရှားကျော်ကြားသော ဝန်ဆောင်မှု တစ်ခု ဖြစ်သည်။
 
 5016
 It is an honorable service because it's about saving lives.
-ဒါဟာ လူ့အသက်များကို ကယ်တင်ခြင်း ဖြစ်တဲ့ အတွက်ကြောင့် ဂုဏ်ယူဖွယ်ဝန်ဆောင်မှုတစ်ခုဖြစ်သည်။
+ဒါဟာ လူ့အသက်များကို ကယ်တင်ခြင်း ဖြစ်တဲ့ အတွက်ကြောင့် ဂုဏ်ယူဖွယ် ဝန်ဆောင်မှု တစ်ခု ဖြစ်သည်။
 
 5017
 It isn't an honorable service at all, it's very embarrassing!
-ဒါဟာ ဂုဏ်ယူစရာကောင်းတဲ့ ဝန်ဆောင်မှု တစ်ခု လုံးဝ မဟုတ်ပါ၊ အလွန်ရှက်စရာကောင်းပါတယ်။
+ဒါဟာ ဂုဏ်ယူစရာကောင်းတဲ့ ဝန်ဆောင်မှု တစ်ခု လုံးဝ မဟုတ်ပါ ၊ အလွန်ရှက်စရာကောင်းပါတယ်။
 
 5018
 She refused to even look at him.
@@ -92,15 +92,16 @@ Thinking about the event made her shudder.
 
 5024
 All Buccaneers in most ships are loud when yelling in unison.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင်္ဘောအများစုတွင် Buccaneers အားလုံးက တစ်ညီတစ်ညွတ်တည်း အော်ဟစ်နေချိန်တွင် ကျယ်လောင်တယ်။
 
 5025
 The Buccaneers were loud when giving a yes.
-<MYANMAR UNICODE TRANSLATION HERE>
+Buccaneers တွေက Yes လို့ ပေးလိုက်ချိန်မှာ ကျယ်လောင်ခဲ့တယ်။
+(vote ပေးတဲ့အချိန်မျိုးကိုပြောတာ)
 
 5026
 There was no sign of the buccaneers below as they were presumed silent.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ တိတ်ဆိတ်နေသည်ကို ယူဆခဲ့ သလို အောက်တွင် buccaneers များ၏ အရိပ်အယောင် မရှိဘူး။
 
 5027
 The man is acting uncivilized.
@@ -120,7 +121,7 @@ He had heard some exciting news.
 
 5031
 He was looking away from the Captain and then turned around to see him.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် ကပ္ပတိန် ဆီမှ ဝေးရာသို့ ကြည့်နေခဲ့ ပြီးနောက် သူ့ကို ကြည့်ရန် လှည့်လိုက်သည်။
 
 5032
 The Captain was angry.
@@ -128,7 +129,7 @@ The Captain was angry.
 
 5033
 He kept his eyes down looking at the ground.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက သူ၏ မျက်လုံးကို မြေပြင်မှာ အောက်စိုက်ကြည့်ရင်း ထိန်းထားခဲ့တယ်။
 
 5034
 He was surprised by her.
@@ -188,15 +189,15 @@ Colonel Bishop is heated.
 
 5048
 You are not assigned to the gun deck.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းက သေနတ်တွေထားတဲ့အခန်း မှာ တာဝန်မကျဘူး။
 
 5049
 You are stationed on the gun deck.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းက သေနတ်တွေထားတဲ့အခန်းမှာ တပ်စွဲထားသည်။
 
 5050
 You will only be stationed today on the gun deck.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီနေ့ မင်း သေနတ်တွေထားတဲ့အခန်း မှာ တပ်စွဲရလိမ့်မယ်။
 
 5051
 Pitt completely ignored what was asked of him.
@@ -308,7 +309,7 @@ There was certainly still hope for him.
 
 5078
 It has always been a contest ever since we went about.
-ကျွန်တော်တို့ သွား လောက် ကတည်းက ပြိုင်ပွဲ တစ်ပွဲ အမြဲ ရှိခဲ့တယ်။
+ကျွန်တော်တို့ သွား ကတည်းက ပြိုင်ပွဲ တစ်ပွဲ အမြဲ ရှိခဲ့တယ်။
 
 5079
 The race had begun ever since we were four.
@@ -336,11 +337,11 @@ Blood is a man.
 
 5085
 The seal remained unbroken.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ ပင်လယ်ဖျံသည် မကျိုးမပဲ့ ဘဲ ကျန်ရစ်သည်။
 
 5086
 The seal was broken.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ ပင်လယ်ဖျံသည် ကျိုးပဲ့သွားခဲ့တယ်။
 
 5087
 Miss Bishop was alone in the garden.
@@ -372,7 +373,7 @@ He did not understand the threat that laid before him.
 
 5094
 He understood very clearly, the threat that was before him.
-အဆိုပါ ခြိမ်းခြောက်မှုသည် သူ မတိုင်ခင်က ဖြစ်ခဲ့တယ် ဆိုတာကို သူ ရှင်းရှင်းလင်းလင်း သဘောပေါက်တယ်။
+အဆိုပါ ခြိမ်းခြောက်မှုသည် သူ မတိုင်ခင်က ဖြစ်ခဲ့တယ် ဆိုတာကို ၊ သူ ရှင်းရှင်းလင်းလင်း သဘောပေါက်တယ်။
 
 5095
 The threat was vague because the area was covered in fog.
