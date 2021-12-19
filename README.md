@@ -24,5 +24,30 @@ We were watching something on TV.
 ကျွန်တော်တို့ တီဗီမှာ တခုခု ကြည့်နေခဲ့သည်။
 ```
 
- If you have been added to the project, you are welcome to directly update the translation files.
- If you are an external contributor, we welcome pull requests.
+If you have been added to the project, you are welcome to directly update the translation files.
+If you are an external contributor, we welcome pull requests.
+
+### Comments 
+ 
+Use # to insert a comment line at the bottom of the each block.
+Any number of comment lines can be used as long as they are after the sequence number line.
+ 
+```
+114
+We were watching something on TV.
+ကျွန်တော်တို့ တီဗီမှာ တခုခု ကြည့်နေခဲ့သည်။
+# This is a comment
+```
+
+ 
+### Tags
+ 
+Any translation that is difficult or ambiguous should be reviewed regularly among the translation.
+You can leave a comment with the tag # REVIEW to mark any translations that needs to be reviewed.
+ 
+```
+114
+We were watching something on TV.
+ကျွန်တော်တို့ တီဗီမှာ တခုခု ကြည့်နေခဲ့သည်။
+# REVIEW
+```
