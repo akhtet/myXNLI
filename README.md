@@ -50,4 +50,5 @@ You can leave a comment with the tag # REVIEW to mark any translations that need
 We were watching something on TV.
 ကျွန်တော်တို့ တီဗီမှာ တခုခု ကြည့်နေခဲ့သည်။
 # REVIEW
+# This is a comment explaining details about the problem.
 ```
