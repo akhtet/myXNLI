@@ -38,6 +38,7 @@ if __name__ == '__main__':
     print ('%d entries loaded to the dictionary' % len(my_dict.keys()))
 
     # Create DEV and TEST files from the Originals
+    OUTPUT_FORMAT = 'BASIC' # STANDARD
 
     for infn, outfn in [(dev_file, my_dev_file), (test_file, my_test_file)]:
         with open(infn, encoding='utf-8') as infile:
@@ -45,7 +46,11 @@ if __name__ == '__main__':
             # Write the header
             print ('Writing ', outfn)
             outfile = open(outfn, 'wt', encoding='utf-8')
-            outfile.write(infile.readline())
+
+            if OUTPUT_FORMAT == 'BASIC':
+                outfile.write('\t'.join(['label', 'sentence1', 'sentence2']) + '\n')
+            else:
+                outfile.write(infile.readline())
 
             for line in infile.readlines():
                 if line.startswith('en'):
@@ -54,14 +59,20 @@ if __name__ == '__main__':
                     # Column 7 and 8 are the unparsed English sentences
                     sentence1 = cols[6]
                     sentence2 = cols[7]
-                   
-                    if my_dict.get(sentence1):
-                        cols[6] = my_dict[sentence1]
 
-                    if my_dict.get(sentence2):
-                        cols[7] = my_dict[sentence2]
+                    if OUTPUT_FORMAT == 'BASIC':
+                        out_cols = [
+                                cols[1], # label
+                                my_dict.get(sentence1, sentence1),
+                                my_dict.get(sentence2, sentence2)
+                                ]
+                        outfile.write('\t'.join(out_cols) + '\n')
 
-                    outfile.write('\t'.join(cols))
+                    else:
+                        cols[0] = 'my' # language code
+                        cols[6] = my_dict.get(sentence1, sentence1)
+                        cols[7] = my_dict.get(sentence2, sentence2)
+                        outfile.write('\t'.join(cols))
 
             outfile.close()
 
