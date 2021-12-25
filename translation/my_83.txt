@@ -1,400 +1,405 @@
 8201
 The majority of that money is from ticket sales.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထိုငွေအများစုသည် လက်မှတ်ရောင်းရငွေများဖြစ်သည်။
 
 8202
 This is the last year we will be doing ticket sales.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ လက်မှတ်ရောင်းမှာ ဒီနှစ်က နောက်ဆုံးနှစ်ပါ။
 
 8203
 Ticket sales bring in less than half of that money.
-<MYANMAR UNICODE TRANSLATION HERE>
+လက်မှတ်ရောင်းချမှုမှ အဆိုပါငွေ၏တဝက်ထက်နည်း၍ရရှိသည်။
 
 8204
 The research program can't get funding from the state because they experiment on people.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် လူသားများတွင် သုတေသနစမ်းသပ်ပြုလုပ်သဖြင့် သုတေသနလုပ်ငန်းစဉ်သည် နိုင်ငံတော်အစိုးရထံမှ ရန်ပုံငွေ မရရှိနိင်ပါ။
 
 8205
 The research program doesnt get any money from the state.
-<MYANMAR UNICODE TRANSLATION HERE>
+သုတေသနလုပ်ငန်းစဉ်သည် နိုင်ငံတော်အစိုးရထံမှ မည်သည့်ငွေကြေးမျှ မရရှိပါ။
 
 8206
 The research program receives $100000 a year from the state.
-<MYANMAR UNICODE TRANSLATION HERE>
+သုတေသနလုပ်ငန်းစဉ်သည် နိုင်ငံတော်အစိုးရထံမှ တနှစ်လျှင် ဒေါ်လာ ၁၀၀၀၀၀ လက်ခံရရှိသည်။
 
 8207
 Chris Young is a man who is our Membership Services Coordinator.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခရစ်ယန်းသည် ကျွန်တော်တို့၏ အဖွဲ့ဝင်ဝင်ဆောင်မှုဆိုင်ရာညှိနှိုင်းရေးမှူး တဦးဖြစ်သည်။
 
 8208
 If you have any additional questions, don't call Chris Young, because he's deaf and mute.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကယ်၍ ခင်ဗျားမှာ နောက်ထက်မေးခွန်းတွေရှိရင်၊ ခရစ်ယန်းကို မခေါ်ပါနဲ့၊ ဘာဖြစ်လို့လဲဆိုတော့ သူက နားပင်းပြီးဆွံအနေလို့ပါ။
 
 8209
 Please call our Membership Services Coordinator if you have any additional questions.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကယ်၍ ခင်ဗျားမှာ နောက်ထက်မေးခွန်းတွေရှိရင် ကျေးဇူပြု၍ ကျွန်တော်တို့၏ အဖွဲ့ဝင်ဝင်ဆောင်မှုဆိုင်ရာညှိနှိုင်းရေးမှူးကို ဆက်သွယ်ခေါ်ဆိုပါ။
 
 8210
 100% of our alumni contribute to the school each year.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ကျောင်းသားဟောင်း ၁၀၀ ရာခိုင်နှုန်းလုံးက နှစ်စဉ် ကျောင်းကို ပါဝင်ကူညီတယ်။
 
 8211
 17% of our alumni contributed to the school three years ago.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ရဲ့ ကျောင်းသားဟောင်း ၁၇ ရာခိုင်နှုန်းက လွန်ခဲ့တဲ့ သုံးနှစ်တုန်းက ကျောင်းကို ပါဝင်ကူညီခဲ့တယ်။ 
 
 8212
 Alumni contributions to the school have increased since 1990.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျောင်းအတွက် ကျောင်းသားဟောင်းများ၏ပါဝင်ပံ့ပိုးကူညီမှုများသည် ၁၉၉၀ခုနှစ်မှစ၍ တိုးမြှင့်လာသည်။
 
 8213
 The space has a ton of plants.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီ့နေရာမှာ အပင်တွေအများကြီးရှိတယ်။
 
 8214
 The space is all concrete and is really ugly.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီ့နေရာမှာ ကွန်ကရစ် အပြည့်ပဲ ပြီးတော့ တကယ် ကြည့်ရဆိုးတယ်။
 
 8215
 The space is full of tropical flowers and beautiful trees.
-<MYANMAR UNICODE TRANSLATION HERE>
+နေရာက အပူပိုင်းဒေသပေါက်ပန်းတွေအပြည့်ပဲ ပြီးတော့ လှပတဲ့သစ်ပင်တွေရောပဲ။
 
 8216
 Members of the Citywide Friends of the Free Library never receive newsletters.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခမဲ့စာကြည့်တိုက်မှ တမြို့လုံးဆိုင်ရာမိတ်ဆွေများ အသင်းဝင်များသည် သတင်းစာလွှာများကို မည်သည့်အခါကမျှ လက်ခံမရရှိခဲ့ပါ။
+#REVIEW
 
 8217
 Members of the Citywide Friends of the Free Library receive newsletters consisting of 16 pages.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခမဲ့စာကြည့်တိုက်မှ တမြို့လုံးဆိုင်ရာမိတ်ဆွေများ အသင်းဝင်များသည် စာမျက်နှာ ၁၆မျက်နှာ ပါရှိသော သတင်းစာလွှာများကို လက်ခံရရှိသည်။
 
 8218
 Members of the Citywide Friends of the Free Library receive newsletters four times a year.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခမဲ့စာကြည့်တိုက်မှ တမြို့လုံးဆိုင်ရာမိတ်ဆွေများ အသင်းဝင်များသည် တနှစ်လျှင် လေးကြိမ် သတင်းစာလွှာများကို လက်ခံရရှိသည်။
 
 8219
 Fill out this membership form and send us $85.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ အသင်းဝင်ဖောင်ကို ဖြည့်ပြီး ငါတို့ဆီ ၈၅ ဒေါ်လာ လွှဲပေးပါ။
 
 8220
 Here is a receipt of your membership that you filled out last year.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီမှာ မနှစ်က ခင်ဗျားဖြည့်ခဲ့တဲ့ ခင်ဗျားအသင်းဝင်ကြေးရဲ့ ပြေစာပါ။
 
 8221
 Here's a membership application you can fill out.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီမှာ ခင်ဗျားဖြည့်လို့ရမယ့် အသင်းဝင်လျှောက်လွှာ တစောင်ပါ။
 
 8222
 The Salvation Army does not handle medical needs.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကယ်ဆယ်ရေးတပ်သည် ဆေးဘက်ဆိုင်ရာလိုအပ်ချက်များကို မဖြေရှင်းပါ။
 
 8223
 The Salvation Army donates money to people who need it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကယ်ဆယ်ရေးတပ်သည် ငွေကြေးလိုအပ်နေသော ပြည်သူများကို လှူဒါန်းသည်။
 
 8224
 The Salvation Army helps anyone who needs it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကယ်ဆယ်ရေးတပ်သည် အကူအညီလိုအပ်နေသူမှန်သမျှကို ကူညီသည်။
 
 8225
 Eugene Debs never left California.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယူဂျင်းဒဘ်စ်သည် မည်သည့်အခါကမျှ ကယ်လီဖိုးနီးယားမှ မထွက်ခွာခဲ့ပါ။
 
 8226
 Eugene Debs played sports at UI in Indiana.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယူဂျင်းဒဘ်စ်သည် အင်ဒီယားနားရှိ ယူအိုင်တွင် အားကစားလုပ်သည်။
 
 8227
 Eugene Debs was from Indiana.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယူဂျင်းဒဘ်စ်သည် အင်ဒီယားနားမှ ဖြစ်သည်။
 
 8228
 Most people gave more than $1000.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူအများစုက ဒေါ်လာ၁၀၀၀ထက် ပိုပေးကြတယ်။
 
 8229
 No one donated more than $500, which was disappointing.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘယ်သူမှ ဒေါ်လာ ၅၀၀ထက်ပိုပြီး မလှူကြဘူး၊ စိတ်ပျက်စရာပဲ။
 
 8230
 Someone gave over $2800.
-<MYANMAR UNICODE TRANSLATION HERE>
+တယောက်ယောက်က ဒေါ်လာ၂၈၀၀ကျော် ပေးခဲ့တယ်။
 
 8231
 A lot of affordable apartments were fixed up.
-<MYANMAR UNICODE TRANSLATION HERE>
+တတ်နိုင်တဲ့ တိုက်ခန်းတွေ အများကြီး ပြင်ဆင်ထားတယ်။
 
 8232
 The apartments were dumps and no one fixed them.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိုက်ခန်းတွေက အမှိုက်ပုံတွေလိုဖြစ်နေပြီး ဘယ်သူမှ မပြင်ကြဘူး။
 
 8233
 They gutted the apartments and redid them top to bottom.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ တိုက်ခန်းတွေကို ဖြိုဖျက်ပြီး အမိုးကနေ အောက်ခြေအထိ ပြန်ပြင်ခဲ့ကြတယ်။
 
 8234
 The IRT Education Programs help elderly people.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်အာတီပညာရေးအစီအစဉ်များသည် သက်ကြီးရွယ်အိုများကို ကူညီပေးသည်။
 
 8235
 The IRT Education Programs help kids by giving them education and help with tuition.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်အာတီပညာရေးအစီအစဉ်များသည် ကလေးငယ်များကို ပညာသင်ပေး၍ ကူညီပြီး ကျူရှင်ပေးခြင်းဖြင့်ကူညီသည်။
 
 8236
 The IRT Education Programs help kids.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်အာတီပညာရေးအစီအစဉ်များသည် ကလေးငယ်များကို ကူညီပေးသည်။
 
 8237
 I work with President Bush.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် သမ္မတဘုရှ်နဲ့ အတူ အလုပ်လုပ်တယ်။
 
 8238
 President Bush and I will be working with you on the new health initiatives.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျန်းမာရေးဆိုင်ရာ လုပ်ဆောင်ချက်အသစ်တွေမှာ သမ္မတဘုရှ်နဲ့ ကျွန်တော်က ခင်ဗျားနဲ့အတူ အလုပ်တွဲလုပ်ကြမယ်။
 
 8239
 President Bush said you should go away.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားထွက်သွားသင့်တယ်လို့ သမ္မတဘုရှ် ကပြောတယ်။
 
 8240
 He earned $400 a week packaging up products they sold.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ရောင်းတဲ့ ထုတ်ကုန်ပစ္စည်းတွေကို ထုတ်ပိုးတာ သူ တပတ်ကို ဒေါ်လာ၄၀၀ ဝင်တယ်။
 
 8241
 He earned money putting things in boxes.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပစ္စည်းတွေကို ထည့်စရာတွေထဲ ထည့်ပေးခြင်းဖြင့် သူ ပိုက်ဆံရတယ်။
 
 8242
 He never had a job.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ့မှာ တခါမှ အလုပ်မရှိခဲ့ဘူး။
 
 8243
 I have directed other plays since then.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲ့ဒီအချိန်ကတည်းက ကျွန်တော် တခြား ပြဇာတ်တွေကို စီစဉ်ညွှန်ကြားနေတာ။
 
 8244
 I've never worked as a stage director.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ဇာတ်ခုံဒါရိုက်တာ တယောက်အဖြစ် တခါမှ မလုပ်ဖူးဘူး။
 
 8245
 Several thousand junior high and high school students attended a play that I directed.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် စီစဉ်ညွှန်ကြားပုံဖော်ထားတဲ့ ပြဇာတ်ကို အလယ်တန်းနဲ့ အထက်တန်းကျောင်းသား ထောင်ပေါင်းများစွာ လာကြည့်ကြတယ်။
 
 8246
 I have to give you insight into why the Center on Philanthropy needs support from you.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပရဟိတစင်တာအနေနှင့် ခင်ဗျားဆီက အထောက်အပံ့တွေ ဘာကြောင့် လိုနေတယ်ဆိုတာ ကျွန်တော် ခင်ဗျားကို သိရှိနားလည်အောင်ရှင်းပြရမယ်။  
 
 8247
 I really need to tell you why Center on Philanthropy needs to have financial support from you before it's too late.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပရဟိတစင်တာအနေနှင့် ခင်ဗျားဆီက ငွေကြေးထောက်ပံ့မှုတွေရဖို့ ဘာကြောင့်လိုနေတယ်ဆိုတာ အချိန်မနှောင်းခင် ကျွန်တော် ခင်ဗျားကို ပြောပြဖို့ တကယ်လိုတယ်။
 
 8248
 I regret to inform you that the Center on Philanthropy does not need any support at this given time.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပရဟိတစင်တာအနေနှင့် မည်သည့် ပံ့ပိုးကူညီထောက်ပံ့မှုမျှ ယခုအချိန်တွင် မလိုအပ်သေးကြောင်း ခင်ဗျားကို အသိပေးအကြောင်းကြားရတာ ကျွန်တော်စိတ်မကောင်းပါဘူး။
 
 8249
 A quarter of our students get all their tuition paid for.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ကျောင်းသားတွေလေးပုံတပုံက သူတို့ရဲ့ ကျူရှင်စရိတ်အားလုံး ပေးဆောင်ပေးခြင်းခံရတယ်။
+#REVIEW
 
 8250
 A quarter of our students gets financial aid.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ရဲ့ ကျောင်းသားလေးပုံတပုံ က ငွေကြေးအကူအညီရကြတယ်။
 
 8251
 We don't give any students financial aid.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ မည်သည့် ကျောင်းသားကိုမျှ ငွေကြေးအကူအညီ မပေးပါဘူး။
 
 8252
 Just about every single camper is able to pay the fee to attend.
-<MYANMAR UNICODE TRANSLATION HERE>
+စခန်းသွင်းနေသူတယောက်ချင်းစီတိုင်းသည် တက်ရောက်ရန် အခကြေးငွေ ပေးဆောင်နိုင်တယ် ဆိုတာပါ။
 
 8253
 The campers that cannot afford to attend come from poor cities.
-<MYANMAR UNICODE TRANSLATION HERE>
+တက်ရောက်ရန်	မတတ်နိုင်သော စခန်းသွင်းနေသူများသည် ဆင်းရဲသော မြို့များမှ လာကြသည်။
 
 8254
 There is over 30% of campers that are not able to afford the fee to attend.
-<MYANMAR UNICODE TRANSLATION HERE>
+တက်ရောက်ရန် အခကြေးငွေ မတတ်နိုင်သော စခန်းသွင်းနေသူပေါင်း ၃၀ ရာခိုင်နှုန်းကျော်ရှိသည်။
 
 8255
 We don't need any more funds for our programs.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ အစီအစဉ်တွေ အတွက် နောက်ထပ် ရန်ပုံငွေတွေ ကျွန်တော်တို့ မလိုတော့ဘူး။
 
 8256
 We need $10,000 more to produce Lion King.
-<MYANMAR UNICODE TRANSLATION HERE>
+လိုင်းရွန်းကင်း ကို ထုတ်လုပ်ဖို့ ကျွန်တော်တို့ နောက်ထပ် ဒေါ်လာ ၁၀၀၀၀ လိုတယ်။
 
 8257
 We need your help to keep our theatrical productions running.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ရဲ့ ပြဇာတ်ထုတ်လုပ်ရေးတွေ အဆင်ပြေပြေဆက်လုပ်နိုင်ဖို့ ကျွန်တော်တို့ ခင်ဗျားရဲ့ အကူအညီလိုတယ်။
 
 8258
 Only the curriculum is changing, but the teachers will stay.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင်ရိုးညွှန်းတမ်းကသာ ပြောင်းနေပေမယ့်၊ ဆရာဆရာမတွေကတော့ ရှိနေမှာပါ။
 
 8259
 The change will be a new beginning.
-<MYANMAR UNICODE TRANSLATION HERE>
+အပြောင်းအလဲ ဆိုတာ အစအသစ် ဖြစ်လာလိမ့်မယ်။
 
 8260
 The change will not be the end of everything.
-<MYANMAR UNICODE TRANSLATION HERE>
+အပြောင်းအလဲဆိုတာ အရာအားလုံးရဲ့ အဆုံးသတ် မဟုတ်ဘူး။
 
 8261
 If you don't help us, we'll lose $10,000.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း ငါတို့ကို မကူညီရင်၊ ငါတို့ ဒေါ်လာ ၁၀၀၀၀ ဆုံးရှုံးတော့မယ်။
 
 8262
 We don't need your help, we have everything we need.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ခင်ဗျား အကူအညီ မလိုအပ်ဘူး၊ ကျွန်တော်တို့မှာ ကျွန်တော်တို့ လိုအပ်တာ အကုန်ရှိတယ်။
 
 8263
 We will lose some money if you don't step in.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား မပါဝင်ရင် ကျွန်တော်တို့ ငွေတွေဆုံးရှုံးတော့မယ်။
 
 8264
 Heart cells can be transplanted in animals.
-<MYANMAR UNICODE TRANSLATION HERE>
+နှလုံးဆဲလ်များကို တိရိစ္ဆာန်များတွင် အစားထိုးနိုင်သည်။
 
 8265
 No one has ever transplanted heart cells, and it will never happen in the future.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘယ်သူမှ နှလုံးဆဲလ် အစားမထိုးဖူးသလို ၊ ဒါမျိုးလည်း နောင်အနာဂတ်မှာ ဘယ်တော့မှာ ဖြစ်မှာမဟုတ်ဘူး။
 
 8266
 Pigs had heart cells transplanted first.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝက်တွေမှာ ပထမဆုံး နှလုံးဆဲလ် အစားထိုးထားသည်။
 
 8267
 School have more money than they could ever need for the arts.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျောင်းတွေမှာ အနုပညာကဏ္ဍ အတွက် ပုံမှန်လိုအပ်တဲ့ ငွေထက်ပိုပြီးရှိတယ်။
 
 8268
 Schools don't have big budgets for the arts.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျောင်းတွေမှာ အနုပညာကဏ္ဍအတွက် ဘတ်ဂျတ် ကြီးကြီးမားမား မရှိဘူး။
 
 8269
 Schools have had their arts programs cut by 25% over the past five years.
-<MYANMAR UNICODE TRANSLATION HERE>
+လွန်ခဲ့သည့် ငါးနှစ်ကျော် အတွင်းတွင် ကျောင်းများသည် ၎င်းတို့၏ အနုပညာအစီအစဉ်များကို ၂၅ရာခိုင်နှုန်းလျှော့ချခဲ့ကြသည်။
 
 8270
 Our theater covers all its actors' medical insurance.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ပြဇာတ်ရုံက သရုပ်ဆောင်တွေရဲ့ ဆေးဝါးအာမခံအားလုံးကို ကာကွယ်ပေးပါတယ်။
+#REVIEW
 
 8271
 There is more than one not-for-profit theater in the city.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြို့ထဲမှာ အကျိုးအမြတ်မယူတဲ့ ပြဇာတ်ရုံ တရုံမကရှိတယ်။
 
 8272
 We are the only theater in the city that does not pay its actors.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့က မြို့ထဲမှာ သရုပ်ဆောင်တွေကို အခကြေးငွေမပေးတဲ့ တခုတည်းသော ပြဇတ်ရုံပဲ။
 
 8273
 Since you have never supported the Lowell Nussbaum Society, we encourage you to do so now.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား လိုဝဲလ်နပ်စ်ဘောင်မ် အဖွဲ့အစည်းကို ဘယ်တုန်းကမှ မထောက်ပံ့ဖူးတဲ့အတွက် ၊ အခု အဲ့လို လုပ်ဖို့ ကျွန်တော်တို့ ခင်ဗျားကို တိုက်တွန်းတာပါ။
 
 8274
 The Lowell Nussbaum Society has benefited from your support for the past decade.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြီးခဲ့တဲ့ ဆယ်စုနှစ်အတွင်းမှာ ခင်ဗျားတို့ရဲ့ ပံ့ပိုးကူညီထောက်ပံ့မှုတွေကနေ လိုဝဲလ်နပ်စ်ဘောင်မ် အဖွဲ့အစည်းက အကျိုးဖြစ်ထွန်းနေတာပါ။
 
 8275
 You have been known to support the Lowell Nussbaum Society.
-<MYANMAR UNICODE TRANSLATION HERE>
+လိုဝဲလ်နပ်စ်ဘောင်မ် အဖွဲ့အစည်းကို ပံ့ပိုးကူညီဖို့ ခင်ဗျား သိပြီးပြီ။
 
 8276
 We are guaranteed to have a festival for 10 years, no matter what.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘာပဲဖြစ်ဖြစ်၊ ပွဲတော်ကို ၁၀နှစ်တိုင်တိုင် ကျင်းပဖို့ ကျွန်တော်တို့ အာမခံပါတယ်။
 
 8277
 We might not have a festival if we don't have a lot of attendance this year.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီနှစ် ကျွန်တော်တို့မှာ ပွဲတက်သူ အများကြီး မရှိရင် ကျွန်တော်တို့ ပွဲတော်ကျင်းပနိုင်မှာ မဟုတ်လောက်ဘူး။
 
 8278
 We might not have another festival next year.
-<MYANMAR UNICODE TRANSLATION HERE>
+နောက်နှစ်မှာ ကျွန်တော်တို့ နောက်ထပ် ပွဲတော်ကျင်းပနိုင်မှာ မဟုတ်လောက်ဘူး။
 
 8279
 If you give more than $100, you get some money back in a tax credit.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား ဒေါ်လာ ၁၀၀ထက်ပိုပေးရင်၊ ခင်ဗျား အခွန်ခရက်ဒစ်ထဲမှာ ငွေအနည်းငယ် ပြန်ရမယ်။
 
 8280
 The governor just approved the tax credit for people who donate more than $100.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒေါ်လာ ၁၀၀ ထက်ပိုပြီးလှူတဲ့သူတွေအတွက် အုပ်ချုပ်ရေးမှူးက အခွန်ခရက်ဒစ် အတည်ပြုလိုက်တယ်။
 
 8281
 You have to donate more than $1000 to get a tax credit.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခွန်ခရက်ဒစ်ရဖို့ ခင်ဗျား ဒေါ်လာ ၁၀၀၀ထက် ပိုလှူရမယ်။
 
 8282
 It would be great if that would keep going.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီအတိုင်းဆက်လုပ်ဖြစ်ရင် ကောင်းလိမ့်မယ်။
 
 8283
 It would be great if the fundraising lasted until July.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရန်ပုံငွေစုဆောင်းတာ ဇူလိုင်လအထိ ကြာမယ်ဆို ကောင်းလိမ့်မယ်။
 
 8284
 It would be great if this could just stop right now!
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါ အခုချက်ချင်းရပ်နိုင်ရင် ကောင်းလိမ့်မယ်။
 
 8285
 FOREVER PLAID helps convey a sense of tradition and family.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖော်အဲဗားပလဲ့က်ဒ်သည် ထုံးတမ်းစဉ်လာနှင့် မိသားစုခံစားချက်ကို ဖော်ညွှန်းပေးသည်။
 
 8286
 FOREVER PLAID would be a good name for a dystopian novel, because it evokes a sense of horror.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖော်အဲဗားပလဲ့က်ဒ်က ဒစ်စတိုပီယံ ဝတ္ထု အနေနဲ့ နာမည်ကောင်းတခုပဲဖြစ်လိမ့်မယ်၊ ဘာဖြစ်လို့လဲဆိုတော့ ဒါက ကြောက်ရွံ့ထိန်လန့်တဲ့ခံစားချက်ကို ဖြစ်ပေါ်စေတယ်။
 
 8287
 Our CEO came up with the name FOREVER PLAID.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ စီအီးအိုက ဖော်အဲဗားပလဲ့က်ဒ်ဆိုတဲ့အမည်နဲ့ အတူတက်လာတယ်။
 
 8288
 The center said no visitors could come.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဧည့်သည်များလာလို့မရဘူးလို့ ဗဟိုဌာန/စင်တာက ဆိုပါတယ်။
+#REVIEW
 
 8289
 The center was happy to greet 100 South African college students in July.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဇူလိုင်လမှာ တောင်အာဖရိကကျောင်းသား၁၀၀ကို ကြိုဆိုနှုတ်ဆက်ရလို့ စင်တာအနေနဲ့ ဝမ်းသာပျော်ရွှင်ပါတယ်။
 
 8290
 The center was happy to have so many guests come to Indiana.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်ဒီယားနားကို ရောက်ရှိလာတဲ့ ဧည့်သည်အများကြီးရှိလို့ စင်တာအနေနဲ့ ဝမ်းသာပျော်ရွှင်ပါတယ်။
 
 8291
 Do you want some balance in your life?
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းဘဝမှာ ဟန်ချက်ညီမှုကို မင်းလိုချင်လား။
 
 8292
 We can help you get some balance right away.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟန်ချက်ညီမှုကို ရဖို့ ကျွန်တော်တို့ ခင်ဗျားကို ချက်ချင်းကူညီနိုင်တယ်။ /လက်ကျန်ငွေ  ရဖို့ ကျွန်တော်တို့ ခင်ဗျားကို ချက်ချင်းကူညီနိုင်တယ်။
+#AMBIGUOUS 
 
 8293
 You don't need balance, you just need to work harder.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား ဟန်ချက်ညီဖို့မလိုဘူး၊ ခင်ဗျား ပိုကြိုးစားဖို့ပဲလိုတယ်။
 
 8294
 Dr. Field is the most important scientist at the med school.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒေါက်တာဖီးလ်ဒ်သည် ဆေးကျောင်းတွင် အရေးအပါဆုံး သိပ္ပံပညာရှင်တယောက် ဖြစ်သည်။
 
 8295
 Dr. Field works as a dentist at University of Florida.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒေါက်တာဖီးလ်ဒ်သည် ဖလော်ရီဒါတက္ကသိုလ်တွင် သွားဆရာဝန်တယောက်အဖြစ် အလုပ်လုပ်သည်။
 
 8296
 Dr. Field works at IU's med school.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒေါက်တာဖီးလ်ဒ်သည် အိုင်ယူ ဆေးကျောင်းတွင် အလုပ်လုပ်သည်။
 
 8297
 Anything you donate before the end of 1998 will be matched by the IMA.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၉၉၈ ခုနှစ် နှစ်ကုန် မတိုင်ခင် ခင်ဗျား လှူဒါန်းသမျှသည် အိုင်အမ်အေနှင့် ကိုက်ညီလိမ့်မည်။
 
 8298
 The IMA will stop matching pledges on December 25, 1998.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၉၉၈ခုနှစ် ဒီဇင်ဘာလ ၂၅ရက်နေ့တွင် အိုင်အမ်အေသည် ကတိကဝတ်များနှင့် ကိုက်ညီအောင်ပြုလုပ်ခြင်းများကို ရပ်တန့်တော့မည်။
 
 8299
 The IMA's Development Committee has matched $10,000 in donations so far.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်အမ်အေရဲ့ ဖွံ့ဖြိုးတိုးတက်မှုကော်မတီ က ခုချိန်မှာ အလှူအတန်းမှာ ဒေါ်လာ ၁၀၀၀၀ရှိနေပြီ။
 
 8300
 The slide shows are all about biology.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆလိုက်ရှိုးများသည် အားလုံး ဇီဝဗေဒ အကြောင်းများဖြစ်သည်။
 
