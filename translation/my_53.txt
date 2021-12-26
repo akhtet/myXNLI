@@ -268,13 +268,11 @@ The Arabella often took on only the finest of crew members.
 
 5268
 The Arabella was no where to be seen in the Port Royal harbor as it was too small to fit the large ship.
-ထိုအရာက သင်္ဘောကြီးများနှင့် အံဝင်ခွင်ကျဖြစ် ရန် အလွန်သေးငယ် သောကြောင့် အာရာဘဲလာသည် Port Royal ဆိပ်ကမ်းတွင် မြင်ဖို့ရန် အဲ့နေရာမှာ မရှိခဲ့ဘူး
-#Port Royal
+ထိုအရာက သင်္ဘောကြီးများနှင့် အံဝင်ခွင်ကျဖြစ် ရန် အလွန်သေးငယ် သောကြောင့် အာရာဘဲလာသည် ပေါ့ ရိုင်ရယ် ဆိပ်ကမ်းတွင် မြင်ဖို့ရန် အဲ့နေရာမှာ မရှိခဲ့ဘူး
 
 5269
 The ship named Arabella had docked at the great harbor of Port Royal.
-အာရာဘဲလာ အမည်ရှိ အဆိုပါ သင်္ဘောသည် Port Royal ၏ ကြီးမားသော ဆိပ်ကမ်းတွင် ဆိုက်ကပ်ခဲ့သည်။
-#Port Royal
+အာရာဘဲလာ အမည်ရှိ အဆိုပါ သင်္ဘောသည် ပေါ့ ရိုင်ရယ် ၏ ကြီးမားသော ဆိပ်ကမ်းတွင် ဆိုက်ကပ်ခဲ့သည်။
 
 5270
 He gave a big hug to Lord Julian.
