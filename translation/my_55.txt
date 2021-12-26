@@ -1,400 +1,399 @@
 5401
 I will go ashore in the small boat.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ လှေငယ်နဲ့ ကမ်းပေါ်သို့ သွားမယ်။
 
 5402
 He said that he didn't have to go to Colonel Bishop to get orders.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက အမိန့် ပေး ရန် ကိုလိုနယ် ဘစ်လျှော့ ဆီသို့ သွားဖို့ မရှိခဲ့ပါဘူးလို့ သူက ပြောခဲ့တယ်။
 
 5403
 He told them he would go to Colonel Bishop for his orders.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် သူ၏ အမိန့် အတွက် ကိုလိုနယ် ဘစ်လျှော့ ဆီ သွားလိမ့်မည် ဟု သူက သူတို့ကို ပြောခဲ့သည်။
 
 5404
 He told them he would go to Colonel Bishop tomorrow for his orders.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက သူ၏ အမိန့် အတွက် မနက်ဖြန်မှာ ကိုလိုနယ် ဘစ်လျှော့ ဆီ သွားလိမ့်မည် ဟု သူက သူတို့ကို ပြောခဲ့သည်။
 
 5405
 Captain Blood hastily read what the other people were thinking.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကပ္ပတိန် ဘလတ်သည် အခြားသူများက တွေးတော့နေသော အရာကို အလျင်အမြန် ဖတ်ခဲ့သည်။
 
 5406
 Captain Blood, for the life of him, could not figure out what was on their minds.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကပ္ပတိန် ဘလတ်သည် ၊ သူ၏ ဘဝ အတွက် ၊ သူတို့ စိတ်ထဲမှာ ဘာ ဖြစ်နေတယ်လို့ မဆုံးဖြတ်နိုင်ခဲ့ဘူး။
 
 5407
 It is true that Captain Blood knew how to read people from taking Psychology back at his university.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကပ္ပတိန် ဘလတ်က သူ့တက္ကသိုလ်မှာ စိတ်ပညာကို ပြန်ယူပြီး လူတွေကို ဘယ်လိုဖတ်ပြမယ်ဆိုတာကို သိခဲ့တာ အမှန်တရား ဖြစ်ပါတယ်။
 
 5408
 She said that she does her best only on Fridays.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် သောကြာနေ့မှ သာ သူမ၏ အကောင်းဆုံး ကို ပြုလုပ်သည် ဟု သူမက ပြောခဲ့သည်။
 
 5409
 She said that she does her best.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် သူမ၏ အကောင်းဆုံး ကို ပြုလုပ်ခဲ့သည်ဟု သူမက ပြောခဲ့သည်။
 
 5410
 She said that she never does her best.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် ဘယ်တော့မှ အကောင်းဆုံးကို မလုပ်ဘူး ဟု သူမက ပြောခဲ့သည်။
 
 5411
 Colonel Bishop likely did not have anything to obtain.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကိုလိုနယ် ဘစ်လျှော့သည် တစ်ခုခု ရရှိ ရန် ဖြစ်နိုင်ဖွယ် မရှိခဲဘူး။
 
 5412
 Colonel Bishop said something that was to be apprehended with utmost disgust.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကိုလိုနယ် ဘစ်လျှော့က အလွန် မနှစ်မြို့မှုနှင့် အဖမ်းခံရမည် ဖြစ်သော တစ်စုံတစ်ရာကို ပြောခဲ့သည်။
 
 5413
 The Bishop was supposed to apprehend a criminal.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘစ်လျှော့သည် ရာဇ၀တ်ကောင် တစ်ယောက်ကို ဖမ်းရန် ထင်ခဲ့သည်။
 
 5414
 He never questioned whether the mischief was your doing.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပျက်စီးခြင်းက မင်းလုပ်သလားလို့ သူက ဘယ်တော့မှ မမေးခဲ့ဘူး။
 
 5415
 He questioned whether or not if the mischievous acts were caused by you.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရိုင်းစိုင်းသော လုပ်ရပ်များသည် မင်း ပြုလုပ်ခဲ့တာ ဟုတ် မဟုတ် သူက မေးခွန်းထုတ်ခဲ့သည်။
 
 5416
 The source of the mischief was not yours alone.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပျက်စီးခြင်းရဲ့ အရင်းအမြစ်က မင်း တစ်ယောက်တည်း မဟုတ်ဘူး။
 
 5417
 He had approved the shrewd advocacy.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက လိမ္မာပါးနပ်သော ထောက်ခံမှုကို သဘောကျခဲ့သည်။
 
 5418
 He most certainly did not approve of the shrewd advocacy.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက လိမ္မာပါးနပ်သော ထောက်ခံမှုကို သဘောမကျတာတော့ အသေချာဆုံးပဲ။
 
 5419
 He only approved it because it was the right thing to do at the time.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းသည် ထိုအချိန်မှာ ပြုလုပ် ရန် မှန်ကန်သော အရာ ဖြစ်ခဲ့သောကြောင့် သူသည် ထိုအရာကို သာ  သဘောကျခဲ့သည်။
 
 5420
 He spoke with a soft tone.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက နူးညံ့သော လေသံ တစ်ခု ဖြင့် ပြောခဲ့သည်။
 
 5421
 Jeremy shouted very loudly to get their attention.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျယ်ရမီသည် သူတို့၏ အာရုံစိုက်မှု ရရှိရန် အလွန် ကျယ်လောင်စွာ အော်ခဲ့သည်။
 
 5422
 Jeremy was a pirate for his entire life.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျယ်ရမီသည် သူ၏ ဘဝ တစ်ခုလုံး ပင်လယ်ဓားပြ တစ်ဦး ဖြစ်ခဲ့သည်။
 
 5423
 Julian got off his mount as he told him that he had nothing to show.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ့မှာ ပြသ ရန် ဘာမှ မရှိပါ ဟု သူက သူ့ကို ပြောခဲ့ သောကြောင့် ဂျူလီယန်က သူ၏ တောင်ပေါ်ကနေ ဆင်းခဲ့သည်။
 
 5424
 Lord Julian had ridden his companion.
-<MYANMAR UNICODE TRANSLATION HERE>
+သခင် ဂျူလီယန်သည် သူ၏ သွေးသောက်ကို စီးနင်းသွားခဲ့သည်။
 
 5425
 The companion of Lord Julian was a horse.
-<MYANMAR UNICODE TRANSLATION HERE>
+သခင် ဂျူလီယန် ၏ သွေးသောက်သည် မြင်း တစ်ကောင် ဖြစ်ခဲ့သည်။
 
 5426
 Remaining silent, Wolverstone realized that it was impossible for them to get into range.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိတ်တိတ်ဆိတ်ဆိတ်နေ၍ ၊ ဝူဗာစတုန်းက ထိုအရာသည် သူတို့အတွက် အကွာအဝေးကို ရောက်ရန် မဖြစ်နိုင်ကြောင်း သဘောပေါက်ခဲ့သည်။
 
 5427
 Wolverstone attempted to captain his ship and was really close to another battle.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝူဗာစတုန်းသည် သူ၏ သင်္ဘောကို ဦးဆောင်ရန် ကြိုးပမ်းခဲ့ ပြီးနောက် အခြား တိုက်ပွဲ နှင့် လုံးဝ နီးစပ်ခဲ့သည်။
 
 5428
 Wolverstone let out a curse as they realized that there was another half-mile before they were in range.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝူဗာစတုန်းသည် သူတို့ အကွာအဝေးသို့မရောက်မီ နောက်ထပ်မိုင်ဝက်ခန့်ရှိနေသည်ကို သိရှိသဖြင့် ကျိန်စာတစ်ခုထုတ်ခဲ့သည်။
 
 5429
 Even women think that he over-does his chivalry.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမျိုးသမီးတွေကတောင် သူသည် သူ၏ မှူးမတ်တွေကို လွန်လွန်ကဲကဲဖြစ်နေတယ်လို့ ထင်တယ်။
 
 5430
 He certainly goes overboard with his chivalry.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် သူ၏ မှူးမတ်များ နှင့်အတူ သင်္ဘောပေါ်သို့ သေချာစွာ သွားသည်။
 
 5431
 He needs to learn to be a little more chivalrous.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် အနည်းငယ် ပိုပြီး လိမ္မာဖို့ရန် သင်ယူဖို့ လိုအပ်တယ်။
 
 5432
 He aimed his telescope at the figure in the morning.
-<MYANMAR UNICODE TRANSLATION HERE>
+မနက်ခင်းတွင် သူသည် ပုံသဏ္ဍာန်ကို သူ၏ မှန်ပြောင်းဖြင့် ချိန်ရွယ်ထားသည်။
 
 5433
 He aimed his telescope at the figure.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် ပုံသဏ္ဍာန်ကို သူ၏ မှန်ပြောင်းဖြင့် ချိန်ရွယ်ထားသည်။
 
 5434
 He broke his telescope and therefore couldn't look at anything with it.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ၏ တယ်လီစကုပ် ကျိုးသွားခဲ့ သောကြောင့် သူသည် ထိုအရာနှင့် ဘာကိုမှ မကြည့်နိုင်တော့ဘူး။
 
 5435
 I also rescued 15 other people.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် တခြားလူ ၁၅ ယောက်ကိုလည်း ကယ်ဆယ်ခဲ့တယ်။
 
 5436
 I rescued Miss Bishop and his lordship together.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် မစ် ဘစ်လျှော့ နှင့် သူ၏ သခင်ကို အတူတကွ ကယ်ဆယ်ခဲ့သည်။
 
 5437
 Miss Bishop rescued me and his lordship.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ် ဘစ်လျှော့ သည် ငါ နဲ့ သူ၏ သခင်ကို ကယ်ဆယ်ခဲ့တယ်။
 
 5438
 Blood was asking because he was very intent on doing things his way.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက သူ့နည်းလမ်းနဲ့ ပစ္စည်းတွေ ပြုလုပ်ခြင်းကို အလွန် စိတ်အားထက်သန်နေ သောကြောင့် ဘလတ်က မေးမြန်းခဲ့သည်။
 
 5439
 Blood, without care, asked if he could.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက ဖြစ်နိုင်လျှင် ၊ ဘလတ်က ဂရုမစိုက်ဘဲ ၊ မေးမြန်းခဲ့တယ်
 
 5440
 But what if he can not? asked Blood, politely.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါပေမယ့် သူ မလုပ်နိုင်လျှင် ဘာလုပ်မလဲ လို့ ဘလတ်က ယဉ်ကျေးစွာ ၊ မေးမြန်းခဲ့သည်။
 
 5441
 I might serve the king, but I won't be happy about it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်က ဘုရင့်ကို အလုပ်အကျွေးပြုနိုင် သော်လည်း ၊ ဒါနဲ့ ပတ်သတ်ပြီး ကျွန်တော် မပျော်ရွှင်ခဲ့ဘူး။
 
 5442
 I will happily serve the king!
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်က ဘုရင့်ကို ပျော်ရွှင်စွာ အလုပ်အကျွေးပြုပါမယ်!
 
 5443
 I will never serve the king!
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်က ဘုရင့်ကို ဘယ်တော့မှ အလုပ်အကျွေးမပြုဘူး!
 
 5444
 Peter had an idea so genius that anyone would agree.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပီတာသည် မည်သူမဆို သဘောတူလိမ့်မည်ဖြစ်သော ဉာဏ်ကြီးရှင် ကဲ့သို့သော အကြံဉာဏ် တစ်ခု ရှိခဲ့သည်။
 
 5445
 Peter thought he could survive jumping off of a 3 story building.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပီတာသည် ၃ထပ် အဆောက်အဦးတစ်ခုမှ ခုန်ချခြင်းက သူ အသက်ရှင်နိုင်မည်ဟု ထင်ခဲ့သည်။
 
 5446
 Peter was having a thought that seemed ignorant.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပီတာတွင် အသိပညာကင်းမဲ့ ဟန်ဖြင့် အတွေးတစ်ခု ရှိနေခဲ့သည်။
 
 5447
 Captain Blood and Lord Julian stood forty feet apart.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကပ္ပတိန် ဘလတ် နှင့် သခင် ဂျူလီယန်တို့သည် ပေလေးဆယ် အကွာတွင် မတ်တပ်ရပ်နေခဲ့တယ်။
 
 5448
 Captain Blood stood with Lord Julian next to him.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကပ္ပတိန် ဘလတ်သည် သူ့ဘေးတွင် သခင် ဂျူလီယန် နှင့်အတူ မတ်တပ်ရပ်နေခဲ့တယ်။
 
 5449
 Lord Julian was stading on Captain Blood's right.
-<MYANMAR UNICODE TRANSLATION HERE>
+သခင် ဂျူလီယန်သည် ကပ္ပတိန် ဘလတ်၏ ညာဖက်တွင် မတ်တပ်ရပ်နေခဲ့တယ်။
 
 5450
 As the boat collided with the Arabella, there was a loud sound.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ လှေသည် အာရာဘဲလာနှင့် တိုက်မိသောကြောင့် ၊ ကျယ်လောင်သော အသံ တစ်ခု ဖြစ်ခဲ့သည်။
 
 5451
 The Arabella is a boat with a red exterior.
-<MYANMAR UNICODE TRANSLATION HERE>
+အာရာဘဲလာသည် အပြင်ပန်း အနီရောင်နှင့် လှေ တစ်စင်း ဖြစ်ပါသည်။
 
 5452
 The boat had purposefully collided with the Arabella knowing it was there.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ လှေသည် အာရာဘဲလာ ထိုနေရာတွင် ရှိနေသည်ကို သိသိနှင့် ရည်ရွယ်ချက်ရှိရှိ ဝင်တိုက်ခဲ့သည်။
 
 5453
 Are you not going? He asked.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း မသွားဘူးလား လို့ သူက မေးခဲ့သည်။
 
 5454
 Please do not go! He begged.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျေးဇူးပြုပြီး မသွားနဲ့! လို့ သူက တောင်းပန်ခဲ့သည်။
 
 5455
 Why are you not leaving right now? He grunted.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း ဘာကြောင့် အခုချက်ချင်း မထွက်တာလဲ ဟု သူက အော်ဟစ်လိုက်သည်။
 
 5456
 She had turned towards him despite motioning to leave.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထွက်ခွာရန် ကိုယ်ဟန်လက်ဟန်ပြနေ သော်လည်း သူမသည် သူ့ ဆီသို့ လှည့်လာခဲ့သည်။
 
 5457
 She quickly ran away from him, never to face him again.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် သူ့ဆီမှ လျင်မြန်စွာ ပြေးသွားပြီးနောက် ၊ ဘယ်တော့မှ  သူ့ကို ထပ် မတွေ့ရတော့ပေ။
 
 5458
 Though offended, she had turned towards him to say one last goodbye.
-<MYANMAR UNICODE TRANSLATION HERE>
+စိတ်မကျေမနပ်ဖြစ်ခဲ့ သော်လည်း ၊ သူမသည် သူ့ကို နောက်ဆုံး ဂွတ်ဘိုင် ဟု ပြောရန် လှည့်လာခဲ့သည်။
 
 5459
 An explanation is offered right away.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖြေရှင်းချက် တစ်ခုကို ချက်ချင်း ပေးပါ။
 
 5460
 He said that an explanation is offered after some time.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချိန် အချို့ကြာ ပြီးမှ ဖြေရှင်းချက် တစ်ခုကို ပေးခဲ့သည် ဟု သူက ပြောခဲ့သည်။
 
 5461
 While it takes some time, there is always an explanation given.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချိန် အချို့ ယူရစဉ်တွင် ၊ ဖြေရှင်းချက် တစ်ခုကို အမြဲ ပေးနေသည်။
 
 5462
 He drinks blood.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက သွေးကို သောက်သည်။
 
 5463
 He has never consumed blood.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် သွေးကို ဘယ်တုန်းကမှ မသောက်ခဲ့ပါ။
 
 5464
 He only drinks women's blood.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် အမျိုးသမီးများ၏ သွေးကို သာလျှင် သောက်သုံးသည်။
 
 5465
 Everything I say is true.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ပြောတဲ့ အရာရာတိုင်းက မှန်ကန်တယ်။
 
 5466
 It is absolutely false.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက လုံးဝ မှားတယ်။
 
 5467
 It is true.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက မှန်ကန်တယ်။
 
 5468
 As the Miss never showed up, there was no need to call in the boat.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလှမယ်သည် ဘယ်တုန်းကမှ မထင်ရှားခဲ့ သောကြောင့် ၊ လှေပေါ်တွင် ခေါ်ရန် မလိုအပ်ခဲ့ဘူး။
 
 5469
 Miss had arrived rather early and as a result, the boat had yet to come ashore.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလှမယ်သည် စောစောရောက်လာပြီး ရလဒ်အနေနဲ့ ၊ လှေသည် ကမ်းပေါ်ကို မရောက်သေးပါဘူး။
 
 5470
 The Miss had finally arrived leaving only a need to signal the boat.
-<MYANMAR UNICODE TRANSLATION HERE>
+နောက်ဆုံးတွင် အလှမယ်သည် လှေကို အချက်ပြရန် လိုအပ်ချက် တစ်ခု သာလျှင် ကျန်ရှိ၍ ရောက်ရှိလာခဲ့သည်။
 
 5471
 He found little safety through reading the passage on the page.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် စာမျက်နှာပေါ်ရှိ စာပိုဒ်များကို ဖတ်ရှုခြင်း မှတဆင့် လုံခြုံမှု အနည်းငယ်ကို တွေ့ရှိခဲ့သည်။
 
 5472
 The language described in the pages are of a language native to the land.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာမျက်နှာများတွင် ဖော်ပြထားသော ဘာသာစကားသည် ဒီမြေ၏ အမိဘာသာစကား တစ်ခု ဖြစ်သည်။
 
 5473
 There was some foreign language in the pages before him.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ့ရှေ့က စာမျက်နှာတွေမှာ နိုင်ငံခြား ဘာသာစကား တချို့ ရှိခဲ့တယ်။
 
 5474
 I admit that I have disagreed with Wolverstone before.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် အရင်က ဝူဗာစတုန်း နဲ့ သဘောမတူဖူးကြောင်း ကျွန်တော် ဝန်ခံပါတယ်။
 
 5475
 I completely side with Wolverstone on this matter.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်က ဒီကိစ္စမှာ လုံးဝ ဝူဗာစတုန်း ဖက်ကပါ။
 
 5476
 I have never heard of a person called Wolverstone.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝူဗာစတုန်းလို့ ခေါ်တဲ့ လူ တစ်ယောက်ကို ကျွန်တော် ဘယ်တုန်းကမှ မကြားဖူးဖူး။
 
 5477
 Ogle appears to be rather foolish, as one claimed.
-<MYANMAR UNICODE TRANSLATION HERE>
+အို့ဂဲလ်သည် တစ်ယောက်က ပြောခဲ့သည့် အတိုင်း ၊ အလွန် မိုက်မဲပုံ ပေါ်သည်။
 
 5478
 Ogle was foolish in believing in the existence of Santa Claus.
-<MYANMAR UNICODE TRANSLATION HERE>
+အို့ဂဲလ်က ဆန်တာ ကလော့ တည်ရှိခြင်းကို ယုံကြည်ရာတွင်  မိုက်မဲခဲ့သည်။
 
 5479
 One said that Ogle was certainly the smartest man he had ever met.
-<MYANMAR UNICODE TRANSLATION HERE>
+အို့ဂဲလ်သည် သူတွေ့ဖူးသမျှထဲမှာ ဉာဏ်အကောင်းဆုံး အမျိုးသား ဖြစ်တယ်ဆိုတာ သေချာတယ် လို့ တစ်ယောက်က ပြောခဲ့သည်။
 
 5480
 It should be controlled by someone.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထိုအရာကို တစ်စုံတစ်ယောက်က ထိန်းချုပ် သင့်တယ်။
 
 5481
 See that no one mans it for me.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့အတွက် ယောက်ျားလေးသူငယ်ချင်း တစ်ယောက်မှ မရှိဘူးဆိုတာကို ကြည့်ပါ။
 
 5482
 The boat's cannons were currently unmanned.
-<MYANMAR UNICODE TRANSLATION HERE>
+လှေ၏ အမြောက်များမှာ လက်ရှိတွင် မောင်းသူမဲ့ ဖြစ်နေခဲ့သည်။
 
 5483
 Blood got into a bathtub and sailed away.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘလတ်က ရေချိုးကန် တစ်ခုထဲ ဆင်းသွား ပြီး အဝေးသို့ ရွက်လွှင့်ခဲ့သည်။
 
 5484
 Blood got into a boat.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘလတ်က လှေ တစ်စီး ပေါ် တက်သွားတယ်။
 
 5485
 Blood got into a purple boat.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘလတ်က ခရမ်းရောင်ရှိသော လှေ တစ်စီး ပေါ် တက်သွားတယ်။
 
 5486
 He encountered Miss Bishop.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် မစ် ဘစ်လျှော့ နှင့် ပက်ပင်းတိုးခဲ့သည်။
 
 5487
 He never encountered Miss Bishop.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် မစ် ဘစ်လျှော့ နှင့် ဘယ်တုန်းကမှ မတွေ့ခဲ့ပါ။
 
 5488
 Miss Bishop was wearing red shoes.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ် ဘစ်လျှော့သည် အနီရောင် ဖိနပ်ကို ဝတ်ဆင်ထားခဲ့သည်။
 
 5489
 He told Ogle that his station is always in the galley.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ၏ နေရာသည် ပြတိုက်တွင် အမြဲတမ်း ရှိပါတယ် ဆိုတာကို သူက အို့ဂဲလ်ကို ပြောခဲ့သည်။
 
 5490
 He told Ogle that his station is on the gun-deck.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ၏ နေရာသည် သေနတ်တွေထားတဲ့အခန်းမှာ ပါ ဆိုတာကို သူက အို့ဂဲလ်ကို ပြောခဲ့သည်။
 
 5491
 Ogle is always stationed on the gun-deck.
-<MYANMAR UNICODE TRANSLATION HERE>
+အို့ဂဲလ်က သေနတ်တွေထားတဲ့အခန်းမှာ အမြဲတမ်း ထားသည်။
 
 5492
 Captain Blood was nowhere to be found.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကပ္ပတိန် ဘလတ်ကို ဘယ်နေရာမှာမှ ရှာမတွေ့ဘူး။
 
 5493
 He could see Captain Blood.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ ကပ္ပတိန် ဘလတ်ကို မြင်နိုင်သည်။
 
 5494
 The officer had a mustache.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရာရှိမှာ နှုတ်ခမ်းမွှေး ရှိခဲ့တယ်။
 
 5495
 Never once did she turn around to look at him.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် သူ့ကို ကြည့် ရန် လှည့်ခဲ့တာမျိုး တစ်ကြိမ်မှ မလုပ်ခဲ့ပါ။
 
 5496
 She was walking towards him, coming to a halt once near.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် သူ့ ဆီသို့ လမ်းလျှောက်လာနေရင်း ၊ အနားမှာ ချက်ချင်း ရပ်တန့်သွားခဲ့သည်။
 
 5497
 She went ahead of him by walking in the same direction.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် တူညီသော ဦးတည်ရာကို လမ်းလျှောက်ခြင်း ဖြင့် သူ့ကို ဉီးဆောင် သွားခဲ့သည်။
 
 5498
 Wolverstone did not laugh.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝူဗာစတုန်းက မရယ်မောခဲ့ဘူး။
 
 5499
 Wolverstone laughed.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝူဗာစတုန်းက ရယ်မောခဲ့သည်။
 
 5500
 Wolverstone thought that was funny.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+ဝူဗာစတုန်းက အဲဒါကို ရယ်စရာလို့ ထင်ခဲ့တယ်။
