@@ -64,7 +64,7 @@ It is an honorable service because it's about saving lives.
 
 5017
 It isn't an honorable service at all, it's very embarrassing!
-ဒါဟာ ဂုဏ်ယူစရာကောင်းတဲ့ ဝန်ဆောင်မှု တစ်ခု လုံးဝ မဟုတ်ပါ ၊ အလွန်ရှက်စရာကောင်းပါတယ်။
+ဒါဟာ ဂုဏ်ယူစရာကောင်းတဲ့ ဝန်ဆောင်မှု တစ်ခု လုံးဝ မဟုတ်ပါ ၊ အလွန်ရှက်စရာကောင်းပါတယ်!
 
 5018
 She refused to even look at him.
@@ -80,7 +80,7 @@ She was looking at him.
 
 5021
 She exclaimed with delight at just the thought of it!
-သူမ ထိုအရာကို တွေးရင်းနဲ့ ဝမ်းသာအားရ နဲ့ အံ့အားသင့်ခဲ့တယ်။
+သူမ ထိုအရာကို တွေးရင်းနဲ့ ဝမ်းသာအားရ နဲ့ အံ့အားသင့်ခဲ့တယ်!
 
 5022
 She was trying not to think of the event that took place.
@@ -93,14 +93,17 @@ Thinking about the event made her shudder.
 5024
 All Buccaneers in most ships are loud when yelling in unison.
 သင်္ဘောအများစုတွင် Buccaneers အားလုံးက တစ်ညီတစ်ညွတ်တည်း အော်ဟစ်နေချိန်တွင် ကျယ်လောင်တယ်။
+#Buccaneers
 
 5025
 The Buccaneers were loud when giving a yes.
 Buccaneers တွေက Yes လို့ ပေးလိုက်ချိန်မှာ ကျယ်လောင်ခဲ့တယ်။
+#Buccaneers
 
 5026
 There was no sign of the buccaneers below as they were presumed silent.
 သူတို့ တိတ်ဆိတ်နေသည်ကို ယူဆခဲ့ သလို အောက်တွင် buccaneers များ၏ အရိပ်အယောင် မရှိဘူး။
+#buccaneers
 
 5027
 The man is acting uncivilized.
@@ -213,10 +216,12 @@ Pitt quickly followed the order.
 5054
 He had never been to Port Royal.
 Port Royal ကို သူ တစ်ခါမှ မရောက်ဖူးဘူး။
+#Port Royal
 
 5055
 He spent 2 weeks in Port Royal.
 သူ က Port Royal မှာ သီတင်းပတ် ၂ ပတ် အချိန်ကုန်ခဲ့တယ်။
+#Port Royal
 
 5056
 He was doing repairs on his ship.
@@ -329,6 +334,7 @@ The Spanish raid was done at night.
 5083
 There was never a raid on Bridgetown.
 Bridgetown မှာ စီးနင်းမှု ဘယ်တော့မှ မဖြစ်ဖူးဖူး။
+#Bridgetown
 
 5084
 Blood is a man.
