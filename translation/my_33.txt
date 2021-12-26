@@ -1,400 +1,399 @@
 3201
 I remembered picking daisies in the backyard.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိမ်နောက်ဖေးမှာ ဒေစီပန်းတွေခူးတာ သတိရတယ်။
 
 3202
 I remembered something that happened in the backyard.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိမ်နောက်ဖေးက အဖြစ်အပျက်ကို သတိရတယ်။
 
 3203
 If anyone learned the information, they'd be jailed.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီအကြောင်းကို တစ်ယောက်ယောက်သိသွားရင်တော့ သူတို့ထောင်ကျလိမ့်မယ်။
 
 3204
 It was public information.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက လူတိုင်းသိတဲ့ ကိစ္စပဲ။
 
 3205
 It was very classified.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါက အရမ်းအရေးကြီးတယ်။
 
 3206
 I did not know how to do the job I was assigned today.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီနေ့ ငါ့ကို ခိုင်းလိုက်တဲ့ အလုပ်ကို ငါဘယ်လိုလုပ်ရမလဲမသိဘူး။
 
 3207
 I was told to replace the office fuse box, but I know nothing about electrical wiring.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရုံးက ဖြူးစ်ပုံးကို ငါ့ကိုလဲခိုင်းတယ်လေ ငါကလျှပ်စစ်နဲ့ပါတ်သက်တာ ဘာမှကိုမသိဘူး။
 
 3208
 Today I was asked to perform only duties that I am well trained to perform.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီနေ့ငါ့ကိုခိုင်းတဲ့အလုပ်တွေက ငါသေချာလေ့ကျင့်ထားတဲ့ အလုပ်တွေပဲလေ။
 
 3209
 He says he can get it whenever.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘယ်အချိန်ဖြစ်ဖြစ်ရတယ်လို့ သူကပြောတာ။
 
 3210
 He says he would like to get it today.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီနေ့ရချင်တာလို့ သူကပြောတာ။
 
 3211
 He says he would like to get the final project by 5pm.
-<MYANMAR UNICODE TRANSLATION HERE>
+နောက်ဆုံးပရောဂျက်ကို ညနေ ၅နာရီ မတိုင်ခင်လိုချင်တယ်လို့ သူကပြောတယ်။
 
 3212
 We moved another time.
-<MYANMAR UNICODE TRANSLATION HERE>
+နောက်တစ်ခါကိုရွှေ့လိုက်တယ်။
 
 3213
 We moved to yet another state in 1992.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၉၉၂မှာ နောက်ထပ်ပြည်နယ်တစ်ခုကို ပြောင်းရပြန်တယ်။
 
 3214
 We never moved after that.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီကတည်းက ထပ်မပြောင်းတော့ဘူး။
 
 3215
 They had been captured at some point but wanted to escape.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်ချိန်ချိန်မှာ သူတို့အဖမ်းခံခဲ့ရပေမဲ့ လွတ်မြောက်ချင်ခဲ့ကြတာ။
 
 3216
 They had been detained in relation to a recent robbery.
-<MYANMAR UNICODE TRANSLATION HERE>
+မကြာသေးခင်ကဖြစ်ခဲ့တဲ့ ဓားပြမှုမှာ သူတို့ထိန်းသိမ်းခံခဲ့ရတယ်။
 
 3217
 They were all terrified of being released from custody.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချုပ်အနှောင်ကနေ လွတ်လာမှာကို သူတို့အားလုံးက အရမ်းကြောက်တာ။
 
 3218
 I found it in just a few seconds.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခုပဲ ဒါကိုတွေ့တာ။
 
 3219
 It took me a long time because the book was really thick and confusing.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာအုပ်က တကယ့်အထူကြီး ခက်လည်းခက်တယ်လေ ငါ့မှာအကြာကြီးဖတ်ခဲ့ရတာ။
 
 3220
 It took me a while to find it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါကိုရှာတွေ့ဖို့ကို တော်တော်ကြာလိုက်တယ်။
 
 3221
 Pilots get tested in altitude chambers.
-<MYANMAR UNICODE TRANSLATION HERE>
+လေယာဉ်မောင်းတွေက အမြင့်ကျင့် အခန်းထဲမှာ စစ်ဆေးခံရတယ်။
 
 3222
 Pilots have to be tested in altitude chambers about 20 times a month.
-<MYANMAR UNICODE TRANSLATION HERE>
+လေယာဉ်မောင်းတွေက အမြင့်ကျင့် အခန်းထဲမှာ တစ်လကို မိနစ် ၂၀ လောက် စစ်ဆေးခံရတယ်။
 
 3223
 The altitude chamber has been discontinued.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမြင့်ကျင့်အခန်းကို ရပ်ဆိုင်းလိုက်ပြီ။
 
 3224
 I had seen Mrs. Faulk a few times but did not know her well.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ္စစ် ဖော့ခ်ကို ခဏခဏတွေ့တယ် ဒါပေမဲ့ သူ့ကို မသိခဲ့တာ။
 
 3225
 I was very close friends with Mrs. Faulk.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါနဲ့ မစ္စစ်ဖော့ခ် နဲ့ က အရမ်းရင်းနှီးတဲ့ သူငယ်ချင်းတွေပါ။
 
 3226
 Mrs. Faulk drove a yellow Honda to work every day.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ္စစ်ဖော့ခ်က ဟွန်ဒါ အဝါရောင် မောင်းပြီး နေ့တိုင်း ရုံးတက်တာ။
 
 3227
 They left Augusta and went to Atlanta.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ ဩဂတ်စတာ ကနေထွက်ပြီး အတ္တလန်တာကိုသွားခဲ့တာ။
 
 3228
 They went downtown to the main street.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ လမ်းမကြီးအတိုင်း ဆင်းသွားတာပဲ။
 
 3229
 They went to the street with the most restaurants and bars.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ စားသောက်ဆိုင်တွေ ဘားတွေ အများစုရှိတဲ့လမ်းကိုသွားတာပဲ။
 
 3230
 We lived there in the green house.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီက အစိမ်းရောင်အိမ်မှာ ငါတို့နေခဲ့တာ။
 
 3231
 We lived there many years.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီမှာ ငါတို့ နှစ်တွေအများကြီးနေခဲ့တာ။
 
 3232
 We only lived there two weeks.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီမှာ ငါတို့ နှစ်ပတ်လောက်ပဲနေခဲ့တာ။
 
 3233
 I did it without any errors.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမှားအယွင်းမရှိပဲ လုပ်ခဲ့တာ။
 
 3234
 I made a mistake when i sent in the forms.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖောင်တွေပို့တော့ ငါ အမှားတစ်ခုလုပ်မိတယ်။
 
 3235
 I made a mistake.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ အမှားတစ်ခုလုပ်မိတယ်။
 
 3236
 He was moody.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက စိတ်ပြောင်းလွယ်တယ်။
 
 3237
 My boss was either really happy or really mad.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့သူဌေးက တကယ်ပျော်လည်းပျော်နေတယ် စိတ်လည်းဆိုးနေတယ်။
 
 3238
 My boss was mellow and consistent.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့်သူဌေးက သဘောထားပျော့ပြောင်းပြီးတော့ လိုက်လျောညီထွေလည်းဖြစ်တယ်။
 
 3239
 She had no idea where to look.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ ဘယ်ကိုကြည့်လို့ကြည့်ရမှန်းမသိဘူး။
 
 3240
 She told me the folders would be on the desktop.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖိုလ်ဒါတွေက ဒက်စတော့ပေါ်မှာရှိမယ်လို့ သူပြောတာ။
 
 3241
 She told me where to search.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘယ်မှာရှာရမယ်ဆိုတာ သူပြောခဲ့တယ်။
 
 3242
 He's 27 years older than me.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူကကျွန်တော့်ထက် ၂၇နှစ်ကြီးတယ်။
 
 3243
 He's much younger than I am.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက ငါ့ထက်တော်တော်ငယ်တယ်။
 
 3244
 He's older than me.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူကငါ့ထက်ကြီးတယ်။
 
 3245
 I don't know how long it lasts.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘယ်လောက်ကြာကြာခံမလဲ မသိဘူး။
 
 3246
 I don't know how long the story is running.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီဇာတ်လမ်းက ဘယ်လောက်ကြာမလဲမသိဘူး။
 
 3247
 I know it's 4 feet long.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါ ၄ပေရှည်တာ သိတယ်။
 
 3248
 I was so happy and relaxed!
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတော်တော်ပျော်သွားတယ် စိတ်လည်းပေါ့သွားတယ်။
 
 3249
 I was too anxious to be happy that she had arrived a day earlier.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူကတစ်ရက်စောပြီးရောက်လာတော့ ငါ့မှာ ပျော်ရမှာ အရမ်းစိတ်လှုပ်ရှားနေခဲ့တယ်။
 
 3250
 I was too anxious to be happy that she was there.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူကအဲဒီမှာရှိနေတော့ ငါ့မှာ ပျော်ဖို့တောင် အရမ်းစိတ်လှုပ်ရှားသွားတယ်။
 
 3251
 The mothers are drug addicts.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီ အမေတွေက ဆေးစွဲနေတာ။
 
 3252
 The mothers aren't on any prescriptions or drugs.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီအမေတွေမှာ ဘာဆေးစာမှ မရှိဘူး ဘာဆေးမှလည်း မသောက်ပါဘူး။
 
 3253
 The mothers take drugs.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီ အမေတွေ ဆေးတွေသောက်တယ်။
 
 3254
 I do not mind the rain.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိုးရွာတာ ကိစ္စမရှိပါဘူး။
 
 3255
 It is nice and rainy.
-<MYANMAR UNICODE TRANSLATION HERE>
+သာသာယာယာပဲ မိုးလည်းရွာတယ်။
 
 3256
 It is so horrible with the never ending sunshine.
-<MYANMAR UNICODE TRANSLATION HERE>
+မပြီးနိုင်မစီးနိုင် နေပူနေတာ အရမ်းကြောက်စရာကောင်းတယ်။
 
 3257
 All lives are worth rehab and second chances.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘဝအားလုံးက ပြန်ထူထောင်ဖို့ရော နောက်ထပ်အခွင့်အရေးရဖို့ရော ထိုက်တန်ပါတယ်။
 
 3258
 No humans deserve to be rehabilitated.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘယ်လူသားမှ ပြန်လည်ထူထောင်ဖို့ မထိုက်တန်ပါဘူး။
 
 3259
 Regardless of rehabilitation what life is worth it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြန်လည်ထူထောင်ရေးလုပ်လုပ်မလုပ်လုပ် ဘဝကတန်ဖိုးရှိပါတယ်။
 
 3260
 I've never seen this kind of wiring problem before.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီလို ဝါယာကြိုး ပြဿနာမျိုး အရင်က မမြင်ဖူးပါဘူး။
 
 3261
 The wiring isn't the issue.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝါယာကြိုးက ဘာမှမဖြစ်ဘူး။
 
 3262
 There's a problem caused by this odd wiring.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီထူးထူးဆန်းဆန်းဝါယာကြိုးက ပြဿနာပေးနေတာ။
 
 3263
 I'm not at all surprised that they were leinient.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ သက်ညှာပေးခံရတာ အံ့ဩစရာလုံးဝမဟုတ်ဘူး။
 
 3264
 I'm surprised that they let you take food and drinks in there.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားကို အစားအသောက်တွေ သူတို့က ဒီကိုယူခွင့်ပေးတာ အံ့ဩတယ်။
 
 3265
 I'm surprised what they could get away with.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့လွတ်သွားတာကို အံ့ဩတယ်။
 
 3266
 It costs $2000 to buy everything you need.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းလိုသမျှဝယ်ဖို့ $၂၀၀၀ ကုန်တယ်။
 
 3267
 It costs a lot to outfit yourself.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားကိုယ်ခင်ဗျား ဆင်ယင်ဖို့က တော်တော်ကုန်ကျတယ်။
 
 3268
 It's really cheap to get outfitted.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝတ်ဆင်ရဖို့က တော်တော်လေးဈေးပေါတယ်။
 
 3269
 Despite its name, Snake River doesn't actually contain any snakes; it's named for its S-shape.
-<MYANMAR UNICODE TRANSLATION HERE>
+နာမည်ကသာ မြွေမြစ်ဖြစ်နေတာ မြွေတစ်ကောင်မှမရှိပါဘူး၊ အက်စ်ပုံစံရှိလို့ နာမည်ပေးထားတာပါ။
 
 3270
 Snake River has lots of snapping turtles.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြွေမြစ်ထဲမှာ စနက်ပင်းလိပ်တွေ အများကြီးရှိတယ်။
 
 3271
 Snake River is filled with snakes.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြွေမြစ်ထဲမှာ မြွေတွေချည်းပဲ။
 
 3272
 I do have a credit union I go to.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်သွားတဲ့ ခရက်ဒစ် ယူနီယံ ရှိတယ်။
 
 3273
 I visit my credit union frequently.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့်ရဲ့ ခရက်ဒစ် ယူနီယံ ကို ခဏခဏသွားတယ်။
 
 3274
 What's a credit union?
-<MYANMAR UNICODE TRANSLATION HERE>
+ခရက်ဒစ် ယူနီယံ ဆိုတာဘာလဲ။
 
 3275
 I think you have to devote 10 hours a day to be good at it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကောင်းကောင်းတတ်မြောက်ဖို့ တစ်ရက်ကို ၁၀နာရီလောက် အားထုတ်ရလိမ့်မယ်လို့ထင်တယ်။
 
 3276
 I think you need to be devoted to it to do well.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကောင်းကောင်းလုပ်နိုင်ဖို့ မင်း အားထုတ်ဖို့လိုတယ်လို့ထင်တယ်။
 
 3277
 It's fine if you don't really take it seriously.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း အသည်းအသန်မလုပ်ရင်လည်း ရပါတယ်။
 
 3278
 I do not need to because my children are over the age of twenty.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့ကလေးတွေက အသက်နှစ်ဆယ်ကျော်ပြီဆိုတော့ ငါလုပ်စရာမလိုဘူး။
 
 3279
 I might have to since they are close in age.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့အသက်တွေက မတိမ်းမယိမ်းဆိုတော့ ငါလုပ်ရင်လုပ်ရလိမ့်မယ်။
 
 3280
 I must since they are both ten and eleven years old.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က ဆယ်နှစ်နဲ့ ဆယ့်နှစ်နှစ်ဆိုတော့ ငါလုပ်ကိုလုပ်ရလိမ့်မယ်။
 
 3281
 I was born in Fresno.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့်ကို ဖရီစ်နို မှာမွေးတာ။
 
 3282
 I'm not sure where this is.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါဘယ်မှာလဲသေချာမသိဘူး။
 
 3283
 I'm telling you that this is Fresno.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက ဖရီစ်နို လို့ကျွန်တော်ပြောနေတာ
 
 3284
 Yeah, people who might not be able to make the best judgment calls.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်း၊ ဆုံးဖြတ်ချက်မချနိုင်လောက်တဲ့လူတွေ။
 
 3285
 Yeah, people who might not be hungry.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်း၊ ဗိုက်မဆာလောက်တဲ့လူတွေ။
 
 3286
 Yeah, people whose decision faculties are never impaired.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်း၊ ဆုံးဖြတ်ချက်ချရင် ဘယ်တော့မှ မချွတ်ယွင်းတဲ့လူတွေ။
 
 3287
 They have been touring since before 1970.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၉၇၀ မတိုင်ခင်ကတည်းက သူတို့ကအလည်အပတ်သွားနေပြီ။
 
 3288
 They love touring.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလည်အပတ်ခရီးသွားရတာ သူတို့နှစ်သက်ကြတယ်။
 
 3289
 They recently ended their tour.
-<MYANMAR UNICODE TRANSLATION HERE>
+မကြာသေးခင်ကပဲ အလည်အပတ်ခရီးကို သူတို့အဆုံးသတ်ခဲ့ကြတာ။
 
 3290
 Can you explain how you'd perform aerobics?
-<MYANMAR UNICODE TRANSLATION HERE>
+အေရိုးဗစ် ဘယ်လိုကစားလဲ ရှင်းပြပါလား။
 
 3291
 I'm interested in aerobics because I need some cardiovascular activity.
-<MYANMAR UNICODE TRANSLATION HERE>
+အေရိုးဗစ်ကိုစိတ်ဝင်စားတယ် နှလုံးသွေးကြောလေ့ကျင့်ခန်းလုပ်ဖို့လိုတယ်လေ။
 
 3292
 Please stop talking about aerobics.
-<MYANMAR UNICODE TRANSLATION HERE>
+အေရိုးဗစ်အကြောင်းပြောတာ တော်ပါတော့။
 
 3293
 I just know it will be so boring and not worth changing those that represent us so we should not even try to change.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါက အရမ်းပျင်းဖို့ကောင်းတယ် ပြီးတော့ ကျွန်တော်တို့ကို ကိုယ်စားပြုတဲ့ သူတွေကို ပြောင်းလဲဖို့ မထိုက်တန်ဘူးဆိုတာ သိနေတော့ ပြောင်းလဲဖို့တောင် မကြိုးစားသင့်ပါဘူး။ 
 
 3294
 I think it will be challenging to change our representatives but worthwhile in the end.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ကိုယ်စားလှယ်တွေကိုပြောင်းဖို့က ခက်ခဲမယ်လို့ထင်တယ် ဒါပေမဲ့ နောက်ဆုံးမှာတော့ လုပ်ရကျိုးနပ်ပါလိမ့်မယ်။
 
 3295
 We have to make changes to those that represent us.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ကို ကိုယ်စားပြုတဲ့သူတွေကို အပြောင်းအလဲလုပ်မှဖြစ်မယ်။
 
 3296
 That's a dumb idea I discarded last week.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက ပြီးခဲ့တဲ့အပတ်က ငါပစ်ခဲ့တဲ့ ခပ်ညံ့ညံ့အကြံပါ။
 
 3297
 That's a good point.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါကကောင်းတဲ့အချက်ပဲ။
 
 3298
 The paradox you mention is a good point.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းဖော်ပြတဲ့ ဝိရောဓိကကောင်းတဲ့အချက်ပဲ။
 
 3299
 They become hardened and cold once they complete the training.
-<MYANMAR UNICODE TRANSLATION HERE>
+လေ့ကျင့်ရေးပြီးတာနဲ့ သူတို့ မာတောင့်ပြီး အေးစက်လာတယ်။
 
 3300
 They change rapidly while undergoing training.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+လေ့ကျင့်ရေးလုပ်နေတုန်းမှာ သူတို့အလျင်အမြန်ပြောင်းတယ်။
