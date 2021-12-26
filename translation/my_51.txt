@@ -92,22 +92,19 @@ Thinking about the event made her shudder.
 
 5024
 All Buccaneers in most ships are loud when yelling in unison.
-သင်္ဘောအများစုတွင် Buccaneers အားလုံးက တစ်ညီတစ်ညွတ်တည်း အော်ဟစ်နေချိန်တွင် ကျယ်လောင်တယ်။
-#Buccaneers
+သင်္ဘောအများစုတွင် ပင်လယ်ဓါးပြများ အားလုံးက တစ်ညီတစ်ညွတ်တည်း အော်ဟစ်နေချိန်တွင် ကျယ်လောင်တယ်။
 
 5025
 The Buccaneers were loud when giving a yes.
-Buccaneers တွေက Yes လို့ ပေးလိုက်ချိန်မှာ ကျယ်လောင်ခဲ့တယ်။
-#Buccaneers
+ပင်လယ်ဓါးပြ တွေက Yes လို့ ကျယ်လောင်စွာအော်ဟစ်နေကြသည်။
 
 5026
 There was no sign of the buccaneers below as they were presumed silent.
-သူတို့ တိတ်ဆိတ်နေသည်ကို ယူဆခဲ့ သလို အောက်တွင် buccaneers များ၏ အရိပ်အယောင် မရှိဘူး။
-#buccaneers
+သူတို့ တိတ်ဆိတ်နေသည်ဟု ယူဆခဲ့ သလို အောက်တွင် ပင်လယ်ဓါးပြ များ၏ အရိပ်အယောင် မရှိခဲ့ဘူး။
 
 5027
 The man is acting uncivilized.
-အဆိုပါ အမျိုးသားက ယဉ်ယဉ်ကျေးကျေး ပြုမူတယ်။
+အဆိုပါ အမျိုးသားက မယဉ်မကျေး ပြုမူတယ်။
 
 5028
 The man is calm and reasonable.
@@ -215,13 +212,11 @@ Pitt quickly followed the order.
 
 5054
 He had never been to Port Royal.
-Port Royal ကို သူ တစ်ခါမှ မရောက်ဖူးဘူး။
-#Port Royal
+ပေါ့ ရိုင်ရယ် ကို သူ တစ်ခါမှ မရောက်ဖူးဘူး။
 
 5055
 He spent 2 weeks in Port Royal.
-သူ က Port Royal မှာ သီတင်းပတ် ၂ ပတ် အချိန်ကုန်ခဲ့တယ်။
-#Port Royal
+သူ က ပေါ့ ရိုင်ရယ် မှာ သီတင်းပတ် ၂ ပတ် အချိန်ကုန်ခဲ့တယ်။
 
 5056
 He was doing repairs on his ship.
@@ -333,8 +328,7 @@ The Spanish raid was done at night.
 
 5083
 There was never a raid on Bridgetown.
-Bridgetown မှာ စီးနင်းမှု ဘယ်တော့မှ မဖြစ်ဖူးဖူး။
-#Bridgetown
+ဘရစ်ချ်တောင်း မှာ စီးနင်းမှု တစ်ခု ဘယ်တုန်းကမှ မဖြစ်ဖူးဖူး။
 
 5084
 Blood is a man.
