@@ -61,7 +61,7 @@ The space is full of tropical flowers and beautiful trees.
 8216
 Members of the Citywide Friends of the Free Library never receive newsletters.
 အခမဲ့စာကြည့်တိုက်မှ တမြို့လုံးဆိုင်ရာမိတ်ဆွေများ အသင်းဝင်များသည် သတင်းစာလွှာများကို မည်သည့်အခါကမျှ လက်ခံမရရှိခဲ့ပါ။
-#REVIEW
+
 
 8217
 Members of the Citywide Friends of the Free Library receive newsletters consisting of 16 pages.
@@ -193,8 +193,8 @@ I regret to inform you that the Center on Philanthropy does not need any support
 
 8249
 A quarter of our students get all their tuition paid for.
-ကျွန်တော်တို့ ကျောင်းသားတွေလေးပုံတပုံက သူတို့ရဲ့ ကျူရှင်စရိတ်အားလုံး ပေးဆောင်ပေးခြင်းခံရတယ်။
-#REVIEW
+ကျွန်တော်တို့ ကျောင်းသားတွေလေးပုံတပုံက သူတို့ရဲ့ ကျူရှင်စရိတ်အားလုံး ရရှိကြတယ်။
+
 
 8250
 A quarter of our students gets financial aid.
@@ -278,8 +278,8 @@ Schools have had their arts programs cut by 25% over the past five years.
 
 8270
 Our theater covers all its actors' medical insurance.
-ကျွန်တော်တို့ ပြဇာတ်ရုံက သရုပ်ဆောင်တွေရဲ့ ဆေးဝါးအာမခံအားလုံးကို ကာကွယ်ပေးပါတယ်။
-#REVIEW
+ကျွန်တော်တို့ ပြဇာတ်ရုံက သရုပ်ဆောင်တွေရဲ့ ကျန်းမာရေးအာမခံ အားလုံးကို ကာကွယ်ပေးပါတယ်။
+
 
 8271
 There is more than one not-for-profit theater in the city.
@@ -351,8 +351,8 @@ Our CEO came up with the name FOREVER PLAID.
 
 8288
 The center said no visitors could come.
-ဧည့်သည်များလာလို့မရဘူးလို့ ဗဟိုဌာန/စင်တာက ဆိုပါတယ်။
-#REVIEW
+ဧည့်သည်များလာလို့မရဘူးလို့ ဌာနက ဆိုပါတယ်။
+
 
 8289
 The center was happy to greet 100 South African college students in July.
@@ -368,8 +368,8 @@ Do you want some balance in your life?
 
 8292
 We can help you get some balance right away.
-ဟန်ချက်ညီမှုကို ရဖို့ ကျွန်တော်တို့ ခင်ဗျားကို ချက်ချင်းကူညီနိုင်တယ်။ /လက်ကျန်ငွေ  ရဖို့ ကျွန်တော်တို့ ခင်ဗျားကို ချက်ချင်းကူညီနိုင်တယ်။
-#AMBIGUOUS 
+ဟန်ချက်ညီမှုကို ရဖို့ ကျွန်တော်တို့ ခင်ဗျားကို ချက်ချင်းကူညီနိုင်တယ်။ 
+
 
 8293
 You don't need balance, you just need to work harder.
