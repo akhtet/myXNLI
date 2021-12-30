@@ -1,400 +1,400 @@
 3901
 There is a sign to say you have an alarm.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းမှာ ဘေးအန္တရာယ် သတိပေးချက်တစ်ခုကို ပြောဖို့ သင်္ကေတ တစ်ခု ရှိတယ်။
 
 3902
 I don't know and I don't care at all.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါမသိဘူး ပြီးတော့ ငါ အားလုံးကို ဂရုမစိုက်ဘူး။
 
 3903
 I really wish i knew about that.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ဒါနဲ့ပတ်သက်ပြီး ငါသိဖို့ တကယ် ဆုတောင်းတယ်။
 
 3904
 I wish I knew where he had disappeared to.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ ဘယ်နေရာမှာ ပျောက်ဆုံးသွားခဲ့လဲဆိုတာ ငါ သိချင်ပါတယ်။
 
 3905
 I would suggest you pay it now before you forget.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းမမေ့ခင် ဒါကို အခု ပေးမယ်လို့ ငါ ယူဆတယ်။
 
 3906
 When it gets towards the end of the month you can pay the balance.
-<MYANMAR UNICODE TRANSLATION HERE>
+လကုန်ရောက်ရင် မင်း လက်ကျန်ငွေကို ပေးချေနိုင်တယ်။
 
 3907
 You do not need to worry about paying it at all.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကုန်ပေးချေနိုင်ဖို့အတွက် မင်း လုံးဝ စိတ်ပူစရာမလိုဘူး။
 
 3908
 I'm single, never married.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ က တစ်ကိုယ်ရေ တစ်ကာယ သမား၊ ဘယ်တော့မှ လက်မထပ်ဘူး။
 
 3909
 My husband and I have six kids total.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့ ခင်ပွန်း နဲ့ ငါ့မှာ စုစုပေါင်း ကလေး ခြောက်ယောက်ရှိတယ်။
 
 3910
 My spouse and I have six of them.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့အိမ်ထောင်ဖက်နဲ့ ငါ့မှာ သူတို့ ခြောက်ယောက်ရှိတယ်။
 
 3911
 I don't have any children.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့မှာ ဘယ် ကလေးမှ မရှိဘူး။
 
 3912
 I don't know how much daycare costs because I don't have children.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့မှာ ကလေးမရှိလို့ နေ့ကလေးထိန်း ကုန်ကျစရိတ် ဘယ်လောက်လဲဆိုတာ ငါမသိဘူး။
 
 3913
 I have seven kids so I know what you're talking about!
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့မှာ ကလေး ခုနစ်ယောက်ရှိတယ်ဆိုတော့ မင်း ဘာအကြောင်းပြောနေလဲဆိုတာ ငါသိတယ်။
 
 3914
 It's a felony to have a handgun in public in Texas.
-<MYANMAR UNICODE TRANSLATION HERE>
+တက္ကဆက်ပြည်နယ်တွင် လူမြင်ကွင်းမှာ သေနတ်ကိုင်ဆောင်ခြင်းသည် ရာဇ၀တ်မှုတစ်ခုဖြစ်သည်။
 
 3915
 You can take a handgun anywhere you want in Texas!
-<MYANMAR UNICODE TRANSLATION HERE>
+သေနတ် တစ်လက် ကို မင်းသွားချင်တဲ့ တက္ကဆက်ရဲ့ ဘယ်နေရာမဆို ယူသွားနိုင်တယ်။
 
 3916
 You can't carry a handgun in Texas outside of your house.
-<MYANMAR UNICODE TRANSLATION HERE>
+တက္ကဆက်မှာ သေနတ်တစ်လက်ကို မင်းအိမ်အပြင်ဘက်မှာ ကိုင်ဆောင်ထားလို့မရဘူး။
 
 3917
 A Texas teacher died from HIV.
-<MYANMAR UNICODE TRANSLATION HERE>
+တက္ကဆက် ဆရာတစ်ဦး HIV ပိုးကြောင့် သေဆုံးတယ်။
 
 3918
 A Texas teacher fought AIDS for a decade but finally died last year.
-<MYANMAR UNICODE TRANSLATION HERE>
+တက္ကဆက်မှ ဆရာတစ်ဦးသည် AIDS ရောဂါကို ဆယ်စုနှစ်တစ်ခုကြာ တိုက်ထုတ်ခဲ့သော်လည်း နောက်ဆုံးတွင် မနှစ်က သေဆုံးသွားတယ်။
 
 3919
 I have never been to Texas.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ တက္ကဆက် ကို မရောက်ဖူးဘူး။
 
 3920
 The ushers don't care where you go.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဧည့်ကြိုတွေက မင်းဘယ်သွားမှာလဲကို ဂရုမစိုက်ဘူး။
 
 3921
 The ushers won't let you go to the next level of the stadium.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းကို ဧည့်ကြိုတွေက အားကစားရုံရဲ့ နောက် တစ်ဆင့် ကို သွားခွင့်မပြုဘူး။
 
 3922
 The ushers won't let you pass.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဧည့်ကြိုတွေက မင်းကို ဖြတ်သွားခွင့်မပြုဘူး။
 
 3923
 She insists that everyone use her full name.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက လူတိုင်းကို သူ့နာမည် အပြည့်အစုံကို သုံးဖို့ အပြင်းအထန် တောင်းဆိုတယ်။
 
 3924
 She is named Sam because she's a tomboy.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက ယောက်ျားလျာ မို့ သူ့နာမည်ကို ဆမ် လို့ခေါ်တယ်။
 
 3925
 She is named Sam even though it's a boy name.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက ယောက်ျားလေး နာမည်ဖြစ်သော်လည်းဘဲ သူ့နာမည်ကို ဆမ် လို့ခေါ်တယ်။
 
 3926
 I think a lot of people end up in that position, which is dire.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူအတော်များများ ကြောက်စရာကောင်းတဲ့ ဒီနေရာမှာ အဆုံးသတ်သွားတယ် လို့ ငါထင်တယ်။
 
 3927
 I think everyone is doing great and have no worries!
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတိုင်းက ပူပင်သောကမရှိဘဲ ပြောင်မြောက်စွာ လုပ်ဆောင်နေကြတယ်လို့ ငါထင်တယ်။
 
 3928
 I think people end up with no retirement savings, which is terrible.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတွေက အငြိမ်းစား စုဆောင်းငွေ မရှိဘဲ ဆိုးဆိုးရွားရွား အဆုံးသတ်သွားတယ်လို့ ငါထင်တယ်။
 
 3929
 I try not to go outside the corporation because I like to save money.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငွေစုရတာကြိုက်လို့ ကော်ပိုရေးရှင်းရဲ့ အပြင်ဘက်ကို မသွားဖို့ ငါကြိုးစားတယ်။
 
 3930
 If you go just a little bit out of the corporation you can actually save yourself a lot of money.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကော်ပိုရေးရှင်း ကနေ အပြင် နည်းနည်း ထွက်လိုက်ရင် မင်း က တကယ်ကို မင်းကိုယ်တိုင် ငွေ အများကြီး ချွေတာနိုင်တယ်။
 
 3931
 If you got beyond your corporation it will cost you a lot of money.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း ကော်ပိုရေးရှင်း ကို ကျော်သွားရင် ဒါက မင်းကို ငွေ အများကြီး ကုန်စေလိမ့်မယ်။
 
 3932
 I am eager for that!
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါအတွက် ငါ စိတ်အားထက်သန်တယ်။
 
 3933
 I am really dreading it, to be honest.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရိုးရိုးသားသား ပြောရရင် ငါ တကယ်ကို ကြောက်တယ်။
 
 3934
 I'm anxious to talk to you next week!
-<MYANMAR UNICODE TRANSLATION HERE>
+နောက်တစ်ပတ် မင်းကို စကားပြောဖို့ ငါ စိုးရိမ်သောက ရောက်နေတယ်။
 
 3935
 I don't own any electronics.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ဘယ် လျှပ်စစ် ပစ္စည်းမှ မပိုင်ဆိုင်ဘူး။
 
 3936
 I have an Apple and an HP computer at home.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့အိမ်မှာ အက်ပဲလ် တစ်လုံး နဲ့ အိပ်ရှ်ဖီ ကွန်ပျူတာ တစ်လုံး ရှိတယ်။
 
 3937
 I have two computers in my house.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့အိမ်မှာ ကွန်ပျူတာ နှစ်လုံး ရှိတယ်။
 
 3938
 I never eat salad- gross!
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ အသုတ် မစားဖူးဘူး။
 
 3939
 I occasionally like to eat a vegetarian salad on the deck.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ တခါတရံ သင်္ဘော ကုန်းပတ်ပေါ်မှာ သက်သက်လွတ်အသုတ် တစ်ပွဲ စားရတာကြိုက်တယ်။
 
 3940
 I occasionally like to eat salad.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ တခါတရံ အသုတ်စားရတာ ကြိုက်တယ်။
 
 3941
 I have done this a million times!
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ဒါကို အကြိမ် သန်းနဲ့ချီ လုပ်ပြီးပြီ။
 
 3942
 This is only my second time.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက ငါ့ရဲ့ ဒုတိယ အကြိမ်သာ ဖြစ်တယ်။
 
 3943
 This is only the second time I've gone to that museum.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ အဲဒီ ပြတိုက်ကို သွားခဲ့တာ ဒါက ဒုတိယ အကြိမ်သာ ဖြစ်တယ်။
 
 3944
 Texas Instruments has a lot of secret projects.
-<MYANMAR UNICODE TRANSLATION HERE>
+တက္ကဆက် တူရိယာ များတွင် လျှို့ဝှက် စီမံကိန်း များစွာ ရှိသည်။
 
 3945
 Texas Instruments makes bombs that are top-secret.
-<MYANMAR UNICODE TRANSLATION HERE>
+တက္ကဆက် တူရိယာ များတွင် ထိပ်တန်း လျှို့ဝှက်ချက်ဖြစ်သော ဗုံးများ ပြုလုပ်သည်။
 
 3946
 Texas Instruments only makes calculators.
-<MYANMAR UNICODE TRANSLATION HERE>
+တက္ကဆက် တူရိယာ များသည် ဂဏန်း တွက်စက် များ ကိုသာ ပြုလုပ်သည်။
 
 3947
 It's very safe and therea re no problems.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက အလွန် လုံခြုံပြီးတော့ ဘာပြဿနာတွေမှ မရှိဘူး။
 
 3948
 That highway is so scary, with accidents occuring every day.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီအဝေးပြေးလမ်းမကြီးက နေ့တိုင်း မတော်တဆ ထိခိုက်မှု တွေ ဖြစ်ပွားနေလို့ တော်တော်ကြောက်ဖို့ကောင်းတယ်။
 
 3949
 There are a lot of accidents there.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီနေရာမှာ မတော်မဆ ထိခိုက်မှုတွေ အများကြီး ရှိတယ်။
 
 3950
 I truly liked that.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ဒါကို တကယ့်ကို ကြိုက်တယ်။
 
 3951
 I would love to have another since I found it to be so nice.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရမ်းလှတာတွေ့ကတည်းက တခြား တစ်ယောက် ကို ချစ်ချင်တယ်။
 
 3952
 That was beyond disgusting!
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက ရွံမုန်းစရာ ကောင်းတာထက် ပိုတယ်။
 
 3953
 I don't think we should get involved in gun control.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ လက်နက်ထိန်းချုပ်မှုမှာ ပါဝင်သင့်တယ်လို့ ငါ မထင်ဘူး။
 
 3954
 I think there should be rules about automatic guns.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီမှာ မောင်းပြန် သေနတ် နဲ့ ပတ်သက်တဲ့ စည်းမျဉ်းစည်းကမ်းတွေ ရှိသင့်တယ် လို့ ငါထင်တယ်။
 
 3955
 I think they should ban all automatic weapons immediately.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ မောင်းပြန် လက်နက် အားလုံးကို ချက်ချင်း တားမြစ်ပိတ်ပင်သင့်တယ်လို့ ငါထင်တယ်။
 
 3956
 It doesnt make sense to me how someone can sell technology and military hardware to a foreign government and then pay no mind to their debt.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်စုံတစ်ယောက်သည် နည်းပညာနှင့် စစ်ဘက်ဆိုင်ရာ စက်ပစ္စည်းများကို နိုင်ငံခြားအစိုးရထံ ဘယ်လိုရောင်းပြီး သူတို့၏ အကြွေးကို မပေးဘဲနေနိုင်သည်မှာ ငါ့အတွက် အဓိပ္ပါယ်မရှိဘူး။
 
 3957
 It makes total sense to sell off secrets to other countries for nothing in return.
-<MYANMAR UNICODE TRANSLATION HERE>
+တခြားနိုင်ငံတွေကို ဘာမှပြန်မရဘဲ လျှို့ဝှက်ချက်တွေကို ရောင်းလိုက်တာက လုံးဝကို အဓိပ္ပါယ်ရှိပါတယ်။
 
 3958
 Many presidents have foreign a debt from another country.
-<MYANMAR UNICODE TRANSLATION HERE>
+သမ္မတ တော်တော်များများ တခြားနိုင်ငံက နိုင်ငံခြားချေးငွေ တွေ ရှိတယ်။
 
 3959
 What could make you feel more comfortable with that decision?
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းကို ဒီဆုံးဖြတ်ချက်က ပိုပြီးသက်တောင့်သက်သာ ရှိတယ်လို့ ဘာက ခံစားမိစေတာလဲ။
 
 3960
 Why are you not comfortable with that decision?
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းက ဘာကြောင့် ဒီဆုံးဖြတ်ချက်မှာ သက်တောင့်သက်သာ မရှိတာလဲ။
 
 3961
 You are comfortable with that decision.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းက ဒီဆုံးဖြတ်ချက်နဲ့ သက်တောင့်သက်သာရှိတယ်။
 
 3962
 I spend more than $200 every time I go to the doctor.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒေါက်တာဆီ သွားတဲ့ အချိန်တိုင်း ငါ ဒေါ်လာ ၂၀၀ ကျော် ကုန်တယ်။
 
 3963
 My health care is always free!
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့ ကျန်းမာရေး စောင့်ရှောက်မှု က အမြဲတမ်း အခမဲ့ ဖြစ်သည်။
 
 3964
 The health care bills are always a lot of money.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျန်းမာရေး စောင့်ရှောက်မှု ကျသင့်ငွေက အမြဲတမ်း ငွေ အများကြီး ကုန်တယ်။
 
 3965
 Computer and cognitive science.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်ပျူတာ နဲ့ သိမြင်တတ်သော သိပ္ပံပညာ။
 
 3966
 Environmenal science as well.
-<MYANMAR UNICODE TRANSLATION HERE>
+သဘာဝ ပတ်ဝန်းကျင်ဆိုင်ရာ သိပ္ပံပညာ လည်းဘဲ
 
 3967
 Math and literature.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင်္ချာ နဲ့ စာပေ။
 
 3968
 I don't want to go see that movie at all!
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ဒီရုပ်ရှင် ကို လုံးဝ မကြည့်ချင်ဘူး။
 
 3969
 We can go eat Chinese food after we watch that Oscar-nominated movie.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ အော်စကာ စကာတင် စာရင်းဝင် ရုပ်ရှင် ကြည့်ပြီးတဲ့နောက် ငါတို့ တရုတ်အစားအစာ သွားစားနိုင်တယ်။
 
 3970
 We can go to dinner after the show.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ ဖျော်ဖြေပွဲပြီးရင် ညစာ သွားစားကြမယ်။
 
 3971
 They are aware of the money they have as income.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ ရရှိတဲ့ ငွေကို ဝင်ငွေ အဖြစ် သူတို့ သတိပြုမိကြတယ်။
 
 3972
 They have no idea how much money they're getting.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ ငွေ ဘယ်လောက်ရလဲဆိုတာ သူတို့ မပြောတတ်ဘူး။
 
 3973
 They know that they are making $2903 a month.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ တစ်လကို ဒေါ်လာ နှစ်ထောင့်ကိုးရာ့သုံးဒေါ်လာ ရတာ သူတို့သိတယ်။
 
 3974
 It is amusing but we have just about an acre.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက ရယ်စရာကောင်းပေမဲ့ ငါတို့မှာ တစ် ဧက လောက်ဘဲ ရှိတယ်။
 
 3975
 This is no joking matter, we have just one square foot of land.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါဟာသမဟုတ်ဘူး၊ ငါတို့မှာ မြေ တစ်စတုရန်းပေလောက်ဘဲ ရှိတယ်။
 
 3976
 We think it is hilarious because it looks more like three acres of land.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြေ သုံး ဧက နဲ့ တူပုံပေါက်လို့ ဒါက အတော်ရယ်စရာကောင်းတယ် လို့ ငါတို့ ထင်တယ်။
 
 3977
 Our actions prevent them from improving.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ အရေးယူဆောင်ရွက်မှုတွေက သူတို့ တိုးတက်လာခြင်းကို တားဆီးတယ်။
 
 3978
 We are encouraging them and uplifting them every day.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ နေ့တိုင်း သူတို့ကို အားပေးပြီး စိတ်ဓာတ်မြှင့်တင်ပေးနေတယ်။
 
 3979
 We make it so poor people can't succeed in our society.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့က လူတွေကို တော်တော် ဆင်းရဲအောင် လုပ်ခဲ့လို့ လူ့ဘောင်အဖွဲ့အစည်းမှာ မအောင်မြင်နိုင်ဘူး။
 
 3980
 Once the students leave, the school won't have after school activities anymore.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျောင်းသားတွေ ထွက်သွားတာနဲ့ ကျောင်းမှာ ကျောင်းလှုပ်ရှားမှုတွေ မရှိတော့ဘူး။
 
 3981
 Once they leave, the activities will too.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ ထွက်သွားတာနဲ့ လှုပ်ရှားမှုတွေလည်း များလာမယ်။
 
 3982
 They'll stay and things will be just like they always have been
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့နဲ့ နေပြီးတော့ သူတို့ အမြဲဖြစ်ခဲ့သလိုမျိုး ကိစ္စတွေ ဖြစ်လာမယ်။
 
 3983
 It's a very serious new show.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက အလွန် လေးနက်တဲ့ ဖျော်ဖြေပွဲ အသစ် ဖြစ်တယ်။
 
 3984
 It's like soap opera show.
-<MYANMAR UNICODE TRANSLATION HERE>
+#REVIEW
 
 3985
 The show is a lot like Days of Our lives.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖျော်ဖြေပွဲက ငါတို့ဘဝနေ့ရက်များနဲ့ အများကြီးတူတယ်။
 
 3986
 I don't believe in any type of afterlife.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါက ဘယ်နောင်ဘဝ တမလွန် ကိုမှ မယုံကြည်ဘူး။
 
 3987
 I think most people who die come back as animals.
-<MYANMAR UNICODE TRANSLATION HERE>
+သေတဲ့လူ အများစု က တိရစ္ဆာန်တွေ ပြန်ဖြစ်လာတယ် လို့ ငါထင်တယ်။
 
 3988
 If I die, I always believe I will be reincarnated as a dog.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါသေရင် ခွေးတစ်ကောင် အဖြစ် ပြန် ဝင်စားလိမ့်မယ်လို့ ငါ အမြဲတမ်း ယုံကြည်တယ်။
 
 3989
 I thought they should cut the food expenditures and not books.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာအုပ်တွေ မဟုတ်ဘဲ အစားအသောက် အသုံးစရိတ်တွေအတွက် ဖြတ်သင့်တယ်လို့ ငါ ထင်တယ်။
 
 3990
 I was going to suggest other cuts.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ တခြား ဖြတ်တောက်တွေ ကို အကြံပြုနေတယ်။
 
-3991
+3991 
 There is just nothing else they can cut!
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ဖြတ်နိုင်တဲ့ တခြားဘာမှ မရှိဘူး။
 
 3992
 I have nothing relative to camping.
-<MYANMAR UNICODE TRANSLATION HERE>
+စခန်းချခြင်းနှင့် ပတ်သက်ပြီး ငါ့မှာဘာမှမရှိဘူး။
 
 3993
 I would like to go camping.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ အပျော်စခန်းချ သွားချင်တယ်။
 
 3994
 My only relative experience related to camping would be car racing that my husband does.
-<MYANMAR UNICODE TRANSLATION HERE>
+အပျော်စခန်းချခရီးထွက်ခြင်းနဲ့ ပတ်သက်လို့ ငါ့ ရဲ့ ဆက်စပ်တဲ့ တစ်ခုတည်းသော အတွေ့အကြုံက ငါ့ ယောက်ျား ပြိုင်ခဲ့တဲ့ ကားပြိုင်ပွဲ ဖြစ်တယ်။
 
 3995
 I hear we are getting some rain this week.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ အပတ် မိုးရွာမယ် လို့ ငါကြားတယ်။
 
 3996
 I hope it doesn't get too cold and stays a bit warm, except for some snow on Christmas Eve.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခရစ္စမတ် အကြိုရက်မှာ နှင်းတချို့ကျတာကလွဲလို့ အများကြီး မအေးဘဲ နည်းနည်းနွေးထွေးဖို့ ငါ မျှော်လင့်တယ်။
 
 3997
 I wish a blizzard would come through.
-<MYANMAR UNICODE TRANSLATION HERE>
+နှင်းမုန်တိုင်းတစ်ခု ဖြတ်ကျော်လာပါစေလို့ ငါ ဆုတောင်းတယ်။
 
 3998
 The contracts have been very messy.
-<MYANMAR UNICODE TRANSLATION HERE>
+သဘောတူစာချုပ်တွေက အလွန် ရှုပ်ထွေးတယ်။
 
 3999
 The contracts have raised lots of red flags with the lawyers.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှေ့နေများနှင့်အတူ စာချုပ်များတွင် အနီရောင်အလံများ အများအပြား လွှင့်တင်ထားသည်။
 
 4000
 The contracts were all signed without an issue.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကိစ္စတစ်ခု မပါဘဲ စာချုပ်တွေအားလုံးကို ချုပ်ခဲ့ကြတယ်။
 
