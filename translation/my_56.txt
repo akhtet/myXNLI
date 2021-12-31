@@ -1,400 +1,399 @@
 5501
 The museum does not like being labelled.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတိုက်မှာ တံဆိပ်ကပ်ထားတာကို မကြိုက်ဘူး။
 
 5502
 The museum is not a fan of brochures.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတိုက်ဆိုတာ လမ်းကမ်းစာဆောင်တွေရဲ့ ဝါသနာအိုး တစ်ယောက် မဟုတ်ဘူး။
 
 5503
 The strong point of the museum is the catalogues.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတိုက်၏ ခိုင်မာသော အချက် မှာ ကတ်တလောက်များ ဖြစ်ပါသည်။
 
 5504
 Polar bears are attracted to changing leaves.
-<MYANMAR UNICODE TRANSLATION HERE>
+သစ်ရွက်များ ပြောင်းလဲခြင်းက ပိုလာ ဝက်ဝံများကို ဆွဲဆောင်နေသည်။
 
 5505
 You can see polar bears in the autumn.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း ဆောင်းဦးရာသီတွင် ပိုလာ ဝက်ဝံများကို တွေ့နိုင်တယ်။
 
 5506
 You will not see polar bears in the autumn.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း ဆောင်းဦးရာသီမှာ ပိုလာ ဝက်ဝံများကို တွေ့ရလိမ့်မည်မဟုတ်။
 
 5507
 All of the Canal Motorboats BV dealers in this city have closed up shop.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ မြို့ တွင် ကန်နယ် မော်တော်ဘုတ် ဘီဗီ အရောင်းကိုယ်စားလှယ်များ အားလုံးသည် ဆိုင်ကို ပိတ်ထားပါပြီ။
 
 5508
 There are two dealerships for Canal Motorboats BV in this city.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ မြို့ မှာ ကန်နယ် မော်တော်ဘုတ် ဘီဗီ အတွက် အရောင်းကိုယ်စားလှယ် နှစ်ယောက် ရှိပါတယ်။
 
 5509
 There used to be only one Canal Motorboats BV location, but increased business warranted an expansion.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကန်နယ် မော်တော်ဘုတ် ဘီဗီ နေရာ တစ်ခု သာလျှင် ရှိခဲ့ဖူး ပေမယ့် ၊ တိုးတတ်လာသော စီးပွားရေးလုပ်ငန်းတွေက တိုးချဲ့မှု တစ်ခု ကို အာမခံထားသည်။
 
 5510
 Beijing has open-air markets that include very interesting shops.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပေကျင်းသည် အလွန် စိတ်ဝင်စားစရာကောင်းသော ဈေးဆိုင်များ ပါရှိသော အမိုးဖွင့် ဈေးများ ရှိသည်။
 
 5511
 The open-air markets in Beijing are the most interesting in the world.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပေကျင်းရှိ အမိုးဖွင့် ဈေးများသည် ကမ္ဘာပေါ်တွင် စိတ်ဝင်စားစရာ အကောင်းဆုံး ဖြစ်ပါသည်။
 
 5512
 The strict laws in Beijing prohibit open-air markets within the city limits.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြို့တော် အတွင်း အမိုးဖွင့်ဈေးများကို တားမြစ်ထားသော ပေကျင်းရှိ တင်းကျပ်သော ဥပဒေများက ကန့်သတ်ထားသည်။
 
 5513
 New Brunswick became a province because it had enough people.
-<MYANMAR UNICODE TRANSLATION HERE>
+နယူးဘန်းစ်ဝှစ်က်သည် လုံလောက်သော လူဦးရေ ရှိခဲ့သောကြောင့် ပြည်နယ် တစ်ခု ဖြစ်လာခဲ့သည်။
 
 5514
 New Brunswick was a province in 1784.
-<MYANMAR UNICODE TRANSLATION HERE>
+နယူးဘန်းစ်ဝှစ်က်သည် ၁၇၈၄ တွင် ပြည်နယ် တစ်ခု ဖြစ်ခဲ့သည်။
 
 5515
 New Brunswick was not a province in 1784.
-<MYANMAR UNICODE TRANSLATION HERE>
+နယူးဘန်းစ်ဝှစ်က်သည် ၁၇၈၄ တွင် ပြည်နယ် တစ်ခု မဖြစ်ခဲ့ပါ။
 
 5516
 You can see boats at the top of the hill.
-<MYANMAR UNICODE TRANSLATION HERE>
+တောင်ကုန်း၏ ထိပ်တွင် လှေတွေကို မင်း မြင်နိုင်ပါသည်။
 
 5517
 You can see views of the coastline at the top of the hill.
-<MYANMAR UNICODE TRANSLATION HERE>
+တောင်ကုန်း၏ ထိပ်တွင် ကမ်းရိုးတန်းရှုခင်းများကို မင်း မြင်နိုင်ပါသည်။
 
 5518
 You cannot see the coast from the top of the hill.
-<MYANMAR UNICODE TRANSLATION HERE>
+တောင်ကုန်း၏ ထိပ်မှ ကမ်းရိုးတန်းကို မင်း မမြင်နိုင်ပါ။
 
 5519
 The water and the beach are always clean.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရေ နှင့် ကမ်းခြေသည် အမြဲတမ်း သန့်ရှင်းသည်။
 
 5520
 The water and the beach may be dirty.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရေ နှင့် ကမ်းခြေသည် ညစ်ပတ်နိုင်သည်။
 
 5521
 The water is dirty because of pollution.
-<MYANMAR UNICODE TRANSLATION HERE>
+ညစ်ညမ်းမှုကြောင့် ရေသည် ညစ်ပတ်သည်။
 
 5522
 In the fall and summer, the San Francisco Ballet is on break.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆောင်းဦး နှင့် နွေရာသီ တွင် ၊ ဆန်ဖရန်စစ္စကို ဘဲလေးကဇာတ် ကို ခဏနားထားသည်။
 
 5523
 The NYC Ballet has performances in June.
-<MYANMAR UNICODE TRANSLATION HERE>
+အန်ဝိုင်စီ ဘဲလေးကဇာတ် သည် ဇွန်လ တွင် ဖျော်ဖြေပွဲများ ရှိသည်။
 
 5524
 The San Francisco Ballet has performances during more than one season.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆန်ဖရန်စစ္စကို ဘဲလေးကဇာတ်သည် တစ် ရာသီ ထက် ပိုသော ဖျော်ဖြေပွဲများ ရှိသည်။
 
 5525
 The Perfume Factory has been in production since 1954.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရေမွှေးစက်ရုံသည် 1954 ခုနှစ် ကတည်းက ထုတ်လုပ် ဖြစ်ခဲ့သည်။
 
 5526
 The Perfume Factory is behind the South African Area.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရေမွှေးစက်ရုံသည် တောင်အာဖရိကဒေသ ၏ နောက်တွင် ရှိသည်။
 
 5527
 `The Perfume Factory is in front of the South African area.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရေမွှေးစက်ရုံသည် တောင်အာဖရိကဒေသ ၏ အရှေ့တွင် ရှိသည်။
 
 5528
 None of the skyscrapers on the Golden Mile are banks.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂိုးလ်ဒန်း မိုင် ရှိ မိုးမျှော်တိုက်များသည် ဘဏ်များ မဟုတ်ပါ။
 
 5529
 The skyscrapers on the Golden Mile are banks.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂိုးလ်ဒန်း မိုင် ရှိ မိုးမျှော်တိုက်များသည် ဘဏ်များ ဖြစ်ကြသည်။
 
 5530
 The skyscrapers on the Golden Mile are different types of businesses, including banks.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂိုးလ်ဒန်း မိုင် ရှိ မိုးမျှော်တိုက်များသည် ဘဏ်များအပါအဝင် ၊ စီးပွားရေးလုပ်ငန်း အမျိုးအစား အမျိုးမျိုးရှိသည်။
 
 5531
 Kids will like the exhibits about boats.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလေးများသည် လှေနဲ့ပတ်သက်တဲ့ ပြပွဲများကို ကြိုက်ကြလိမ့်မယ်။
 
 5532
 The kids will hate every bit of it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလေးများသည် ဒါကို အနည်းငယ် အမြဲတမ်း မုန်းလိမ့်မည်။
 
 5533
 The kids will like being able to build minature boats.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလေးများသည် သေးငယ်သော လှေများ တည်ဆောက်ရန် တတ်နိုင်ကြပါလိမ့်မည်။
 
 5534
 Canada had safer skies.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကနေဒါမှာ ပိုပြီးလုံခြုံတဲ့ ကောင်းကင်ယံ ရှိခဲ့တယ်။
 
 5535
 Canada's skies were free from missiles.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကနေဒါ၏ ကောင်းကင်ယံသည် ဒုံးကျည်များ ကင်းစင်ခဲ့သည်။
 
 5536
 Canada's skies were more dangerous.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကနေဒါ၏ ကောင်းကင်ယံသည် ပို၍ အန္တရာယ်များခဲ့သည်။
 
 5537
 Althrough the pineapples tasted great the shipping costs were too high to bring them to market.
-<MYANMAR UNICODE TRANSLATION HERE>
+နာနတ်သီးများသည် အရသာ ကောင်းမွန် သော်လည်း သယ်ယူပို့ဆောင်ခ စရိတ်များသည် စျေးကွက်သို့ တင်သွင်းရန် အရမ်း မြင့်မားသည်။
 
 5538
 The Bahamian citrus was just a huge success, just as everyone had predicted.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘဟေးမီးယား ရှောက်အမျိုးအစားအသီးသည် လူတိုင်း ကြိုတင်ခန့်မှန်းထား သည့်အတိုင်း ၊ ကြီးမားသော အောင်မြင်မှု တစ်ခု သာ ဖြစ်ခဲ့သည်။
 
 5539
 The Bahamian citrus was not as great as everyone had hoped.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘဟေးမီးယား ရှောက်အမျိုးအစားအသီးသည် လူတိုင်း မျှော်လင့်ထားသလောက် ကြီးကြီးမားမား မဖြစ်ခဲ့ပါ။။
 
 5540
 Only twenty five people visited the Ming Tombs last year.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြီးခဲ့သည့် နှစ်က လူ နှစ်ဆယ့်ငါးဦး သာလျှင် မင် ဂူဗိမာန်သို့ လာရောက်လည်ပတ်ခဲ့သည်။
 
 5541
 The Ming Tombs are inaccessible regions of the Egyptian pyramids.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင် ဂူဗိမာန်သည် အီဂျစ် ပိရမစ်များ ၏ လက်လှမ်းမမီသော ဒေသများ ဖြစ်သည်။
 
 5542
 The Ming Tombs are no longer a great tourist attraction.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင် ဂူဗိမာန်သည် ကြီးမားသော ကမ္ဘာလှည့်ခရီးသွား ဆွဲဆောင်မှု တစ်ခု မဟုတ်တော့ပါ။
 
 5543
 Andrea Doria was a great admiral.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမ်းဒရူး ဒိုရီယာသည် ကြီးကျယ်သော ရေတပ်ဗိုလ်ချုပ်ကြီး တစ်ယောက် ဖြစ်ခဲ့သည်။
 
 5544
 The Mediterranean has no good ports.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြေထဲပင်လယ်တွင် ကောင်းမွန်သော ဆိပ်ကမ်းများ မရှိပါ။
 
 5545
 The summer season has the best ports.
-<MYANMAR UNICODE TRANSLATION HERE>
+နွေရာသီတွင် အကောင်းဆုံး ဆိပ်ကမ်းများ ရှိသည်။
 
 5546
 All of these trails are located within the a one hour drive of each other.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ လမ်းများ အားလုံးသည် တစ်ခုနှင့်တစ်ခု ကားမောင်း တစ်နာရီစာ အတွင်း တည်ရှိပါသည်။
 
 5547
 Glasgow Lakes trail is considered to be one of the worst trails.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂလပ်စဂိုး ရေကန် လမ်းကို အဆိုးဆုံး လမ်းများ ထဲမှ တစ်ခု ဟု သတ်မှတ်သည်။
 
 5548
 The John Deer Lake trail is one of the better hiking trails.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျွန် ဒီးယား ရေကန် လမ်းသည် ပိုမိုကောင်းမွန်သော တောင်တက် လမ်းများ ထဲမှ တစ်ခု ဖြစ်သည်။
 
 5549
 They are bitter and resentful to everyone now that they have to share the coast.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် ယခု ကမ်းခြေကို အတူဝေမျှသုံးဖို့ ရှိခဲ့သည်က လူတိုင်းကို ခါသက်စေ ပြီး နာကြည်းစေသည်။
 
 5550
 They have to share the coast with other people now.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် ယခု အခြားသော လူများ နှင့်အတူ ကမ်းခြေကို ဝေမျှသုံးရမည်။
 
 5551
 They used to own five hundred miles of coastal frontage.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် ကမ်းရိုးတန်း မျက်နှာစာ မိုင် ငါးရာကို ပိုင်ဆိုင်ခဲ့ဖူးသည်။
 
 5552
 Kublai Khan erected a capital in Taiwan.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကူဗလိုင်ခန် သည် ထိုင်ဝမ်တွင် မြို့တော် တစ်ခု ကို တည်ထောင်ခဲ့သည်။
 
 5553
 Kublai Khan has treasures in Beijing.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကူဗလိုင်ခန်သည် ပေကျင်းတွင် ရတနာများရှိသည်။
 
 5554
 Kublai Khan was a well respected man.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကူဗလိုင်ခန်သည် လေးစားဖွယ် ကောင်းသူ အမျိုးသား တစ်ဦး ဖြစ်ခဲ့သည်။
 
 5555
 The Na Pali Coast can be a challenging hike
-<MYANMAR UNICODE TRANSLATION HERE>
+ငပလီ ကမ်းခြေသည် ခက်ခဲသော တောင်တတ်ခရီး တစ်ခု ဖြစ်နိုင်သည်။
 
 5556
 The Na Pali Coast is an ugly but easy hike.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငပလီ ကမ်းခြေသည် မလှပ သော်လည်း လွယ်ကူသော တောင်တတ်ခရီး တစ်ခု ဖြစ်သည်။
 
 5557
 The Na Pali Coast is one of the hardest and most beautiful hikes in the world.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငပလီ ကမ်းခြေသည် ကမ္ဘာပေါ်တွင် အခက်ခဲဆုံးနှင့် အလှဆုံး တောင်တက်ခရီးများထဲမှ တစ်ခု ဖြစ်သည်။
 
 5558
 Eastern European Jews assimilate well with everyone.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရှေ့ ဥရောပရှိ ဂျူးများသည် လူတိုင်းနှင့် ကောင်းကောင်း ပြေလည်ကြသည်။
 
 5559
 The Jews are not wanted by the rest of the community.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျူးတွေကို ကျန်တဲ့ အသိုင်းအဝိုင်းက မလိုလားဘူး။
 
 5560
 The Jews assimilated easier with the Anglo community.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျူးများသည် အန်ဂလို အသိုင်းအဝိုင်းနှင့် ပိုမိုလွယ်ကူစွာ ရောနှောခဲ့သည်။
 
 5561
 Do not get into the plot in advance; it will spoil the fun later.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကြိုတင်ပြီး ကြံစည်မှု ထဲသို့ ဝင်မပါနှင့် ; နောက်ကျ ပျော်ရွှင်စရာတွေကို ဖျက်ဆီးလိမ့်မယ်။
 
 5562
 Try to understand the plot in advance, if you can.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကြိုတင် ကြံစည်မှုတွေကို မင်း တတ်နိုင်လျှင် ၊ နားလည် ရန် ကြိုးစားပါ။
 
 5563
 You will find the class easier if you understand the plot of the book.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း စာအုပ်ထဲက လျှို့ဝှက်ချက်ကို နားလည်မယ် ဆိုလျှင် မင်း ပိုမိုလွယ်ကူသော အတန်းကို ရှာတွေ့လိမ့်မယ်။
 
 5564
 The Seven Gables is the best sight to see.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆဲဗင်း ဂလ်စ် သည် ကြည့် ရန် အကောင်းဆုံး မြင်ကွင်း ဖြစ်သည်။
 
 5565
 There are more sights to see.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကြည့် ရန် နောက်ထပ် မြင်ကွင်းတွေ ရှိတယ်။
 
 5566
 You must not go beyond these sights.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း ဒီမြင်ကွင်းတွေကို ကျော်လွန်မသွားရဘူး။
 
 5567
 The 2 mile sound could have been caused by many things, including a volcanic eruption.
-<MYANMAR UNICODE TRANSLATION HERE>
+၂ မိုင်အကွာမှ အသံသည် မီးတောင် ပေါက်ကွဲခြင်း တစ်ခု အပါအဝင် ၊ အကြောင်းအရာ များစွာ ကြောင့် ဖြစ်ခဲ့ခြင်း ဖြစ်နိုင်သည်။
 
 5568
 The 2 mile sound was definitely not caused by a volcanic eruption.
-<MYANMAR UNICODE TRANSLATION HERE>
+၂ မိုင်အကွာမှ အသံသည် မီးတောင် ပေါက်ကွဲခြင်း တစ်ခု ကြောင့် ဖြစ်ရတာ လုံးဝ မဟုတ်ပါ။
 
 5569
 The 2 mile sound was probably caused by a volcanic eruption.
-<MYANMAR UNICODE TRANSLATION HERE>
+၂ မိုင်အကွာမှ အသံသည် မီးတောင် ပေါက်ကွဲခြင်း တစ်ခု ကြောင့် ဖြစ်ပွားခြင်း ဖြစ်နိုင်သည်။
 
 5570
 He is buried more than 20m underground.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ့ကို မြေအောက် မီတာ ၂၀ ကျော်မှာ မြှုပ်ထားတယ်။
 
 5571
 He was an important public figure.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် အရေးကြီးသော လူသိများသည့် ပုဂ္ဂိုလ် တစ်ဦး ဖြစ်သည်။
 
 5572
 His burial vaults are made from wood.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ၏ အခေါင်းကို သစ်သားဖြင့် ပြုလုပ်ထားသည်။
 
 5573
 It is a good idea to have a translator with you.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း နှင့်အတူ ဘာသာပြန် တစ်ယောက် ရှိဖို့က ကောင်းသော အကြံ တစ်ခု ဖြစ်တယ်။
 
 5574
 There is a language problem that might intimidate you.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းကို ခြိမ်းခြောက်နိုင်သည့် ဘာသာစကား ပြဿနာ တစ်ခု ရှိပါသည်။
 
 5575
 You do not have to worry about language issues there, since everyone speaks English.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတိုင်း အင်္ဂလိပ်စကား ပြောတတ် သောကြောင့် ၊ ထိုနေရာတွင် ဘာသာစကားပြဿနာ နဲ့ပတ်သတ်ပြီး စိုးရိမ် ဖို့ မလိုပါဘူး
 
 5576
 Napoleon spared the monastery at Montserrat because he respected sacred shrines.
-<MYANMAR UNICODE TRANSLATION HERE>
+နပိုလီယံက သူသည် အထွတ်အမြတ်ထားရာ ဘုရားကျောင်းများကို လေးစားသောကြောင့် မောင့်ဆဲရတ် ရှိ ဘုန်းကြီးကျောင်းကို နှမြောခဲ့သည်။
 
 5577
 Napoleon was responsible for the destruction of the monastery at Montserrat.
-<MYANMAR UNICODE TRANSLATION HERE>
+နပိုလီယံသည် မောင့်ဆဲရတ်ရှိ ဘုန်းတော်ကြီးကျောင်း ဖျက်ဆီးခံရမှုအတွက် တာဝန်ရှိခဲ့သည်။
 
 5578
 The monastery at Montserrat was built using stone and mortar.
-<MYANMAR UNICODE TRANSLATION HERE>
+မောင့်ဆဲရတ် ရှိ ဘုန်းကြီးကျောင်းကို ကျောက်တုံးနဲ့ အင်္ဂတေတွေသုံးပြီး တည်ဆောက်ခဲ့တာပါ။
 
 5579
 Hide your possessions from the monkeys.
-<MYANMAR UNICODE TRANSLATION HERE>
+မျောက်တွေဆီမှ မင်း ပစ္စည်းတွေကို ဖွက်လိုက်ပါ။
 
 5580
 The monkeys are very interested in many things, including your posessions.
-<MYANMAR UNICODE TRANSLATION HERE>
+မျောက်တွေက မင်းရဲ့ ပိုင်ဆိုင်မှုတွေ အပါအဝင် ၊ အရာတော်တော်များများကို အလွန် စိတ်ဝင်စားတယ်။
 
 5581
 You do not need to hide your possessions from the monkeys.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းရဲ့ ပိုင်ဆိုင်မှုတွေကို မျောက်တွေဆီကနေ ဖုံးကွယ်ထားဖို့ မလိုအပ်ပါဘူး။
 
 5582
 The Sailor's House is an ancient building found in the prince's garden.
-<MYANMAR UNICODE TRANSLATION HERE>
+စေးလားဟောက်စ် သည် မင်းသားလေး၏ ဥယျာဉ်တွင် တွေ့ရသော ရှေးဟောင်း အဆောက်အဦးတစ်ခု ဖြစ်သည်။
 
 5583
 The Sailor's House was designed by a famous Italian architect.
-<MYANMAR UNICODE TRANSLATION HERE>
+စေးလားဟောက်စ် ကို နာမည်ကျော် အီတလီ ဗိသုကာပညာရှင် တစ်ဦးက ဒီဇိုင်းဆွဲခဲ့သည်။
 
 5584
 The prince's garden is home to the building called the Sailor's House.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းသားလေး၏ ဥယျာဉ်သည် စေးလားဟောက်စ် ဟုခေါ်သော အဆောက်အအုံ၏ နေအိမ် ဖြစ်သည်။
 
 5585
 Milreu was 10 miles from anything.
-<MYANMAR UNICODE TRANSLATION HERE>
+မေးလ်ရု သည် မည်သည့်အရာမှမဆို ၁၀ မိုင် ကွာဝေးခဲ့သည်။
 
 5586
 Milreu was out in the country.
-<MYANMAR UNICODE TRANSLATION HERE>
+မေးလ်ရု သည် တိုင်းပြည် အပြင်တွင် ရှိခဲ့သည်။
 
 5587
 Milreu was right in the heart of the city.
-<MYANMAR UNICODE TRANSLATION HERE>
+မေးလ်ရု သည် မြို့၏ ဗဟိုချက်တွင် ရှိခဲ့သည်။
 
 5588
 Greece has never been ruled by a military dictator.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂရိနိုင်ငံသည် စစ်အာဏာရှင် စနစ် ဖြင့် အုပ်ချုပ်ခြင်း မရှိခဲ့ပါ။
 
 5589
 Greece is one of the countries in the world that has had a dictator.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂရိနိုင်ငံသည် ကမ္ဘာပေါ်တွင် အာဏာရှင်စနစ် ကျင့်သုံးသော နိုင်ငံများထဲမှ တစ်နိုင်ငံ ဖြစ်သည်။
 
 5590
 Greece's economy did not do so well under the military dictatorship of Metaxas.
-<MYANMAR UNICODE TRANSLATION HERE>
+မက်တာဆက် ၏ စစ်အာဏာရှင်စနစ်အောက်တွင် ဂရိနိုင်ငံ ၏ စီးပွားရေးသည် ကောင်းမွန်စွာ မလုပ်ဆောင်နိုင်ခဲ့ပါ။
 
 5591
 Sant Pau does not have Romanesque lines.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆန့်ပေါသည် ရိုမန်းနစ် ပုံသဏ္ဌာန် မရှိဘူး။
 
 5592
 Sant Pau has Romanesque lines.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆန့်ပေါသည် ရိုမန်းနစ် ပုံသဏ္ဌာန် ရှိသည်။ 
 
 5593
 Sant Pau has churches.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆန့်ပေါတွင် ခရစ်ယာန်ဘုရားကျောင်းများ ရှိသည်။
 
 5594
 It is easily intimidated by any sudden movements.
-<MYANMAR UNICODE TRANSLATION HERE>
+မည်သည့် ရုတ်တရတ် လှုပ်ရှားမှုကြောင့်မဆို အလွယ်တကူ ခြိမ်းခြောက်ခံရတတ်ပါသည်။
 
 5595
 It is fearless, and will not be moved by anything.
-<MYANMAR UNICODE TRANSLATION HERE>
+မကြောက်မရွံ့ ၊ နှင့် မည်သည့်အရာမှ တုန်လှုပ်လိမ့်မည် မဟုတ်ပေ။
 
 5596
 The slightest movement and that's it; it is gone.
-<MYANMAR UNICODE TRANSLATION HERE>
+အနည်းငယ် လှုပ်ရှားမှု ပြီးတော့ ဒါပါပဲ ; ခု ပြီးသွားပြီ။
 
 5597
 Greece population was glad that the country joined the Common Market.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂရိပြည်သူများ က ကွန်မွန်း မားကတ်တွင် ထို နိုင်ငံ ပါဝင်ခဲ့သည်ကို ဝမ်းမြောက်ဝမ်းသာဖြစ်ခဲ့ကြသည်။
 
 5598
 Greece's entry into the Common Market marked the downfall of its economy.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်မွန်း မားကတ်ထဲသို့ ဂရိ ၏ ဝင်ရောက်မှုသည် ၎င်း၏ စီးပွားရေး ကျဆင်းမှုကို အမှတ်အသားပြုခဲ့သည်။
 
 5599
 Greece's entry into the Common Market was good for its economic outlook.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်မွန်း မားကတ်ထဲသို့ ဂရိ ၏ ဝင်ရောက်မှုသည် ၎င်း၏ စီးပွားရေး အလားအလာအတွက် ကောင်းမွန်ခဲ့သည်။
 
 5600
 The refurbishment program will end before the year 2001 begins.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+ပြုပြင်မွမ်းမံခြင်း အစီအစဉ်သည် ၂၀၀၁ ခုနှစ်မစတင်မီ ပြီးဆုံးလိမ့်မည်။
