@@ -1,400 +1,407 @@
 5601
 The refurbishment program will not be done till well after the year 2000 ends.
-<MYANMAR UNICODE TRANSLATION HERE>
+2000 နှစ်ကုန် ပြီးနောက် ပြုပြင်မွမ်းမံခြင်း အစီအစဉ်ကို ကောင်းစွာ လုပ်ဆောင်နိုင်မည် မဟုတ်ပေ။
 
 5602
 When the refurbishment program ends, it will have lasted five years.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြုပြင်မွမ်းမံခြင်း အစီအစဉ် ပြီးဆုံးသည့်အခါ ၊ ၎င်းသည် ငါးနှစ် ကြာမြင့်လိမ့်မည်။
 
 5603
 Sea temperature are always changing, but they do not go below freezing temperature.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပင်လယ်ရေ အပူချိန်သည် အမြဲတမ်း ပြောင်းလဲနေသော်လည်း၊ ၎င်းတို့သည် အေးခဲသော အပူချိန် အောက်တွင် မရှိပါ။
 
 5604
 Sea temperatures are always at one fixed point all year-round.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပင်လယ်ရေ အပူချိန်သည် တစ်နှစ်ပတ်လုံး သတ်မှတ်ထားသော အမှတ် တစ်ခု တွင် အမြဲ ရှိနေပါသည်။
 
 5605
 See temperatures are higher during the day, when it is warmer.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပို၍ပူနွေးလာသောအခါတွင် ၊ နေ့ဖက် အတွင်းတွင် အပူချိန်သည် ပိုမြင့်သည်ကို ကြည့်ပါ။
+#See (or) Sea
+#Review
 
 5606
 The Kinabalu national park has ten elephants and six rhinos.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကီနာဘာလု အမျိုးသား ဥယျာဉ်တွင် ဆင် ဆယ်ကောင် နှင့် ကြံ့ ခြောက်ကောင် ရှိသည်။
 
 5607
 The state has protected regions, which include the Kinabalu national park.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြည်နယ်တွင် ကီနာဘာလု အမျိုးသား ဥယျာဉ် ပါ၀င်သော ၊ ကာကွယ်ထားသော ဒေသများ ရှိသည်။
 
 5608
 There is a total of three protected regions in the state.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြည်နယ် တွင် စုစုပေါင်း ကာကွယ်ထားသော ဒေသ သုံးခု ရှိပါသည်။
 
 5609
 Sofias is close to the Megaro Mousikis Metro station.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆိုဖီယာသည် မီဂရို မောက်စီကစ် မီထရို ဘူတာရုံနှင့် နီးသည်။
 
 5610
 Sofias is inside the Megaro Mousikis Metro station.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆိုဖီယာသည် မီဂရို မောက်စီကစ် မီထရို ဘူတာရုံ အတွင်းမှာ ရှိသည်။
 
 5611
 Sofias is within a stone throw of the Megaro Mousikis Metro station.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆိုဖီယာသည် မီဂရို မောက်စီကစ် မီထရို ဘူတာရုံ ၏ တိုတောင်းသော အကွာအဝေး တစ်ခု အတွင်း ရှိသည်။
 
 5612
 Greece and its people have never figured out how to build temples.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂရိနှင့် ၎င်း၏လူမျိုးများသည် ဘုရားကျောင်းများ မည်ကဲ့သို့  တည်ဆောက်ရမည်ကို ဘယ်သောအခါမှ မတွေးခဲ့ကြပါ။
 
 5613
 It took two decades and five thousand men to build the Olympieion temple.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုလံပီယွန် ဗိမာန်ကို တည်ဆောက် ရန် ဆယ်စုနှစ် နှစ်ခု နှင့် လူ ငါးထောင်ခန့် အချိန်ယူခဲ့ရသည်။
 
 5614
 The Olympieion is the site of one of the temples that were built in Greece.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုလံပီယွန်သည် ဂရိနိုင်ငံတွင် တည်ဆောက်ခဲ့သော ဘုရားကျောင်းများထဲမှ တစ်ခု၏ တည်နေရာ ဖြစ်သည်။
 
 5615
 The Pble Espanyol is only for adults.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပိုဘဲလ် အက်စ်ပန်ညော် သည် အရွယ်ရောက်ပြီးသောသူများ အတွက် သာလျှင် ဖြစ်သည်။
 
 5616
 The Poble Espanyol has places to eat close to it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပိုဘဲလ် အက်စ်ပန်ညော်သည် ၎င်းအနီးတွင် စားရန် နေရာများ ရှိပါသည်။
 
 5617
 The Poble Espanyol is fun for the whole family.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပိုဘဲလ် အက်စ်ပန်ညော်သည် မိသားစု တစ်ခုလုံး အတွက် ပျော်စရာကောင်းသည်။
 
 5618
 The staff works to eliminate the flamingos.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝန်ထမ်းများသည် ကြိုးကြာနီများကို ဖယ်ရှားရန် လုပ်ဆောင်သည်။
 
 5619
 The staff works to increase how many flamingos are on the island so they can recover from near extinction.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝန်ထမ်းများသည် ကျွန်းပေါ်တွင် ကြိုးကြာနီများ မည်မျှရှိသည်ကို တိုးမြှင့်ရန် သူတို့သည် မျိုးသုဉ်းလုနီးအချိန်မှ ပြန်လည်ကောင်းမွန်လာစေရန် အလုပ်လုပ်ကြသည်။
 
 5620
 The staff works to increase how many flamingos are on the island.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝန်ထမ်းများသည် ကျွန်းပေါ်တွင် ကြိုးကြာနီများ မည်မျှရှိသည်ကို တိုးမြှင့် ရန် လုပ်ဆောင်သည်။
 
 5621
 Singel was a tourist location.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆင်ဂဲလ် သည် ခရီးသွား နေရာ တစ်ခု ဖြစ်ခဲ့သည်။
 
 5622
 Singel was an inner city.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆင်ဂဲလ်သည် အတွင်းကျသော မြို့ တစ်မြို့ ဖြစ်ခဲ့သည်။
 
 5623
 Singel was an outer barrier.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆင်ဂဲလ်သည် ပြင်ပ အတားအဆီး တစ်ခု ဖြစ်ခဲ့သည်။
 
 5624
 The building does not have a slide show.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆောက်အဦတွင် ဆလိုက်ရှိုး တစ်ခု မရှိပါ။
 
 5625
 The building does several things, including hosting a 3d slide show.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆောက်အအုံသည် 3D ဆလိုက်ရှိုး တစ်ခုကို လက်ခံကျင်းပခြင်း အပါအဝင် ၊ အရာ များစွာကို လုပ်ဆောင်သည်။
 
 5626
 The building has a 3D slide show about the city's history.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆောက်အအုံတွင် မြို့တော် ၏ သမိုင်းကြောင်းနဲ့ပတ်သက်ပြီး 3D ဆလိုက်ရှိုး တစ်ခု ရှိသည်။
+#review
+#3D
 
 5627
 The mountains constantly have landslides for the harbors aren't easily built there.
-<MYANMAR UNICODE TRANSLATION HERE>
+တောင်တန်းတွေမှာ အမြဲတစေ မြေပြိုမှုတွေ ရှိနေတဲ့အတွက် ဆိပ်ကမ်းတွေကို အဲ့နေရာမှာ လွယ်လွယ်ကူကူ မဆောက်နိုင်သေးပါဘူး။
 
 5628
 The mountains make it hard to build harbors.
-<MYANMAR UNICODE TRANSLATION HERE>
+တောင်တွေက ဆိပ်ကမ်းတွေကို ‌တည်ဆောက်ရန် ခက်ခဲစေတယ်။
 
 5629
 There are 27 harbors along the mountains
-<MYANMAR UNICODE TRANSLATION HERE>
+တောင်တန်း တစ်လျှောက်တွင် ဆိပ်ကမ်း ၂၇ ခုရှိသည်
 
 5630
 The Dora Stratou Folk Dance Theater is selling tickets for the May-September festival.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒိုရာ စတရာတု ဖော့ခ် ဒန့် ပြဇာတ်ရုံသည် မေလ မှ စက်တင်ဘာလထိ ပွဲတော် အတွက် လက်မှတ်များ ရောင်းချနေပါသည်။
+#May-September = မေလ မှ စက်တင်ဘာလ (or) မေ-စက်တင်ဘာ ပွဲတော်
+#Review
 
 5631
 The auditorium on Philopappos Hill is closed from May to September.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖီလိုပတ်ပိုစ့် တောင်ကုန်း ရှိ ဇာတ်ရုံသည် မေလမှ စက်တင်ဘာလအထိ ပိတ်သည်။
 
 5632
 There will be dance activities on Philopappos Hill from May to September.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖီလိုပတ်ပိုစ့် တောင်ကုန်း တွင် မေလမှ စက်တင်ဘာလအထိ အက လှုပ်ရှားမှုများ ပြုလုပ်လိမ့်မည်။
 
 5633
 You will not see photographs.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း ဓာတ်ပုံတွေကို မြင်ရမှာမဟုတ်။
 
 5634
 You will see photographs.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း ဓာတ်ပုံတွေကို မြင်လိမ့်မယ်။
 
 5635
 You will see some of the first photographs.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း ပထမဆုံး ဓာတ်ပုံ အချို့ကို မြင်လိမ့်မည်။
 
 5636
 The church had a $100000 remodeling project.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘုရားကျောင်းတွင် ပြန်လည်မွမ်းမံဖို့ ဒေါ်လာ ၁၀၀၀၀၀ ပရောဂျက် တစ်ခု ရှိခဲ့သည်။
 
 5637
 The church is a very modern style.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘုရားကျောင်းသည် အလွန် ခေတ်မီသော ပုံစံ တစ်ခု ဖြစ်သည်။
 
 5638
 The church looks like Baroque style.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘုရားကျောင်းသည် ဘာရိုကျူ့ ပုံစံနှင့် တူသည်။
 
 5639
 A few mountains, including the Scafell Pike, are fully submerged in the lake.
-<MYANMAR UNICODE TRANSLATION HERE>
+စကဖဲလ် ပိုက်ခ် အပါအဝင် ၊ တောင် အနည်းငယ်သည် ၊ ရေကန်ထဲတွင် အပြည့် နစ်မြုပ်နေပါသည်။
 
 5640
 The lake is close to England's highest mountain - Scafell Pike.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ ရေကန်သည် အင်္ဂလန် ၏ အမြင့်ဆုံးတောင် - စကဖဲလ် ပိုက်ခ် နှင့် နီးကပ်သည်။
 
 5641
 The peak of Scafell Pike is a great spot for viewing the lake.
-<MYANMAR UNICODE TRANSLATION HERE>
+စကဖဲလ် ပိုက်ခ်  ၏ တောင်ထိပ်သည်  ရေကန်ကို ကြည့်ရှုရန် နေရာ ကောင်း တစ်ခု ဖြစ်သည်။
 
 5642
 The collection has a few European and Puerto Rican art pieces.
-<MYANMAR UNICODE TRANSLATION HERE>
+စုစည်းမှုတွင် ဥရောပ နှင့် ပွာတို ရီကန် အနုပညာ အပိုင်း အနည်းငယ် ပါရှိသည်။
 
 5643
 The collection has no European and Puerto Rican art.
-<MYANMAR UNICODE TRANSLATION HERE>
+စုစည်းမှုတွင် ဥရောပ နှင့် ပွာတို ရီကန် အနုပညာများ မရှိပါ။
 
 5644
 The collection of Euorpean and Puerto Rican art is the best in the Carribean
-<MYANMAR UNICODE TRANSLATION HERE>
+ဥရောပ နှင့် ပွာတို ရီကန် အနုပညာ စုဆောင်းမှုသည် ကာရေဘီယံ တွင်အကောင်းဆုံးဖြစ်သည်
 
 5645
 There are not that many hotel options for people visiting Treasure Beach.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထရေးရှား ကမ်းခြေသို့ လာရောက်လည်ပတ်သည့် သူများအတွက် ရွေးချယ်စရာ ဟိုတယ် အများအပြား မရှိပါ။
 
 5646
 There is one four star hotel available for tourist who visit Treasure Beach.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထရေးရှား ကမ်းခြေသို့ လာရောက်လည်ပတ်သည့် ခရီးသွားဧည့်သည်များ အတွက် ရရှိနိုင်သော ကြယ်လေးပွင့်ဟိုတယ်တစ်လုံး ရှိသည်။
 
 5647
 Treasure Beach is one of the many resorts in the area.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထရေးရှား ကမ်းခြေသည် ထို ဒေသ ရှိ အပန်းဖြေစခန်း များစွာထဲမှ တစ်ခု ဖြစ်သည်။
 
 5648
 Bona features the kecak dance prominently.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘိုနာသည် ကီးကပ် အကကို ထင်ထင်ရှားရှား ထူးခြားစေသည်။
 
 5649
 Bona is the home of the kecak dance.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘိုနာသည် ကီးကပ် အက၏ ရှင်သန်ရာ ဖြစ်သည်။
 
 5650
 The kecak dance is not from Bona.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကီးကပ် အကသည် ဘိုနာ ဆီမှ မဟုတ်ပါ။
 
 5651
 Nevada Fall is a crowded area.
-<MYANMAR UNICODE TRANSLATION HERE>
+နီဗားဒါး ရေတံခွန်သည် လူစည်ကားသော နေရာ တစ်ခု ဖြစ်သည်။
 
 5652
 Nevada Fall is a great place to avoid crowds.
-<MYANMAR UNICODE TRANSLATION HERE>
+နီဗားဒါး ရေတံခွန်သည် လူစုလူဝေးကို ရှောင်ရန် ကြီးမားသော နေရာ တစ်ခု ဖြစ်သည်။
 
 5653
 Nevada Falls is a great hike with a few people on it.
-<MYANMAR UNICODE TRANSLATION HERE>
+နီဗားဒါး ရေတံခွန်သည် လူအနည်းငယ် နှင့် ကောင်းမွန်သော ခရီး တစ်ခု ဖြစ်သည်။
 
 5654
 It is always 100 degrees or hotter in the summer.
-<MYANMAR UNICODE TRANSLATION HERE>
+နွေရာသီတွင် အမြဲတမ်း ၁၀၀ ဒီဂရီ သို့မဟုတ် ပို၍ပူသည်။
 
 5655
 It's usually 75 in the summer.
-<MYANMAR UNICODE TRANSLATION HERE>
+နွေရာသီတွင် အများအားဖြင့် ၇၅ ဖြစ်သည်။
 
 5656
 It's warm temperatures during the summer time.
-<MYANMAR UNICODE TRANSLATION HERE>
+နွေရာသီ အတောအတွင်း နွေးထွေးသော အပူချိန် ရှိသည်။
 
 5657
 People never throw money in because it's bad luck.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတွေက ပိုက်ဆံကို ဘယ်တော့မှ မပစ်ဘူး ဘာလို့လည်းဆိုတော့ ဒါက မကောင်းသော ကံ ဖြစ်လို့ပါ။
 
 5658
 People throw coins in even though the sign says not to.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆိုင်းဘုတ်မှာ မလုပ်ရဘူး လို့ ပြောထားတာကိုတောင် လူတွေက ဒင်္ဂါးပြားတွေကို ပစ်ထည့်ကြသည်။
 
 5659
 People throw coins into the water.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတွေက ဒင်္ဂါးပြားတွေကို ရေထဲ ပစ်ချကြတယ်။
 
 5660
 There are no famous jazz clubs in Los Angeles.
-<MYANMAR UNICODE TRANSLATION HERE>
+လော့စ် အိန်ဂျလိစ်တွင် နာမည်ကြီး ဂျက်ဇ် ကလပ်များ မရှိပါ။
 
 5661
 There are several famous jazz clubs in Los Angeles.
-<MYANMAR UNICODE TRANSLATION HERE>
+လော့စ် အိန်ဂျလိစ်တွင် နာမည်ကြီး ဂျက်ဇ် ကလပ် များစွာ ရှိသည်။
 
 5662
 There aren't many jazz clubs in Los Angeles.
-<MYANMAR UNICODE TRANSLATION HERE>
+လော့စ် အိန်ဂျလိစ်တွင် ဂျက်ဇ် ကလပ် အများအပြား မရှိပါ။
 
 5663
 Karl-Marx-Allee has seen better days.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကာလ်-မာစ်-အယ်လီးသည် ပိုမိုကောင်းမွန်သော နေ့ရက်များကို မြင်တွေ့ပြီးပြီ။
 
 5664
 Karl-Marx-Allee is falling apart.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကာလ်-မာစ်-အယ်လီးသည် တသီးတသန့် ပြိုကျသွားသည်။
 
 5665
 Karl-Marx-Allee is in pristine shape.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကာလ်-မာစ်-အယ်လီးသည် သစ်လွင်သော ပုံစံ ဖြစ်သည်။
 
 5666
 They've banned all dolphins at the resort.
-<MYANMAR UNICODE TRANSLATION HERE>
+အပန်းဖြေစခန်းတွင် လင်းပိုင် အားလုံးကို တားမြစ်ထားသည်။
 
 5667
 You can swim with dolphins who can do crazy tricks.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းက အရူးအမူး လှည့်ကွက်တွေ လုပ်နိုင်တဲ့ လင်းပိုင်တွေနဲ့ ရေကူးနိုင်ပါတယ်။
 
 5668
 You can swim with the dophins at the resort.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း အပန်းဖြေစခန်းမှာ လင်းပိုင်တွေနဲ့ ရေကူးနိုင်ပါတယ်။
+#dophins
+#Review
 
 5669
 Nafplio has a good view.
-<MYANMAR UNICODE TRANSLATION HERE>
+နာဖလီယို တွင် ကောင်းမွန်သော မြင်ကွင်း တစ်ခု ရှိသည်။
 
 5670
 Nafplio is a bad base.
-<MYANMAR UNICODE TRANSLATION HERE>
+နာဖလီယို တွင် မကောင်းသော ဌာနချုပ် တစ်ခု ရှိသည်။
 
 5671
 Nafplio is a perfect base.
-<MYANMAR UNICODE TRANSLATION HERE>
+နာဖလီယို တွင် ပြီးပြည့်စုံသော ဌာနချုပ် တစ်ခု ရှိသည်။
 
 5672
 Culebra is halfway between Puerto Rico and St. Thomas in the US Virgin Islands.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကူလီဘရာသည် ယူအက်စ် ဗာဂျင်း ကျွန်းများ ရှိ ပွာတို ရီကို နှင့် စိန့် သော်မတ်စ် ကြား လမ်းတစ်ဝက်တွင် ရှိသည်။
 
 5673
 Culebra is located nowhere near Puerto Rico and St. Thomas in the US Virgin Islands.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကူလီဘရာသည် ယူအက်စ် ဗာဂျင်း ကျွန်းများ ရှိ ပွာတို ရီကို နှင့် စိန့် သော်မတ်စ် အနီးတွင် မည်သည့်နေရာတွင်မျှ မတည်ရှိပါ။
 
 5674
 Culebra is somewhere between Puerto Rico and St. Thomas in the US Virgin Islands.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကူလီဘရာသည် ယူအက်စ် ဗာဂျင်း ကျွန်းများ ရှိ ပွာတို ရီကို နှင့် စိန့် သော်မတ်စ် အကြား တစ်နေရာရာမှာ ရှိသည်။
 
 5675
 Umeda is not part of the entertainment district.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယူမီဒါသည် ဖျော်ဖြေရေး ခရိုင် ၏ အပိုင်း မဟုတ်ပါ။
 
 5676
 Umeda is the largest part of the entertainment district.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယူမီဒါသည် ဖျော်ဖြေရေး ခရိုင် ၏ အကြီးမားဆုံး အပိုင်း ဖြစ်သည်။
 
 5677
 Umeda is the north end of the entertainment district.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယူမီဒါသည် ဖျော်ဖြေရေး ခရိုင် ၏ တောင်ဖက် အစွန်းတွင် ဖြစ်သည်။
 
 5678
 No one built the Canadian Pacific Railway, it was created by alients.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကနေဒါ ပစိဖိတ် မီးရထားလမ်းကို မည်သူမျှ တည်ဆောက်ခဲ့တာမဟုတ်ပါ ၊ ၎င်းကို ဂြိုလ်သားများက ဖန်တီးခဲ့သည်။
 
 5679
 Some of the people that live there are family of the laborers that built the railway.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲ့ဒီမှာ နေထိုင်သော လူ အချို့သည် မီးရထားလမ်း ဖောက်လုပ်သော အလုပ်သမားများ၏ မိသားစုများ ဖြစ်ကြသည်။
 
 5680
 The great great grandkids of the laborers live there.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထိုနေရာတွင် အလုပ်သမားများ၏ သား ၊ မြေး ၊ မြစ် တွင် နေကြသည်။
 
 5681
 The 1896 Neo-Gothic Calvinist Church features many panoramas.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၈၉၆ နီယို-ဂေါ့သစ် ကယ်လ်ဗီနစ် ဘုရားကျောင်းသည် မြင်ကွင်းကျယ် အများအပြား ပါရှိသည်။
 
 5682
 The 1896 Neo-Gothic Calvinist Church has a few panoramas.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၈၉၆ နီယို-ဂေါ့သစ် ကယ်လ်ဗီနစ် ဘုရားကျောင်းသည် မြင်ကွင်းကျယ် အနည်းငယ် ရှိသည်။
 
 5683
 The 1896 Neo-Gothic Calvinist Church has no panoramic views.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၈၉၆ နီယို-ဂေါ့သစ် ကယ်လ်ဗီနစ် ဘုရားကျောင်းသည် မြင်ကွင်းကျယ် မြင်ကွင်းများ မရှိပါ။
 
 5684
 The Saguenay River was part of the coal market.
-<MYANMAR UNICODE TRANSLATION HERE>
+စောက်ဂူနေ မြစ်သည် ကျောက်မီးသွေး ဈေးကွက်၏ အစိတ်အပိုင်း ဖြစ်ခဲ့သည်။
 
 5685
 The Saguenay River was part of the fur trade by the French to the Spanish.
-<MYANMAR UNICODE TRANSLATION HERE>
+စောက်ဂူနေ မြစ်သည် ပြင်သစ်မှ စပိန်သို့ သားမွေး ကုန်သွယ်မှု၏ တစ်စိတ်တစ်ပိုင်း ဖြစ်သည်။
 
 5686
 The Saguenay River was part of the fur trade.
-<MYANMAR UNICODE TRANSLATION HERE>
+စောက်ဂူနေ မြစ်သည် သားမွေး ကုန်သွယ်မှု ၏ တစ်စိတ်တစ်ပိုင်း ဖြစ်ခဲ့သည်။
 
 5687
 100 barrels of gunpowder disappeared.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယမ်းမှုန့် သိုလှောင်ထားသောစည် အလုံး ၁၀၀ ပျောက်ကွယ်ခဲ့သည်။
 
 5688
 100 barrels of gunpowder was never used.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယမ်းမှုန့် သိုလှောင်ထားသောစည် အလုံး ၁၀၀ ကို ဘယ်တုန်းကမှ မသုံးခဲ့ဘူး။
 
 5689
 100 barrels of gunpowder was owned by the English.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယမ်းမှုန့် သိုလှောင်ထားသောစည် အလုံး ၁၀၀ က အင်္ဂလိပ်တွေက ပိုင်ဆိုင်ခဲ့တာပါ။
 
 5690
 Brahma is a Christian apostle.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဗြဟ္မာသည် ခရစ်ယာန် တမန်တော် တစ်ယောက် ဖြစ်သည်။
 
 5691
 Brahma is part of the Hindu trinity.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဗြဟ္မာသည် ဟိန္ဒူ သုံးပါးတစ်ဆူ အစိတ်အပိုင်း ဖြစ်သည်။
 
 5692
 Brahma is the most important part of the trinity.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဗြဟ္မာသည် သုံးပါးတစ်ဆူ ၏ အရေးကြီးဆုံး အစိတ်အပိုင်း ဖြစ်သည်။
 
 5693
 Balza's home and Delacroix's studio are the best things to see in the area.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘလ်ဇာ ၏ အိမ် နှင့် ဒဲလာခရိုစ် ၏ စတုဒီယိုသည် ဒီ နေရာတွင် ကြည့်ရှု့ ရန် အကောင်းဆုံး အရာများ ဖြစ်ပါသည်။
 
 5694
 Balzac's home and Delacroix's studio are not in this location.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘလ်ဇာ ၏ အိမ် နှင့် ဒဲလာခရိုစ် ၏ စတုဒီယိုသည် ဒီ နေရာ မှာ မရှိပါ။
 
 5695
 Balzac's home and Delacroix's studio are worth checking out.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘလ်ဇာ ၏ အိမ် နှင့် ဒဲလာခရိုစ် ၏ စတုဒီယိုသည် စစ်ဆေးရန် ထိုက်တန်သည်။
 
 5696
 10000 people died in the war.
-<MYANMAR UNICODE TRANSLATION HERE>
+စစ်ပွဲတွင် လူပေါင်း ၁၀၀၀၀ သေဆုံးခဲ့သည်။
 
 5697
 The war was months long.
-<MYANMAR UNICODE TRANSLATION HERE>
+စစ်ပွဲဟာ လနဲ့ချီကြာခဲ့ပါတယ်။
 
 5698
 The war was over in just a day.
-<MYANMAR UNICODE TRANSLATION HERE>
+စစ်ပွဲက တစ်ရက်တည်းနဲ့ ပြီးသွားတယ်။
 
 5699
 The Spartans defeated the Persians at Thermopylae.
-<MYANMAR UNICODE TRANSLATION HERE>
+စပါတာများသည် သာမောပလီးတွင် ပါရှားလူမျိုးများကို စစ်ရှုံးခဲ့သည်။
 
 5700
 The Spartans delayed the Persian army at Thermopylae.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+စပါတာများသည် သာမောပလီးတွင် ပါရှား စစ်တပ်ကို နှောင့်နှေးစေခဲ့သည်။
