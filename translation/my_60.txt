@@ -1,46 +1,46 @@
 5901
 The mansion cost 2 million dollars to build.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီအိမ်ကြီးကို ဆောက်ဖို့ ဒေါ်လာ ၂ သန်း ကုန်ကျတယ်။
 
 5902
 The mansion was built by Adam Sandler.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီအိမ်ကြီးကို အဒမ်စန်ဒယ်လာ ကဆောက်ခဲ့တာ။
 
 5903
 The shrines all worship Muhammed.
-<MYANMAR UNICODE TRANSLATION HERE>
+နတ်ဘုရားကျောင်းအားလုံးသည် မိုဟာမတ်ကို ကိုးကွယ်တယ်။
 
 5904
 The shrines serve meatloaf on mondays.
-<MYANMAR UNICODE TRANSLATION HERE>
+နတ်ဘုရားကျောင်းများသည် တနင်္လာနေ့များတွင် အသားတုံးကျွေးတယ်။
 
 5905
 There are three shrines dedicated to various deities.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမျိုးမျိုးသော နတ်ဘုရားများကို ရည်စူးထာတဲ့ နတ်ကွန်း သုံးခုရှိတယ်။
 
 5906
 The churches are also daycare centers for children.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘုရားကျောင်းတွေဟာ ကလေးတွေအတွက် နေ့ကလေးထိန်းစင်တာများလည်းဖြစ်တယ်။
 
 5907
 The churches are on the left side of the road.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘုရားကျောင်းများတွေဟာ လမ်းမကြီးရဲ့ ဘယ်ဘက်ခြမ်းမှာရှိတယ်။
 
 5908
 Two churches can be found on the right side of the road.
-<MYANMAR UNICODE TRANSLATION HERE>
+လမ်းမကြီးရဲ့ ညာဘက်ခြမ်းမှာ ဘုရားကျောင်း နှစ်ကျောင်းကို တွေ့နိုင်တယ်။
 
 5909
 The museum is across the street from the Egyptian museum.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတိုက်သည် အီဂျစ်ပြတိုက်မှ လမ်းတဖက်တွင်ရှိသည်။
 
 5910
 The museum is near the Egyptian museum.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတိုက်သည် အီဂျစ်ပြတိုက်အနီးတွင်ရှိသည်။
 
 5911
 The museum is very far from the museum about Egypt.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတိုက်သည် အီဂျစ်လူမျိုးများအကြောင်းပြတိုက်မှ အတော်ဝေးသည်။
 
 5912
 The Stampede had nothing to do with cattle.
@@ -56,99 +56,101 @@ The Stampede was intended to show the techniques of farm life.
 
 5915
 Nearly 100 thousand people come to check out the city every day.
-<MYANMAR UNICODE TRANSLATION HERE>
+နေ့တိုင်း လူထောင်ပေါင်း၁၀၀နီးပါး/လူပေါင်းတစ်သိန်းနီးပါး မြို့တော်ကို လေ့လာကြည့်ရှုဖို့ ရောက်ရှိလာကြတယ်။ 
+#REVIEW
 
 5916
 Only 50 thousand people come to check out the city on a day to day basis.
-<MYANMAR UNICODE TRANSLATION HERE>
+နေ့စဉ်နေ့တိုင်း ပုံမှန် လူထောင်ပေါင်း၅၀/ လူငါးသောင်း သာလျှင် မြို့တော်ကို လေ့လာကြည့်ရှုဖို့ ရောက်ရှိလာကြတယ်။ 
+#REVIEW
 
 5917
 The city does not have a great tourism industry.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြို့တော်တွင် အောင်မြင်တွင်ကျယ်နေသောခရီးသွားလုပ်ငန်း မရှိပါ။
 
 5918
 The city hall was replaced by a government center.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြို့တော်ခန်းမကို အစိုးရဗဟိုဌာနတခုနဲ အစားထိုးလိုက်တယ်။
 
 5919
 The city hall, and other buildings, were replaced by a government center.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြို့တော်ခန်းမရယ်၊ ပြီးတော့ အခြား အဆောက်အဦတွေကို၊ အစိုးရဗဟိုဌာနတခုက အစားထိုးလိုက်တယ်။
 
 5920
 The government center was replaced by city hall.
-<MYANMAR UNICODE TRANSLATION HERE>
+အစိုးရဗဟိုဌာနကို မြို့တော်ခန်းမနဲ့ အစားထိုးလိုက်တယ်။
 
 5921
 The statue is made entirely of marble.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရုပ်ထု ကို အကုန်လုံး စကျင်ကျောက်နဲ့ ပြုလုပ်ထားတယ်။
 
 5922
 The statue of the city founder was built in 1898.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြို့တည်ထောင်သူရဲ့ ရုပ်ထုကို ၁၈၉၈ခုနှစ်မှာ ထုလုပ်ခဲ့တာ။
 
 5923
 The statue was built in the year 1775.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရုပ်ထုကို ၁၇၇၅ခုနှစ်ထဲမှာ ထုလုပ်ခဲ့တာ။
 
 5924
 The road goes from Payangan to Batur.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပရန်ဂန် ကနေ ဘတ်တိုရှ်ကို လမ်းမကြီးကနေပေါက်တယ်။
 
 5925
 The road is 15 miles from Payangan to Batur.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီလမ်းမကြီးက ပရန်ဂန် ကနေ ဘတ်တိုရှ်ကို ၁၅မိုင်ရှိတယ်။
 
 5926
 The road never reaches Batur.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီလမ်းမကြီးက ဘတ်တိုရှ်ဆီ မရောက်ဘူး။
 
 5927
 MIT is where the world's most successful students attend college.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမ်အိုင်တီသည် ကမ္ဘာ့ အအောင်မြင်ဆုံးကျောင်းသားကျောင်းသူများတက်ရောက်သောကောလိပ်ဖြစ်သည်။
 
 5928
 MIT was founded in 1861.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမ်အိုင်တီကို ၁၈၆၁ ခုနှစ်တွင် တည်ထောင်ခဲ့သည်။
 
 5929
 MIT was founded when Jesus was born.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမ်အိုင်တီကို ယေရှုမွေးဖွားချိန်တွင် တည်ထောင်ခဲ့သည်။
 
 5930
 The Parque de Palapas is where people have barbecues all the time.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပါရတ်ကတ်ဒီပလပတ်စ်က လူများ တချိန်လုံး အသားကင်စားတဲ့ နေရာဖြစ်တယ်။
 
 5931
 The locals can be joined during the weekends in the Parque de Palapas.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပါရတ်ကတ်ဒီပလပတ်စ်မှာ ဒေသခံတွေက သတင်းပတ်ကုန်ပိတ်ရက်တွေမှာပဲ ပါဝင်နိုင်တယ်။
 
 5932
 You can't ever go to the Parque de Palapas, it is forbidden.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား ပါရတ်ကတ်ဒီပလပတ်စ်ဆီကို အမြဲသွားလို့မရဘူး၊ တားမြစ်ထားတယ်။
 
 5933
 James Wilson Marshall did nothing special.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျိမ်းစ်ဝီလျှံမာရှဲလ်က ဘာမှ ထူးထူးခြားခြား  မလုပ်ခဲ့ဘူ။
 
 5934
 James Wilson Marshall did something special.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျိမ်းစ်ဝီလျှံမာရှဲလ် က ထူးထူးခြားခြား တခုခု လုပ်ခဲ့တယ်။
 
 5935
 James Wilson Marshall invented something.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျိမ်းစ်ဝီလျှံမာရှဲလ် က တခုခု တီထွင်ခဲ့တယ်။
 
 5936
 The Perak Tong was built by a Buddhist priest.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပဲရက်တွန်းကို ဗုဒ္ဓဘာသာ ဘုန်းတော်ကြီးတပါးက တည်ဆောက်ခဲ့တာပါ။
 
 5937
 The Perak Tong was built by a Buddhist.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပဲရက်တွန်းကို ဗုဒ္ဓဘာသာတယောက်က တည်ဆောက်ခဲ့တာပါ။
 
 5938
 The Perak Tong was not built by a Buddhist.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပဲရက်တွန်းကို ဗုဒ္ဓဘာသာတယောက်က တည်ဆောက်ခဲ့တာ မဟုတ်ဘူး။
 
 5939
 Kodaly kerend is decorate with Classical gures and inlaid motifs.
@@ -164,123 +166,123 @@ The Kodaly kerend is not decorated with gures and motifs.
 
 5942
 National unity doesn't matter at all.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမျိုးသား စည်းလုံးညီညွတ်ရေးသည် လုံးဝ အရေးမကြီးပါ။
 
 5943
 National unity is more important than everything else combined.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမျိုးသား စည်းလုံးညီညွတ်ရေးသည် အခြား အရာအားလုံး ပေါင်းစည်းခြင်းထက် ပို၍ အရေးကြီးသည်။
 
 5944
 National unity is never the first priority.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမျိုးသား စည်းလုံးညီညွတ်ရေးသည် မည်သည့်အခါကမျှ ပထမ ဦးစားပေး အဖြစ်ခဲ့ပါ။
 
 5945
 The Parliament is located here.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပါလီမန်သည် ဤနေရာတွင် တည်ရှိသည်။
 
 5946
 The Parliament was never housed here.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပါလီမန်ကို ဤနေရာတွင် မည်သည့်အခါကမျှ မထားရှိပါ။
 
 5947
 The Parliament was strongly considered for this location.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤနေရာအတွက် ပါလီမန်ကို လေးလေးနက်နက်စဉ်းစားထားသည်။
 
 5948
 It's cheaper to buy stuff here because there is no tax.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခွန်မရှိလို့ ဒီမှာ ပစ္စည်းဝယ်ရတာ ဈေးပိုသက်သာတယ်။
 
 5949
 It's cheaper to buy stuff here.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီမှာ ပစ္စည်းဝယ်ရတာ ဈေးပိုသက်သာတယ်။
 
 5950
 This place is more expensive than anywhere!
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီနေရာက အခြားနေရာတွေထက် ဈေးပိုကြီးတယ်။
 
 5951
 Ramses II was leader for decades.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရမ်စိစ်သည်တူးသည် ဆယ်စုနှစ်များစွာတိုင် ခေါင်းဆောင်ဖြစ်ခဲ့သည်။
 
 5952
 Ramses II was only in power for a year.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရမ်စိစ်သည်တူးသည် တနှစ်သာလျှင် အာဏာရရှိခဲ့သည်။
 
 5953
 Ramses II was the longest-ruling king.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရမ်စိစ်သည်တူးသည် သက်တမ်းအရှည်ဆုံး အုပ်ချုပ်သည့် ဘုရင် ဖြစ်ခဲ့သည်။
 
 5954
 The Montesserant is a river.
-<MYANMAR UNICODE TRANSLATION HERE>
+မောင့်ဆရပ်သည် မြစ်တစ်စင်းဖြစ်သည်။
 
 5955
 The Montesserat are mountains.
-<MYANMAR UNICODE TRANSLATION HERE>
+မောင့်ဆရပ်သည် တောင်စဉ်တန်းများဖြစ်သည်။
 
 5956
 The Mountesserat mountains are the tallest in the area.
-<MYANMAR UNICODE TRANSLATION HERE>
+မောင့်ဆရပ်တောင်များသည် အဆိုပါဒေသတွင် အမြင့်ဆုံးဖြစ်သည်။
 
 5957
 Coupons are given out on the beach at night, hoping for customers the next day.
-<MYANMAR UNICODE TRANSLATION HERE>
+နောက်တနေ့မှာ ဖောက်သည်တွေကို မျှော်လင့်ထားရင်း၊ ညပိုင်း ကမ်းခြေမှာ ကူပွန်တွေ ဝေတယ်။
 
 5958
 Coupons are given out on the beach, hoping for long term customers.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရေရှည်ဖောက်သည်တွေကိုမျှော်လင့်ရင်း၊ ကမ်းခြေမှာ ကူပွန်တွေ ဝေတယ်။
 
 5959
 Coupons are given out on the beach, hoping to attract customers at night.
-<MYANMAR UNICODE TRANSLATION HERE>
+ညပိုင်း ဖောက်သည်တွေကို ကို ဆွဲဆောင်နိုင်မယ်လို့ မျှော်လင့်ရင်း၊ ကမ်းခြေမှာ ကူပွန်တွေ ဝေတယ်။
 
 5960
 The Rejan is crystal-clear.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရဂျန်သည် ကြည်လင်ရှင်းသန့်သည်။
 
 5961
 The Rejan is over 300 miles long.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရဂျန်သည် မိုင်၃၀၀ကျော်ရှည်လျားသည်။
 
 5962
 The rejan is just a little puddle.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရဂျန်သည် ရေအိုင်ငယ်လေးတခုသာဖြစ်သည်။
 
 5963
 The living area is through a tunnel that is almost a mile long.
-<MYANMAR UNICODE TRANSLATION HERE>
+နေထိုင်ကြတဲ့နေရာက တစ်မိုင်နီးပါးရှည်တဲ့ ဉမင်လှိုင်ခေါင်းတစ်ခုကို ဖြတ်သွားရတယ်။
 
 5964
 The living area is through a tunnel.
-<MYANMAR UNICODE TRANSLATION HERE>
+နေထိုင်ကြတဲ့နေရာကို ဉမင်လှိုင်ခေါင်းတစ်ခုကို ဖြတ်သွားရတယ်။
 
 5965
 The living area is up some stairs in the attic.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဧည့်ခန်းနေရာက ထပ်ခိုးထပ်မှာ လှေခါးကနေတက်သွားပြီ ဖြစ်သည်။
 
 5966
 The Megaron is a concert hall.
-<MYANMAR UNICODE TRANSLATION HERE>
+မာဂရွန်သည် ဖျော်ဖြေပွဲခန်းမတစ်ခုဖြစ်သည်။
 
 5967
 The Megaron is the bigget concert hall in the country.
-<MYANMAR UNICODE TRANSLATION HERE>
+မာဂရွန်သည် နိုင်ငံတွင်းမှာ အကြီးဆုံးဖျော်ဖြေပွဲခန်းမ ဖြစ်သည်။
 
 5968
 The megaron is a train station
-<MYANMAR UNICODE TRANSLATION HERE>
+မာဂရွန်သည် ရထားဘူတာရုံတစ်ရုံ ဖြစ်သည်။
 
 5969
 The market is called Mercat de la Cantaloupe.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ ဈေးကို မာကတ်ဒီလကန်တယ်လုပ်ဟုခေါ်သည်။
 
 5970
 The market sells lots of fruits and vegetables.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါဈေးက အသီးအနှံတွေနဲ့ ဟင်းသီးဟင်းရွက်တွေရောင်းတယ်။
 
 5971
 There is a market called Mercat de la Concepcie.
-<MYANMAR UNICODE TRANSLATION HERE>
+မာကတ်ဒီလကွန်စပ်စီလို့ခေါ်တဲ့ ဈေးရှိတယ်။
 
 5972
 If you go to the museum, you can hear the Watergate tapes when you do the audiotour.
@@ -288,19 +290,19 @@ If you go to the museum, you can hear the Watergate tapes when you do the audiot
 
 5973
 The watergate tapes have never been heard by the public.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝေါတဂိတ်တိပ်ကို အများပြည်သူများနားမထောင်ဖူးသေးပါ။
 
 5974
 You can hear the Watergate tape for yourself.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝေါတဂိတ်တိပ်ကို ခင်ဗျားကိုယ်တိုင် နားထောင်နိုင်တယ်။
 
 5975
 The theater is on the last street on the south end of town.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြဇာတ်ရုံသည် မြို့ရဲ့တောင်ဘက်အစွန်းရှိ နောက်ဆုံးလမ်းပေါ်တွင်ရှိသည်။
 
 5976
 The theater is on the north side.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြဇာတ်ရုံသည် မြောက်ဘက်တွင် ရှိသည်။
 
 5977
 The theater is towards the south side.
@@ -308,93 +310,93 @@ The theater is towards the south side.
 
 5978
 The building had no basement.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆောက်အဦတွင် မြေအောက်ထပ်မပါရှိပါ။
 
 5979
 The building hid the SS guard houses.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆောက်အဦးသည် အက်စ်အက်စ် အစောင့်ကင်းတဲများကို ကွယ်ထားသည်။
 
 5980
 The building was over the SS guard houses.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆောက်အဦးသည် အက်စ်အက်စ် အစောင့်ကင်းတဲများအကျော်တွင်ရှိသည်။
 
 5981
 The art project is really fascinating.
-<MYANMAR UNICODE TRANSLATION HERE>
+အနုပညာပရောဂျတ်က အမှန်တကယ် အရမ်းစိတ်ဝင်စားဖို့ကောင်းတယ်။
 
 5982
 This is a fascinating project.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီဟာက အရမ်းစိတ်ဝင်စားစရာကောင်းတဲ့ စီမံကိန်းတခုပဲ။
 
 5983
 This is so boring!
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက ပျင်းစရာအရမ်းကောင်းတာပဲ။
 
 5984
 Lagun Nichupte is a desert.
-<MYANMAR UNICODE TRANSLATION HERE>
+လဂန်းနီချောက်ပ်သည် ကန္တာရတခုဖြစ်သည်။
 
 5985
 Laguna Nichupte is 10 acres of water.
-<MYANMAR UNICODE TRANSLATION HERE>
+လဂန်းနီချောက်ပ်တွင် ရေ၁၀ဧကရှိသည်။
 
 5986
 Laguna Nichupte is a body of water.
-<MYANMAR UNICODE TRANSLATION HERE>
+လဂန်းနီချောက်ပ်သည် ရေပြင်တခုဖြစ်သည်။
 
 5987
 No one cares about the cars anymore.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကားတွေအကြောင်းကို ဘယ်သူမှ နောက်ထပ် ဂရုမစိုက်ကြတော့ဘူး။
 
 5988
 The cars are shiny and sparkly.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကားများသည် ပြောင်လက်ပြီးတောက်ပြောင်နေသည်။
 
 5989
 The cars get a lot of visitors.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကားတွေမှာ ဧည့်သည်တွေအများကြီးပဲ။
 
 5990
 The Depression lasted for more than ten years.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီးပွားရေးပျက်ကပ်ကြီးသည် ဆယ်နှစ်ကျော် ကြခဲ့သည်။
 
 5991
 The province was close to starvation during the Depression.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီးပွားရေးပျက်ကပ်ကာလအတွင်း အဆိုပါပြည်နယ်သည် ငတ်မွတ်ခေါင်းပါးမှုအငတ်ဘေးနှင့်ကြုံလုနီးပါးဖြစ်ခဲ့သည်။
 
 5992
 The province was known for being home to some of the wealthiest families in the region.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါပြည်နယ်ကို ဒေသတွင်းရှိ အချို့သော အချမ်းသာဆုံးမိသားစုများ၏ ဇာတိမြေ ဖြစ်သောကြောင့် သိကြသည်။
 
 5993
 The Olympics have never been in Europe.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုလံပစ်ပြိုင်ပွဲက ဉရောပမှာ တခါမှ မကျင်းပဖူးဘူး။
 
 5994
 The Olympics in Spain were the most popular of that decade.
-<MYANMAR UNICODE TRANSLATION HERE>
+စပိန်တွင် ကျင်းပသော အိုလံပစ်သည် အဆိုပါ ဆယ်စုနှစ်တွင် လူအကြိုက်အများဆုံး အထင်ရှားဆုံးဖြစ်သည်။
 
 5995
 The Olympics were in Spain in 1992.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုလံပစ်ပြိုင်ပွဲကို ၁၉၉၂ခုနှစ်၌ စပိန်တွင် ကျင်းပခဲ့သည်။
 
 5996
 The actors are paid ten dollars a day to pretend to be pilgrims.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘုရားဖူးတွေအဖြစ် အယောင်ဆောင်ဖို့ သရုပ်ဆောင်တွေကို တစ်နေ့ ဆယ်ဒေါ်လာပေးတယ်။
 
 5997
 The parts of sailor and pilgrims are filled by actors.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင်္ဘောသားနဲ့ ဘုရားဖူးတွေရဲ့ အပိုင်းတွေကို သရုပ်ဆောင်တွေနဲ့ ဖြည့်လိုက်တယ်။
 
 5998
 The sailors and pilgrims were all one hundred percent authentic.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင်္ဘောသားတွေနဲ့ ဘုရားဖူးတွေဟာ တစ်ရာ ရာနှုန်းပြည့် အားလုံး အစစ်အမှန်တွေဖြစ်ကြတယ်။
 
 5999
 The building has a huge iron weathervane.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆောက်အဦးတွင် ကြီးမားသော သံလေညွှန်တံကြီးတခုရှိသည်။
 
 6000
 The building is most known for it's fence.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆောက်အဦးသည် ၎င်း၏ ခြံစည်းရိုးကြောင့် လူသိအများဆုံးဖြစ်သည်။
 
