@@ -103,8 +103,6 @@ The building does several things, including hosting a 3d slide show.
 5626
 The building has a 3D slide show about the city's history.
 အဆောက်အအုံတွင် မြို့တော် ၏ သမိုင်းကြောင်းနဲ့ပတ်သက်ပြီး 3D ဆလိုက်ရှိုး တစ်ခု ရှိသည်။
-#review
-#3D
 
 5627
 The mountains constantly have landslides for the harbors aren't easily built there.
