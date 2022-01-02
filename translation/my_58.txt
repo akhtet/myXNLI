@@ -1,400 +1,403 @@
 5701
 The Spartans killed many of the Persian army at Thermopylae.
-<MYANMAR UNICODE TRANSLATION HERE>
+စပါတာတို့သည် သာမောပလီး တွင် ပါရှား စစ်တပ် အများအပြားကို သတ်ခဲ့သည်။
 
 5702
 Otto Frank got captured on the second day.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒုတိယနေ့တွင် အော်တိုဖရန့်ကို ဖမ်းဆီးရရှိခဲ့သည်။
 
 5703
 Otto Frank hid for more than 25 months.
-<MYANMAR UNICODE TRANSLATION HERE>
+အော်တိုဖရန့်သည် ၂၅ လကျော် ပုန်းအောင်းနေခဲ့သည်။
 
 5704
 Otto Frank hid until the Nazis found him.
-<MYANMAR UNICODE TRANSLATION HERE>
+အော်တိုဖရန့်က သူ့ကို နာဇီတွေ ရှာမတွေ့ခင်အထိ ပုန်းနေခဲ့တယ်။
 
 5705
 The tea kettles are ugly and it's so boring to learn about them.
-<MYANMAR UNICODE TRANSLATION HERE>
+လက်ဖက်ရည်အိုးတွေက မလှမပဖြစ် ပြီး သူတို့ အကြောင်း လေ့လာရန် အလွန် ပျင်းဖို့ကောင်းတယ်။
 
 5706
 You will like the tea kettles that are hundreds of years old.
-<MYANMAR UNICODE TRANSLATION HERE>
+နှစ်ရာနဲ့ချီ သက်တမ်းရှိတဲ့ လက်ဖက်ရည်ခွက်တွေကို မင်း ကြိုက်လိမ့်မယ်။
 
 5707
 You'll like the tea kettles because they are colorful and pretty.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရောင်စုံ ပြီး လှပသောကြောင့် ဒီ လက်ဖက်ရည်ခွက်တွေကို မင်း ကြိုက်လိမ့်မယ်။
 
 5708
 Fairly popular sifhts include the new lion exhibit, snow leopard and cheetah exhibits, and an African tropical rain forest.
-<MYANMAR UNICODE TRANSLATION HERE>
+အတော်အတန် လူကြိုက်များသော ရူထောင့်များတွင် ခြင်္သေ့ အသစ် ပြပွဲ ၊  နှင်း ကျားသစ် နှင့် တောလိုက်ကျားသစ် ပြပွဲများ နှင့် ၊ အာဖရိက အပူပိုင်း မိုး သစ်တောတို့ ပါဝင်သည်။
 
 5709
 The best things to check out are the new lion exhibit, snow leopard and cheetah exhibits, and an African tropical rain forest.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကြည့်ရှုစစ်ဆေးရန် အကောင်းဆုံး အရာများမှာ ခြင်္သေ့ အသစ် ပြပွဲ ၊  နှင်း ကျားသစ် နှင့် တောလိုက်ကျားသစ် ပြပွဲများ နှင့် ၊ အာဖရိက အပူပိုင်း မိုး သစ်တောတို့ ဖြစ်ကြသည်။
 
 5710
 There is no new lion exhibit, snow leopard and cheetah exhibits, or African tropical rain forest at the facility.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ အဆောက်အဦတွင် ခြင်္သေ့ အသစ် ပြပွဲ ၊  နှင်း ကျားသစ် နှင့် တောလိုက်ကျားသစ် ပြပွဲများ ၊ သို့မဟုတ် အာဖရိက အပူပိုင်း မိုး သစ်တောများ မရှိပါ။
 
 5711
 The building is very old and basic.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆောက်အဦသည် အလွန် ဟောင်း ပြီး အခြေခံကျသည်။
 
 5712
 The building uses a lot of engineering technology to keep it from sliding into the ocean.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆောက်အအုံသည် သမုဒ္ဒရာ ထဲသို့ လျှောကျခြင်းမှ ၎င်းကို ထိန်းသိမ်းရန် အင်နီယာ နည်းပညာ များစွာကို အသုံးပြုထားသည်။
 
 5713
 The building's location is really interesting.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆောက်အဦး ရဲ့ တည်နေရာက တကယ်ကို စိတ်ဝင်စားဖို့ကောင်းပါတယ်။
 
 5714
 Some of the antiques are shown.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှေးဟောင်းပစ္စည်း အချို့ ကို ပြသထားသည်။
 
 5715
 You can touch some of the imperial armor.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း ရှေးရိုးဗြိတိသျှသုံး သံချပ်ကာ အချို့ကို ထိတွေ့နိုင်သည်။
 
 5716
 You can't see anything old on display.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြသခြင်းတွင် မင်း ဟောင်းနွမ်းနေသည့် မည်သည့်အရာကိုမှ မတွေနိုင်ဘူး။
 
 5717
 Weltkugelbrunnen is made of aluminum.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝက်ခ်ခရူးဂျဲဘန်းနန်း ကို အလူမီနီယမ်နဲ့ ပြုလုပ်ထားပါတယ်။
 
 5718
 Weltkugelbrunnen is made of granite that is very black and shiny.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝက်ခ်ခရူးဂျဲဘန်းနန်းသည် အလွန် နက်မှောင် ပြီး တောက်ပြောင်သော အလွန်မာသည့်ကျောက်တုံးများဖြင့် ပြုလုပ်ထားသည်။
 
 5719
 Weltkugelbrunnen is made of granite.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝက်ခ်ခရူးဂျဲဘန်းနန်းသည် အလွန်မာသည့်ကျောက်တုံးများဖြင့် ပြုလုပ်ထားသည်။
 
 5720
 The Zenith hosts 1000 concerts a year.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဇဲနတ်သည် တစ်နှစ်လျှင် ဖျော်ဖြေပွဲ ၁၀၀၀ ကို လက်ခံကျင်းပသည်။
 
 5721
 The Zenith is a big concert hall.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဇဲနတ်သည် ကြီးမားသော ဖျော်ဖြေပွဲ ခန်းမ တစ်ခု ဖြစ်သည်။
 
 5722
 The Zenith is a train station.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဇဲနတ်သည် ရထားဘူတာတစ်ခုဖြစ်သည်။
 
 5723
 The protests all ended in the 50's.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆန္ဒပြပွဲများ သည် ၅၀ ခုနှစ်များတွင် အဆုံးသတ်ခဲ့သည်။
 
 5724
 There were protests in the 70's.
-<MYANMAR UNICODE TRANSLATION HERE>
+၇၀ ခုနှစ်များတွင် ဆန္ဒပြမှုများ ရှိခဲ့သည်။
 
 5725
 There were racial protests in the 70's.
-<MYANMAR UNICODE TRANSLATION HERE>
+၇၀ ခုနှစ်များတွင် လူမျိုးရေး ဆန္ဒပြမှုများ ရှိခဲ့သည်။
 
 5726
 Sqamish has never had a log-rolling contest.
-<MYANMAR UNICODE TRANSLATION HERE>
+စကွေးမစ်ရှ်တွင် log-rolling ပြိုင်ပွဲ တစ်ခုကို တစ်ခါမှ မပြုလုပ်ဖူးပါ။
+#log-rolling - သစ်လုံးလှိမ့်
+#review
 
 5727
 Squamish is famous for log-rolling contests.
-<MYANMAR UNICODE TRANSLATION HERE>
+စကွေးမစ်ရှ်သည် log-rolling ပြိုင်ပွဲများ ကြောင့် ကျော်ကြားသည်။
+#review 
 
 5728
 Squamish is were log-rolling contests started.
-<MYANMAR UNICODE TRANSLATION HERE>
+စကွေးမစ်ရှ်တွင် log-rolling ပြိုင်ပွဲများကို စတင်ခဲ့သည်။ 
+#review
 
 5729
 The Loyal Senate building is beautiful.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရွိုင်ရယ် ဆီးနိတ် အဆောက်အဦသည် လှပသည်။
 
 5730
 The Loyal Senate building is modern architecture.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရွိုင်ရယ် ဆီးနိတ် အဆောက်အဦသည် ခေတ်မီ ဗိသုကာလက်ရာ ဖြစ်သည်။
 
 5731
 The Loyal Senate building is very tall and white.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရွိုင်ရယ် ဆီးနိတ် အဆောက်အဦသည် အလွန် မြင့်မား ပြီး အဖြူရောင် ဖြစ်သည်။
 
 5732
 It happens again in mid-August.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းသည် ဩဂုတ်လ အလယ်တွင် ထပ်မံ ဖြစ်ပွားသည်။
 
 5733
 It happens again on Tuesday, August 15.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းသည် သြဂုတ် ၁၅ ရက် ၊ အင်္ဂါနေ့တွင် ထပ်မံ ဖြစ်ပွားသည်။
 
 5734
 It never happens again.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းသည် ဘယ်တော့မှ ထပ်မံ မဖြစ်ပွားတော့ဘူး။
 
 5735
 Coniera is 3 square miles.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကိုနီရာသည် ၃ စတုရန်းမိုင် ရှိသည်။
 
 5736
 Coniera is in the Atlantic Ocean.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကိုနီရာသည် အတ္တလန္တိတ် သမုဒ္ဒရာထဲတွင် ရှိသည်။
 
 5737
 Coniera is in the Sant Antoni Bay.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကိုနီရာသည် ဆန့် အန်တိုနီ ပင်လယ်အော်တွင် ရှိသည်။
 
 5738
 All of the beaches are private.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကမ်းခြေ အားလုံးသည် သီးသန့် ဖြစ်သည်။
 
 5739
 Some beaches are public.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့သော ကမ်းခြေများသည် အများနှင့်ဆိုင်သည်။
 
 5740
 The public beaches for $5.
-<MYANMAR UNICODE TRANSLATION HERE>
+အများပိုင် ကမ်းခြေများက ၅ ဒေါ်လာ
 
 5741
 The emperor got Jerusalem for $1million.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဧကရာဇ်မင်းသည် ဂျေရုဆလင်ကို ဒေါ်လာ ၁ သန်းဖြင့် ရရှိခဲ့သည်။
 
 5742
 The emperor got Jerusalem in a trade.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဧကရာဇ်မင်းသည် ဂျေရုဆလင်ကို ကုန်သွယ်မှု တစ်ခု တွင် ရရှိခဲ့သည်။
 
 5743
 The emperor traded for Persia.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဧကရာဇ်မင်းသည် ပါးရှား အတွက် ရောင်းဝယ်ခဲ့သည်။
 
 5744
 Hawthorne lived on Main Street.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟောသရုန်းသည် မိန်း လမ်း တွင် နေထိုင်ခဲ့သည်။
 
 5745
 Hawthorne lived on Pinckney Street for 7 years.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟောသရုန်းသည် ပင့်ခ်နေ လမ်း တွင် ၇ နှစ် ကြာ နေထိုင်ခဲ့သည်။
 
 5746
 Hawthorne lived on Pinckney Street.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟောသရုန်းသည် ပင့်ခ်နေ လမ်း တွင် နေထိုင်ခဲ့သည်။
 
 5747
 Boot is a small city.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘုသည် သေးငယ်သော မြို့ တစ်မြို့ ဖြစ်သည်။
 
 5748
 Boot is near the La'al Ratty.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘုသည် လာရယ် ရက်တီ အနီး ရှိသည်။
 
 5749
 Boot is very far from all of the railways.
-<MYANMAR UNICODE TRANSLATION HERE>
+Boot သည် မီးရထားလမ်း အားလုံးနှင့် အလွန် ဝေးသည်။
 
 5750
 The gate was built so they could charge people.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် လူတွေကို ငွေကောက်ခံဖို့ ဂိတ်ဝင်ပေါက်ကို တည်ဆောက်ခဲ့သည်။
 
 5751
 The gate was for people to charge $10 to go through.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂိတ်ဝင်ပေါက်ကို လူတွေ ဖြတ်သွားလျှင် ၁၀ ဒေါ်လာ ကောက်ခံဖို့ ရှိခဲ့သည်။
 
 5752
 The gate was just a triumphal arch.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂိတ်ဝင်ပေါက်သည် အောင်ပွဲခံသော ပေါင်းကူး တစ်ခုသာ ဖြစ်သည်။
 
 5753
 A lot of the music is drums.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂီတ တော်တော်များများက ဒရမ်တွေပါ။
 
 5754
 The music is mainly flutes.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂီတသည် အဓိကအားဖြင့် ပုလွေများ ဖြစ်သည်။
 
 5755
 The snare drum is in all the music.
-<MYANMAR UNICODE TRANSLATION HERE>
+စနဲ့ ဒရမ်သည် ဂီတ အားလုံးတွင် ရှိသည်။
 
 5756
 Kuala Perlis was 17 miles south.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွာလာပါလစ်သည် တောင်ဘက် ၁၇ မိုင် တွင် ရှိခဲ့သည်။
 
 5757
 Kuala Perlis was straight north of Kangar.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွာလာပါလစ်သည် ကန်ဂါး ၏မြောက်ဘက် တည့်တည့်တွင် ရှိခဲ့သည်။
 
 5758
 Kuala Perlis was to the south.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွာလာပါလစ်သည် တောင်ဘက်တွင် ရှိခဲ့သည်။
 
 5759
 The two towers were built with limestone.
-<MYANMAR UNICODE TRANSLATION HERE>
+မျှော်စင် နှစ်ခုကို ထုံးကျောက်ဖြင့် တည်ဆောက်ထားသည်။
 
 5760
 There are two towers that were built in the 14th century.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၄ ရာစုတွင် တည်ဆောက်ခဲ့သော မျှော်စင် နှစ်ခု ရှိသည်။
 
 5761
 There is only one tower and it's brand new.
-<MYANMAR UNICODE TRANSLATION HERE>
+မျှော်စင် တစ်ခု သာလျှင် ရှိ ပြီး ၎င်းက အသစ်စက်စက်ပါ။
 
 5762
 The Moors got economic help from Almohads.
-<MYANMAR UNICODE TRANSLATION HERE>
+မောလ်သည် အယ်မိုဟာဒ်များ ထံမှ စီးပွားရေး အကူအညီ ရခဲ့သည်။
 
 5763
 The Moors got help from Almohads.
-<MYANMAR UNICODE TRANSLATION HERE>
+မောလ်သည် အယ်မိုဟာဒ်များ ထံမှ အကူအညီ ရခဲ့သည်။
 
 5764
 The Moors were independent and did it all alone.
-<MYANMAR UNICODE TRANSLATION HERE>
+မောလ်သည် မှီခိုခြင်းကင်း ပြီး အားလုံးကို တစ်ယောက်တည်း ပြုလုပ်ခဲ့တယ်။
 
 5765
 One Vegas coffee house was built in 1940.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝမ်း ဗီးဂတ်စ် ကော်ဖီဆိုင်ကို ၁၉၄၀ ခုနှစ်တွင် တည်ဆောက်ခဲ့သည်။
 
 5766
 There's one coffee house in Vegas that's older than the rest.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဗီးဂတ်စ် တွင် ကော်ဖီဆိုင် တစ်ဆိုင် ရှိပြီး ၎င်း သည် ကျန်တာတွေထက် ပိုပြီး ဟောင်းနွမ်းသည်။
 
 5767
 Vegas has no coffee houses.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဗီးဂတ်စ် တွင် ကော်ဖီဆိုင်များ မရှိပါ။
 
 5768
 You aren't allowed to buy those for yourself.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါတွေကို သင်ကိုယ်တိုင် ဝယ် ရန် ခွင့်မပြုပါဘူး။
 
 5769
 You can buy them and make a roof.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါတွေကို ဝယ်နိုင် ပြီး အိမ်ခေါင်မိုး တစ်ခု ပြုလုပ်မယ်။
 
 5770
 You can buy those peaks for the castle roofs.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရဲတိုက် ခေါင်မိုးများ အတွက် ထို အချွန်အတပ်များကို သင် ဝယ်နိုင်သည်။
 
 5771
 Bad things will happen to those people.
-<MYANMAR UNICODE TRANSLATION HERE>
+မကောင်းသော အရာတွေသည် ထို လူတွေကို ဖြစ်စေလိမ့်မည်။
 
 5772
 The pictures show what lovely things will happen to them.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ ရုပ်ပုံကားချပ်များသည် သူတို့အတွက် ချစ်စရာကောင်းတဲ့ အရာတွေ ဖြစ်လာမယ်ဆိုတာကို ပြသထားပါတယ်။
 
 5773
 Those people will be killed immediately.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထို လူတွေကို ချက်ချင်း သတ်ပစ် လိမ့်မည်။
 
 5774
 Boats aren't allowed in the Boston Harbor.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘော်စတွန် ဆိပ်ကမ်းတွင် လှေများကို ခွင့်မပြုပါ။
 
 5775
 There are cruises in the Boston Harbor.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘော်စတွန် ဆိပ်ကမ်းတွင် အပျော်စီးသင်္ဘောများရှိသည်။
 
 5776
 There are very long cruises around the Boston Harbor.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘော်စတွန် ဆိပ်ကမ်း တဝိုက်တွင် အလွန် ရှည်လျားသော အပျော်စီးသင်္ဘောများ ရှိသည်။
 
 5777
 Only huge highways go to the ocean.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကြီးမားသော အဝေးပြေးလမ်းမကြီးများသာ သမုဒ္ဒရာဆီသို့ သွားကြသည်။
 
 5778
 The ocean has little paths that are 2 feet wide leading to it.
-<MYANMAR UNICODE TRANSLATION HERE>
+သမုဒ္ဒရာတွင် ၎င်းကို ဦးတည်သော ၂ ပေကျယ်သော သေးငယ်သော လမ်းများရှိသည်။
 
 5779
 The sea has lanes  leading to it that aren't very wide.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပင်လယ်တွင် ၎င်းကို ဦးတည်နေသော အလွန် မကျယ်သော လမ်းကျဉ်းများ ရှိသည်။
 
 5780
 The Spanish people had 100 people helping.
-<MYANMAR UNICODE TRANSLATION HERE>
+စပိန်လူမျိုးတွေက လူ ၁၀၀ ကို ကူညီပေးခြင်း ရှိခဲ့သည်။
 
 5781
 The Spanish people had no help.
-<MYANMAR UNICODE TRANSLATION HERE>
+စပိန် လူမျိုးတွေက အကူအညီ မရှိဘူး။
 
 5782
 The Spanish people made a beachhead.
-<MYANMAR UNICODE TRANSLATION HERE>
+စပိန်လူမျိုးတွေက ကမ်းခြေမှာခြေကုပ်ယူထားသောတပ် တစ်ခုကို ပြုလုပ်ခဲ့ကြသည်။
 
 5783
 It's much safer to cycle in Paris now compared to 10 years ago.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပါရီမှာ စက်ဘီးစီးတာက လွန်ခဲ့တဲ့ ၁၀ နှစ်နဲ့ ယှဉ်ရင် အခုဆို ပိုလုံခြုံတယ်။
 
 5784
 It's safer to cycle in Paris.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပါရီမှာ စက်ဘီးစီးရတာ ပိုလုံခြုံတယ်။
 
 5785
 It's still incredibly dangerous to cycle in Paris.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပဲရစ်တွင် စက်ဘီးစီးရန် မယုံနိုင်လောက်အောင် အန္တရာယ်များနေသေးသည်။
 
 5786
 The beach near Batu Hitam has beautiful white sand.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘတူး ဟီတန် အနီးရှိ ကမ်းခြေတွင် လှပသော သဲဖြူများ ရှိသည်။
 
 5787
 There are no beaches anywhere near Batu Hitam.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘတူး ဟီတန် အနီး မည်သည့်နေရာတွင်မှ ကမ်းခြေတွေ မရှိပါဘူး။
 
 5788
 There's a beach near Batu Hitam.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘတူး ဟီတန် အနီးတွင် ကမ်းခြေ တစ်ခု ရှိသည်။
 
 5789
 James Cook never went west of California.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျိမ်းစ် ကွတ်သည် ကယ်လီဖိုးနီးယား အနောက်ဘက်သို့ တစ်ခါမှ မရောက်ဖူးပါ။
 
 5790
 James Cook traveled to Hawaii.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျိမ်းစ် ကွတ်သည် ဟာဝိုင်အီသို့ ခရီးသွားခဲ့သည်။
 
 5791
 James Cook went to every Hawaiian island.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျိမ်းစ် ကွတ်သည် ဟာဝိုင်အီ ကျွန်းကို အမြဲ သွားခဲ့တယ်။
 
 5792
 People in the village dress up like it's colonial times.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရွာကလူတွေသည် ကိုလိုနီ ခေတ်က ကဲ့သို့ ဝတ်စားကြတယ်။
 
 5793
 There are people dressed up in the village.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရွာမှာ ဝတ်စားဆင်ယင်တဲ့ လူတွေ ရှိတယ်။
 
 5794
 You don't get to go into the villages
-<MYANMAR UNICODE TRANSLATION HERE>
+သင် ရွာတွေ ထဲသို့  သွားရန် မဖြစ်နိုင်။
 
 5795
 You can only buy, not rent, boats.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း လှေတွေကို ၊ မငှားပဲ ၊ ဝယ်နိုင်ပါတယ်။
 
 5796
 You can rent little boats.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း လှေငယ်များ ငှားနိုင်သည်။
 
 5797
 You can rent one passenger boats.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း ခရီးသည်တင် လှေ တစ်စင်း ငှားနိုင်သည်။
 
 5798
 Everyone is always fighting, all the time.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတိုင်းဟာ အချိန်တိုင်း၊ အမြဲတမ်း ရန်ဖြစ်နေကြတယ်။
 
 5799
 People get along because they are paid to keep the peace.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငြိမ်းချမ်းရေးကို ထိန်းသိမ်းဖို့ သူတို့က အခကြေးငွေပေးခဲ့သောကြောင့် လူတွေက ပြေလည်သွားကြတယ်။
 
 5800
 People get along well.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+လူတွေ ကောင်းကောင်း ရှိနေကြပါတယ်။
