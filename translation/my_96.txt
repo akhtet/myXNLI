@@ -1,400 +1,401 @@
 9501
 Consistency results in random chaotic outcomes.
-<MYANMAR UNICODE TRANSLATION HERE>
+ညီညွတ်မှု သည် ကျပန်း ဖရိုဖရဲ ရလဒ်များ ကို ဖြစ်ပေါ်စေသည် ။
+
 
 9502
 Ritualism is valued because it leads to a consistent result.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထုံးတမ်းစဉ်လာ ကို တန်ဖိုးထား သောကြောင့် ၎င်းသည် တသမတ်တည်း ရလဒ် တစ်ခု ကို ဖြစ်ပေါ်စေသည် ။
 
 9503
 The book's confusing lexical choices made the content confusing.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာအုပ် ၏ ရှုပ်ထွေးသော ဝေါဟာရ ရွေးချယ်မှုများ သည် အကြောင်းအရာ ကို ရှုပ်ထွေးစေခဲ့သည် ။
 
 9504
 The impeccable lexical elements of this book made it a joy to read.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ စာအုပ် ၏ အပြစ်ကင်းသော ဝေါဟာရ အချက်များ သည် စာဖတ်ခြင်း ကို နှစ်သက်စေသည် ။
 
 9505
 This book has suspicious lexical entries.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ စာအုပ်တွင် သံသယဖြစ်ဖွယ် ဝေါဟာရများ ရေးသွင်းချက်များ ပါရှိသည် ။
 
 9506
 I need you to mend my coat by sewing it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့် အင်္ကျီ ကို အပ်ချုပ်ဖို့ ပြင်ဆင်ရန် ကျွန်တော် သည် သင့်ကို လိုအပ်တယ် ။
 
 9507
 My coat is in perfect condition, I will not need you to touch it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့် အင်္ကျီ က ပြီးပြည့်စုံနေတယ် ၊ ​ကျွန်တော် သည် သင့်ကို ၎င်းကို မွမ်းမံဖို့ မလိုပါဘူး ။
 
 9508
 There are several loose stitches on the lapel of my coat.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့် အင်္ကျီရဲ့ ရင်ဘတ် ပေါ်မှာ ချုပ်ရိုးတွေ အများကြီး ရှိတယ် ။
 
 9509
 French novels are all about food and romance.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြင်သစ် ဝတ္ထုများ သည် အစားအသောက် နှင့် အချစ်ဇာတ်လမ်းများ အကြောင်း ဖြစ်သည် ။
 
 9510
 French novels present vivid descriptions of military experience.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြင်သစ် ဝတ္ထုများ သည် စစ်ရေး အတွေ့အကြုံ ကို ကွက်ကွက်ကွင်းကွင်း ဖော်ပြချက်များ တင်ပြသည် ။
 
 9511
 Under French novels, one can find the military experience genre.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြင်သစ် ဝတ္ထုများ အောက် တွင် ၊ စစ်ရေး အတွေ့အကြုံ အမျိုးအစား ကို ရှာဖွေနိုင်သည် ။
 
 9512
 My wife raised her eyebrow as she made the inquiry.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့် ဇနီးသည် က သူမ စုံစမ်းမေးမြန်း ရင်း သူမ ရဲ့ မျက်ခုံး ကို ပင့်လိုက်သည် ။
 
 9513
 My wife raised her eyebrows as she spoke.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့် ဇနီးသည် က သူမ စကားပြော ရင်း သူမ ရဲ့ မျက်ခုံး ကို ပင့်လိုက်သည် ။
 
 9514
 My wife squinted her eyes as she spoke.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့် ဇနီးသည် က သူမ စကားပြောရင်း သူမ ရဲ့ မျက်လုံးကို မှေးထားသည် ။
 
 9515
 Before 1800 Missouri was not considered a US state.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၈၀၀ မတိုင်ခင် မစ်ဆူရီ ကို ယူအက်စ် ပြည်နယ် အဖြစ် မသတ်မှတ်ထားပါဘူး ။
 
 9516
 The USA added ten states to its nation between 1800 and 1850.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကန် သည် ၁၈၀၀ နှင့် ၁၈၅၀ ကြားတွင် ပြည်နယ်  ဆယ်ခု ကို ၎င်း၏ နိုင်ငံ အဖြစ် ထည့်သွင်းခဲ့သည် ။
 
 9517
 Up to this day, Missouri is not considered a US state.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယနေ့ အချိန် အထိ ၊ မစ်ဆူရီ ကို ယူအက်စ် ပြည်နယ် အဖြစ် မသတ်မှတ်ထားပါ ။
 
 9518
 Continence is considered a vice by those who do not have it imposed on them.
-<MYANMAR UNICODE TRANSLATION HERE>
+မရှိတဲ့သူတွေ က သူတို့ အပေါ် ပြစ်ဒဏ်ခတ်ခြင်း အားဖြင့် စိတ်ကိုချုပ်တည်းခြင်း သည် ဒုစရိုက် ဟု သတ်မှတ်သည် ။ 
 
 9519
 Only those who do not have continence consider it to be a virtue.
-<MYANMAR UNICODE TRANSLATION HERE>
+စိတ်ကိုချုပ်တည်းခြင်း မရှိသူသာလျှင် အလေ့အထကောင်း တစ်ခု ဟု မှတ်ယူသည် ။
 
 9520
 Those who do not have continence imposed on them consider it a good quality.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ အပေါ်တွင် စိတ်ကိုချုပ်တည်းခြင်း မရှိသောသူများသည် ၎င်း ကို အရည်အသွေး ကောင်း တစ်ခု ဟု မှတ်ယူကြသည် ။
 
 9521
 The book just explains what the house looked like.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာအုပ် သည် အိမ် ဘယ် ပုံသဏ္ဍာန် နှင့် ဆင်တူသည် ကို ရှင်းပြထားသည် ။
 
 9522
 The book talks about how the words are used in medicine.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာအုပ် က ဆေးပညာ မှာ စကားလုံးတွေ ကို ဘယ်လို သုံးသလဲ ဆိုတာကို ပြောပြထားပါတယ် ။
 
 9523
 The book talks about the meanings of the word.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာအုပ် က စကားလုံး ရဲ့ အဓိပ္ပါယ်များ ကို ပြောပြသည် ။
 
 9524
 And we know that Professor Honey is correct in his writings.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပရော်ဖက်ဆာ ဟန်နီ သည် သူ၏ အရေးအသားများ တွင် မှန်ကန်ကြောင်း ကျွန်တော်တို့ သိပါသည် ။
 
 9525
 We know that Professor Honey is incorrect according to his writing.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပရော်ဖက်ဆာ ဟန်နီ သည် သူ၏ ရေးသားချက် အရ မမှန်ကြောင်း ကျွန်တော်တို့ သိပါသည် ။
 
 9526
 We suppose that Professor Honey is correct in all his writings.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပရော်ဖက်ဆာ ဟန်နီ သည် သူ၏ ရေးသားချက် အားလုံး ကို မှန်သည် ဟု ကျွန်တော်တို့ ယူဆပါသည် ။
 
 9527
 The pianist, Lil Armstrong, was able to improvise songs.
-<MYANMAR UNICODE TRANSLATION HERE>
+စန္ဒယားပညာရှင် ၊ လီ အမ်းစထရောင်း သည် ၊ သီချင်းများ ကို လက်တန်းဖန်တီးနိုင်ခဲ့သည် ။
 
 9528
 This improvised answer went on to become one of the most famous pieces of his career.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ လက်တန်းဖန်တီးခြင်း တုန့်ပြန်ချက် သည် သူ၏ အသက်မွေးဝမ်းကြောင်း ရဲ့ အကျော်ကြားဆုံး အပိုင်းများ ထဲက တစ်ခု ဖြစ်လာခဲ့သည် ။
 
 9529
 Without a written score the pianist was unable to continue the song.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရေးမှတ်ထားခြင်း မရှိ ပါက စန္ဒယားဆရာ သည် သီချင်း ကို ဆက်၍ မလုပ်နိုင်ပါ ။
 
 9530
 Learning to play guitar and starting a band was all that my nephew talked about.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂစ်တာတီးတတ်ရန် နဲ့ တီးဝိုင်း တစ်ခု စတင်ရန် သင်ယူခြင်း က ကျွန်တော့် တူလေး ပြောတဲ့အတိုင်းပါပဲ။
 
 9531
 My nephew requested an acoustic guitar for his upcoming birthday present.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့် တူလေး က သူ့ရဲ့ လာမယ့် မွေးနေ့ လက်ဆောင် အတွက် အကောစတစ် ဂစ်တာလေး တောင်းခံခဲ့သည် ။
 
 9532
 What my nephew really wanted for his birthday was a banjo.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့် တူလေး သူ့ရဲ့ မွေးနေ့ အတွက် တကယ်ကို လိုချင်ခဲ့တာ က ဘင်ဂျို တစ်ခု ပါ ။
 
 9533
 Food is different from floods or blood.
-<MYANMAR UNICODE TRANSLATION HERE>
+အစားအစာ သည် ရေလွှမ်းမိုးခြင်း သို့မဟုတ် မျိုးရိုး ကြောင့် ကွဲပြားသည် ။
 
 9534
 Food is exactly like blood and flood.
-<MYANMAR UNICODE TRANSLATION HERE>
+အစားအစာ သည် မျိုးရိုး နဲ့ ရေလွှမ်းမိုးခြင်း နည်းတူ အတိအကျ ဖြစ်သည် ။
+အတိအကျ
 
 9535
 Food is more like rocks and trees than blood or flood.
-<MYANMAR UNICODE TRANSLATION HERE>
+အစားအစာ သည် မျိုးရိုး သို့မဟုတ် ရေလွှမ်းမိုးခြင်း ထက် ကျောက်တုံးများ နှင့် သစ်ပင်များ နှင့် ပို၍ ဆင်တူသည် ။
 
 9536
 It is generally accepted that one of the most important steps to solving a problem is first to name it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြဿနာ တစ်ခု ကို ဖြေရှင်းရန် အရေးကြီးဆုံး ခြေလှမ်းများ ထဲမှ တစ်ခု သည် ၎င်းကို နာမည်ပေးရန် အတွက် ယေဘူယျ အားဖြင့် လက်ခံထားသည် ။
 
 9537
 It is generally agreed that there is no point in naming a problem, because it wastes time while new problems arise and change before solutions can be found.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြဿနာ အသစ်များ ပေါ်လာပြီး ဖြေရှင်းချက် မရှာမီ နှင့် ပြောင်းလဲနေချိန် တွင် အချိန် ဖြုန်းတီး သောကြောင့် ၊ ပြဿနာ တစ်ခု ကို အမည်ပေးရာ တွင် အဓိပ္ပါယ် မရှိ ဟု ယေဘူယျ သဘောတူထားသည် ။
 
 9538
 Once a problem is named the solution will follow in an acceptable time frame.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြဿနာ တစ်ခု ကို အမည်တပ်လိုက်သည်နှင့် ဖြေရှင်းချက် သည် လက်ခံနိုင်သော အချိန် အတိုင်းအတာ တစ်ခု အတွင်း ဖြစ်ပေါ်လာမည် ။
 
 9539
 Ethnic groups are all ashamed of themselves.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိုင်းရင်းသား အုပ်စုများ အားလုံး က သူတို့ကိုယ်သူတို့ ရှက်နေကြတယ် ။
 
 9540
 Some ethnic groups are really proud because they win all the wars.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် စစ်ပွဲများ အားလုံး ကို အောင်နိုင် သောကြောင့် တစ်ချို့ တိုင်းရင်းသားများ က တကယ် ဂုဏ်ယူတယ် ။
 
 9541
 Some ethnic groups have a lot of self-esteem.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့သော တိုင်းရင်းသားများ သည် မိမိကိုယ်ကို လေးစားမှု လွန်ကဲကြသည် ။
 
 9542
 Dictionaries do not talk about these senses very much.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဘိဓာန်များ သည် ဤ အာရုံများ အကြောင်း အများကြီး ပြောလေ့မရှိပါ ။
 
 9543
 Dictionaries usually expound on these subjects at great length.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဘိဓာန်များ သည် များသောအားဖြင့် ဤ အကြောင်းအရာများ ကို အလွန် အသေးစိတ် ဖော်ပြကြသည် ။
 
 9544
 There are other experts in the field that agree with my assessment.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်၏ အကဲဖြတ်ချက် ကို သဘောတူသော အခြား နယ်ပယ် မှ ကျွမ်းကျင်သူများလည်း ရှိပါသည် ။
 
 9545
 Goistering refers to a baby's laugh.
-<MYANMAR UNICODE TRANSLATION HERE>
+ သည် ကလေး၏ ရယ်မောခြင်းကို ရည်ညွှန်းသည်။
 
 9546
 They gave a name to the lady's loud laugh.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ သည် အမျိုးသမီးကြီး ၏ ကျယ်လောင်စွာ ရယ်မောခြင်း ကို နာမည်ပေးကြသည် ။
 
 9547
 They named the lady's laugh so they could talk about it without her knowing.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ သည် ထို မိန်းမ ၏ ရယ်မောခြင်း ကို သူမ မသိဘဲ သူတို့ စကားပြောနိုင်စေရန် ဟူသော အမည်ပေးခဲ့သည် ။
 
 9548
 He made it a rhyming word.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် ၎င်းကို ကာရန် စကားလုံး တစ်ခု ပြုလုပ်ခဲ့သည် ။
 
 9549
 He wrote a poem with the word.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် စကားလုံး နဲ့ ကဗျာ တစ်ပုဒ် ရေးခဲ့သည် ။
 
 9550
 There was nothing it could rhyme with.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကာရန် နှင့် ဖြစ်နိုင်သော အရာတစ်ခုမှ မရှိပါဘူး ။
 
 9551
 Even tho she told him to fly home it is unsure if he did or not.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိမ် ပြန်ပြေးရန် သူမ ပြောထား ပေမယ့် သူ လာမလား မလာဘူးလားဆိုတာ မသေချာပါဘူး ။
 
 9552
 In the later chapter we learn that he did in fact fly home.
-<MYANMAR UNICODE TRANSLATION HERE>
+နောက်ပိုင်း အခန်း မှာ သူ ကို အိမ်ပြန်ခဲ့တယ် ဆိုတာ ကျွန်တော်တို့ သိလာရတယ် ။
 
 9553
 She told him to stay away from home because it was not safe.
-<MYANMAR UNICODE TRANSLATION HERE>
+မလုံခြုံ သောကြောင့် သူမ က သူ့ကို အိမ် နှင့် ဝေးဝေးနေရန် ပြောခဲ့သည် ။ 
 
 9554
 Most people only rarely find themselves in this sort of situation.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူအများစု က ဒီလို အခြေအနေမျိုး မှာ သူတို့ကိုယ်သူတို့ ရှာတွေ့ရန် မရှိသလောက်သာဖြစ်သည် ။
 
 9555
 This phrase is used in the roughest and most casual of situations.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ အသုံးအနှုန်း ကို အကြမ်းတမ်းဆုံး နှင့် ပေါ့ပေါ့ပါးပါး အခြေအနေများ တွင် သုံးသည် ။
 
 9556
 This phrase is used in unusually fancy surroundings.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ အသုံးအနှုန်း ကို ပုံမှန်မဟုတ်သော ဆွဲဆောင်မှုရှိသော ပတ်ဝန်းကျင် တွင် သုံးသည် ။
 
 9557
 Obtaining ownership of the Lite beer label was the main reason that Phillip Morris, Inc.'s Miller Brewing Co. bought out Meister Brau Inc.
-<MYANMAR UNICODE TRANSLATION HERE>
+လိုက်စ် ဘီယာ တံဆိပ် ကို ပိုင်ဆိုင်ခွင့် ရခြင်း သည် ဖိလစ် မောရစ် ၊ အိုင်အန်စီ ၊ ၏ မီလာ ဘရူးရင်း စီအို ၊ မှ ၊ မာစတာ ဘရောင်း အိုင်အန်စီ ၊ ကို ဝယ်ယူခဲ့ခြင်း ၏ အဓိက အကြောင်းရင်း ဖြစ်သည် ။
 
 9558
 Phillip Morris, Inc.'s Miller Brewing Co. bought out Meister Brau Inc. in 1972, and therefore owned the Lite beer label.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖိလစ် မောရစ် ၊ အိုင်အန်စီ ၊ ၏ မီလာ ဘရူးရင်း စီအို ၊ သည် မာစတာ ဘရောင်း အိုင်အန်စီ ၊ ကို ၁၉၇၂ ခုနှစ်တွင် ၊ ဝယ်ယူခဲ့ ပြီး လိုက်စ် ဘီယာ တံဆိပ် ကို ပိုင်ဆိုင်ခဲ့သည် ။
 
 9559
 Phillip Morris, Inc.'s Miller Brewing Co. decided it didn't want the Lite beer label as part of the deal to buy out Meister Brau Inc., and discontinued the product.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖိလစ် မောရစ် ၊ အိုင်အန်စီ ၊ ၏ မီလာ ဘရူးရင်း စီအို ၊ သည် မာစတာ ဘရောင်း အိုင်အန်စီ ၊ ကို ဝယ်ယူရန် သဘောတူညီချက် ၏ တစ်စိတ်တစ်ပိုင်း အဖြစ် လိုက်စ် ဘီယာ တံဆိပ် ကို မလိုအပ်ကြောင်း ဆုံးဖြတ်ခဲ့ ပြီး ထုတ်ကုန် ကို ဆက်မလုပ်တော့ကြောင်း ဆုံးဖြတ်ခဲ့သည် ။
 
 9560
 Huevos does not mean balls.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝေးလ်ဗို့စ် သည် ဘောလုံးများ ကို ဆိုလိုတာ မဟုတ်ပါ ။
 
 9561
 Huevos is fun to say.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝေးလ်ဗို့စ် က စကားပြောရတာ ရယ်စရာကောင်းတယ် ။
 
 9562
 Huevos means balls.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝေးလ်ဗို့စ် ဆိုသည်မှာ ဘောလုံးများ ဖြစ်သည် ။
 
 9563
 The largest dictionary had more than 600'000 entries.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကြီးဆုံး အဘိဓာန် တွင် ထည့်သွင်းမှုပေါင်း ၆၀၀၀၀၀ ကျော် ရှိသည် ။
 
 9564
 The largest dictionary is now out of print.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကြီးဆုံး အဘိဓာန် သည် ယခုအခါ ပုံနှိပ်ထုတ်ဝေမှု မရှိတော့ပါ ။
 
 9565
 The largest dictionary is still being printed today.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကြီးဆုံး အဘိဓာန် ကို ယနေ့တိုင် ပုံနှိပ်နေဆဲ ဖြစ်သည် ။
 
 9566
 It can be difficult to decide exactly where emotional appeals begin.
-<MYANMAR UNICODE TRANSLATION HERE>
+စိတ်ပိုင်းဆိုင်ရာ အယူခံဝင်မှုများ စတင်သည့် နေရာ ကို အတိအကျ ဆုံးဖြတ်ရန် ခက်ခဲနိုင်သည် ။
 
 9567
 This piece is nothing but a dry analytical analysis.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ အပိုင်း သည် ခြောက်သွေ့သော ခွဲခြမ်းစိတ်ဖြာမှု မှလွဲ၍ ဘာမှမဟုတ်ပါ ။
 
 9568
 This work has won several prestigious writing awards over the years.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ အလုပ် သည် နှစ်များ တစ်လျှောက် ဂုဏ်သိက္ခာရှိသော စာပေ ဆုများစွာ ကို ရရှိခဲ့သည် ။
 
 9569
 Cheap and dodgy products.
-<MYANMAR UNICODE TRANSLATION HERE>
+စျေးပေါ ပြီး စိတ်မချရသော ထုတ်ကုန်များ ။
 
 9570
 Inferior and ill made merchandise.
-<MYANMAR UNICODE TRANSLATION HERE>
+ညံ့ဖျင်း ပြီး မကောင်းသော ရောင်းကုန်ပစ္စည်းများ လုပ်ထားတယ် ။
 
 9571
 Well made and original merchandise.
-<MYANMAR UNICODE TRANSLATION HERE>
+လက်ရာကောင်း ပြီး မူလ ရောင်းကုန်ပစ္စည်းများ ။
 
 9572
 French translations are not interesting without any explanations to them.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြင်သစ် ဘာသာပြန်များ သည် သူတို့အား ရှင်းပြချက် မရှိဘဲ စိတ်ဝင်စားစရာ မရှိပါ ။
 
 9573
 The French word Surnom meaning surname is purely unremarkable regardless of any explanation.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြင်သစ် စကားလုံး ဆာနွန် သည် မျိုးရိုးအမည် ကို အဓိပ္ပာယ်ဖွင့်ဆိုထားခြင်း သည် မည်သို့ပင်ဆိုစေကာမူ ထူးခြားမှုမရှိပါ ။
 
 9574
 Without the explanation, the french word Surnom meaning surname is not particularly fascinating.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှင်းလင်းချက် မရှိဘဲ ၊ ပြင်သစ်စကားလုံး ဆာနွန် သည် မျိုးရိုးအမည် ကို အဓိပ္ပာယ်ဖွင့်ဆိုရာတွင် အထူး ဆွဲဆောင်မှု မရှိပါ ။
 
 9575
 He actually wanted to buy beer for America, but a speech impediment kept him from expressing this clearly.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမှန်တကယ်တော့ သူ သည် အမေရိက အတွက် ဘီယာ ဝယ်ချင် ပေမယ့် ၊ စကား အထစ်အငေါ့ ကြောင့် ၎င်းကို ရှင်းရှင်းလင်းလင်း မဖော်ပြနိုင်ခဲ့ပါဘူး ။
 
 9576
 He did in fact threaten to bury America several times.
-<MYANMAR UNICODE TRANSLATION HERE>
+တကယ်တော့ သူ သည် အမေရိကား ကို သင်္ဂြိုဟ်ရန် အကြိမ်ကြိမ် ခြိမ်းခြောက်ခဲ့တယ် ။
 
 9577
 It was reported that he wanted to bury America even tho this was not true.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကား ကို သင်္ဂြိုဟ်ချင်နေတယ်လို့ သတင်းထွက်နေ ပေမယ့် ဒါက မမှန်ကန်ပါဘူး ။
 
 9578
 All of Mr Kaplan's generation has died off.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ္စတာ ကာပလန် ရဲ့ မျိုးဆက် အားလုံး ဆုံးပါးသွားခဲ့ပါပြီ ။
 
 9579
 All of Mr Kaplan's generation still lives today.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ္စတာ ကာပလန် ၏ မျိုးဆက်အားလုံး ယနေ့တိုင် အသက်ရှင်လျက် ရှိသည် ။
 
 9580
 Most of Mr Kaplan's generation has died off.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ္စတာ ကာပလန် ရဲ့ မျိုးဆက် အများစု ဟာ ကွယ်လွန်သွားပြီ ဖြစ်ပါတယ် ။
 
 9581
 Despite this appearance, English speakers are not unusually prone to mental instability.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီလို ပုံပန်းသဏ္ဍာန် ရှိပေမဲ့ ၊ အင်္ဂလိပ် စကားပြောသူတွေ သည် စိတ်ပိုင်းဆိုင်ရာ မတည်ငြိမ်မှုတွေ ဖြစ်တတ်ပါတယ် ။
 
 9582
 English is a very logical and consistent language.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်္ဂလိပ်စာ သည် အလွန် ယုတ္တိရှိ ပြီး ကိုက်ညီသော ဘာသာစကား တစ်ခု ဖြစ်သည် ။
 
 9583
 The English language is so strange that it's speakers might seem crazy.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်္ဂလိပ် ဘာသာစကား သည် အလွန် ထူးဆန်း သောကြောင့် စကားပြောသူများ သည် ရူးသွပ်သွားပုံရသည် ။
 
 9584
 There are only three articles.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆောင်းပါး သုံးပုဒ် သာလျှင် ရှိသည် ။
 
 9585
 There are twelve articles collected together in the book.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာအုပ် ထဲတွင် ဆောင်းပါးပေါင်း ဆယ့်နှစ် ပုဒ် အတူတကွ ရှိသည် ။
 
 9586
 There are twelve articles in the collection.
-<MYANMAR UNICODE TRANSLATION HERE>
+စုစည်းမှု တွင် ဆောင်းပါး ဆယ့်နှစ်ပုဒ် ရှိသည် ။
 
 9587
 The anomaly was eliminated several centuries ago.
-<MYANMAR UNICODE TRANSLATION HERE>
+လွန်ခဲ့သည့် ရာစုနှစ် များစွာ က ကွဲလွဲမှု ကို ဖယ်ရှားခဲ့သည် ။
 
 9588
 This anomaly could be corrected, but the cost would be significant.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ ကွဲလွဲချက်ကို ပြုပြင်နိုင် ၊ သော်လည်း ကုန်ကျစရိတ် မှာ သိသာပါသည် ။
 
 9589
 This anomaly still exists today as it did in the past.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ ကွဲလွဲချက် သည် ယခင်တုန်းက ကဲ့သို့ ယနေ့တိုင် ရှိနေသေးသည် ။
 
 9590
- Echar sapos y culebras is considered to be profanity in Spanish.
-<MYANMAR UNICODE TRANSLATION HERE>
+Echar sapos y culebras is considered to be profanity in Spanish.
+အက်ချာ စာပိုစ် ဝိုင် ကူလက်ဗရာစ် ကို စပိန် လို ဆဲဆိုခြင်း ဟု သတ်မှတ်သည် ။
 
 9591
- Echar sapos y culebras means to throw out frogs and snakes in French.
-<MYANMAR UNICODE TRANSLATION HERE>
+Echar sapos y culebras means to throw out frogs and snakes in French.
+အက်ချာ စာပိုစ် ဝိုင် ကူလက်ဗရာစ် ဆိုသည် မှာ ပြင်သစ် လို ဖားများ နှင့် မြွေများ ကို စွန့်ပစ်ခြင်း ဟု အဓိပ္ပါယ်ရသည် ။
 
 9592
 Spanish profanity is imaginative; echar sapos y culebras means to throw out frogs and snakes.
-<MYANMAR UNICODE TRANSLATION HERE>
+စပိန် ဆဲဆိုခြင်း သည် စိတ်ကူးယဉ်ဆန်သည် ၊ အက်ချာ စာပိုစ် ဝိုင် ကူလက်ဗရာစ် ဆိုသည်မှာ ဖားများ နှင့် မြွေများ ကို စွန့်ပစ်ခြင်း ဖြစ်သည် ။
 
 9593
 Languages can never be combined.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘာသာစကားများ ကို ဘယ်တော့မှ ပေါင်းစပ်လို့ မရပါဘူး ။
 
 9594
 Some languages are other languages combined.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့ ဘာသာစကားများ သည် အခြား ဘာသာစကားများ ကို ပေါင်းစပ်ထားသည် ။
 
 9595
 Some languages get made up by children.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့ ဘာသာစကားများ ကို ကလေးများ က ဖန်တီးကြသည် ။
 
 9596
 Before there was language, in the times of the beginning people, it was impossible for people to determine Jim from John.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘာသာစကား မရှိမီ ၊ ရှေးဦး လူတို့ ခေတ် တွင် ၊ ဂျွန် မှ ဂျင် ကို လူများ က ဆုံးဖြတ်ရန် မဖြစ်နိုင်ပါ ။
 
 9597
 The beginning people identified themselves by using names.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှေးဦး လူများသည် သည် နာမည်များ သုံးပြီး ကိုယ့်ကိုကိုယ် ခွဲခြားသိမြင်လာကြတယ် ။
 
 9598
 The beginning people were the first people to use names.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှေးဦး လူများ သည် အမည်များ ကို ပထမဆုး အသုံးပြုကြသည် ။
 
 9599
 Most words tend to be fairly old.
-<MYANMAR UNICODE TRANSLATION HERE>
+စကားလုံး အများစု သည် အတော်လေး ဟောင်းနေတတ်သည် ။
 
 9600
 Nearly all words are very new inventions.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+စကားလုံး အားလုံး နီးပါး သည် အလွန် သစ်လွင်သော တီထွင်မှုများ ဖြစ်သည် ။
