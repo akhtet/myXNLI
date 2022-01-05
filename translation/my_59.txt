@@ -1,400 +1,404 @@
 5801
 The cross is just 200 pounds.
-<MYANMAR UNICODE TRANSLATION HERE>
+လက်ဝါးကပ်တိုင်က ပေါင် ၂၀၀ ပဲရှိတယ်။
 
 5802
 The cross is made out of solid stone.
-<MYANMAR UNICODE TRANSLATION HERE>
+လက်ဝါးကပ်တိုင်ကို ကျောက်တုံး အစိုင်အခဲ ဖြင့် ပြုလုပ်ထားသည်။
 
 5803
 The cross weighs almost 200,000 tons.
-<MYANMAR UNICODE TRANSLATION HERE>
+လက်ဝါးကပ်တိုင်သည် တန်ချိန် ၂၀၀,၀၀၀ နီးပါး အလေးချိန်ရှိသည်။
 
 5804
 Noske wanted the movement to stop before he lost power.
-<MYANMAR UNICODE TRANSLATION HERE>
+နိုစ်ကီက သူသည် အာဏာ မဆုံးရှုံးခင်မှာ လှုပ်ရှားမှုကို ရပ်စေချင်တယ်။
 
 5805
 Noske wanted things to continue right away.
-<MYANMAR UNICODE TRANSLATION HERE>
+နိုစ်ကီက အကြောင်းအရာတွေကို ချက်ချင်းဆက်လုပ်စေချင်တယ်။
 
 5806
 Noske wanted to stop what was happening.
-<MYANMAR UNICODE TRANSLATION HERE>
+နိုစ်ကီက ဖြစ်ပျက်နေတာကို ရပ်တန့်ချင်ခဲ့တယ်။
 
 5807
 No one ever visits Bali.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘာလီကို ဘယ်သူမှ မရောက်ဖူးဘူး။
 
 5808
 Tour groups go to Bali a lot.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခရီးသွား အဖွဲ့တွေသည် ဘာလီကို အရမ်း သွားကြတယ်။
 
 5809
 Tour groups go to see the temples in Bali.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခရီးသွား အဖွဲ့များသည် ဘာလီရှိ ဘုရားကျောင်းများကို သွားကြည့်ကြသည်။
 
 5810
 There are no temples in the areas.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ ဒေသတွေမှာ ဘုရားကျောင်းတွေ မရှိဘူး။
 
 5811
 There are some little temples.
-<MYANMAR UNICODE TRANSLATION HERE>
+သေးငယ်သော ဘုရားကျောင်း အချို့ ရှိသည်။
 
 5812
 There are some tiny temples only one person can fit in.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတစ်ဦးတည်းသာ ဝင်ဆံ့နိုင်သော သေးငယ်သော ဘုရားကျောင်း အချို့ ရှိသည်။
 
 5813
 The land was hard.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီကုန်းမြေက ကြမ်းတယ်။
 
 5814
 The land was soft.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီကုန်းမြေက ပျော့တယ်။
 
 5815
 They could have tried harder.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ ပိုပြီးခက်ခက်ခဲခဲ ကြိုးစားနိုင်ခဲ့တယ်။
 
 5816
 The chimney is not an indicator that the village used to be part of a hacienda.
-<MYANMAR UNICODE TRANSLATION HERE>
+မီးခိုးခေါင်းတိုင်က ရွာသည် ခြံဝင်းအကျယ်ကြီးရှိသောအိမ် ၏ အစိတ်အပိုင်း ဖြစ်ခဲ့ဖူးတာကို ညွှန်းသောကိရိယာ တစ်ခု မဟုတ်ပါ။
 
 5817
 The chimney, among other things, indicate the village used to be part of a hacienda.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခြား အရာတွေ အများထဲမှ ၊ မီးခိုးခေါင်းတိုင်က ၊ ရွာသည် ခြံဝင်းအကျယ်ကြီးရှိသောအိမ် ၏ အစိတ်အပိုင်း ဖြစ်ခဲ့တာကို ညွှန်ပြနေသည်။
 
 5818
 The chimneys indicate the village was part of a hacienda.
-<MYANMAR UNICODE TRANSLATION HERE>
+မီးခိုးခေါင်းတိုင်က ရွာသည် ခြံဝင်းအကျယ်ကြီးရှိသောအိမ် ၏ အစိတ်အပိုင်း ဖြစ်ခဲ့တာကို ညွှန်ပြနေသည်။
 
 5819
 The walls have 100000 tiles on them.
-<MYANMAR UNICODE TRANSLATION HERE>
+နံရံများသည် ၎င်းတို့ပေါ်မှာ ကြွေပြားပေါင်း ၁၀၀၀၀၀ ပါပါတယ်။
 
 5820
 There are a ton of little tiles there.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီမှာ သေးငယ်သော ကြွေပြား တစ်တန်ရှိတယ်။
 
 5821
 There is nothing decorative there.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီမှာ အလှဆင်ထားတာ ဘာမှမရှိဘူး။
 
 5822
 The painting aspires to turn the church into a Gothic cathedral.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ ပန်းချီကားသည် ဘုရားကျောင်းကို ဂေါ့သစ် ဘုရားရှိခိုးကျောင်းအဖြစ် ပြောင်းလဲရန် ဆန္ဒပြင်းပြသည်။
 
 5823
 The painting was created by an artist who was drunk at the time.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ ပန်းချီကားကို ထိုအချိန်က အရက်မူးနေသော ပန်းချီဆရာ တစ်ယောက် က ဖန်တီးခဲ့သည်။
 
 5824
 The painting would turn the church into a harem.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပန်းချီကားက ဘုရားကျောင်းကို ဟာရမ် တစ်ခု အဖြစ် ပြောင်းလဲစေတယ်။
 
 5825
 The a5 coin is incredibly rare.
-<MYANMAR UNICODE TRANSLATION HERE>
+a5 ဒင်္ဂါးပြားသည် အလွန် ရှားပါးသည်။
 
 5826
 The a5 coin was British.
-<MYANMAR UNICODE TRANSLATION HERE>
+a5 ဒင်္ဂါးပြားသည် ဗြိတိန်နှင့်ဆိုင်သည်။
 
 5827
 The a5 coin was from China.
-<MYANMAR UNICODE TRANSLATION HERE>
+a5 ဒင်္ဂါးပြားသည် တရုတ်နိုင်ငံမှ ဖြစ်ခဲ့သည်။
 
 5828
 All the Athenians wanted to stop the war.
-<MYANMAR UNICODE TRANSLATION HERE>
+အေသင်မြို့သားအားလုံးသည် စစ်ပွဲကို ရပ်တန့်ချင်ခဲ့ကြသည်။
 
 5829
 Some Athenians wanted to declare war.
-<MYANMAR UNICODE TRANSLATION HERE>
+အေသင်မြို့သား အချို့က စစ်ကို ကြေညာချင်ခဲ့ကြသည်။
 
 5830
 Some Athenians wanted to start a war against the new king of macedonia.
-<MYANMAR UNICODE TRANSLATION HERE>
+အေသင်မြို့သား အချို့သည် မက်ဆီဒိုးနီးယား ဘုရင် သစ် ကို စစ်ပွဲ တစ်ပွဲ စတင်ချင်ခဲ့ကြသည်။
 
 5831
 The acoustics are great for singing.
-<MYANMAR UNICODE TRANSLATION HERE>
+အသံထွက်သည် သီချင်းဆိုရန် အလွန်ကောင်းသည်။
 
 5832
 The acoustics are just a mess in that place.
-<MYANMAR UNICODE TRANSLATION HERE>
+အသံထွက်သည် ထိုနေရာတွင် ရောထွေးမှု တစ်ခု ဖြစ်နေသည်။
 
 5833
 The acoustics make things loud.
-<MYANMAR UNICODE TRANSLATION HERE>
+အသံထွက်သည် အရာဝတ္တုတွေကို ကျယ်လောင်စေသည်။
 
 5834
 The instruments are violin, bass, and saxophone.
-<MYANMAR UNICODE TRANSLATION HERE>
+တူရိယာများမှာ တယော၊ ဘေ့စ်နှင့် ၊ ဆာဆိုဖုန်းတို့ ဖြစ်ကြသည်။
 
 5835
 The orchestra consists of the instruments mentioned before.
-<MYANMAR UNICODE TRANSLATION HERE>
+သံစုံတီးဝိုင်းတွင် ယခင် ဖော်ပြထားသော တူရိယာများ ပါဝင်သည်။
 
 5836
 The orchestra does not use instruments at all.
-<MYANMAR UNICODE TRANSLATION HERE>
+သံစုံတီးဝိုင်းသည် တူရိယာများကို လုံးဝ မသုံးပါ။
 
 5837
 Fishermen have a permit to catch the fish.
-<MYANMAR UNICODE TRANSLATION HERE>
+တံငါသည်များတွင် ငါးဖမ်းရန် ခွင့်ပြုချက် တစ်ခု ရှိသည်။
 
 5838
 You can just catch whatever you want, whenever you want.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင် အလိုရှိသော အချိန်တိုင်း ၊  သင် အလိုရှိသော အရာကို သာ ဖမ်းနိုင်သည်။
 
 5839
 You have to have a permit to catch fish that are bigger than 6 inches.
-<MYANMAR UNICODE TRANSLATION HERE>
+၆ လက်မ ထက် ပို၍ကြီးသော ငါးတွေကို ဖမ်းရန် ခွင့်ပြုချက် တစ်ခု မင်းမှာ ရှိရမယ်။
 
 5840
 The faaade was in King Tut's tomb.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘုရင် တတ်၏ အုတ်ဂူ တွင် 
+#review
 
 5841
 The faaade was in the Temple of Ramses II and is made of solid gold.
-<MYANMAR UNICODE TRANSLATION HERE>
+#review
 
 5842
 The faaade was in the Temple of Ramses II.
-<MYANMAR UNICODE TRANSLATION HERE>
+#review
 
 5843
 Do not visit villages.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရွာတွေကို မလည်ပတ်ကြဘူး။
 
 5844
 Visit all of the villages.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရွာတွေ အားလုံးကို သွားလည်တယ်။
 
 5845
 Visit some villages.
-<MYANMAR UNICODE TRANSLATION HERE>
+တချို့ရွာတွေကို သွားလည်တယ်။
 
 5846
 Fire if you think that you need to at any time.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘယ်အချိန်ဖြစ်ဖြစ် မင်း လိုတယ် လို့ မင်း ထင်တယ် ဆိုလျှင် ပစ်လိုက်ပါ။
 
 5847
 Only shoot if someone near you has a gun and fires a shot at your head.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း အနီးမှာရှိတဲ့ တစ်စုံတစ်ယောက်မှာ သေနတ် တစ်လက် ရှိ ပြီး မင်းရဲ့ ခေါင်းကို ပစ်မည် ဆိုလျှင် ပစ်လိုက်ရုံပါပဲ။
 
 5848
 Only shoot if you have to.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း လုပ်ဖို့ရှိတယ် ဆိုလျှင် ပစ်လိုက်ရုံပါပဲ။
 
 5849
 You can hike alone any time.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းက ဘယ်အချိန်ဖြစ်ဖြစ် တစ်ယောက်တည်း တောင်တတ်နိုင်ပါတယ်။
 
 5850
 You should only hike with a guide because there are dangerous animals.
-<MYANMAR UNICODE TRANSLATION HERE>
+အန္တရာယ်ရှိသော တိရစ္ဆာန်များ ရှိနေ သောကြောင့် လမ်းပြ တစ်ယောက် နှင့်သာ မင်း ခရီးထွက်သင့်သည်။
 
 5851
 You should probably only hike with a guide.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း လမ်းပြ တစ်ဦး နှင့်သာ ခရီးထွက်သင့်သည်။
 
 5852
 PEople like to party after the fish.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါးမျှား ပြီးနောက် လူတွေက ပါတီကို နှစ်သက်ကြသည်။
+#review
 
 5853
 People go fishing and then go right to sleep.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတွေက ငါးမျှားထွက် ပြီးနောက် အိပ်ယာဝင်ကြတယ်။
 
 5854
 People like to drink a lot of beer at the bars after they go fishing.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတွေက ငါးမျှားသွား ပြီးနောက် အရက်ဆိုင်တွေမှာ ဘီယာ များစွာ သောက်လေ့ရှိကြသည်။
 
 5855
 People think the islands should be left alone.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတွေက ကျွန်းတွေကို သီးသန့် ထားသင့်တယ်လို့ ထင်နေကြတယ်။
 
 5856
 The islands are caught in the middle of a war.
-<MYANMAR UNICODE TRANSLATION HERE>
+စစ်ပွဲ အလယ်မှာ ကျွန်းတွေကို သိမ်းပိုက်ခဲ့တယ်။
 
 5857
 We should keep the islands involved.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့က ကျွန်းတွေကို ပါဝင် စောင့်ရှောက်သင့်တယ်။
 
 5858
 The National Historical Museum has a lot of artifacts from post-Classical times.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမျိုးသား သမိုင်း ပြတိုက်တွင် ရှေးခေတ်လွန်ခေတ်က ရှေးဟောင်းပစ္စည်းအများအပြားရှိသည်။
 
 5859
 The National Historical Museum has some old farm equipment.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမျိုးသား သမိုင်း ပြတိုက်တွင် လယ်ယာသုံး စက်ကိရိယာ အဟောင်း အချို့ ရှိသည်။
 
 5860
 The National Historical Museum only has recent things.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမျိုးသား သမိုင်း ပြတိုက်တွင် လတ်တလော အကြောင်းအရာများ သာ ရှိသည်။
 
 5861
 Everyone agreed the food was terrible.
-<MYANMAR UNICODE TRANSLATION HERE>
+အစားအသောက်က ကြောက်စရာကောင်းတယ်လို့ လူတိုင်းက သဘောတူတယ်။
 
 5862
 One guy in jail said he liked the jail food a lot.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထောင်ထဲက လူ တစ်ယောက်က သူသည် ထောင်ထမင်းကို အရမ်းကြိုက်တယ် လို့ ပြောခဲ့တယ်။
 
 5863
 One prisoner said he would eat the food every day if he could.
-<MYANMAR UNICODE TRANSLATION HERE>
+တတ်နိုင်လျှင် သူသည် နေ့တိုင်း အစာ စားမယ်လို့ အကျဉ်းသား တစ်ယောက် က ပြောခဲ့ပါတယ်။
 
 5864
 The gods always talked to the oracle about every legal matter.
-<MYANMAR UNICODE TRANSLATION HERE>
+နတ်ဘုရားများသည် တရားစီရင်ရေး ကိစ္စ တိုင်း နှင့်ပတ်သတ်၍ ကြိုတင်ခန့်မှန်းချက်ကို အမြဲပြောနေပါသည်။
 
 5865
 The gods and the oracle never spoke or worked together.
-<MYANMAR UNICODE TRANSLATION HERE>
+နတ်ဘုရားများ နှင့် ကြိုတင်ခန့်မှန်းချက်သည် တညီတညွတ်တည်း ပြောဆိုခြင်း သို့မဟုတ် လုပ်ဆောင်ခြင်း မရှိခဲ့ပါ။
 
 5866
 The gods talked to the oracle.
-<MYANMAR UNICODE TRANSLATION HERE>
+နတ်ဘုရားများသည် ကြိုတင်ခန့်မှန်းချက်ကို ပြောဆိုကြ၏။
 
 5867
 CArrer dels Banys Nous is named for a forest.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကာရာ ဒဲလ် ဘန်းန် နှောက်စ်ကို သစ်တော တစ်ခု အတွက် အမည်ပေးထားသည်။
 
 5868
 Carrer dels Banys Nous has a hot springs.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကာရာ ဒဲလ် ဘန်းန် နှောက်စ်တွင် ရေပူစမ်း တစ်ခု ရှိသည်။
 
 5869
 Carrer dels Banys Nous is named for baths.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကာရာ ဒဲလ် ဘန်းန် နှောက်စ် ကို ရေချိုးရန်အတွက် အမည်ပေးထားသည်။
 
 5870
 Albuferia is bustling and crazy!
-<MYANMAR UNICODE TRANSLATION HERE>
+အလ်ဗူးဖီးရီးယားသည် ရှုပ်ပွနေ ပြီး စိတ်အနှောင့်အယှက်ဖြစ်ဖို့ကောင်းတယ်!
 
 5871
 Albuferia is quaint because cars aren't allowed there.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလ်ဗူးဖီးရီးယားသည် အဲဒီမှာ ကားတွေကို ခွင့်မပြုတဲ့အတွက် ထူးခြားပါတယ်။
 
 5872
 Albuferia is quaint.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလ်ဗူးဖီးရီးယားသည် ထူးခြားသည်။
 
 5873
 Whitehorse used mainly horse carriages for transportation.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝှိုက်ဟော့စ်သည် သယ်ယူပို့ဆောင်ရေး အတွက် မြင်းရထားများကို အဓိက အသုံးပြုခဲ့သည်။
 
 5874
 Whitehorse was territorial capital.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝှိုက်ဟော့စ်သည် ပိုင်နက် မြို့တော် ဖြစ်ခဲ့သည်။
 
 5875
 Whitehorse was the name of a potent alcoholic beverage.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝှိုက်ဟော့စ်သည် အစွမ်းထက်သော အရက် အဖျော်ယမကာ တစ်ခု ၏ အမည် ဖြစ်ခဲ့သည်။
 
 5876
 Errol Flynn bought an island.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်ရို ဖလင်းသည် ကျွန်း တစ်ကျွန်းကို ဝယ်ယူခဲ့သည်။
 
 5877
 Errol Flynn did not buy an island.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်ရို ဖလင်းသည် ကျွန်း တစ်ကျွန်းကို မဝယ်ခဲ့ပါ။
 
 5878
 Errol Flynn was rich.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်ရို ဖလင်းသည် ချမ်းသာခဲ့သည်။
 
 5879
 Canada has never welcomed refugees.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကနေဒါက ဒုက္ခသည်တွေကို ဘယ်တော့မှ ကြိုဆိုမှာမဟုတ်ဘူး။
 
 5880
 Canada was known for welcoming immigrants and refugees.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကနေဒါသည် ရွှေ့ပြောင်းအခြေချသူများ နှင့် ဒုက္ခသည်များကို ကြိုဆိုသောကြောင့် လူသိများသည်။
 
 5881
 Canada welcomed refugees from African countries the most.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကနေဒါသည် အာဖရိကနိုင်ငံများမှ ဒုက္ခသည်များကို အများဆုံး ကြိုဆိုခဲ့သည်။
 
 5882
 Computer CIty is not located in the Star House.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်ပျူတာ စီးတီးသည် စတား ဟောက်စ်တွင် မတည်ရှိပါ။
+#review 
 
 5883
 Computer City is located in the Star House.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်ပျူတာ စီးတီးသည် စတား ဟောက်စ်တွင် တည်ရှိသည်။
+#review
 
 5884
 Computer City is the most impressive thing in the Star House.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်ပျူတာ စီးတီးသည် စတား ဟောက်စ်တွင် အထင်ကြီးစရာ အကောင်းဆုံးအရာဖြစ်သည်။
+#review
 
 5885
 Cala Mondrage is developed.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကာလာ မွန်ဒရေချ်သည် ဖွံ့ဖြိုးသည်။
 
 5886
 Cala Mondrage is not developed.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကာလာ မွန်ဒရေချ်သည် မဖွံ့ဖြိုးပါ။
 
 5887
 Cala Mondrage lacks sewers.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကာလာ မွန်ဒရေချ်တွင် ရေဆိုးမြောင်းများ ကင်းမဲ့နေသည်။
 
 5888
 A church, chapel, and hexagonal tower represent the city's post-war rebirth.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခရစ်ယာန်ဘုရားကျောင်းတစ်ခု ၊ ဘုရားကျောင်းနှင့် ၊ ဆဋ္ဌဂံမျှော်စင်တို့သည် စစ်ပြီးခေတ် မြို့တော်၏ ပြန်လည်မွေးဖွားခြင်းကို ကိုယ်စားပြုသည်။
 
 5889
 The marketplace represents the city's post-war rebirth.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဈေးသည် စစ်ပြီးခေတ် မြို့တော်၏ ပြန်လည်မွေးဖွားခြင်းကို ကိုယ်စားပြုသည်။
 
 5890
 These structures were built by the greatest architect in the world.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ အဆောက်အဦတွေကို ကမ္ဘာ့ အကြီးကျယ်ဆုံး ဗိသုကာပညာရှင်က တည်ဆောက်ခဲ့တာပါ။
 
 5891
 Pierre was appointed but had to arrest himself for selling to the Americans.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပီယားကို ခန့်အပ်ခဲ့ ပေမယ့် အမေရိကန်တွေဆီ ရောင်းစားလို့ သူ့ကိုယ်သူ အဖမ်းခံခဲ့ရပါတယ်။
 
 5892
 Pierre was arrested for selling to the Americans among other things.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပီယားသည် အခြားအရာများကြားတွင် အမေရိကန်လူမျိုးများကို ရောင်းစားခြင်းကြောင့် ဖမ်းဆီးခံခဲ့ရသည်။
 
 5893
 Pierre was never arrested.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပီယားကို ဘယ်တုန်းကမှ ဖမ်းမမိခဲ့ဘူး။
 
 5894
 The shops all serve some of the best food in the city.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆိုင်များ အားလုံးသည် မြို့၏ အကောင်းဆုံး အစားအစာ အချို့ကို ဆောင်ရွက်ပေးပါသည်။
 
 5895
 The shops in the nearby streets are interesting.
-<MYANMAR UNICODE TRANSLATION HERE>
+အနီးနားမှာရှိတဲ့ လမ်းတွေက စျေးဆိုင်တွေက စိတ်ဝင်စားဖို့ကောင်းတယ်။
 
 5896
 The shops nearby are duller than any others around.
-<MYANMAR UNICODE TRANSLATION HERE>
+အနီးနားရှိ ဆိုင်များသည် အခြားဆိုင်များထက် မှောင်နေပါသည်။
 
 5897
 The collection is growing, but not as fast as it did last year.
-<MYANMAR UNICODE TRANSLATION HERE>
+စုဆောင်းမှုသည် ကြီးထွားလာ သော်လည်း ၊ မနှစ်ကကဲ့သို့ မြန်ဆန်ခြင်း မရှိပါ။
 
 5898
 The collection of clubs is dull and looks the same as all the others.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလပ်အသင်းများ၏ စုစည်းမှုသည် မှုန်ဝါးနေ ပြီး အခြားအားလုံးနှင့် တူညီသည်။
 
 5899
 The growing collection of clubs are unique and have a more urban edge.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိုးပွားလာသော ကလပ်အသင်းများ၏ စုစည်းမှုသည် ထူးခြားပြီး မြို့ပြ အစွန်းအထင်း ပို ရှိသည်။
 
 5900
 McKim Mead designed the mansion.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+အမ်စီကင် မဒ်သည် အိမ်ကြီးရခိုင်ကို ဒီဇိုင်းဆွဲသည်။
