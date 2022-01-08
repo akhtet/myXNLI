@@ -12,10 +12,15 @@ trans_dir = 'translation'
 my_dev_file = 'output/myxnli.dev.tsv'
 my_test_file = 'output/myxnli.test.tsv'
 
-def build_dataset():
+# Create DEV and TEST files from the Originals
+OUTPUT_FORMAT = 'BASIC' # STANDARD
+
+
+def build_dict():
 
     # Build a dictionary between EN and MY sentences    
     my_dict = {}
+    file_stats = {}
 
     for fname in os.listdir(trans_dir):
         print ('Processing', fname)   
@@ -34,11 +39,14 @@ def build_dataset():
                 elif state == 2:
                     if line != '<MYANMAR UNICODE TRANSLATION HERE>':
                         my_dict[en_source] = line
+                        file_stats[fname] = file_stats.get(fname, 0) + 1
                     state = 0
+    
     print ('%d entries loaded to the dictionary' % len(my_dict.keys()))
+    return my_dict, file_stats
 
-    # Create DEV and TEST files from the Originals
-    OUTPUT_FORMAT = 'BASIC' # STANDARD
+
+def write_dataset(my_dict):    
 
     for infn, outfn in [(dev_file, my_dev_file), (test_file, my_test_file)]:
         with open(infn, encoding='utf-8') as infile:
@@ -80,4 +88,6 @@ def build_dataset():
 
 if __name__ == '__main__':
 
-    build_dataset()
+    mydict, stats = build_dict()
+    # print(stats)
+    write_dataset(mydict)
