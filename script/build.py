@@ -4,15 +4,15 @@ Run this script from the main directory.
 
 import csv, sys, os, re
 
-if __name__ == '__main__':
+dev_file = 'xnli-original/xnli.dev.tsv'
+test_file = 'xnli-original/xnli.test.tsv'
+parallel_file = 'xnli-origin/xnli.15way.orig.tsv'
 
-    dev_file = 'xnli-original/xnli.dev.tsv'
-    test_file = 'xnli-original/xnli.test.tsv'
-    parallel_file = 'xnli-origin/xnli.15way.orig.tsv'
+trans_dir = 'translation'
+my_dev_file = 'output/myxnli.dev.tsv'
+my_test_file = 'output/myxnli.test.tsv'
 
-    trans_dir = 'translation'
-    my_dev_file = 'output/myxnli.dev.tsv'
-    my_test_file = 'output/myxnli.test.tsv'
+def build_dataset():
 
     # Build a dictionary between EN and MY sentences    
     my_dict = {}
@@ -78,3 +78,6 @@ if __name__ == '__main__':
 
     # TODO: Add a new column to the parallel corpus
 
+if __name__ == '__main__':
+
+    build_dataset()
