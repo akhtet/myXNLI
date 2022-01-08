@@ -1,400 +1,404 @@
 6001
 There is a weathervane on top of the building.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆောက်အဉီးရဲ့ အပေါ်မှာ လေညွှန်တံ တခု ရှိတယ်။
 
 6002
 Quetico has no water in it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွီတီကို အတွင်းမှာ ရေမရှိဘူး။
 
 6003
 There are 29 waterways in Quetico.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွီတီကိုမှာ ရေလမ်းကြောင်း ၂၉ခု ရှိတယ်။
 
 6004
 There are a lot of waterways in Quetico.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွီတီကိုမှာ ရေလမ်းကြောင်းတွေ အများကြီးရှိတယ်။
 
 6005
 The Hong Kong Park was a path that goes to it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟောင်ကောင်ဥယျာဉ်သည် ၎င်းဆီသို့ သွားသော လမ်းကြောင်း တခု ဖြစ်သည်။
 
 6006
 The path is 5 miles to the Hong Kong Park.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီလမ်းကြောင်းက ဟောင်ကောင်ဥယျာဉ်ဆီကို ၅မိုင်ရှိတယ်။
 
 6007
 There are no paths that go to Hong Kong Park.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟောင်ကောင်ပတ်ခ်/ ဟောင်ကောင်ဥယျာဉ်ဆီ သွားတဲ့ လမ်းကြောင်းမရှိဘူး။
+#REVIEW
 
 6008
 Everyone likes the chairlift.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတိုင်း တောင်တက်လျှပ်စစ်ခါးပတ်ထိုင်ခုံတန်းကို သဘောကျကြတယ်။
 
 6009
 No one likes the chairlift.
-<MYANMAR UNICODE TRANSLATION HERE>
+မည်သူမျှ တောင်တက်လျှပ်စစ်ခါးပတ်ထိုင်ခုံတန်းကို သဘောမကျကြဘူး။
 
 6010
 The chairlift in the ski slope is really popular.
-<MYANMAR UNICODE TRANSLATION HERE>
+နှင်းလျှောစီးတဲ့ တောင်စောင်းက တောင်တက်လျှပ်စစ်ခါးပတ်ထိုင်ခုံတန်းက တကယ် နာမည်ကြီးရေပန်းစားတယ်။
 
 6011
 The phone line is manned by five people.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖုန်းလိုင်းကို လူငါးယောက်ဖြင့်စီမံလည်ပတ်နေသည်။
 
 6012
 The phone line is manned on weekdays.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖုန်းလိုင်းကို သတင်းပတ်ရက်များတွင် စီမံလည်ပတ်နေသည်။
 
 6013
 The phone line is open 24/7.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖုန်းလိုင်းကို ၂၄နာရီ ၇ရက်လုံးဖွင့်ထားသည်။
 
 6014
 The island is 100 square miles.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်းသည် ၁၀၀ စတုရန်းမိုင်ရှိသည်။
 
 6015
 The island was never peaceful.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ ကျွန်သည် မည်သည့်အခါကမျှ မငြိမ်းချမ်းခဲ့ပါ။
 
 6016
 The island was very quiet.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်းက အရမ်း တိတ်ဆိတ်ငြိမ်သက်တာ။
 
 6017
 Chaac-Mool gave offerings to the towns people.
-<MYANMAR UNICODE TRANSLATION HERE>
+ချေ့စ်-မိုလ်သည် မြို့သူမြို့သားများအား လှူဖွယ်ပစ္စည်းများကို ပေးသည်။
 
 6018
 Chaac-Mool got offerings from people because he was the most important god.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် အရေးပါဆုံး နတ်ဘုရားဖြစ်သည့်အတွက်ကြောင့် ချေ့စ်-မိုလ် သည် လူများထံမှ ပူဇော်ပသမှုများ လက်ခံရရှိသည်။
 
 6019
 Chaac-Mool got offerings from people.
-<MYANMAR UNICODE TRANSLATION HERE>
+ချေ့စ်-မိုလ် သည် လူများထံမှ ပူဇော်ပသမှုများ လက်ခံရရှိသည်။
 
 6020
 Alaior has 100 white houses.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလိုင်ရာ မှာ အဖြူရောင်အိမ် ၁၀၀ ရှိသည်။
 
 6021
 Alaior has a lot of white houses.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလိုင်ရာမှာ အဖြူရောင်အိမ်တွေ အများကြီးရှိတယ်။
 
 6022
 Alaior is all little black houses.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလိုင်ရာမှာ အားလုံး အနက်ရောင် အိမ်ငယ်လေးတွေ ရှိတယ်။
 
 6023
 Siefok is 100,000 residents.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆီးဖော့ခ်မှာ ဒေသခံ ၁၀၀၀၀၀ရှိတယ်။
 
 6024
 Siefok is on the north coast.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆီးဖော့ခ်သည် မြောက်ဘက်ကမ်းရိုးတန်းတွင် ရှိသည်။
 
 6025
 Siefok is on the south coast.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆီးဖော့ခ်သည် တောင်ဘက်ကမ်းရိုးတန်းတွင် ရှိသည်။
 
 6026
 The steps go up to the highest point in the church.
-<MYANMAR UNICODE TRANSLATION HERE>
+လှေကားထစ်တွေက ဘုရားကျောင်းထဲ အမြင့်ဆုံးနေရာဆီကို တက်သွားတယ်။
 
 6027
 There are 90 steps.
-<MYANMAR UNICODE TRANSLATION HERE>
+လှေကာအဆင့် ၉၀ရှိတယ်။/ ခြေလှမ်း၉၀ရှိတယ်။/ အဆင့် ၉၀ရှိတယ်။
+#REVIEW
 
 6028
 There are just 3 steps.
-<MYANMAR UNICODE TRANSLATION HERE>
+၃ဆင့်ပဲရှိတယ်။ /ခြေလှမ်း၃လှမ်းပဲရှိတယ်။
+#REVIEW
 
 6029
 They don't ever go out with friends, but just stay inside alone.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က သူငယ်ချင်းမိတ်ဆွေတွေနဲ့ ဘယ်တော့မှ အပြင်မထွက်ကြဘူး၊ အထဲမှာပဲ သီးခြားသာ နေကြတယ်။
 
 6030
 They like to hang out with people.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က လူတွေနဲ့ အတူတူအချိန်ဖြုန်းရတာ သဘောကျကြတယ်။
 
 6031
 They like to talk to the people they work with.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က သူတို့နဲ့ အတူ အလုပ်လုပ်တဲ့လူတွေကို စကားပြောရတာ သဘောကျကြတယ်။
 
 6032
 It lists 10 planks of wood.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းသည် သစ်သားပျဉ်ပြား၁၀ချပ်ကို စာရင်းပြုစုသည်။
 
 6033
 Two planks get lifted by a robot.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပျဉ်ပြားနှစ်ချောင်းကို စက်ရုပ်တခုနဲ့ မရွှေ့လိုက်တယ်။
 
 6034
 Two planks get lifted.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပျဉ်ပြားနှစ်ချောင်းကို မရွှေ့လိုက်တယ်။
 
 6035
 The second tower has the stock exchange in it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒုတိယတာဝါ အထဲမှာ စတော့အိတ်ချိန်းရှိတယ်။
 
 6036
 The second tower is 1000 feet tall.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒုတိယတာဝါက ပေ၁၀၀၀ မြင့်တယ်။
 
 6037
 There is just one tower.
-<MYANMAR UNICODE TRANSLATION HERE>
+တာဝါ တခုသာလျှင် ရှိသည်။
 
 6038
 The buses alternate which stop they end at.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘတ်စ်ကားများသည် ၎င်းတို့ဂိတ်ဆုံးတဲ့နေရာတွင် အလှည့်ကျထွက်ကြသည်။
 
 6039
 The buses always stop at Isidoro Macabich.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘတ်စ်ကားများသည် အစ်စီဒို ရိုမိုကဘစ်ချ်ရုပ်ထုတွင် အမြဲ ရပ်သည်။
 
 6040
 The buses top at one of two stations.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘတ်စ်ကားများသည် 
+#REVIEW
 
 6041
 Cheap clothes are for sale in Laleli if you go to the right boutiques.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကယ်၍ မှန်ကန်သင့်တော်တဲ့ အဝတ်အစားဖက်ရှင်ဆိုင်တွေဆီကို မင်းသွားရင် လလေ့လိုင်မှာ ဈေးချိုတဲ့ အဝတ်အစားတွေကို လျော့ဈေးနဲ့ရောင်းတယ်။ 
 
 6042
 Cheap clothes are for sale in Laleli.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဈေးသက်သာသော အဝတ်အစားများကို လလေ့လိုင်တွင် ဈေးချရောင်းသည်။
 
 6043
 Laleli has the most expensive clothes.
-<MYANMAR UNICODE TRANSLATION HERE>
+လလေ့လိုင်တွင် ဈေးအကြီးဆုံး အဝတ်အစားများ ရှိသည်။
 
 6044
 The indoor skating rinks opened 10 years ago.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိုးလုံလေလုံရေခဲပြင်စကိတ်ကွင်းတွေကို လွန်ခဲ့တဲ့ ၁၀နှစ်ကဖွင့်ခဲ့တယ်။
 
 6045
 There is nowhere to ice skate.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရေခဲပြင်စကိတ်စီးဖို့ နေရာမရှိဘူး။
 
 6046
 You can skate indoor in a couple of places.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း နေရာအချို့မှာ မိုးလုံလေလုံ စကိတ်စီးနိုင်တယ်။
 
 6047
 It was so light you could carry it in your pocket.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားအိတ်ကပ်ထဲ ဒါကို ထည့်ပြီး ခင်ဗျား သယ်သွားနိုင်အောင်ကို ဒါက အရမ်းပေါ့တယ်။
 
 6048
 It was the heaviest weapon they had ever invented.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ တီထွင်ခဲ့သမျှထဲမှာ ဒါဟာ အလေးဆုံး လက်နက်ပဲ။
 
 6049
 It was very heavy
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက အရမ်းလေးတယ်
 
 6050
 No trace of the Liao capital at Beijing has survived to modern times.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပေကျင်းရှိ လျောင်မြို့တော်၏ မည်သည့်အရိပ်အယောင်သဲလွန်စမျှ ခေတ်သစ်ကာလထိ ရှင်သန်ကျန်ရစ်မှုမရှိပေ။
 
 6051
 The Fayuan Temple from the Liao capital is still standing today.
-<MYANMAR UNICODE TRANSLATION HERE>
+လျောင်မြို့တော်ရှိ ဖားယွမ်ဘုရားကျောင်းသည် ယနေ့အထိတိုင် တည်ရှိနေဆဲဖြစ်သည်။
 
 6052
 The Fayuan Temple receives more than five hundred visitors every day.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖားယွမ်ဘုရားကျောင်းသည် နေ့စဉ် လာရောက်လည်ပတ်သူဧည့်သည်ပေါင်း ငါးရာကျော် လက်ခံသည်။
 
 6053
 The visitors all stay far away from the cathedral.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဧည့်သည်များသည် ဘုရားရှစ်ခိုးကျောင်းတော်ကြီးနှင့် ဝေးဝေးတွင် အားလုံးနေကြသည်။
 
 6054
 Visitors like the area around the cathedral.
-<MYANMAR UNICODE TRANSLATION HERE>
+လာရောက်လည်ပတ်သူဧည့်သည်များသည် ဘုရားရှစ်ခိုးကျောင်းတော်ကြီး၏ ပတ်လည်အနီးတဝိုက်ဝန်ကျင်နေရာကို သဘောကျကြသည်။
 
 6055
 Visitors like the flowers around the cathedra.
-<MYANMAR UNICODE TRANSLATION HERE>
+လာရောက်လည်ပတ်သူဧည့်သည်များသည် ဘုရားရှစ်ခိုးကျောင်းတော်ကြီး၏ အနီးဝန်ကျင်ရှိ ပန်းများကို နှစ်ခြိုက်သဘောကျကြသည်။
 
 6056
 There is a list about beaches.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပင်လယ်ကမ်းခြေတွေရဲ့ အကြောင်း စာရင်းတခုရှိတယ်။
 
 6057
 There is a list that explains all about how nice the sand is at each beach.
-<MYANMAR UNICODE TRANSLATION HERE>
+<Mကမ်းခြေတခုချင်းစီမှာရှိတဲ့ သဲတွေဘယ်လောက်ကောင်းလဲဆိုတာ အားလုံးရှင်းပြထားတဲ့ စာရင်းတခုရှိတယ်။
 
 6058
 We only have one beach.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ဆီမှာ ကမ်းခြေတခုပဲရှိတယ်။
 
 6059
 Caldas de Monchique is a terrible setting for a picnic.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလ်ဒတ်စ်ဒီမွန်ကီးခ်သည် ပျော်ပွဲစားထွက်ရန် ဆိုးဝါးသောဝန်းကျင်နေရာတခု ဖြစ်သည်။
 
 6060
 Caldas de Monchique serves food.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလ်ဒတ်စ်ဒီမွန်ကီးခ်သည် အစားအစာများကို တည့်ခင်းဆောင်ရွက်ပေးသည်။
 
 6061
 There are woods around Caldas de Monchique.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလ်ဒတ်စ်ဒီမွန်ကီးခ် အနီးပတ်လည်ဝန်ကျင်တွင် သစ်တောများရှိသည်။
 
 6062
 The cruise is much longer than it used to be.
-<MYANMAR UNICODE TRANSLATION HERE>
+အပျော်စီးသင်္ဘောခရီးစဉ်သည် ပုံမှန်ထက် များစွာ ပိုကြာသည်။
 
 6063
 The cruise is two hours long.
-<MYANMAR UNICODE TRANSLATION HERE>
+အပျော်စီးသင်္ဘောခရီးစဉ်သည် နှစ်နာရီ ကြာသည်။
 
 6064
 The cruise only last 17 minutes.
-<MYANMAR UNICODE TRANSLATION HERE>
+အပျော်စီးသင်္ဘောခရီးစဉ်သည် ၁၇ မိနစ်သာလျှင် ကြာသည်။
 
 6065
 Occasionally a visitor is crushed by an improperly manipulated machine.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရံဖန်ရံခါ မတော်တဆကိုင်တွယ်ပြုလုပ်ထားသည့်စက်တခုကြောင့် ဧည့်သည်တယောက်ကို ထိခိုက်မိသည်။
 
 6066
 The Spectrum section has an area to manipulate various machines.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရောင်စဉ်ဌာနတွင် အမျိုးမျိုးသော စက်ပစ္စည်းများကို ကိုင်တွယ်တပ်ဆင်ရန် ဧရိယာရှိသည်။
 
 6067
 The Spectrum section is strictly off limits to visitors.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရောင်စဉ်ဌာနသည် လာရောက်လေ့လာသူများကို တင်းကျပ်စွာ ကန့်သတ်ထားသည်။
 
 6068
 The towns around Barbizon are the most populated.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘာဘီဇွန် အနီးဝန်ကျင်ရှိ မြို့များသည် လူဦးရေ အထူထပ်ဆုံး ဖြစ်သည်။
 
 6069
 There are only 10 people in Gorges d'Apreamont.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂေါ့ဂျပ်စ် ဒီအပရီမော့န်တွင် လူ ၁၀ဦးသာလျှင်ရှိသည်။
 
 6070
 There aren't as many people in the towns near Barbizon.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘာဘီဇွန် အနီးရှိ မြို့များတွင် လူတွေ များများစားစား မရှိဘူး။
 
 6071
 There have never been pirates in the Caribbean.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကာရေဘီယံတွင် ပင်လယ်ဓားပြတွေ တခါမျှ မရှိဖူးပါ။
 
 6072
 There were 100 pirate ships in Puerto rico.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပွာတိုရီကိုတွင် ပင်လယ်ဓားပြသင်္ဘော အစီး၁၀၀ ရှိသည်။
 
 6073
 There were pirates in the Carribbean.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကာရေဘီယံတွင် ပင်လယ်ဓားပြတွေရှိတယ်။
 
 6074
 The tourism people think the area needs a better name because the old one sounds dumpy.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမည် အဟောင်းသည် တိုတိုတုတ်တုတ်ဖြစ်နေသည်ဟု ထင်ရ၍ အဆိုပါ ဒေသသည် ပိုကောင်းသော အမည်တခု လိုအပ်သည်ဟု ခရီးသွားလုပ်ငန်းမှပြည်သူများသည် စိတ်ကူးယူဆကြသည်။
 
 6075
 The tourism people want to give the area a new name.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခရီးသွားလုပ်ငန်းမှပြည်သူများသည် အဆိုပါ ဧရိယာဒေသကို အမည်သစ်တခုပေးချင်ကြသည်။
 
 6076
 They want to keep the name the same because it's so great.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းသည် အလွန် ကောင်းမွန်သောကြောင့် သူတို့သည် အမည်ကို ဒီအတိုင်း ဆက်ခေါ်ချင်ကြသည်။
 
 6077
 The Palace of Fine Arts is a huge stone building.
-<MYANMAR UNICODE TRANSLATION HERE>
+အနုပညာနန်းတော်သည် ကြီးမားသော ဧရာမကျောက်အဆောက်အဦးကြီးဖြစ်သည်။
 
 6078
 The Palace of Fine Arts is all original.
-<MYANMAR UNICODE TRANSLATION HERE>
+အနုပညာနန်းတော်သည် အလုံးစုံ မူရင်းဖြစ်သည်။
 
 6079
 The Palace of Fine Arts was restored.
-<MYANMAR UNICODE TRANSLATION HERE>
+အနုပညာနန်းတော်ကို ပြန်လည်ထိန်းသိမ်းထားတယ်။
 
 6080
 Number 8 was a little white house.
-<MYANMAR UNICODE TRANSLATION HERE>
+နံပါတ်၈သည် အဖြူရောင်အိမ်ငယ်လေးတစ်လုံးဖြစ်သည်။
 
 6081
 Number 8 was in the middle in the street.
-<MYANMAR UNICODE TRANSLATION HERE>
+နံပါတ်၈က လမ်းအလယ်မှာ ရှိနေတယ်။
 
 6082
 Number 8 was on the corner.
-<MYANMAR UNICODE TRANSLATION HERE>
+နံပါတ်၈က ထောင့်မှာ ရှိနေတယ်။
 
 6083
 The snake eventually died from complications related to diabetes.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြွေဟာ ဆီးချိုရောဂါနဲ့ ဆက်စပ်တဲ့ ရောဂါသစ်တွေနဲ့ နောက်ဆုံးမှာ သေဆုံးသွားတယ်။
 
 6084
 The snake lived near the entrance to the temple and ate honey cakes.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြွေဟာ ဘုရားကျောင်း အဝင် အနီးနားမှာ နေပြီး ပျားရည်ကိတ်တွေကို စားတယ်။
 
 6085
 The snake would only eat pilgrims attempting to gain access to the temple.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြွေဟာ ဘုရားကျောင်းထဲ ဝင်ရောက်ဖို့ ကြိုးစားတဲ့ ဘုရားဖူးတွေကိုသာ ကိုက်သတ်စားသောက်မှာပဲ။
 
 6086
 The Church got a lot of monetary support from Francis of Assisi.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘုရားကျောင်းသည် ဖရန်စစ်အော့ဖ်အက်စီစိဆီမှ ငွေကြေးထောက်ပံ့မှု အမြောက်အများ ရရှိခဲ့သည်။
 
 6087
 The Church hated Francis of Asssisi.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘုရားကျောင်းသည် ဖရန်စစ်အော့ဖ်အက်စီစိကို မုန်းတီးခဲ့သည်။
 
 6088
 The Church was close with Francis of Assisi.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘုရားကျောင်းသည် ဖရန်စစ်အော့ဖ်အက်စီစိနှင့် ရင်းနှီးမှုရှိသည်။
 
 6089
 The wall goes up and down the mountains.
-<MYANMAR UNICODE TRANSLATION HERE>
+တံတိုင်းက တောင်တွေပေါ်မှာ မြင့်သွားလိုက် နိမ့်သွားလိုက်။
 
 6090
 The wall is big and made of stone.
-<MYANMAR UNICODE TRANSLATION HERE>
+တံတိုင်းနံရံက ကြီးပြီးတော့ ကျောက်တုံးတွေနဲ့ ဆောက်ထားတယ်။
 
 6091
 The wall is on the flat ground.
-<MYANMAR UNICODE TRANSLATION HERE>
+တံတိုင်းက မြေပြန့်ပေါ်မှာ။
 
 6092
 The museum focuses on toys.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတိုက်သည် ကစားစရာများအပေါ်တွင် အလေးပေးထားသည်။
 
 6093
 The museum has 100 cars.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတိုက်မှာ ကားပေါင်း အစီး ၁၀၀ ရှိတယ်။
 
 6094
 The museum has antique cars.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတိုက်မှာ ရှေးဟောင်းကားတွေရှိတယ်။
 
 6095
 Madrid doesn't yet have a collection.
-<MYANMAR UNICODE TRANSLATION HERE>
+မဒရစ်တွင် လက်ရွေးစင်စုဆောင်းထားမှု မရှိသေးပါ။
 
 6096
 Madrid has the best collection
-<MYANMAR UNICODE TRANSLATION HERE>
+မဒရစ်တွင် အကောင်းဆုံး လက်ရွေးစင်စုဆောင်းထားမှု ရှိသည်။
 
 6097
 Madrid's collection has 500 pieces.
-<MYANMAR UNICODE TRANSLATION HERE>
+မဒရစ်၏ လက်ရွေးစင်စုဆောင်းထားမှုတွင် လက်ရာပေါင်း ၅၀၀ရှိသည်။
 
 6098
 The Maritime Museum deals with history.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပင်လယ်ရေကြောင်းပြတိုက်သည် သမိုင်းကြောင်းနှင့် ပတ်သက်ဆက်စပ်သည်။
 
 6099
 The Maritime Museum has 100 years of history covered in its exhibits.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပင်လယ်ရေကြောင်းပြတိုက်တွင် ၎င်း၏ ခင်းကျင်းပြသထားသည့် ပြတိုက်ပစ္စည်းများသည် သမိုင်းကြောင်းနှစ်၁၀၀ရှိသည်။
 
 6100
 The Maritome Museum only deals with new ships.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပင်လယ်ရေကြောင်းပြတိုက်သည် သင်္ဘောသစ်များနှင့်သာ သက်ဆိုင်သည်။
 
