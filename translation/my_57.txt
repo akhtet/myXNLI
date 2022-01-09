@@ -15,10 +15,8 @@ Sea temperatures are always at one fixed point all year-round.
 ပင်လယ်ရေ အပူချိန်သည် တစ်နှစ်ပတ်လုံး သတ်မှတ်ထားသော အမှတ် တစ်ခု တွင် အမြဲ ရှိနေပါသည်။
 
 5605
-See temperatures are higher during the day, when it is warmer.
-ပို၍ပူနွေးလာသောအခါတွင် ၊ နေ့ဖက် အတွင်းတွင် အပူချိန်သည် ပိုမြင့်သည်ကို ကြည့်ပါ။
-#See (or) Sea
-#Review
+Sea temperatures are higher during the day, when it is warmer.
+ပိုပြီးနွေးလာ သောအခါတွင် ၊ ပင်လယ်ရေ အပူချိန်သည် နေ့ဖက် အတွင်းတွင်  ပိုမြင့်သည်။
 
 5606
 The Kinabalu national park has ten elephants and six rhinos.
@@ -118,9 +116,7 @@ There are 27 harbors along the mountains
 
 5630
 The Dora Stratou Folk Dance Theater is selling tickets for the May-September festival.
-ဒိုရာ စတရာတု ဖော့ခ် ဒန့် ပြဇာတ်ရုံသည် မေလ မှ စက်တင်ဘာလထိ ပွဲတော် အတွက် လက်မှတ်များ ရောင်းချနေပါသည်။
-#May-September = မေလ မှ စက်တင်ဘာလ (or) မေ-စက်တင်ဘာ ပွဲတော်
-#Review
+ဒိုရာ စတရာတု ဖော့ခ် ဒန့် ပြဇာတ်ရုံသည် မေ-စက်တင်ဘာ ပွဲတော် အတွက် လက်မှတ်များ ရောင်းချနေပါသည်။
 
 5631
 The auditorium on Philopappos Hill is closed from May to September.
@@ -271,10 +267,8 @@ You can swim with dolphins who can do crazy tricks.
 မင်းက အရူးအမူး လှည့်ကွက်တွေ လုပ်နိုင်တဲ့ လင်းပိုင်တွေနဲ့ ရေကူးနိုင်ပါတယ်။
 
 5668
-You can swim with the dophins at the resort.
+You can swim with the dolphins at the resort.
 မင်း အပန်းဖြေစခန်းမှာ လင်းပိုင်တွေနဲ့ ရေကူးနိုင်ပါတယ်။
-#dophins
-#Review
 
 5669
 Nafplio has a good view.
