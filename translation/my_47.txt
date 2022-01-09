@@ -3,10 +3,8 @@ Charles Follen McKim, John M. Carrare and Thomas Hastings were all alumni, but H
 ချားလ်စ် ဖိုလမ် မက်ကင် ၊ ဂျွန် အမ် ကာရယ်ရာ နှင့် သောမတ်စ် ဟက်စ်တင်းတို့သည် ကျောင်းသားဟောင်းများ ဖြစ်ကြ ပေမယ့် ၊ အိတ်ချ် အိတ်ချ် ရစ်ချဒ်ဆန် က မဟုတ်ခဲ့ဘူး အခြား တက္ကသိုလ်မှ ဖြစ်ပါတယ်။
 
 4602
-H. H. Richardson, Charles Follen McKim, John M. Carrare and Thomas Hastings were all alumni, they all graduated the dame year.
-#review
-#dame = the official title of the women .........
-#same
+H. H. Richardson, Charles Follen McKim, John M. Carrare and Thomas Hastings were all alumni, they all graduated the same year.
+အိတ်ချ် အိတ်ချ် ရစ်ချဒ်ဆန် ၊ ချားလ်စ် ဖိုလမ် မက်ကင် ၊ ဂျွန် အမ် ကာရယ်ရာ နှင့် သောမတ်စ် ဟက်စ်တင်းတို့သည် ကျောင်းသားဟောင်းများ ဖြစ်ကြသည် ၊ သူတို့ အားလုံးသည် တစ်နှစ်တည်းမှာ ဘွဲ့အတူတူရရှိခဲ့သည်။
 
 4603
 H. H. Richardson, Charles Follen McKim, John M. Carrare and Thomas Hastings were all alumni.
@@ -398,4 +396,4 @@ Spin glasses have no magnetic force.
 
 4700
 Many people today still speak one version of pachuco or the other.
-ယနေ့ လူ အတော်များများသည် ပါချူကို ဗားရှင်းတစ်မျိုး သို့မဟုတ် အခြားတစ်မျိုးကို ပြောဆိုနေကြဆဲဖြစ်သည်။
+ယနေ့ လူ အတော်များများသည် ပါချူကို ဗားရှင်းတစ်မျိုး သို့မဟုတ် အခြားတစ်မျိုးကို ပြောဆိုနေကြဆဲဖြစ်သည်။ျ
