@@ -206,7 +206,6 @@ You should probably only hike with a guide.
 5852
 PEople like to party after the fish.
 ငါးမျှား ပြီးနောက် လူတွေက ပါတီကို နှစ်သက်ကြသည်။
-#review
 
 5853
 People go fishing and then go right to sleep.
@@ -327,17 +326,14 @@ Canada welcomed refugees from African countries the most.
 5882
 Computer CIty is not located in the Star House.
 ကွန်ပျူတာ စီးတီးသည် စတား ဟောက်စ်တွင် မတည်ရှိပါ။
-#review 
 
 5883
 Computer City is located in the Star House.
 ကွန်ပျူတာ စီးတီးသည် စတား ဟောက်စ်တွင် တည်ရှိသည်။
-#review
 
 5884
 Computer City is the most impressive thing in the Star House.
 ကွန်ပျူတာ စီးတီးသည် စတား ဟောက်စ်တွင် အထင်ကြီးစရာ အကောင်းဆုံးအရာဖြစ်သည်။
-#review
 
 5885
 Cala Mondrage is developed.
