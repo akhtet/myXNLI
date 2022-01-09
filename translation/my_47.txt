@@ -1,400 +1,401 @@
 4601
 Charles Follen McKim, John M. Carrare and Thomas Hastings were all alumni, but H. H. Richardson was not and was from another university.
-<MYANMAR UNICODE TRANSLATION HERE>
+ချားလ်စ် ဖိုလမ် မက်ကင် ၊ ဂျွန် အမ် ကာရယ်ရာ နှင့် သောမတ်စ် ဟက်စ်တင်းတို့သည် ကျောင်းသားဟောင်းများ ဖြစ်ကြ ပေမယ့် ၊ အိတ်ချ် အိတ်ချ် ရစ်ချဒ်ဆန် က မဟုတ်ခဲ့ဘူး အခြား တက္ကသိုလ်မှ ဖြစ်ပါတယ်။
 
 4602
 H. H. Richardson, Charles Follen McKim, John M. Carrare and Thomas Hastings were all alumni, they all graduated the dame year.
-<MYANMAR UNICODE TRANSLATION HERE>
+#review
+#dame = the official title of the women .........
+#same
 
 4603
 H. H. Richardson, Charles Follen McKim, John M. Carrare and Thomas Hastings were all alumni.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိတ်ချ် အိတ်ချ် ရစ်ချဒ်ဆန် ၊ ချားလ်စ် ဖိုလမ် မက်ကင် ၊ ဂျွန် အမ် ကာရယ်ရာ နှင့် သောမတ်စ် ဟက်စ်တင်းတို့သည် ကျောင်းသားဟောင်းများ ဖြစ်ကြသည်။
 
 4604
 Graphs show you the right framework for the space exploration.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပုံပြမျဉ်းဂရပ်တွေသည် သင့်အား အာကာသ စူးစမ်းလေ့လာမှု အတွက် မှန်ကန်သော မူဘောင်ကို ပြသသည်။
 
 4605
 Graphs show you the right framework.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပုံပြမျဉ်းဂရပ်တွေက သင့်အား မှန်ကန်သော မူဘောင်ကို ပြသသည်။
 
 4606
 Technology graphs don't tell you anything.
-<MYANMAR UNICODE TRANSLATION HERE>
+နည်းပညာဂရပ်တွေက မင်းကို ဘာမှ မပြောဘူး။
 
 4607
 The temper of the times was negative.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခေတ်ရဲ့ သဘောထားက အဆိုးမြင်ခဲ့တယ်။
 
 4608
 There was an emotional state of the time.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲအချိန်တုန်းက စိတ်ခံစားမှု အခြေအနေ တစ်ခု ရှိခဲ့တယ်။
 
 4609
 This wasn't the temper of the times.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက ခေတ်ရဲ့ သဘောထား မဟုတ်ခဲ့ဘူး။
 
 4610
 In the United States Mexican Americans and anglo Americans thought the pachuco unworthy.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကန်ပြည်ထောင်စုတွင် မက္ကဆီကန် အမေရိကန်များ နှင့် အန်ဂလို အမေရိကန်များက ပါချူကိုကို မထိုက်တန်ဟု တွေးခဲ့ကြသည်။
 
 4611
 Pachuco was embraced in the US by Mexican Americans.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပါချူကိုကို ယူအက်စ် တွင် မက္ကဆီကို နိုင်ငံသားများက လက်ခံယုံကြည်ခဲ့သည်။
 
 4612
 The pachuco had many negative effects.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပါချူကိုသည် အပျက်သဘောဆောင်သော သက်ရောက်မှု များစွာ ရှိခဲ့သည်။
 
 4613
 Shannon determined that the message came from a negative source.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှနွန်က မက်ဆေ့ချ်သည် အပျက်သဘောဆောင်သော အရင်းအမြစ်မှ လာသည်ဟု ဆုံးဖြတ်ခဲ့သည်။
 
 4614
 Shannon did calculations about the message.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှနွန်သည် မက်ဆေ့ချ်နှင့် ပတ်သက်၍ တွက်ဆမှုတွေကို ပြုလုပ်ခဲ့သည်။
 
 4615
 Shannon ignored the message.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှနွန်က မက်ဆေ့ချ်တွေကို လျစ်လျူရှုထားသည်။
 
 4616
 We didn't have to pray.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ဆုတောင်းစရာမလိုဘူး။
 
 4617
 We were supposed to pray before we slept.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ မအိပ်ခင် ဆုတောင်းရမယ် ထင်တယ်။
 
 4618
 We were supposed to pray for 10 minutes before bed.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိပ်ရာမဝင်မီ ၁၀ မိနစ်ခန့် ငါတို့ ဆုတောင်းရမယ် ထင်တယ်။
 
 4619
 Mandala members are immortal.
-<MYANMAR UNICODE TRANSLATION HERE>
+မန္တလာ အဖွဲ့ဝင်များသည် မသေနိုင်ပါ။
 
 4620
 Mandala members die from poisoning.
-<MYANMAR UNICODE TRANSLATION HERE>
+မန္တလာ အဖွဲ့ဝင်များသည် အဆိပ်သင့်၍ သေဆုံးကြသည်။
 
 4621
 Mandala members die.
-<MYANMAR UNICODE TRANSLATION HERE>
+မန္တလာ အဖွဲ့ဝင်တွေ သေတယ်။
 
 4622
 Neither of these can be altered without altering the anticodon-codon matching mechanism.
-<MYANMAR UNICODE TRANSLATION HERE>
+အန်တီကိုဒွန်-ကိုဒွန် ကိုက်ညီမှု ယန္တရားကို မပြောင်းလဲဘဲ ၎င်းတို့နှစ်ခုလုံးကို မပြောင်းလဲနိုင်ပါ။
 
 4623
 The alterations are very extreme.
-<MYANMAR UNICODE TRANSLATION HERE>
+အပြောင်းအလဲတွေက အရမ်း ပြင်းထန်တယ်။
 
 4624
 You don't have to alter the anitcodon-codon matching mechanism to alter both of those.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်း နှစ်ခုလုံးကို ပြောင်းလဲ ရန် အန်တီကိုဒွန်-ကိုဒွန် ကိုက်ညီသော ယန္တရားကို မင်း ပြောင်းလဲရန် မလိုအပ်ပါ။
 
 4625
 It looks as though something profound in going on in the universe.
-<MYANMAR UNICODE TRANSLATION HERE>
+စကြဝဠာ အတွင်း တစ်စုံတစ်ခုသည် နက်နဲသိမ်မွေ့ပုံပေါ်နေသည်ဟု ထင်ခဲ့သည်။
 
 4626
 The universe is a very confusing place.
-<MYANMAR UNICODE TRANSLATION HERE>
+စကြာဝဠာသည် အလွန် ရှုပ်ထွေးသော နေရာ တစ်ခု ဖြစ်သည်။
 
 4627
 There is nothing happening in the universe at all.
-<MYANMAR UNICODE TRANSLATION HERE>
+စကြာဝဠာကြီးမှာ ဖြစ်ပျက်လာတာ လုံးဝ မရှိပါ။
 
 4628
 The most important thing in our future discussions is the third feature.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့၏ လာမည့် အစည်းအဝေးများတွင် အရေးကြီးဆုံးအချက်မှာ တတိယ အချက်အလက် ဖြစ်သည်။
 
 4629
 There are less important things in our future discussions.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့၏ လာမည့် အစည်းအဝေးများတွင် အရေးပါသော အရာများ နည်းပါးပါသည်။
 
 4630
 There is nothing important that we should discuss in the future.
-<MYANMAR UNICODE TRANSLATION HERE>
+အနာဂတ်မှာ ကျွန်တော်တို့ အရေးတကြီး ဆွေးနွေးသင့်တာ မရှိပါဘူး။
 
 4631
 If so, then it was created that way by God.
-<MYANMAR UNICODE TRANSLATION HERE>
+သို့ဆိုလျှင် ၊ ၎င်းကို ဘုရားသခင်က ထိုနည်း အတိုင်း ဖန်ဆင်းခဲ့သည်။
 
 4632
 It took a long time for natural selection to tune it thus.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါကြောင့် ၎င်းကို ချိန်ညှိရန် သဘာဝကျကျ ရွေးချယ်မှုက အချိန်အတော်ကြာပါမယ်။
 
 4633
 Natural selection might have made turned it into that.
-<MYANMAR UNICODE TRANSLATION HERE>
+သဘာဝကျကျ ရွေးချယ်မှုက အထိုအရာကို ဒီဟာသို့ ပြောင်းလဲသွားစေနိုင်တယ်။
 
 4634
 At higher fitness levels evolving populations are more likely to survive.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပိုမိုမြင့်မားသော ကြံ့ခိုင်မှု အဆင့်များ တွင် ဖွံ့ဖြိုးဆဲ လူဦးရေသည် အသက်ရှင် ရန် အလားအလာပိုများသည်။
 
 4635
 Many factors work together to pull evolving populations to higher fitness levels.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖွံ့ဖြိုးဆဲ လူဦးရေကို ပိုမိုမြင့်မားသော ကြံ့ခိုင်မှု အဆင့်များ သို့ ဆွဲငင် ရန် အကြောင်းရင်း များစွာသည် အတူတကွ လုပ်ဆောင်ကြသည်။
 
 4636
 There are no factors that help evolving populations reach higher fitness levels.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖွံ့ဖြိုးဆဲ လူဦးရေကို ပိုမိုမြင့်မားသော ကြံ့ခိုင်မှု အဆင့်များ သို့ ရောက်ရှိစေရန် ကူညီပေးသည့် အကြောင်းရင်းများ မရှိပါ။
 
 4637
 Children carried around big bags for collecting candy and toys on Christmas Day.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခရစ္စမတ်နေ့တွင် သကြားလုံး နှင့် အရုပ်များ စုဆောင်းရန် အတွက် ကလေးများသည် ကြီးမားသော အိတ်များကို သယ်ဆောင်သွားကြသည်။
 
 4638
 Children did not stay indoors on Christmas Day.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလေးများသည် ခရစ္စမတ်နေ့တွင် အိမ်ထဲတွင် မနေခဲ့ကြပါ။
 
 4639
 On Christmas Day, children went to the North Pole to visit Santa.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခရစ္စမတ်နေ့တွင်၊ ကလေးများသည် ဆန်တာ သို့ သွားရောက်လည်ပတ် ရန် မြောက်ဝင်ရိုးစွန်းသို့ သွားကြသည်။
 
 4640
 Children who grow up around parents are always troublesome.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိဘတွေအနီးနားဝန်းကျင်မှာ ကြီးပြင်းလာတဲ့ ကလေးတွေဟာ အမြဲ ဒုက္ခ ရှိကြတယ်။
 
 4641
 Numerous studies have been done on parent-children bonds.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိဘ-သားသမီး နှောင်ကြိုးများဆိုင်ရာ လေ့လာမှု အများအပြားကို ပြုလုပ်ခဲ့သည်။
 
 4642
 Parent-children bonds are helpful for normal child development.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိဘ-သားသမီး နှောင်ကြိုးများသည် ပုံမှန် ကလေး ဖွံ့ဖြိုးမှု အတွက် အထောက်အကူဖြစ်သည်။
 
 4643
 How can a parent gain respect from their child if they are acting disrespectfully?
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် မရိုမသေ ပြုမူမည် ဆိုလျှင် မိဘတစ်ဦးသည် သူတို့၏ သားသမီးထံမှ လေးစားမှုကို မည်သို့ရရှိနိုင်မည်နည်း။
 
 4644
 It is important for children to respect their parents.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလေးများသည် မိဘများကို လေးစားရန် အရေးကြီးသည်။
 
 4645
 It's easy for a parent to gain respect from their child when they are acting disrespectfully towards their spouse.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် သူတို့၏ အိမ်ထောင်ဖက်အပေါ် မရိုမသေပြုမူ သောအခါတွင် မိဘတစ်ဦးသည် သူတို့၏ ကလေးထံမှ လေးစားမှု ရရှိ ရန် လွယ်ကူသည်။
 
 4646
 Riddles are boring and teach you nothing.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပဟေဠိတွေက ငြီးငွေ့စရာကောင်း ပြီး မင်းကို ဘာမှမသင်ပေးဘူး။
 
 4647
 Riddles are two things.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပဟေဠိမှာ အကြောင်းအရာ နှစ်ခုရှိတယ်။
 
 4648
 Riddles are very hard to solve.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပဟေဠိတွေက ဖြေရှင်းရ အလွန် ခက်တယ်။
 
 4649
 This is the first part of damage to the rocks.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤသည်မှာ ကျောက်တုံးများ ပျက်စီးခြင်း၏ ပထမပိုင်း ဖြစ်သည်။
 
 4650
 This is the first part of damage.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက ပျက်စီးမှုရဲ့ ပထမ အပိုင်း ဖြစ်ပါတယ်။
 
 4651
 This is the last part of damage.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက ပျက်စီးမှုရဲ့ နောက်ဆုံး အပိုင်း ဖြစ်ပါတယ်။
 
 4652
 Good architecture includes aesthetic beauty, as well as economical function.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကောင်းမွန်သော ဗိသုကာပညာသည် အလှတရားများအပြင် ၊ စီးပွားရေးနှင့်ဆိုင်သော လုပ်ဆောင်ချက်လည်း ပါဝင်သည်။
 
 4653
 That does not conclude that good architecture is only designed for functionality.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကောင်းမွန်သော ဗိသုကာပညာသည် လုပ်ဆောင်နိုင်စွမ်း အတွက် သာ ဒီဇိုင်းထုတ်သည် ဟု ကောက်ချက်မချပါ။
 
 4654
 The single defining attribute of good architecture is utility.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကောင်းမွန်သော ဗိသုကာပညာ၏ တစ်ခုတည်းသော အဓိပ္ပါယ် ဖွင့်ဆိုချက်မှာ အသုံးဝင်မှု ဖြစ်သည်။
 
 4655
 The piata is colorful.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပီတာသည် အရောင်အသွေးစုံသည်။
 
 4656
 The piata lays on the ground.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပီတာသည် မြေပြင်ပေါ်တွင် လဲကျနေသည်။
 
 4657
 The pieata is up in the air.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပီတာသည် လေထဲတွင် လွင့်နေသည်။
 
 4658
 Erale can mean that something is O.K.
-<MYANMAR UNICODE TRANSLATION HERE>
+အီရယ်က တစ်စုံတစ်ခုသည် အိုကေသည်ဟု ဆိုလိုနိုင်သည်
 
 4659
 Erale has only one meaning.
-<MYANMAR UNICODE TRANSLATION HERE>
+အီရယ်မှာ အဓိပ္ပါယ် တစ်ခုသာ ရှိတယ်။
 
 4660
 Erale is not a commonly used word.
-<MYANMAR UNICODE TRANSLATION HERE>
+အီရယ်သည် အသုံးများသောစကားလုံးမဟုတ်ပါ။
 
 4661
 It is clear that there is order in organisms.
-<MYANMAR UNICODE TRANSLATION HERE>
+သက်ရှိများတွင် စည်းစနစ် ရှိကြောင်း ထင်ရှားသည်။
 
 4662
 Organisms are defined by chaos; there is not a hint of order in them.
-<MYANMAR UNICODE TRANSLATION HERE>
+သက်ရှိများကို ပရမ်းပတာ ဟု သတ်မှတ်ကြသည်; သူတို့တွင် အစီအစဉ် အရိပ်အမြွက် တစ်ခုမှ မရှိပါ။
 
 4663
 There is a theory that statistical averaging is the source of order in organisms.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကိန်းဂဏန်း ပျမ်းမျှတွက်ချက်မှုသည် သက်ရှိများတွင် အစီအစဉ် အရင်းအမြစ် ဖြစ်သည် ဟူသော သီအိုရီ တစ်ခု ရှိသည်။
 
 4664
 Children today spend more time watching TV than reading.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယနေ့ခေတ် ကလေးများသည် စာဖတ်ခြင်းထက် တီဗီ ကြည့်ချိန် ပိုသုံးစွဲကြသည်။
 
 4665
 TV has not been invented yet, which is why most children spend a lot of time reading.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလေးအများစုဟာ စာဖတ်ချိန်ကို  အများအပြား ကုန်ဆုံးခဲ့ကြတာ ဘာကြောင့်လဲဆိုတော့ ၊တီဗွီကို မတီထွင်ရသေးတဲ့အတွက် ဖြစ်ပါတယ်။
 
 4666
 Today's children have access to TV, and they spend a lot of time watching it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယနေ့ခေတ် ကလေးများသည် တီဗီကြည့်ခွင့်ရကြ ပြီး ၊ သူတို့သည် ၎င်းကိုကြည့်ရန် အချိန်များစွာ သုံးစွဲကြသည်။
 
 4667
 Lipstadt was a cook.
-<MYANMAR UNICODE TRANSLATION HERE>
+လစ်စတတ်သည် ထမင်းချက်သူဖြစ်သည်။
 
 4668
 Lipstadt wrote a book that got excellent reviews.
-<MYANMAR UNICODE TRANSLATION HERE>
+လစ်စတတ်သည် အလွန်ကောင်းမွန်သော သုံးသပ်ချက် ရထားသော စာအုပ် တစ်အုပ်ကို ရေးသားခဲ့သည်။
 
 4669
 Lipstadt wrote a book.
-<MYANMAR UNICODE TRANSLATION HERE>
+လစ်စတတ်က စာအုပ် တစ်အုပ် ရေးခဲ့တယ်။
 
 4670
 Catarino Garza was a well known Texas Ranger.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကတ်တာရီနို ဂါဇာသည် တက္ကဆက်ပြည်နယ်ကို ကာကွယ်ပေးသူ ဟု လူသိများသည်။
 
 4671
 Gregorio Cortez is one of the folk heroes that confronted the Texas Rangers.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂရိဂိုရီယို ကော့တဇ်သည် တက္ကဆက်ပြည်နယ်ကို ကာကွယ်ပေးသူများကို ရင်ဆိုင်ခဲ့သော ကျေးလက်သူရဲကောင်းများထဲမှ တစ်ဦးဖြစ်သည်။
 
 4672
 Juan Cortina led the group that confronted the Texas Rangers.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျန် ကော်တီးနားသည် တက္ကဆက်ပြည်နယ်ကို ကာကွယ်ပေးသူများနှင့် ထိပ်တိုက်တွေ့သော အဖွဲ့ကို ဦးဆောင်ခဲ့သည်။
 
 4673
 According to this book, parents shouldn't spend time with their children.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ စာအုပ်အဆိုအရ ၊ မိဘတွေဟာ သူတို့ရဲ့ သားသမီးတွေနဲ့ အချိန်ဖြုန်းမနေသင့်ပါဘူး။
 
 4674
 In this book, I'll cover topics that parents and their children can implement while spending time together.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ စာအုပ်မှာ ၊ မိဘတွေနဲ့ သူတို့ သားသမီးတွေ အတူတူ အချိန်ဖြုန်းရင်း အကောင်အထည်ဖော်နိုင်တဲ့ အကြောင်းအရာတွေကို ကျွန်တော်  ဖော်ပြပါမယ်။
 
 4675
 This parenting book is on the New York Times bestseller's list.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ မိဘအုပ်ထိန်းမှု စာအုပ်သည် နယူးယောက်တိုင်းစ် ၏အရောင်းရဆုံး စာရင်း တွင် ရှိသည်။
 
 4676
 Since the war ended, there has been no amendment to the constitution.
-<MYANMAR UNICODE TRANSLATION HERE>
+စစ်ပွဲ ပြီးဆုံး ကတည်းက ၊ ဖွဲ့စည်းပုံအခြေခံဥပဒေကို ပြင်ဆင်ခြင်း မရှိသေးပါဘူး။
 
 4677
 There were only four amendments to the constitution before the war.
-<MYANMAR UNICODE TRANSLATION HERE>
+စစ်ပွဲ မဖြစ်မီက ဖွဲ့စည်းပုံ ပြင်ဆင်ရေး လေးခုသာ ရှိခဲ့သည်။
 
 4678
 There were some amendments to the constitution after the war.
-<MYANMAR UNICODE TRANSLATION HERE>
+စစ်ပွဲ အပြီးတွင် ဖွဲ့စည်းပုံ ပြင်ဆင်ရေး အချို့ ရှိခဲ့သည်။
 
 4679
 Molecular species never form, they jsut have always been.
-<MYANMAR UNICODE TRANSLATION HERE>
+မော်လီကျူး မျိုးစိတ်များသည် ဘယ်သောအခါမှ မဖွဲ့စည်းဘဲ ၊  ၎င်းတို့သည် အမြဲရှိနေခဲ့သည်။
 
 4680
 Some molecular species form in black clouds.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့သော မော်လီကျူး မျိုးစိတ်များသည် အနက်ရောင် တိမ်တိုက်များတွင် ဖွဲ့စည်းကြသည်။
 
 4681
 Some molecular species form when a cloud evolves.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိမ်တိုက် တစ်ခု ဖြစ်ထွန်းလာ သောအခါ အချို့သော မော်လီကျူး မျိုးစိတ်များ ဖွဲ့စည်းကြသည်။
 
 4682
 Established neurons branch out to form connections with other neurons, which enables them to perform various functions.
-<MYANMAR UNICODE TRANSLATION HERE>
+တည်ထောင်ထားသော နျူရွန်များသည် အခြားသော နျူရွန်များနှင့် ဆက်သွယ်မှုများ ပြုလုပ်ရန် ခွဲထွက်လာကာ ၊ ၎င်းတို့အား အမျိုးမျိုးသော လုပ်ငန်းဆောင်တာများကို လုပ်ဆောင်နိုင်စေပါသည်။
 
 4683
 Neurons must be fully established before they can perform certain functions.
-<MYANMAR UNICODE TRANSLATION HERE>
+နျူရွန်များသည် အချို့သော လုပ်ငန်းဆောင်တာများကို သူတို့ မလုပ်ဆောင်မီ အပြည့်အဝ တည်ဆောက်ထားရပါမည်။
 
 4684
 Neurons operate independently and never need to connect with other neurons.
-<MYANMAR UNICODE TRANSLATION HERE>
+နျူရွန်များသည် အမှီအခိုကင်းစွာ လည်ပတ်နေ ပြီး အခြားသော နျူရွန်များ နှင့် ချိတ်ဆက် ရန် ဘယ်တော့မှ မလိုအပ်ပါ။
 
 4685
 If it weren't for the law, we would have disobeyed the commander.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက ဥပဒေအရ မဟုတ်ဘူး ဆိုလျှင် ၊ ကျွန်တော်တို့ တပ်မှုးကို အမိန့်နာခံမှာမဟုတ်ပါ။
 
 4686
 The commander has found a way to make us do what he wants us to do.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ကို သူလုပ်ချင်တာကို လုပ်ခိုင်းဖို့ တပ်မှူးက နည်းလမ်း တစ်ခုကို ရှာဖွေတယ်။
 
 4687
 The commander knows that we will never listen to anything he says.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့က သူ ပြောသမျှတွေကို ဘယ်တော့မှ နားမထောင်ဘူးဆိုတာ တပ်မှူးက သိသည်။
 
 4688
 Nothing was any different in 1863 because it wasn't a country yet.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၈၆၃ မှာ နိုင်ငံ တစ်ခု မဟုတ်သေးတဲ့ အတွက်ကြောင့် မည်သည့်ပြောင်းလဲမှုမှု မဖြစ်ခဲ့ဘူး။
 
 4689
 The nation was changing a lot in 1863.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၈၆၃ တွင် တိုင်းပြည်သည် များစွာ ပြောင်းလဲခဲ့သည်။
 
 4690
 The nation was changing because of the political unrest in 1863.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၈၆၃ မှာ နိုင်ငံရေး မငြိမ်မသက်မှုတွေကြောင့် တိုင်းပြည်က ပြောင်းလဲသွားတယ်။
 
 4691
 Anyone who is suspected of crime has no rights at all.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြစ်မှုကျူးလွန်သည်ဟု သံသယရှိသူ မည်သူမဆို လုပ်ပိုင်ခွင့် လုံးဝမရှိပါ။
 
 4692
 Every criminal suspect has a right to a lawyer.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရာဇ၀တ်မှုကျူးလွန်သူတိုင်းတွင် ရှေ့နေ တစ်ဦး ရပိုင်ခွင့်တစ်ခု ရှိသည်။
 
 4693
 People who are suspected of crime have these rights.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရာဇ၀တ်မှုလို့ သံသယရှိသူတွေမှာ ဒီအခွင့်အရေးတွေ ရှိတယ်။
 
 4694
 The engine block has a cylinder hole.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်ဂျင်ဘလောက်တွင် ဆလင်ဒါ အပေါက် တစ်ခု ရှိသည်။
 
 4695
 The engine block has a hole in motorcycles.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်ဂျင် ဘလောက်သည် ဆိုင်ကယ်များတွင် အပေါက် တစ်ခု ရှိသည်။
 
 4696
 The engine block has no holes.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်ဂျင်ဘလောက်တွင် အပေါက်များမရှိပါ။
 
 4697
 A spin glass is a magnet.
-<MYANMAR UNICODE TRANSLATION HERE>
+လှည့်ကွက်မှန် တစ်ခု သည် သံလိုက် တစ်ခု ဖြစ်သည်။
 
 4698
 A spin glass is a very strong magnet.
-<MYANMAR UNICODE TRANSLATION HERE>
+လှည့်ကွက်မှန် တစ်ခုသည် အလွန် အားကောင်းသော သံလိုက် တစ်ခု ဖြစ်သည်။
 
 4699
 Spin glasses have no magnetic force.
-<MYANMAR UNICODE TRANSLATION HERE>
+လှည့်ကွက်မှန်များတွင် သံလိုက် စွမ်းအား မရှိပါ။
 
 4700
 Many people today still speak one version of pachuco or the other.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+ယနေ့ လူ အတော်များများသည် ပါချူကို ဗားရှင်းတစ်မျိုး သို့မဟုတ် အခြားတစ်မျိုးကို ပြောဆိုနေကြဆဲဖြစ်သည်။
