@@ -56,13 +56,13 @@ The Stampede was intended to show the techniques of farm life.
 
 5915
 Nearly 100 thousand people come to check out the city every day.
-နေ့တိုင်း လူထောင်ပေါင်း၁၀၀နီးပါး/လူပေါင်းတစ်သိန်းနီးပါး မြို့တော်ကို လေ့လာကြည့်ရှုဖို့ ရောက်ရှိလာကြတယ်။ 
-#REVIEW
+နေ့တိုင်း လူပေါင်းတစ်သိန်းနီးပါး မြို့တော်ကို လေ့လာကြည့်ရှုဖို့ ရောက်ရှိလာကြတယ်။ 
+
 
 5916
 Only 50 thousand people come to check out the city on a day to day basis.
-နေ့စဉ်နေ့တိုင်း ပုံမှန် လူထောင်ပေါင်း၅၀/ လူငါးသောင်း သာလျှင် မြို့တော်ကို လေ့လာကြည့်ရှုဖို့ ရောက်ရှိလာကြတယ်။ 
-#REVIEW
+နေ့စဉ်နေ့တိုင်း ပုံမှန် လူငါးသောင်း သာလျှင် မြို့တော်ကို လေ့လာကြည့်ရှုဖို့ ရောက်ရှိလာကြတယ်။ 
+
 
 5917
 The city does not have a great tourism industry.
@@ -314,11 +314,11 @@ The building had no basement.
 
 5979
 The building hid the SS guard houses.
-အဆောက်အဦးသည် အက်စ်အက်စ် အစောင့်ကင်းတဲများကို ကွယ်ထားသည်။
+အဆောက်အဦသည် အက်စ်အက်စ် အစောင့်ကင်းတဲများကို ကွယ်ထားသည်။
 
 5980
 The building was over the SS guard houses.
-အဆောက်အဦးသည် အက်စ်အက်စ် အစောင့်ကင်းတဲများအကျော်တွင်ရှိသည်။
+အဆောက်အဦသည် အက်စ်အက်စ် အစောင့်ကင်းတဲများအကျော်တွင်ရှိသည်။
 
 5981
 The art project is really fascinating.
@@ -370,7 +370,7 @@ The province was known for being home to some of the wealthiest families in the 
 
 5993
 The Olympics have never been in Europe.
-အိုလံပစ်ပြိုင်ပွဲက ဉရောပမှာ တခါမှ မကျင်းပဖူးဘူး။
+အိုလံပစ်ပြိုင်ပွဲက ဥရောပမှာ တခါမှ မကျင်းပဖူးဘူး။
 
 5994
 The Olympics in Spain were the most popular of that decade.
@@ -394,9 +394,9 @@ The sailors and pilgrims were all one hundred percent authentic.
 
 5999
 The building has a huge iron weathervane.
-အဆောက်အဦးတွင် ကြီးမားသော သံလေညွှန်တံကြီးတခုရှိသည်။
+အဆောက်အဦတွင် ကြီးမားသော သံလေညွှန်တံကြီးတခုရှိသည်။
 
 6000
 The building is most known for it's fence.
-အဆောက်အဦးသည် ၎င်း၏ ခြံစည်းရိုးကြောင့် လူသိအများဆုံးဖြစ်သည်။
+အဆောက်အဦသည် ၎င်း၏ ခြံစည်းရိုးကြောင့် လူသိအများဆုံးဖြစ်သည်။
 
