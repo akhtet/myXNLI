@@ -16,11 +16,11 @@ They think about what computers to buy.
 
 6905
 Highlighting the area has no value.
-ဒီ ဧရိယာကို မီးမောင်းထိုးပြခြင်းသည် တန်ဖိုးမရှိပါ။
+ဒီဧရိယာကို မီးမောင်းထိုးပြခြင်းသည် တန်ဖိုးမရှိပါ။
 
 6906
 Highlighting the area has value.
-ဒီ ဧရိယာကို မီးမောင်းထိုးပြခြင်းသည် တန်ဖိုးရှိသည်။
+ဒီဧရိယာကို မီးမောင်းထိုးပြခြင်းသည် တန်ဖိုးရှိသည်။
 
 6907
 Highlighting the map has value.
@@ -28,7 +28,7 @@ Highlighting the map has value.
 
 6908
 The crosshatched pentagon has helped the mailer market boost profits.
-#ခြယ်ထားသောပဉ္စဂံ သည် မေးလ်ပို့တဲ့ဈေးကွက် ကို အမြတ်အစွန်းများ မြှင့်တင်ရန် ကူညီပေးခဲ့ပါသည်။
+#ခြယ်ထားသောပဉ္စဂံသည် မေးလ်ပို့တဲ့ဈေးကွက် ကို အမြတ်အစွန်းများ မြှင့်တင်ရန် ကူညီပေးခဲ့ပါသည်။
 #Review
 
 6909
@@ -47,11 +47,11 @@ Brendan Gill dislikes the merger.
 
 6912
 Brendan Gill likes the merger.
-ဘရန်းဒန်ဂျေး သည် ကုမ္ပဏီချင်းပေါင်းစည်းခြင်းကို ကြိုက်သည်။
+ဘရန်းဒန်ဂျေးသည် ကုမ္ပဏီချင်းပေါင်းစည်းခြင်းကို ကြိုက်သည်။
 
 6913
 Brendan Gill made money off the merger.
-ဘရန်းဒန်ဂျေး သည် ကုမ္ပဏီချင်းပေါင်းစည်းခြင်းမှ လျှော့ဈေးရခဲ့သည်။
+ဘရန်းဒန်ဂျေးသည် ကုမ္ပဏီချင်းပေါင်းစည်းခြင်းမှ လျှော့ဈေးရခဲ့သည်။
 
 6914
 Data error causes freedom.
