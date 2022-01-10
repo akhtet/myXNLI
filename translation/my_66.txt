@@ -352,49 +352,403 @@ There are exactly five more tasks that must still be accomplished.
 
 6589
 We still have things to do even tho we have come so far.
-<MYANMAR UNICODE TRANSLATION HERE>
+6501
+Postal density has twice the impact of volume on delivery costs.
+စာတိုက် သိပ်သည်းဆသည် ပို့ဆောင်ခကုန်ကျစရိတ်အပေါ် သက်ရောက်မှုထုထည် ၏ နှစ်ဆရှိသည်။
+
+6502
+Postal density impacts delivery costs more than volume.
+စာတိုက် သိပ်သည်းဆသည် ထုထည်ထက် ပို ၍ ပို့ဆောင်ခကုန်ကျစရိတ်အပေါ် သက်ရောက်သည်။
+
+6503
+It's ideal to be focused on profit and not customers.
+ဖောက်သည် တွေ မဟုတ်ဘဲ အမြတ်ပေါ်တွင် အာရုံစိုက်တဲ့ အခါမှာ စံပြ ဖြစ်နေ ရမယ်။
+
+6504
+Partners can be customer-focused in their business.
+မိတ်ဖက်များသည် သူတို့ရဲ့ အလုပ်မှာ ဖောက်သည်တွေ အပေါ် အာရုံစိုက် နိုင်ရမယ်။
+
+6505
+Partners need to be focused on customers to be successful.
+မိတ်ဖက်များသည် ဖောက်သည်များ အောင်မြင်စေရန် အာရုံစိုက်ဖို့ လိုအပ်သည်။
+
+6506
+12HEI is on a license plate.
+ဆယ့်နှစ် အိပ်ရှ်အီးအိုင် သည် လိုင်စင်နံပါတ်ပြား တစ်ခု ပေါ်မှာ ရှိတယ်။
+
+6507
+12HEI is related directly to air pollution.
+ဆယ့်နှစ် အိပ်ရှ်အီးအိုင် သည် လေထုညစ်ညမ်းမှုနှင့် တိုက်ရိုက် သက်ဆိုင်သည်။
+
+6508
+12HEI was a sponsor for the project.
+ဆယ့်နှစ် အိပ်ရှ်အီးအိုင် သည် စီမံကိန်း အတွက် ပံ့ပိုးကူညီသူ တစ်ခု ဖြစ်ခဲ့သည်။
+
+6509
+I don't take questions.
+မေးခွန်းတွေကို ငါမယူဘူး။
+
+6510
+I like to talk about my work so I would love to answer questions.
+ငါ့ အလုပ်အကြောင်း ပြောရတာ ကြိုက်လို့ မေးခွန်းတွေ ဖြေရတာ ငါ သဘောကျပါတယ်။
+
+6511
+I'd love to answer questions.
+ငါ မေးခွန်းတွေကို ဖြေရတာ ကြိုက်တယ်။
+
+6512
+We shouldn't even discuss the limits of the data.
+ငါတို့ ဒေတာ ကန့်သတ်ချက်တွေ ကိုတောင်မှ မဆွေးနွေးသင့်ဘူး။
+
+6513
+it's important to show the limits of the data or people will make bad inferences that will ruin the study.
+ဒါက ဒေတာ ကန့်သတ်ချက်တွေ ကို ပြဖို့ အရေးကြီးတယ် ဒါမှမဟုတ် လူတွေက လေ့လာမှုကို ပျက်စီးစေလောက်တဲ့ မကောင်းတဲ့ ကောက်ချက်ချမှု တွေ ကို ပြုလုပ်လာကြမယ်။
+
+6514
+it's important to show the limits of the data.
+ဒါက ဒေတာ ကန့်သတ်ချက်တွေ ကို ပြဖို့ အရေးကြီးတယ်။
+
+6515
+Keeping physical receipts is one way to increase data reliability.
+ရုပ်ပိုင်းဆိုင်ရာပြေစာများကို သိမ်းထားခြင်းသည် ဒေတာယုံကြည်စိတ်ချရမှုကို တိုးမြင့်စေဖို့ နည်းလမ်းတစ်ခုဖြစ်သည်။
+
+6516
+The audited entity can take corrective action to increase data reliability.
+စာရင်းစစ်အဖွဲ့အစည်းသည် ဒေတာယုံကြည်စိတ်ချရမှုကို တိုးမြှင့်စေရန် မှန်ကန်သောလုပ်ဆောင်ချက်ကို လုပ်နိုင်သည်။
+
+6517
+Unreliable data should only be reported to law enforcement officials.
+မယုံကြည်ရတဲ့ ဒေတာ တွေကို ဥပဒေအရာရှိများထံသို့သာ သတင်းပို့သင့်သည်။
+
+6518
+The Bar Foundation hired the consultant using only their own funds.
+ဘား ဖောင်ဒေးရှင်းသည် သူတို့၏ကိုယ်ပိုင်ရန်ပုံငွေများကိုသာ အသုံးပြု၍ အတိုင်ပင်ခံကို ငှားရမ်းခဲ့သည်။
+
+6519
+The Bar Foundation was assisted by funds from the LSC.
+ဘား ဖောင်ဒေးရှင်းကို အယ်လ်အက်စ်စီ မှ ရန်ပုံငွေများဖြင့် ကူညီပေးသည်။
+
+6520
+The LSC will review this plan within an allotted ninety day time period.
+အယ်လ်အက်စ်စီ သည် သတ်မှတ်ထားသော ရက် ကိုးဆယ် အချိန်ကာလအတွင်းမှာ ဒီ အစီအစဉ် ကို သုံးသပ်ပါမည်။
+
+6521
+We are requesting the $3billion we need.
+ငါတို့ လိုအပ်နေတဲ့ ဒေါ်လာ သုံး ဘီလီယံ ကို ငါတို့ တောင်းဆိုနေပါတယ်။
+
+6522
+We are requesting the money we need for this year.
+ဒီနှစ်အတွက် ငါတို့ လိုအပ်တဲ့ ငွေကို ငါတို့ တောင်းဆိုနေပါတယ်။
+
+6523
+We didn't ask for any money this year.
+ဒီနှစ် ဘယ် ငွေမှ ငါတို့ မတောင်းခံဘူး။
+
+6524
+Electroshock therapy is the only intervention permitted for any patient.
+လျှပ်စစ်ရှော့ခ် ကုထုံးသည် လူနာတိုင်းအတွက် ခွင့်ပြုထားသည့် ကြားဖြတ်ကုသမှုနည်းလမ်းသာလျှင် ဖြစ်သည်။
+
+6525
+Group and individual therapy are two types of intervention commonly assigned to patients.
+အုပ်စုလိုက်နှင့် တစ်ဦးချင်း ကုထုံးသည် အများအားဖြင့် လူနာများအတွက် ပေးလေ့ရှိသော ကြားဖြတ်ကုသမှုနည်းလမ်း နှစ်မျိုးဖြစ်သည်။
+
+6526
+There are several types of interventions that might suit each ED.
+အီးဒီ တစ်ခုချင်းစီနှင့် ကိုက်ညီမည့် ကြားဖြတ်ကုသမှုနည်းလမ်း အမျိုးအစားများစွာ ရှိပါသည်။
+
+6527
+Mercury can't be above 10 ppm.
+မာကျူရီ သည် တစ်ဆယ် ပီပီအမ် အထက် မရှိနိုင်ပါ။
+
+6528
+Mercury has allowances that are set.
+မာကျူရီ မှာ သတ်မှတ်ထားသော ခွင့်ပြုထောက်ပံ့ကြေး ရှိတယ်။
+
+6529
+There are no rules about mercury.
+မာကျူရီ နဲ့ ပတ်သတ်တဲ့ စည်းကမ်း တွေ မရှိဘူး။
+
+6530
+The device helps companies make 10 subsidiaries each.
+စက်ပစ္စည်း သည် ကုမ္ပဏီများကို လုပ်ငန်းခွဲ ဆယ်ခု စီ ပြုလုပ်ပေးရန် ကူညီသည်။
+
+6531
+The device helps companies make subsidiaries.
+စက်ပစ္စည်း သည် ကုမ္ပဏီများကို လုပ်ငန်းခွဲ များ ပြုလုပ်ပေးရန် ကူညီသည်။
+
+6532
+The device is just for non-profits.
+စက်ပစ္စည်း သည် အကျိုးအမြတ်အတွက် မဟုတ်သူများ အတွက်သာ ဖြစ်သည်။
+
+6533
+Chavez's case agrees with the Colorado Legal Services.
+ချားဗက်စ် ၏ အမှုတွဲ သည် ကိုလိုရာဒို ဥပဒေရေးရာဝန်ဆောင်မှုများနှင့် သဘောတူသည်။
+
+6534
+Chavez's case says he was poisoned in the corn fields.
+သူက ပြောင်းခင်းထဲကို အဆိပ် ခတ်ခဲ့တယ် လို့ ချားဗက်စ် ၏ အမှုတွဲ က ပြောသည်။
+
+6535
+Chavez's case was about tea parties.
+ချားဗက်စ် ၏ အမှုတွဲ သည် လက်ဖက်ရည် သောက်ပွဲများ အကြောင်း ဖြစ်သည်။
+
+6536
+Social insurance doesn't include programs that are just for federal workers because of a law that was passed.
+လူမှု အာမခံ တွင် ပြဌာန်းထားသော ဥပဒေ များ ကြောင့် ဖက်ဒရယ် အလုပ်သမားများအတွက်သာ ဖြစ်သော အစီအစဉ် များ မပါဝင်ပါ။
+
+6537
+Social insurance doesn't include programs that are just for federal workers.
+လူမှု အာမခံ တွင် ဖက်ဒရယ် အလုပ်သမားများအတွက်သာ ဖြစ်သော အစီအစဉ် များ မပါဝင်ပါ။
+
+6538
+Social insurance only includes programs that are just for federal workers.
+လူမှု အာမခံ တွင် ဖက်ဒရယ် အလုပ်သမားများအတွက်သာ ဖြစ်သော အစီအစဉ် များ ပါဝင်ပါသည်။
+
+6539
+The list just says who bought the item.
+စာရင်းက ပစ္စည်းကို ဘယ်သူက ဝယ်ခဲ့တယ်ဆိုတာပဲ ပြောတယ်။
+
+6540
+The list tells that the voucher was approved by one of three people.
+စာရင်းမှာ လူသုံးဦးထဲက တစ်ဦးက ပြေစာ ကို အတည်ပြုခဲ့တယ် လို့ ပြောတယ်။
+
+6541
+The list tells who approved the voucher.
+စာရင်းက ပြေစာကို ဘယ်သူ အတည်ပြုပေးခဲ့သလဲ ဆိုတာ ပြောတယ်။
+
+6542
+The lending fund doesn't get all the interest in some cases, so they have to make it up in other ways.
+တချို့ ကိစ္စတွေ မှာ ရန်ပုံငွေ ချေးငွေ က အတိုးအားလုံး မရတာကြောင့် သူတို့ တခြားနည်းလမ်းတွေ နဲ့ အတိုးရအောင် လုပ်ရမယ်။
+
+6543
+The lending fund doesn't get all the interest in some cases.
+တချို့ ကိစ္စတွေ မှာ ရန်ပုံငွေ ချေးငွေ က အတိုးအားလုံး မရဘူး။
+
+6544
+The lending fund is always guaranteed 9% interest.
+ရန်ပုံငွေ ချေးငွေ က အတိုးနှုန်း ကိုး ရာခိုင်နှုန်း အမြဲ အာမခံ တယ်။
+
+6545
+Appendix A shows the names of the researchers.
+နောက်ဆက်တွဲ အေ က သုတေသီများ၏ အမည်များကို ပြသည်။
+
+6546
+The Appendix A shows the time that it needs to be completed by.
+နောက်ဆက်တွဲ အေ က ပြီးစီးဖို့ လိုအပ်သည့် အချိန်ကို ပြသည်။
+
+6547
+The Appendix A shows the time.
+နောက်ဆက်တွဲ အေ က အချိန် ကို ပြသည်။
+
+6548
+Figure 3 shows how the models calculate the incomes.
+မော်လ်ဒယ် တွေ က ဝင်ငွေ ကို ဘယ်လို တွက်ချက်လဲ ဆိုတာ ကို ပုံ သုံး က ပြသည်။
+
+6549
+Figure 3 shows the rate of growth of the city.
+ပုံ သုံး က မြို့ ရဲ့ ဖွံ့ဖြိုးတိုးတက်မှု နှုန်း ကို ပြသည်။
+
+6550
+Figure 3 shows what the models do.
+ပုံ သုံး က မော်လ်ဒယ် တွေ ဘာလုပ်လဲ ဆိုတာ ပြသည်။
+
+6551
+A supporting CIO and corporate CIO might share control of a company in some organizations.
+စီအိုင်အို ထောက်ခံ ခြင်း တစ်ခု နဲ့ စီအိုင်အို အသင်းအဖွဲ့ က တချို့ အဖွဲ့အစည်းတွေမှာ ကုမ္မဏီ တစ်ခုရဲ့ ထိန်းချုပ်ခြင်း ကို ဝေမျှ နိုင်တယ်။
+
+6552
+Corporate CIOs are generally paid less than CEOs.
+အသင်းအဖွဲ့ စီအီးအို များသည် စီအီးအို များထက် ယေဘူယျ အားဖြင့် လစာ နည်းသည်။
+
+6553
+In hybrid organizations the CEO maintains direct central control of the organization.
+စီအီးအို က ပေါင်းစပ် အဖွဲ့အစည်းများမှာ အဖွဲ့အစည်းရဲ့ အဓိက ထိန်းချုပ်ခြင်း ကို တိုက်ရိုက် ထိန်းသိမ်းသည်။
+
+6554
+The commission can make any recommendation that it wants to.
+ကော်မရှင် က လိုချင်တဲ့ ဘယ်လို အကြံပြုချက်ကို မဆို လုပ်လို့ ရတယ်။
+
+6555
+The commission must follow specific rules when making a recommendation.
+ထောက်ခံချက် တစ်ခု လုပ်တဲ့ အခါမှာ ကော်မရှင် က သီးခြားစည်းကမ်း တွေ ကို လိုက်နာရမယ်။
+
+6556
+These rules are outlined in three separate books.
+ဒီစည်းကမ်းတွေကို သီးခြား စာအုပ်သုံးအုပ်တွင် ဖော်ပြထားသည်။
+
+6557
+C-R functions can be estimated a couple different ways and then published for the reader to decide.
+စီအာ လုပ်ဆောင်ချက်များကို မတူညီသော နည်းလမ်း နှစ်ခု နဲ့ ခန့်မှန်းလို့ရနိုင်ပြီးနောက် စာဖတ်သူ ဆုံးဖြတ်စေရန်အတွက် ထုတ်ဝေသည်။
+
+6558
+C-R functions can be estimated a couple different ways.
+စီအာ လုပ်ဆောင်ချက်များကို မတူညီသော နည်းလမ်း နှစ်ခု နဲ့ ခန့်မှန်းလို့ ရနိုင်သည်။
+
+6559
+C-R functions can never be estimated.
+စီအာ လုပ်ဆောင်ချက်များကို ဘယ်တော့မှ ခန့်မှန်းလို့ မရနိုင်ပါ။
+
+6560
+Interventions should never be done in the hospital.
+ဆေးရုံမှာ ကြားဝင် ဆောင်ရွက်ပေးတာမျိုး ဘယ်တော့မှ မလုပ်သင့်ဘူး။
+
+6561
+There is some reason to do an alcohol intervention in the emergency room while the patient is still drunk.
+လူနာ မူးနေစဉ် အရေးပေါ်ခန်းမှာ အရက်ဖြတ် ကုသခြင်း တစ်ခု ပြုလုပ်ဖို့ အကြောင်းပြချက် တချို့ ရှိတယ်။
+
+6562
+There is some reason to do an alcohol intervention in the emergency room.
+အရေးပေါ်ခန်းမှာ အရက်ဖြတ် ကုသခြင်း တစ်ခု ပြုလုပ်ဖို့ အကြောင်းပြချက် တချို့ ရှိတယ်။
+
+6563
+Cream skimming is something that the Postal Service is vulnerable to.
+အဓိက အချက်တွေကို မြန်မြန် ဖတ်ခြင်း သည် စာတိုက် ဝန်ဆောင်မှု ကို ထိခိုက်စေသော တခုခု ဖြစ်သည်။
+
+6564
+Shipping junk mail is an important part of Postal Service income.
+#REVIEW အမှိုက် မေးလ် ပို့ဆောင်ခြင်းသည် စာတိုက် ဝန်ဆောင်မှု ဝင်ငွေ၏ အရေးကြီးသော အပိုင်း တစ်ခု ဖြစ်သည်။
+
+6565
+The Postal Service does not need to be concerned with cream skimming.
+စာတိုက် ဝန်ဆောင်မှု သည် အဓိက အချက်တွေကို မြန်မြန် ဖတ်ခြင်း ကို စိုးရိမ်ရန် မလိုအပ်ပါ။
+
+6566
+GPRA reports are used to assess budget allocations and department performance.
+ဂျီပီအာအေ အစီရင်ခံစာ များ ကို ရသုံးမှန်းခြေ ခွဲဝေမှု နှင့် ဌာန စွမ်းဆောင်ရည် များကို အကဲဖြတ်ရန် သုံးသည်။
+
+6567
+Our observations indicate that there is no way to increase usefulness of GPRA reports.
+ငါတို့ လေ့လာတွေ့ရှိချက် တွေ က ဂျီပီအာအေ အစီရင်ခံစာ များ၏ အသုံးဝင်မှု ကို တိုးမြှင့်ရန် နည်းလမ်းမရှိတာကို ညွှန်ပြတယ်။
+
+6568
+The usefulness of GPRA reports might be increased.
+ဂျီပီအာအေ အစီရင်ခံစာ များ၏ အသုံးဝင်မှု က တိုးမြှင့်လာနိုင်တယ်။
+
+6569
+In many countries postal employees make less than five dollars a day.
+နိုင်ငံ တော်တော်များများ မှာ စာတိုက် ဝန်ထမ်း တွေ က တစ်ရက် ကို ငါးဒေါ်လာ အောက်သာ ဝင်ငွေ ရှိတယ်။
+
+6570
+Postal employees in the US make much less money that postal workers in other countries.
+ယူအက်စ် မှာ ရှိတဲ့ စာတိုက် ဝန်ထမ်းတွေ က တခြား နိုင်ငံ များမှာ ရှိတဲ့ စာတိုက်ဝန်ထမ်း တွေ ထက် ပိုက်ဆံ အများကြီး နည်းတယ်။
+
+6571
+The US pays postal employees better than most countries.
+ယူအက်စ် က စာတိုက်ဝန်ထမ်းတွေ ကို နိုင်ငံအများစုထက် လစာ ပိုပြီး ပေးသည်။
+
+6572
+Benefits are always only counted once.
+အကျိုးကျေးဇူး များ ကို အမြဲ တစ်ကြိမ်သာလျှင် ရေတွက်ပါသည်။
+
+6573
+Hospital admissions double count some benefits if the patient is uninsured.
+ဆေးရုံတက်ခွင့် က လူနာသည် အာမခံ ထားသူ မဟုတ်လျှင် အကျိုးကျေးဇူး တချို့ ကို နှစ်ဆ တွက်တယ်။
+
+6574
+Hospital admissions double count some benefits.
+ဆေးရုံတက်ခွင့် က အကျိုးကျေးဇူး တချို့ ကို နှစ်ဆ တွက်တယ်။
+
+6575
+Most emergency departments provide several dozen referrals every day.
+အရေးပေါ်ဌာနအများစုသည် နေ့စဉ် လွှဲပြောင်းပေးမှု ဒါဇင်ပေါင်းများစွာကို ပေးသည်။
+
+6576
+Referrals from the emergency department can work.
+အရေးပေါ်ဌာန မှ လွှဲပြောင်းမှုများသည် အလုပ်လုပ်နိုင်သည်။
+
+6577
+There is nothing an emergency department can do in these cases.
+ဒီကိစ္စတွေ မှာ အရေးပေါ်ဌာန တစ်ခုက လုပ်ပေးနိုင်တာ ဘာမှ မရှိဘူး။
+
+6578
+Financial services and communication systems are yet to join the information technology field.
+ငွေကြေး ဝန်ဆောင်မှုနှင့် ဆက်သွယ်ရေးစနစ်များသည် သတင်းအချက်အလက် နည်းပညာ နယ်ပယ် တွင် ပူးပေါင်းခြင်း မရှိသေးပါ။
+
+6579
+It is easy for hackers to target transportation and energy systems.
+သယ်ယူပို့ဆောင်ရေးနှင့် စွမ်းအင်စနစ်များကို ပစ်မှတ်ထားရန် ဟက်ကာ များ အတွက် ဒါက လွယ်ကူသည်။
+
+6580
+Transportation and energy are monitored and controlled using information technology.
+သယ်ယူပို့ဆောင်ရေးနှင့် စွမ်းအင်များကို သတင်းအချက်အလက် နည်းပညာ အသုံးပြ၍ စောင့်ကြည့်ထိန်းချုပ်ထားသည်။
+
+6581
+Retrofits have no real impact on down time.
+ပြန်လည်တပ်ဆင်မှုများသည် အချိန်ကုန်သွားခြင်းအပေါ် အမှန်တကယ်အကျိုးသက်ရောက်မှုမရှိပါ။
+
+6582
+Significant down time impacts might be experienced in more difficult retrofits.
+အချိန်တိုအတွင်း သိသာသော သက်ရောက်မှု များ သည် ပို၍ ခက်ခဲသော ပြန်လည်တပ်ဆင်မှုများမှာ အတွေ့အကြုံ ရှိသည်။
+
+6583
+The average retrofit costs more than one million dollars to complete.
+ပျမ်းမျှ ပြန်လည်တပ်ဆင်မှု သည် ပြီးမြောက်ရန် ဒေါ်လာ တစ်သန်းကျော် ကုန်ကျသည်။
+
+6584
+Better security can improve workplace efficiency by 10 percent or more.
+ပို၍ ကောင်းတဲ့ လုံခြုံရေး က လုပ်ငန်းခွင် ထိရောက်မှု ကို တစ်ဆယ်ရာခိုင်နှုန်း ဒါမှမဟုတ် ဒီထက် ပို၍ တိုးတက်စေနိုင်တယ်။
+
+6585
+This process is generally considered to be harmful to security.
+ဒီ လုပ်ငန်းစဉ် က လုံခြုံရေးကို အန္တရာယ်ဖြစ်စေမယ် လို့ ယေဘူယျအားဖြင့် စဉ်းစားတယ်။
+
+6586
+This process is known to increase security in several ways.
+ဒီ လုပ်ငန်းစဉ်သည် နည်းလမ်းများစွာဖြင့် လုံခြုံရေးကို တိုးမြင့်စေသည် ဟု သိကြသည်။
+
+6587
+Everything is finally done and we have nothing more to do.
+အရာရာတိုင်း ကို နောက်ဆုံးမှာ လုပ်ကြပြီးတော့ ငါတို့မှာ ထပ်လုပ်စရာ မရှိတော့ဘူး။
+
+6588
+There are exactly five more tasks that must still be accomplished.
+ပြီးမြောက်အောင် လုပ်ရမဲ့ အလုပ်ငါးခု အတိအကျ ရှိသေးတယ်။
+
+6589
+We still have things to do even tho we have come so far.
+#REVIEW
 
 6590
 HIC is not the department responsible for tracking claims.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိပ်ရှ်အိုင်စီ သည် ခြေရာခံပြောဆိုမှုများအတွက် တာဝန်ရှိသော ဌာန မဟုတ်ပါ။
 
 6591
 Only five hundred dollars worth of reimbursements are permitted per year.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်နှစ်လျှင် ပြန်အမ်းငွေ တန်ဖိုး ဒေါ်လာငါးရာ ကိုသာ ခွင့်ပြုသည်။
 
 6592
 Reimbursements are tracked every year by HIC.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြန်အမ်းငွေများကို အိပ်ရှ်အိုင်စီ က နှစ်စဉ်ခြေရာခံပါသည်။
 
 6593
 Individualized intervention briefing materials may be beneficial to patients.
-<MYANMAR UNICODE TRANSLATION HERE>
+#REVIEW တစ်ဦးချင်း ကြားဖြတ်ကုသမှု အကျဉ်းချုပ် ပစ္စည်းများသည် လူနာများကို အကျိုးပြုကောင်းပြုနိုင်ပါသည်။
 
 6594
 The computer and printing systems required to produce these briefs cost five hundred dollars.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီအကျဉ်းချုပ်များကို ထုတ်လုပ်ရန် လိုအပ်သော ကွန်ပျူတာနှင့် ပုံနှိပ်စက်စနစ်များသည် ဒေါ်လာငါးရာ ကုန်ကျသည်။
 
 6595
 There is no treatment for people with drinking problems.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရက်သောက်တဲ့ ပြဿနာရှိသော လူများအတွက် ကုသမှု မရှိပါ။
 
 6596
 It takes both units forty six weeks to complete an order.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယူနစ်နှစ်ခုလုံးသည် အမှာစာတစ်ခု ပြီးမြောက်ရန် လေးဆယ့်ခြောက်ပတ်ကြာသည်။
 
 6597
 It takes both units no more that a week to complete each order.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယူနစ်နှစ်ခုလုံးက မှာယူမှုတစ်ခုစီကို ပြီးမြောက်ရန် တစ်ပတ် လောက် ပိုပြီးတော့ မကြာမြင့်ဘူး။
 
 6598
 There are other units that could complete these orders more quickly for a higher price.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပိုမိုမြင့်မားသော စျေးနှုန်းတစ်ခု ဖြင့် ဒီအမှာစာများကို ပိုမိုလျင်မြန်စွာ အပြီးသတ်နိုင်သော အခြားယူနစ်များရှိပါသည်။
 
 6599
 An ED alcohol research center is recommended by some.
-<MYANMAR UNICODE TRANSLATION HERE>
+အီးဒီ အရက်သုတေသနစင်တာတစ်ခုကို အချို့က အကြံပြုထားသည်။
 
 6600
 Dr. Gentilello believes that too much money is already devoted to research.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒေါက်တာ ဂျင့်ထိုင်လို သည် ငွေကြေးများစွာကို သုတေသနအတွက် မြှုပ်နှံထားပြီးပြီဟု ယုံကြည်သည်။
 
