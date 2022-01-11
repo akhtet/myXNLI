@@ -1,400 +1,399 @@
 9601
 The average word is more than one hundred years old.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပျမ်းမျှ စကားလုံး သည် နှစ်ပေါင်း တစ်ရာ ကျော် သက်တမ်းရှိသည် ။
 
 9602
 Before going forth, the reader may wish to attempt this challenge.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထွက်မသွားခင် ၊ စာဖတ်သူ က ဤ စိန်ခေါ်မှု ကို ကြိုးပမ်းချင်နေပါလိမ့်မယ် ။
 
 9603
 The reader may want to try this challenge before proceeding.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာဖတ်သူ သည် ရှေ့မဆက်ခင် ဤ စိန်ခေါ်မှု ကို ကြိုးစားချင်နေပါလိမ့်မယ် ။
 
 9604
 The reader should proceed without attempting the pointless feat.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာဖတ်သူ သည် အကျိုးမရှိသော စွမ်းဆောင်ချက် ကို မကြိုးပမ်းဘဲ ရှေ့ဆက်သင့်သည် ။
 
 9605
 Grantsmanship used to be more popular in the nineteenth century.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထောက်ပံ့ကြေး သုံးခြင်း သည် ဆယ့်ကိုး ရာစု တွင် ပိုပြီး နာမည်ကြီးလာခဲ့သည် ။
 
 9606
 Nobody ever begs for money while wearing nice clothes.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကောင်းသော အဝတ်အစားများ ဝတ်ဆင် ပြီး ဘယ်သူကမှ ပိုက်ဆံ မတောင်းပါဘူး ။
 
 9607
 Well dressed beggars are sometimes called grantsmen.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကောင်းမွန်စွာ ဝတ်ဆင်ထားသော သူတောင်းစားများ ကို တစ်ခါတစ်ရံ ထောက်ပံ့ကြေးဆိုင်ရာကျွမ်းကျင်သူ ဟု ခေါ်သည် ။
 
 9608
 The spelling of a word is just tied to the person who invented it.
-<MYANMAR UNICODE TRANSLATION HERE>
+စကားလုံး တစ်လုံး ၏ စာလုံးပေါင်း သည် ၎င်း ကို တီထွင်သူ နှင့်သာ ဆက်စပ်နေသည် ။
 
 9609
 The spelling of a word is tied to how it was used in ancient times.
-<MYANMAR UNICODE TRANSLATION HERE>
+စကားလုံး တစ်လုံး ၏ စာလုံးပေါင်း သည် ရှေးခေတ် က ၎င်း ကို အသုံးပြုပုံ နှင့် ဆက်စပ်နေသည် ။
 
 9610
 The spelling of a word is tied to its history.
-<MYANMAR UNICODE TRANSLATION HERE>
+စကားလုံး တစ်လုံး ၏ စာလုံးပေါင်း သည် ၎င်း၏ သမိုင်း နှင့် ဆက်စပ်နေသည် ။
 
 9611
 Richard Lederer asked for entries in a supersentence contest that consisted of sentences with eleven words.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရစ်ချတ် လက်ဒါရာ သည် စကားလုံးများ ဆယ့်တစ်လုံး ဖြင့် ဝါကျများ ပါသော စကားလုံးအသုံးအနှုန်း ပြိုင်ပွဲ တစ်ခု တွင် ဝင်ခွင့် တောင်းခဲ့သည် ။
 
 9612
 Richard Lederer hates reading graceful or coherent writing.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရစ်ချတ် လက်ဒါရာ သည် သိမ့်မွှေ့သော စာဖတ်ခြင်း သို့မဟုတ် ညီညွတ်သော စာရေးခြင်း ကို မုန်းတီးသည် ။
 
 9613
 The rules of a supersentence contest always require submission of sentences with exactly eleven words.
-<MYANMAR UNICODE TRANSLATION HERE>
+စကားလုံးအသုံးအနှုန်း ပြိုင်ပွဲ တစ်ခု ၏ စည်းမျဉ်းများ သည် စကားလုံး ဆယ့်တစ်လုံး တိတိ ပါသော စာကြောင်းများ ကို အမြဲတမ်း တင်ပြရန် လိုအပ်သည် ။
 
 9614
 The definitions are actually quite dry and non descriptive.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဓိပ္ပါယ်ဖွင့်ဆိုချက်များ သည် အမှန်တကယ် တွင် အလွန် ခြောက်သွေ့ ပြီး ဖော်ပြချက် မရှိပါ ။
 
 9615
 The definitions are also very whimsical seeming.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဓိပ္ပါယ်ဖွင့်ဆိုချက်များ မှာလည်း အလွန် ထူးဆန်းသော ပုံသဏ္ဍာန် ဖြစ်သည် ။
 
 9616
 There are seventeen different definitions given.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပေးထားသော မတူညီသည့် အဓိပ္ပါယ်ဖွင့်ဆိုချက်များ ဆယ့်ခုနစ်ခု ရှိသည် ။
 
 9617
 A missing hyphen might cause problems with computer instructions.
-<MYANMAR UNICODE TRANSLATION HERE>
+လွဲမှားနေသော စကားလုံးနှစ်လုံးပေါင်းစည်းရန်သင်္ကေတတုံးတို တစ်ခု သည် ကွန်ပျူတာ ညွှန်ကြားချက်များ နှင့် ပြဿနာများ ကို ဖြစ်စေနိုင်သည် ။
 
 9618
 Many computer problems are caused by missing punctuation.
-<MYANMAR UNICODE TRANSLATION HERE>
+သတ်ပုံများ လွဲမှားခြင်း ကြောင့် ကွန်ပျူတာ ပြဿနာ များစွာ ဖြစ်ပွားသည် ။
 
 9619
 Mathematical instructions written for computers never contain errors.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်ပျူတာများ အတွက် ရေးထားသော သင်္ချာ လမ်းညွှန်များ တွင် အမှားအယွင်းများ မပါရှိပါ ။
 
 9620
 We only use the historic spellings.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့ သည် သမိုင်းဝင် စာလုံးပေါင်းများ ကိုသာ အသုံးပြုပါသည် ။
 
 9621
 We use modern spellings of words for titles by Shakespeare.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှိတ်စပီးယား ၏ ခေါင်းစဉ်များ အတွက် ခေတ်မီသော စကားလုံး ၏ စာလုံးပေါင်းများ ကို ကျွန်တော်တို့ အသုံးပြုပါသည် ။
 
 9622
 We use the modern spellings so we don't confuse each other.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ သည် ခေတ်မီ စာလုံးပေါင်းများ ကို အသုံးပြု သောကြောင့် အချင်းချင်း မရှုပ်ထွေးစေပါ ။
 
 9623
 A search was needed, but the two reference librarians didn't know how to start this process.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှာဖွေမှု တစ်ခု လိုအပ် သော်လည်း ၊ ရည်ညွှန်း စာကြည့်တိုက်မှူး နှစ်ဦး သည် ဤ လုပ်ငန်းစဉ် ကို မည်သို့ စတင်ရမည် ကို မသိခဲ့ပါ ။
 
 9624
 The lack of search capabilities was an embarrassment for the reference librarians.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှာဖွေနိုင်သော စွမ်းရည် မရှိခြင်း သည် ရည်ညွှန်း စာကြည့်တိုက်မှူးများ အတွက် အရှက်ရခြင်း တစခု ဖြစ်စေပါသည် ။
 
 9625
 The two reference librarians are experts in research and performed the needed search instantly.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရည်ညွှန်း စာကြည့်တိုက်မှူး နှစ်ဦး သည် သုတေသန တွင် ကျွမ်းကျင်သူများ ဖြစ်ကြ ပြီး လိုအပ်သော ရှာဖွေမှုများ ကို ချက်ချင်း လုပ်ဆောင်ခဲ့သည် ။
 
 9626
 Lucretius lived two thousand years ago and made plausible arguments.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူခရီးရှပ်စ် သည် လွန်ခဲ့သော နှစ်ပေါင်း နှစ်ထောင် ကျော် က နေထိုင်ခဲ့ ပြီး ခိုင်လုံသော ငြင်းခုံမှုများ ပြုလုပ်ခဲ့သည် ။
 
 9627
 Tautologists have honored the teachings of Lecretius for hundreds of years.
-<MYANMAR UNICODE TRANSLATION HERE>
+စကားပရိယာယ်ပညာရှင်များ သည် လူခရီးရှပ်စ် ၏ သင်ကြားချက်များ ကို နှစ်ပေါင်း တစ်ရာကျော် ဂုဏ်ပြုခဲ့ကြသည် ။
 
 9628
 The arguments made by Lecretius have been proven incorrect by tautologists.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူခရီးရှပ်စ် မှ ပြုလုပ်သော အငြင်းပွားမှုများ သည် စကားပရိယာယ်ပညာရှင်များ မှ မမှန်ကြောင်း သက်သေပြခဲ့သည် ။
 
 9629
 Feels like old fashioned preference, does it not.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခေတ်ဟောင်း ကို နှစ်ခြိုက် သလို ခံစားရတယ် ၊ အဲ့ဒီလို မဟုတ်ဘူးလား ။
 
 9630
 Seems somewhat like the ideas of reformation and change making, does it not?
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြုပြင်ပြောင်းလဲရေး နှင့် ပြောင်းလဲမှု ပြုလုပ်ခြင်းရေးဆိုင်ရာ အယူအဆများ နှင့် ခပ်ဆင်ဆင် တူပုံရသည် ၊ အဲ့ဒီလို မဟုတ်ဘူးလား ။
 
 9631
 Sounds like the ideas of a predecessor, does it not?
-<MYANMAR UNICODE TRANSLATION HERE>
+အရင်​​ခေတ်​ တစ်ခု က အယူအဆများ နှင့် တူပုံရသည် ၊ အဲ့ဒီလို မဟုတ်ဘူးလား ။
 
 9632
 Being resolute, relentless, and resourceful are skills that can be taught.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတ်သားသော ၊ မဆုတ်မနစ်ရှိခြင်း ၊ နှင့် ကြံရည်ဖန်ရည်ရှိခြင်း တို့သည် သင်ကြားနိုင်သော အရည်အချင်းများ ဖြစ်သည် ။
 
 9633
 Being resolute, relentless, and resourceful are skills that cannot be taught, but are simply instinctual.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတ်သားသော ၊ မဆုတ်မနစ်ရှိခြင်း ၊ နှင့် ကြံရည်ဖန်ရည်ရှိခြင်း တို့သည် သင်ကြား မရနိုင်သော အရည်အချင်းများ ဖြစ် သော်လည်း ၊ ရိုးရှင်းသော ဉာဏ်ရည်ဉာဏ်သွေး ဖြစ်သည် ။
 
 9634
 Learning to be resolute, relentless, and resourceful is challenging and difficult, but they teach it skillfully.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတ်သားရန် ၊ မဆုတ်မနစ်ရှိရန် ၊ နှင့် ကြံရည်ဖန်ရည်ရှိရန် သင်ယူခြင်း သည် စိန်ခေါ်မှု နှင့် ခက်ခဲ ဖြစ် ၊ သော်လည်း သူတို့သည် ၎င်းကို ကျွမ်းကျင်စွာ သင်ကြားပေးပါသည် ။
 
 9635
 I had lived my whole life on the Continent.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် သည် ကျွန်တော် ဘဝ တစ်လျှောက်လုံး တိုက်ကြီး ပေါ်မှာ နေခဲ့သည် ။
 
 9636
 I had only been on the Continent for six months.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် တိုက်ကြီး ပေါ်မှာ ခြောက်လ လောက် နေခဲ့သည် ။
 
 9637
 I wanted to buy some things for my girlfriend.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် သည် ကျွန်တော့် ကောင်မလေး အတွက် ပစ္စည်း အချို့ ဝယ်ရန် လိုအပ်သည် ။
 
 9638
 No one knows how the Flavian Amphitheater got its name.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖလက်ဗီရန် ပွဲကြည့်စင် ရဲ့ နာမည် ကို ဘယ်လို ရခဲ့လဲ ဆိုတာ ဘယ်သူ မှ မသိပါဘူး ။
 
 9639
 The Flavian family left an impressive legacy that impacts history to this day.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖလက်ဗီရန် မိသားစု သည် ယနေ့တိုင် သမိုင်း ကို သက်ရောက်မှုရှိသော အထင်ကြီးစရာ အမွေအနှစ် တစ်ခု ကျန်ရစ်ခဲ့သည် ။
 
 9640
 Vespasian was an emperor, and the Flavian Amphitheater is named after him.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဗက်စ်ပါစ်စီရန် သည် ဧကရာဇ် တစ်ပါး ဖြစ်ခဲ့ ပြီး ၊ ဖလက်ဗီရန် ပွဲကြည့်စင် အား သူ့အမည် ဖြင့် အမည်ပေးထားသည် ။
 
 9641
 Alice agreed with all of it.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲလစ် သည် အားလုံး ကို သဘောတူသည် ။
 
 9642
 Alice said no.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲလစ် က မဟုတ်ဘူး လို့ ပြောသည် ။
 
 9643
 Alice said she wouldn't go.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲလစ် က သူမ မသွားဘူးလို့ ပြောခဲ့သည် ။
 
 9644
 Both Indians and white settlers used the oil from Oil Creek.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိန္ဒိယ လူမျိုးများ နှင့် လူဖြူ အခြေချနေထိုင်သူများ သည် ရေနံ ချောင်းငယ် မှ ရေနံ ကို အသုံးပြုခဲ့ကြသည် ။
 
 9645
 Nobody ever used the oil from Oil Creek.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရေနံ ချောင်းငယ် မှ ရေနံ ကို မည်သူမျှ မသုံးဖူးပါ ။
 
 9646
 The oil was an effective medicine for the white settlers.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆီ သည် လူဖြူ အခြေချနေထိုင်သူများ အတွက် ထိရောက်သော ဆေး တစ်မျိုး ဖြစ်သည် ။
 
 9647
 Some typographical errors are not the result of a hidden unconscious motive by the typesetter.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့သော စာစီစာရိုက် အမှားများ သည် စာရိုက်သူ ၏ လျှို့ဝှက် မသိစိတ် စေ့ဆော်မှု တစ်ခု ၏ ရလဒ် မဟုတ်ပါ ။
 
 9648
 Typesetters and typists never make typographical errors.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာရိုက်သူများ နှင့် လက်နှိပ်စာရေးများ သည် စာစီစာရိုက် အမှားများ ကို ဘယ်သောအခါမှ မပြုလုပ်ကြပါ ။
 
 9649
 Upon further investigation of typographical errors, the unconscious motives of typesetters can be uncovered.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာစီစာရိုက် အမှားများ ကို ထပ်မံ စုံစမ်း သောအခါ ၊ စာရိုက်သူများ ၏ မသိစိတ် စေ့ဆော်မှုများ ကို ဖော်ထုတ်နိုင်သည် ။
 
 9650
 Clear verbal communication is the only way to gain information
-<MYANMAR UNICODE TRANSLATION HERE>
+နှုတ် ဖြင့် ရှင်းလင်း ပြောဆိုခြင်း သည် သတင်းအချက်အလက် ရရှိရန် တစ်ခုတည်းသော နည်းလမ်း ဖြစ်သည်
 
 9651
 Even in a noisy environment, you can learn the most important information by looking at facial expressions, gestures, and contextual signs.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆူညံသော ပတ်ဝန်းကျင် တွင်ပင် ၊ မျက်နှာအမူအရာများ ၊ လက်ဟန်ခြေဟန်များ ၊ နှင့် ဆက်စပ် လက္ခဏာများ ကို ကြည့်ရှုခြင်း ဖြင့် အရေးကြီးဆုံး အချက်အလက်များ ကို သင် သည် လေ့လာနိုင်သည် ။
 
 9652
 You can understand what is being communicated by facial expressions and hand gestures even when you can't hear what is being said.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင် သည် ဘာကို ပြောနေသည် ကို မကြားနိုင် တောင်မှ မျက်နှာအမူအရာများ နှင့် လက်ဟန်ခြေဟန်များများ ဖြင့် ဘာကို ဆက်သွယ်ပြောဆိုသည် ကို သင် သည် နားလည်နိုင်သည် ။
 
 9653
 The birds and bees are mentioned in this Latin poem, but no people are described.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငှက်များ နှင့် ပျားများ သည် ဤ လက်တင် ကဗျာ တွင် ဖော်ပြထား ၊ သော်လည်း လူများ ကို ဖော်ပြထားခြင်း မရှိပါ ။
 
 9654
 The love story depicted in the Latin poem explains the reason for the distance between the man and the women in the middle of the first sentence.
-<MYANMAR UNICODE TRANSLATION HERE>
+လက်တင် ကဗျာ တွင် ဖော်ပြထားသော အချစ် ဇာတ်လမ်း သည် ပထမ ဝါကျ ၏ အလယ် တွင် ယောက်ျား နှင့် မိန်းမ ကြား အကွာအဝေး ဖြစ်ရသည့် အကြောင်းရင်း ကို ရှင်းပြထားသည် ။
 
 9655
 This romantic Latin poem references a man and a woman in the first line.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ ကြည်နူးဖွယ်ရာ လက်တင်ကဗျာ သည် ပထမ စာကြောင်း တွင် အမျိုးသား တစ်ဦး နှင့် အမျိုးသမီး တစ်ဦး ကို ရည်ညွှန်းသည် ။
 
 9656
 There are a lot of journals about the scientific studies.
-<MYANMAR UNICODE TRANSLATION HERE>
+သိပ္ပံ ပညာ နဲ့ ပတ်သက်တဲ့ ဂျာနယ်များ အများကြီး ရှိသည် ။
 
 9657
 There are a lot of journals.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျာနယ်များ အများကြီး ရှိသည် ။
 
 9658
 There are only 2 journals.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျာနယ် ၂ စောင် ပဲ ရှိသည် ။
 
 9659
 They change the phrases to confuse people.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ သည် လူများ ကို ရှုပ်ထွေးစေရန် စကားစုများ ကို ပြောင်းလဲသည် ။
 
 9660
 They say it just as they always have.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ သည် သူတို့ အမြဲတမ်း ပြောနေသလိုပဲ ။
 
 9661
 they change the words up.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ သည် စကားလုံးများ ပြောင်းကြတယ် ။
 
 9662
 Book-writing linguistics are almost ways scholars promoting their own scholarship.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာအုပ် ရေးသားခြင်း ဘာသာဗေဒ သည် သူတို့ ၏ ကိုယ်ပိုင် ပညာသင်ဆု ကို မြှင့်တင်သည့် ပညာရှင်များ ကို နည်းမျိုးစုံနဲ့ ပေးနေပါသည် ။
 
 9663
 Linguists make a lot of money writing books.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘာသာဗေဒပညာရှင်များ သည် စာအုပ်များ ရေးသားခြင်းတွင် ပိုက်ဆံ များစွာ ရရှိသည် ။
 
 9664
 Most linguists write books in order to evangelize others' opinions.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘာသာဗေဒပညာရှင် အများစု သည် အခြားသူများ ၏ ထင်မြင်ယူဆချက်များ ကို စည်းရုံးဟောပြောနိုင်ရန် စာအုပ်များ ရေးသားကြသည် ။
 
 9665
 The official technical manual states that pulse-tone is the correct term in this case.
-<MYANMAR UNICODE TRANSLATION HERE>
+တရားဝင် နည်းပညာ လက်စွဲစာအုပ် တွင် တုန်ခါသည့်-အသံ သည် ဤ ကိစ္စ တွင် မှန်ကန်သော အသုံးအနှုန်း ဖြစ်ကြောင်း ဖော်ပြထားသည် ။
 
 9666
 The technical verbiage for this is not pulse-tone.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ အတွက် နည်းပညာဆိုင်ရာ စကားအသုံးအနှုန်း မှာ တုန်ခါသည့်-အသံ မဟုတ်ပါ ။
 
 9667
 The use of the term pulse-tone is confusing because it it technically incorrect.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထိုအရာ သည် နည်းပညာ အရ မှားယွင်းနေ သောကြောင့် တုန်ခါသည့်-အသံ ဟူသော အသုံးအနှုန်း ကို အသုံးပြုခြင်း သည် ရှုပ်ထွေးသည် ။
 
 9668
 Broadway is all about the shepherds!
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘရော့ဒ်ဝေး သည် သိုးထိန်းများ အကြောင်း ဖြစ်သည် ။
 
 9669
 Broadway is too scared to make a show about shepherds.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘရော့ဒ်ဝေး သည် သိုးထိန်းများ အကြောင်း ပြသရန် အလွန် ကြောက်နေသည် ။
 
 9670
 There are few shepherds on Broadway.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘရော့ဒ်ဝေး တွင် သိုးထိန်း အနည်းငယ် ရှိသည် ။
 
 9671
 The Construction Batallion is an independent organization not associated with the armed forces.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆောက်လုပ်ရေး တပ်ရင်း သည် လက်နက်ကိုင် တပ်ဖွဲ့များ နှင့် မသက်ဆိုင်သော သီးခြား အဖွဲ့အစည်း တစ်ခု ဖြစ်သည် ။
 
 9672
 The Construction Batallion is one of the most important branches of the armed forces.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆောက်လုပ်ရေး တပ်ရင်း သည် လက်နက်ကိုင် တပ်ဖွဲ့များ ၏ အရေးကြီးဆုံးသော ပင်မခွဲများ ထဲမှ တစ်ခု ဖြစ်သည် ။
 
 9673
 The abbreviation of the Construction Batallion of the armed forces is C.B.
-<MYANMAR UNICODE TRANSLATION HERE>
+လက်နက်ကိုင် တပ်ဖွဲ့များ ၏ ဆောက်လုပ်ရေး တပ်ရင်း ၏ အတိုကောက် မှာ စီ၊ ဘီ ဖြစ်သည် ။
 
 9674
 Skeat is going to pay attention to the note.
-<MYANMAR UNICODE TRANSLATION HERE>
+စကိတ် က မှတ်စု ကို အာရုံစိုက်တော့မည် ဖြစ်သည် ။
 
 9675
 Skeat isn't going to pay any attention to the note.
-<MYANMAR UNICODE TRANSLATION HERE>
+စကိတ် သည် မှတ်စု ကို ဂရုမစိုက်ပါ ။
 
 9676
 Skeat will study the note every day.
-<MYANMAR UNICODE TRANSLATION HERE>
+စကိတ် က မှတ်စု ကို နေ့တိုင်း လေ့လာလိမ့်မည် ။
 
 9677
 There are no laws or regulations surrounding trademarks.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကုန်အမှတ်တံဆိပ် ပတ်၀န်းကျင် တွင် ဥပဒေ သို့မဟုတ် စည်းမျဉ်းများ မရှိပါ ။
 
 9678
 There are two volumes of laws concerning trademarks.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကုန်အမှတ်တံဆိပ် နှင့်ပတ်သက်သော ဥပဒေ နှစ်ခု ရှိသည် ။
 
 9679
 Trademark law is very complicated and requires frequent references to the two volumes of the Annotated U.S.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကုန်အမှတ်တံဆိပ် ဥပဒေ သည် အလွန် ရှုပ်ထွေး ပြီး ယူအက်စ် မှတ်ချက်ပြုခြင်း ၏ အတွဲနှစ်တွဲ ကို မကြာခဏ ကိုးကားရန် လိုအပ်ပါသည် ။
 
 9680
 Their written declaration was printed in the newspaper this morning.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ ရေးသားထားသော ကြေငြာချက် ကို ဒီ မနက် သတင်းစာ မှာ ပုံနှိပ်ထားပါသည် ။
 
 9681
 They would like to voice an opinion, but are prevented from making any declarations at this time.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ သည် ထင်မြင်ချက် ထုတ်ဖော်ပေးလို သော်လည်း ၊ ယခုအချိန် တွင် မည်သည့် ထုတ်ဖော်ပြောဆိုခြင်းမပြုရန် တားမြစ်ထားသည် ။
 
 9682
 We should keep in mind that they have made no statements.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ သည် ထုတ်ပြန်ချက် မရှိကြောင်း ကျွန်တော်တို့ သတိပြုသင့်သည် ။
 
 9683
 The author of this dictionary does a very thorough job of documenting and acknowledging the research that went into practically every entry.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ အဘိဓာန် ကို ရေးသားသူ သည် ဝင်ရောက်မှုတိုင်း တွင် လက်တွေ့ကျသော သုတေသနစာတမ်း ကို မှတ်တမ်းတင်ခြင်း နှင့် အသိအမှတ်ပြုခြင်း အလုပ် တို့ကို အလွန် စေ့စေ့စပ်စပ် လုပ်ဆောင်ပါသည် ။
 
 9684
 This dictionary appears to be plagiarized from an existing dictionary written by a competitor.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ အဘိဓာန် သည် ပြိုင်ဖက် တစ်ဦး မှ ရေးသားထားသော ရှိရင်း စွဲအဘိဓာန် တစ်ခု မှ ခိုးယူထားခြင်းခံရ ပုံပေါ်သည် ။
 
 9685
 This dictionary documents in the personal acknowledgments that its contents relies largely on original research.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ အဘိဓာန် သည် ၎င်း၏ အကြောင်းအရာများ သည် မူရင်း သုတေသန အပေါ်တွင် အဓိက အမှီပြုကြောင်း ကိုယ်ရေးကိုယ်တာ အသိအမှတ်ပြုချက်များ တွင် မှတ်တမ်းတင်ထားသည် ။
 
 9686
 I don't understand why they don't like the term Negro.
-<MYANMAR UNICODE TRANSLATION HERE>
+နီဂရိုး အခေါ်အဝေါ် ကို အဘယ်ကြောင့် သူတို့ မကြိုက်ကြသလဲ ကျွန်တော် နားမလည်ပါ ။
 
 9687
 I understand why they don't like the word Negro.
-<MYANMAR UNICODE TRANSLATION HERE>
+နီဂရိုး ဆိုတဲ့ စကားလုံး ကို ဘာကြောင့် သူတို့ မကြိုက်ကြသလဲ ကျွန်တော် နားလည်ပါသည် ။
 
 9688
 Most other people agree that it is a racist term.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခြား လူ အများစု က ၎င်းသည် လူမျိုးရေးဝါဒီ အသုံးအနှုန်း ဖြစ်သည် ဟု သဘောတူကြသည် ။
 
 9689
 Mr. Nields hated saying that!
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ္စတာ နီးလ် သည် ဒီလို ပြောတာ ကို မုန်းသည် ။
 
 9690
 Mr. Nields liked to use those words because they were historic.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ္စတာ နီးလ် သည် ထို စကားများ သည် သမိုင်းဝင် ဖြစ် သောကြောင့် အသုံးပြုရန် ကြိုက်နှစ်သက်ပါသည် ။
 
 9691
 Mr. Nields said he was happy to use those words.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ္စတာ နီးလ် သည် ထို စကားလုံးများ ကို သုံးရတာ ပျော်တယ်လို့ ပြောပါသည် ။
 
 9692
 A program chairman prepared some introductory remarks.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပရိုဂရမ် ဥက္ကဋ္ဌ တစ်ဦး သည် မိတ်ဆက် အမှာစကား အချို့ ကို ပြင်ဆင်ခဲ့သည် ။
 
 9693
 Nobody prepared any introductory remarks.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘယ်သူကမှ မိတ်ဆက် အမှာစကား မပြင်ဆင်ပါဘူး ။
 
 9694
 The introductory remarks were very long.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိတ်ဆက် အမှာစကား သည် အလွန် ရှည်လျားသည် ။
 
 9695
 Deborah Cameron and Deborah Hills have inside information about what happens at LBC Radio, which I find very interesting.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒေဗောရ ကမ်မီရွန် နှင့် ဒေဗောရ ဟေးစ် တို့ တွင် အိုင်ဘီစီ ရေဒီယို တွင် ဘာတွေ ဖြစ်ပျက်နေသည် နှင့်ပတ်သက်သည့် သတင်းအချက်အလက်များ ရှိသည် ဆိုသည့် ၊ ကျွန်တော် သည် အလွန် စိတ်ဝင်စားဖွယ်ကောင်းသည့် အရာကို ကျွန်တော် တွေ့ရှိသည် ။
 
 9696
 I am interested in LBC Radio, London's all-talk radio station and its programmes.
-<MYANMAR UNICODE TRANSLATION HERE>
+လန်ဒန် ၏ အားလုံး-စကားပြော အသံလွှင့်ဌာန နှင့် ၎င်း ၏ အစီအစဉ်များ ကို ၊ အိုင်ဘီစီ ရေဒီယို တွင် ကျွန်တော် စိတ်ဝင်စားပါသည် ။
 
 9697
 I don't own a radio and have no interest in listening to radio programmes.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် သည် ရေဒီယို မပိုင်ဆိုင်ဘဲ ရေဒီယို အစီအစဉ်များ ကို နားထောင်ရန် စိတ်မဝင်စားပါ ။
 
 9698
 Extensive research of the composition proved that the fire had to begin in the string section.
-<MYANMAR UNICODE TRANSLATION HERE>
+တေးဂီတရေးဖွဲ့ခြင်း ၏ ကျယ်ပြန့်သော သုတေသနပြုချက် အရ စိတ်အားထက်သန်မှု သည် တူရိယာ အပိုင်း တွင် စတင်ခဲ့ကြောင်း သက်သေပြခဲ့သည် ။
 
 9699
 The impression given was that the fire started in the string section.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထင်မြင်ယူဆချက် မှာ တူရိယာ အပိုင်း တွင် စိတ်အားထက်သန်မှု စတင်ခြင်း ဖြစ်သည် ။
 
 9700
 The string section was the only thing that remained after the fire, so obviously the fire started in another section.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+တူရိယာ အပိုင်း သည် စိတ်အားထက်သန်မှု ပြီးနောက် ကျန်ရှိနေသည့် တစ်ခုတည်းသော အရာ ဖြစ်သည် ၊ ထို့ကြောင့် အခြား အပိုင်းတွင် မစိတ်အားထက်သန်ခဲ့သည်မှာ ထင်ရှားပါသည် ။
