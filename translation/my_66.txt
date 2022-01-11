@@ -1,6 +1,7 @@
 6501
 Postal density has twice the impact of volume on delivery costs.
 စာတိုက် သိပ်သည်းဆသည် ပို့ဆောင်ခကုန်ကျစရိတ်အပေါ် သက်ရောက်မှုထုထည် ၏ နှစ်ဆရှိသည်။
+#REVIEW
 
 6502
 Postal density impacts delivery costs more than volume.
