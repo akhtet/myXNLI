@@ -1,400 +1,412 @@
 8701
 Time magazine did a profile of Kenneth Starr.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထိုင်းမ် မဂ္ဂဇင်းသည် ခန်းန်နသ် စတား ၏ ပရိုဖိုင် တစ်ခုကို ပြုလုပ်ခဲ့သည်။
 
 8702
 The Senate did not want a new agency to look after nuclear weapons research.
-<MYANMAR UNICODE TRANSLATION HERE>
+အထက်လွှတ်တော် သည် နျူကလီးယားလက်နက် သုတေသနကို ဂရုစိုက်ရန် အေဂျင်စီအသစ်ကို မလိုလားပါ။
 
 8703
 The Senate felt a new agency should look over the research of nuclear weapons.
-<MYANMAR UNICODE TRANSLATION HERE>
+နျူကလီးယားလက်နက်သုတေသနကို အေဂျင်စီအသစ်တစ်ခုက ကြည့်ရှုစစ်ဆေးသင့်တယ်လို့ အထက်လွှတ်တော် က ယူဆပါတယ်။
 
 8704
 The Senate suggested a new agency look over nuclear weapons research.
-<MYANMAR UNICODE TRANSLATION HERE>
+အေဂျင်စီအသစ်တစ်ခုက နျူကလီးယားလက်နက် သုတေသနပြုမှု ကို ကြည့်ရှုစစ်ဆေးဖို့ အထက်လွှတ်တော် က အကြံပြုခဲ့သည်။
 
-8705
+8705 
 Junk yards are storage facilities with clean, new, products stored in neat columns.
-<MYANMAR UNICODE TRANSLATION HERE>
+Junk yards များသည် သန့်ရှင်းသပ်ရပ်သော ကော်လံများတွင် သိမ်းဆည်းထားသော သန့်ရှင်းသော၊ အသစ်၊ ထုတ်ကုန်များပါရှိသော သိုလှောင်ရုံများဖြစ်သည်။
+#REVIEW 
 
 8706
 Sometimes precious items that evoke strong memories of past historical events are found in the wreckage of the junk yards.
-<MYANMAR UNICODE TRANSLATION HERE>
+တခါတရံတွင် အတိတ်သမိုင်းဝင်ဖြစ်ရပ်များကို အမှတ်ရစေမည့် အဖိုးတန်ပစ္စည်းများကို အမှိုက်ပုံကြီး၏ အပျက်အစီးများထဲတွင် တွေ့ရှိရတတ်သည်။
 
 8707
 The evidence is the wreckage in the junk yards of history.
-<MYANMAR UNICODE TRANSLATION HERE>
+အထောက်အထားများသည် သမိုင်း၏ အပျက်အစီးများထဲမှ အပျက်အစီးများဖြစ်သည်။
 
 8708
 The Politicization of Nearly Everything goes on swiftly.
-<MYANMAR UNICODE TRANSLATION HERE>
+အားလုံးနီးပါးရဲ့ နိုင်ငံရေးလုပ်ရှားမှု က အလျင်အမြန် နဲ့ ဆက်လုပ်နေတယ်။
 
 8709
 The Politicization of Nearly Everything has come to a stand still.
-<MYANMAR UNICODE TRANSLATION HERE>
+အားလုံးနီးပါးရဲ့ နိုင်ငံရေးလုပ်ရှားမှု က ငြိမ်သက်သွားပါပြီ။
 
 8710
 The Politicization of Nearly Everything is nearly done.
-<MYANMAR UNICODE TRANSLATION HERE>
+အားလုံးနီးပါးရဲ့ နိုင်ငံရေးလုပ်ရှားမှု က ပြီးခါနီးပါပြီ။
 
 8711
 Technology gets boring after a while.
-<MYANMAR UNICODE TRANSLATION HERE>
+နည်းပညာက အချိန်ကြာလာတဲ့အခါ ငြီးငွေ့လာတယ်။
 
 8712
 Technology is always fun!
-<MYANMAR UNICODE TRANSLATION HERE>
+နည်းပညာသည် အမြဲပျော်စရာကောင်းသည်။
 
 8713
 Technology is boring if you don't keep changing it.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း ဒါကို ဆက် မပြောင်းရင် နည်းပညာက ပျင်းဖို့ကောင်းတယ်။
 
 8714
 All women today like to have a lot of meat on their bones.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယနေ့ခေတ် အမျိုးသမီးအားလုံး idiom
+#REVIEW  
 
 8715
 Many women today have tried some form of dieting at least once in their life.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယနေ့ခေတ် အမျိုးသမီး အများအပြား သည် သူတို့၏ ဘဝ မှာ အနည်းဆုံး တစ်ကြိမ် လောက် စားသောက်ခြင်း ပုံစံ တချို့ ကို စမ်းကြည့်ဖူးသည်။
 
 8716
 Today's women like to have a slender body structure.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယနေ့ခေတ် အမျိုးသမီးများသည် သွယ်လျသော ခန္ဓာကိုယ်ဖွဲ့စည်းပုံတစ်ခု ရှိချင်ကြသည်။
 
 8717
-Livingston's resignation has let Clinton appear forgiving.
-<MYANMAR UNICODE TRANSLATION HERE>
+Livingston' resignation has let Clinton appear forgiving.
+လစ်ဗင်စတန် ၏ ရာထူးမှ နုတ်ထွက်ခြင်းသည် ကလင်တန်ကို ခွင့်လွှတ်တယ်ဆိုတာ ထင်ရှားစေသည်။
 
 8718
 Livingston's resignation made Clinton look bad.
-<MYANMAR UNICODE TRANSLATION HERE>
+လစ်ဗင်စတန် ၏ ရာထူးမှ နုတ်ထွက်ခြင်းသည် ကလင်တန်ကို ဆိုးရွားစေသည်။
 
 8719
 Livingston's resignation may have let Clinton appear generous.
-<MYANMAR UNICODE TRANSLATION HERE>
+လစ်ဗင်စတန် ၏ ရာထူးမှ နုတ်ထွက်ခြင်းသည် ကလင်တန်အား ရက်ရောတဲ့ပုံ ပေါက်စေတယ်။
 
 8720
 Pundits say losers write history.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရှုံးသမားများက သမိုင်းရေးသည်ဟု ပဏ္ဍိတ များက ပြောသည်။
 
 8721
 Pundits say people who win the lottery tell history.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထီပေါက်တဲ့လူတွေက သမိုင်းကို ပြောတယ်လို့ ပဏ္ဍိတ များက ပြောကြသည်။
 
 8722
 Pundits say the winners tell history.
-<MYANMAR UNICODE TRANSLATION HERE>
+အောင်မြင်သူများက သမိုင်းကို ပြောပြတယ်လို့ ပဏ္ဍိတ များက ပြောကြသည်။
 
 8723
 Some students might have cheated at Edinburgh University.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့သော ကျောင်းသားများသည် အက်ဒင်းဘရာ့ တက္ကသိုလ်တွင် လိမ်လည်လှည့်ဖြားခဲ့တာဖြစ်နိုင်တယ်။
 
 8724
 Some students might have cheated on their finals.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့သော ကျောင်းသားများသည် သူတို့၏ ဖိုင်နယ်ကို လိမ်လည်လှည့်ဖြားခဲ့တာဖြစ်နိုင်တယ်။
+#REVIEW 
 
 8725
 The university thinks art students cheated.
-<MYANMAR UNICODE TRANSLATION HERE>
+တက္ကသိုလ်က အနုပညာကျောင်းသား တွေက လိမ်လည်လှည့်ဖြားခဲ့ကြတယ်လို့ ထင်တယ်။
 
 8726
 Any other Republican fallback will not work now.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခြားသော ရီပတ်ဘလီကန်တို့၏ ဆုတ်ယုတ်မှု များသည် ယခု အလုပ်မဖြစ်ပါ။
+#REVIEW
 
 8727
 This is the ultimate Republican resort.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက အကောင်းဆုံး ရီပတ်ဘလစ်ကန် အပန်းဖြေစခန်း ဖြစ်သည်။
 
 8728
 This is the worst and least effective Republican fallback.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက အဆိုးဆုံးနှင့် ထိရောက်မှုအနည်းဆုံး ရီပတ်ဘလီကန်တို့၏ ဆုတ်ယုတ်မှုဖြစ်သည်။
 
 8729
 People were not happy with how the NYPD handled the Amadou Diallo shooting.
-<MYANMAR UNICODE TRANSLATION HERE>
+အန်န်ဝိုင်ဖီဒီ မှ အာမက်ဒူ ဒီအာလို ပစ်ခတ်မှုကို ကိုင်တွယ်ပုံကို လူတွေက မပျော်ရွှင်ခဲ့ကြပါ။
 
 8730
 Rudolph Giuliani apologized for how he handled the Amadou Diallo shooting.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရုဒေါ့ဖ် ဂျူလီယာနီ သည် အာမက်ဒူ ဒီအာလို ပစ်ခတ်မှုကို ကိုင်တွယ်ပုံအတွက် တောင်းပန်ခဲ့သည်။
 
 8731
 Rudolph Giuliani made a statement to the Newsweek concerning his handling of the Amadou Diallo shooting.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရုဒေါ့ဖ် ဂျူလီယာနီ သည် အာမက်ဒူ ဒီအာလို ပစ်ခတ်မှုကို သူ၏ ကိုင်တွယ်ပုံနှင့်ပတ်သက်၍ နယူးစ်ဝိခ် သို့ ထုတ်ပြန်ချက် တစ်ခု ပြုလုပ်ခဲ့သည်။
 
 8732
 Humans are the only creatures that do not have an immune system.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူသားများသည် ကိုယ်ခံအားစနစ်တစ်ခုမရှိသည့် သတ္တဝါများသာ ဖြစ်သည်။
 
 8733
 Less people are getting sick these days because of improved hygiene.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီရက်ပိုင်းတွေမှာ တစ်ကိုယ်ရေသန့်ရှင်းမှုတိုးတက်ခြင်းကြောင့် လူများ ဖျားနာမှု နည်းပါးလာသည်။
 
 8734
 Our immune system was kept busy in the past.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့၏ ကိုယ်ခံအားစနစ်သည် အရင်က အလုပ်များနေခဲ့သည်။
 
 8735
 James Surowiecki's Moneybox column is delivered five days a week.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျိမ်းစ် ဆူရိုဝီရာ့ကီ ၏ မန်းနီးဘောက်ဇ် ကော်လံကို တစ်ပတ်လျှင် ငါးရက် ပေးပို့ပါသည်။
+#REVIEW
 
 8736
 James Surowiecki's Moneybox column is delivered on Saturdays and Sundays.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျိမ်းစ် ဆူရိုဝီရာ့ကီ ၏ မန်းနီးဘောက်ဇ် ကော်လံကို စနေနေ့နှင့် တနင်္ဂနွေနေ့များတွင် ပေးပို့ပါသည်။
 
 8737
 Readers have given positive reviews of James Surowiecki's Moneybox column.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာဖတ်သူများသည် ဂျိမ်းစ် ဆူရိုဝီရာ့ကီ ၏ မန်းနီးဘောက်ဇ် ကော်လံကို အပြုသဘောဆောင်သော သုံးသပ်ချက်များပေးထားသည်။
 
 8738
 John Kirkwood founded the ALA of Metropolitan Chicago.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျွန် ခါ့ကဝုစ် သည် မက်ထရိုဖို့လစ်တန် ချီကာဂို ၏ အေအယ်လ်အေ ကို တည်ထောင်ခဲ့သည်။
 
 8739
 John Kirkwood is convinced that it is not a well defined area.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျွန် ခါ့ကဝုစ် သည် ၎င်းသည် ကောင်းစွာသတ်မှတ်ထားသောနေရာမဟုတ်ကြောင်း ယုံကြည်သည်။
 
 8740
 John Kirkwood is not and was never associated with the ALA of Metropolitan Chicago.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျွန် ခါ့ကဝုစ် သည် မက်ထရိုဖို့လစ်တန် ချီကာဂို ၏ အေအယ်လ်အေ နှင့် ဘယ်တုန်းကမှ မဆက်စပ်ပါ။
 
 8741
 I am always satisfied with every person I meet.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ က ငါတွေ့တဲ့လူတိုင်းကို အမြဲကျေနပ်တယ်။
 
 8742
 I have met unsatisfactory people in my life.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့ဘဝမှာ မကျေနပ်စရာ ကောင်းတဲ့ လူတွေနဲ့ ငါ တွေ့ဖူးတယ်။
 
 8743
 This is the most unsatisfactory person I have ever met in my life.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီလူဟာ ငါ့ဘဝမှာ ငါ ကြုံဖူးခဲ့ရတဲ့ မကျေနပ်စရာအကောင်းဆုံးလူဖြစ်တယ်။
 
 8744
 It is hard to love a macroeconomist.
-<MYANMAR UNICODE TRANSLATION HERE>
+မက်ခရိုစီးပွားရေးပညာရှင်တစ်ေယာက်ကို ချစ်ဖို့ ခက်တယ်။
 
 8745
 The question is related to driving a truck.
-<MYANMAR UNICODE TRANSLATION HERE>
+မေးခွန်းက ထရပ်ကားတစ်စင်း မောင်းနှင်ခြင်းနဲ့ သက်ဆိုင်သည်။
 
 8746
 The question is related to love and macroeconomists.
-<MYANMAR UNICODE TRANSLATION HERE>
+မေးခွန်းက အချစ်နဲ့ မက်ခရိုစီးပွားရေးပညာရှင်များနဲ့ ဆက်စပ်တယ်။
 
 8747
 The government didn't like the King.
-<MYANMAR UNICODE TRANSLATION HERE>
+အစိုးရ က ဘုရင် ကို မကြိုက်ဘူး။
 
 8748
 The government loved the king.
-<MYANMAR UNICODE TRANSLATION HERE>
+အစိုးရ က ဘုရင် ကို ချစ်တယ်။
 
 8749
 The government wanted the King to die.
-<MYANMAR UNICODE TRANSLATION HERE>
+အစိုးရက ဘုရင်ကို သေစေချင်တယ်။
 
 8750
 I appreciate that, Sir; may I get another answer.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါကို ကျွန်တော်လေးစားပါတယ် ဆရာ၊ ငါ တခြား အဖြေရနိုင်မလား။
 
 8751
 Thank you, Sir; that is the only answer I needed.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျေးဇူးပါဆရာ၊ အဲဒါက ငါလိုအပ်တဲ့ တစ်ခုတည်းသော အဖြေဖြစ်တယ်။
 
 8752
 You will need to give me five answers in total, Sir.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း ငါ့ကို စုစုပေါင်း အဖြေငါးခု ပေးဖို့ လိုအပ်မယ် ဆရာ။
 
 8753
 Ames was arrested for selling classified information to the Soviets.
-<MYANMAR UNICODE TRANSLATION HERE>
+အေ့မ်စ် သည် ဆိုဗီယက်စ် တို့အား အမျိုးအစားခွဲထားသော အချက်အလက်များကို ရောင်းချသည့်အတွက် ဖမ်းဆီးခံရသည်။
 
 8754
 There is no way one can arrive at the answer.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဖြေကို ရောက်နိုင်မဲ့ နည်းလမ်း မရှိဘူး။
 
 8755
 There may be more than one way to find the answer.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဖြေကိုရှာဖို့ နည်းလမ်းတစ်ခုထက်မက ရှိကောင်းရှိနိုင်ပါသည်။
 
 8756
 Prudie gave up chewing bubble gum when he was in college.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပရူဒီ သည် သူ ကောလိပ်တက်တုန်းက ပီကေကို ဝါးခြင်းကို  စွန့်ပစ်ခဲ့သည်။
 
 8757
 Prudie thinks highly of people who chew bubble gum.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပရူဒီ သည် ပီကေ ဝါးသောလူများအပေါ် အလွန် စဉ်းစားသည်။
 
 8758
 Prudie thinks that it is not a good thing to be seen chewing gum.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပရူဒီ က ပီကေကိုမြင်ရတာ ကောင်းတဲ့အရာတစ်ခု မဟုတ်ဘူးလို့ ထင်တယ်။
 
 8759
 It is not wise to blame others for your own imperfection.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင့်ကိုယ်ပိုင်မပြည့်စုံမှုအတွက် အခြားသူများကို အပြစ်ပုံချခြင်းသည် ပညာရှိရာမရောက်ပါ။
 
 8760
 One's own imperfection can lead to a bad situation.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်ဦးတစ်ယောက်၏ ကိုယ်ပိုင်မပြည့်စုံမှု သည် ဆိုးရွားသောအခြေအနေတစ်ခုသို့ ဦးတည်သွားစေနိုင်သည်။
 
 8761
 The best thing to do for a situation tainted by your own imperfection is to run away from it.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းရဲ့ ကိုယ်ပိုင်မပြည့်စုံမှုတွေကြောင့် စွန်းထင်းနေတဲ့ အခြေအနေတစ်ခုအတွက် လုပ်ရမဲ့ အကောင်းဆုံးအရာက အဲဒီအရာကနေ အဝေးကို ထွက်ပြေးဖို့ ဖြစ်တယ်။
 
 8762
 Lamar Alexander's way out is not popular within the group.
-<MYANMAR UNICODE TRANSLATION HERE>
+လာမာ အလက်ဇန်းဒါး၏ ထွက်ခွာမှုသည် အဖွဲ့အတွင်းမှာ နာမည်မကြီးပါ။
 
 8763
 One should not waste time considering Lamar Alexander's way out.
-<MYANMAR UNICODE TRANSLATION HERE>
+လာမာ အလက်ဇန်းဒါး ၏ ထွက်ခွာမှုကို စဉ်းစားရင်း အချိန်မဖြုန်းသင့်ပါဘူး။
 
 8764
 There is some logic to Lamar Alexander's way out.
-<MYANMAR UNICODE TRANSLATION HERE>
+လာမာ အလက်ဇန်းဒါး ၏ ထွက်ခွာမှုက ယုတ္တိအချို့ရှိသည်။
 
 8765
 Magazines like Slate can be damaged by disaggregating content.
-<MYANMAR UNICODE TRANSLATION HERE>
+စလိတ်ထ် ကဲ့သို့သော မဂ္ဂဇင်းများသည် အကြောင်းအရာများကို ခွဲထုတ်ခြင်းဖြင့် ပျက်စီးနိုင်သည်။
 
 8766
 Slate has suffered in the past for disaggregating content.
-<MYANMAR UNICODE TRANSLATION HERE>
+စလိတ်ထ် သည် အကြောင်းအရာများကို ခွဲထုတ်ခြင်းအတွက် အတိတ်တွင် ဒုက္ခရောက်သည်။
 
 8767
 The disaggregation of content is a reader-magnet for magazines like Slate.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကြောင်းအရာများကို ခွဲထုတ်ခြင်းသည် စလိတ်ထ် ကဲ့သို့သော မဂ္ဂဇင်းများအတွက် စာဖတ်သူအားထားရာတစ်ခု ဖြစ်သည်။
+#REVIEW
 
 8768
 The only thing the postwar tract-home developments had were adults.
-<MYANMAR UNICODE TRANSLATION HERE>
+စစ်ပြီးခေတ် အိမ်တွင်းတိုးတက်မှုများ ရှိခဲ့သည့် တစ်ခုတည်းသောအရာမှာ အရွယ်ရောက်ပြီးသူများဖြစ်သည်။
 
 8769
 They did a good job designing the kid cities in the postwar tract-home developments.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် စစ်ပြီးခေတ် အိမ်တွင်းတိုးတက်မှုများမှာ ကလေးမြို့များကို ဒီဇိုင်းထုတ်သည့် ကောင်းတဲ့ အလုပ်တစ်ခု ကို လုပ်ကြသည်။
+#REVIEW
 
 8770
 They hired seasoned architects to design the post-war tract-home developments.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် စစ်ပြီးခေတ် အိမ်တွင်းတိုးတက်မှုများကို ဒီဇိုင်းဆွဲရန် နှစ်ချို့ ဗိသုကာပညာရှင်များကို ငှားရမ်းကြသည်။
 
 8771
 I have no objections to the communitarian explanation of Littleton.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့မှာ လစ်ထယ့်တန် ၏ ကွန်မြူနစ်ဆိုင်ရာ ရှင်းလင်းချက်ကို ကန့်ကွက်စရာ မရှိဘူး။
 
 8772
 It is true that parents are partly to blame.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိဘတွေက တစ်စိတ်တစ်ပိုင်း အပြစ်တင်တာ မှန်တယ်။
 
 8773
 The communitarian explanation of Littleton puts blame on parents.
-<MYANMAR UNICODE TRANSLATION HERE>
+လစ်ထယ့်တန် ၏ ကွန်မြူနစ်ဆိုင်ရာ ရှင်းလင်းချက်သည် မိဘများအပေါ် အပြစ်တင်သည်။
 
 8774
 It's obvious the consistent solution is always wrong.
-<MYANMAR UNICODE TRANSLATION HERE>
+တသမတ်တည်း ဖြေရှင်းချက်က အမြဲတမ်းမှားနေတာ ထင်ရှားပါတယ်။
 
 8775
 When it comes to waste removal why is the consistent solution correct?
-<MYANMAR UNICODE TRANSLATION HERE>
+အမှိုက်ဖယ်ရှားခြင်းနှင့်ပတ်သက်ပြီး တသမတ်တည်းဖြေရှင်းချက်က ဘာကြောင့် မှန်ကန်ရသလဲ။
 
 8776
 Why does the right solution so happen to be the most consistent?
-<MYANMAR UNICODE TRANSLATION HERE>
+မှန်ကန်သောဖြေရှင်းချက်က ဘာကြောင့် အကိုက်ညီဆုံးဖြစ်သနည်း။
 
 8777
 The conventional wisdom about the musical Ragtime continues to rise.
-<MYANMAR UNICODE TRANSLATION HERE>
+Ragtime ဂီတနှင့် ပတ်သက်သော သမားရိုးကျ ပညာသည် ဆက်လက် တိုးမြင့်လာသည်။
+#REVIEW
 
 8778
 The conventional wisdom about the musical Ragtime is not constant.
-<MYANMAR UNICODE TRANSLATION HERE>
+Ragtime ဂီတနှင့် ပတ်သက်သော သမားရိုးကျ ပညာသည် မတည်မြဲပါ။
+#REVIEW
 
 8779
 Young adults do not know anything about the musical Ragtime.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူငယ်များသည် Ragtime ဂီတအကြောင်း ဘာမှမသိကြဘူး။
 
 8780
 Big contributors are always given special treatment at these events.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကူညီပံ့ပိုးသူကြီးများက ဒီပွဲတွေမှာ အထူးကုသမှု အမြဲပေးသည်။
 
 8781
 Everyone contributes the same amount, in order to prevent special treatment.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတိုင်းသည် အထူးကုသမှုကို ကာကွယ်ရန်အတွက် တူညီသောပမာဏကို ပံ့ပိုးပေးကြသည်။
 
 8782
 There is nothing new in this kind of treatment for big contributors.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပံ့ပိုးကူညီသူကြီးများအတွက် ဒီကုသမှုမျိုးမှာ အသစ်အဆန်းမရှိဘူး။
 
 8783
 Myst is a popular computer game about a person on an island.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ်စ်ထ် သည် ကျွန်းတစ်ကျွန်းပေါ်ရှိ လူတစ်ဦးအကြောင်း လူကြိုက်များသော ကွန်ပျူတာဂိမ်းတစ်ခုဖြစ်သည်။
 
 8784
 Sadly, the computer game called Myst was never released into the public.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝမ်းနည်းစရာမှာ မစ်စ်ထ် ဟုခေါ်သော ကွန်ပျူတာဂိမ်းကို လူသိရှင်ကြား ထုတ်ဖော်ခဲ့ခြင်း မရှိခဲ့ပါ။
 
 8785
 The creators of Myst made over a billion dollars from selling their game.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ်စ်ထ် ကို ဖန်တီးသူများသည် သူတို့၏ ဂိမ်းရောင်းချခြင်းမှ ဒေါ်လာ တစ်ဘီလီယံကျော် ရရှိခဲ့သည်။
 
 8786
 Breakfast and lunch are the only meals that appear on TV.
-<MYANMAR UNICODE TRANSLATION HERE>
+မနက်စာနှင့်နေ့လည်စာသည် တီဗွီ မှာ ပေါ်လာသည့် တစ်ခုတည်းသောအစားအစာဖြစ်သည်။
 
 8787
 People can watch dinners on TV.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတွေက ညစာကို တီဗွီ မှာကြည့်နိုင်တယ်။
 
 8788
 TV dinners always show a family eating some meat dish.
-<MYANMAR UNICODE TRANSLATION HERE>
+တီဗွီ ညစာများတွင် အသားဟင်းအချို့စားသော မိသားစုတစ်စု ကို အမြဲပြသသည်။
 
 8789
 The Anti-Defamation League's survey had participants from five American states.
-<MYANMAR UNICODE TRANSLATION HERE>
+အသရေဖျက်မှုတိုက်ဖျက်ရေးအဖွဲ့ချုပ်၏ စစ်တမ်း တွင် အမေရိကန် ပြည်နယ် ငါးခု မှ ပါဝင်သူများ ရှိကြသည်။
+#REVIEW
 
 8790
 The Anti-Defamation League's survey indicates that there is a gradual increase in hard core anti-Semites in America.
-<MYANMAR UNICODE TRANSLATION HERE>
+အသရေဖျက်မှုတိုက်ဖျက်ရေးအဖွဲ့ချုပ်၏ စစ်တမ်းက အမေရိကတွင် အမာခံ ဂျူးလူမျိုးများအားဆန့်ကျင်သူများ တဖြည်းဖြည်း တိုးလာကြောင်း ညွှန်ပြနေသည်။
+#REVIEW
 
 8791
 The Anti-Defamation League's survey shows that there is still some hard core anti-Semites in America.
-<MYANMAR UNICODE TRANSLATION HERE>
+အသရေဖျက်မှု တိုက်ဖျက်ရေးအဖွဲ့ချုပ်၏ စစ်တမ်းက အမေရိကတွင် အမာခံ ဂျူးလူမျိုးများအားဆန့်ကျင်သောသူအချို့ ရှိနေဆဲဖြစ်ကြောင်း ပြသသည်။
+#REVIEW
 
 8792
 She had brunette hair and some teeth in her mouth.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမမှာ အနက်ရောင်ဆံပင်နှင့် သူမ၏ ပါးစပ်ထဲတွင် သွားအချို့ရှိသည်။
 
 8793
 She liked to wear red lipstick and red clothes.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် အနီရောင် နှုတ်ခမ်းနီနှင့် အနီရောင်အဝတ်အစားကို ဝတ်ဆင်ရတာ နှစ်သက်သည်။
 
 8794
 She was completely bald, and she had no teeth at all.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် လုံးဝ ထိပ်ပြောင်ပြီးတော့ သူမမှာ သွားများ လုံးဝမရှိပေ။
 
 8795
 Sullivan does not know anything about equal treatment.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆူလီဗန် သည် တန်းတူဆက်ဆံမှုနှင့်ပတ်သက်၍ ဘာမှမသိပါ။
 
 8796
 Sullivan is confident that the mantra of equal treatment will end the argument.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆူလီဗန် သည် တန်းတူရည်တူ ဆက်ဆံခြင်း မန္တန်သည် အငြင်းအခုံကို အဆုံးသတ်လိမ့်မည်ဟု ယုံကြည်သည်။
 
 8797
 Sullivan uses the mantra of equal treatment after he realizes that he is losing the argument.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆူလီဗန် သည် ငြင်းခုံမှုကို ဆုံးရှုံးရကြောင်း သူသိရှိပြီးနောက် တန်းတူရည်တူဆက်ဆံခြင်း မန္တန်ကို အသုံးပြုခဲ့သည်။
 
 8798
 It is rumored that Pynchon has a son and daughter.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖင့်န်ချင် မှာ သားတစ်ယောက် နဲ့သမီးရှိတယ်လို့ ကောလဟာလတွေ ထွက်နေတယ်။
 
 8799
 The public knows very little about Pynchon's private life.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖင့်န်ချင် ၏ ကိုယ်ပိုင်ဘဝအကြောင်းကို လူအများက အနည်းငယ်သာ သိကြသည်။
 
 8800
 There is a popular TV show about Pynchon's private life, starring Pynchon himself.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖင့်န်ချင် ကိုယ်တိုင်ပါဝင်သရုပ်ဆောင်ထားသော ဖင့်န်ချင် ၏ ကိုယ်ပိုင်ဘဝအကြောင်း နာမည်ကြီးတီဗီရှိုးတစ်ခုရှိသည်။
 
