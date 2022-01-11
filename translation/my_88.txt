@@ -22,10 +22,12 @@ Junk yards များသည် သန့်ရှင်းသပ်ရပ်�
 8706
 Sometimes precious items that evoke strong memories of past historical events are found in the wreckage of the junk yards.
 တခါတရံတွင် အတိတ်သမိုင်းဝင်ဖြစ်ရပ်များကို အမှတ်ရစေမည့် အဖိုးတန်ပစ္စည်းများကို အမှိုက်ပုံကြီး၏ အပျက်အစီးများထဲတွင် တွေ့ရှိရတတ်သည်။
+#REVIEW
 
 8707
 The evidence is the wreckage in the junk yards of history.
 အထောက်အထားများသည် သမိုင်း၏ အပျက်အစီးများထဲမှ အပျက်အစီးများဖြစ်သည်။
+#REVIEW
 
 8708
 The Politicization of Nearly Everything goes on swiftly.
@@ -79,14 +81,17 @@ Livingston's resignation may have let Clinton appear generous.
 8720
 Pundits say losers write history.
 အရှုံးသမားများက သမိုင်းရေးသည်ဟု ပဏ္ဍိတ များက ပြောသည်။
+#REVIEW
 
 8721
 Pundits say people who win the lottery tell history.
 ထီပေါက်တဲ့လူတွေက သမိုင်းကို ပြောတယ်လို့ ပဏ္ဍိတ များက ပြောကြသည်။
+#REVIEW
 
 8722
 Pundits say the winners tell history.
 အောင်မြင်သူများက သမိုင်းကို ပြောပြတယ်လို့ ပဏ္ဍိတ များက ပြောကြသည်။
+#REVIEW
 
 8723
 Some students might have cheated at Edinburgh University.
@@ -109,10 +114,12 @@ Any other Republican fallback will not work now.
 8727
 This is the ultimate Republican resort.
 ဒါက အကောင်းဆုံး ရီပတ်ဘလစ်ကန် အပန်းဖြေစခန်း ဖြစ်သည်။
+#REVIEW
 
 8728
 This is the worst and least effective Republican fallback.
 ဒါက အဆိုးဆုံးနှင့် ထိရောက်မှုအနည်းဆုံး ရီပတ်ဘလီကန်တို့၏ ဆုတ်ယုတ်မှုဖြစ်သည်။
+#REVIEW
 
 8729
 People were not happy with how the NYPD handled the Amadou Diallo shooting.
@@ -146,10 +153,12 @@ James Surowiecki's Moneybox column is delivered five days a week.
 8736
 James Surowiecki's Moneybox column is delivered on Saturdays and Sundays.
 ဂျိမ်းစ် ဆူရိုဝီရာ့ကီ ၏ မန်းနီးဘောက်ဇ် ကော်လံကို စနေနေ့နှင့် တနင်္ဂနွေနေ့များတွင် ပေးပို့ပါသည်။
+#REVIEW
 
 8737
 Readers have given positive reviews of James Surowiecki's Moneybox column.
 စာဖတ်သူများသည် ဂျိမ်းစ် ဆူရိုဝီရာ့ကီ ၏ မန်းနီးဘောက်ဇ် ကော်လံကို အပြုသဘောဆောင်သော သုံးသပ်ချက်များပေးထားသည်။
+#REVIEW
 
 8738
 John Kirkwood founded the ALA of Metropolitan Chicago.
@@ -178,6 +187,7 @@ This is the most unsatisfactory person I have ever met in my life.
 8744
 It is hard to love a macroeconomist.
 မက်ခရိုစီးပွားရေးပညာရှင်တစ်ေယာက်ကို ချစ်ဖို့ ခက်တယ်။
+#REVIEW
 
 8745
 The question is related to driving a truck.
@@ -186,6 +196,7 @@ The question is related to driving a truck.
 8746
 The question is related to love and macroeconomists.
 မေးခွန်းက အချစ်နဲ့ မက်ခရိုစီးပွားရေးပညာရှင်များနဲ့ ဆက်စပ်တယ်။
+#REVIEW
 
 8747
 The government didn't like the King.
@@ -275,6 +286,7 @@ The disaggregation of content is a reader-magnet for magazines like Slate.
 8768
 The only thing the postwar tract-home developments had were adults.
 စစ်ပြီးခေတ် အိမ်တွင်းတိုးတက်မှုများ ရှိခဲ့သည့် တစ်ခုတည်းသောအရာမှာ အရွယ်ရောက်ပြီးသူများဖြစ်သည်။
+#REVIEW
 
 8769
 They did a good job designing the kid cities in the postwar tract-home developments.
@@ -284,10 +296,12 @@ They did a good job designing the kid cities in the postwar tract-home developme
 8770
 They hired seasoned architects to design the post-war tract-home developments.
 သူတို့သည် စစ်ပြီးခေတ် အိမ်တွင်းတိုးတက်မှုများကို ဒီဇိုင်းဆွဲရန် နှစ်ချို့ ဗိသုကာပညာရှင်များကို ငှားရမ်းကြသည်။
+#REVIEW
 
 8771
 I have no objections to the communitarian explanation of Littleton.
 ငါ့မှာ လစ်ထယ့်တန် ၏ ကွန်မြူနစ်ဆိုင်ရာ ရှင်းလင်းချက်ကို ကန့်ကွက်စရာ မရှိဘူး။
+#REVIEW
 
 8772
 It is true that parents are partly to blame.
@@ -296,6 +310,7 @@ It is true that parents are partly to blame.
 8773
 The communitarian explanation of Littleton puts blame on parents.
 လစ်ထယ့်တန် ၏ ကွန်မြူနစ်ဆိုင်ရာ ရှင်းလင်းချက်သည် မိဘများအပေါ် အပြစ်တင်သည်။
+#REVIEW
 
 8774
 It's obvious the consistent solution is always wrong.
@@ -326,14 +341,17 @@ Young adults do not know anything about the musical Ragtime.
 8780
 Big contributors are always given special treatment at these events.
 ကူညီပံ့ပိုးသူကြီးများက ဒီပွဲတွေမှာ အထူးကုသမှု အမြဲပေးသည်။
+#REVIEW
 
 8781
 Everyone contributes the same amount, in order to prevent special treatment.
 လူတိုင်းသည် အထူးကုသမှုကို ကာကွယ်ရန်အတွက် တူညီသောပမာဏကို ပံ့ပိုးပေးကြသည်။
+#REVIEW
 
 8782
 There is nothing new in this kind of treatment for big contributors.
 ပံ့ပိုးကူညီသူကြီးများအတွက် ဒီကုသမှုမျိုးမှာ အသစ်အဆန်းမရှိဘူး။
+#REVIEW
 
 8783
 Myst is a popular computer game about a person on an island.
@@ -393,10 +411,12 @@ Sullivan does not know anything about equal treatment.
 8796
 Sullivan is confident that the mantra of equal treatment will end the argument.
 ဆူလီဗန် သည် တန်းတူရည်တူ ဆက်ဆံခြင်း မန္တန်သည် အငြင်းအခုံကို အဆုံးသတ်လိမ့်မည်ဟု ယုံကြည်သည်။
+#REVIEW
 
 8797
 Sullivan uses the mantra of equal treatment after he realizes that he is losing the argument.
 ဆူလီဗန် သည် ငြင်းခုံမှုကို ဆုံးရှုံးရကြောင်း သူသိရှိပြီးနောက် တန်းတူရည်တူဆက်ဆံခြင်း မန္တန်ကို အသုံးပြုခဲ့သည်။
+#REVIEW
 
 8798
 It is rumored that Pynchon has a son and daughter.
