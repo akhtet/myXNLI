@@ -1,400 +1,406 @@
 7501
 The intelligence report was written up on December 3, 2001.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထောက်လှမ်းရေး အစီရင်ခံစာ ကို ၂၀၀၁ ခုနှစ်၊ ဒီဇင်ဘာလ ၃ ရက် တွင် အပြီးသတ်ရေးသားခဲ့သည်။
 
 7502
 Paul O'Neill did not want to develop a plan.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပေါလ်အိုနီးလ်သည် အစီအစဉ်ကို အကောင်အထည်မဖော်ချင်ခဲ့ပါဘူး။
 
 7503
 Treasury Secretary Paul O'Neill was told not to bother with al Qaeda's funding.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်ကိုင်ဒါ၏ ရန်ပုံငွေနှင့်ပတ်သက်၍ စိတ်အနှောက်အယှက် မဖြစ်ရန် ဘဏ္ဍာရေးအတွန်းဝန် ပေါလ်အိုနီးလ်အား ပြေားကြားခဲ့သည်။
 
 7504
 Treasury Secretary Paul O'Neill ws told to develop a plan to target the funding of al Qaeda.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်ကိုင်ဒါ၏ ငွေကြေးထောက်ပံ့မှု ကို ဦးတည်ချက်ထားသည့် အစီအစဉ်တစ်ခုကို အကောင်အထည်ဖော်ရန် ဘဏ္ဍာရေးအတွန်းဝန် ပေါလ်အိုနီးလ်အား ပြေားကြားခဲ့သည်။
+#REVIEW  ('ws told' was assumed as 'was told')
 
 7505
 Jane never wanted to share the information.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျိန်းသည် မည်သည့်အခါကမျှ သတင်းအချက်အလက်များကို မျှဝေအသိပေးရန် ဆန္ဒမရှိခဲ့ပါ။
 
 7506
 Jane shared the information immediately.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျိန်းသည် သတင်းအချက်အလက်များကို ချက်ချင်း မျှဝေအသိပေးခဲ့သည်။
 
 7507
 The NSA had looked at the information on Mihdhar.
-<MYANMAR UNICODE TRANSLATION HERE>
+အန်အက်စ်အေသည် မင့်ဒ်ဟာ၏ သတင်းအချက်အလက်များကို ကြည့်ရှုစစ်ဆေးသည်။
 
 7508
 The Sentencing Order was issued by the seven judges on the Hanseatic Regional High Court.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီရင်ချက်ချသည့် အမိန့်ကို ဟန်ဇီအန်တစ်ဒေသဆိုင်ရာဗဟိုတရားရုံးတွင် တရားသူကြီး ခုနှစ်ဦးမှ ထုတ်ပြန်ခဲ့သည်။
 
 7509
 The Sentencing Order was issued in 2003.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီရင်ချက်ချသည့် အမိန့်ကို ၂၀၀၃ ခုနှစ်တွင် ထုတ်ပြန်ခဲ့သည်။
 
 7510
 The Sentencing Order was never issued.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီရင်ချက်ချသည့် အမိန့်ကို တခါမျှ မထုတ်ပြန်ခဲ့ပါ။
 
 7511
 A foreign government had a photo of someone involved in the Cole bombing.
-<MYANMAR UNICODE TRANSLATION HERE>
+နိုင်ငံခြားအစိုးရတစ်ခုတွင် ကိုးလ် ဗုံးခွဲတိုက်ခိုက်မှုတွင် ပါဝင်သောသူအချို့၏ ဓာတ်ပုံတစ်ပုံ ရှိသည်။
 
 7512
 Nobody had ever photographed anyone involved in the Cole bombing.
-<MYANMAR UNICODE TRANSLATION HERE>
+မည်သူကမျှ ကိုးလ် ဗုံးခွဲတိုက်ခိုက်မှုတွင် ပါဝင်သောသူများကို ဓာတ်ပုံရိုက်မထားပါ။
 
 7513
 The photograph was slightly blurry, but the face of the person was still visible.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဓာတ်ပုံသည် အနည်းငယ်မှုန်ဝါးနေသော်လည်း၊ လူ၏မျက်နှာသည် သိသာမြင်သာရှိဆဲဖြစ်သည်။
 
 7514
 Both flights flew in to the same exact airport.
-<MYANMAR UNICODE TRANSLATION HERE>
+လေယာဉ်နှစ်စီးစလုံးသည် တူညီသော လေဆိပ်တခုထဲဆီကိုပဲ ပျံသန်းသွားကြသည်။
 
 7515
 Both flights landed in Miami on June 8, 2001.
-<MYANMAR UNICODE TRANSLATION HERE>
+၂၀၀၁ခုနှစ်၊ ဇွန်လ ၈ရက်နေ့တွင် လေယာဉ်နှစ်စီးစလုံးသည် မိုင်ယာမီတွင် ဆင်းသက်ခဲ့ကြသည်။
 
 7516
 Haznawi (Flight 93) flew from London to NYC.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟာဇ်နဝိ (ဖလိုက် ၉၃)သည် လန်ဒန်မှ နယူယော့ခ်စီးတီးသို့ ပျံသန်းခဲ့သည်။
 
 7517
 Some controversial provisions of the Patriot Act are likely to be renewed by Congress before it expires.
-<MYANMAR UNICODE TRANSLATION HERE>
+မျိုးချစ်ဥပဒေ/ ဝံသာနုရက္ခိတဥပဒေမှ အချို့သော အငြင်းပွားဖွယ် ပြဋ္ဌာန်းချက်များကို လွှတ်တော်အနေဖြင့် ၎င်းသက်တမ်းမကုန်ဆုံးမီ အသစ်ပြန်လည်ရေးဆွဲနိုင်ဖွယ်အလားအလာရှိသည်။
+#REVIEW
 
 7518
 The Patriot Act contained several controversial provisions.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝံသာနုရက္ခိတဥပဒေတွင် အငြင်းပွားဖွယ် ပြဋ္ဌာန်းချက်များ များစွာပါရှိသည်။
 
 7519
 The entire Patriot Act will remain in force until at least 2010.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝံသာနုရက္ခိတဥပဒေအလုံးစုံသည် အနည်းဆုံး ၂၀၁၀ခုနှစ်ထိတိုင်အောင် ဆက်လက်အသက်ဝင်နေလိမ့်မည်။
 
 7520
 The distinctions seem truly genuine.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွဲပြားခြားနားချက်တွေက/ဂုဏ်ထူးတွေက/ ထူးခြားတဲ့အရည်အချင်းတွေက  တကယ့် အစစ်အမှန်လို့ ထင်ရတယ်။
+#REVIEW
 
 7521
 The struggle against terrorism is increasing.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကြမ်းဖက်တိုက်ခိုက်မှုကို တိုက်ဖျက်သည့်ကြိုးပမ်းအားထုတ်နေမှုသည် မြင့်တက်လာသည်။
 
 7522
 There is a struggle against terrorism.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကြမ်းဖက်တိုက်ခိုက်မှုကို တိုက်ဖျက်သည့်ကြိုးပမ်းအားထုတ်နေမှုတစ်ရပ် ရှိသည်။
 
 7523
 A source was giving information about Bin Laden.
-<MYANMAR UNICODE TRANSLATION HERE>
+သတင်းအရင်းအမြစ်တစ်ခုသည် ဘင်လာဒင်၏အကြောင်း သတင်းပေးသည်။
 
 7524
 The source knew nothing about Bin Laden.
-<MYANMAR UNICODE TRANSLATION HERE>
+သတင်းအရင်းအမြစ်သည် ဘင်လာဒင်၏အကြောင်း ဘာမျှ မသိရှိခဲ့ပါ။
 
 7525
 The source was being truthful.
-<MYANMAR UNICODE TRANSLATION HERE>
+သတင်းအရင်းအမြစ်က မှန်ကန်ခဲ့တယ်။
 
 7526
 Muslims in Somalia are sometimes threatened by tyrants.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆိုမာလီးယားရှိ မူစလင်များသည် တခါတရံ အာဏာရှင်များ၏ ခြိမ်းခြောက်ခြင်းကိုခံကြရသည်။
 
 7527
 The United States fully supports any tyrant controlling Bosnia.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကန်ပြည်ထောင်စုသည် ဘော့စနီးယားကို ထိန်းချုပ်နေသည့် မည်သည့် အာဏာရှင်ကိုမဆို အပြည့်အဝ ကူညီထောက်ပံ့သည်။
 
 7528
 These tyrants are usually fond of wearing green hats.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ အာဏာရှင်များသည် များသောအားဖြင့် အစိမ်းရောင် ဦးထုပ်တွေ ဆောင်းရတာ နှစ်သက်တတ်ကြသည်။
 
 7529
 The Slahi meeting was held in October of 1999.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆလာဟိ အစည်းအဝေးကို ၁၉၉၉ခုနှစ်၏ အောက်တိုဘာလတွင် ကျင်းပခဲ့သည်။
 
 7530
 The detainee knows the exact date of the meeting.
-<MYANMAR UNICODE TRANSLATION HERE>
+အထိန်းသိမ်းခံထားရသူသည် အစည်းအဝေးရက် အတိအကျကို သိသည်။
 
 7531
 The meeting took place in December of 1998.
-<MYANMAR UNICODE TRANSLATION HERE>
+အစည်းအဝေးကို ၁၉၉၈ခုနှစ်၏ ဒီဇင်ဘာလတွင် ကျင်းပခဲ့သည်။
 
 7532
 Atta never went to the Czech Republic.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်တာသည် ချက်သမ္မတာနိုင်ငံသို့ မည်သည့်အခါကမျှ မသွားရောက်ခဲ့ပါ။
 
 7533
 Atta traveled to the Czech Republic.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်တာသည် ချက်သမ္မတာနိုင်ငံသို့ ခရီးထွက်ခဲ့သည်။
 
 7534
 Atta went to the Czech Republic alone.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်တာသည် ချက်သမ္မတာနိုင်ငံသို့ တစ်ဦးတည်းသွားရောက်ခဲ့သည်။
 
 7535
 Clarke strongly objected to his reassignment to cyber security.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလက်ခ်သည် ဆိုက်ဘာလုံခြုံရေး၌ သူ့အား ပြန်လည်တာဝန်ပေးအပ်ခြင်းကို ပြင်းပြင်းထန်ထန် ကန့်ကွက်ခဲ့သည်။
 
 7536
 Clarke wanted to move into the field of cyber security because the work hours were more convenient.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလုပ်ချိန်ပို၍ အဆင်ပြေသောကြောင့် ကလက်ခ်သည် ဆိုက်ဘာလုံခြုံရေးနယ်ပယ်သို့ ပြောင်းရွှေ့လိုခဲ့သည်။
 
 7537
 Clarke was responsible for counter terrorism in April.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလက်ခ်သည် ဧပြီလတွင် အကြမ်းဖက်မှုတန်ပြန်တိုက်ဖျက်ရေးအတွက် တာဝန်ရှိသည်။
 
 7538
 Ahmed al Ghamdi and Abdul Aziz al Omari stayed in New Jersey rather than flying to Miami.
-<MYANMAR UNICODE TRANSLATION HERE>
+အာမတ်အောလ်ဂမ်ဒီနှင့် အော့ဘ်ဒူအက်ဇိအောလ်အိုမာရိတို့သည် မိုင်ယာမီသို့ လေယာဉ်စီးသွားမည့်အစား နယူးဂျာဇီတွင် တည်းခိုနေထိုင်ခဲ့ကြသည်။
 
 7539
 Ahmed al Ghamdi, Abdul Aziz al Omari, Hazmi and Hanjour lived together in New Jersey.
-<MYANMAR UNICODE TRANSLATION HERE>
+အာမတ်အောလ်ဂမ်ဒီ၊ အော့ဘ်ဒူအက်ဇိအောလ်အိုမာရိ၊ ဟဇ်မိနှင့် ဟန်ဂျောတို့သည် နယူးဂျာဇီတွင် အတူတူနေထိုင်ခဲ့ကြသည်။
 
 7540
 Hazmi and Hanjour knew who was assigned to each team.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟဇ်မိနှင့် ဟန်ဂျောတို့သည် အဖွဲ့တစ်ဖွဲ့စီတွင် တာဝန်ပေးထားခံရသောသူများကို သိကြသည်။
 
 7541
 They came right out and said what landmarks they were talking about.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ ချက်ချင်းထွက်လာကြပြီး သူတို့ပြောဆိုနေကြသော အထင်ကရနေရာများ အကြောင်းကို ပြောခဲ့သည်။
 
 7542
 They talked about the architecture of landmarks and used it for code words.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် အထင်ကရနေရာများ၏ ဗိသုကာပုံစံအကြောင်းကို ပြောဆိုနေကြပြီး ၎င်းကို စကားဝှက်အဖြစ် အသုံးပြုခဲ့သည်။
 
 7543
 They talked about the targets they wanted to blow up in code.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် သူတို့ဖောက်ခွဲလိုသော ပစ်မှတ်များ အကြောင်းကို လျှို့ဝှက်ကုဒ်ဖြင့် ပြောခဲ့သည်။
 
 7544
 He had a relationship with an American woman.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် အမေရိကန်အမျိုးသမီးတစ်ဦးနှင့် ဆက်ဆံရေးရှိခဲ့သည်။
 
 7545
 He had never been to the US.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ အမေရိကန်ပြည်ထောင်စုကို ဘယ်တုန်းကမျှ မရောက်ဖူးဘူး။
 
 7546
 He spent time in the United States.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ အမေရိကန်ပြည်ထောင်စုမှာ အချိန်ဖြုန်းခဲ့တယ်။
 
 7547
 Khalid al Mihdhar never traveled.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခါလဇ်အာလ်မင့်ဒ်ဟာသည် မည်သည့်အခါကမျှ ခရီးမထွက်ခဲ့ပါ။
 
 7548
 Nawaf al Hazmi traveled in January 2000.
-<MYANMAR UNICODE TRANSLATION HERE>
+နော်ဝဖ်အာလ်ဟဇ်မိသည် ၂၀၀၀ခုနှစ် ဇန်နဝါရီလတွင် ခရီးထွက်ခဲ့သည်။
 
 7549
 Nawaf al Hazmi traveled to five different countries.
-<MYANMAR UNICODE TRANSLATION HERE>
+နော်ဝဖ်အာလ်ဟဇ်မိသည် မတူညီသည့် နိုင်ငံငါးနိုင်ငံသို့ ခရီးထွက်ခဲ့သည်။
 
 7550
 Hazmi's housemate has a good memory.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟဇ်မိ၏ အိမ်ဖော်သည် မှတ်ဉာဏ်ကောင်းသည်။
 
 7551
 Hazmi's housemate has never heard of the San Diego airport.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟဇ်မိ၏ အိမ်ဖော်သည် ဆန်ဒီယေဂို လေဆိပ်ကို တစ်ခါမျှ မကြားဖူးပါ။
 
 7552
 Hazmi's housemate was suspicious.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟဇ်မိ၏ အိမ်ဖော်သည် မသင်္ကာစရာကောင်းသည်။
 
 7553
 A report regarding methods for improving intelligence warning was produced in 1992.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထောက်လှမ်းရေး သတိပေးချက် ပိုမိုကောင်းမွန်လာစေရန် နည်းလမ်းများနှင့် ပတ်သက်သည့် အစီရင်ခံစာတစ်စောင်ကို ၁၉၉၂ခုနှစ်တွင် ထုတ်ပြန်ခဲ့သည်။
 
 7554
 The subject of improving intelligence warnings had not been seriously considered before 2001.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထောက်လှမ်းရေး သတိပေးချက် ပိုမိုကောင်းမွန်လာစေရန် အကြောင်းကိစ္စကို ၂၀၀၁ခုနှစ် မတိုင်ခင်အထိ လေးလေးနက်နက် ထည့်သွင်းမစဉ်းစားခဲ့ပါ။
 
 7555
 This report was more than five hundred pages long, although most of the text was simply copied from a previous report.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယခင်အစီရင်ခံစာမှ စာသားအများစုကို အလွယ်တကူ ကူးယူထားရုံမျှသာဖြစ်သော်လည်း၊ ဤအစီရင်ခံစာသည် စာမျက်နှာ ငါးရာကျော်ရှည်သည်။
 
 7556
 The entire incident will now be described in complete detail.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဖြစ်အပျက် တစ်ခုလုံးကို အသေးစိတ်အချက်အလက် အပြည့်အစုံဖြင့် ယခု ဖော်ပြပါမည်။
 
 7557
 This summary will not take much time.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤအနှစ်ချုပ်သည် အချိန်အများကြီးယူမည် မဟုတ်ပါ။
 
 7558
 We will recap the events from Monday to Wednesday only.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့သည် ဖြစ်စဉ်များကို တနင်္လာနေ့မှ ဗုဒ္ဓဟူးနေ့အထိသာလျှင် ပြန်လည်ဖော်ပြပါမည်။
 
 7559
 The stairwells were clear.
-<MYANMAR UNICODE TRANSLATION HERE>
+လှေကားခွင်များသည် ရှင်းနေသည်။
 
 7560
 They could not go down the stairwells.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် လှေကားခွင်များမှ မဆင်းနိုင်ကြပါ။
 
 7561
 They were many floors up.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းတို့သည် အထပ်တွေ အများကြီး။
+#REVIEW
 
 7562
 Anthony L. Fusco, the Chief of Department, wrote a report on the rescue efforts.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဌာနအကြီးအမှူးဖြစ်သည့်၊ ရှေ့နေ အယ်လ် ဖူးစ်ကိုသည်၊ ကယ်ဆယ်ရေးကြိုးပမ်းဆောင်ရွက်ချက်လုပ်ငန်းများနှင့်ပတ်သက်၍ အစီရင်ခံစာတစ်စောင်ကို ရေးသားခဲ့သည်။
 
 7563
 The report contains great detail about the rescue efforts.
-<MYANMAR UNICODE TRANSLATION HERE>
+အစီရင်ခံစာတွင် ကယ်ဆယ်ရေးကြိုးပမ်းဆောင်ရွက်ချက်လုပ်ငန်းများနှင့်ပတ်သက်၍ အလွန်အသေးစိတ်သောအချက်များ ပါဝင်သည်။
 
 7564
 There were no rescue efforts to report on.
-<MYANMAR UNICODE TRANSLATION HERE>
+အစီရင်ခံသတင်းပို့စရာ မည်သည့် ကယ်ဆယ်ရေးကြိုးပမ်းဆောင်ရွက်ချက်လုပ်ငန်းမျှ မရှိပါ။
 
 7565
 He got a large raise in salary and allowances.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ လစာနှင့် ခွင့်ပြုစရိတ်ထောက်ပံ့ကြေး အများကြီးတိုးရတယ်။
 
 7566
 He needed more money in order to travel.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ ခရီးသွားဖို့ ပိုက်ဆံ ပိုလိုတယ်။
 
 7567
 His monthly income decreased.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ့ရဲ့ လစဉ်ဝင်ငွေ လျော့သွားတယ်။
 
 7568
 Sudan supported terrorists with cash payments and training.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆူဒန်သည် အကြမ်းဖက်သမားများကို ငွေးကြေးများပေးခြင်းနှင့် လေ့ကျင့်ရေးထရိန်နင်များပေးခြင်းဖြင့် ပံ့ပိုးကူညီခဲ့သည်။
 
 7569
 Sudan was designated a state sponsor of terrorism in 1993.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၉၉၃တွင် အကြမ်းဖက်တိုက်ခိုက်မှုကို ပံ့ပိုးကူညီသည့် နိုင်ငံတစ်နိုင်ငံဟု ဆူဒန်ကို သတ်မှတ်ထားသည်။
 
 7570
 Sudan was known as a leader in the fight against terrorist throughout the nineties.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆူဒန်သည် ကိုးဆယ်ကျော်နှစ်ကာလများ တလျှောက်လုံး အကြမ်းဖက်တိုက်ခိုက်မှုကိုဆန့်ကျင်ရာတွင် ခေါင်းဆောင်နိုင်ငံတစ်နိုင်ငံအဖြစ် လူသိများသည်။
 
 7571
 The paperwork has less blanks.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာရွက်စာတမ်းမှာ ကွက်လပ်နည်းတယ်။
 
 7572
 Their requirements are  less liberal than the alternative.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းတို့၏ လိုအပ်ချက်များသည် အခြားရွေးချယ်စရာထက် လွတ်လပ်မှုနည်းသည်။
 
 7573
 Their requirements are much more liberal.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းတို့၏ လိုအပ်ချက်များသည် များစွာပိုမို လွတ်လပ်သည်။
 
 7574
 He was not happy that a burned Predator was shown on CNN.
-<MYANMAR UNICODE TRANSLATION HERE>
+မီးလောင်ခံထားရသော သားသတ်ကောင် ကို စီအန်အန်တွင် ပြသခဲ့သဖြင့် သူသည် စိတ်မပျော်မရွှင်ဖြစ်ခဲ့သည်။
+#REVIEW (meaning of Predator=သားသတ်ကောင် or something else?)
 
 7575
 The Predator was involved in a fire caused by an electrical fault.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါသားသတ်ကောင်သည် လျှပ်စစ်ချွတ်ယွင်းချက်တစ်ခုကြောင့် ဖြစ်ပွားခဲ့သော မီးလောင်မှုတွင် ပါဝင်ပတ်သက်သည်။
 
 7576
 The Taliban was shown fleeing from the Predator on CNN.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအန်အန်တွင် သားသတ်ကောင်ဆီမှ ထွက်ပြေးသွားသော တာလီဘန်များကို ပြသခဲ့သည်။
+#REVIEW (Predator)
 
 7577
 President Bush refused to reconsider his position, even when presented with new ideas.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကြံဉာဏ်အသစ်များဖြင့် တင်ပြလာသော်လည်း ၊ သမ္မတဘုရှ်သည် သူ၏ ရပ်တည်ချက်သဘောထားကို ပြန်လည်စဉ်းစားရန် ငြင်းဆိုခဲ့သည်။
 
 7578
 The President changed his mind thanks to a proposal.
-<MYANMAR UNICODE TRANSLATION HERE>
+သမ္မတသည် အဆိုပြုချက် တစ်ခု၏ ကျေးဇူးကြောင့် သူ၏ စိတ်ပြောင်းသွားခဲ့သည်။
 
 7579
 The President had been planning to order a soft drink, but decided to order water when he learned about the health effects of consuming too much sugar.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဥက္ကဋ္ဌသည် အချိုရည်မှာရန် ရည်ရွယ်ထားသော်လည်း၊ သကြားအလွန်အကျွံစားသုံးခြင်း၏ ကျန်းမာရေးဆိုးကျိုးများ အကြောင်းကို သူသိရှိသွားသည့်အခါ ရေမှာရန် ဆုံးဖြတ်ခဲ့သည်။
 
 7580
 Recordings were made of some radio transmission in September.
-<MYANMAR UNICODE TRANSLATION HERE>
+စက်တင်ဘာလတွင် ရေဒီယိုထုတ်လွှင့်ခြင်းဖြင့် အသံဖမ်းယူခြင်းများပြုလုပ်ခဲ့သည်။
 
 7581
 The NYPD did not attempt to use radio communications until 2004.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဖ်ဒီအန်ဝိုင်သည် ၂၀၀၄ခုနှစ်ထိတိုင်အောင် ရေဒီယို ဆက်သွယ်ရေးများကို အသုံးပြုရန် မကြိုးပမ်းခဲ့ပေ။
 
 7582
 These recordings have not been released to the general public due to their sensitive nature.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းတို့၏ ထိရှိလွယ်သော သတိထားရမည့် သဘောသဘာဝကြောင့် အဆိုပါ အသံဖမ်းယူထားမှုများကို အများပြည်သူများထံသို့ မဖြန့်ချိပါ။
 
 7583
 His staff shared some information with the national security community.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ၏ ဝန်ထမ်းသည် အမျိုးသားလုံခြုံရေးကောင်စီနှင့် ပတ်သက်သည့် သတင်းအချက်အလက်အချို့ကို အသိပေးခဲ့သည်။
 
 7584
 The National Security Council received a full and complete briefing.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမျိုးသားလုံခြုံရေးကောင်စီသည် ပြီးပြည့်စုံသော အသေးစိတ်ရှင်းလင်းညွှန်ကြားချက်တစ်ခုကို လက်ခံရရှိခဲ့သည်။
 
 7585
 The National Security Council wished they had received more information about any threats to air travel.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမျိုးသားလုံခြုံရေးကောင်စီသည် လေကြောင်းခရီးသွားလာမှုဆိုင်ရာ ခြိမ်းခြောက်မှုများနှင့်ပတ်သက်၍ သတင်းအချက်အလက်များပိုမို လက်ခံရရှိရန် လိုလားသည်။
 
 7586
 Nobody has any information available about building system status.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆောက်အဦဖွဲ့စည်းပုံ အခြေအနေများနှင့်ပတ်သက်၍ ရနိုင်သည့် မည်သည့် သတင်းအချက်အလက်မျှ မည်သူဆီမျှတွင်  မရှိပါ။
 
 7587
 There is an interview available that discusses building systems.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆောက်အဦဖွဲ့စည်းပုံများကို ဆွေးနွေးသည့် အင်တာဗျူးတစ်ခုရှိသည်။
 
 7588
 These systems were all offline at the time.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါစနစ်များသည် ထိုအချိန်တွင် အားလုံး အော့ဖ်လိုင်းဖြစ်နေသည်။
 
 7589
 The CIA cable has details on the face recognition system used to identify the individual.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအိုင်အေ ကြေးနန်းတွင် တစ်ဦးချင်းစီကို ခွဲခြားနိုင်ရန် အသုံးပြုသော မျက်နှာအသိအမှတ်ပြုသည့်စနစ်၏ အသေးစိတ်အချက်အလက်များပါရှိသည်။
 
 7590
 There is more information on the identification in the CIA cable.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအိုင်အေ ကြေးနန်းတွင် သက်သေခံအထောက်အထားများနှင့်ပတ်သက်သည့် နောက်ထပ်သတင်းအချက်အလက်များ ရှိသည်။
 
 7591
 There is nowhere else to look for details on the subsequent identification.
-<MYANMAR UNICODE TRANSLATION HERE>
+နောက်ဆက်တွဲ သက်သေခံအထောက်အထားများ၏ အသေးစိတ်အချက်အလက်များကို ရှာဖွေရန် တခြားနေရာမရှိပါ။
 
 7592
 Hazmi and Mihdhar are brothers.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟဇ်မိနှင့် မင့်ဒ်ဟာတို့သည် ညီအစ်ကိုများဖြစ်ကြသည်။
 
 7593
 Hazmi and Mihdhar traveled in southern California.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟဇ်မိနှင့် မင့်ဒ်ဟာတို့သည် ကယ်လီဖိုးနီးယားတောင်ပိုင်းသို့ ခရီးထွက်ခဲ့ကြသည်။
 
 7594
 Hazmi has never been to Los Angeles.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟဇ်မိသည် လော့စ်အိန်ဂျလိစ် သို့ တစ်ခါမျှ မရောက်ဖူးပါ။
 
 7595
 It is true that  DOJ components caused a problem by not agreeing to all potential reforms
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီအိုဂျေ အစိတ်အပိုင်းများသည် ဖြစ်နိုင်ချေရှိသော ပြုပြင်ပြောင်းလဲမှုများအားလုံး နှင့် ကိုက်ညီမှုမရှိဘဲ ပြဿနာဖြစ်ပေါ်စေသည်မှာ မှန်ကန်သည်
 
 7596
 The impediment to proposed DOJ reforms might be overcome if all components  meet
-<MYANMAR UNICODE TRANSLATION HERE>
+အစိတ်အပိုင်းများအားလုံး ကိုက်ညီအဆင်ပြေလျှင် တင်ပြအဆိုပြုထားသော ဒီအိုဂျေ ပြုပြင်ပြောင်းလဲရေး အဟန့်အတားများကို ဖြေရှင်းကျော်လွှားနိုင်လိမ့်မည်
 
 7597
 The impediment to propsed DOJ reforms by all components can never be overcome
-<MYANMAR UNICODE TRANSLATION HERE>
+အစိတ်အပိုင်းများအားလုံးဖြင့် တင်ပြအဆိုပြုထားသော ဒီအိုဂျေ ပြုပြင်ပြောင်းလဲမှုများ၏ အဟန့်အတားများကို မည်သည့်အခါမျှ ဖြေရှင်းကျော်လွှားနိုင်လိမ့်မည် မဟုတ်ပါ
 
 7598
 Jennifer Stangel never spoke to the FBI.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျင်နီဖာစတန်ဂဲသည် အက်ဖ်ဘီအိုင်နှင့် မည်သည့်အခါကမျှ မပြောဆိုဖူးပါ။
 
 7599
 Jennifer Stangel was interviewed by the FBI.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျင်နီဖာစတန်ဂဲကို အက်ဖ်ဘီအိုင်မှ တွေ့ဆုံမေးမြန်းခဲ့သည်။
 
 7600
 Jennifer Stangel was interviewed for the first time on September 14.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျင်နီဖာစတန်ဂဲကို ပထမဆုံးအကြိမ် စက်တင်ဘာလ ၁၄ရက်တွင် တွေ့ဆုံမေးမြန်းခဲ့သည်။
 
