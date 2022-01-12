@@ -44,15 +44,15 @@ The museum is very far from the museum about Egypt.
 
 5912
 The Stampede had nothing to do with cattle.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိရစ္ဆာန်အုပ်လိုက် ကမူးရှူးထိုးထပြေးခြင်းသည် ကျွဲနွားတိရစ္ဆာန်များနှင့် ဘာမှမဆိုင်ပါ။
 
 5913
 The Stampede was intended to show cattle roping techniques.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိရစ္ဆာန်အုပ်လိုက် ကမူးရှူးထိုးထပြေးခြင်းသည် ကျွဲနွားတိရစ္ဆာန်များအား ကြိုးဖြင့်တုပ်နှောင်ခြင်း နည်းလမ်းများကို ပြသရန် ရည်ရွယ်သည်။
 
 5914
 The Stampede was intended to show the techniques of farm life.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိရစ္ဆာန်အုပ်လိုက် ကမူးရှူးထိုးထပြေးခြင်းသည် လယ်ယာဘဝ၏ နည်းနိဿယများကို ပြသရန် ရည်ရွယ်သည်။
 
 5915
 Nearly 100 thousand people come to check out the city every day.
@@ -154,15 +154,18 @@ The Perak Tong was not built by a Buddhist.
 
 5939
 Kodaly kerend is decorate with Classical gures and inlaid motifs.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကိုဒလေကရန်ကို ဂန္တဝင်ဆန်သော
+#REVIEW (don't know the meaning of "gures"/  'Classical gures' perhaps 'Classical figures')
 
 5940
 The Kodaly Kerend is decorated with several things, including gures and motifs.
 <MYANMAR UNICODE TRANSLATION HERE>
+#REVIEW 
 
 5941
 The Kodaly kerend is not decorated with gures and motifs.
 <MYANMAR UNICODE TRANSLATION HERE>
+#REVIEW 
 
 5942
 National unity doesn't matter at all.
@@ -286,7 +289,7 @@ There is a market called Mercat de la Concepcie.
 
 5972
 If you go to the museum, you can hear the Watergate tapes when you do the audiotour.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား ပြတိုက်ကိုသွားရင်၊ အသံလမ်းညွှန်ချက်နဲ့ ခင်ဗျား လေ့လာလည်ပတ်မယ်ဆိုရင် ဝေါတဂိတ်တိပ်ကို ခင်ဗျား နားထောင်နိုင်တယ်။
 
 5973
 The watergate tapes have never been heard by the public.
@@ -306,7 +309,7 @@ The theater is on the north side.
 
 5977
 The theater is towards the south side.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြဇာတ်ရုံသည် တောင်ဘက်ဆီသို့ ဦးတည်နေသည်။
 
 5978
 The building had no basement.
