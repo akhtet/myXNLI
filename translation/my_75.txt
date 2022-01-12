@@ -32,7 +32,7 @@ KSM had originally wanted to use a suicide operative, but Bin Ladin changed thei
 
 7409
 He had plenty of free time to take several long vacations while working on these projects.
-ဤ ပရောဂျက်/စီမံကိန်း များကို လုပ်ဆောင်နေစဉ်အတွင်း သူသည် အားလပ်ရက်ရှည်ယူရန် အားလပ်ချိန်များစွာရှိခဲ့သည်။
+ဤ စီမံကိန်း များကို လုပ်ဆောင်နေစဉ်အတွင်း သူသည် အားလပ်ရက်ရှည်ယူရန် အားလပ်ချိန်များစွာရှိခဲ့သည်။
 
 7410
 Placing new officials in office and working on a defense policy were time consuming projects.
@@ -40,7 +40,7 @@ Placing new officials in office and working on a defense policy were time consum
 
 7411
 The final defense policy document was over five hundred pages long.
-နောက်ဆုံး ကာကွယ်ရေး ပေါ်လစီ/မူဝါဒ စာတမ်းသည် စာမျက်နှာ ငါးရာကျော်ရှည်လျားသည်။
+နောက်ဆုံး ကာကွယ်ရေး မူဝါဒ စာတမ်းသည် စာမျက်နှာ ငါးရာကျော်ရှည်လျားသည်။
 
 7412
 NYPD helicopters were using the SOD channel.
@@ -68,11 +68,11 @@ There were civilians who were unable to escape from the upper floors.
 
 7418
 Civilian interview 14 was filed at the very end of April.
-ပြည်သူ့ အင်တာဗျူး ၁၄/ ပြည်သူနှင့်အမေးအဖြေ ၁၄ ကို ဧပြီလကုန်တွင် တင်ပြခဲ့သည်။
+ပြည်သူ့ အင်တာဗျူး ၁၄  ကို ဧပြီလကုန်တွင် တင်ပြခဲ့သည်။
 
 7419
 There are aids to the evacuation on September 11 in the section called Civilian Interview 14).
-ပြည်သူနှင့်အမေးအဖြေ ၁၄ ဟုဆိုသော ကဏ္ဍတွင် စက်တင်ဘာလ ၁၁ ရက်တွင် ဘေးလွတ်ရာသို့ကယ်ဆယ်ရွေ့ပြောင်းရာ၌ အကူအညီများရှိသည်ဟု ဆိုသည်။
+ပြည်သူနှင့်အမေးအဖြေ ၁၄ ဟုဆိုသော ကဏ္ဍတွင် စက်တင်ဘာလ ၁၁ ရက်တွင် ဘေးလွတ်ရာသို့ကယ်ဆယ်ရွေ့ပြောင်းရာ၌ အကူအညီများရှိသည်ဟု ဆိုသည်)။
 
 7420
 There are no aids available with regards to the September 11 evacuation.
@@ -104,7 +104,7 @@ There are many more knowledgeable people who have not been interviewed.
 
 7427
 Congress has never had oversight for either intelligence or counterterrorism.
-လွှတ်တော်သည် ထောက်လှမ်းရေး သို့မဟုတ် အကြမ်းဖက်မှုတိုက်ဖျက်ရေးကိုလည်း မည်သည့််အခါကမျှ ကြီးကြပ်ဆောင်ရွက်မှုမရှိခဲ့ပါ။
+လွှတ်တော်သည် ထောက်လှမ်းရေး သို့မဟုတ် အကြမ်းဖက်မှုတိုက်ဖျက်ရေးကိုလည်း မည်သည့်အခါကမျှ ကြီးကြပ်ဆောင်ရွက်မှုမရှိခဲ့ပါ။
 
 7428
 Congress has oversight for counterterrorism.
@@ -140,7 +140,7 @@ The security requirements that are currently in use cause information to be over
 
 7436
 Las Vegas has a reputation for welcoming tourists.
-လာစ်ဗီးဂတ်စ်သည် တိုးရစ်/ ကမ္ဘာလှည့်ခရီးသည်များကို ကြိုဆိုသည့်နေရာတွင် နာမည်ကောင်းရှိသည်။
+လာစ်ဗီးဂတ်စ်သည် ကမ္ဘာလှည့်ခရီးသည်များကို ကြိုဆိုသည့်နေရာတွင် နာမည်ကောင်းရှိသည်။
 
 7437
 Las Vegas is known for not liking tourists.
@@ -164,11 +164,11 @@ Ramzi Yousef was also indicted.
 
 7442
 There was an NYPD interview 12.
-အန်ဝိုင်ပီဒီ အင်တာဗျူး ၁၂ တခု ရှိခဲ့သည်။
+အန်ဝိုင်ပီဒီ အင်တာဗျူး ၁၂ တစ်ခု ရှိခဲ့သည်။
 
 7443
 There was an interview with the Chief of the NYPD.
-အန်ဝိုင်ပီဒီ၏ အကြီးအကဲတဦးနှင့် အင်တာဗျူး တခုလုပ်ခဲ့သည်။
+အန်ဝိုင်ပီဒီ၏ အကြီးအကဲတစ်ဦးနှင့် အင်တာဗျူး တစ်ခုလုပ်ခဲ့သည်။
 
 7444
 There was no NYPD interview.
@@ -180,7 +180,7 @@ The Trade Center was hit by a train.
 
 7446
 The Trade Center was hit.
-သည်ထရိတ်စင်တာ/ ကုန်သွယ်မှုဗဟိုဌာနကို ထိမှန်ခဲ့သည်။
+ကုန်သွယ်မှုဗဟိုဌာနကို ထိမှန်ခဲ့သည်။
 
 7447
 The Trade Center was not hit.
@@ -232,7 +232,7 @@ More than two dozen people were eventually involved in manning the command post.
 
 7459
 The Mayor immediately evacuated the state on the recommendation of the OEM director.
-မြို့တော်ဝန်သည် အိုအီးအမ် ဒါရိုက်တာ/ညွှန်ကြားရေးမှူး၏ ထောက်ခံချက်ဖြင့် ပြည်နယ်ကို ဘေးကင်းရာသို့ ချက်ချင်း ရွေ့ပြောင်းခဲ့သည်။
+မြို့တော်ဝန်သည် အိုအီးအမ် ညွှန်ကြားရေးမှူး၏ ထောက်ခံချက်ဖြင့် ပြည်နယ်ကို ဘေးကင်းရာသို့ ချက်ချင်း ရွေ့ပြောင်းခဲ့သည်။
 
 7460
 One firefighter felt that this tower could fall.
@@ -272,7 +272,7 @@ There was hard evidence of Bin Laden directing the attacks.
 
 7469
 Bin Ladin and al Qaeda were totally responsible for the terrorism.
-ဘင်လာဒင်နှင့် အယ်ကိုင်ဒါတို့သည် အကြမ်းဖက်တိုက်ခိုက်မှု အတွက် အပြည့်အဝ တာဝန်ရှိသည်။
+ဘင်လာဒင်နှင့် အယ်လ်ကိုင်ဒါတို့သည် အကြမ်းဖက်တိုက်ခိုက်မှု အတွက် အပြည့်အဝ တာဝန်ရှိသည်။
 
 7470
 It was the first time the government had faced this type of terrorism.
@@ -332,11 +332,11 @@ The man was on the aircraft when he died.
 
 7484
 Although no one realized it, KSM was always connected with al Qaeda.
-မည်သူမျှမသိရှိခဲ့ကြသော်လည်း ကေအက်စ်အမ် သည် အယ်ကိုင်ဒါနှင့် အမြဲအဆက်အသွယ်ရှိခဲ့သည်။
+မည်သူမျှမသိရှိခဲ့ကြသော်လည်း ကေအက်စ်အမ် သည် အယ်လ်ကိုင်ဒါနှင့် အမြဲအဆက်အသွယ်ရှိခဲ့သည်။
 
 7485
 Everyone always equated KSM with al Qaeda.
-လူတိုင်းသည် ကေအက်စ်အမ် နှင့် အယ်ကိုင်ဒါကို အမြဲ တူသည်ဟုနှိုင်းယှဉ်ခဲ့ကြသည်။
+လူတိုင်းသည် ကေအက်စ်အမ် နှင့် အယ်လ်ကိုင်ဒါကို အမြဲ တူသည်ဟုနှိုင်းယှဉ်ခဲ့ကြသည်။
 
 7486
 KSM was never thought to be connected with al Qaeda before 9/11.
@@ -356,11 +356,11 @@ The South Tower did not collapse.
 
 7490
 The Taliban was a close ally with al Qaeda.
-တာလီဘန်တို့သည် အယ်ကိုင်ဒါနှင့် ရင်းနှီးသော မဟာမိတ်အဖွဲ့တခု ဖြစ်ခဲ့သည်။
+တာလီဘန်တို့သည် အယ်လ်ကိုင်ဒါနှင့် ရင်းနှီးသော မဟာမိတ်အဖွဲ့တစ်ခု ဖြစ်ခဲ့သည်။
 
 7491
 The Taliban was not against al Qaeda.
-တာလီဘန်တို့သည် အယ်ကိုင်ဒါကို ဆန့်ကျင်တာမဟုတ်ပါ။
+တာလီဘန်တို့သည် အယ်လ်ကိုင်ဒါကို ဆန့်ကျင်တာမဟုတ်ပါ။
 
 7492
 There was no focus on Pakistan or the Taliban.
@@ -392,9 +392,9 @@ Secretary Rumsfeld developed a military plan right away.
 
 7499
 A detainee was interrogated.
-အထိန်းသိမ်းခံထားရသူ တဦးကို စစ်ဆေးမေးမြန်းခဲ့သည်။
+အထိန်းသိမ်းခံထားရသူ တစ်ဦးကို စစ်ဆေးမေးမြန်းခဲ့သည်။
 
 7500
 No detainees were interrogated.
-မည်သည့် အထိန်းသိမ်းခံထားရသူတစုံတဦးမျှ စစ်ဆေးမေးမြန်းခြင်းမခံခဲ့ကြရပါ။
+မည်သည့် အထိန်းသိမ်းခံထားရသူတစ်စုံတစ်ဦးမျှ စစ်ဆေးမေးမြန်းခြင်းမခံခဲ့ကြရပါ။
 
