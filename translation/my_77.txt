@@ -28,11 +28,11 @@ During his interrogation KSM mostly discussed his thoughts on water polo.
 
 7608
 KSM was interrogated in 2003.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကေအက်စ်အမ်ကို ၂၀၀၃ခုနှစ်တွင် စစ်ဆေးမေးမြန်းခဲ့သည်။
 
 7609
 KSM was killed in 2002 while resisting capture.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကေအက်စ်အမ်သည် ဖမ်းဆီးခြင်းကို ခုခံရင်း ၂၀၀၂ခုနှစ်တွင် အသတ်ခံလိုက်ရသည်။ 
 
 7610
 More than half a billion people cross the border at entry points.
@@ -44,7 +44,7 @@ More than half a billion people go from Mexico to the US.
 
 7612
 Only 20,000 people cross the border each year.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်နှစ်လျှင် လူပေါင်း ၂၀၀၀၀သာလျှင် နယ်စပ်ဖြတ်ကျော်သည်။
 
 7613
 The agencies conducted their meetings in a different location every week.
@@ -96,11 +96,11 @@ The government might be organized into numerous small cells so as to avoid detec
 
 7625
 All of the locations were in Los Angeles.
-<MYANMAR UNICODE TRANSLATION HERE>
+တည်နေရာတွေအားလုံးက လော့စ်အိန်ဂျလိစ်မှာ ရှိတာ။
 
 7626
 There were several relevant locations near Atlanta.
-<MYANMAR UNICODE TRANSLATION HERE>
+အတ္တလန်တာ အနီးမှာ သင့်တော်တဲ့ နေရာတွေအများကြီးရှိတယ်။
 
 7627
 These locations each housed a different kind of restaurant.
@@ -116,11 +116,11 @@ Nothing further is know about the hotel arrangements.
 
 7630
 Three different hotel rooms were booked for the event.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခမ်းအနားအတွက် အမျိုးမျိုးသော ဟိုတယ်အခန်း သုံးခန်းကို ကြိုတင်စရင်းပေးထားသည်။
 
 7631
 The CIA never said anything to the White House.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအိုင်အေသည် အိမ်ဖြူတော်ကို မည်သည့်အရာမျှမပြောကြားခဲ့ပါ။
 
 7632
 The CIA told the White House they'd concluded there was no threat.
@@ -128,7 +128,7 @@ The CIA told the White House they'd concluded there was no threat.
 
 7633
 The CIA told the White House what they had discovered.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအိုင်အေသည် အိမ်ဖြူတော်ကို ၎င်းတို့ရှာဖွေတွေ့ရှိထားသည်များကို ပြောကြားခဲ့သည်။
 
 7634
 The President was very pleased with the General's performance.
@@ -276,7 +276,7 @@ The threat was coming from domestic political radicals.
 
 7670
 New Jersey as selected as one place for the people to stay.
-<MYANMAR UNICODE TRANSLATION HERE>
+နယူးဂျာဇီကို လူတွေနေထိုင်ရန်အတွက် နေရာတစ်ခုအဖြစ် ရွေးချယ်ထားသည်။
 
 7671
 New Jersey was chosen because the community in Connecticut was too expensive.
