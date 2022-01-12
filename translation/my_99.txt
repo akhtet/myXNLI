@@ -56,15 +56,15 @@ The teacher tried to explain in audience-appropriate terms.
 
 9815
 Mr Levitt was childless.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ္စတာ လတ်ဗစ်တ် မှာ ကလေးမရှိဘူး။
 
 9816
 Mr. Levitt had a daughter.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ္စတာ လတ်ဗစ်တ် မှာ သမီးတစ်ယောက်ရှိတယ်။
 
 9817
 Mr. Levitt's daughter was 17.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ္စတာ လတ်ဗစ်တ် ရဲ့ သမီး က ၁၇ နှစ် ရှိပြီ။
 
 9818
 The Greek word for competition has come to mean pain in English because of the agony that took place during the competitions.
@@ -92,7 +92,7 @@ The flashes of wisdom should always be considered.
 
 9824
 A reporter for The Economist was in Tokyo and noticed a particular T-shirt.
-<MYANMAR UNICODE TRANSLATION HERE>
+သည်အီကိုနိုးမစ် မှ သတင်းထောက်တစ်ယောက်သည် တိုကျိုတွင်ရှိနေပြီး ထူးထူးခြားခြားတီရှပ်တထည်ကို သတိပြုမိခဲ့သည်။
 
 9825
 The T-shirt that said  O D on Bourgeoisie Milk Boy Milk seemed out of place and confusing in Tokyo.
@@ -100,7 +100,7 @@ The T-shirt that said  O D on Bourgeoisie Milk Boy Milk seemed out of place and 
 
 9826
 The correspondent for The Economist in Tokyo couldn't read the T-shirt he saw.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိုကျိုရှိ သည်အီကိုနိုးမစ်မှ သတင်းထောက်သည် သူမြင်သည့် တီရှပ်မှစာကို မဖတ်တက်ပါ။
 
 9827
 The subjective satisfactory is a person.
@@ -128,7 +128,7 @@ Polysemy is one problem that natural languages have.
 
 9833
 Honey can speak several accents.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟန်နီက လေယူလေသိမ်း အမျိုးမျိုးနဲ့ ပြောတတ်တယ်။
 
 9834
 Honey's treatment needs an explanation.
@@ -140,27 +140,27 @@ Honey's treatment needs no explanation.
 
 9836
 Jack Brooks is a plumber.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျက်ဘရွတ်ခ်စ်သည် ရေပိုက်ပြင်သမားတယောက်ဖြစ်သည်။
 
 9837
 Jack Brooks is a politician from Nebraska.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျက်ဘရွတ်ခ်စ်သည် နယ့်ဘရာ့စကာမှ နိုင်ငံရေးသမားတစ်ဦးဖြစ်သည်။
 
 9838
 Jack Brooks is a politician.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျက်ဘရွတ်ခ်စ်သည် နိုင်ငံရေးသမားတစ်ဦးဖြစ်သည်။
 
 9839
 Peter C. Newman and Pierre Berton are popular writers of Canadian history.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပီတာစီနယူးမန် နှင့် ပိဖ်ရာဘာတွန်တို့သည် ကနေဒါသမိုင်းတွင် ထင်ရှားသောနာမည်ကြီးစာရေးဆရာများဖြစ်ကြသည်။
 
 9840
 There have been exactly two books written on the history of Canada's North, and these were by popular writers Newman and Berton.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကနေဒါမြောက်ပိုင်းသမိုင်းကြောင်း ရေးသားထားတဲ့ စာအုပ်နှစ်အုပ်တိတိရှိတယ်၊ နာမည်ကြီးစာရေးဆရာတွေ နယူးမန်နဲ့ ဘာတွန်တို့ ရေးထားတာလေ။
 
 9841
 Though they wrote many popular modern songs, Peter C. Newman and Pierre Berton never wrote books about history.
-<MYANMAR UNICODE TRANSLATION HERE>
+နာမည်ကြီးထင်ရှားသော ခေတ်ပေါ်မော်ဒန်သီချင်းများစွာ ရေးသားခဲ့ကြသော်လည်း၊ ပီတာ စီ နယူးမန်နှင့် ပိဖ်ရာ ဘာတွန် တို့သည် သမိုင်းနှင့်ပတ်သက်သည့် စာအုပ်များကို တခါမျှ မရေးခဲ့ကြပါ။
 
 9842
 Hogwash is defined as that which is nonsensical and worthless.
@@ -176,15 +176,15 @@ The term Hogwash is formed because of the stench that comes from washing pigs.
 
 9845
 It took place in no time at all, you know.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချိန်မရွေးဖြစ်ပျက်ခဲ့တာ၊ မင်းသိလား။
 
 9846
 It was the quickest event I had ever experiences, you know.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါဟာ ငါတွေ့ကြုံခဲ့ရမျှထဲမှာ အမြန်ဆုံ အဖြစ်အပျက်ပဲ၊ မင်းသိလား။
 
 9847
 The event took ages to come to an end, you know.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဖြစ်အပျက်က အဆုံးသတ်ဖို့ နှစ်ပေါက်အောင်ကြာတယ်၊ သိလား။
 
 9848
 It is definitely not related to polytheism and monotheism.
@@ -200,7 +200,7 @@ It's the missing link between polytheism and monotheism.
 
 9851
 Because my secretary spoke no English, I had to write the letters for her to type.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့အတွင်းရေးမှူးက အင်္ဂလိပ်လို မပြောတော့၊ သူစာရိုက်ဖို့ စာတွေကိုငါရေးပေးရတယ်။
 
 9852
 My secretary does not speak English or French, but I do.
@@ -224,7 +224,7 @@ The King James Bible is made solely for a Christian audience.
 
 9857
 He doesn't try because he has no motivation.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ့မှာ လှုံဆော်မှုမရှိလို့ သူ မကြိုးစားဘူး။
 
 9858
 He has all of the worries in the world.
@@ -236,7 +236,7 @@ He is not worried because he doesn't try.
 
 9860
 Men only refers to males.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမျိုးသားများသည် အဖိုများကိုသာ ရည်ညွှန်းသည်။
 
 9861
 Women are included in the label of man now that feminism has progressed.
@@ -296,7 +296,7 @@ A dictionary requires only a specialist's skills.
 
 9875
 Gruyare makes the best cheese.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂရိရာတ်သည် အကောင်းဆုံး ဒိန်ခဲကို ပြုလုပ်သည်။
 
 9876
 Gruyare the cheese is nothing like the place.
@@ -308,31 +308,31 @@ You cannot separate Gruyare cheese from the place.
 
 9878
 Are you able to see that curious little beast?
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီလို ထူးထူးဆန်းဆန်း သားရဲတိရစ္ဆာန်ကောင်ငယ်လေးကို  မင်းမြင်နိုင်ပါ့မလား။
 
 9879
 Do you see that curious beast over there?
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟိုမှာ ထူးဆန်းတဲ့ သားရဲတိရစ္ဆာန် ကို မင်း မြင်လား။
 
 9880
 I cannot see that curious little beast.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲ့ဒီ ထူးထူးဆန်းဆန်း သားရဲတိရစ္ဆာန်ကောင်ငယ်လေးကို ကျွန်တော် မမြင်ရဘူး။
 
 9881
 I enjoy reading back issues.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် စာစောင်တွေ မှန်မမှန်ကိုပြန်လည်စစ်ဆေးဖတ်ရှုတာ သဘောကျတယ်။
 
 9882
 I enjoy reading back magazine issues.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် မဂ္ဂဇင်း စာစောင်တွေ မှန်မမှန်ကိုပြန်လည်စစ်ဆေးဖတ်ရှုတာ သဘောကျတယ်။
 
 9883
 I only read current issues.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် လက်ရှိစာစောင်တွေကိုပဲ ဖတ်တယ်။
 
 9884
 Jogging up and down.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြေးတက်ပြေးဆင်း။
 
 9885
 Sprinting up and down.
@@ -364,7 +364,7 @@ She gestured towards a bush that was somewhat depressing.
 
 9892
 That bush is less bushy than the other.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီချုံက တခြားချုံတွေလောက် ချုံမထူထပ်ဘူး။
 
 9893
 A king that sets up an order of succession is always accused of showing signs of weakness.
@@ -372,15 +372,15 @@ A king that sets up an order of succession is always accused of showing signs of
 
 9894
 A president has a vice-president, but a king does not have a vice-king.
-<MYANMAR UNICODE TRANSLATION HERE>
+သမ္မတတစ်ဦးတွင် ဒုသမ္မတတစ်ဦးရှိသော်လည်း၊ ဘုရင်တစ်ပါးမှာ ဒုတိယဘုရင်တစ်ပါးမရှိပါ။
 
 9895
 It is never obvious who will take over for a king in the event of his death, but it is obvious for a president.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘုရင်တစ်ပါးနတ်ရွာစံသွားလျှင် မည်သူ ထီးနန်းဆက်ခံမည်ကို မည်သည့်အခါမျှ သိသာထင်ရှားမှုမရှိပါ၊ သို့သော်လည်း သမ္မတတစ်ဦး အဖြစ်အတွက် သိသာထင်ရှားပါသည်။
 
 9896
 I was born in Iceland and grew up there, where there are no trains.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်က ရထားတွေမရှိတဲ့၊ ရေခဲပြင်ဒေသမှာမွေးပြီး အဲဒီဒေသမှာပဲ ကြီးပြင်းခဲ့တာပါ။
 
 9897
 In the South, train stations are referred to as the depot, and pronounced DEE-po.
@@ -388,13 +388,13 @@ In the South, train stations are referred to as the depot, and pronounced DEE-po
 
 9898
 There were miles of train tracks near my parent's home in the South.
-<MYANMAR UNICODE TRANSLATION HERE>
+တောင်ပိုင်းက ကျွန်တော်မိဘအိမ်နားမှာ မီးရထားသံလမ်းရှည်ကြီးတွေရှိတယ်။
 
 9899
 All words fit.
-<MYANMAR UNICODE TRANSLATION HERE>
+စကားလုံးအားလုံးအံဝင်ခွင်ကျအဆင်ပြေပါတယ်။
 
 9900
 Some words do not fit in the puzzle.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့စကားလုံးများသည် ပဟေဠိတွင် မကိုက်ညီပါ။
 
