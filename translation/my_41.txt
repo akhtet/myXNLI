@@ -1,400 +1,403 @@
 4001
 We are building the precursors necessary for a technology future.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့သည် နည်းပညာ အနာဂတ် တစ်ခု အတွက် လိုအပ်သော ရှေ့ပြေးနိမိတ်များကို တည်ဆောက်နေပါသည်။
 
 4002
 We build transistors, so our future will be run by AI.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့သည် ထရန်စစ္စတာများကို တည်ဆောက်ထားသောကြောင့် ၊ ကျွန်ုပ်တို့၏အနာဂတ်ကို အေအိုင် မှ လုပ်ဆောင်လိမ့်မည်။
 
 4003
 We want to prevent technology from succeeding.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့သည် နည်းပညာတွေကို အောင်မြင်ခြင်းမှ တားဆီးချင်ပါတယ်။
 
 4004
 At a maximum, only half of the genes can turn purple.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမြင့်ဆုံး တစ်ခု တွင် ၊ မျိုးဗီဇ တစ်ဝက်သာ ခရမ်းရောင်ကို ပြောင်းနိုင်သည်။
 
 4005
 It's possible for the genes to switch color.
-<MYANMAR UNICODE TRANSLATION HERE>
+မျိုးဗီဇများကို အရောင် ပြောင်းလဲရန်အတွက် ဖြစ်နိုင်ပါသည်။
 
 4006
 Sometimes the genes can turn blue too.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်ခါတစ်ရံတွင် မျိုးဗီဇများသည် အပြာရောင်လည်း ပြောင်းသွားနိုင်သည်။
 
 4007
 Mr. Yamins is great at math.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ္စတာ ယမင်းသည် သင်္ချာဘာသာရပ်တွင် ထူးချွန်သူဖြစ်သည်။
 
 4008
 Mr. Yamins's focus is algebraic geometry.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ္စတာ ယမင်း ၏ အာရုံစိုက်မှုသည် အက္ခရာသင်္ချာ ဂျီသြမေတြီ ဖြစ်သည်။
 
 4009
 Mr. Yamins's is a great artist, but a terrible mathematician.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ္စတာ ယမင်းသည် ကြီးကျယ်ခမ်းနားသော အနုပညာရှင် တစ်ဦး ဖြစ်သော်လည်း ၊ ဆိုးရွားသော သင်္ချာပညာရှင် တစ်ယောက် ဖြစ်သည်။
 
 4010
 I know they never travel near the boundary.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ နယ်နိမိတ်အနီး ဘယ်တော့မှ ခရီးမသွားဘူးဆိုတာ ကျွန်တော် သိပါတယ်။
 
 4011
 I want to know, are they often in England?
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် သိချင်တာက ၊ သူတို့တွေ အင်္ဂလန်မှာ မကြာခဏ နေတာလား။
 
 4012
 The speaker wanted clarification about how often they went near the boundary.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် နယ်နိမိတ်အနီးသို့ မကြာခဏသွားလေ့ရှိကြောင်း ဟောပြောသူက ရှင်းလင်းချက်ပေးလိုပါသည်။
 
 4013
 The biosphere changes a lot.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘိုင်အိုစပီးယားက အများကြီး ပြောင်းလဲပါတယ်။
 
 4014
 The biosphere changes according to the temperature.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘိုင်အိုစပီးယားသည် အပူချိန်အလိုက် ပြောင်းလဲသည်။
 
 4015
 The biosphere never changes.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘိုင်အိုစပီးယားက ဘယ်တော့မှ မပြောင်းလဲပါ။
 
 4016
 Regular crystals are a very high density information storage medium.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပုံမှန် ပုံဆောင်ခဲများသည် အလွန် မြင့်မားသော သိပ်သည်းဆ အချက်အလက် သိုလှောင်မှု ကြားခံ တစ်ခု ဖြစ်သည်။
 
 4017
 Regular crystals are not very useful for encoding information.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပုံမှန် ပုံဆောင်ခဲများသည် အချက်အလက်များကို လျှို့ဝှက်စာဖြင့်ရေးသားခြင်း အတွက် အလွန် အသုံးမဝင်ပါ။
 
 4018
 There are other kinds of crystals that are very useful for encoding geographic information using laser beams.
-<MYANMAR UNICODE TRANSLATION HERE>
+လေဆာ ရောင်ခြည်များကို အသုံးပြု၍ ပထဝီဝင် အချက်အလက်များကို လျှို့ဝှက်စာဖြင့်ရေးသားခြင်း အတွက် အလွန်အသုံးဝင်သော အခြားသော ပုံဆောင်ခဲ အမျိုးအစားများလည်း ရှိပါသည်။
 
 4019
 Preschoolers are naturally better at puzzle solving than at playing pretend games.
-<MYANMAR UNICODE TRANSLATION HERE>
+မူကြိုကလေးများသည် ဟန်ဆောင် ဂိမ်း ကစားခြင်းထက် ပဟေဠိ ဖြေရှင်းခြင်းတွင် သဘာဝအားဖြင့် ပိုမိုတော်ကြပါသည်။
 
 4020
 Preschoolers do not need as much help learning how to pretend.
-<MYANMAR UNICODE TRANSLATION HERE>
+မူကြိုကျောင်းများသည် ဘယ်လို ဟန်ဆောင်ရမည်ကို သင်ယူခြင်းကို များစွာ အကူအညီ မလိုအပ်ပါ။
 
 4021
 Preschoolers lack the necessary spatial modeling skills to master puzzles on their own.
-<MYANMAR UNICODE TRANSLATION HERE>
+မူကြိုကျောင်းများသည် သူတို့ ကိုယ်တိုင် ပဟေဠိများကို ကျွမ်းကျင်ရန် လိုအပ်သော နေရာများ၏ ပုံစံငယ်များဖြစ်သည့် ကျွမ်းကျင်မှုများ လိုအပ်ပါသည်။
 
 4022
 Espinosa resold these romances in France at a healthy profit.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်စပီနိုဆာသည် ထို အချစ်သီချင်းများကို ကောင်းမွန်သော အမြတ်ဖြင့် ပြင်သစ်တွင် ပြန်လည်ရောင်းချခဲ့သည်။
 
 4023
 Espinosa was interested in collecting romances.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်စပီနိုဆာသည် အချစ်သီချင်းများကို စုဆောင်းရန် စိတ်ဝင်စားခဲ့သည်။
 
 4024
 Esponosa died in 1900.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်စပီနိုဆာသည် ၁၉၀၀ တွင် ကွယ်လွန်ခဲ့သည်။
 
 4025
 All molecular devices are equally complex.
-<MYANMAR UNICODE TRANSLATION HERE>
+မော်လီကျူး ကိရိယာ အားလုံးသည် အညီအမျှ ရှုပ်ထွေးသည်။
 
 4026
 More complex molecular devices can arise under some conditions.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့သော အခြေအနေများတွင် ပိုမို ရှုပ်ထွေးသော မော်လီကျူး ကိရိယာများ ပေါ်ပေါက်နိုင်သည်။
 
 4027
 These molecular devices are mostly used to produce various poisons for protection.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထို မော်လီကျူး ပစ္စည်းများကို အကာအကွယ် အတွက် အဆိပ် အမျိုးမျိုး ထုတ်လုပ်ရန် အများဆုံး အသုံးပြုကြသည်။
 
 4028
 The algorithm cannot decide how to make a perfect sandwich without human judgement.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်လဂိုရီသမ်သည် လူသား၏ အဆုံးအဖြတ် မပါဘဲ ပြီးပြည့်စုံသော အသားညှပ်ပေါင်မုန့် တစ်ခုကို မည်သို့ ပြုလုပ်ရမည်ကို မဆုံးဖြတ်နိုင်ပါ။
 
 4029
 There is no tool that can completely solve this problem on its own.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ ပြဿနာကို ၎င်း ကိုယ်ပိုင်ဖြင့် လုံး၀ ဖြေရှင်းပေးနိုင်တဲ့ ကိရိယာ မရှိပါဘူး။
 
 4030
 These tools work flawlessly under any circumstances.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ ကိရိယာများသည် မည်သည့် အခြေအနေမျိုးတွင်မဆို အပြစ်ကင်းစင်စွာ အလုပ်လုပ်ပါသည်။
 
 4031
 When PP has a high concentration, it speeds up resynthesis.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပီပီတွင် အာရုံစူးစိုက်မှု မြင့်မားမှု တစ်ခု ရှိသောအခါ ၊ ထိုအရာသည် ပြန်လည်ပေါင်းစပ်မှုကို မြန်ဆန်စေသည်။
 
 4032
 When PP is high in concentration, it stops its own resynthesis.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပီပီသည် အာရုံစူးစိုက်မှု မြင့်မားသောအခါ ၊ ထိုအရာသည် ၎င်း၏ကိုယ်ပိုင် ပြန်လည်ပေါင်းစပ်မှုကို ရပ်တန့်စေသည်။
 
 4033
 When PP is more than 85% concentration, it usually inhibits its own resynthesis.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပီပီသည် ၈၅% ထက်ပိုသော အာရုံစူးစိုက်မှု ရှိသောအခါ ၊ ထိုအရာသည် ပုံမှန်အားဖြင့် ၎င်း၏ကိုယ်ပိုင် ပြန်လည်ပေါင်းစပ်ခြင်းကို တားဆီးသည်။
 
 4034
 Notes about this proposition were recorded in several additional documents.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤအဆိုပြုချက် နှင့်ပတ်သက်သော မှတ်စုများကို နောက်ထပ် စာရွက်စာတမ်း များစွာတွင် မှတ်တမ်းတင်ထားခဲ့သည်။
 
 4035
 Some people believed that all people are equal.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်ချို့ လူတွေက လူတွေအားလုံး တန်းတူလို့ ယုံကြည်ကြတယ်။
 
 4036
 This nation was founded on the belief that some people are inherently better than others.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ နိုင်ငံကို အချို့သော လူများသည် အခြားသူများထက် ပင်ကိုအားဖြင့် ပိုကောင်းသည်ဟု ယုံကြည်ချက်ဖြင့် တည်ထောင်ခဲ့သည်။
 
 4037
 Complex statements cannot always be simplified without loosing meaning.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှုပ်ထွေးသော ဖော်ပြချက်များသည် အဓိပ္ပါယ် မပျောက်ဆုံးဘဲ အမြဲတမ်း မရိုးရှင်းနိုင်ပါ။
 
 4038
 Wittgenstein rarely spoke more than one or two words, as he believed this was all that was required to communicate.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝစ်ဒ်ဂန်စတန်က ဤအရာ အားလုံးသည် ဆက်သွယ်ရန် လိုအပ်ခဲ့သည်ဟု သူယုံကြည်ခဲ့ သောကြောင့် ၊ ရှားရှားပါးပါး စကားလုံးတစ်လုံး သို့မဟုတ် နှစ်လုံးထက် ပိုပြောခဲသည်။
 
 4039
 Wittgenstein reminded people of this every time someone accused him of being long winded.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝစ်ဒ်ဂန်စတန်က သူ့ကို အကြာကြီး လှည့်စားနေတယ်လို့ တစ်စုံတစ်ယောက်က စွပ်စွဲတဲ့ အချိန်တိုင်း ဒီအကြောင်းကို လူတွေကို သတိပေးတယ်။
 
 4040
 I'm pretty sure I need to beat him for his failures.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ့ရဲ့ ကျရှုံးမှုတွေ အတွက် သူ့ကို အနိုင်ယူဖို့ ကျွန်တော် လိုအပ်တယ်ဆိုတာ ကျွန်တော် တော်တော်လေး သေချာပါတယ်။
 
 4041
 I'm wondering if he needs more appreciation from me.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် ကျွန်တော့်ဆီက ပိုပြီး လေးမြတ်မှု လိုအပ်မည်ဆိုလျှင် ကျွန်တော် အံ့ဩနေသည်။
 
 4042
 Should I be praising him more for his piano performance?
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ့ရဲ့ စန္ဒယား တီးခတ်မှု အတွက် သူ့ကို ကျွန်တော်က ပိုပြီး ချီးကျူးသင့်သလား။
 
 4043
 For redemption, individuals should turn to the law.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကတိအတိုင်းပြုလုပ်ခြင်း အတွက် ၊ လူတစ်ဦးချင်းစီသည် ဥပဒေဘက်သို့ လှည့်သင့်သည်။
 
 4044
 The law will redeem America.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဥပဒေက အမေရိကကို ရွေးလိမ့်မည်။
 
 4045
 The law will save the community and the nation.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဥပဒေက လူထု နဲ့ နိုင်ငံတော်ကို ကယ်တင်လိမ့်မည်။
 
 4046
 Other dimensions can be used to construct spin network theories.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခြား အတိုင်းအတာများကို လှည့်ပတ်ကွန်ရက်သီအိုရီများကို တည်ဆောက်ရန်အတွက် အသုံးပြုနိုင်သည်။
+#Review
+#Spin network သီအိုရီများ (or) လှည့်ပတ်ကွန်ယက် သီအိုရီများ
 
 4047
 Spin networks are very useful for data storage technologies.
-<MYANMAR UNICODE TRANSLATION HERE>
+Spin networksသည် အချက်အလက် သိုလှောင်မှု နည်းပညာများ အတွက် အလွန် အသုံးဝင်သည်။
+#Review
 
 4048
 Spin networks cannot be imagined in different dimensions.
-<MYANMAR UNICODE TRANSLATION HERE>
+#Review
 
 4049
 I do not want you to die!
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ခင်ဗျားကို မသေစေချင်ဘူး!
 
 4050
 I don't care if you die!
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားသေဆုံးလျှင် ကျွန်တော်ဂရုမစိုက်ဘူး!
 
 4051
 I'd be very upset if you died!
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားသေလျှင် ကျွန်တော် အရမ်း စိတ်မကောင်းဖြစ်လိမ့်မယ်!
 
 4052
 In 1787 a law was passed that stopped people from reclaiming any slaves that had made it to free lands.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၇၈၇ မှာ လွတ်လပ်သော ကုန်းမြေများဖြစ်အောင် ပြုလုပ်ခဲ့သော ကျေးကျွန်များကို လူတွေက ပြန်လည်ဖမ်းဆီးခြင်းမှ တားဆီးတဲ့ ဥပဒေ တစ်ခု ကို ပြဌာန်းခဲ့ပါတယ်။
 
 4053
 Part of the text of the constitution was written in 1787.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖွဲ့စည်းပုံအခြေခံဥပဒေပါ စာသား တစ်စိတ်တစ်ပိုင်းကို ၁၇၈၇ ခုနှစ်တွင် ရေးသားခဲ့သည်။
 
 4054
 The right to recover slaves from free territories was not a popular right.
-<MYANMAR UNICODE TRANSLATION HERE>
+လွတ်လပ်သော နယ်မြေများ မှ ကျွန်များကို ပြန်လည်ရယူပိုင်ခွင့်သည် လူကြိုက်များသော အခွင့်အရေး တစ်ရပ် မဟုတ်ခဲ့ပေ။
 
 4055
 Steve Harris refused to leave his house for any reason.
-<MYANMAR UNICODE TRANSLATION HERE>
+စတိဗ် ဟားရစ် သည် မည်သည့် အကြောင်းကြောင့်မဆို သူ၏ အိမ်မှ ထွက်ခွာရန် ငြင်းဆိုခဲ့သည်။
 
 4056
 Steve was a biologist from out of town.
-<MYANMAR UNICODE TRANSLATION HERE>
+စတိဗ်သည် မြို့ပြင်မှ ဇီဝဗေဒပညာရှင် တစ်ယောက် ဖြစ်ခဲ့သည်။
 
 4057
 Steve was visiting California to study a new sample.
-<MYANMAR UNICODE TRANSLATION HERE>
+စတိဗ်သည် နမူနာ အသစ် တစ်ခုကို လေ့လာ ရန် ကယ်လီဖိုးနီးယားသို့ လည်ပတ်ခဲ့သည်။
 
 4058
 California was performing public executions as late as 1875.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကယ်လီဖိုးနီးယားသည် ၁၈၇၅ ခုနှစ်နှောင်းပိုင်းတွင် လူထု ကွပ်မျက်မှုကို လုပ်ဆောင်ခဲ့သည်။
 
 4059
 He was acquitted of all wrong doing and sent on his way.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် ပြစ်မှု အားလုံးမှ လွတ်ငြိမ်းခွင့်ရခဲ့ ပြီး သူ၏ လမ်းကို စေလွှတ်ခဲ့သည်။
 
 4060
 He was hanged for sedition and horse thievery.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ့ကို ပုန်ကန်မှုနဲ့ မြင်းခိုးမှုတွေ အတွက် ကြိုးဆွဲချခံခဲ့ရတယ်။
 
 4061
 The sea was deep blue and smooth as glass.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပင်လယ်ကြီးသည် ဖန်သားပြင် ကဲ့သို့ နက်ပြာရောင် နှင့် ချောမွတ်နေသည်။
 
 4062
 The sea was filled with small fish that splashed against the boat.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပင်လယ်ကြီးသည် လှေပေါ်မှ ပြန့်ကျဲနေသော သေးငယ်သော ငါးလေးများနှင့် ပြည့်နှက်နေခဲ့သည်။
 
 4063
 The sea was green and appeared to bubble.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပင်လယ်ရေသည် စိမ်းလန်း ပြီး ဗလုံစီ ပေါ်ခဲ့သည်။
 
 4064
 By the 1870s all legal order had collapsed and the country was in complete anarchy.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၈၇၀ ခုနှစ်များတွင် တရားရေးဆိုင်ရာ အမိန့် အားလုံး ပြိုပျက်သွား ပြီးနောက် တိုင်းပြည်သည် လုံးဝ မင်းမဲ့စရိုက် ဖြစ်ခဲ့သည်။
 
 4065
 The 1860s were a tumultuous time.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၈၆၀ ခုနှစ်များသည် ရုန်းရင်းဆန်ခတ်ဖြစ်ခဲ့သော အချိန် တစ်ခု ဖြစ်ခဲ့သည်။
 
 4066
 The new legal order wished to expand labor rights.
-<MYANMAR UNICODE TRANSLATION HERE>
+တရားရေးဆိုင်ရာ အမိန့် အသစ်သည် အလုပ်သမား အခွင့်အရေးများကို တိုးချဲ့ပေးရန် ဆန္ဒရှိခဲ့သည်။
 
 4067
 Calabi-Yau spaces are compactified moduli.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကယ်လ်ဘီ-ယမ်း နေရာများသည် သေးငယ်သော မိုဒူလီများ ဖြစ်သည်။
 
 4068
 Calabi-Yau spaces are represented in scientific literature.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကယ်လ်ဘီ-ယမ်း နေရာများသည် သိပ္ပံ စာပေများကို ကိုယ်စားပြုသည်။
 
 4069
 Calabi-Yau spaces are spread out a ton.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကယ်လ်ဘီ-ယမ်း နေရာများသည် တစ်တန် ပြန့်နှံ့နေကြသည်။
 
 4070
 Children are incapable of sharing higher forms of thinking.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလေးများသည် မြင့်မားသော တွေးခေါ်မှု ပုံစံများကို မျှဝေနိုင်စွမ်း မရှိပေ။
 
 4071
 Fishing is one popular activity shared among many different cultures.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါးမျှားခြင်းသည် မတူညီသော ယဉ်ကျေးမှု များစွာ အကြားတွင် လူကြိုက်များသော အတူတကွပြုလုပ်ရသော လှုပ်ရှားမှု တစ်ခု ဖြစ်သည်။
 
 4072
 Sharing common activities is sometimes helpful for sharing higher forms of thinking.
-<MYANMAR UNICODE TRANSLATION HERE>
+အများနှင့်ဆိုင်သော လှုပ်ရှားမှုများကို မျှဝေခြင်းသည် မြင့်မားသော တွေးခေါ်မှု ပုံစံများကို မျှဝေရန် အတွက် တစ်ခါတစ်ရံ အထောက်အကူဖြစ်စေပါသည်။
 
 4073
 Most than one hundred officers served in each chapter.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခန်း တစ်ခုစီတွင် အရာရှိတစ်ရာကျော် တာဝန်ထမ်းဆောင်ခဲ့သည်။
 
 4074
 The chapters contained both common members and officers.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခန်းများတွင် သာမန် အဖွဲ့ဝင်များ နှင့် အရာရှိများ နှစ်ခုလုံး ပါ၀င်သည်။
 
 4075
 These units were responsible for converting native populations in Central America.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထို စာပိုဒ်ခွဲများက စင်ထရယ် အမေရိကတွင် တိုင်းရင်းသား လူဦးရေကို ပြောင်းလဲရန် အတွက် တာဝန်ရှိပါသည်။
 
 4076
 4 Utilitarians state that we are unequal because we feel pleasure and pain.
-<MYANMAR UNICODE TRANSLATION HERE>
+လက်တွေ့အသုံးကျမှုဝါဒကိုယုံကြည်သူ ၄ယောက်က ကျွန်ုပ်တို့သည် ပျော်ရွှင်မှု နှင့် နာကျင်မှုကို ခံစားရ သောကြောင့် ကျွန်ုပ်တို့သည် မမျှတ ဟု ဖော်ပြသည်။ 
+#Review
 
 4077
 Several Utilitarians assert that we are equal because we feel pain and pleasure.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့သည် နာကျင်မှု နှင့် ပျော်ရွှင်မှုကို ခံစားနေရ သောကြောင့် ကျွန်တော်တို့သည် သာတူညီမျှဖြစ်သည် ဆိုတာကို လက်တွေ့အသုံးကျမှုဝါဒကိုယုံကြည်သူ များစွာက အခိုင်အမာဆိုကြသည်။
 
 4078
 Some of the Utilitarians are women.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်ချို့သော လက်တွေ့အသုံးကျမှုဝါဒကိုယုံကြည်သူများသည် အမျိုးသမီးများ ဖြစ်ကြသည်။
 
 4079
 Children do not usually learn to communicate until the age of six.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလေးများသည် များသောအားဖြင့် အသက် ခြောက်နှစ် အထိ ဆက်သွယ်ပြောဆို ရန် သင်ယူလေ့မရှိကြပါ။
 
 4080
 Five year olds are concerned with what happens next.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါးနှစ်သားလေးတွေက နောက်ဆက်တွဲ ဘာဆက်ဖြစ်မလဲဆိုတာကို စိတ်ပူနေကြတယ်။
 
 4081
 Five year olds are generally considered poor conversationalists.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါးနှစ်သားလေးတွေကို ယေဘုယျအားဖြင့် ညံ့ဖျင်းသော စကားပြောဆိုသူများဟု ယူဆကြသည်။
 
 4082
 Convergent flow allows classification.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်ဗားဂျန့် ဖလိုးသည် အမျိုးအစားခွဲခြင်းကို ခွင့်ပြုသည်။
 
 4083
 Convergent flow is influenced by population.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်ဗားဂျန့် ဖလိုးကို လူဦးရေအားဖြင့် လွှမ်းမိုးထားသည်။
 
 4084
 Convergent flow prevents classification.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်ဗားဂျန့် ဖလိုးသည် အမျိုးအစားခွဲခြားခြင်းကို တားဆီးသည်။
 
 4085
 None of the neighborhoods had spiritual leaders who weren't priests.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရပ်ကွက်များတွင် ဘုန်းကြီး မဟုတ်သော ဝိညာဉ်ရေး ခေါင်းဆောင်များ မရှိခဲ့ပါ။
 
 4086
 Some neighborhoods had spiritual leaders who weren't priests.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့ ရပ်ကွက်များတွင် ဘုန်းကြီး မဟုတ်သော ဝိညာဉ်ရေး ခေါင်းဆောင်များ ရှိခဲ့သည်။
 
 4087
 Some of the spiritual leaders had black hair.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝိညာဉ်ရေး ခေါင်းဆောင် အချို့တွင် အနက်ရောင် ဆံပင် ရှိခဲ့သည်။
 
 4088
 The exam did not use a rating scale and was therefore pointless.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာမေးပွဲသည် အဆင့် သတ်မှတ်ချက် တစ်ခုကို အသုံးမပြုသောကြောင့် အဓိပ္ပာယ်မရှိပေ။
 
 4089
 The exam was used for the sole purpose of testing knowledge of the Chicano culture.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာမေးပွဲကို ချီကန်နို ယဉ်ကျေးမှု ၏ အသိပညာကို စမ်းသပ်ရန် တစ်ခုတည်းသော ရည်ရွယ်ချက်အတွက် အသုံးပြုခဲ့သည်။
 
 4090
 The exam was used to assess the candidate's knowledge of the Chicano culture.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာမေးပွဲကို လျှောက်ထားသူ၏ ချီကန်နို ယဉ်ကျေးမှုဆိုင်ရာ အသိပညာကို အကဲဖြတ်ရန် အသုံးပြုခဲ့သည်။
 
 4091
 A nonstationary world is undesirable to some if it must account for information from the distant past.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝေးကွာသော အတိတ်မှ သတင်းအချက်အလက်များကို ထည့်တွက်ရမည် ဆိုလျှင် အချို့သူများက ပြောင်းလဲနေသော ကမ္ဘာကြီးကို မလိုလားကြဘူး။
 
 4092
 All data from every time frame is valid for any world.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချိန် မူဘောင်တိုင်း မှ အချက်အလက် အားလုံးသည် မည်သည့် ကမ္ဘာအတွက်မဆို တရားဝင်သည်။
 
 4093
 These hypothetical worlds are used to forecast weather patterns.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထို ဖြစ်နိုင်ဖွယ်ရာဟုမှန်းဆရသော ဂြိုလ်များသည် ရာသီဥတု ပုံစံများကို ခန့်မှန်း ရန် အသုံးပြုသည်။
 
 4094
 Trimers and photons can be added at a constant rate.
-<MYANMAR UNICODE TRANSLATION HERE>
+ညှပ်များ နှင့် ဖိုတွန်များကို အဆက်မပြတ်သော နှုန်းထား တစ်ခု ဖြင့် ပေါင်းထည့်နိုင်သည်။
 
 4095
 You can't add things at a constant rate.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရာဝတ္ထုများကို အဆက်မပြတ်သော နှုန်းထား တစ်ခု မှာ ထည့်၍မရပါ။
 
 4096
 You should add trimers and photons at a constant rate if you want to study the results.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းက ရလဒ်များကို လေ့လာလိုပါလျှင် ညှပ်များ နှင့် ဖိုတွန်များကို အဆက်မပြတ်သော နှုန်းထား တစ်ခု ဖြင့် ပေါင်းထည့်သင့်သည်။
 
 4097
 In the final chapter, I only discuss how many licks it takes to get to the center of a Tootsie Roll Pop.
-<MYANMAR UNICODE TRANSLATION HERE>
+နောက်ဆုံး အခန်း တွင် ၊ တုဆယ် ရိုးလ် ပေါ့ ၏ ဗဟို သို့ ရောက်ရန် ဖြေရှင်းမှုများ ဘယ်လောက်များများ ယူရမည်ကိုသာ ဆွေးနွေးပါသည်။
 
 4098
 In the last chapter I wonder how much the universe is responsible for the eccentricities of human behavior.
-<MYANMAR UNICODE TRANSLATION HERE>
+နောက်ဆုံးအခန်းတွင် လူသားတို့၏ အမူအကျင့်များ ဆန်းကြယ်မှု အတွက် စကြဝဠာသည် မည်မျှ တာဝန်ရှိသည်ကို ကျွန်ုပ် တွေးမိပါသည်။
 
 4099
 In the last chapter, I considered the universe itself.
-<MYANMAR UNICODE TRANSLATION HERE>
+နောက်ဆုံးအခန်းတွင် ၊ ငါသည် စကြဝဠာကို ကိုယ်တိုင် သုံးသပ်ခဲ့သည်။
 
 4100
 Children can learn how people are similar and different.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+ကလေးတွေဟာ လူတွေရဲ့ တူညီပုံ နှင့် ကွဲပြားပုံက ဘယ်လိုဆိုတာကို လေ့လာနိုင်ပါတယ်။
