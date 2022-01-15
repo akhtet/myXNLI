@@ -1,400 +1,409 @@
 9101
 The Dow Jones goes up and rich people buy more.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒေါင့် ဂျုန်းစ် တက်လာပြီးတော့ ချမ်းသာတဲ့သူတွေက ပိုဝယ်ကြတယ်။
 
 9102
 The Dow Jones isn't connected to the economy.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒေါင့် ဂျုန်းစ် သည် စီးပွားရေးနှင့် မချိတ်ဆက်ပါ။
 
 9103
 The Dow Jones shows what's happening in the economy.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒေါင့် ဂျုန်းစ် သည် စီးပွားရေးမှာ ဘာတွေ ဖြစ်ပျက်နေလဲကို ပြသသည်။
 
 9104
 The CMP theory deals with mating.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအမ်ဖီ သီအိုရီသည် မိတ်လိုက်ခြင်းနှင့် ပတ်သက်သည်။
 
 9105
 The CMP theory is about animal mating.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအမ်ဖီ သီအိုရီသည် တိရိစ္ဆာန် မိတ်လိုက်ခြင်းအကြောင်းဖြစ်သည်။
 
 9106
 The CMP theory is about kites.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအမ်ဖီ သီအိုရီသည် စွန်များအကြောင်းဖြစ်သည်။
 
 9107
 Glenn Loury is a conservative.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂလန်န် လော့ရီ သည် ရှေးရိုးဆန်သူတစ်ယောက်ဖြစ်သည်။
 
 9108
 Glenn Loury is a street sweeper.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂလန်န် လော့ရီ သည် လမ်းဘေး သန့်ရှင်းရေးသမား တစ်ယောက်ဖြစ်သည်။
 
 9109
 Glenn Loury is not your typical conservative.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂလန်န် လော့ရီ သည် မင်းရဲ့ သာမာန် ရှေးရိုးဆန်သူ မဟုတ်ဘူး။
+#REVIEW
 
 9110
 Music retailers are completely in the dark about this.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂီတလက်လီရောင်းချသူများသည် ဒီကိစ္စနှင့် ပတ်သက်၍ လုံးဝအမှောင်ထဲတွင် ရှိနေသည်။
 
 9111
 Music retailers are well aware of this fact.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂီတလက်လီရောင်းချသူများသည် ဒီအချက်ကို ကောင်းကောင်း သိသည်။
 
 9112
 Music retailers knew about this issue before the news broke to the public a month ago.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂီတလက်လီရောင်းချသူများသည် ဒီပြဿနာကို ပြည်သူလူထုဆီ သတင်းများ မပျံ့ခင်  လွန်ခဲ့တဲ့တစ်လလောက်က သိကြသည်။
 
 9113
 Hillary Clinton is a perfect person.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟီလာရီ ကလင်တန်သည် ပြီးပြည့်စုံသော လူ တစ်ယောက်ဖြစ်သည်။
 
 9114
 Hillary Rodham Clinton could learn from Princess Diana.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟီလာရီ ရော့ဟမ် ကလင်တန်သည် မင်းသမီး ဒိုင်ယာနာထံမှ သင်ယူနိုင်သည်။
 
 9115
 Princess Diana was a much better person than Hillary Clinton.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းသမီး ဒိုင်ယာနာသည် ဟီလာရီ ကလင်တန်ထက် ပိုကောင်းတဲ့ လူ တစ်ယောက် ဖြစ်သည်။
 
 9116
 No one ever really owns property.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘယ်သူကမှ ပစ္စည်းဥစ္စာ ကို အမြဲ တကယ် မပိုင်ဆိုင်ဘူး။
 
 9117
 Property can be owned anywhere.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပစ္စည်းဥစ္စာ ကို ဘယ်နေရာမှာမဆို ပိုင်ဆိုင်နိုင်တယ်။
 
 9118
 Property is just people saying they own something.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပစ္စည်းဥစ္စာ ဆိုတာ သူတို့ တစ်ခုခုကို ပိုင်ဆိုင်တယ်လို့ လူတွေက ပြောနေကြတာသာ ဖြစ်တယ်။
 
 9119
 Do you think the World Trade Organization will survive 50 years?
-<MYANMAR UNICODE TRANSLATION HERE>
+ကမ္ဘာ့ကုန်သွယ်ရေးအဖွဲ့အစည်းဟာ အနှစ် ငါးဆယ် ရှင်သန်နိုင်မယ်လို့ မင်း ထင်သလား။
 
 9120
 The World Trade Organization has made no memorable impact on history.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကမ္ဘာ့ကုန်သွယ်ရေးအဖွဲ့အစည်းက သမိုင်းမှာ အမှတ်ရလောက်စရာ သက်ရောက်မှုမရှိခဲ့ဘူး။
 
 9121
 The longevity of the World Trade Organization is secure for the next century.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကမ္ဘာ့ကုန်သွယ်ရေးအဖွဲ့အစည်း၏ အသက်ရှည်မှုသည် လာမည့်ရာစုအတွက် လုံခြုံသည်။
 
 9122
 All options are irresistible.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရွေးချယ်မှုအားလုံးကို သည်းမခံနိုင်ဘူး။
 
 9123
 The choices are not too appealing.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရွေးချယ်မှုတွေကလည်း ဆွဲဆောင်မှု မရှိပါဘူး။
 
 9124
 The options are either tedious or costly.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရွေးချယ်စရာများသည် ငြီးငွေ့ဖွယ် ကောင်းတယ် ဒါမှမဟုတ် အကုန်အကျများတယ်။
 
 9125
 The set is very expensive.
-<MYANMAR UNICODE TRANSLATION HERE>
+Set က အရမ်းဈေးကြီးတယ်။
+#REVIEW
 
 9126
 Would I ignore the set?
-<MYANMAR UNICODE TRANSLATION HERE>
+set ကို လျစ်လျူရှုလို့ ရမလား။
+#REVIEW
 
 9127
 Would I purchase a set for myself?
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါကိုယ်တိုင်အတွက် set ဝယ်မှာလား။
+#REVIEW
 
 9128
 The SAT is timeless and there will be no trouble in the future.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်စ်အေထီ က အချိန်မရွေးဆိုတော့ အနာဂတ်မှာ ဒုက္ခရောက်မှာမဟုတ်ဘူး။
 
 9129
 The educational climate is changing so there will be issues with the SAT.
-<MYANMAR UNICODE TRANSLATION HERE>
+အသိပညာတိုးစေသော ဥတုရာသီ က ပြောင်းလဲနေတော့ အက်စ်အေထီ နဲ့ ပတ်သက်ပြီး အကြောင်းကိစ္စ တွေ ရှိတယ်။
 
 9130
 There will be trouble for the SAT in time.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်စ်အေထီ တော့ အချိန်တန်ရင် ဒုက္ခရောက်မယ်။
 
 9131
 De Kooning ended up dying at 72.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒက် ခိုနီ သည် ခုနစ်ဆယ့်နှစ် နှစ်မှာ သေဆုံးသည်။
 
 9132
 De Kooning is in perfect health
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒက် ခိုနီ သည် ကျန်းမာရေးနှင့် ပြည့်စုံသည်
 
 9133
 De Kooning is old.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒက် ခိုနီ က အသက်ကြီးပြီ။
 
 9134
 None of the houses, on the market currently, are appealing.
-<MYANMAR UNICODE TRANSLATION HERE>
+လက်ရှိ စျေးကွက်မှာ ဘယ်အိမ်တွေမှ ဆွဲဆောင်မှု မရှိဘူး။
 
 9135
 There is much current appeal with these.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါတွေနဲ့ ပတ်သက်ပြီး လက်ရှိမှာ ဆွဲဆောင်မှုတွေ အများကြီးရှိတယ်။
 
 9136
 There isn't any appeal with these currently.
-<MYANMAR UNICODE TRANSLATION HERE>
+လက်ရှိမှာ ဒါတွေက ဘာဆွဲဆောင်မှု မှ မရှိဘူး။
 
 9137
 Naomi Wolf had an answer.
-<MYANMAR UNICODE TRANSLATION HERE>
+နိုမီ ဝေါ့ဖ် က အဖြေတစ်ခုရခဲ့တယ်။
 
 9138
 Naomi Wolf made multiple attempts at an answer.
-<MYANMAR UNICODE TRANSLATION HERE>
+နိုမီ ဝေါ့ဖ် သည် အဖြေတစ်ခုအတွက် ကြိုးစားမှုပေါင်းများစွာ လုပ်သည်။
 
 9139
 Naomi Wolf's answers were all correct.
-<MYANMAR UNICODE TRANSLATION HERE>
+နိုမီ ဝေါ့ဖ် ၏ အဖြေများ အားလုံးမှန်သည်။
 
 9140
 Gates does not produce slowly.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂိတ်စ် က ဖြည်းဖြည်းချင်း မထုတ်လုပ်ဘူး။
 
 9141
 The President was wondering why machines in the Gates factory produce at such a high rate.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂိတ်စ် စက်ရုံရှိ စက်များသည် အဘယ်ကြောင့် ဤမျှမြင့်မားသောနှုန်းတစ်ခုနဲ့ ထုတ်လုပ်သည်ကို သမ္မတက အံ့သြနေသည်။
 
 9142
 Why does Gates produce at such a slow pace?
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂိတ်စ် က ဘာကြောင့် ဒီလောက်နှေးတဲ့ နှုန်းတစ်ခုနဲ့ ထုတ်လုပ်တာလဲ။
 
 9143
 The conclusions are tied to the venues.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကောက်ချက်တွေက နေရာတွေနဲ့ ဆက်နွယ်နေတယ်။
 
 9144
 The conclusions aren't related to the big entertainment venues.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကောက်ချက်တွေက ဖျော်ဖြေရေးကျင်းပရာနေရာကြီးများနဲ့ မဆက်စပ်ဘူး။
 
 9145
 The conclusions aren't related to the opera houses.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကောက်ချက်တွေက အော်ပရာ ဇာတ်ရုံများနှင့် မဆက်စပ်ဘူး။
 
 9146
 Our only option is to follow whatever directions we are given from our superiors and the higher-ups.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ရဲ့ တစ်ခုတည်းသော ရွေးချယ်စရာကတော့ ငါတို့အထက်လူကြီးတွေနဲ့ အထက်အရာရှိတွေဆီက ငါတို့ကို ပေးထားတဲ့ လမ်းညွှန်ချက်တွေ ကို ဘာမဆို လိုက်နာဖို့သာ ဖြစ်တယ်။
 
 9147
 We have earned the respect and the right to be proud leaders on this subject.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့က ဒီအ​ကြောင်းအရာပေါ်မှာ ခေါင်းဆောင်တွေလို့ ဂုဏ်ယူလောက်စရာ လေးစားမှု နဲ့ အခွင့်အရေး ရကြတယ်။
 
 9148
 We owe no one any apologizes for our leadership in this matter.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီကိစ္စမှာ ကျွန်ုပ်တို့ရဲ့ခေါင်းဆောင်မှုအတွက် ဘယ်သူ့ကိုမှ တောင်းပန်စရာမရှိပါဘူး။
 
 9149
 Large yachts are very expensive to maintain as they need regular maintenance and use large amounts of fuel.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရွက်လှေကြီးများသည် ပုံမှန်ပြုပြင်ထိန်းသိမ်းရန် လိုအပ်ပြီး လောင်စာဆီအမြောက်အမြားအသုံးပြုသောကြောင့် ထိန်းသိမ်းရန် အလွန်စျေးကြီးပါသည်။
 
 9150
 Very few elegant or flirtatious scenes take place on yachts.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရွက်လှေပေါ်တွင် အံဝင်ခွင်ကျ သို့မဟုတ် ပရောပရည်လုပ်သည့် မြင်ကွင်း အလွန်နည်းပါးသည်။
+#REVIEW
 
 9151
 Yachts are used as the setting for many elegant scenes.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရွက်လှေများကို အံဝင်ခွင်ကျ မြင်ကွင်းများစွာအတွက် နောက်ခံရှုခင်း အဖြစ် အသုံးပြုကြသည်။
+#REVIEW
 
 9152
 Scholastic is a well known company.
-<MYANMAR UNICODE TRANSLATION HERE>
+စကိုလပ်စတစ်စ် သည် လူသိများသော ကုမ္ပဏီတစ်ခုဖြစ်သည်။
 
 9153
 School children have no teachers.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျောင်းသားသူငယ်တွေမှာ ဆရာတွေ မရှိဘူး။
 
 9154
 The Teacher of the Year award is a huge honor.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်နှစ်တာအကောင်းဆုံးဆရာဆုသည် ကြီးမားသော ဂုဏ်တစ်ခုဖြစ်သည်။
 
 9155
 The MCI Web site has guidelines that are easy to understand regarding measuring home runs.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမ်စီအိုင် ဝဘ်ဆိုက်တွင် ဘေ့စ်ဘောကစားရာတွင် ဘောလုံး ရိုက်သူက သတ်မှတ်ကွင်းကို တစ်ပတ်ပြေးခြင်းကို တိုင်းတာခြင်းနှင့်ပတ်သက်၍ နားလည်ရလွယ်ကူသော လမ်းညွှန်ချက်များရှိသည်။
 
 9156
 There are established guidelines on the MCI Web site that explain how to measure home runs.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမ်စီအိုင် ဝဘ်ဆိုက်ပေါ်မှာ ဘေ့စ်ဘောကစားရာတွင် ဘောလုံး ရိုက်သူက သတ်မှတ်ကွင်းကို တစ်ပတ်ပြေးခြင်းအား ဘယ်လို တိုင်းတာရမည်ကို ရှင်းပြသည့် သတ်မှတ်ထားသော လမ်းညွှန်ချက်များ ရှိပါသည်။
 
 9157
 There is no mention of home runs on the MCI Web site at this time.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမ်စီအိုင် ဝဘ်ဆိုက်ပေါ်တွင် ဘေ့စ်ဘောကစားရာမှာ ဘောလုံး ရိုက်သူက သတ်မှတ်ကွင်းကို တစ်ပတ်ပြေးခြင်းအကြောင်းအား ဒီအချိန်မှာ ဖော်ပြထားခြင်းမရှိပါ။
 
 9158
 Clinton and Birch are homosexuals.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလင်တန် နှင့် ဘာ့ခ်ျ တို့သည် လိင်တူဆက်ဆံသူများဖြစ်ကြသည်။
 
 9159
 Clinton and Birch are trying to suppress homosexuality.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလင်တန် နှင့် ဘာ့ခ်ျ တို့သည် လိင်တူဆက်ဆံမှုကို ဖိနှိပ်ဖို့ ကြိုးစားနေကြပါသည်။
 
 9160
 Homosexuality is seen as a vice.
-<MYANMAR UNICODE TRANSLATION HERE>
+လိင်တူဆက်ဆံခြင်းကို မကောင်းမှုဒုစရိုက်အဖြစ် မြင်သည်။
 
 9161
 Men would not lift it because they are afraid.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့တွေက ကြောက်ေသာကြောင့် ယောက်ျားတွေက ဒါကို မလွှင့်ပစ်ဘူး။
 
 9162
 Your actions anger a lot of people.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းရဲ့ လုပ်ဆောင်ချက်တွေက လူတွေကို ဒေါသဖြစ်စေတယ်။
 
 9163
 Your actions are outright illegal.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းရဲ့လုပ်ဆောင်ချက်တွေက လုံးဝ တရားမ၀င်ဘူး။
 
 9164
 Most people see this personal process, which is mirrored in today's culture, as decay rather than maturity.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူအများစုက ယနေ့ခေတ်ယဉ်ကျေးမှုမှာ ထင်ဟပ်နေသည့် ဒီပုဂ္ဂိုလ်ရေးလုပ်ငန်းစဉ်ကို ရင့်ကျက်မှုထက် ပျက်စီးယိုယွင်းမှုအဖြစ် မြင်ကြသည်။
 
 9165
 Nothing that's happening in the culture today supports this personal process, whatever you choose to call it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါကို ခေါ်ဖို့ မင်း ရွေးချယ်တာ ဘာဘဲဖြစ်ဖြစ် ဒီပုဂ္ဂိုလ်ရေးလုပ်ငန်းစဉ်ကို ဒီနေ့ ယဉ်ကျေးမှုမှာ ဖြစ်ပျက်နေတာတွေက ဘာမှ မထောက်ခံဘူး။
 
 9166
 Whether you choose to see this process as personal maturity or personal decay, what's going on in the culture seems to reinforce it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီလုပ်ငန်းစဉ်ကို ပုဂ္ဂိုလ်ရေး ရင့်ကျက်မှု သို့မဟုတ် ပုဂ္ဂိုလ်ရေး ယိုယွင်းမှုအဖြစ် မြင်ဖို့  မင်း ရွေးချယ်တာက ယဉ်ကျေးမှုတွင် ဘာတွေဖြစ်ပေါ်နေသလဲဆိုတာကို အားဖြည့်ပေးပုံရသည်။
 
 9167
 The list of actresses is available to anyone who owns a computer.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းသမီးများစာရင်းကို ကွန်ပျူတာတစ်လုံးပိုင်ဆိုင်သူတိုင်း ရရှိနိုင်ပါသည်။
 
 9168
 You are a man.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းက ယောက်ျားတစ်ယောက်ဖြစ်တယ်။
 
 9169
 You are listed under Actress.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းကို မင်းသမီးအောက်မှာ စာရင်းပေးထားတယ်။
 
 9170
 Newsweek has never written anything about the Hamptons.
-<MYANMAR UNICODE TRANSLATION HERE>
+နယူးစ်ဝိခ် သည်  ဟမ်တန်စ် အကြောင်း ဘာမှ မရေးခဲ့ဖူးဘူး။
 
 9171
 Newsweek published a story about the Hamptons.
-<MYANMAR UNICODE TRANSLATION HERE>
+နယူးစ်ဝိခ် သည် ဟမ်တန်စ် အကြောင်း ဇာတ်လမ်း တစ်ပုဒ်ကို ထုတ်ဝေခဲ့သည်။
 
 9172
 Newsweek writes a daily report about the Hamptons.
-<MYANMAR UNICODE TRANSLATION HERE>
+နယူးစ်ဝိခ် သည် ဟမ်တန်စ် အကြောင်းနေ့စဉ်အစီရင်ခံစာတစ်စောင်ရေးသည်။
 
 9173
 Heseltine has no plans to retire.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟက်ဆယ်ထိုင်းန် ဟာ အနားယူဖို့ အစီအစဉ်မရှိပါဘူး။
 
 9174
 Heseltine quit his job in My.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟက်ဆယ်ထိုင်းန် သည် Myမှ အလုပ် ထွက်သည်။
+#REVIEW
 
 9175
 Heseltine quit his job.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟက်ဆယ်ထိုင်းန် သည် အလုပ် ထွက်သည်။
 
 9176
 Although Stevenson has traveled with us on the campaign trail, his article makes it clear he wasn't paying attention to what the campaign involves at even the most basic level.
-<MYANMAR UNICODE TRANSLATION HERE>
+စတီဗင်ဆန် သည် မဲဆွယ်စည်းရုံးရေးလမ်းကြောင်းတွင် ငါတို့နဲ့အတူ ခရီးသွားခဲ့သော်လည်း၊ သူ၏ဆောင်းပါးသည် ကမ်ပိန်းရဲ့ အခြေခံအကျဆုံးအဆင့်မှာ ဘာတွေ ပါဝင်သလဲဆိုတာကို သူ သတိမထားမိတာကို ရှင်းရှင်းလင်းလင်းဖော်ပြထားသည်။
 
 9177
 It's obvious from the write-up that Stevenson has no idea what our campaign entails.
-<MYANMAR UNICODE TRANSLATION HERE>
+စတီဗင်ဆန် သည် ငါတို့ရဲ့ မဲဆွယ်စည်းရုံးရေးမှာ ဘာတွေပါဝင်လဲ မသိဘူးဆိုတာ ရေးသားချက်ကနေ သိသာပါတယ်။
 
 9178
 Stevenson's article details his in-depth understanding of the complicated workings of our campaign.
-<MYANMAR UNICODE TRANSLATION HERE>
+စတီဗင်ဆန် ၏ ဆောင်းပါးသည် ငါတို့ မဲဆွယ်စည်းရုံးရေးရဲ့ ရှုပ်ထွေးသော အလုပ်တွေမှာ သူ၏ အတွင်းကျကျ နားလည်မှုကို အသေးစိတ်ဖော်ပြထားသည်။
 
 9179
 It sits in broad daylight under the sun.
-<MYANMAR UNICODE TRANSLATION HERE>
+နေ့ခင်းကြောင်တောင် နေရောင်အောက်မှာ ထိုင်တယ်။
 
 9180
 The place where it sits is in a shadow made from Apollo's tree.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါ ထိုင်တဲ့နေရာသည် အက်ဖော့လို ရဲ့ သစ်ပင်မှ ရသော အရိပ်တစ်ခုမှာ ရှိသည်။
 
 9181
 The urn containing Apollo's ashes sits under his tree.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်ဖော့လို ၏ ပြာများပါသော အရိုးအိုး သည် သူ၏သစ်ပင်အောက်မှာ တည်ရှိသည်။
 
 9182
 As I am the last to note, the flow of world history is towards a more solitary existence.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ နောက်ဆုံးမှတ်သားရမည့်အချက်အဖြစ်၊ ကမ္ဘာ့သမိုင်း၏ စီးဆင်းမှုသည် ပို၍ အထီးကျန်ေသာဖြစ်တည်မှုဆီသို့ ဦးတည်နေသည်။
 
 9183
 I'm the first to note that the flow of world history is towards interdependence.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကမ္ဘာ့သမိုင်း၏ စီးဆင်းမှုသည် အပြန်အလှန် မှီခိုမှုဆီသို့ ဦးတည်နေကြောင်း ငါ ပထမဆုံး ဂရုပြုမိပါသည်။
 
 9184
 Other people have noted this flow after me.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့နောက်မှာ ဒီစီးဆင်းမှုကို တခြားလူတွေ သတိပြုမိကြပြီ။
 
 9185
 Despite this, the New Yorker has refused to publish any special issues.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤသို့ဖြစ်စေကာမူ၊ နယူးယော့ခါ သည် အထူးထုတ်စာစောင် တွေကို ထုတ်ဝေရန် ငြင်းဆိုထားသည်။
 
 9186
 In response, the New Yorker has published massive special issues about topics like Hollywood, race, and the future.
-<MYANMAR UNICODE TRANSLATION HERE>
+တုံ့ပြန်သည့်အနေနဲ့ နယူးယော့ခါ သည် ဟောလိဝုဒ်၊ လူမျိုးရေးနဲ့ အနာဂတ်ကဲ့သို့သော အကြောင်းအရာများနဲ့ပတ်သက်တဲ့ အထူးထုတ်စာစောင် ကြီးများကို ထုတ်ဝေသည်။
 
 9187
 The New Yorker has fought back with more than 20 special issues, including whole magazines about racism, space travel, and education.
-<MYANMAR UNICODE TRANSLATION HERE>
+နယူးယော့ခါ သည် လူမျိုးရေးခွဲခြားမှုဝါဒ၊ အာကာသခရီးသွားခြင်းနှင့် ပညာရေးနဲ့ ပတ်သက်တဲ့ မဂ္ဂဇင်းများအပါအဝင် အထူးထုတ်စာစောင် နှစ်ဆယ် ကျော်တဲ့ ပြန်လည်တိုက်ခိုက်သည်။
 
 9188
 Older people don't like noise because they are sensitive.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က အာရုံခံစားလွယ်သောကြောင့် သက်ကြီးရွယ်အိုများသည် ဆူညံသံကို မကြိုက်ဘူး။
 
 9189
 Real noise appeals to the old.
-<MYANMAR UNICODE TRANSLATION HERE>
+တကယ့်ဆူညံသံသည် အသက်ကြီးသူများ ကို ဆွဲဆောင် နိုင်စွမ်းရှိသည်။။
+#REVIEW
 
 9190
 The old are appalled by real noise while it appeals to younger people.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီအရာက လူငယ်တွေကို ဆွဲဆောင်နိုင်စွမ်းရှိသော်လည်း အသက်ကြီးသူများသည် တကယ့်ဆူညံသံကြောင့် ထိတ်လန့်ကြသည်။
+#REVIEW
 
 9191
 I am in Canada today, but I'm normally in the United States.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ဒီနေ့ ကနေဒါမှာနေပေမယ့် ပုံမှန်အားဖြင့်တော့ ငါက အမေရိကန်ပြည်ထောင်စုမှာ နေတယ်။
 
 9192
 I am writing you while on a two-week vacation in the United States.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကန်ပြည်ထောင်စုရဲ့ နှစ်ပတ်ကြာ အားလပ်ရက်မှာ ငါ မင်းဆီကို စာရေးနေတယ်။
 
 9193
 I'm usually in the United States, but I'm not writing to you from there right now.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါက အမြဲလိုလို အမေရိကန်ပြည်ထောင်စုမှာ ရှိနေပေမဲ့ ငါ အခု အဲဒီကနေမှ မင်းဆီ စာမရေးတော့ဘူး။
 
 9194
 Hernstein and Murray used educated and intelligence to determine IQ.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟဲရင်စတင်း နှင့် မာရေး တို့သည် အိုင်ကျူ ကိုဆုံးဖြတ်ရန် ပညာတတ်နှင့် ဉာဏ်ရည်ကို အသုံးပြုသည်။
 
 9195
 The only things Herstein and Murray use to determine IQ is age and gender.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်ကျူ ကို ဆုံးဖြတ်ရန် ဟဲရင်စတင်း နှင့် မာရေး တို့ သုံးတဲ့ တစ်ခုတည်းသော အရာမှာ အသက်နှင့် လိင် ဖြစ်သည်။
 
 9196
 To determine the IQ of the children, Hernstein and Murray used educated and intelligence.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလေးတွေရဲ့ အိုင်ကျူ ကို ဆုံးဖြတ်ရန် ဟဲရင်စတင်း နှင့် မာရေး တို့သည် ပညာတတ်နှင့် ဉာဏ်ရည်ကို အသုံးပြုခဲ့သည်။
 
 9197
 Simple facts about brain chemistry aren't taken into account in the study.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဦးနှောက်ဓာတုဗေဒဆိုင်ရာ ရိုးရှင်းသော အချက်အလက်များကို လေ့လာမှုမှာ ထည့်သွင်းစဉ်းစားမည်မဟုတ်ပါ။
 
 9198
 The study takes into account facts about brain chemistry.
-<MYANMAR UNICODE TRANSLATION HERE>
+လေ့လာမှုသည် ဦးနှောက်ဓာတုဗေဒဆိုင်ရာ အချက်အလက်များကို ထည့်သွင်းစဉ်းစားသည်။
 
 9199
 Truths about brain chemistry are obvious.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဦးနှောက်ဓာတုဗေဒဆိုင်ရာ အမှန်တရားများသည် ထင်ရှားသည်။
 
 9200
 Millions of people took a diet drug that made them lost 20 pounds each.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူသန်းပေါင်းများစွာသည် သူတို့အား တစ်ဦးလျှင် နှစ်ဆယ် ပေါင် ကျစေသည့် အစားအစာနှင့်ဆိုင်သော ဆေးတစ်မျိုးကို သောက်ခဲ့ကြသည်။
 
