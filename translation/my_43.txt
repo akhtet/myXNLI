@@ -281,7 +281,7 @@ You cannot see the audience.
 4271
 A girl wanted to dance on Good Friday.
 မိန်းကလေး တစ်ယောက်က ဂွဒ် ဖရိုင်းဒေး / ကောင်းမွန်တဲ့ သောကြာနေ့ မှာ ကခုန်ချင်ခဲ့တယ်။
-#Review
+# REVIEW
 #Good Friday
 
 4272
@@ -291,7 +291,7 @@ The girl knew she couldn't do anything but go to church.
 4273
 The girls' parents grounded her for dancing on Good Friday.
 မိန်းကလေးများ၏ မိဘများက သူမအား ဂွဒ် ဖရိုင်းဒေး /ကောင်းမွန်တဲ့ သောကြာနေ့ တွင် ကရန် တားမြစ်ခဲ့သည်။
-#Review
+# REVIEW
 #Good Friday
 
 4274
