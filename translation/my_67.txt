@@ -1,400 +1,401 @@
 6601
 This research center would employ up to ten people.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ သုတေသန စင်တာတွင် လူ ၁၀ ဦးအထိ အလုပ်ခန့်ထားမည်ဖြစ်သည်။
 
 6602
 It didn't matter if they all slacked off.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့အားလုံး ကြိုးစားအားထုတ်မှုလျော့နည်းသွားမည်ဆိုလျှင် ဒါက အရေးမကြီးဘူး။
 
 6603
 They said it was important to be vigilant..
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က နိုးနိုးကြားကြားနေထိုင်ရန် အရေးကြီးပါတယ်လို့ ပြောခဲ့တယ်။
 
 6604
 They said it was important to be vigilent when it came to the news factory controls.
-<MYANMAR UNICODE TRANSLATION HERE>
+စက်ရုံနှင့်ဆိုင်သော သတင်းများကို ထိန်းချုပ်ဖို့ ဖြစ်လာတဲ့ အခါမှာတော့ နိုးနိုးကြားကြားနေထိုင်ရန် အရေးကြီးပါတယ်လို့ သူတို့က ပြောခဲ့တယ်။
 
 6605
 The United States Census Bureau has organized its data by Zip Code since the 1960s.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကန်ပြည်ထောင်စု သန်းခေါင်စာရင်း ကောက်ခံဌာန သည် ၎င်း၏ အချက်အလက်များကို စာတိုက် ကုဒ် ဖြင့် ၁၉၆၀ ခုနှစ်များကတည်းက စုစည်းထားခဲ့သည်။
 
 6606
 The data concerning Population and Housing gathered in the 1990 Census is organized by ZIP Code.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၉၉၀ ခုနှစ် သန်းခေါင်စာရင်းတွင် စုဆောင်းရရှိသော လူဦးရေနှင့် အိမ်အကြောင်းအရာနှင့် ပတ်သက်သည့် အချက်အလက်များကို စာတိုက် ကုဒ် ဖြင့် စုစည်းထားသည်။
 
 6607
 There was no United States Census conducted in 1990.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၉၉၀ ခုနှစ်တွင် အမေရိကန်ပြည်ထောင်စု သန်းခေါင်စာရင်း ကို ကောက်ယူခြင်း မရှိခဲ့ပါ။
 
 6608
 Federal finance organizations have had new demands placed on them.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖက်ဒရယ် ဘဏ္ဍာရေး အဖွဲ့အစည်းများသည် ၎င်းတို့အပေါ် တောင်းဆိုချက်အသစ်များ ထားရှိခဲ့သည်။
 
 6609
 The CFO Act significantly reduced the demands on finance organizations.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအက်ဖ်အို အက်ဥပဒေသည် ဘဏ္ဍာရေး အဖွဲ့အစည်းများ၏ တောင်းဆိုချက်များကို သိသိသာသာ လျှော့ချပေးခဲ့သည်။
 
 6610
 These demands hare required a twenty percent increase in staffing levels.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤတောင်းဆိုချက်များသည် ဝန်ထမ်းဆိုင်ရာ အဆင့်များတွင် နှစ်ဆယ် ရာခိုင်နှုန်း တိုးရန် အမြန် လိုအပ်ပါသည်။
 
 6611
 Efforts were taken to help institute electronic commerce in state governments.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြည်နယ် အစိုးရများတွင် အီလက်ထရောနစ် ကူးသန်းရောင်းဝယ်ရေး ထူထောင်ရာတွင် ကူညီရန် ကြိုးပမ်းမှုများ ရှိခဲ့ပါသည်။
 
 6612
 State governments that use electronic commerce are able to increase efficiency by twelve percent.
-<MYANMAR UNICODE TRANSLATION HERE>
+အီလက်ထရောနစ် ကူးသန်းရောင်းဝယ်ရေးကို အသုံးပြုသည့် ပြည်နယ် အစိုးရများသည် ထိရောက်မှု တစ်ဆယ့်နှစ် ရာခိုင်နှုန်း တိုးမြင့်လာနိုင်သည်။
 
 6613
 The initiative was intended to remove all state reliance on computer systems.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရင်ဦးဆုံးအနေနဲ့ ပြည်နယ် အားလုံးသည် ကွန်ပျူတာ စနစ်များ အပေါ် မှီခိုအားထားမှုကို ဖယ်ရှားရန် ရည်ရွယ်ပါသည်။
 
 6614
 The differences were so significant that they were written down.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွဲလွဲချက်တွေက သိသာထင်ရှားလွန်းလို့ သူတို့က ချရေးခဲ့ကြတယ်။
 
 6615
 There was absolutely no detectable difference.
-<MYANMAR UNICODE TRANSLATION HERE>
+သိသာထင်ရှားသော ခြားနားမှု လုံးဝမရှိခဲ့ပါ။
 
 6616
 There were apparent, notable differences.
-<MYANMAR UNICODE TRANSLATION HERE>
+သိသာထင်ရှားသော ကွဲပြားမှုများ ၊ ရှိခဲ့ပုံပေါ်သည်။
 
 6617
 If an attorney withdraws from a case they will be free from all obligation and liability.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှေ့နေ တစ်ဦးသည် အမှုကိစ္စမှ နုတ်ထွက်မည်ဆိုလျှင် ၎င်းတို့သည် တာဝန်များ နှင့် ဝတ္တရား အားလုံးမှ ကင်းလွတ်မည်ဖြစ်သည်။
 
 6618
 Nationally, attorneys withdraw from only five percent of all cases.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်နိုင်ငံလုံးအတိုင်းအတာအရ ၊ ရှေ့နေများသည် အမှု အားလုံး၏ ငါး ရာခိုင်နှုန်းသာ ရုပ်သိမ်းခဲ့သည်။
 
 6619
 The attorney may face liability even if they withdraw from the case.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှေ့နေသည် အမှုမှ နုတ်ထွက် လျှင်ပင် တာဝန်ခံမှုကို ရင်ဆိုင်ရမည်။
 
 6620
 The SCR connection is the first of the lot.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်စ်စီအာ ချိတ်ဆက်မှုသည် ပထမဆုံး အများအပြား ဖြစ်သည်။
 
 6621
 The outage period is more than two weeks.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတ်တောက်သည့် ကာလသည် နှစ်ပတ် ကျော် ဖြစ်သည်။
 
 6622
 There are no outages ever.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘယ်တော့မှ ပြတ်တောက်မှု မရှိပါဘူး။
 
 6623
 Each ZIP Code is served by only one route.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာတိုက် ကုဒ် တစ်ခုစီကို လမ်းကြောင်း တစ်ခုတည်းဖြင့် ဆောင်ရွက်ပေးပါသည်။
 
 6624
 Many routes may cover a single ZIP Code.
-<MYANMAR UNICODE TRANSLATION HERE>
+လမ်းကြောင်း များစွာသည် စာတိုက် ကုဒ် တစ်ခုတည်းကို လွှမ်းခြုံနိုင်သည်။
 
 6625
 Most ZIP Codes cover roughly ten thousand addresses.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာတိုက် ကုဒ် အများစုသည် အကြမ်းဖျင်းအားဖြင့် လိပ်စာပေါင်း တစ်သောင်းခန့်ကို လွှမ်းခြုံနိုင်သည်။
 
 6626
 There is no limit for mercury, because it's harmless.
-<MYANMAR UNICODE TRANSLATION HERE>
+အန္တရာယ်မရှိသောကြောင့် ၊ ပြဒါးအတွက် ကန့်သတ်ချက်မရှိပါ။
 
 6627
 They limit mercury for seafood.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပင်လယ်စာ အတွက် ပြဒါးကို ကန့်သတ်ထားသည်။
 
 6628
 They limit mercury.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က ပြဒါးကို ကန့်သတ်တယ်။
 
 6629
 We intend to sever our relationship with your organization effective immediately.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင့် အဖွဲ့အစည်းနှင့် ကျွန်ုပ်တို့၏ ဆက်ဆံရေးကို ထိရောက်စွာ ချက်ချင်း ဖြတ်တောက်ရန် ကျွန်ုပ်တို့ ရည်ရွယ်ပါသည်။
 
 6630
 We worked closely with seven different employees this year.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ နှစ်မှာ မတူညီတဲ့ ဝန်ထမ်း ခုနစ်ယောက်နဲ့ နီးနီးကပ်ကပ် အလုပ်လုပ်ခဲ့ပါတယ်။
 
 6631
 You have done something to support us in this past year.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းက လွန်ခဲ့တဲ့ နှစ်မှာ ငါတို့ကို ထောက်ပံ့ဖို့ တစ်ခုခု လုပ်ခဲ့ပြီးပြီ။
 
 6632
 If this requirement were put in place the number of LSC grantees would fall by 80 percent.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကယ်၍ ဤ လိုအပ်ချက်ကို ဒီနေရာမှာ ထည့်သွင်းပါက အယ်လ်အက်စ်စီ ထောက်ပံ့သူ အရေအတွက်သည် 80 ရာခိုင်နှုန်း ကျဆင်းသွားမည်ဖြစ်သည်။
 
 6633
 It would be a trivial matter for attorney to monitor eligible aliens at all times.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရည်အချင်းပြည့်မီသော ဂြိုလ်သားများကို အချိန်တိုင်း စောင့်ကြည့်ရန် ရှေ့နေ အတွက် အသေးအဖွဲ ကိစ္စ တစ်ခု ဖြစ်လိမ့်မည်။
 
 6634
 It would be allot of work to monitor a group of people at all times.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတစ်စုကို အချိန်တိုင်း စောင့်ကြည့်ဖို့က အလုပ်များနေလိမ့်မယ်။
 
 6635
 The federal agencies have been doing illicit things.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖက်ဒရယ် အေဂျင်စီများသည် တရားမဝင်သော အရာများကို လုပ်ဆောင်နေပါသည်။
 
 6636
 The federal agents have adequate human capital practices.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖက်ဒရယ် အေးဂျင့်များတွင် လုံလောက်သော လူသား အရင်းအနှီး ကျင့်ထုံးများ ရှိသည်။
 
 6637
 There are some new challenges that face the federal agents.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖက်ဒရယ် အေးဂျင့်များကို ရင်ဆိုင်ရမည့် စိန်ခေါ်မှု အသစ် အချို့ ရှိသည်။
 
 6638
 The trauma team does not handle alcohol use issues.
-<MYANMAR UNICODE TRANSLATION HERE>
+စိတ်ဒဏ်ရာရထားသော အဖွဲ့သည် အရက် သုံးစွဲမှု ပြဿနာများကို မကိုင်တွယ်ပါ။
 
 6639
 The trauma team primarily handles alcohol issues.
-<MYANMAR UNICODE TRANSLATION HERE>
+စိတ်ဒဏ်ရာရထားသော အဖွဲ့သည် အရက်နှင့်ဆိုင်သော ပြဿနာများကို အဓိက ကိုင်တွယ်သည်။
 
 6640
 There is a separate counseling unit that meet with patients after they leave the trauma unit.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် စိတ်ဒဏ်ရာရထားသော ဌာနမှ ထွက်သွား ပြီးနောက် လူနာများနှင့် တွေ့ဆုံသည့် သီးခြား အကြံပေး ဌာန တစ်ခု ရှိပါသည်။
 
 6641
 900 MWe units burn about 1.5 percent sulfur bituminous coal.
-<MYANMAR UNICODE TRANSLATION HERE>
+၉၀၀ MWe ယူနစ်သည် ဆာလဖာ ဘစ်ကျူမီနွတ် ကျောက်မီးသွေး ၁.၅ ရာခိုင်နှုန်း ခန့်ကို လောင်ကျွမ်းစေပါသည်။
 
 6642
 The units burn less sulfur bituminous coal than other units.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယူနစ်များသည် အခြားယူနစ်များထက် ဆာလဖာ ဘစ်ကျူမီနွတ် ကျောက်မီးသွေးကို လောင်ကျွမ်းမှု နည်းစေသည်။
 
 6643
 The units do not burn sulfur bituminous coal.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယူနစ်များသည် ဆာလဖာ ဘစ်ကျူမီနွတ် ကျောက်မီးသွေးကို မလောင်ကျွမ်းစေပါ။
 
 6644
 Five different short term studies were analyzed for this study.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤလေ့လာမှု အတွက် မတူညီသော ကာလတို လေ့လာမှု ငါးခုကို ခွဲခြမ်းစိတ်ဖြာခဲ့သည်။
 
 6645
 Only data collected from long term studies was used.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရေရှည် လေ့လာမှုများမှ စုဆောင်းထားသော အချက်အလက်များကိုသာ အသုံးပြုခဲ့သည်။
 
 6646
 Short term studies were used in some parts of this analysis.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကာလတို လေ့လာမှုများကို ဤ ခွဲခြမ်းစိတ်ဖြာမှု၏ အစိတ်အပိုင်း အချို့တွင် အသုံးပြုခဲ့သည်။
 
 6647
 By next year the state will have outstanding contracts totally five million dollars per year.
-<MYANMAR UNICODE TRANSLATION HERE>
+လာမည့်နှစ်တွင် နိုင်ငံတော်သည် တစ်နှစ်လျှင် စုစုပေါင်း ဒေါ်လာ ငါးသန်းအထိ အထင်ကရဖြစ်သော စာချုပ်များ ရှိလာမည်ဖြစ်သည်။
 
 6648
 It is important to manage contracts well when signing more contracts.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာချုပ်များ ထပ်မံချုပ်ဆိုရာတွင် စာချုပ်များကို ကောင်းမွန်စွာ စီမံခန့်ခွဲရန် အရေးကြီးပါသည်။
 
 6649
 The state does not need to worry about managing contracts.
-<MYANMAR UNICODE TRANSLATION HERE>
+နိုင်ငံတော်က စာချုပ်တွေကို စီမံခန့်ခွဲဖို့ စိတ်ပူစရာ မလိုပါဘူး။
 
 6650
 The same features could be used for GMRA accountability reports.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျီအမ်အာအေ တာဝန်ခံမှု အစီရင်ခံစာများ အတွက် တူညီသော အင်္ဂါရပ်များကို အသုံးပြုနိုင်သည်။
 
 6651
 There are other features that could also be used for the reports.
-<MYANMAR UNICODE TRANSLATION HERE>
+အစီရင်ခံစာများ အတွက် လည်း အသုံးပြုနိုင်သည့် အခြား အချက်အလက်များ ရှိသေးသည်။
 
 6652
 These features would be totally inappropriate for GMRA accountability reports.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ အချက်အလက်များသည် ဂျီအမ်အာအေ တာဝန်ခံမှု အစီရင်ခံစာများ အတွက် လုံးဝ သင့်လျော်မည်မဟုတ်ပါ။
 
 6653
 The demand curve depends on the discount being the same.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝယ်လိုအား မျဉ်းကွေးသည် လျှော့စျေး တူညီသည့် အပေါ် မူတည်သည်။
 
 6654
 The demand curve isn't dependent on anything.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝယ်လိုအား မျဉ်းကွေးသည် မည်သည့်အရာပေါ်မှ မမူတည်ပါ။
 
 6655
 The demand curve won't change this month.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝယ်လိုအား မျဉ်းကွေးသည် ယခု လ တွင် ပြောင်းလဲမည်မဟုတ်ပါ။
 
 6656
 Centralized organizational structures are the best.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဗဟိုချုပ်ကိုင်မှုရှိသော အဖွဲ့အစည်းဆိုင်ရာ ဖွဲ့စည်းပုံများသည် အကောင်းဆုံးဖြစ်သည်။
 
 6657
 Leading organizations use a hybrid model.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထိပ်တန်း အဖွဲ့အစည်းများသည် ပေါင်းစပ် ပုံစံ တစ်ခု ကို အသုံးပြုသည်။
 
 6658
 There is no difference between the two structure types.
-<MYANMAR UNICODE TRANSLATION HERE>
+တည်ဆောက်ပုံ အမျိုးအစား နှစ်ခုကြားတွင် ကွာခြားမှု မရှိပါ။
 
 6659
 The control device needs to be completed first.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထိန်းချုပ် ကိရိယာကို ဦးစွာ အပြီးသတ်ရန် လိုအပ်သည်။
 
 6660
 The public are banned from commenting.
-<MYANMAR UNICODE TRANSLATION HERE>
+အများသူငှာ မှတ်ချက်ပေးခြင်းမှ တားမြစ်ထားသည်။
 
 6661
 Title V is a very important document.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခေါင်းစဉ် ၅ သည် အလွန် အရေးကြီးသော စာရွက်စာတမ်း ဖြစ်သည်။
 
 6662
 No special effort is required to avoid damaging a client's claims.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖောက်သည်၏ အရေးဆိုမှုများကို ပျက်ဆီးခြင်းမှ ရှောင်ရှားရန် အထူး အားထုတ်မှု မလိုအပ်ပါ။
 
 6663
 The client's claims might be prejudiced unless steps were taken.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆင့်များကို မလုပ်ဆောင်ပါက သုံးစွဲသူ၏ အရေးဆိုမှုများကို ရှေ့တန်းမတင်နိုင်ပါ။
 
 6664
 These steps include hiding the real identity of clients from investigators.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ အဆင့်များတွင် စုံစမ်းစစ်ဆေးသူများထံမှ ဖောက်သည်များ၏ အစစ်အမှန် အထောက်အထားကို ဖုံးကွယ်ခြင်း ပါဝင်သည်။
 
 6665
 Constructing prototypes usually adds several days to the time frame of a development project.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှေ့ပြေးပုံစံများကို တည်ဆောက်ခြင်းသည် ဖွံ့ဖြိုးတိုးတက်မှု ပရောဂျက် တစ်ခု၏ အချိန်ဘောင်တွင် ရက်ပေါင်းများစွာ ပေါင်းထည့်လေ့ရှိသည်။
 
 6666
 Design requirements were often demonstrated using prototypes.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှေ့ပြေးပုံစံများကို အသုံးပြု၍ ဒီဇိုင်း လိုအပ်ချက်များကို မကြာခဏ သရုပ်ပြခဲ့သည်။
 
 6667
 The use of prototypes is almost unheard of for demonstrating design requirements.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီဇိုင်း လိုအပ်ချက်များကို သရုပ်ပြရန် အတွက် ရှေ့ပြေးပုံစံများကို အသုံးပြုခြင်းမှာ မကြားဖူးသလောက်ပင်ဖြစ်သည်။
 
 6668
 Employers donate to food assistance programs.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလုပ်ရှင်များသည် စားနပ်ရိက္ခာ ထောက်ပံ့ရေး အစီအစဉ်များတွင် လှူဒါန်းကြသည်။
 
 6669
 Employers give to social programs.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလုပ်ရှင်များက လူမှုရေး အစီအစဉ်များကို ပေးကြသည်။
 
 6670
 Employers keep their money to themselves.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလုပ်ရှင်တွေက သူတို့ပိုက်ဆံကို သူတို့ဘာသာ သိမ်းတယ်။
 
 6671
 They're firing half the employees.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် ဝန်ထမ်း တစ်ဝက်လောက်ကို အလုပ်ထုတ်တယ်။
 
 6672
 They're firing some people.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က လူတချို့ကို ပစ်နေသည်။
 
 6673
 They're hiring like crazy!
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် အရူး ကဲ့သို့ အလုပ်ခန့်နေသည်!
 
 6674
 Efficient allocation of resources is important for effective execution of responsibilities.
-<MYANMAR UNICODE TRANSLATION HERE>
+တာဝန်ဝတ္တရားများကို ထိရောက်စွာ အကောင်အထည်ဖော်နိုင်ရေးအတွက် အရင်းအမြစ်များကို ထိရောက်စွာခွဲဝေသုံးစွဲခြင်းသည် အရေးကြီးပါသည်။
 
 6675
 The CIO is not involved in resource allocation decisions.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအိုင်အို သည် အရင်းအမြစ် ခွဲဝေမှုဆိုင်ရာ ဆုံးဖြတ်ချက်များတွင် ပါဝင်ခြင်းမရှိပါ။
 
 6676
 The CIO organization usually has a staff of seven people on hand to provide support in these cases.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအိုင်အို အဖွဲ့အစည်းသည် ဤ ကိစ္စရပ်များတွင် ပံ့ပိုး ကူညီ ရန် လူခုနစ်ဦးပါရှိသော ဝန်ထမ်းအင်အား တစ်ခု ၏ လက်ထဲတွင် မကြာခဏ ရှိသည်။
 
 6677
 Not everyone ants to allow public comments.
-<MYANMAR UNICODE TRANSLATION HERE>
+အများသူငှာ မှတ်ချက်ပေးခြင်းကို ခွင့်ပြုဖို့ လူတိုင်းက အလိုမရှိဘူး။
+# REVIEW
+# ants / wants
 
 6678
 Public comment must be allowed.
-<MYANMAR UNICODE TRANSLATION HERE>
+အများသူငှာ မှတ်ချက်ပေးခြင်းကို ခွင့်ပြုရမည်။
 
 6679
 There is no need to allow the public to comment.
-<MYANMAR UNICODE TRANSLATION HERE>
+အများသူငှာ မှတ်ချက်ပေးဖို့ ခွင့်ပြုရန် မလိုအပ်ပါဘူး။
 
 6680
 An explanation is required as to why the data reliability was not determined.
-<MYANMAR UNICODE TRANSLATION HERE>
+သတင်းအချက်အလက် ယုံကြည်စိတ်ချရမှုကို မဆုံးဖြတ်ခဲ့ရခြင်း နှင့်ပတ်သက်၍ ရှင်းလင်းချက် တစ်ခု လိုအပ်ပါသည်။
 
 6681
 The data files measured several hundred megabytes in total.
-<MYANMAR UNICODE TRANSLATION HERE>
+သတင်းအချက်အလက် ဖိုင်များသည် စုစုပေါင်း ရာဂဏန်း မဂ္ဂါဗိုက် များစွာကို တိုင်းတာသည်။
 
 6682
 The data was assessed to be entirely reliable.
-<MYANMAR UNICODE TRANSLATION HERE>
+သတင်းအချက်အလက်များသည် လုံးဝ ယုံကြည်စိတ်ချရသည်ဟု အကဲဖြတ်ခဲ့သည်။
 
 6683
 The retirement fund has financing sources.
-<MYANMAR UNICODE TRANSLATION HERE>
+အငြိမ်းစား ရန်ပုံငွေတွင် ငွေကြေးအရင်းအနှီးများရှိသည်။
 
 6684
 The retirement fund has no funding sources.
-<MYANMAR UNICODE TRANSLATION HERE>
+အငြိမ်းစား ရန်ပုံငွေတွင် ရန်ပုံငွေ ရင်းမြစ် မရှိပါ။
 
 6685
 The retirement fund is funded by employees.
-<MYANMAR UNICODE TRANSLATION HERE>
+အငြိမ်းစား ရန်ပုံငွေကို ဝန်ထမ်းများက ထောက်ပံ့သည်။
 
 6686
 Harrisburg was the only city served by the agency initially.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟားရစ်စ်ဘချ် သည် မူလက အေဂျင်စီမှ ဝန်ဆောင်မှုပေးသည့် တစ်ခုတည်းသော မြို့ ဖြစ်ခဲ့သည်။
 
 6687
 The agency resources were stretched to its limits when serving the initial three cities.
-<MYANMAR UNICODE TRANSLATION HERE>
+မူလ မြို့သုံးမြို့ကို ဝန်ဆောင်မှုပေးသည့်အခါ အေဂျင်စီ ရင်းမြစ်များသည် ၎င်း၏ ကန့်သတ်ချက်များအထိ ဖြန့်ကျက်ထားသည်။
 
 6688
 The cities of Lancaster, York and Reading were served by this agency originally.
-<MYANMAR UNICODE TRANSLATION HERE>
+လန်ကတ်စတာ ၊ ရော့ခ် နှင့် ရီးဒင်းမြို့များသည် မူလက ဤအေဂျင်စီမှ ဝန်ဆောင်မှုပေးခဲ့သည်။
 
 6689
 Budgets must be increased across the board for best results.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကောင်းဆုံး ရလဒ်များ အတွက် ဘတ်ဂျက်များကို ဘုတ်အဖွဲ့ အသီးသီး၌ တိုးမြှင့်ရမည်။
 
 6690
 Long term attention is required despite short term progress.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရေတို တိုးတက်မှု ရှိသော်လည်း ရေရှည် အာရုံစိုက်ရန် လိုအပ်ပါသည်။
 
 6691
 Since progress is being made now there is no reason for long term changes.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိုးတက်မှုကို ယခု လုပ်ဆောင်နေ သောကြောင့် ရေရှည် ပြောင်းလဲမှုများ အတွက် အကြောင်းပြချက် မရှိပါ။
 
 6692
 Adjusting the requirements will reduce the amount of confusion.
-<MYANMAR UNICODE TRANSLATION HERE>
+လိုအပ်ချက်များကို ချိန်ညှိခြင်းဖြင့် ရှုပ်ထွေးမှု ပမာဏကို လျှော့ချလိမ့်မည်။
 
 6693
 These requirements will not cause any confusion.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤလိုအပ်ချက်များသည် မည်သည့်ရှုပ်ထွေးမှုကိုမှ ဖြစ်ပေါ်စေမည်မဟုတ်ပါ။
 
 6694
 This requirement will cause a lot of confusion.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤလိုအပ်ချက်သည် များစွာ ရှုပ်ထွေးမှုကို ဖြစ်စေလိမ့်မည်။
 
 6695
 A German SCR system has been in Europe for 20 years.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျာမန် အက်စ်စီအာ စနစ် တစ်ခုသည် နှစ်၂၀ကြာ ဉရောပတွင် ရှိပြီဖြစ်သည်။
 
 6696
 A German SCR system works in Germany.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျာမန် အက်စ်စီအာ စနစ် တစ်ခုသည် ဂျာမဏီတွင် အလုပ်လုပ်သည်။
 
 6697
 An SCR system is only in Australia.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်စ်စီအာ စနစ် တစ်ခုသည် ဩစတြေးလျတွင်သာ ရှိသည်။
 
 6698
 Both contributions are figured out by the same method.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထောက်ပံ့ကြေး နှစ်ခုလုံးကို တူညီသော နည်းလမ်းဖြင့် ရှာဖွေတွက်ဆခဲ့သည်။
 
 6699
 There are two different methods of calculating the employer and employee contributions.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလုပ်ရှင် နှင့် အလုပ်သမားများ၏ ထောက်ပံ့ကြေးများကို တွက်ချက်ရာတွင် မတူညီသော နည်းလမ်း နှစ်ခု ရှိသည်။
 
 6700
 Usually the employer contribution is greater than the employee contribution.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+အများအားဖြင့် အလုပ်ရှင်၏ ထောက်ပံ့ကြေးသည် အလုပ်သမား၏ ထောက်ပံ့ကြေးထက် ပိုများသည်။
