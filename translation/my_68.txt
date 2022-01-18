@@ -1,400 +1,409 @@
 6701
 The Health Resources and Services Administration is the most important.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျန်းမာရေး အရင်းအမြစ်များ နှင့် ဝန်ဆောင်မှုများ စီမံခန့်ခွဲရေးသည် အရေးကြီးဆုံးဖြစ်သည်။
 
 6702
 The Substance Abuse and Mental Health Services Administrations are different entities.
-<MYANMAR UNICODE TRANSLATION HERE>
+မူးယစ်ဆေးဝါး အလွဲသုံးစားမှု နှင့် စိတ် ကျန်းမာရေး ဝန်ဆောင်မှုများ စီမံခန့်ခွဲရေးများသည် ကွဲပြားသည့်အရာများ ဖြစ်သည်။
 
 6703
 There is a Substance Abuse and Mental Health Services Administration.
-<MYANMAR UNICODE TRANSLATION HERE>
+မူးယစ်ဆေးဝါး အလွဲသုံးစားမှု တစ်ခု နှင့် စိတ် ကျန်းမာရေး ဝန်ဆောင်မှုများ စီမံခန့်ခွဲရေး ရှိပါသည်။
 
 6704
 Dissaving is spending more than you make.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒစ်ဆေဗင် သည် သင်လုပ်သည်ထက် ပိုသုံးစွဲခြင်း ဖြစ်သည်။
 
 6705
 Dissaving is very common in America.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒစ်ဆေဗင် သည် အမေရိကတွင် အလွန် အဖြစ်များသည်။
 
 6706
 Dissaving means you save a ton of money.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒစ်ဆေဗင် ဆိုသည်မှာ သင်ငွေ အများအပြားကို စုထားသည်ဟု အဓိပ္ပာယ်ရသည်။
 
 6707
 The Federal government will be ineffective in adopting these principles.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖက်ဒရယ် အစိုးရသည် ဤ အခြေခံမူများကို အတည်ပြုရာတွင် ထိရောက်မှုမရှိပါ။
 
 6708
 The federal government does not want to adopt these principles.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖက်ဒရယ် အစိုးရက ဤ အခြေခံမူများကို အတည်မပြုချင်ဘူး။
 
 6709
 The government is using these principles to try to handle these demands.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ တောင်းဆိုချက်များကို ကိုင်တွယ် ရန် အစိုးရသည် ဤ အခြေခံမူများကို အသုံးပြုနေသည်။
 
 6710
 Many agencies are considering outsourcing design review functions.
-<MYANMAR UNICODE TRANSLATION HERE>
+အေဂျင်စီ အများအပြားသည် ဒီဇိုင်း ပြန်လည်သုံးသပ်ခြင်း လုပ်ငန်းများကို ပြင်ပအဖွဲ့အစည်းများနှင့်စာချုပ်ချုပ်ဆိုရန် စဉ်းစားနေကြသည်။
 
 6711
 No agencies are considering outsourcing design review functions.
-<MYANMAR UNICODE TRANSLATION HERE>
+မည်သည့် အေဂျင်စီမှ ဒီဇိုင်း ပြန်လည်သုံးသပ်ခြင်း လုပ်ဆောင်ချက်များကို ပြင်ပအဖွဲ့အစည်းများနှင့်စာချုပ်ချုပ်ဆိုရန် စဉ်းစားနေခြင်း မရှိပါ။
 
 6712
 These agencies will have inferior designs if they outsource.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ အေဂျင်စီများသည် ပြင်ပအဖွဲ့အစည်းများနှင့်စာချုပ်ချုပ်ဆိုမည်ဆိုလျှင် ညံ့ဖျင်းသော ဒီဇိုင်းများ ရရှိလိမ့်မည်။
 
 6713
 The impact in France is greater than that in the United States.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြင်သစ်မှာ သက်ရောက်မှုက အမေရိကန် ပြည်ထောင်စုမှာထက် ပိုများတယ်။
 
 6714
 The impact in France is increasing.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြင်သစ်မှာ သက်ရောက်မှုတွေ တိုးလာတယ်။
 
 6715
 There is a much greater impact of volume in the United States.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကန် ပြည်ထောင်စုတွင် အရွယ်အစား ၏ ကြီးမားသော သက်ရောက်မှု များစွာ ရှိပါသည်။
 
 6716
 Texas believes that the various forms of education are beneficial.
-<MYANMAR UNICODE TRANSLATION HERE>
+တက္ကဆက်ပြည်နယ်သည် ပညာရေး ပုံစံ အမျိုးမျိုးကို အကျိုးပြုသည်ဟု ယုံကြည်သည်။
 
 6717
 Texas does not consider education beneficial.
-<MYANMAR UNICODE TRANSLATION HERE>
+တက္ကဆက်ပြည်နယ်သည် ပညာရေးကို အကျိုးပြုသည်ဟု မယူဆပါ။
 
 6718
 Texas will reconsider this matter next year.
-<MYANMAR UNICODE TRANSLATION HERE>
+တက္ကဆက်ပြည်နယ်သည် ယင်း ကိစ္စကို လာမည့်နှစ်တွင် ပြန်လည်စဉ်းစားမည်ဖြစ်သည်။
 
 6719
 Federal employees do get other perks though.
-<MYANMAR UNICODE TRANSLATION HERE>
+သို့သော်ငြားလည်း ဖက်ဒရယ် ဝန်ထမ်းများသည် အခြား ခံစားခွင့်များကို ရရှိပါသည်။
 
 6720
 Private employees agree to different terms and conditions than Federal employees.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပုဂ္ဂလိက ဝန်ထမ်းများသည် ဖက်ဒရယ် ဝန်ထမ်းများထက် မတူညီသော စည်းကမ်းသတ်မှတ်ချက်များ နှင့် အခြေအနေတွေကို သဘောတူသည်။
 
 6721
 Private employees and Federal employees agree to the same terms and conditions.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပုဂ္ဂလိက ဝန်ထမ်းများ နှင့် ဖက်ဒရယ် ဝန်ထမ်းများသည် တူညီသော စည်းကမ်းသတ်မှတ်ချက်များ နှင့် အခြေအနေတွေကို သဘောတူပါသည်။
 
 6722
 Auditors should not over regulate.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာရင်းစစ်တွေက အလွန်အကျွံ ထိန်းညှိမပေးသင့်ဘူး။
 
 6723
 Auditors should not talk.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာရင်းစစ်တွေ မပြောသင့်ဘူး။
 
 6724
 Auditors should talk.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာရင်းစစ်တွေ ပြောသင့်တယ်။
 
 6725
 A California attorney can get any and all information they need about their clients.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကယ်လီဖိုးနီးယား ရှေ့နေ တစ်ဦးသည် ၎င်းတို့၏ ဖောက်သည်များနှင့် ပတ်သက်သည့် သူတို့ လိုအပ်သည့် အချက်အလက်မှန်သမျှကို ရယူနိုင်သည်။
 
 6726
 A California attorney cannot know for sure if a client has temporarily crossed the border from Mexico.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကယ်လီဖိုးနီးယား ရှေ့နေ တစ်ဦးသည် ဖောက်သည် တစ်ယောက်သည် မက္ကဆီကိုမှ နယ်စပ်ကို ယာယီ ဖြတ်ကျော်သွားခြင်း ရှိ၊ မရှိ အတိအကျ မသိနိုင်ပေ။
 
 6727
 The attorney can get the information through the migrant worker network.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှေ့နေသည် ရွှေ့ပြောင်း အလုပ်သမား ကွန်ရက် မှတဆင့် အချက်အလက်များကို ရယူနိုင်သည်။
 
 6728
 Internal controls don't exist.
-<MYANMAR UNICODE TRANSLATION HERE>
+အတွင်းပိုင်း ထိန်းချုပ်မှုများ မရှိပါ။
 
 6729
 Some cars have internal controls.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့ ကားများတွင် အတွင်းပိုင်း ထိန်းချုပ်မှုများ ရှိသည်။
 
 6730
 Some have internal controls.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့မှာ အတွင်းပိုင်း ထိန်းချုပ်မှုများ ရှိသည်။
 
 6731
 One agency tried to make it so that an employee can just claim any travel expenses under $75 under an aggregate amount.
-<MYANMAR UNICODE TRANSLATION HERE>
+အေဂျင်စီ တစ်ခုက ဝန်ထမ်း တစ်ဦးသည် စုစုပေါင်း ပမာဏ တစ်ခု အောက်တွင် $၇၅ အောက် ခရီးသွား စရိတ်များကို တောင်းဆိုနိုင်စေရန် ကြိုးပမ်းခဲ့သည်။
 
 6732
 This idea was not well-received by t=other agencies.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ အကြံဉာဏ်ကို အခြား အေဂျင်စီများက ကောင်းကောင်းလက်ခံခြင်း မရှိခဲ့ပေ။
+# REVIEW
+# the
 
 6733
 Travelers do not have to list out their individual expenses.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခရီးသွားများသည် ၎င်းတို့၏ တစ်ဦးချင်း ကုန်ကျစရိတ်များကို စာရင်းပြုစုရန် မလိုအပ်ပါ။
 
 6734
 Incremental purchasing can be put into action right away.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိုးမြင့် ဝယ်ယူမှုများကို ချက်ချင်း လုပ်ဆောင်နိုင်ပါသည်။
 
 6735
 Incremental purchasing will increase risks.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိုးမြင့် ဝယ်ယူခြင်းသည် အန္တရာယ်များကို တိုးပွားစေလိမ့်မည်။
 
 6736
 Risks can be minimized by incremental purchasing.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိုးမြင့် ဝယ်ယူခြင်းဖြင့် အန္တရာယ်များကို လျှော့ချနိုင်သည်။
 
 6737
 Allenbrand and Drews are getting sued for false imprisionment.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလ်လန်ဘရန်း  နှင့် ဒရူးတို့သည် မှားယွင်းသော အကျဉ်းချမှုအတွက် တရားစွဲခံရသည်။
 
 6738
 Allenbrand and Drews are getting sued.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလ်လန်ဘရန်း နှင့် ဒရူးတို့သည် တရားစွဲခံရသည်။
 
 6739
 Allenbrand and Drews are prosecuting the case.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလ်လန်ဘရန်း နဲ့ ဒရူးတို့သည် ဒီအမှုကို တရားစွဲနေပါတယ်။
 
 6740
 Postal density has a big impact on the cost in France.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာတိုက်နဲ့နီးသောဒေသများသည် ပြင်သစ်တွင် ကုန်ကျစရိတ်အပေါ် ကြီးမားသော သက်ရောက်မှုရှိသည်။
+# REVIEW
+# Postal density
 
 6741
 Postal density has no impact on cost.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာတိုက်နဲ့နီးသောဒေသများသည် ကုန်ကျစရိတ်အပေါ် သက်ရောက်မှု မရှိပါ။
+# REVIEW
+# Postal density
 
 6742
 Postal density raises the cost in France by up to 40%.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာတိုက်နဲ့နီးသောဒေသများသည် ပြင်သစ်တွင် ကုန်ကျစရိတ်ကို ၄၀% အထိ တိုးစေသည်။
+# REVIEW
+# Postal density
 
 6743
 It takes 17 months to implement that part.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီအပိုင်းကို အကောင်အထည်ဖော်ဖို့ ၁၇ လ ကြာတယ်။
 
 6744
 It takes 17 months to implement the new rules.
-<MYANMAR UNICODE TRANSLATION HERE>
+စည်းမျဉ်း အသစ်ကို အကောင်အထည်ဖော်ရန် ၁၇ လ ကြာသည်။
 
 6745
 It takes 4 months from start to finish.
-<MYANMAR UNICODE TRANSLATION HERE>
+အစမှ အဆုံး ၄ လကြာသည်။
 
 6746
 Illiterate people are very common and we need a plan to deal with them.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာမတတ်သူတွေဟာ အလွန် အဖြစ်များ ပြီး သူတို့ကို ကိုင်တွယ်ဖြေရှင်းဖို့ အစီအစဉ် တစ်ခု ကျွန်တော်တို့ လိုပါတယ်။
 
 6747
 Illiterate people can figure it out on their own.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာမတတ်တဲ့သူတွေက သူတို့ ကိုယ်ပိုင် ၎င်းကို အဖြေရှာလို့ရတယ်။
 
 6748
 Illiterate people wouldn't understand the materials.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာမတတ်တဲ့သူတွေက ပစ္စည်းတွေကို နားမလည်ဘူး။
 
 6749
 The groups never speak to each other.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဖွဲ့တွေ အချင်းချင်း ဘယ်တုန်းကမှ စကားမပြောဖြစ်ဘူး။
 
 6750
 The two groups work together to make sure they aren't missing any important pieces.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဖွဲ့ နှစ်ဖွဲ့သည် အရေးကြီးသော အပိုင်းများ မပျောက်ပျက်စေရန် အတူတူလုပ်ဆောင်ကြသည်။
 
 6751
 The two groups work together.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဖွဲ့ နှစ်ဖွဲ့က အတူတူ အလုပ်လုပ်တယ်။
 
 6752
 CCS cannot provide statistics for the number of residential routes.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီစီအက်စ်သည် လူနေအိမ် လမ်းကြောင်း အရေအတွက် အတွက် စာရင်းဇယားများကို မပေးနိုင်ပါ။
 
 6753
 There are 13,212 residential routes.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူနေအိမ် လမ်းကြောင်း ၁၃,၂၁၂ ခု ရှိသည်။
 
 6754
 There are more residential routes than business routes.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီးပွားရေး လမ်းကြောင်းများထက် လူနေအိမ် လမ်းကြောင်းများ ပိုများသည်။
 
 6755
 Change in the Postal and Delivery Industries needs to be managed.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာတိုက် နှင့် ပို့ဆောင်ရေး လုပ်ငန်းများတွင် အပြောင်းအလဲကို စီမံခန့်ခွဲရန် လိုအပ်သည်။
 
 6756
 Change in the Postal and Delivery Industries happen organically and do not need to be managed.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာတိုက် နှင့် ပို့ဆောင်ရေး လုပ်ငန်းများတွင် ပြောင်းလဲမှုသည် အော်ဂဲနစ်အတိုင်း ဖြစ်ပေါ်ပြီး စီမံခန့်ခွဲရန် မလိုအပ်ပါ။
+# REVIEW
+# organically / originally
 
 6757
 There are people whose only job is to manage the changes in the Postal and Delivery Industries.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာတိုက် နှင့် ပို့ဆောင်ရေး လုပ်ငန်းများတွင် အပြောင်းအလဲများကို စီမံခန့်ခွဲ ရန် အလုပ် တစ်ခုတည်းရှိတဲ့သူတွေရှိတယ်။
 
 6758
 We figured the volume is exactly the same as the pieces per possible.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထုထည်ပမာဏသည် ဖြစ်နိုင်သည့် အပိုင်းများနှင့် အတိအကျ တူညီသည် ဟု ကျွန်ုပ်တို့ ယူဆပါသည်။
 
 6759
 We figured the volume per capita and pieces were related.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတစ်ဉီးတစ်ယောက်ချင်းစီ၏ အသံ နှင့် အပိုင်းအစများသည် ဆက်နွယ်နေသည်ကို ကျွန်တော်တို့က ယူဆပါသည်။
 
 6760
 We know there's no connection between volume per capita and pieces per possible.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတစ်ဉီးတစ်ယောက်ချင်းစီ၏ အသံ နှင့် ဖြစ်နိုင်ချေရှိသော တစ်ခုချင်းစီအကြား ဆက်စပ်မှုမရှိသည်ကို ကျွန်ုပ်တို့သိပါသည်။
 
 6761
 The welcome package is delivered by hand.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကြိုဆိုသော ပက်ကေ့ချ်များကို လက်ဖြင့် ပို့ပေးပါသည်။
 
 6762
 The welcome packages are appreciated by those who receive them.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကြိုဆိုသော ပက်ကေ့ချ်များကို လက်ခံရရှိသူများမှ တန်ဖိုးထားကြသည်။
 
 6763
 The welcome packages are sent by mail.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကြိုဆိုရေး ပက်ကေ့ချ်များကို စာတိုက်မှ ပေးပို့ပါသည်။
 
 6764
 The outage should have ended much sooner.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတ်တောက်မှုသည် မြန်မြန်ဆန်ဆန် ပြီးဆုံးသင့်သည်။
 
 6765
 There was a six-week service outage.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခြောက်ပတ်ကြာ ဝန်ဆောင်မှု ပြတ်တောက်ခြင်း ဖြစ်ခဲ့သည်။
 
 6766
 There was no boiler service outage.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘွိုင်လာ ဝန်ဆောင်မှု ပြတ်တောက်မှု မရှိခဲ့ပါ။
 
 6767
 Big countries fared better with this system.
-<MYANMAR UNICODE TRANSLATION HERE>
+နိုင်ငံကြီးတွေက ဒီစနစ်နဲ့ ပိုကောင်းတယ်။
 
 6768
 We had no way to figure out how many pieces were possible per stop.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရပ်တန့်မှု တစ်ခုလျှင် အပိုင်းမည်မျှ ဖြစ်နိုင်သည်ကို ကျွန်ုပ်တို့ တွက်ဆရန် နည်းလမ်း မရှိပါ။
 
 6769
 We use a formula to figure out about how many pieces were possible per stop,.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရပ်တန့်မှု တစ်ခုလျှင် အပိုင်းမည်မျှ ဖြစ်နိုင်ကြောင်း တွက်ချက်ရန် ဖော်မြူလာ တစ်ခုကို ကျွန်တော်တို့ အသုံးပြုသည်။
 
 6770
 High volume areas also have high incomes.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထုထည် များသော ဒေသများသည် ၀င်ငွေလည်း မြင့်မားသည်။
 
 6771
 High volume areas are the poorest.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထုထည် မြင့်မားသော ဒေသများသည် အဆင်းရဲဆုံးဖြစ်သည်။
 
 6772
 High volume areas have income over $100,000.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထုထည် မြင့်မားသော ဒေသများတွင် ၀င်ငွေ ဒေါ်လာ ၁၀၀,၀၀၀ ကျော်ရှိသည်။
 
 6773
 We want to make GAO fall apart.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တေတာ်တို့ ဂျီအေအိုကို ကွဲထွက်သွားအောင် လုပ်ချင်တယ်။
 
 6774
 We want to make GAO stronger because it has a lot of problems right now.
-<MYANMAR UNICODE TRANSLATION HERE>
+လက်ရှိတွင် ပြဿနာ များစွာ ရှိနေ သောကြောင့် ဂျီအေအိုကို ပိုမို အားကောင်းအောင် ပြုလုပ်ချင်ကြတယ်။
 
 6775
 We want to make GAO stronger.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့သည် ဂျီအေအိုကို ပိုမို အားကောင်းအောင် ပြုလုပ်ချင်ကြတယ်။
 
 6776
 They can develop the plan faster than expected.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် မျှော်လင့်ထားသည်ထက် ပိုမိုမြန်ဆန်သော အစီအစဉ်ကို တိုးတတ်ဖွံ့ဖြိုးစေသည်။
 
 6777
 They usually need another year to implement the plan.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် အစီအစဉ်ကို အကောင်အထည်ဖော်ရန် နောက်ထပ် တစ်နှစ် လိုအပ်သည်။
 
 6778
 They usually need more time to create the action plan.
-<MYANMAR UNICODE TRANSLATION HERE>
+လုပ်ဆောင်ချက် အစီအစဉ်ကို ဖန်တီး ရန် သူတို့သည် များသောအားဖြင့် အချိန်ကို ပို၍ လိုအပ်သည်။
 
 6779
 A new method of estimating the concentration-response relationship is needed.
-<MYANMAR UNICODE TRANSLATION HERE>
+အာရုံစူးစိုက်မှု-တုံ့ပြန်မှု ဆက်ဆံရေးကို ခန့်မှန်းရန် နည်းလမ်း အသစ် တစ်ခု လိုအပ်ပါသည်။
 
 6780
 The concentration-response relationship is rarely figured out exactly.
-<MYANMAR UNICODE TRANSLATION HERE>
+အာရုံစူးစိုက်မှု-တုံ့ပြန်မှု ဆက်ဆံရေးကို အတိအကျ တွက်ဆခဲပါတယ်။
 
 6781
 The effects of the concentration-response relationship are rarely overestimated.
-<MYANMAR UNICODE TRANSLATION HERE>
+အာရုံစူးစိုက်မှု-တုံ့ပြန်မှု ဆက်ဆံရေး၏ အကျိုးသက်ရောက်မှုများကို လျှော့တွက်ရန်မှာ အလွန်နည်းပါးပါသည်။
 
 6782
 The bypass will  send water to the FGD.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပိုက်လိုင်းကနေ အက်ဖ်ဂျီဒီ ဆီကို ရေကို ပို့လိမ့်မယ်။
 
 6783
 The bypass will send gas to the FGD in Russia.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပိုက်လိုင်းသည် ရုရှားရှိ အက်ဖ်ဂျီဒီ သို့ ဓာတ်ငွေ့များ ပေးပို့မည်ဖြစ်သည်။
 
 6784
 The bypass will send gas to the FGD.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပိုက်လိုင်းက အက်ဖ်ဂျီဒီ ဆီကို ဓာတ်ငွေ့ပို့လိမ့်မယ်။
 
 6785
 Improvements in the operations of government agencies were included.
-<MYANMAR UNICODE TRANSLATION HERE>
+အစိုးရ ဌာနများ၏ လုပ်ငန်းဆောင်ရွက်မှုများတွင် တိုးတက်မှုများ ပါဝင်ခဲ့သည်။
 
 6786
 There should have been been more things included.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကြောင်းအရာတွေက ဒီထက်မက ပါဝင်သင့်တယ်။
 
 6787
 They did not include technological innovation.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် နည်းပညာဆိုင်ရာ ဆန်းသစ်တီထွင်မှုတွေ မပါဝင်ခဲ့ပါဘူး။
 
 6788
 Immigrants move around a lot in the US.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရွှေ့ပြောင်းအခြေချသူများသည် အမေရိကန်တွင် အများအပြား ရွှေ့ပြောင်းနေထိုင်ကြသည်။
 
 6789
 Immigrants move to the north in the summer.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရွှေ့ပြောင်းအခြေချသူများသည် နွေရာသီတွင် မြောက်ဘက်သို့ ရွှေ့ကြသည်။
 
 6790
 Immigrants never move once they arrive in the US.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရွှေ့ပြောင်းအခြေချသူများသည် အမေရိကန်သို့ သူတို့ ရောက်သည်နှင့် တပြိုင်နက် မည်သည့်အခါမျှ ရွှေ့ပြောင်းနေထိုင်ခြင်းမရှိပေ။
 
 6791
 Every case needs to have a specific person working on it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကိစ္စတိုင်းတွင် ၎င်းကို အလုပ်လုပ်ပေးသော တိကျသော လူတစ်ယောက် ရှိရန် လိုအပ်သည်။
 
 6792
 One size fits all is not a good policy in clinical practice.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရွယ်အစား တစ်ခုသည် အားလုံးနှင့် ကိုက်ညီသည်ဆိုသည်မှာ လက်တွေ့ကျသော အလေ့အကျင့်တွင် ကောင်းမွန်သော မူဝါဒ တစ်ခု မဟုတ်ပါ။
 
 6793
 One size fits all when it comes to brief interventions.
-<MYANMAR UNICODE TRANSLATION HERE>
+အတိုချုံး ပါဝင်ပတ်သတ်မှုများ ဖြစ်လာတဲ့အခါမှာ အရွယ်အစား တစ်ခုသည် အားလုံးနှင့် ကိုက်ညီသည်။
 
 6794
 No reports on pilot programs were submitted.
-<MYANMAR UNICODE TRANSLATION HERE>
+စမ်းသပ်ချက် စီမံကိန်း အစီရင်ခံစာများကို တင်သွင်းခဲ့ခြင်းမရှိပါ။
 
 6795
 There were forty-four pilot project reports submitted.
-<MYANMAR UNICODE TRANSLATION HERE>
+စမ်းသပ်ချက် စီမံကိန်း အစီရင်ခံစာ လေးဆယ့်လေးခုကို တင်ပြခဲ့သည်။
 
 6796
 There were more pilot programs, but only forty-four submitted reports.
-<MYANMAR UNICODE TRANSLATION HERE>
+နောက်ထပ် စမ်းသပ်ချက် စီမံကိန်းများ ရှိခဲ့သော်လည်း ၊ အစီရင်ခံစာ လေးဆယ့်လေးခုသာ တင်ပြခဲ့သည်။
 
 6797
 It is not possible to modify the Title V operating permit.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခေါင်းစဉ် ၅သည် လည်ပတ်မှု ခွင့်ပြုခြင်းကို ပြုပြင်ရန် မဖြစ်နိုင်ပါ။
 
 6798
 It will take over a year to modify the Title V operating permit.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခေါင်းစဉ် ၅သည် လည်ပတ်မှု ခွင့်ပြုခြင်းကို ပြုပြင်ရန် တစ်နှစ်ကျော် ကြာမည်ဖြစ်သည်။
 
 6799
 There are many documents that need to be signed when modifying the Title V operating permit.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခေါင်းစဉ် ၅သည် လည်ပတ်မှု ခွင့်ပြုခြင်းကို ပြင်ဆင်သည့်အခါတွင် လက်မှတ်ရေးထိုးရန် လိုအပ်သော စာရွက်စာတမ်း များစွာ ရှိပါသည်။
 
 6800
 France does not have a postal service.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+ပြင်သစ်တွင် စာတိုက် ဝန်ဆောင်မှု တစ်ခု မရှိပါ။
