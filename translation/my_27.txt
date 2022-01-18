@@ -1,400 +1,402 @@
 2601
 It was difficult to get him out.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ့ကို ထွက်သွားခိုင်းဖို့ ခက်တယ်။
 
 2602
 There were instruments in the aircraft that melted.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရည်ပျော်နေတဲ့ လေယာဉ်ထဲမှာ ကိရိယာတွေ ရှိတေယ်။
 
 2603
 Alas, she was not able to understand clearly due to a language barrier.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲလက်စ် ဘာသာစကား အခက်အခဲကြောင့် သူမ ရှင်းရှင်းလင်းလင်း နားမလည်နိုင်ဘူး။
 
 2604
 Indeed, she did not comprehend.
-<MYANMAR UNICODE TRANSLATION HERE>
+တကယ်တော့ သူမ နားမလည်ခဲ့ဘူး။
 
 2605
 She knew exactly what we were talking about.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ပြောနေတဲ့အရာကို သူမ သေချာ သိခဲ့တယ်။
 
 2606
 The bomb had been deactivated by the pilot.
-<MYANMAR UNICODE TRANSLATION HERE>
+လေယာဉ်မှူးက ဗုံးကို ပိတ်ထားလိုက်ပြီးပြီ။
 
 2607
 The bomb had no chance of exploding.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဗုံး ပေါက်ကွဲဖို့ အလားအလာ မရှိခဲ့ဘူး။
 
 2608
 There was a great danger of the bomb exploding.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဗုံးပေါက်ကွဲမှု ရဲ့ ကြီးမားတဲ့ အန္တရာယ် ရှိခဲ့တယ်။
 
 2609
 I'm not sure what this looks like to you.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက မင်းနဲ့ ဘာတူတာလဲ ငါလည်း မသေချာဘူး။
 
 2610
 I'm trying to do this, obviously.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ဒါကို လုပ်ဖို့ သိသိသာသာ ကြိုးစားနေတယ်။
 
 2611
 I'm trying to finish my project in the next week.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါရဲ့ စီမံကိန်းကို နောက်အပတ်ထဲမှာ ပြီးဖို့ ကြိုးစားနေတယ်။
 
 2612
 The goats escaped from the barn every day.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆိတ်များ တင်းကုတ်မှ နေ့စဉ် လွတ်သွားခဲ့တယ်။
 
 2613
 The goats escaped often.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆိတ်များ မကြာခဏ လွတ်သွားခဲ့တယ်။
 
 2614
 The goats were kept safe and secure.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆိတ်များကို လုံခြုံစိတ်ချရအောင် ထိန်းသိမ်းခဲ့တယ်။
 
 2615
 I didn't hear her when she told everyone else.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ လူတိုင်း ကို ပြောတဲ့အချိန်မှာ ငါ နားမထောင်ခဲ့ဘူး။
 
 2616
 I heard everything she said.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ သူပြောနေတဲ့ အရာအားလုံးကို ကြားခဲ့တယ်။
 
 2617
 I was talking to someone else at the time.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲ့ဒီအချိန်မှာ တခြားတစ်ယောက်ကို ငါ စကားပြောနေခဲ့တယ်။
 
 2618
 All of the doors were open.
-<MYANMAR UNICODE TRANSLATION HERE>
+တံခါး အားလုံး ပွင့်ခဲ့တယ်။
 
 2619
 We had the keys with us.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့မှာ ကျွန်တော်တို့နဲ့အတူ သော့တွေ ပါခဲ့တယ်။
 
 2620
 We went in even though the doors were locked.
-<MYANMAR UNICODE TRANSLATION HERE>
+တံခါးတွေ သော့ခတ်ထားသော်လည်း ကျွန်တော်တို့ ဝင်သွားခဲ့တယ်။
 
 2621
 A couple of aircraft got lost because of the weather.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရာသီဉတုကြောင့် လေယာဉ် နှစ်စင်း ပျောက်ဆုံးခဲ့တယ်။
 
 2622
 A couple of aircraft were lost.
-<MYANMAR UNICODE TRANSLATION HERE>
+လေယာဉ် နှစ်စင်း ပျောက်ဆုံးခဲ့တယ်။
 
 2623
 We've never lost an aircraft.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ လေယာဉ် တစ်စင်းမှ မပျောက်ဆုံးခဲ့ပါဘူး။
 
 2624
 I don't need any help.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ဘာအကူအညီမှ မလိုဘူး။
 
 2625
 It is a big job that I need done.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက ငါ လုပ်ဖို့လိုတဲ့ အလုပ်ကြီးပဲ။
 
 2626
 There is something I need done.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ လုပ်ဖို့ လိုတာ တစ်ခုခုရှိတယ်။
 
 2627
 I feel confident that the totals are all I need to get this figured out.
-<MYANMAR UNICODE TRANSLATION HERE>
+စုစုပေါင်း ကတော့ ငါ ဒါကို ဖြေရှင်းဖို့ လိုတဲ့ အားလုံးပဲလို့ ငါ ယုံကြည်တယ်။
 
 2628
 I have no clue what to do with just the totals please give me more details to figure out this mess.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ စုစုပေါင်းတွေနဲ့ ဘာလုပ်ရမယ်ဆိုတဲ့ သဲလွန်စ မရှိဘူး ကျေးဇူးပြုပြီး ဒီအရှုပ်ကို ဖြေရှင်းဖို့ ငါ့ကို အသေးစိတ်အချက်အလက်တွေ ပိုပေးပါ။
 
 2629
 I will calculate it based off of the totals.
-<MYANMAR UNICODE TRANSLATION HERE>
+စုစုပေါင်းတွေပေါ် အခြေခံပြီး ငါ တွက်ပေးမယ်။
 
 2630
 He was so excited and bursting with joy that he practically knocked the door off it's frame.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ အလွန် စိတ်လှုပ်ရှားပြီး ပျော်ရွှင်မှုတွေ လျှံထွက်လာသောကြောင့် တံခါးကို လက်တွေ့ ခေါက်လိုက်တယ် အဲ့ဒါက တံခါးဘောင် ဖြစ်တယ်။
 
 2631
 He was trying not to make us feel guilty but we knew we had caused him trouble.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက ကျွန်တော်တို့ကို စိတ်မသိုးမသန့် မဖြစ်ဖို့ ကြိုးစားနေခဲ့ သော်လည်း ကျွန်တော်တို့ သူ့ကို ဒုက္ခဖြစ်စေခဲ့တာ ကျွန်တော်တို့ သိခဲ့တယ်။
 
 2632
 Just by the look on his face when he came through the door I just knew that he was let down.
-<MYANMAR UNICODE TRANSLATION HERE>
+တံခါးက သူ ဝင်လာတဲ့အခါ သူရဲ့မျက်နှာကို တစ်ချက်မျှကြည့်ရုံနဲ့ သူ စိတ်ပျက်လက်ပျက်ဖြစ်လာတာ ငါ သိခဲ့တယ်။
 
 2633
 I dont have a particular store.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့မှာ သီးသန့် စတိုးဆိုင် မရှိပါဘူး။
 
 2634
 I have 1 specific store.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့မှာ သတ်သတ်မှတ်မှတ် စတိုးဆိုင် တစ်ဆိုင် ရှိတယ်။
 
 2635
 There are a lot of stores.
-<MYANMAR UNICODE TRANSLATION HERE>
+စတိုးဆိုင်တွေ အများကြီးပဲ။
 
 2636
 It flies over 20,000 miles an hour.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်နာရီမှာ  မိုင် ၂၀,၀၀၀ အထက် ပျံသန်းတယ်။
 
 2637
 It only travels 10,000 miles an hour.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်နာရီမှာ မိုင် ၁၀,၀၀၀ သာလျှင် သွားတယ်။
 
 2638
 The jet flies 20,000 miles an hour.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျက်လေယာဉ်ဟာ တစ်နာရီမှာ မိုင် ၂၀,၀၀၀ ပျံသန်းတယ်။
 
 2639
 Rudolph Anderson was nowhere to be found, so we only had one U2's.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရူဒေါ့ အန်ဒါဆန် ကို ဘယ်‌နေရာမှာမှ ရှာမတွေ့ခဲ့ဘူး ဒါကြောင့် ကျွန်တော်တို့မှာ ယူတူး တစ်ယောက်ပဲ ရှိခဲ့တယ်။
 
 2640
 Rudolph Anderson was part of three U2's.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရူဒေါ့ အန်ဒါဆန် ဟာ ယူတူး သုံးယောက်ထဲက တစ်ယောက်ပေါ့။
 
 2641
 We were blessed to have Rudolph Anderson help with the U2's.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယူတူး နဲ့အတူ ရူဒေါ့ အန်ဒါဆန် ရဲ့ အကူအညီ ရတာ ကျွန်တော်တို့အတွက် မင်္ဂလာပါပဲ။
 
 2642
 He gets a lot of help.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ အကူအညီ အများကြီး ရတယ်။
 
 2643
 He gets help with his meals and clothes.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူရဲ့ အစားအသောက်နှင့် အဝတ်အစားများအတွက် အကူအညီ ရတယ်။
 
 2644
 He is very independent.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ အရမ်း လွတ်လပ်တယ်။
 
 2645
 She was gone without a trace.
-<MYANMAR UNICODE TRANSLATION HERE>
+သဲလွန်စ မရှိဘဲ သူမ ပျောက်သွားခဲ့တယ်။
 
 2646
 She was still in the vicinity.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမ အနီးနားပတ်ဝန်းကျင်မှာ ရှိနေသေးတယ်။
 
 2647
 We thought she left but she remained.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့က သူ ထွက်သွားပြီ ထင်ခဲ့ပေမယ့် သူ ရှိနေခဲ့တယ်။
 
 2648
 Ramona was on the floor curled up in a fetal position.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရာမိုနာ သည် သန္ဓေသားအနေအထားနဲ့ ကြမ်းပြင်ပေါ်မှာ ကွေးကွေးလေးလှဲနေတယ်။
 
 2649
 Ramona was silently judging me.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရာမိုနာ က ငါ့ကို တိတ်တဆိတ် အကဲခတ်နေတယ်။
 
 2650
 Ramona was upright while I was there in awe.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါက အဲ့ဒီမှာ အံ့ဩကြောက်ရွံ့ဖြစ်နေစဉ် ရာမိုနာ ကတော့ တည်ကြည်တယ်။
 
 2651
 I don't need to deal with that.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ အဲ့ဒါကို ဖြေရှင်းဖို့ မလိုဘူး။
 
 2652
 I will look through this.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ဒီကနေ ကြည့်မယ်။
 
 2653
 I'll look through these reports.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ဒီ အစီအရင်ခံစာတွေကနေ ကြည့်မယ်။
 
 2654
 She ate a lot of food, but still kept her weight down.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမ အစားအစာတွေ အများကြီး စားခဲ့တယ် ဒါပေမယ့် သူမရဲ့ ကိုယ်အလေးချိန်ကို လျှော့ချထားနိုင်တုန်းပဲ။
 
 2655
 She did not weigh much at all.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ ကိုယ်အလေးချိန် လုံးဝ မချိန်ခဲ့ဘူး။
 
 2656
 She was very happy.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ အရမ်းပျော်တယ်။
 
 2657
 We were supposed to look at the flying plane.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပျံသန်းနေတဲ့ လေယာဉ်ကို ကြည့်ဖို့ ကျွန်တော်တို့ကို အကြံပြုတယ်။
 
 2658
 We were supposed to look at what was flying.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘာ ပျံသန်းနေတယ် ကြည့်ဖို့ ကျွန်တော်တို့ကို အကြံပြုတယ်။
 
 2659
 We were told not to look outside.
-<MYANMAR UNICODE TRANSLATION HERE>
+အပြင်ကို မကြည့်ဖို့ ကျွန်တော်တို့ကို ပြောတယ်။
 
 2660
 He was too afraid to burn anything so he just flushed it.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ တစ်ခုခုကို မီးရှို့ဖျက်ဆီးရမှာ ကြောက်လို့ ရေအိမ်ထဲ ပစ်ပြီး ရေဆွဲချလိုက်တယ်။
 
 2661
 He would burn the paper.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ စာရွက်တွေကို မီးရှို့ဖျက်ဆီးလိမ့်မယ်။
 
 2662
 He would write a dream on the paper and then burn it.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ စာရွက်ပေါ်မှာ စိတ်ကူးတစ်ခု ရေးလိုက်ပြီးနောက် အဲ့ဒါကို မီးရှို့လိုက်လိမ့်မယ်။
 
 2663
 He continued to live in Augusta even after the attacks.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထိုးနှက်ခံရပြီးနောက်တောင်မှ သူ အော်ဂတ်စ်တာ မှာ ဆက်နေခဲ့တယ်။
 
 2664
 He continued to live in Augusta.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ အော်ဂတ်စ်တာ မှာ ဆက်နေခဲ့တယ်။
 
 2665
 He moved outside of Augusta right away.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ အော်ဂတ်စ်တာ အပြင်သို့ ချက်ချင်း ပြောင်းရွှေ့ခဲ့တယ်။
 
 2666
 I never asked where they were going.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ သွားနေတဲ့ နေရာကို ငါ ဘယ်တုန်းကမှ မမေးခဲ့ဘူး။
 
 2667
 They always let us know where they were and where they were going.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က သူတို့ ရှိတဲ့ နေရာ နှင့် သွားနေတဲ့ နေရာကို ကျွန်တော်တို့ကို အမြဲ အသိပေးတယ်။
 
 2668
 They never told us where they were going.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ သွားနေတဲ့နေရာကို ကျွန်တော်တို့ကို ဘယ်တော့မှ မပြောခဲ့ဘူး။
 
 2669
 Ramona has lived in Concord all her life.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရာမိုနာသည် သူမရဲ့ ဘဝတလျှောက်လုံး ကွန်ကော့ မှာ နေခဲ့သည်။
 
 2670
 Ramona has never been to Concord.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရာမိုနာ ကွန်ကော့ကို မရောက်ဖူးဘူး။
 
 2671
 Ramona is located in Concord.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရာမိုနာ သည် ကွန်ကော့မှာ တည်ရှိသည်။
 
 2672
 I was in Special Activities for years.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် နှစ်ပေါင်းများစွာ အထူးလုပ်ဆောင်မှု့ဌာန မှာ ရှိခဲ့တယ်။
+#REVIEW
+#Special Activities
 
 2673
 I've never had a job.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် အလုပ် မရှိဖူးဘူး။
 
 2674
 My favorite job was in Special Activities.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် အကြိုက်ဆုံးအလုပ်ကတော့ 
+#REVIEW
 
 2675
 They won't pay for anything forus.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ အတွက် သူတို့ ဘာမှ ပေးလိမ့်မယ်မဟုတ်ဘူး။
 
 2676
 They're paying for housing for me and my siblings.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်နှင့် ကျွန်တော့် မွေးချင်းညီအစ်ကိုမောင်နှမများရဲ့ အိမ်ရာအတွက် သူတို့ ပေးတယ်။
 
 2677
 They're paying for housing.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိမ်ရာအတွက် သူတို့ ပေးတယ်။
 
 2678
 Kennedy told our troops to look for missiles.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကန်နဒီ က ကျွန်တော်တို့ တပ်များကို ဒုံးကျဉ်ရှာဖို့ ပြောခဲ့တယ်။
 
 2679
 They didn't stop any ships because they didn't want conflict.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ ဘယ်သင်္ဘောကိုမှ မရပ်ခဲ့ဘူး ဘာကြောင့်လဲဆိုတော့ သူတို့ ရန်ပွဲ မဖြစ်ချင်ဘူး။
 
 2680
 They found 20 missiles on the ship.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ သင်္ဘောပေါ်မှာ ဒုံးကျဉ် အခု ၂၀ တွေ့ခဲ့တယ်။
 
 2681
 The man entered the courtroom.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူကြီးတစ်ယောက် တရားခွင် ကို ဝင်လာခဲ့တယ်။
 
 2682
 The man entered the room.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူကြီးတစ်ယောက် အခန်းထဲကို ဝင်လာခဲ့တယ်။
 
 2683
 The man ran the other way.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူကြီးတစ်ယောက် တခြားလမ်းကို ပြေးသွားခဲ့တယ်။
 
 2684
 It took a long time to drive to my grandparent's house.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့်ရဲ့ အဖိုးအဖွားအိမ်ကို ကားမောင်းသွားတာ အချိန်အတော်ကြာခဲ့တယ်။
 
 2685
 My grandparents were a very loving couple.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့်ရဲ့ အဖိုးနဲ့အဖွားဟာ အလွန်ချစ်စရာကောင်းတဲ့ စုံတွဲတစ်တွဲ ဖြစ်တယ်။
 
 2686
 My grandparents were always very cranky and we never liked going to their house.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့်ရဲ့ အဖိုးအဖွားများဟာ အလွန်စိတ်ဆိုးလွယ်ကြပြီး သူတို့ အိမ်ကို သွားရတာ ကျွန်တော်တို့ ဘယ်တုန်းကမှ မကြိုက်ခဲ့ဘူး။
 
 2687
 I didn't remember it at all.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ အဲ့ဒါကို လုံးဝ သတိမရခဲ့ဘူး။
 
 2688
 That's probably the reason I remembered his name.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက ငါ သူ့ နာမည်ကို မှတ်မိရတဲ့ အကြောင်းအရင်းဖြစ်နိုင်တယ်။
 
 2689
 That's probably why I recalled that.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက ငါ အဲ့ဒါကို ပြန်လည်မှတ်မိနိုင်တဲ့ အကြောင်းအရင်းဖြစ်နိုင်တယ်။
 
 2690
 It makes you feel great.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲ့ဒါက မင်းကို ပျော်ရွှင်စေတယ်။
 
 2691
 It makes you feel horrible.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲ့ဒါက မင်းကို ကြောက်ရွံ့စေတယ်။
 
 2692
 You feel better after an hour.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်နာရီကြာပြီးနောက် မင်း နေကောင်းလာမယ်။
 
 2693
 You can go home if you want to.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း သွားချင်ရင် အိမ်ကို သွားနိုင်တယ်။
 
 2694
 You can leave.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း ထွက်သွားနိုင်တယ်။
 
 2695
 You need to stay in that exact spot!
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း အဲ့ဒီနေရာအတိအကျမှာ နေဖို့လိုတယ်။
 
 2696
 I could have finished entering it in later.
-<MYANMAR UNICODE TRANSLATION HERE>
+နောက်ကျမှ အဲ့ဒါကို ထည့်တာ ပြီးစီးခဲ့တယ်။
 
 2697
 I entered it in all on time.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ အဲ့ဒါကို အားလုံးထဲ အချိန်ကိုက် ထည့်သွင်းခဲ့တယ်။
 
 2698
 I ran out of time to enter it all in.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲ့ဒါကို ထည့်သွင်းဖို့ ငါ အချိန်ကုန်ခဲ့တယ်။
 
 2699
 The atomic bomb has no trigger.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဏုမြူဗုံးမှာ စနက်တံ မပါပါဘူး။
 
 2700
 The trigger detonates the bomb when it's pulled.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+စနက်တံကို ဆွဲလိုက်တဲ့အခါ ဗုံးကို ပေါက်ကွဲစေတယ်။
