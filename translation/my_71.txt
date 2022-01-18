@@ -1,400 +1,400 @@
 7001
 You can be perfect if you try hard enough.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းလုံလုံလောက်လောက်ကြိုးစားရင် ပြီးပြည့်စုံနိုင်ပါတယ်။
 
 7002
 You can never be perfect.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းဘယ်တော့မှ ပြီးပြည့်စုံနိုင်မှာမဟုတ်ဘူး။
 
 7003
 You can't be perfect because we are all deeply flawed people.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့အားလုံးသည် အလွန်အမင်း ချို့ယွင်းချက်ရှိသူများဖြစ်သောကြောင့် သင်သည် ပြီးပြည့်စုံခြင်း မဖြစ်နိုင်ပါ။
 
 7004
 Marxist-Leninist concepts were incorporated into the Islamist movement.
-<MYANMAR UNICODE TRANSLATION HERE>
+မာ့က်စ်ဝါဒ-လီနင်ဝါဒီ အယူအဆများကို အစ္စလာမ္မစ်လှုပ်ရှားမှုတွင် ထည့်သွင်းသည်။
 
 7005
 The Islamist movement was begun in the sixth century.
-<MYANMAR UNICODE TRANSLATION HERE>
+အစ္စလမ်မစ်လှုပ်ရှားမှုကို ခြောက်ရာစုတွင် စတင်သည်။
 
 7006
-The Islamist movement was originally founded as an organization for social mobilization.
-<MYANMAR UNICODE TRANSLATION HERE>
+The Islamist movement was orial Qaedaginally founded as an organization for social mobilization.
+အစ္စလမ်မစ်လှုပ်ရှားမှုကို orial Qaedaginally အသင်းအဖွဲ့နဲ့ဆိုင်သော စည်းရုံးရေး အဖွဲ့အစည်း တစ်ခု အဖြစ် တည်ထောင်ခဲ့သည်။
+#Review
 
 7007
 Hazmi and Mihdhar bought a home and had no contact with anyone.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟက်ဇ်မီနှင့် မစ်ဟာသည် အိမ်တစ်လုံးဝယ်ခဲ့ပြီး မည်သူနှင့်မျှ အဆက်အသွယ်မရှိပေ။
 
 7008
 Hazmi and Mihdhar rented a room for the whole year, for $500 a day.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟက်ဇ်မီနှင့် မစ်ဟာသည် တစ်နှစ်ပတ်လုံးအတွက် အခန်းတစ်ခန်းကို တစ်ရက်လျှင် ဒေါ်လာ ၅၀၀ ဖြင့် ငှားရမ်းသည်။
 
 7009
 Hazmi and Mihdhar rented a room.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟက်ဇ်မီနှင့် မစ်ဟာသည် အခန်းငှားသည်။
 
 7010
 An al Qaeda member went to Bosnia 18 times in 2001.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်လ်ကိုင်ဒါအဖွဲ့ဝင်တစ်ဦးသည် ဘော့စနီးယားသို့ ၂၀၀၁ခုနှစ်တွင် ၁၈ကြိမ် သွားရောက်ခဲ့သည်။
 
 7011
 An al Qaeda member went to Bosnia.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်လ်ကိုင်ဒါအဖွဲ့ဝင်တစ်ဦးသည် ဘော့စနီးယားသို့သွားခဲ့သည်။
 
 7012
 There was no evidence of an al Quaeda member going to Bosnia.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘော့စနီးယားသို့ အယ်လ်ကိုင်ဒါအဖွဲ့ဝင်တစ်ဦးမှ ထွက်ခွာသွားသည့် အထောက်အထား မတွေ့ရပါ။
 
 7013
 Jane asked for a FISA acknowledgement form to be signed by a federal judge.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျိန်းသည် ဗဟိုတရားသူကြီးတစ်ဦးမှ လက်မှတ်ရေးထိုးရန် အက်ဖ်အိုင်အက်စ်အေ အသိအမှတ်ပြုလွှာကို တောင်းဆိုခဲ့သည်။
 
 7014
 Jane asked for a FISA acknowledgement form to be signed.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျိန်းသည် အက်ဖ်အိုင်အက်စ်အေ အသိအမှတ်ပြုလွှာကို လက်မှတ်ရေးထိုးရန် တောင်းဆိုခဲ့သည်။
 
 7015
 Jane said no FISA acknowledgement was necessary.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျိန်းက အက်ဖ်အိုင်အက်စ်အေ အသိအမှတ်ပြုရန်မလိုအပ်ပါဟု ပြောခဲ့တယ်။
 
 7016
 Alarming evidence was discovered during the checkpoint screening.
-<MYANMAR UNICODE TRANSLATION HERE>
+စစ်ဆေးရေးဂိတ်တွင် စစ်ဆေးနေစဉ်အတွင်း စိုးရိမ်ဖွယ်ရာ အထောက်အထားများ တွေ့ရှိခဲ့သည်။
 
 7017
 Checkpoint screenings rely entirely on the intuition of the customs agent performing the screening.
-<MYANMAR UNICODE TRANSLATION HERE>
+စစ်ဆေးရေးဂိတ်စစ်ဆေးခြင်းများသည် စိစစ်မှုလုပ်ဆောင်နေသည့် အကောက်ခွန်အေးဂျင့်၏ အသိစိတ်ပေါ်တွင် လုံး၀မှီခိုနေပါသည်။
 
 7018
 The checkpoint screening was not able to discover any evidence against them.
-<MYANMAR UNICODE TRANSLATION HERE>
+စစ်ဆေးရေးဂိတ်တွေမှာ စစ်ဆေးရာမှာ သူတို့နဲ့ ပတ်သက်တဲ့ အထောက်အထား တစုံတရာ မတွေ့ရှိခဲ့ပါဘူး။
 
 7019
 Khallad said he knew nothing about the three of them.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခါလတ်က သူတို့ သုံးယောက်အကြောင်း ဘာမှ မသိကြောင်း ပြောသည်။
 
 7020
 Khallad said the three could have traveled together.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခါလတ်က သူတို့သုံးယောက် အတူတူ ခရီးထွက်နိုင်သည်ဟု ဆိုသည်။
 
 7021
 Khallad said there was a 50% chance the three went to Karachi together in October.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သုံးယောက် အောက်တိုဘာလမှာ ကရာချိကို အတူတူသွားလည်ဖို့ ၅၀% အခွင့်အရေးရှိတယ်လို့ ခါလတ်က ကပြောပါတယ်။
 
 7022
 A second wave of attacks was planned by KSM.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒုတိယလှိုင်းတိုက်ခိုက်မှုကို ကေအက်စ်အမ် မှ စီစဉ်ခဲ့သည်။
 
 7023
 After the first wave of attacks there were no more agents available.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပထမလှိုင်းတိုက်ခိုက်မှုအပြီးတွင် အေးဂျင့်များ ထပ်မံမရရှိနိုင်တော့ပါ။
 
 7024
 The second wave of attacks would have targeted train stations.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒုတိယလှိုင်းတိုက်ခိုက်မှုသည် ရထားဘူတာရုံများကို ပစ်မှတ်ထားမည်ဖြစ်သည်။
 
 7025
 All of the advisers unanimously agreed that there was nothing to be worried about.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘာမှစိုးရိမ်စရာမရှိဘူးလို့ အကြံပေးတွေအားလုံး တညီတညွတ်တည်း သဘောတူခဲ့ကြပါတယ်။
 
 7026
 Only one adviser did not voice concern over this plan.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကြံပေးတစ်ဦးတည်းသာ ၎င်းအစီအစဉ်အပေါ် စိုးရိမ်ပူပန်မှု မရှိခဲ့ပါ။
 
 7027
 This concern is shared by several different advisers.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းစိုးရိမ်မှုကို အကြံပေးသူ အမျိုးမျိုးက မျှဝေခံစားကြတယ်။
 
 7028
 Binalshibh was interrogated by an FBI task force.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘိုင်နယ်ရှစ်ကို အက်ဖ်ဘီအိုင် အဖွဲ့မှ စစ်ဆေးမေးမြန်းခဲ့သည်။
 
 7029
 Binalshibh was interrogated in 2002.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘိုင်နယ်ရှစ်ကို ၂၀၀၂ ခုနှစ်တွင် စစ်ဆေးမေးမြန်းခဲ့သည်။
 
 7030
 Binalshibh was never spoken to, and he disappeared.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘိုင်နယ်ရှစ်သည် တစ်ခါမှ စကားမပြောဘဲ ပျောက်ကွယ်သွားခဲ့သည်။
 
 7031
 Mihdhar had a US Visa to enter the country.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ်ဟာမှာ နိုင်ငံတွင်းဝင်ရောက်ရန် ယူအက်စ် ဗီဇာ ပါတယ်။
 
 7032
 Mihdhar never got a visa, so he never came to the us.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ်ဟာက တစ်ခါမှ ဗီဇာမရတဲ့အတွက် သူငါတို့ဆီ မရောက်ဖူးဘူး။
 
 7033
 Mihdhar was given a Visa because he was not a threat.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ်ဟာသည် ခြိမ်းခြောက်သူတစ်ဦး မဟုတ်သောကြောင့် ဗီဇာရခဲ့သည်။
 
 7034
 Al Qaeda had three agents operating in Arizona.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်လ်ကိုင်ဒါတွင် အရီဇိုးနားမှာ လုပ်ဆောင်နေသော အေးဂျင့် သုံးဦးရှိသည်။
 
 7035
 Al Qaeda may not have had any agents in California.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်လ်ကိုင်ဒါသည် ကယ်လီဖိုးနီးယားတွင် မည်သည့်အေးဂျင့်မှ ရှိမည်မဟုတ်ပေ။
 
 7036
 KSM confirmed that there were several agents in Southern California.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကယ်လီဖိုးနီးယားတောင်ပိုင်းတွင် အေးဂျင့်များစွာရှိကြောင်း ကေအက်စ်အမ်မှ အတည်ပြုခဲ့သည်။
 
 7037
 The FBI could never even find the man after he left Florida in 2001.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထိုအမျိုးသား၂၀၀၁ ခုနှစ်တွင် ဖလော်ရီဒါမှ ထွက်ခွာပြီးနောက် အက်ဖ်ဘီအိုင်က သူ့ကိုပင် ရှာမတွေ့ခဲ့ပေ။
 
 7038
 The FBI couldn't find out who the guy was.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်ဖ်ဘီအိုင်က အဲဒီကောင်က ဘယ်သူလဲဆိုတာ မဖော်ထုတ်နိုင်ဘူး။
 
 7039
 The FBI figured out who he was and threw him in prison
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်ဖ်ဘီအိုင်က သူဘယ်သူလဲဆိုတာ ဖော်ထုတ်ပြီး ထောင်ချလိုက်ပါတယ်။
 
 7040
 There was communication coming from American 11.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကန် ၁၁ မှ ဆက်သွယ်မှု ရှိခဲ့သည်။
 
 7041
 There was communication from American 11 every 5 minuts.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကန် ၁၁ ထံမှ ၅ မိနစ်တိုင်း ဆက်သွယ်မှု ရရှိခဲ့သည်။
 
 7042
 There was never any communication from American 11.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကန် ၁၁ ထံမှ ဆက်သွယ်မှု တစ်ကြိမ်မှ မရှိခဲ့ပါ။
 
 7043
 If completed the investigation might have revealed the location of three fugitives.
-<MYANMAR UNICODE TRANSLATION HERE>
+စုံစမ်းစစ်ဆေးမှု ပြီးစီးပါက တရားခံပြေး သုံးဦး၏ တည်နေရာကို ဖော်ထုတ်နိုင်မည်ဖြစ်သည်။
 
 7044
-The German government might have had difficultly performing a quick and thorough investigation.
-<MYANMAR UNICODE TRANSLATION HERE>
+The German government might have had difficulty performing a quick and thorough investigation.
+ဂျာမန်အစိုးရသည် လျင်မြန်ပြီး စေ့စေ့စပ်စပ် စုံစမ်းစစ်ဆေးရန် ခက်ခဲနေပေမည်။
 
 7045
 The investigation would be quite simple and easy for the government to conduct.
-<MYANMAR UNICODE TRANSLATION HERE>
+စုံစမ်းစစ်ဆေးမှုသည် စီမံခန့်ခွဲဖို့ရန် အစိုးရအတွက် အလွန်ရိုးရှင်းပြီး လွယ်ကူမည်ဖြစ်သည်။
 
 7046
 They didn't change their surveillance program much.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းတို့သည် ၎င်းတို့၏ စောင့်ကြည့်ထောက်လှမ်းရေး အစီအစဉ်ကို များစွာ မပြောင်းလဲခဲ့ပေ။
 
 7047
 They didn't do much to change things.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ဟာ အခြေအနေတွေကို ပြောင်းလဲဖို့ အများကြီး မလုပ်ပါဘူး။
 
 7048
 They went to great lengths to overhaul everything.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ အရာအားလုံးကို ပြုပြင်ဖို့ အများကြီးကြိုးစားအားထုတ်ကြတယ်။
 
 7049
 All passengers just get to walk through without an issue.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခရီးသည်အားလုံး ပြဿနာတစုံတရာ မရှိဘဲ လမ်းဖြတ်လျှောက်သွားရုံပါပဲ။
 
 7050
-Soem passengers get full-body scans.
-<MYANMAR UNICODE TRANSLATION HERE>
+Some passengers get full-body scans.
+အချို့ခရီးသည်များကို တစ်ကိုယ်လုံး စကင်န်ဖတ်သည်။
 
 7051
 Some passengers get checked more thoroughly by security.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့ခရီးသည်များသည် လုံခြုံရေးအရ ပိုမိုသေချာစွာ စစ်ဆေးခံရသည်။
 
 7052
 We are 100% certain that Clarke never gave his paper to anyone.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလတ်က သူ့စာရွက်ကို ဘယ်သူ့ကိုမှ မပေးခဲ့ဘူးဆိုတာ ကျွန်တော်တို့ ၁၀၀% သေချာပါတယ်။
 
 7053
 We can't find proof that Clarke gave him his paper.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလတ်က သူ့စာရွက်ကို ပေးခဲ့တယ်ဆိုတာ ကျွန်တော်တို့ အထောက်အထား ရှာမတွေ့ဘူး။
 
 7054
 We know for sure that Clarke gave them his paper on July 2.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလတ်က ဇူလိုင်လ ၂ ရက်နေ့မှာ သူ့စာရွက်ကို ပေးခဲ့တာ ကျွန်တော်တို့ သေချာသိပါတယ်။
 
 7055
 The analyst presented a crystal-clear analysis.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆန်းစစ်သူသည် ရှင်းရှင်းလင်းလင်းနဲ့သိသာထင်ရှားသော ခွဲခြမ်းစိတ်ဖြာမှုကို တင်ပြသည်။
 
 7056
 The analyst was not clear on a lot of things.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆန်းစစ်သူသည် အကြောင်းအရာ အများကြီးပေါ်မှာ ရှင်းလင်းမှုမရှိဘူး။
 
 7057
 The analyst's report was so messed up that no one could read it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆန်းစစ်သူ၏ အစီရင်ခံစာသည် မည်သူမျှ အဲဒါကို မဖတ်နိုင်လောက်အောင် အရမ်း ရှုပ်ပွနေပါသည်။
 
 7058
 Officers got their own assignments.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရာရှိတွေက ကိုယ့်တာဝန်ကိုယ်ယူတယ်။
 
 7059
 Officers just randomly ran where they were needed.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရာရှိများသည် သူတို့ကို လိုအပ်သည့်နေရာကို ကြုံရာကျပန်း အလုပ်လုပ်ကြသည်။
 
 7060
 Officers were assigned based on seniority.
-<MYANMAR UNICODE TRANSLATION HERE>
+လုပ်သက်အလိုက် အရာရှိများကို တာဝန်ချထားသည်။
 
 7061
 The OIPR screen doesn't do anything other than give passengers information about flight times.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုအိုင်ပီအာမျက်နှာပြင်သည် ခရီးသည်များအား လေယာဉ်အချိန်နှင့်ပတ်သက်သော အချက်အလက်ကို ပေးရုံမှလွဲ၍ အခြားမည်သည့်အရာကိုမျှ လုပ်ဆောင်မည်မဟုတ်ပါ။
 
 7062
 The OIPR screen processes some information related to the terrorist watch list.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုအိုင်ပီအာမျက်နှာပြင်သည် အကြမ်းဖက်စောင့်ကြည့်စာရင်းနှင့် ပတ်သက်သည့် အချက်အလက်အချို့ကို လုပ်ဆောင်သည်။
 
 7063
 The OIPR screen processes some information.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုအိုင်ပီအာမျက်နှာပြင်သည် အချက်အလက်အချို့ကို လုပ်ဆောင်သည်။
 
 7064
 We got news from Afghanistan.
-<MYANMAR UNICODE TRANSLATION HERE>
+အာဖဂန်နစ္စတန်မှ သတင်းရရှိပါသည်။
 
 7065
 We heard nothing from Afghanistan until October.
-<MYANMAR UNICODE TRANSLATION HERE>
+အောက်တိုဘာလအထိ အာဖဂန်နစ္စတန်ကနေ ဘာမှမကြားရပါဘူး။
 
 7066
 We were told about the impending attack on Septemeber 9.
-<MYANMAR UNICODE TRANSLATION HERE>
+စက်တင်ဘာ ၉ ရက်တွင် တိုက်ခိုက်ခံရတော့မယ့် အကြောင်း ကျွန်တော်တို့ ပြောထားပါတယ်။
 
 7067
 It's hard to install the system because hackers attack it every night.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟက်ကာများက ၎င်းကို ညတိုင်း တိုက်ခိုက်သောကြောင့် ဒီစနစ်ကို ထည့်သွင်းရန် ခက်ခဲသည်။
 
 7068
 It's not easy to install the system because of security dangers.
-<MYANMAR UNICODE TRANSLATION HERE>
+လုံခြုံရေးအန္တရာယ်များကြောင့် ဒီစနစ်ကို ထည့်သွင်းရန် မလွယ်ကူပါ။
 
 7069
 The security system will be installed in 6 weeks, i promise.
-<MYANMAR UNICODE TRANSLATION HERE>
+လုံခြုံရေးစနစ်ကို ၆ ပတ်အတွင်း တပ်ဆင်မယ်လို့ ကတိပြုပါတယ်။
 
 7070
 An interrogation of KSM was performed in July of 2003.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကေအက်စ်အမ် ကို ၂၀၀၃ခုနှစ် ဇူလိုင်လတွင် စစ်ဆေးမေးမြန်းခဲ့ပါသည်။
 
 7071
 KSM was not captured until late 2008, when he was finally interrogated in detail.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကေအက်စ်အမ်သည် သူ့ကို အသေးစိတ် အပြီးသတ်စစ်ဆေးမေးမြန်းခြင်း ခံခဲ့ရပြီး ၂၀၀၈ ခုနှစ်နှောင်းပိုင်းအထိ ဖမ်းမမိသေးပါ။
 
 7072
 The interrogation revealed that KSM's favorite ice cream flavor was chocolate.
-<MYANMAR UNICODE TRANSLATION HERE>
+စစ်ကြောရေးတွင် ကေအက်စ်အမ်၏ အကြိုက်ဆုံးရေခဲမုန့်အရသာမှာ ချောကလက်ဖြစ်ကြောင်း ဖော်ပြခဲ့သည်။
 
 7073
 Americans don't need to worry about their civil liberties- they will always be protected.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကန်နိုင်ငံသားများသည် ၎င်းတို့၏ နိုင်ငံသားလွတ်လပ်ခွင့်အတွက် စိတ်ပူစရာမလိုပါ - ၎င်းတို့ကို အမြဲကာကွယ်ပေးမည်ဖြစ်သည်။
 
 7074
 Americans should make sure that their guns are not taken away.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကန်တွေက သူတို့ရဲ့ သေနတ်တွေကို မယူသွားကြဖို့ သေချာအောင်လုပ်သင့်တယ်။
 
 7075
 Americans should pay attention to threats to our liberties.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့၏ လွတ်လပ်မှု ခြိမ်းခြောက်မှုများကို အမေရိကန်များက အာရုံစိုက်သင့်သည်။
 
 7076
 Communication worked really well on 9/11.
-<MYANMAR UNICODE TRANSLATION HERE>
+၉/၁၁ တွင် ဆက်သွယ်ရေးသည် အမှန်တကယ် ကောင်းမွန်ခဲ့သည်။
 
 7077
 People had a hard time communicating at the World Trade Center because the power was out and phone lines were down.
-<MYANMAR UNICODE TRANSLATION HERE>
+လျှပ်စစ်မီးပြတ်ပြီး ဖုန်းလိုင်းပြတ်တောက်မှုကြောင့် ကမ္ဘာ့ကုန်သွယ်မှုဗဟိုဌာနမှာ လူတွေ ဆက်သွယ်ရေး ခက်ခဲတဲ့အချိန်တွေ ရှိပါတယ်။
 
 7078
 People had a hard time communicating at the World Trade Center.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတွေက ကမ္ဘာ့ကုန်သွယ်မှုဗဟိုဌာနမှာ ဆက်သွယ်ရေးခက်ခဲတဲ့အချိန်တွေရှိပါတယ်။
 
 7079
 Investigators also requested access to professional databases.
-<MYANMAR UNICODE TRANSLATION HERE>
+စုံစမ်းစစ်ဆေးသူများသည် ပရော်ဖက်ရှင်နယ်ဒေတာဘေ့စ်များကို သုံးစွဲခွင့်ကိုလည်း တောင်းဆိုခဲ့သည်။
 
 7080
 Several types of information were available from existing databases.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှိပြီးသားဒေတာဘေ့စ်များမှ သတင်းအချက်အလက် အမျိုးအစားများစွာကို ရရှိနိုင်သည်။
 
 7081
 There was no way to find any information about the subjects using existing sources.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှိပြီးသားရင်းမြစ်များကို အသုံးပြု၍ ဘာသာရပ်ဆိုင်ရာ အချက်အလက်များကို ရှာဖွေရန် နည်းလမ်းမရှိပါ။
 
 7082
 The administrator immediately contacted the authorities and refused to assist in this case.
-<MYANMAR UNICODE TRANSLATION HERE>
+အုပ်ချုပ်ရေးမှူးက အာဏာပိုင်တွေကို ချက်ချင်းဆက်သွယ်ပြီး ဒီကိစ္စကို ကူညီပေးဖို့ ငြင်းဆိုခဲ့ပါတယ်။
 
 7083
 The administrator provided assistance despite his misgivings.
-<MYANMAR UNICODE TRANSLATION HERE>
+အုပ်ချုပ်ရေးမှူးက သူ့မှာ ဒွိဟတွေရှိနေသော်လည်း အကူအညီပေးခဲ့သည်။
 
 7084
 The assistance consisted of cash and help procuring travel documents.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါအကူအညီတွင် ငွေသားနှင့် ခရီးသွားစာရွက်စာတမ်းများ ပံ့ပိုးကူညီခြင်းတို့ ပါဝင်ပါသည်။
 
 7085
 Delivery did not improve how effective it was.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပေးပို့မှုက ဘယ်လောက်ထိ ထိရောက်မှုမှ မတိုးတက်ခဲ့ပါဘူး။
 
 7086
 Delivery made it incredible effective.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပို့ဆောင်ခြင်းသည် မယုံနိုင်လောက်အောင် ထိရောက်မှု ဖြစ်စေသည်။
 
 7087
 It didn't make it any more effective when we delivered it to the White House.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ အဲဒါကို အိမ်ဖြူတော်ဆီ ပို့ပေးတဲ့အခါ ပိုထိရောက်မှု မရှိခဲ့ပါဘူး။
 
 7088
 The FAA air traffic control data was analyzed by an independent group and it was determined that the controllers did a good job.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်ဖ်အေအေ လေကြောင်းထိန်းချုပ်မှုဒေတာကို အမှီအခိုကင်းသောအဖွဲ့တစ်ခုက ခွဲခြမ်းစိတ်ဖြာပြီး ထိန်းချုပ်ကိရိယာများ ကောင်းမွန်စွာလုပ်ဆောင်ခဲ့ကြောင်း ဆုံးဖြတ်သည်။
 
 7089
 The FAA air traffic control data was analyzed.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်ဖ်အေအေ လေကြောင်းထိန်းချုပ်မှုဒေတာကို ခွဲခြမ်းစိတ်ဖြာသည်။
 
 7090
 The FAA air traffic control data was never examined.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်ဖ်အေအေ လေကြောင်းထိန်းချုပ်မှုဒေတာကို ဘယ်သောအခါမှ မစစ်ဆေးခဲ့ပါ။
 
 7091
 All terrorism matters are given the top label for importance.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကြမ်းဖက်ဝါဒဆိုင်ရာ ကိစ္စရပ်တိုင်းကို အရေးကြီးသည်ဟု စာတန်းတပ်ထားသည်။
 
 7092
 All terrorism matters get the same label.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကြမ်းဖက်မှု ကိစ္စအားလုံး တူညီသော အမှတ်တံဆိပ်ရသည်။
 
 7093
 Each terrorism matter is judged and graded independently.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကြမ်းဖက်မှုတစ်ခုစီတိုင်းကို လွတ်လပ်စွာ စီရင်ဆုံးဖြတ်ပြီး အဆင့်သတ်မှတ်သည်။
 
 7094
 The director didn't want to get involved because he was almost retired.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါရိုက်တာက အငြိမ်းစားယူခါနီးဆိုတော့ မပါဝင်ချင်ဘူး။
 
 7095
 The director of the unit didn't want to get involved in directing what was done.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီယူနစ်ရဲ့ ဒါရိုက်တာက ပြီးခဲ့တာတွေကို ညွှန်ကြားရာမှာ မပါဝင်ချင်ဘူး။
 
 7096
 The director thought it was all up to him.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါရိုက်တာက အားလုံးက သူ့အပေါ်မှာပဲ မူတည်တယ်လို့ ထင်ပါတယ်။
 
 7097
 In 1993 there was an attempt to blow up the World Trade Center.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၉၉၃ခုနှစ်တွင် ကမ္ဘာ့ကုန်သွယ်မှုဗဟိုဌာနကို ဖောက်ခွဲရန် ကြိုးပမ်းမှု တစ်ခု ရှိခဲ့သည်။
 
 7098
 Khalid Sheikh Mohammed was well known for his efforts to stamp out terrorism around the world.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခါလစ်ရှိတ်မိုဟာမက်သည် ကမ္ဘာတစ်ဝှမ်းရှိ အကြမ်းဖက်ဝါဒကို နှိမ်နင်းရန် သူ၏ ကြိုးပမ်းမှုကြောင့် လူသိများသည်။
 
 7099
 These plots both met with failure and further efforts were scrapped.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းကြံစည်မှုနှစ်ခုစလုံးသည် ကျရှုံးမှုများနှင့် ရင်ဆိုင်ခဲ့ရပြီး နောက်ထပ်ကြိုးပမ်းမှုများကို ဖျက်သိမ်းခဲ့သည်။
 
 7100
 Abu Bara didn't want a visa.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+အဘူဘာရာက ဗီဇာမလိုချင်ဘူး။
