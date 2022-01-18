@@ -1,400 +1,401 @@
 6401
 Attorneys get paid by the LSC if they are working in terrorism.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က အကြမ်းဖက်ဝါဒ တွင် အလုပ်လုပ်နေမည်ဆိုလျှင် ရှေ့နေများအား LSC မှ အခကြေးငွေရယူမည်။
 
 6402
 Some attorneys get paid by the LSC.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့ ရှေ့နေများသည် အယ်လ်အက်စ်စီ မှ အခကြေးငွေရယူသည်။
 
 6403
 The LSC only funds medical students.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်လ်အက်စ်စီသည် ဆေးကျောင်းသားများကိုသာ ငွေကြေးထောက်ပံ့သည်။
 
 6404
 Commercial companies no longer use prototypes.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကုန်သွယ်မှုနှင့်ဆိုင်သော ကုမ္ပဏီများသည် စံပုံစံများကို အသုံးမပြုတော့ပါ။
 
 6405
 The commercial companies need prototypes to show their new technology to the public.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကုန်သွယ်မှုနှင့်ဆိုင်သော ကုမ္ပဏီများသည် သူတို့၏ နည်းပညာ အသစ်များကို အများပြည်သူအား ပြသရန် အတွက် စံပုံစံများကို လိုအပ်ပါသည်။
 
 6406
 The commercial companies use prototypes.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကုန်သွယ်မှုနှင့်ဆိုင်သော ကုမ္ပဏီများသည် စံပုံစံများကို အသုံးပြုကြသည်။
 
 6407
 It could never take less than 21 months.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထိုအရာသည် ၂၁ လ ထက် နည်းပြီး မကြာနိုင်ပါ။
 
 6408
 It should take about 21 months to retrofit a single utility boiler.
-<MYANMAR UNICODE TRANSLATION HERE>
+အသုံးဝင်သော တစ်ခုတည်းသော ဘွိုင်လာ တစ်လုံးကို ပြန်လည်ပြင်ဆင် ရန် ၂၁ လခန့် ကြာသင့်သည်။
 
 6409
 Retrofitting a boiler can be done in just a few days.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘွိုင်လာ တစ်လုံးကို ပြန်လည်ပြုပြင်ခြင်းကို ရက်အနည်းငယ်အတွင်း လုပ်ဆောင်နိုင်သည်။
 
 6410
 The CIO trains other CIOs.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအိုင်အိုသည် အခြားသော စီအိုင်အို များကို လေ့ကျင့်ပေးသည်။
 
 6411
 The CIO wants his peers to improve their performance.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအိုင်အိုက သူ၏ သက်တူရွယ်တူတွေကို သူတို့ရဲ့ စွမ်းဆောင်ရည်ကို မြှင့်တင်ပေးစေချင်တယ်။
 
 6412
 The CIO won't talk to his peers.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအိုင်အိုက သူ၏ သက်တူရွယ်တူတွေကို စကားမပြောခဲ့ဘူး။
 
 6413
 BLM didn't have any information.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘီအယ်လ်အမ်တွင် မည်သည့် အချက်အလက်မျှ မရှိပါ။
 
 6414
 BLM put information in the pamphlet.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘီအယ်လ်အမ်သည် အချက်အလက်များကို လက်ကမ်းစာစောင်တွင် ထည့်သွင်းခဲ့သည်။
 
 6415
 BLM put some information in there.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘီအယ်လ်အမ်က အဲဒီထဲမှာ အချက်အလက် တချို့ ထည့်ထားတယ်။
 
 6416
 That happened in primary care, too.
-<MYANMAR UNICODE TRANSLATION HERE>
+မူလ ပြုစုစောင့်ရှောက်ရေးမှာလည်း ၊ ဒီလိုဖြစ်ခဲ့တယ်။
 
 6417
 That only happens in specialists.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းသည် အထူးကုများတွင်သာ ဖြစ်ပွားသည်။
 
 6418
 There were unpaid bills in primary care as well.
-<MYANMAR UNICODE TRANSLATION HERE>
+မူလ စောင့်ရှောက်မှုတွင် အခကြေးငွေမယူရသေးသော ငွေတောင်းခံလွှာများလည်း ရှိခဲ့သည်။
 
 6419
 Capital cities are the best places for software companies.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြို့တော်များသည် ဆော့ဖ်ဝဲ ကုမ္ပဏီများ အတွက် အကောင်းဆုံး နေရာများ ဖြစ်သည်။
 
 6420
 One capital has a ton of software companies.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြို့တော် တစ်ခုတွင် ဆော့ဖ်ဝဲလ် ကုမ္ပဏီ များစွာ ရှိသည်။
 
 6421
 Software companies avoid capitals for legal reasons.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆော့ဖ်ဝဲ ကုမ္ပဏီများသည် တရားဝင် အကြောင်းပြချက်များဖြင့် မြို့တော်တွေကို ရှောင်ရှားကြသည်။
 
 6422
 They have to include all the parts.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် အပိုင်း အားလုံးတွင် ပါဝင်ရန် ရှိကြသည်။
 
 6423
 They have to include the parts for the new rocket.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် ဒုံးပျံ အသစ် အတွက် အစိတ်အပိုင်းများ ထည့်သွင်း ရန် ရှိသည်။
 
 6424
 They only have to include the essential parts.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် မရှိမဖြစ် အစိတ်အပိုင်းများသာ ပါဝင်ရန် ရှိကြသည်။
 
 6425
 Her work as a judge helped poor minorities in New York.
-<MYANMAR UNICODE TRANSLATION HERE>
+တရားသူကြီး တစ်ဦး အဖြစ် သူမ၏ အလုပ်သည် နယူးယောက်ရှိ ဆင်းရဲသော လူနည်းစုများကို ကူညီပေးခဲ့သည်။
 
 6426
 Her work as a judge helped poor people.
-<MYANMAR UNICODE TRANSLATION HERE>
+တရားသူကြီး တစ်ဦး အဖြစ် သူမ၏ အလုပ်သည် ဆင်းရဲနွမ်းပါသော လူများကို ကူညီပေးခဲ့သည်။
 
 6427
 Her work was focused on rich people.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမ အလုပ်က ချမ်းသာတဲ့ လူတွေကို အာရုံစိုက်ခဲ့တယ်။
 
 6428
 Organizations always outsource the work.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဖွဲ့အစည်းများသည် အလုပ်များကို အမြဲတမ်း ပြင်ပအဖွဲ့အစည်းများနှင့်စာချုပ်ချုပ်ဆိုကြသည်။
 
 6429
 Organizations decide if they're going to use in-house employees of if it costs too much to do that.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းကို ထိုသို့ လုပ်ဆောင်ရန် အလွန်အကျွံ ကုန်ကျမည်ဆိုပါက သူတို့သည် ရုံးတွင်း အလုပ်သမားများကို အသုံးပြုမည်ဆိုလျှင် အဖွဲ့အစည်းများက ဆုံးဖြတ်ကြသည်။
 
 6430
 Organizations decide if they're going to use in-house employees.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် ရုံးတွင်း အလုပ်သမားများကို အသုံးပြုမည်ဆိုလျှင် အဖွဲ့အစည်းများက ဆုံးဖြတ်ကြသည်။
 
 6431
 The CEO tells people who gets what information but sometimes they make mistakes.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအီးအိုက ဘာ သတင်းအချက်အလက်ဆိုတာကို ရရှိသော လူတွေကို ပြောပြ ပေမယ့် တစ်ခါတစ်ရံမှာ သူတို့သည် အမှားတွေ လုပ်မိတတ်ပါတယ်။
 
 6432
 The CEO tells people who gets what information.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအီးအိုက ဘာ သတင်းအချက်အလက်ဆိုတာကို ရရှိသော လူတွေကို ပြောပြတယ်။
 
 6433
 The CIO works to get information out to people.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအိုင်အိုသည် လူများကို ပြင်ပ သတင်းရယူရန် လုပ်ဆောင်သည်။
 
 6434
 They calculate the welfare effects like they do how much money they make.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် ငွေ ဘယ်လောက်များများ ပြုလုပ်သည်ကို သူတို့ ပြုလုပ် သကဲ့သို့ လူမှုဖူလုံရေး အကျိုးသက်ရောက်မှုများကို တွက်ချက်ကြတယ်။
 
 6435
 They calculate welfare effects quickly on a calculator.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် ဂဏန်းပေါင်းစက် တစ်လုံးတွင် လူမှုဖူလုံရေး အကျိုးသက်ရောက်မှုများကို လျင်မြန်စွာ တွက်ချက်ပါသည်။
 
 6436
 They don't know how to calculate welfare effects.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူမှုဖူလုံရေး အကျိုးသက်ရောက်မှုများကို မည်သို့ တွက်ချက်ရမည်ကို သူတို့ မသိကြပါ။
 
 6437
 The trust fund borrowed money because it was running at a huge deficit.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယုံကြည်စိတ်ချရသော ရန်ပုံငွေသည် ကြီးမားတဲ့ လိုငွေပြမှု တစ်ခု ဖြင့် လည်ပတ်နေသောကြောင့် ပိုက်ဆံကို ချေးယူခဲ့ပါသည်။
 
 6438
 The trust fund has never needed to borrow.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယုံကြည်စိတ်ချရသော ရန်ပုံငွေသည် မည်သည့်အခါမျှ ချေးငှားရန် မလိုအပ်ခဲ့ပါ။
 
 6439
 The trust fund needed to borrow money.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယုံကြည်စိတ်ချရသော ရန်ပုံငွေသည် ပိုက်ဆံ ချေးငှား ရန် လိုအပ်ခဲ့သည်။
 
 6440
 Alternate communication makes up 60% of communication now.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလှည့်ကျ ဆက်သွယ်ရေးသည် ယခု ဆက်သွယ်မှု ၏ ၆၀% ရှိသည်။
 
 6441
 Everyone just uses letters.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတိုင်းက စာတွေကိုသာ သုံးတယ်။
 
 6442
 Other modes of communication are becomming more popular.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခြားသော ဆက်သွယ်မှု ပုံစံများသည် ပိုမို ရေပန်းစားလာပါသည်။
 
 6443
 A CIO organization takes a long time to develop.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအိုင်အို အဖွဲ့အစည်း တစ်ခုသည် ဖွံ့ဖြိုးတိုးတက်ရန် အချိန်အတော်ကြာသည်။
 
 6444
 It's very easy to develop a CIO organization.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအိုင်အို အဖွဲ့အစည်းတစ်ခု ထူထောင် ရန် အလွန် လွယ်ကူသည်။
 
 6445
 You have to develop a CIO organization carefully or it will fall apart.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအိုင်အို အဖွဲ့အစည်း တစ်ခု ကို ဂရုတစိုက် ပြုစုပျိုးထောင် ရန် ရှိသည် ဒါမှမဟုတ်ရင် ၎င်း ပြိုလဲသွားမည်ဖြစ်သည်။
 
 6446
 ALl the data is from different years.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချက်အလက် အားလုံးသည်မတူညီသော နှစ်များမှ ဖြစ်သည်။
 
 6447
 The data is all from 1988 in that part.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချက်အလက် အားလုံးသည် ထိုအပိုင်းတွင် ၁၉၈၈ ခုနှစ်မှ ဖြစ်သည်။
 
 6448
 The data is from July 1988.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချက်အလက် အားလုံးသည် ၁၉၈၈ ဇူလိုင်လမှ ဖြစ်သည်။
 
 6449
 The estimates all look at people who are exposed just once.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခန့်မှန်းချက် အားလုံးသည် တစ်ကြိမ်တည်းနှင့် မြင်သာအောင်ပြခဲ့သော လူများကို ကြည့်သည်။
 
 6450
 The estimates deal with long-term exposure, so the short-term is probably a lot less.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခန့်မှန်းချက်များသည် ရေရှည် ပြသမှုနှင့် ကိုင်တွယ်ဖြေရှင်းရ သောကြောင့် ၊ ရေတိုသည် များစွာ ဖြစ်နိုင်ချေ နည်းသည်။
 
 6451
 The estimates deal with long-term exposure.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခန့်မှန်းချက်များသည် ရေရှည် ပြသမှုနှင့် ကိုင်တွယ်ဖြေရှင်းရသည်။
 
 6452
 First you do an efficacy trial.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပထမဦးစွာ သင်သည် ထိရောက်သော စမ်းသပ်မှု တစ်ခုကို ပြုလုပ်ပါ။
 
 6453
 First you'll need to test the efficacy of an intervention.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပထမဦးစွာ သင်သည် ဝင်ရောက်စွက်ဖက်မှု တစ်ခု ၏ ထိရောက်မှုကို စမ်းသပ်ရန် လိုအပ်လိမ့်မည်။
 
 6454
 The efficacy test is the last step.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထိရောက်သော စမ်းသပ်မှုသည် နောက်ဆုံး အဆင့် ဖြစ်သည်။
 
 6455
 If you don't save money in your bank account, you will have nothing.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းရဲ့ ဘဏ် အကောင့်ထဲမှာ မင်း ပိုက်ဆံ မစုဘူးဆိုလျှင် ၊ မင်းမှာ ဘာမှရှိမှာမဟုတ်ဘူး။
 
 6456
 If you don't save money, you won't have money.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း ပိုက်ဆံ မစုဘူးဆိုလျှင် ၊ မင်းမှာ ပိုက်ဆံ ရှိမှာမဟုတ်ဘူး။
 
 6457
 You usually end up with money no matter what.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းက ဘာပဲဖြစ်ဖြစ် ပိုက်ဆံနဲ့ပဲ ပြီးဆုံးလေ့ရှိမှာ။
 
 6458
 Without a motion to withdraw, an attorney doesn't have to respond to anything.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြန်လည်ရုပ်သိမ်းရန် အဆိုပြုချက် တစ်ခု မရှိပါက ၊ ရှေ့နေ တစ်ယောက်သည် ဘာမှ တုံ့ပြန်ရန် မလိုပါ။
 
 6459
 Without a motion to withdraw, an attorney is responsible for any response except for one involving citizenship.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြန်လည်ရုပ်သိမ်းရန် အဆိုပြုချက် တစ်ခု မရှိပါက ၊  နိုင်ငံသားဖြစ်ခွင့်နှင့် ပါဝင်ပတ်သက်သည့် တစ်စုံတစ်ယောက် မှလွဲ၍ မည်သည့် တုံ့ပြန်မှုအတွက်မဆို ရှေ့နေတွင်  တာဝန်ရှိပါသည်။
 
 6460
 Without a motion to withdraw, an attorney is responsible for any response.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြန်လည်ရုပ်သိမ်းရန် အဆိုပြုချက် တစ်ခု မရှိပါက ၊ မည်သည့် တုံ့ပြန်မှုအတွက်မဆို ရှေ့နေတွင် တာဝန်ရှိသည်။
 
 6461
 LSC funded attorneys can't be on cases where the client leaves the country.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်လ်အက်စ်စီ ငွေကြေးထောက်ပံ့ပေးထားသော ရှေ့နေများက အမှုသည် နိုင်ငံမှ ထွက်ခွာသည့် ကိစ္စများတွင် မပါဝင်နိုင်ပါ။
 
 6462
 LSC funded attorneys can't work cases involving non-citizens.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်လ်အက်စ်စီ ငွေကြေးထောက်ပံ့ပေးထားသော ရှေ့နေများက နိုင်ငံသားမဟုတ်သူများ ပါဝင်သည့် အမှုတွဲများကို လုပ်ဆောင်၍ မရနိုင်ပါ။
 
 6463
 LSC funded attorneys work any case they want.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်လ်အက်စ်စီ ငွေကြေးထောက်ပံ့ပေးထားသော ရှေ့နေများသည် သူတို့ လိုချင်သည့် မည်သည့်ကိစ္စတိုင်းကိုမဆို လုပ်ဆောင်သည်။
 
 6464
 Principle IV deals with capital development strategy in Fortune 500 organizations.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခြေခံနိယာမ ၄သည် ဖော်ကျူး ၅၀၀ အဖွဲ့အစည်းများရှိ အရင်းအနှီး ဖွံ့ဖြိုးတိုးတက်မှု မဟာဗျူဟာနှင့် ပတ်သက်သည်။
 
 6465
 Principle IV deals with capital development strategy.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခြေခံနိယာမ ၄သည် အရင်းအနှီး ဖွံ့ဖြိုးတိုးတက်မှု မဟာဗျူဟာနှင့် ပတ်သက်သည်။
 
 6466
 Principle XII deals with capital development strategy.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခြေခံနိယာမ ၁၂ သည် အရင်းအနှီး ဖွံ့ဖြိုးတိုးတက်မှု မဟာဗျူဟာနှင့် ပတ်သက်သည်။
 
 6467
 The ED is leisurely and relaxed.
-<MYANMAR UNICODE TRANSLATION HERE>
+အီးဒီသည် နားနားနေနေ နှင့် အပန်းဖြေနေသည်။
 
 6468
 Things move really fast in the ED because they see 2000 patients a week.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် တစ်ပတ်လျှင် လူနာ ၂၀၀၀ ကိုတွေ့သောကြောင့် အီးဒီတွင် အရာဝတ္ထုများသည် အမှန်တကယ် လျင်မြန်စွာ ရွေ့လျားနေသည်။
 
 6469
 Things move really fast in the ED.
-<MYANMAR UNICODE TRANSLATION HERE>
+ED တွင် အရာဝတ္ထုများသည် အမှန်တကယ် လျင်မြန်စွာ ရွေ့လျားနေသည်။
 
 6470
 Every kind of intervention has challenges, but some have much more than others.
-<MYANMAR UNICODE TRANSLATION HERE>
+စွက်ဖက်မှုတိုင်းသည် စိန်ခေါ်မှုများ ရှိသော်လည်း ၊ အချို့မှာ အခြားသူများထက် များစွာပိုသည်။
 
 6471
 Most interventions are perfect.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကြားဝင်ခြင်း အများစုသည် စံထားရလောက်တယ်။
 
 6472
 One kind of intervention has a big challenge, no matter what.
-<MYANMAR UNICODE TRANSLATION HERE>
+စွက်ဖက်မှု အမျိုးအစား တစ်မျိုးမှာ ဘာပဲဖြစ်ဖြစ် ၊ ကြီးမားသော စိန်ခေါ်မှု တစ်ခု ရှိသည်။
 
 6473
 When the travel voucher is used, the system can compare the info to make sure there is no fraud.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခရီးသွား လက်မှတ်ကို အသုံးပြုသည့်အခါ ၊ လိမ်လည်မှု မရှိကြောင်း သေချာစေရန် အချက်အလက်များကို အဆိုပါ စနစ်က နှိုင်းယှဉ်နိုင်သည်။
 
 6474
 When the travel voucher is used, the system can compare the info.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခရီးသွား လက်မှတ်ကို အသုံးပြုသည့်အခါ ၊ အဆိုပါ စနစ်သည် အချက်အလက်ကို နှိုင်းယှဉ်နိုင်သည်။
 
 6475
 When the travel voucher is used, the system freaks out and won't work.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခရီးသွား လက်မှတ်ကို အသုံးပြုသောအခါ ၊ အဆိုပါ စနစ်သည် ကိုးရိုးကားယားနိုင်ခဲ့ ပြီးနောက် အလုပ်မလုပ်ပါ။
 
 6476
 It's fine to just stop representing a client.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖောက်သည် တစ်ဦးကို ကိုယ်စားပြုခြင်းအား ရပ်လိုက်ရုံဖြင့် ၎င်းသည် ကောင်းပါတယ်။
 
 6477
 It's not a good idea to stop legal representation because then they'll probably get a mistrial granted.
-<MYANMAR UNICODE TRANSLATION HERE>
+သို့ဆိုလျှင် ၎င်းတို့သည် လွဲမှားစွာ စမ်းသပ်မှု တစ်ခု ခံရဖွယ်ရှိသောကြောင့် တရားဝင်ကိုယ်စားပြုမှုကို ရပ်လိုက်ခြင်းသည် ကောင်းသော အကြံ မဟုတ်ပေ။
 
 6478
 It's not good to stop legal representation.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဥပဒေကြောင်းအရ ကိုယ်စားပြုမှုကို ရပ်လိုက်တာ မကောင်းပါဘူး။
 
 6479
 2000 was excellent because Congress passed more bills than ever before.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်ဂရက်လွှတ်တော်သည် ယခင်ကထက် ပိုမိုများပြားသော ဥပဒေကြမ်းများကို အတည်ပြုနိုင်ခဲ့ သောကြောင့် ၂၀၀၀ခုနှစ် သည် ကောင်းမွန်ခဲ့သည်။
 
 6480
 2000 was great for Congress.
-<MYANMAR UNICODE TRANSLATION HERE>
+၂၀၀၀ခုနှစ်က ကွန်ဂရက်လွှတ်တော်သည် အတွက် အရမ်းကောင်းပါတယ်။
 
 6481
 2000 was the worst year ever.
-<MYANMAR UNICODE TRANSLATION HERE>
+၂၀၀၀ခုနှစ်သည် အဆိုးရွားဆုံး နှစ် ဖြစ်ခဲ့သည်။
 
 6482
 Even if there is no threshold, there is a ton of risk from exposure.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကန့်သတ်ချက် မရှိရင်တောင် ၊ ဖော်ထုတ်ခြင်း မှ အန္တရာယ် အများကြီး ရှိပါတယ်။
 
 6483
 If you assume there is no threshold, any exposure is considered to be risk-free.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကန့်သတ်ချက် မရှိဟု ယူဆပါလျှင် ၊ မည်သည့် ဖော်ထုတ်ချက်မဆို အန္တရာယ်ကင်းသည်ဟု ယူဆပါသည်။
 
 6484
 If you assume there is no threshold, any exposure to mercury is risk-free.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကန့်သတ်ချက် မရှိဟု ယူဆပါလျှင် ၊ ပြဒါးနှင့် မည်သည့် ဖော်ထုတ်ချက်မဆို အန္တရာယ်ကင်းသည်။
 
 6485
 IT workers are way too common these days.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်တီ အလုပ်သမားများသည် ယနေ့ခေတ်တွင် လုပ်နည်းကိုင်နည်း အလွန်များသည်။
 
 6486
 People need IT workers to help install computer systems.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူများသည် ကွန်ပြူတာ စနစ်များ တပ်ဆင်ရာတွင် ကူညီရန် IT လုပ်သားများ လိုအပ်နေပါသည်။
 
 6487
 People really need good IT people.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတွေက ကောင်းမွန်တဲ့ အိုင်တီသမားများကို တကယ် လိုအပ်တယ်။
 
 6488
 we know we'll fail every time.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချိန်တိုင်း ငါတို့ ကျရှုံးမယ်ဆိုတာ ငါတို့သိတယ်။
 
 6489
 we will try to hit the target a lot.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပစ်မှတ်ကို ရောက်အောင် အများကြီး ကြိုးစားရလိမ့်မယ်။
 
 6490
 we'll try to hit the fundraising goal every year.
-<MYANMAR UNICODE TRANSLATION HERE>
+နှစ်စဉ်နှစ်တိုင်း ရန်ပုံငွေရှာဖွေရေး ပန်းတိုင်ကို ရောက်အောင် ကြိုးစားသွားမယ်။
 
 6491
 Mercury emissions create problems with the water and then fish ingest it.
-<MYANMAR UNICODE TRANSLATION HERE>
+မာကျူရီ ထုတ်လွှတ်မှုသည် ရေတွင် ပြဿနာများ ဖြစ်ပေါ်စေ ပြီး ငါးများက ၎င်းကို မျိုချသည်။
 
 6492
 Mercury emissions create problems with the water.
-<MYANMAR UNICODE TRANSLATION HERE>
+မာကျူရီ ထုတ်လွှတ်မှုက ရေကို ပြဿနာများ ဖန်တီးပေးတယ်။
 
 6493
 Mercury emissions don't influence the water at all.
-<MYANMAR UNICODE TRANSLATION HERE>
+မာကျူရီ ထုတ်လွှတ်မှုသည် ရေကို လုံးဝ မလွှမ်းမိုးပါ။
 
 6494
 Technology can reduce how long providers and staff need to screen people by up to 80%.
-<MYANMAR UNICODE TRANSLATION HERE>
+နည်းပညာသည် ပံ့ပိုးပေးသူများ နှင့် ဝန်ထမ်းများက လူများကို 80% အထိ ပြသ ရန် လိုအပ်သည့်အချိန်ကို လျှော့ချနိုင်သည်။
 
 6495
 Technology can reduce how long providers and staff need to screen people.
-<MYANMAR UNICODE TRANSLATION HERE>
+နည်းပညာသည် ပံ့ပိုးပေးသူများ နှင့် ဝန်ထမ်းများက လူများကို ပြသ ရန် အချိန်မည်မျှ လိုအပ်သည်ကို လျှော့ချနိုင်သည်။
 
 6496
 Technology doesn't help screening at all.
-<MYANMAR UNICODE TRANSLATION HERE>
+နည်းပညာက ပြသခြင်းကို လုံးဝ မကူညီပါ။
 
 6497
 GAO is an entity that requires an allocation of resources.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျီအေအိုသည် အရင်းအမြစ်များကို ခွဲဝေပေးခြင်း တစ်ခုကို လိုအပ်သော အဖွဲ့အစည်း တစ်ခု ဖြစ်သည်။
 
 6498
 The GAO is a federal agency that with a multi-billion dollar annual budget.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျီအေအိုသည် နှစ်စဉ် ဘတ်ဂျက် ဒေါ်လာ ဘီလီယံပေါင်းများစွာ နှင့် ဖက်ဒရယ် အေဂျင်စီ တစ်ခု ဖြစ်သည်။
 
 6499
 The GAO is the worst performing federal entity and is in line to have all its funding cut.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျီအေအိုသည် စွမ်းဆောင်ရည် အဆိုးရွားဆုံး ဖက်ဒရယ် အဖွဲ့အစည်း ဖြစ် ပြီး ၎င်း၏ ရန်ပုံငွေ အားလုံးကို ဖြတ်တောက်ရန်  လိုက်လျောညီထွေရှိနေသည်။
 
 6500
 Postal density doesn't influence costs at all.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+စာတိုက်နဲ့နီးသောဒေသများသည် ကုန်ကျစရိတ်များကို လုံးဝ လွှမ်းမိုးခြင်းမရှိပါ။
+# REVIEW
+: the quality of having parts that are close together
