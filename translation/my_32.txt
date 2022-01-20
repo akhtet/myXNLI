@@ -1,400 +1,399 @@
 3101
 Did he remain in Augusta?
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက ဩဂတ်စတာမှာ ရှိနေသလား။
 
 3102
 Did he stay in Augusta after the riot?
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက အဓိကရုဏ်း အပြီးတွင် ဩဂတ်စတာတွင် နေပါသလား။
 
 3103
 I know he left Augusta immediately.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် ဩဂတ်စတာက ချက်ချင်း ထွက်သွားတာကို ကျွန်တော် သိတယ်။
 
 3104
 Her brother in law was light colored.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ၏ ယောက္ခမဖြစ်သူသည် အရောင် ဖြူဖျော့သည်။
 
 3105
 her brother in law was swedish.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ၏ ယောက်ဖသည် ဆွီဒင်လူမျိုး ဖြစ်ခဲ့သည်။
 
 3106
 her sister wasn't married.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမ အစ်မက လက်မထပ်ထားဘူး။
 
 3107
 I don't remember how many we had.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ဘယ်နှစ်ယောက်ရှိလဲတော့ ကျွန်တော် မမှတ်မိတော့ဘူး။
 
 3108
 I don't remember how many workers we had.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့မှာ အလုပ်သမား ဘယ်နှစ်ယောက်ရှိလဲ ကျွန်တော် မမှတ်မိတော့ဘူး။
 
 3109
 I know the exact numbers for everything
-<MYANMAR UNICODE TRANSLATION HERE>
+အရာရာတိုင်း အတွက် တိကျသော ကိန်းဂဏာန်းတွေကို ငါ သိတယ်။
 
 3110
 They invented a new regulator.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် ထိန်းညှိမှု အသစ် တစ်ခု ကို တီထွင်ခဲ့သည်။
 
 3111
 They invented a regulator that worked in space.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က အာကာသထဲမှာ အလုပ်လုပ်တဲ့ ထိန်းညှိကိရိယာ တစ်ခု ကို တီထွင်ခဲ့တယ်။
 
 3112
 They still couldn't figure out how to make a high O2 regulator.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြင့်မားသော အိုတူး ထိန်းညှိမှု တစ်ခုကို မည်သို့ပြုလုပ်ရမည်ကို ၎င်းတို့ မသိနိုင်သေးပါ။
 
 3113
 I have never been to Los Vegas in my life.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့် ဘဝမှာ လော့စ်ဗီးဂတ်စ်ကို တစ်ခါမှ မရောက်ဖူးဘူး။
 
 3114
 I have worked in both Las Vegas and Washington.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ လော့စ်ဗီးဂတ်စ် နဲ့ ဝါရှင်တန် နှစ်ခုလုံးမှာ အလုပ်လုပ်ဖူးတယ်။
 
 3115
 I worked as a cab driver in both of these cities.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီမြို့ နှစ်ခုလုံးမှာ တက္ကစီ ယာဉ်မောင်း တစ်ယောက် အဖြစ် ကျွန်တော် လုပ်ခဲ့တယ်။
 
 3116
 I hated every bit of school!
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ကျောင်းစာတိုင်းကို မုန်းခဲ့တယ်!
 
 3117
 I liked fourth grade because we had two recesses.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ နှစ်ယောက်တည်း ရပ်နားထားတာကြောင့် ကျွန်တော် စတုတ္ထတန်းကို ကြိုက်တယ်။
 
 3118
 I liked fourth grade.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် စတုတ္ထတန်းကို ကြိုက်တယ်။
 
 3119
 The page is just  one list of numbers.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ စာမျက်နှာသည် နံပါတ်များ၏ စာရင်း တစ်ခုမျှသာ ဖြစ်သည်။
 
 3120
 The tabs have a lot of data.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကတ်ပြားများတွင် အချက်အလက် များစွာရှိသည်။
 
 3121
 The tabs show the current balance of every account.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကတ်ပြားများသည် အကောင့်တိုင်း၏ လက်ရှိ လက်ကျန်ငွေကို ပြသသည်။
 
 3122
 I decided to come home at lunch and take the rest of the day off.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် နေ့လယ်စာအတွက် အိမ်သို့ ပြန်ဖို့ ဆုံးဖြတ်ခဲ့ပြီး ဒီနေ့ကို အနားယူခဲ့သည်။
 
 3123
 I didnt do anything significant after 6:30 today.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ဒီနေ့ ၆:၃၀ နောက်ပိုင်း ဘာမှ ထူးထူးခြားခြား မလုပ်ဖြစ်ဘူး။
 
 3124
 I spent most of the day dealing with a complicated customer billing issue.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှုပ်ထွေးသော ဖောက်သည် ငွေတောင်းခံမှု ပြဿနာ တစ်ခု ကို ကိုင်တွယ်ဖြေရှင်းရာတွင် ရက်များစွာ ကုန်ဆုံးခဲ့သည်။
 
 3125
 I don't care if you do it yourself or hire it out.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းကိုယ်တိုင် ဒါကို လုပ်မလား ဒါမှမဟုတ် ငှားမလား ငါဂရုမစိုက်ဘူး။
 
 3126
 I don't care what your method is.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းရဲ့ နည်းလမ်းက ဘာလဲဆိုတာ ငါ ဂရုမစိုက်ဘူး။
 
 3127
 I need to know exactly how you will do this.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါကို မင်း ဘယ်လိုလုပ်မယ်ဆိုတာ အတိအကျ ငါ သိဖို့ လိုတယ်။
 
 3128
 She kept talking to her coworkers about the guy running away.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် ထွက်ပြေးသွားတဲ့ ကောင်လေး အကြောင်း သူ၏ လုပ်ဖော်ကိုင်ဖက်တွေနဲ့ ဆက်ပြောခဲ့တယ်။
 
 3129
 She kept talking.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမက ဆက်ပြောနေပါသည်။
 
 3130
 She stayed silent and looked down at her desk.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမ တိတ်တိတ်ဆိတ်ဆိတ် နေခဲ့ ပြီး သူမ စားပွဲကို ငုံ့ကြည့်နေသည်။
 
 3131
 They built a house on Mallard Creek.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် မာလဒ် ခရိခ်မှာ အိမ် တစ်လုံး ဆောက်ခဲ့တယ်။
 
 3132
 They never moved to Charlotte.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က ချားလော့ကို ဘယ်တော့မှ မပြောင်းဘူး။
 
 3133
 They then lived in Mallard Creek.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထို့နောက် သူတို့သည် မာလဒ် ခရိခ်တွင် နေထိုင်ခဲ့ကြသည်။
 
 3134
 If there is a surge of electricity, it's very dangerous to anyone around.
-<MYANMAR UNICODE TRANSLATION HERE>
+လျှပ်စစ်မီးအားချက်ချင်းတက်လာရင် ၊ ပတ်ဝန်းကျင်က လူတွေကို အရမ်း အန္တရာယ်များတယ်။
 
 3135
 If there is a surge, there is a noise that accompanies it.
-<MYANMAR UNICODE TRANSLATION HERE>
+လှိုင်းတစ်ခု ရှိခဲ့လျှင် ၊ ၎င်းတွင် ဆူညံသံ တစ်ခု လိုက်ပါလာသည်။
 
 3136
 It will only surge once.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်ကြိမ်သာ လှိုင်းတက်လာလိမ့်မည်။
 
 3137
 His dad was a Lutheran pastor.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ၏ အဖေက လူသာရန် သင်းအုပ်ဆရာ တစ်ယောက် ဖြစ်ခဲ့တယ်။
 
 3138
 His dad was a convict who never went to church.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ၏ အဖေက ဘုရားကျောင်းကို တခါမှ မသွားဖူးတဲ့ ပြစ်မှုကျူးလွန်သူ တစ်ယောက် ဖြစ်ခဲ့တယ်။
 
 3139
 His dad was a pastor.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ၏ အဖေက သင်းအုပ်ဆရာ တစ်ယောက် ဖြစ်ခဲ့တယ်။
 
 3140
 I have all the information I could ever need.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် လိုအပ်သမျှ အချက်အလက်တွေ အကုန် ကျွန်တော့်မှာ ရှိတယ်။
 
 3141
 I need more information to decide what kind of car to purchase.
-<MYANMAR UNICODE TRANSLATION HERE>
+မည်သည့် ကား အမျိုးအစားကို ဝယ်ယူမည်ကို ဆုံးဖြတ် ရန် နောက်ထပ် အချက်အလက်များ ကျွန်တော် လိုအပ်ပါသည်။
 
 3142
 I need to gather more information about this thing.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ဒီအရာနဲ့ ပတ်သက်တဲ့ အချက်အလက်တွေ ပို စုဆောင်းဖို့လိုတယ်။
 
 3143
 I didn't know if he wanted information about the travel times.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခရီးသွားချိန်နဲ့ ပတ်သက်တဲ့ အချက်အလက်တွေ သူ လိုချင်တယ်ဆိုလျှင် ကျွန်တော် မသိခဲ့ဘူး။
 
 3144
 I gave him every detail because I knew he wanted it.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ ဒါကို လိုချင်တာ သိခဲ့လို့ ကျွန်တော်က အသေးစိတ်ကို သူ့ကို ပေးခဲ့တယ်။
 
 3145
 I wasn't sure how in depth it should be.
-<MYANMAR UNICODE TRANSLATION HERE>
+မည်ကဲ့သို့ လေးလေးနက်နက် ဖြစ်ရမည်ကို ကျွန်တော် မသေချာခဲ့ပါ။
 
 3146
 He said he would call once he got home.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက အိမ်ရောက်တာနဲ့ သူ ချက်ချင်း ဖုန်းဆက်မယ်လို့ သူက ပြောခဲ့တယ်။
 
 3147
 He said he'd return the call.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ ဖုန်းပြန်ဆက်မယ်လို့ သူက ပြောခဲ့တယ်။
 
 3148
 He said they were done speaking.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် ပြောပြီးကြပြီဟု သူက ပြောခဲ့တယ်။
 
 3149
 They asked me why I had gone there.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ဘာလို့ အဲဒီကို သွားတာလဲလို့ သူတို့က ကျွန်တော့်ကို မေးခဲ့တယ်။
 
 3150
 They asked why I went to the store.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ဘာလို့ စတိုးဆိုင်ကို သွားခဲ့တာလဲလို့ သူတို့က မေးခဲ့တယ်။
 
 3151
 They asked why I'd stayed home.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ဘာလို့ အိမ်မှာ နေရလဲလို့ သူတို့က မေးကြတယ်။
 
 3152
 They don't have any of the files.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့တွင် မည်သည့် ဖိုင်မျှ မရှိပါ။
 
 3153
 They keep all the files.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် ဖိုင်တွေ အားလုံးကို သိမ်းထားတယ်။
 
 3154
 They keep the medical and legal files all together.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် ဆေးဘက်ဆိုင်ရာ နှင့် ဥပဒေရေးရာ စာရွက်စာတမ်းများ အာလုံးကို အတူတကွ သိမ်းဆည်းထားသည်။
 
 3155
 She gave me two different versions.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမက ကျွန်တော့်ကို မတူညီသော ဖော်ပြချက် နှစ်မျိုး ပေးခဲ့သည်။
 
 3156
 She gave me two types of instructions and i prefered the detailed ones.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမက ကျွန်တော့်ကို ညွှန်ကြားချက် နှစ်မျိုး ပေးခဲ့ပြီး အသေးစိတ် တစ်ခုကို ကျွန်တော် သဘောကျပါတယ်။
 
 3157
 She only gave me one version and it was just a few lines lone.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမက ကျွန်တော့်ကို ဖော်ပြချက် တစ်ခုပဲ ပေးခဲ့တယ် ပြီးတော့ အဲဒါက စာကြောင်းနည်းနည်းပဲရှိတယ်။
 
 3158
 Augusta has 10,000 people in it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဩဂတ်စတာတွင် လူ ၁၀,၀၀၀ ရှိသည်။
 
 3159
 Augusta isn't a large city.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဩဂတ်စတာသည် ကြီးမားသော မြို့ တစ်ခု မဟုတ်ပါ။
 
 3160
 They lived in the heart of Augusta.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် ဩဂတ်စတာ၏ အလယ်ဗဟိုတွင် နေထိုင်ခဲ့သည်။
 
 3161
 I was told to go to DC.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီစီသို့ သွားရန် ကျွန်တော်က ပြောခဲ့သည်။
 
 3162
 The army sent me to DC right away.
-<MYANMAR UNICODE TRANSLATION HERE>
+စစ်တပ်က ချက်ချင်းပဲ ဒီစီသို့ ကျွန်တော့်ကို ပို့ခဲ့တယ်။
 
 3163
 They told me to go to Africa.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က အာဖရိကသို့ သွားရန် ကျွန်တော်ကို ပြောခဲ့သည်။ 
 
 3164
 Our house in Concord couldn't allow animals.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်းကော့ ရှိ ကျွန်ုပ်တို့ အိမ်တွင် တိရစ္ဆာန်များကို ခွင့်မပြုနိုင်ပါ။
 
 3165
 Our house in Concord had 30000 acres and lots of animals.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်းကော့ ရှိ ကျွန်ုပ်တို့အိမ်တွင် ဧက ၃၀၀၀၀ နှင့် တိရစ္ဆာန် များစွာ ရှိခဲ့သည်။
 
 3166
 We sold all our animals when we moved to Concord.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့သည် ကွန်းကော့ ကို ပြောင်းလာတဲ့အခါ ကျွန်တော်တို့ တိရစ္ဆာန်တွေ အားလုံးကို ကျွန်တော်တို့က ရောင်းချခဲ့ပါတယ်။
 
 3167
 We deployed our forces in 1968.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၉၆၈မှာ ကျနော်တို့တပ်တွေကို ကျွန်တော်တို့ တပ်ဖြန့်ခဲ့တယ်။
 
 3168
 We never ended up deploying anyone.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့က တပ်ဖြန့်ထားတဲ့ ဘယ်သူ့ကိုမှ အဆုံးမသတ်ဘူး။
 
 3169
 We sent our troops to Japan in June 1968.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့သည် ၁၉၆၈ ခုနှစ် ဇွန်လတွင် ကျွန်ုပ်တို့၏ တပ်များကို ဂျပန်သို့ စေလွှတ်ခဲ့သည်။
 
 3170
 He said I could turn it in whenever.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ အချိန်မရွေး လှည့်လို့ရတယ်လို့ သူက ပြောပါတယ်။
 
 3171
 He told me I had to finish the whole project by 2pm.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ ပရောဂျက် တစ်ခုလုံးကို နေ့လည် ၂ နာရီမှာ အပြီးသတ်ရမယ်လို့ သူက ပြောခဲ့တယ်။
 
 3172
 He told me it was urgent.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရေးတကြီးဖြစ်တယ်လို့ သူက ပြောခဲ့တယ်။
 
 3173
 She said I should just assume the school would be fine.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်က ကျောင်းက အဆင်ပြေမယ်လို့ ယူဆရတယ် ဟု သူမက ပြောခဲ့သည်။
 
 3174
 She said I shouldn't fret.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် စိတ်မပူသင့်ဘူးလို့ သူမကပြောပါတယ်။
 
 3175
 She said it was time to panic.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထိတ်လန့်ဖို့ အချိန်ရောက်ပြီဟု သူမက ပြောခဲ့သည်။
 
 3176
 You are in danger.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း အန္တရာယ် ရှိတယ်။
 
 3177
 You'll be just fine!
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းအဆင်ပြေမှာပါ!
 
 3178
 You're in danger of being deported.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းက ပြည်နှင်ဒဏ်ခံရဖို့ အန္တရာယ် ရှိနေတယ်။
 
 3179
 My mom had to pick cotton and corn.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေက ချည် နဲ့ ပြောင်းကို ခူးရသည်။
 
 3180
 My mom was the golden child so she didn't have to work.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေက ရွှေကဲ့သို့သော ကလေးတွေ ရှိတာမလို့ သူမ အလုပ်လုပ်ရန် မရှိပါဘူး။
 
 3181
 My mother had to work outside.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့် အမေက အပြင်မှာ အလုပ်လုပ်ရတယ်။
 
 3182
 Joe was the only person who had a key to the break room.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျိုးသည် နားနေခန်း သော့ တစ်ချောင်း ရှိတဲ့သူ တစ်ဦးတည်းသာ ဖြစ်ခဲ့သည်။
 
 3183
 No mater how hard we tried we just couldnt get Joe to leave us alone.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘယ်လောက်ပဲ ကြိုးစားကြိုးစား ဂျိုးကို ကျွန်တော်တို့ တစ်ယောက်တည်း ထားခဲ့ဖို့ မဖြစ်နိုင်ပါဘူး။
 
 3184
 One day Joe was just gone and nobody could figure out where he went.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်နေ့မှာ ဂျိုးက ထွက်သွားပြီး သူသည် ဘယ်ကိုသွားတယ်ဆိုတာ ဘယ်သူမှ မသိနိုင်ပါဘူး။
 
 3185
 I blamed it on my sister.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်က ဒါကို ညီမလေးကို အပြစ်တင်ခဲ့တယ်။
 
 3186
 I said it was mine.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက ကျွန်တော့်ဟာဖြစ်ပါတယ်လို့ ကျွန်တော် ပြောခဲ့သည်။
 
 3187
 I told them the dog belonged to my sister.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခွေးက ကျွန်တော့် ညီမ ပိုင်တယ်လို့ ကျွန်တော်က သူတို့ကို ပြောခဲ့တယ်။
 
 3188
 She said her mom also walks on her tip toes.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ၏ အမေက ခြေဖျားထောက် လမ်းလျှောက်နေတယ်လို့ သူမက ပြောခဲ့တယ်။
 
 3189
 She said her mom has the same walk.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမက လမ်းအတူတူလျှောက်တာ ရှိတယ်လို့ သူမ အမေကို ပြောခဲ့တယ်။
 
 3190
 She said her mom is paralyzed and can't walk.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမ ၏ အမေက လေဖြတ်ပြီး လမ်းမလျှောက်နိုင်ဘူးလို့ သူမက ပြောခဲ့တယ်။
 
 3191
 I didn't need any preparation.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ဘာပြင်ဆင်မှုမှ မလိုဘူး။
 
 3192
 I had to learn how to complete the obstacle course.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခက်အခဲရှိသော သင်တန်းကို ပြီးမြောက်အောင်ဖို့ နည်းလမ်းကို ကျွန်တော် လေ့လာဖို့ ရှိတယ်။
 
 3193
 I had to start preparing.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် စတင် ပြင်ဆင်ခဲ့ရတယ်။
 
 3194
 I didn't know she'd get very sick.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမ အရမ်း ဖျားနေမှန်း ကျွန်တော် မသိခဲ့ပါ။
 
 3195
 I didn't know what would happen to her.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမကို ဘာဖြစ်သွားတယ်ဆိုတာ ကျွန်တော် မသိခဲ့ပါ။
 
 3196
 I knew what was going to happen when she did that.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမ ဒီလို လုပ်တဲ့အခါ ဘာဖြစ်မယ်ဆိုတာ ကျွန်တော် သိခဲ့တယ်။
 
 3197
 I refused to sit down again.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်က နောက်ထပ် ထိုင်ဖို့ ငြင်းဆန်ခဲ့တယ်။
 
 3198
 I returned to my seat.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်က ကျွန်တော့် ထိုင်ခုံကို ပြန်လာခဲ့တယ်။
 
 3199
 I went back and sat down because my boss told me to.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် သူဌေးက ကျွန်တော်ကို ပြောခဲ့သောကြောင့် ကျွန်တော် ပြန်လာခဲ့ ပြီး ထိုင်နေခဲ့တာပါ။
 
 3200
 I have no memories of that house.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+အဲဒီ အိမ်မှာ အမှတ်ရစရာ မရှိပါဘူး။
