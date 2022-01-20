@@ -1,400 +1,399 @@
 3001
 Her sister is single.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမ၏ အမက အပျိုကြီးဖြစ်ပါသည်။
 
 3002
 She didn't change her behavior at all.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် သူမ၏ အပြုအမူကို လုံးဝ မပြောင်းလဲခဲ့ပါ။
 
 3003
 She never admitted that she was wrong.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် သူမမှားခဲ့သည်ကို ဘယ်တုန်းကမှ ဝန်မခံခဲ့ပါ။
 
 3004
 She never said that she was right about the meatloaf.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် အသားမုန့်နှင့် ပတ်သက်၍ မှန်ကန်သည်ဟု သူမက တစ်ခါမှ မပြောခဲ့ပါ။
 
 3005
 I didn't see it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ အဲဒါကို မတွေ့ခဲ့ဘူး။
 
 3006
 I didn't see what the person was doing on Monday.
-<MYANMAR UNICODE TRANSLATION HERE>
+တနင်္လာနေ့က ထိုလူ ဘာလုပ်နေလဲဆိုတာ ငါ မတွေ့ခဲ့ဘူး။
 
 3007
 I saw every bit of it!
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ၎င်းကို နည်းနည်းပါးပါး မြင်ဖူးပါတယ်!
 
 3008
 I like my uncle a lot.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်က ကျွန်တော့် ဦးလေးကို အရမ်း သဘောကျတယ်။
 
 3009
 My uncle is such a jerk!
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့ ဦးလေးက လူရှုပ် တစ်ယောက် လိုပဲ ဖြစ်တယ်!
 
 3010
 My uncle is very generous.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့် ဦးလေးသည် အလွန် ရက်ရောသည်။
 
 3011
 My brother in law was in the army.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်၏ ယောက်ဖသည် စစ်တပ်ထဲမှာ ရှိခဲ့သည်။
 
 3012
 My brother in law was in the service.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်၏ ယောက်ဖသည် အမှုထမ်း ဖြစ်ပါတယ်။
 
 3013
 My brother never enlisted.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်၏ အစ်ကိုက တစ်ခါမှ စာရင်းမသွင်းဖူးဘူး။
 
 3014
 I thought I was going to led someone else go instead.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲ့အစား တခြားသူကို ခေါ်သွားတော့မယ်လို့ ကျွန်တော် ထင်ပါတယ်။
 
 3015
 I thought I was going to let someone take my place in the meeting.
-<MYANMAR UNICODE TRANSLATION HERE>
+အစည်းအဝေးမှာ တစ်ယောက်ယောက်က ကျွန်တော်၏ နေရာကို ရအောင်ယူမယ်လို့ ကျွန်တော် ထင်ပါတယ်။
 
 3016
 I wasn't going to let anyone else go.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်က တခြားဘယ်သူ့ကိုမှ ခွင့်မပြုပါဘူး။
 
 3017
 They told me I should stay home.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က ကျွန်တော်ကို ကျွန်တော် အိမ်မှာနေသင့်တယ်လို့ ပြောကြတယ်။
 
 3018
 They told me to grab my bags.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က ငါ့ကို ငါ့အိတ်တွေ လာယူဖို့ ပြောခဲ့တယ်။
 
 3019
 They told me to pick up by white suitcase.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က ကျွန်တော့်ကို ခရီးဆောင်လက်ဆွဲသေတ္တာ အဖြူရောင်နဲ့ သယ်ဖို့ ပြောခဲ့တယ် ။
 
 3020
 He changes his mind a lot.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက သူ၏စိတ်တွေကို အတော် ပြောင်းလဲလိုက်တယ်။
 
 3021
 He changes his mind because he doesn't know what he's doing.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် ဘာလုပ်နေလဲဆိုတာကို သူမသိ သောကြောင့် သူသည် သူ၏ စိတ်ကို ပြောင်းလဲလိုက်တယ်။
 
 3022
 He is very consistent and calm.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက အရမ်း တည်ငြိမ် ပြီး ငြိမ်သက်တယ်။
 
 3023
 We couldn't tell anyone the U2 had landed.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယူတူးသည် ဆင်းသက်ခဲ့တယ်ဆိုတာ ဘယ်သူ့ကိုမှ ကျွန်တော်တို့ မပြောနိုင်ဘူး။
 
 3024
 We told everyone all about it.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါနဲ့ပတ်သက်ပြီး လူတိုင်းကို ကျွန်တော်တို့ ပြောခဲ့ပါတယ်။
 
 3025
 We weren't allowed to talk about the U2.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့သည် ယူတူး အကြောင်း ပြောခွင့်မရခဲ့ဘူး။
 
 3026
 He asked how things were going.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါတွေ ဘယ်လိုဖြစ်တာလဲလို့ သူက မေးခဲ့တယ်။
 
 3027
 He asked if we were finishing the documentary.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့သည် မှတ်တမ်းရုပ်ရှင် ပြီးဆုံးပြီဆိုလျှင် သူက လှမ်းမေးတယ်။
 
 3028
 He didn't speak to us at all.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက ငါတို့ကို လုံးဝ မပြောခဲ့ဘူး။
 
 3029
 I hurried and got it over with quickly.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ မြန်မြန် နဲ့ ၎င်းကို အလျင်အမြန် ယူခဲ့တာ။
 
 3030
 I sat there for two hours.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ အဲဒီမှာ နှစ်နာရီလောက် ထိုင်ခဲ့တယ်။
 
 3031
 I spun my wheel for a long time.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ငါ့ဘီးကို အချိန်အကြာကြီး လှည့်နေတယ်။
 
 3032
 I didn't know she almost died of TB.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမ တီဘီရောဂါနဲ့ သေလုနီးပါးဖြစ်နေပြီဆိုတာ ကျွန်တော် မသိပါဘူး။
 
 3033
 I didn't know she had TB.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမမှာ တီဘီရှိမှန်း ကျွန်တော် မသိခဲ့ပါ။
 
 3034
 I knew she was very sick with TB.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမ တီဘီနဲ့ အရမ်းဖျာနာနေမှန်း ကျွန်တော် သိခဲ့တယ်။
 
 3035
 Counter pressure kills you every time.
-<MYANMAR UNICODE TRANSLATION HERE>
+တန်ပြန် ဖိအားသည် အချိန်တိုင်း မင်းကို သေစေပါသည်။
 
 3036
 You need counter pressure above 5000 feet.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင်သည် ပေ ၅၀၀၀ အထက်မှာ တန်ပြန် ဖိအား လိုအပ်သည်။
 
 3037
 You need to have counter pressure at that altitude.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထို အမြင့်တွင် တန်ပြန် ဖိအား ရှိရန် လိုအပ်သည်။
 
 3038
 No changes would occur in your skin.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင့် အရေပြားတွင် အပြောင်းအလဲများ တွေ့ရှိရမည် မဟုတ်ပါ။
 
 3039
 your hand could change size if it was exposed outside of the suit.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင့် လက်သည် ဝတ်စုံ၏ အပြင်ဘက်တွင် ထုတ်ထားပါလျှင် အရွယ်အစားသည် ပြောင်းလဲနိုင်သည်။
 
 3040
 your hand would grow a ton if you were on the moon and you stuck it out of the suit.
-<MYANMAR UNICODE TRANSLATION HERE>
+လပေါ်မှာ မင်း ရှိနေခဲ့ ပြီးတော့ မင်းက ဝတ်စုံထဲ ၎င်းကို ထိုးထည့်မည်ဆိုလျှင် အများအပြား ကြီးထွားလာလိမ့်မည်။
 
 3041
 I know there's no reason she wouldn't tell you.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမ မင်းကို မပြောမယ့် အကြောင်းပြချက် မရှိဘူးဆိုတာ ငါ သိတယ်။
 
 3042
 Why wouldn't she tell you about it?
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ အကြောင်းကို သူမ ဘာလို့ မပြောတာလဲ။
 
 3043
 Why wouldn't she tell you about the baby?
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမက ကလေး အကြောင်း ဘာလို့ မပြောပြတာလဲ။
 
 3044
 He never visited his family.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် သူ၏ မိသားစုကို တစ်ခါမှ မရောက်ဖူးဘူး။
 
 3045
 He stayed in Brooklynn with his family.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် သူ၏ မိသားစုနှင့်အတူ ဘရွတ်ကလင်းတွင် နေထိုင်ခဲ့သည်။
 
 3046
 He stayed with them in New York.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် နယူးယောက်တွင် သူတို့ နှင့်အတူ နေထိုင်ခဲ့သည်။
 
 3047
 I never got training so I just figured it out as i went along.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့်သည် လေ့ကျင့်မှု တခါမှ မရှိဖူးတဲ့အတွက် ကျွန်တော် လျှောက်လည်ရင်းနဲ့ ကျွန်တော် ၎င်းကို သိလိုက်ရတယ်။
 
 3048
 Two guys trained me to work at that store.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယောက်ျား နှစ်ယောက်က ငါ့ကို အဲဒီ စတိုးဆိုင်မှာ အလုပ်လုပ်ဖို့ လေ့ကျင့်ပေးခဲ့တယ်။
 
 3049
 Two guys trained me.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယောက်ျား နှစ်ယောက်က ငါ့ကို လေ့ကျင့်ပေးခဲ့တယ်။
 
 3050
 She didn't mention if she was going to return or not.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမ ပြန်လာမလား၊ မပြန်ဖြစ်ဘူးလား ဆိုတာတော့ သူမက မပြောပါဘူး။
 
 3051
 She said she was going to return later.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမက နောက်မှ ပြန်လာမယ်လို့ ပြောခဲ့တယ်။
 
 3052
 She said she'd come back to the office with lunch.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမက နေ့လယ်စာစားပြီး ရုံးကိုပြန်လာမယ်လို့ သူမက ပြောတယ်။
 
 3053
 We didn't know what the heck a u2 was.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယူတူး က ဘာကြီးလည်းဆိုတာ ကျွန်တော်တို့ မသိခဲ့ဘူး!
 
 3054
 We didn't know what to call the thing we saw in the air.
-<MYANMAR UNICODE TRANSLATION HERE>
+လေထဲမှာ တွေ့တဲ့ အရာကို ဘယ်လိုခေါ်ရမှန်း ကျွန်တော်တို့ မသိခဲ့ဘူး။
 
 3055
 We knew all about the U2!
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ယူတူး အကြောင်း အားလုံး သိပြီးပြီ!
 
 3056
 The regulator was worthless.
-<MYANMAR UNICODE TRANSLATION HERE>
+စည်းကမ်းထိန်းသိမ်းရေးအဖွဲ့သည် တန်ဖိုးမရှိခဲ့ပေ။
 
 3057
 The regulator would change the pressure of everything in your suit.
-<MYANMAR UNICODE TRANSLATION HERE>
+စည်းကမ်းထိန်းသိမ်းရေးသည် သင့် ဝတ်စုံရှိ အရာအားလုံး၏ ဖိအားကို ပြောင်းလဲပေးလိမ့်မည်။
 
 3058
 You'd have to tinker with the regulator.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း စည်းကမ်းထိန်းသိမ်းရေးအဖွဲ့နှင့် ညှိနှိုင်းရမည်ဖြစ်ပါသည်။
 
 3059
 I had set the injector on Tuesday.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် အင်္ဂါနေ့တုန်းက ထိုးဆေးကို ထိုးခဲ့သည်။
 
 3060
 I was a 922.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်က ၉၂၂ တစ်ခုပါ။
 
 3061
 I was never a 922.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါက ၉၂၂ မဟုတ်ဘူး။
 
 3062
 She didn't understand that she was stuck with the guy forever even though she'd never met him.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမက သူ့ကို မတွေ့ဖူး သော်လည်း သူမသည် ထို ကောင်လေးဆီမှာ အမြဲ ပိတ်မိနေသည်ကို သူမ နားမလည်ပေ။
 
 3063
 She didn't understand what had happened.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖြစ်ပျက်ခဲ့တာကို သူမ နားမလည်ခဲ့ဘူး။
 
 3064
 She knew what she was getting into.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမ ဝင်လာခဲ့တာကို သူမ သိခဲ့တယ်။
 
 3065
 We would enter there at 8pm.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ အဲဒီကို ည ၈ နာရီမှာ ဝင်မယ်။
 
 3066
 We would enter.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ဝင်မယ်။
 
 3067
 We would never go in.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ ဘယ်တော့မှ ဝင်မှာ မဟုတ်ဘူး။
 
 3068
 She treated everyone the same.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် လူတိုင်းကို အတူတူပင် ဆက်ဆံခဲ့သည်။
 
 3069
 She treated the other grandchildren differently.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက တခြား မြေးတွေကို မတူကွဲပြားစွာ ဆက်ဆံတယ်။
 
 3070
 She treated the other grandkids differently because they were black.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် လူမည်းဖြစ်သောကြောင့် သူမသည် အခြား မြေးများကို မတူကွဲပြားစွာ ဆက်ဆံခဲ့သည်။
 
 3071
 The dress was billowing in the wind.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဝတ်အစားက လေထဲမှာ လွင့်နေတယ်။
 
 3072
 The dress was very short and blew around a bit.
-<MYANMAR UNICODE TRANSLATION HERE>
+၀တ်စုံက ခပ်တိုတိုလေးဖြစ်ပြီး နည်းနည်းတော့ ပါးသွားသည် ။
 
 3073
 There was no wind so the dress was still.
-<MYANMAR UNICODE TRANSLATION HERE>
+လေမတိုက်တော့ဘဲ ၀တ်စုံကဝတ်ထားတုန်းပဲ။
 
 3074
 I was in Special Activities every other day.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်ဟာ စပရှယ် အက်တီဗစ်တီမှာ တစ်ရက်ခြား ရှိနေခဲ့တယ်။
 
 3075
 I was in Special Activities.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်က စပရှယ် အက်တီဗစ်တီမှာ ရှိနေခဲ့တယ်။
 
 3076
 I was never in Special Activities.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်က စပရှယ် အက်တီဗစ်တီမှာ တစ်ခါမှ မပါဝင်ဖူးဘူး။
 
 3077
 I asked how urgent it was.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းက ဘယ်လောက် အရေးတကြီးလဲလို့ ကျွန်တော်က မေးခဲ့တယ်။
 
 3078
 I knew the work needed to be done right now.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခု လုပ်ရမယ့် အလုပ်တွေကို လိုအပ်ခဲ့တယ်ဆိုတာ ငါသိတယ်။
 
 3079
 i asked if the client would be mad if it waited until 2pm because i had an appointment tonight.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီနေ့ည ကျွန်တော် ချိန်းဆိုချက် တစ်ခု ရှိခဲ့ သောကြောင့် ၎င်းကို ၂ နာရီအထိ စောင့်ခဲ့မည်ဆိုလျှင် ဖောက်သည်က ရူးသွားမလားလို့ ကျွန်တော် မေးခဲ့တယ်။
 
 3080
 They had twenty family members living in Evans.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့တွင် အီဗန်တွင် နေထိုင်သော မိသားစုဝင် နှစ်ဆယ် ရှိခဲ့သည်။
 
 3081
 They lived in Atlanta.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် အတ္တလန်တာတွင် နေထိုင်ခဲ့ကြသည်။
 
 3082
 They lived in Evans which is very small.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် အလွန်သေးငယ်သော အီဗန်တွင် နေထိုင်ကြသည်။
 
 3083
 My sister said I was racist.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ညီမက ကျွန်တော်သည် လူမျိုးရေးခွဲခြာသည်လို့ ပြောပါတယ်။
 
 3084
 My sister said I wasn't always nice.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့် ညီမက ကျွန်တော်သည် အမြဲတမ်း အဆင်မပြေဘူးလို့ ပြောခဲ့သည်။
 
 3085
 My siter said I was nothing like my granny.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့ အစ်မက ငါ့ အဖွားနဲ့ ငါ ဘာမှမဆိုင်ဘူးလို့ ပြောခဲ့တယ်။
 
 3086
 We moved to a house we had built in the country.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့သည် နိုင်ငံမှာ ဆောက်ထားတဲ့ အိမ်တစ်လုံးကို ပြောင်းခဲ့သည်။
 
 3087
 We relocated to a new residence.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့သည် နေထိုင်သည့်အိမ် အသစ် တစ်ခုကို ပြောင်းရွှေ့ခဲ့ပါတယ်။
 
 3088
 We stayed in the same house our whole lives.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့သည် ကျွန်တော်တို့ တစ်သက်လုံး တစ်အိမ်တည်း နေထိုင်ခဲ့ကြတယ်။
 
 3089
 My grandma was born 10 years after the turn of the century.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့် အဘွားက ရာစုနှစ်အကူးအပြောင်း ၁၀ နှစ်အကြာတွင် မွေးဖွားခဲ့သည်။
 
 3090
 My grandma was born in 1899.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့် အဘွားက ၁၈၉၉ မှာ မွေးဖွားခဲ့သည်။
 
 3091
 My grandma was born on july 1, 1910.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့် အဘွားကို ၁၉၁၀ ခုနှစ် ၊ ဇူလိုင်လ ၁ ရက်နေ့တွင် မွေးဖွားခဲ့သည်။
 
 3092
 I said I hated it and disapproved greatly.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်က ဒါကို မုန်းတယ်လို့ပြော ပြီး အရမ်း သဘောမကျခဲ့ဘူး။
 
 3093
 I said I like the new version of the song.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် သီချင်းရဲ့ ဗားရှင်း အသစ်ကို ကြိုက်တယ်လို့ ကျွန်တော် ပြောခဲ့ပါတယ်။
 
-3094
+3094 
 I said that I approved of it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်က အဲဒါကို သဘောတူတယ်လို့ ကျွန်တော် ပြောခဲ့သည်။
 
 3095
 The paint changes according to color.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆေးသည် အရောင် အလိုက် ပြောင်းလဲသည်။
 
 3096
 The paint changes so you can tell how hot it is without measuring it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆေးသည် ဘယ်လို ပူသည်ကို ၎င်းကို မတိုင်းတာဘဲ မင်း ပြောနိုင်တယ်ဆိုတာကို ပြောင်းလဲသည်။
 
-3097
+3097 
 the paint is always black.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆေးသည် အမြဲတမ်း အနက်ရောင် ဖြစ်သည်။
 
 3098
 I ate the pizza in less than two minutes.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ပီဇာကို နှစ်မိနစ်လောက်ကြာမှ စားခဲ့တယ်။
 
 3099
 I ate very slowly so i wouldn't get sick.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် အရမ်း နွေးကွေးစွာ စားခဲ့ သောကြောင့် ကျွန်တော် မဖျားဘူး။
 
 3100
 I scarfed the food down.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+ကျွန်တော်သည် အစားအစာအောက်ကျသွားလို့ သုတ်လိုက်တယ်။
