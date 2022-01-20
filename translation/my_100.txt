@@ -1,400 +1,411 @@
 9901
-Some words do not fit.
-<MYANMAR UNICODE TRANSLATION HERE>
+Some words do not fit.                                                                  
+တချို့စကားလုံးတွေက မကိုက်ညီဘူး။
 
 9902
 The intricate rule books outline all possible configurations of this sport.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှုပ်ထွေးသော စည်းမျဉ်းစာအုပ်များသည် ဒီအားကစား၏ ဖြစ်နိုင်ချေရှိသော ဖွဲ့စည်းမှုပုံစံများအားလုံးကို အကြမ်းဖျင်းဖော်ပြသည်။
 
 9903
 The rules and guidelines of these sports are still unclear.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ အားကစားများ၏ စည်းမျဉ်းများနှင့် လမ်းညွှန်ချက်များက မရှင်းလင်းသေးဘူး။
 
 9904
 There are variations of this sport that can involve a net and a ball.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပိုက်ကွန် တစ်ခု နဲ့ ဘောလုံး တစ်လုံး ပါ၀င်နိုင်တဲ့ ဒီအားကစားက ကွဲပြားမှုတွေ ရှိသည်။
 
 9905
 Some groups need make up new words to address changing times.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့သောအဖွဲ့များသည် ပြောင်းလဲနေသောအချိန်များကို ဖြေရှင်းရန် စကားလုံးအသစ်တွေ ဖန်တီးဖို့ လိုအပ်သည်။
 
 9906
 Some groups need make up new words.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့သောအဖွဲ့များသည် စကားလုံးအသစ်များ ဖန်တီးဖို့ လိုအပ်သည်။
 
 9907
 The groups can't make up new words.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဖွဲ့များသည် စကားလုံးအသစ်များ မဖန်တီးနိုင်ပါ။
 
 9908
 Names do not have a unique resonance.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမည်များတွင် ထူးခြားသော အသံသြဇာ တစ်ခု မရှိဘူး။
 
 9909
 Some names have a unique resonance.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့သောအမည်များတွင် ထူးခြားသော အသံသြဇာ တစ်ခု ရှိသည်။
 
 9910
 Some place names make you feel happy.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့နေရာအမည်များသည် မင်းကို ပျော်ရွှင်စေအောင် ပြုလုပ်သည်။
 
 9911
 Lots of people from England speak more than one language.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်္ဂလန်ကလူတော်တော်များများဟာ ဘာသာစကားတစ်ခုထက်ပိုပြောကြတယ်။
 
 9912
 No one in England can speak anything other than English.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်္ဂလန်မှာ ဘယ်သူမှ အင်္ဂလိပ်ကလွဲလို့ အခြား ဘာမှ မပြောတတ်ဘူး။
 
 9913
 People in England are required to speak more than one language.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်္ဂလန်ရှိလူများသည် ဘာသာစကားတစ်ခုထက်ပို၍ပြောရန်လိုအပ်သည်။
 
 9914
 It is easy to add carvings.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါက ပန်းပုရုပ်တွေ ထည့်ရန် လွယ်ကူသည်။
 
 9915
 It is easy to make a variation.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါက ကွဲပြားမှုတစ်ခုပြုလုပ်ရန် လွယ်ကူသည်။
 
 9916
 It is hard to make a variation.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါက ကွဲပြားမှုတစ်ခုပြုလုပ်ရန် ခက်ခဲသည်။
 
 9917
 France and Scotland share a treaty known as the Auld Alliance.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြင်သစ်နှင့် စကော့တလန်တို့သည် အော့ဒ်ထ် ဟု လူသိများသော နိုင်ငံအချင်းချင်း တဦးနှင့်တဦး ကူညီထောက်ပံ့ရန်နှင့် ကာကွယ်ပေးရန် သဘောတူညီချက် သဘောတူစာချုပ်တစ်ခုကို မျှ သုံးကြသည်။
 
 9918
 Japan and Sweden are members of the Auld Alliance.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျပန်နှင့် ဆွီဒင်တို့သည် နိုင်ငံအချင်းချင်း တဦးနှင့်တဦး ကူညီထောက်ပံ့ရန်နှင့် ကာကွယ်ပေးရန် သဘောတူညီချက် အော့ဒ်ထ်၏ အဖွဲ့ဝင်များဖြစ်ကြသည်။
 
 9919
 The Auld Alliance between France and Scotland has been around for hundreds of years.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြင်သစ်နှင့် စကော့တလန်ကြားရှိ နိုင်ငံအချင်းချင်း တဦးနှင့်တဦး ကူညီထောက်ပံ့ရန်နှင့် ကာကွယ်ပေးရန် သဘောတူညီချက် အော့ဒ်ထ် သည် နှစ်ပေါင်းရာနှင့်ချီ၍ ရှိနေပြီဖြစ်သည်။
 
 9920
 Niceness is not solely owned by Western tradition.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရည်အသွေးကောင်းဆိုတာ အနောက်တိုင်း အစဉ်အလာက တစ်ဦးတည်း ပိုင်ဆိုင်တာ မဟုတ်ဘူး။
 
 9921
 People in the west are far more nice than others.
-<MYANMAR UNICODE TRANSLATION HERE>
+အနောက်က လူတွေက တခြားသူတွေထက် ပိုချိုသာတယ်။
 
 9922
 Western tradition has a monopoly on ugliness.
-<MYANMAR UNICODE TRANSLATION HERE>
+အနောက်တိုင်း အစဉ်အလာက အကျည်းတန်မှုအပေါ် တစ်ဦး တည်း ချုပ်ကိုင်မှုစနစ် ရှိသည်။
 
 9923
 Most people would not know the origin of the word quark and that it referenced the noise made by a frog.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူအများစုသည် ဖားတစ်ကောင်ပြုလုပ်သော ဆူညံသံကို ရည်ညွှန်းသည့် quark ဟူသော စကားလုံး၏ မူလဇစ်မြစ်ကို မသိကြဘူး။
+#REVIEW
 
 9924
 The word quark has been listed in dictionaries as a verb defined as the croaking sound made by frogs.
-<MYANMAR UNICODE TRANSLATION HERE>
+quark ဟူသော စကားလုံးကို ဖားများပြုလုပ်သော ဖားအော်သံဟု သတ်မှတ်သော ကြိယာတစ်ခုအဖြစ် အဘိဓာန်များတွင် စာရင်းသွင်းထားသည်။
+#REVIEW
 
 9925
 The word quark is a modern word first invented by scientists in the 1960s.
-<MYANMAR UNICODE TRANSLATION HERE>
+Quark ဟူသောစကားလုံးသည် တစ်ထောင်ကိုးရာခြောက်ဆယ် ခုနှစ်များတွင် သိပ္ပံပညာရှင်များ ပထမဆုံးတီထွင်ခဲ့သော ခေတ်မီစကားလုံးတစ်လုံးဖြစ်သည်။
+#REVIEW
 
 9926
 Banquets and parquet mean the same thing.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂုဏ်ပြုထမင်းစားပွဲနှင့် ပါကေးသည် တူညီသောအရာဟု ဆိုလိုသည်။
 
 9927
 The dinner party is on linoleum.
-<MYANMAR UNICODE TRANSLATION HERE>
+ညစာမိတ်ဆုံစားပွဲက ဖယောင်းပုဆိုးပေါ်မှာ ဖြစ်သည်။
 
 9928
 The party is not held on hardwoods.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပါတီပွဲကို သစ်မာပေါ်မှာ မကျင်းပဘူး။
 
 9929
 A forest that has never been marred by man's presence is called a virgin forest.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူရောက်ရှိခြင်းဖြင့် ဘယ်တော့မှ မပျက်စီးသော သစ်တောတစ်ခုကို မူလအတိုင်းရှိသော သစ်တောတစ်ခုဟု ခေါ်သည်။
+#REVIEW
 
 9930
 Due to our population, there are few virgin forests still left in the United States.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ရဲ့လူဦးရေသိပ်သည်းမှုကြောင့်၊ အမေရိကန်ပြည်ထောင်စုတွင် သစ်တောအနည်းငယ်သာ ကျန်ရှိတော့သည်။
+#REVIEW
 
 9931
 The newest condo development in the center of the forest won't impact its virgin forest status.
-<MYANMAR UNICODE TRANSLATION HERE>
+သစ်တော၏အလယ်ဗဟိုတွင် နောက်ဆုံးပေါ်ကွန်ဒိုတည်ဆောက်မှုသည် ၎င်း၏ မူလအတိုင်းရှိသေးသော သစ်တောအခြေအနေအပေါ်သက်ရောက်မှုမရှိဘူး။
+#REVIEW
 
 9932
 Cables are a much more prestigious word than wires whenever in a trade.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကြေးနန်းကြိုးများသည် ကုန်သွယ်မှုတစ်ခုလုပ်သည့်အခါတိုင်း ဝိုင်ယာကြိုးများထက် ပို၍ ဂုဏ်သတင်းကြီးသော စကားလုံးတစ်လုံးဖြစ်သည်။
 
 9933
 No cables or wires care included in the trade for these boxes.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီသေတ္တာများအတွက် ကုန်သွယ်မှုမှာ ပါဝင်ေသာ ကြေးနန်းကြိုးများ သို့မဟုတ် ဝါယာကြိုးများကို ဂရုမစိုက်ပါ။
 
 9934
 These boxes can be connected together and powered by cables.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီသေတ္တာများကို ကြေးနန်းကြိုးများဖြင့် အတူ ချိတ်ဆက်ပြီး မောင်းနှင်နိုင်သည်။
 
 9935
 The Indians disliked Sir William Johnson.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိန္ဒိယလူမျိုးများသည် ဆာ ဝီလျံ ဂျွန်ဆင်ကို မနှစ်သက်ပါ။
 
 9936
 The Indians liked Sir William Johnson.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိန္ဒိယလူမျိုးများသည် ဆာ ဝီလျံ ဂျွန်ဆင်ကို နှစ်သက်ကြသည်။
 
 9937
 The Indians showed Sir William Johnson how to plant a garden.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိန္ဒိယလူမျိုးများသည် ဆာ ဝီလျံ ဂျွန်ဆင်အား ဥယျာဉ်တစ်ခု ဘယ်လို စိုက်မလဲဆိုတာကို ပြသသည်။
 
 9938
 I can still consume six more scotches.
-<MYANMAR UNICODE TRANSLATION HERE>
+နောက်ထပ် စကော့တလန်ဝီစကီ ခြောက်ခွက် ကုန်နိုင်သေးတယ်။
 
 9939
 I only have room for one more glass of scotch.
-<MYANMAR UNICODE TRANSLATION HERE>
+နောက်ထပ် စကော့တလန်ဝီစကီ တစ်ခွက်အတွက် ငါ့မှာ အခန်းပဲရှိတယ်။
 
 9940
 Six more scotches on the rocks will do just fine.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျောက်တုံးကြီးများပေါ်မှ နောက်ထပ် စကော့တလန်ဝီစကီ ခြောက်ခွက် သည် ကောင်းကောင်းလုပ်ဆောင်မည်။
 
 9941
 The building does not have a nickname.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆောက်အဦးတွင် ချစ်စနိုးခေါ်သော နာမည် တစ်ခု မရှိပါ။
 
 9942
 The building is haunted.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆောက်အဦးက သရဲခြောက်တယ်။
 
 9943
 The building is nicknamed Il Colossea Quadrato.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆောက်အအုံကို အီလာ ခိုလိုစီးယား ကွာဒရာတို ဟု ချစ်စနိုးခေါ်သည်။
 
 9944
 No one answered the caller.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖုန်းခေါ်ဆိုသူကို မည်သူမှ ဖြေကြားခြင်းမရှိဘူး။
 
 9945
 The caller was so glad someone was there to listen.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖုန်းခေါ်ဆိုသူသည် အဲဒီမှာ နားထောင်ရန် တစ်စုံတစ်ဦးရှိ၍ ဝမ်းမြောက်မိသည်။
 
 9946
 The caller was thankful.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖုန်းခေါ်ဆိုသူသည် ကျေးဇူးတင်သည်။
 
 9947
 We are continuously surprised by Dr. Richards.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒေါက်တာ ရစ်ချက်ထ် က ငါတို့ကို ဆက်တိုက် အငိုက်ဖမ်းတယ်။
 
 9948
 We howled with laughter when we heard Dr. Richards' latest news.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒေါက်တာ ရစ်ချက်ထ် ၏ နောက်ဆုံးသတင်းကို ငါတို့ ကြားရသောအခါ ငါတို့ ရယ်ရယ်မောမော အော်ဟစ်လိုက်ကြသည်။
 
 9949
 We've never heard of Dr. Richards or his ideas.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒေါက်တာ ရစ်ချက်ထ် သို့မဟုတ် သူ့ရဲ့အကြံဉာဏ်များကို ငါတို့ ဘယ်တော့မှ မကြားဖူးဘူး။
 
 9950
 A slow and painful urine stream was the precursor.
-<MYANMAR UNICODE TRANSLATION HERE>
+နှေးကွေးပြီး နာကျင်သော ဆီးစီးကြောင်းတစ်ခုသည် ရှေ့ပြေးနိမိတ်ဖြစ်သည်။
 
 9951
 Only after the relevant strangury did urination become free and flowing.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆက်စပ်သော ဆီးအောင့်ရောဂါ သည် ဆီးသွားပြီးနောက်မှသာ လွတ်လပ်ပြီး စီးဆင်းလာပါသည်။
 
 9952
 Strangury preceded the sexually transmitted disease.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆီးအောင့်ရောဂါ သည် လိင်မှတဆင့်ကူးစက်သောရောဂါ ရှေ့က ဖြစ်သည်။
 
 9953
 Lover had a target on his head and thus had to hide between the rocks.
-<MYANMAR UNICODE TRANSLATION HERE>
+ချစ်သူသည် သူ့ခေါင်းပေါ်မှာ ပစ်မှတ်တစ်ခုရှိနေတယ်ဆိုတော့ ကျောက်တုံးများကြားတွင် ပုန်းနေသည်။
 
 9954
-Lover was on the run from the law who wanted him dead.
-<MYANMAR UNICODE TRANSLATION HERE>
+Lover was on the run who wanted him dead.
+ချစ်သူသည် သူ့ကိုသေစေလိုသော ဥပဒေမှ ပြေးနေသည်။
 
 9955
 The rancher named Lover hid in a grassy area while planning his murder rampage.
-<MYANMAR UNICODE TRANSLATION HERE>
+လပ်ဗား ဟု အမည်ပေးထားသည့် မွေးမြူရေးခြံရှင်သည် သူ၏လူသတ်ဆူပူရမ်းကားမှုကို စီစဉ်နေစဉ် မြက်ခင်းပြင်တွင် ပုန်းရှောင်သည်။
 
 9956
 Via della Scrofa is a sculpture.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဗီယာ ဒယ်လာ စခရိုဖာ သည် ပန်းပုရုပ်တုတစ်ခုဖြစ်သည်။
 
 9957
 Via della Scrofa is named after a town.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဗီယာ ဒယ်လာ စခရိုဖာ ဟု မြို့ကို အမည်ပေးထားသည်။
 
 9958
 Via della Scrofa is named after another sculpture.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဗီယာ ဒယ်လာ စခရိုဖာ ဟု အခြားသော ပန်းပုရုပ်ထု ကို အမည်ပေးထားသည်။
 
 9959
 I keep speeches the same.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ မိန့်ခွန်းတွေကို ဒီအတိုင်းပဲ သိမ်းထားတယ်။
 
 9960
 I reedit speeches for my job.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ မိန့်ခွန်းတွေကို င့ါအလုပ်အတွက် ပြန်လည်တည်းဖြတ်တယ်။
 
 9961
 I reedit speeches.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ မိန့်ခွန်းတွေကို ပြန်လည်တည်းဖြတ်တယ်။
 
 9962
 Schools use Webster's COllege because it is the best.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျောင်းများသည် အဲဒါက အကောင်းဆုံးဖြစ်သောကြောင့် ဝက်ဘ်စတား ကောလိပ်ကို အသုံးပြုသည်။
+#REVIEW Dictionary
 
 9963
 There is more information in the Webster's College than New World.
-<MYANMAR UNICODE TRANSLATION HERE>
+နယူးဝေါ်လ် ထက် ဝက်ဘ်စတား ကောလိပ် မှာ သတင်း အချက်အလက်များ ပိုများသည်။
+#REVIEW Dictionary
 
 9964
 Webster's College is missing way more information than the other books.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝက်ဘ်စတား ကောလိပ် သည် အခြားစာအုပ်များထက် သတင်း အချက်အလက်များ ပိုမိုပျောက်ဆုံးနေသည်။
+#REVIEW Dictionary
 
 9965
 Our vocabulary does not have a linguistic process.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့၏ ဝေါဟာရမှာ ဘာသာစကားဆိုင်ရာ လုပ်ငန်းစဉ် တစ်ခု မရှိဘူး။
 
 9966
 Our vocabulary has a linguistic process.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့၏ဝေါဟာရမှာ ဘာသာစကားဆိုင်ရာ လုပ်ငန်းစဉ်တစ်ခု ရှိသည်။
 
 9967
 Our vocabulary is expanding.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့၏ ဝေါဟာရသည် ကျယ်ပြန့်လာသည်။
 
 9968
 Prisoners created stories.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကျဉ်းသားတွေက ဇာတ်လမ်းတွေကို ဖန်တီးတယ်။
 
 9969
 Prisoners created them.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကျဉ်းသားတွေက သူတို့ကို ဖန်တီးတယ်။
 
 9970
 Prisoners did not create them.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကျဉ်းသားတွေက သူတို့ကို မဖန်တီးဘူး။
 
 9971
 My sister is a nun and has never dated a man.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့ အစ်မက သီလရှင်တစ်ပါးဖြစ်ပြီး ယောက်ျားတစ်ယောက် နဲ့ ဘယ်တော့မှ မချိန်းတွေ့ဖူးဘူး။
 
 9972
 My sister used to date a fan of the University of Iowa sports teams, which are called the Hawkeyes.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့်ညီမသည် ဟောကိုင်း ဟုခေါ်သော အိုင်အိုဝါတက္ကသိုလ်၏ အားကစားအသင်းပရိသတ်တစ်ဦးနှင့် ချိန်းတွေ့ဖူးသည်။
 
 9973
 The young man my sister was dating felt obligated to be a Hawkeyes fan because he worked for the University of Iowa.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့်ညီမနှင့်ချိန်းတွေ့နေသည့် လူငယ်သည် သူက အိုင်အိုဝါတက္ကသိုလ်မှာ အလုပ်လုပ်သောကြောင့် ဟောကိုင်း ပရိသတ်တစ်ဦးဖြစ်ရန် တာဝန်ရှိသည်ဟု ခံစားခဲ့ရသည်။
 
 9974
 English is badly in need of additional exotic words.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်္ဂလိပ်စာသည် ထူးခြားဆန်းပြားသော အပိုစကားလုံးများ ဆိုးရွားစွာ လိုအပ်နေပါသည်။
 
 9975
 Experts have identified fifty different words that should not be part of the language.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွမ်းကျင်သူများသည် ဘာသာစကား၏အစိတ်အပိုင်းမဖြစ်သင့်သော မတူညီသည့် စကားလုံးငါးဆယ်ကို ဖော်ထုတ်ကြသည်။
 
 9976
 There are many English words that should be removed from the language.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘာသာစကားမှ ဖယ်ရှားသင့်သော အင်္ဂလိပ်စကားလုံးများစွာ ရှိပါသည်။
 
 9977
 John Burke dislikes Boswell.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျွန် ဘာ့ခ် သည် ဘာ့စ်ဝဲလ် ကိုမကြိုက်ပါ။
 
 9978
 John Burke ignores accounts.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျွန် ဘာ့ခ် သည် ငွေစာရင်းများကို လျစ်လျူရှုသည်။
 
 9979
 John Burke reviews accounts.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျွန် ဘာ့ခ် သည် ငွေစာရင်းများကို ပြန်လည်သုံးသပ်သည်။
 
 9980
 Inglish is different from English.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်္ဂလိပ်သည် အင်္ဂလိပ်စာနှင့် ကွဲပြားသည်။
 
 9981
 Inglish is harder than English.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်္ဂလိပ်စက အင်္ဂလိပ်စာထက် ပိုခက်သည်။
 
 9982
 Inglish is the same as English.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်္ဂလိပ် သည် အင်္ဂလိပ်စာနှင့် အတူတူဖြစ်သည်။
 
 9983
 New etymologies are really delicate to introduce.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝေါဟာရသမိုင်းအသစ်များသည် မိတ်ဆက်ပေးရန် တကယ်ကို သိမ်မွေ့သည်။
 
 9984
 You can just propose a new etymology whenever youw ant.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းလိုသည့်အခါတိုင်း ဝေါဟာရသမိုင်းအသစ်တစ်ခုကိုသာ မင်း အဆိုပြုနိုင်သည်။
+#REVIEW youw ant
 
 9985
 You hae to be careful when you think of a new etymology.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝေါဟာရသမိုင်းအသစ်တစ်ခုကို မင်း စဉ်းစားတဲ့အခါ မင်း သတိထားရမယ်။
+#REVIEW hae
 
 9986
 It has been a month since the election.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါ ရွေးကောက်ပွဲကတည်းက တစ်လရှိပြီ။
 
 9987
 It has been a month since the presidential election.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါ သမ္မတရွေးကောက်ပွဲကတည်းက တစ်လရှိပြီ။
 
 9988
 It has been only a week since the election.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါ ရွေးကောက်ပွဲကတည်းက တစ်ပတ်သာရှိသေးတယ်။
 
 9989
 Fiesty began as fisten.
-<MYANMAR UNICODE TRANSLATION HERE>
+စိတ်ပြင်းပြခြင်းသည် လက်သီးဆုပ် အဖြစ် စတင်သည်။
 
 9990
 Fiesty has been around for 100 years.
-<MYANMAR UNICODE TRANSLATION HERE>
+စိတ်ပြင်းပြခြင်းသည် နှစ် တစ်ရာ ဝန်းကျင်ရှိပြီဖြစ်သည်။
 
 9991
 Fiesty is unrelated to fisten.
-<MYANMAR UNICODE TRANSLATION HERE>
+စိတ်ပြင်းပြခြင်းသည် သည် လက်သီးဆုပ် နှင့်မသက်ဆိုင်ပါ။
 
 9992
 Statement gives more details.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထုတ်ပြန်ချက်တွင် အသေးစိတ်အချက်အလက်များကို ပို၍ပေးသည်။
 
 9993
 Statement is not better.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထုတ်ပြန်ချက်က ပိုမကောင်းဘူး။
 
 9994
 Statement is preferable.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထုတ်ပြန်ချက်က ပိုကောင်းပါတယ်။
 
 9995
 Davidson does not believe scone and bone should rhyme.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒေးဗစ်ဆန်န်သည် နို့ပေါင်မုန့်လုံးနှင့် အရိုးကို ကာရန်မိသင့်သည်ဟု မယုံကြည်ဘူး။
 
 9996
 Davidson shouldn't talk in a way where bone and scone sound the same.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒေးဗစ်ဆန်သည် အရိုးနှင့်နို့ပေါင်မုန့်လုံးကို အသံတူညီသည့်နည်းလမ်းတစ်ခုဖြင့် စကားမပြောသင့်ဘူး။
 
 9997
 It would be better if Davidson rhymed the words scone and bone.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒေးဗစ်ဆန်သည် နို့ပေါင်မုန့်လုံးနှင့် အရိုး ဟူသော စကားလုံးများကို ကာရန်မိလျှင် အဲဒါက ပိုကောင်းပါသည်။
 
 9998
 A 200,000 word novel at $25 is a fair price.
-<MYANMAR UNICODE TRANSLATION HERE>
+နှစ်သိန်း စကားလုံးရှိသောဝတ္ထုတစ်ပုဒ်ကို နှစ်ဆယ့်ငါး ဒေါ်လာဆိုသည်မှာ သင့်တင့်သောစျေးနှုန်းတစ်ခုဖြစ်သည်။
 
 9999
 A 200,000 word novel for $25 is 4,000 words per dollar.
-<MYANMAR UNICODE TRANSLATION HERE>
+နှစ်ဆယ့်ငါး ဒေါ်လာရှိသော စကားလုံးနှစ်သိန်းရှိသည့်ဝတ္ထုတစ်ပုဒ်သည် တစ်ဒေါ်လာလျှင် စကားလုံး လေးထောင် ဖြစ်သည်။
 
 10000
 A 200,000 word novel for $25 is 8,000 words per dollar.
-<MYANMAR UNICODE TRANSLATION HERE>
+နှစ်ဆယ့်ငါး ဒေါ်လာရှိသော စကားလုံးနှစ်သိန်းရှိသည့်ဝတ္ထုတစ်ပုဒ်သည် တစ်ဒေါ်လာလျှင် စကားလုံး ရှစ်ထောင် ဖြစ်သည်။
 
