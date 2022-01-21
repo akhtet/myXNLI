@@ -1,400 +1,400 @@
 7901
 Only one person worked on the costume.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝတ်စုံကို ဖန်တီးသူ တစ်ဦးတည်းသာ ရှိသည်။
 
 7902
 The people who helped make the costume are all women.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝတ်စုံဖန်တီးရာတွင် ကူညီပေးသူများမှာ အမျိုးသမီးများအားလုံးဖြစ်သည်။
 
 7903
 Three people contributed to the costume's making.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝတ်စုံဖန်တီးမှုတွင် လူသုံးဦး ပါဝင်ခဲ့သည်။
 
 7904
 Making a charitable contribution will benefit you directly.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလှူဒါနပြုခြင်းသည် သင့်အား တိုက်ရိုက်အကျိုးရှိစေမည်ဖြစ်သည်။
 
 7905
 The code is not readable.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကုဒ်ကို ဖတ်၍မရပါ။
 
 7906
 There is some advantage to making a charitable contribution.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလှူဒါနပြုခြင်းအတွက် အကျိုးကျေးဇူးအချို့ရှိပါသည်။
 
 7907
 Law schools don't care about the caliber of students, they just want money.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဥပဒေကျောင်းများသည် ကျောင်းသားများ၏ အရည်အချင်းကို ဂရုမစိုက်ဘဲ ငွေကိုသာ လိုချင်ကြသည်။
 
 7908
 Law schools want students with GPAs over 3.9.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဥပဒေကျောင်းများသည် ဂျီပီအေ ၃ဒသမ၉ အထက်ရှိသော ကျောင်းသားများကို အလိုရှိသည်။
 
 7909
 Law schools want the best students.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဥပဒေကျောင်းတွေက အကောင်းဆုံး ကျောင်းသားတွေကို လိုချင်တယ်။
 
 7910
 The educators all have Master's Degrees.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင်ကြားရေးဆရာတိုင်းတွင် မဟာဘွဲ့များ ရှိသည်။
 
 7911
 The educators have graduated from some coursework.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင်ကြားရေးဆရာများသည် စာသင်နှစ်များမှ ဘွဲ့ရရှိကြသည်။
 
 7912
 The educators never got past a high school education.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင်ကြားရေးဆရာများသည် အထက်တန်းပညာရေးကို ဘယ်တော့မှ မကျော်ခဲ့ကြဘူး။
 
 7913
 Creating the homes was completely free of charge.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိမ်များဖန်တီးခြင်းသည် လုံးဝအခမဲ့ဖြစ်သည်။
 
 7914
 The homes required resources to be created.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိမ်များဖန်တီးရန် အရင်းအနှီးများ လိုအပ်သည်။
 
 7915
 The homes were more expensive to create than expected.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိမ်တွေ ဖန်တီးဖို့က မျှော်လင့်ထားတာထက် ပိုစျေးကြီးတယ်။
 
 7916
 Less than a quarter of the Museum's operating budget last year came from donations.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယမန်နှစ်က ပြတိုက်၏ လုပ်ငန်းလည်ပတ်မှုဘတ်ဂျက်မှ လေးပုံတစ်ပုံအောက်သာ လှူဒါန်းမှုမှ ရရှိခဲ့သည်။
 
 7917
 Over half of the Museum's operating budget comes from donations every year.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတိုက်၏ လုပ်ငန်းလည်ပတ်မှုဘတ်ဂျက်မှ ထက်ဝက်ကျော်သည် နှစ်စဉ် လှူဒါန်းမှုများမှ ရရှိသည်။
 
 7918
 The Museum had a total operating budget of $10 million last year.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတိုက်သည် ယမန်နှစ်တွင် စုစုပေါင်း လုပ်ငန်းလည်ပတ်ရန် ဘတ်ဂျက် ဒေါ်လာ ၁၀ သန်း ရှိခဲ့သည်။
 
 7919
 Every single student is being reached through school.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျောင်းသားတစ်ဦးစီသည် ကျောင်းမှတစ်ဆင့် ရောက်ရှိနေပါသည်။
 
 7920
 Not all students are being reached through school and other community institutions.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျောင်းသားအားလုံးသည် ကျောင်းနှင့် အခြားအသိုက်အဝန်း အဖွဲ့အစည်းများမှတဆင့် မရောက်ပါ။
 
 7921
 The students that will be reached will be eternally grateful.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရောက်လာမယ့် ကျောင်းသားကျောင်းသူတွေကို ထာဝရကျေးဇူးတင်ရှိမှာပါ ။
 
 7922
 Becky doesn't care about it at all.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘက်ကီက ဒါကို လုံးဝ ဂရုမစိုက်ပါဘူး။
 
 7923
 Becky is a 8th grade student.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘက်ကီသည် ၈ တန်းကျောင်းသား တစ်ယောက် ဖြစ်သည်။
 
 7924
 Becky is a student.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘက်ကီသည် ကျောင်းသား တစ်ယောက် ဖြစ်သည်။
 
 7925
 Investments do not affect the Museum in any way.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရင်းနှီးမြှုပ်နှံမှုများသည် ပြတိုက်ကို မည်သည့်နည်းနှင့်မျှ မထိခိုက်စေပါ။
 
 7926
 Larger investments are more helpful for the Museum.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကြီးမားသောရင်းနှီးမြှုပ်နှံမှုများသည် ပြတိုက်အတွက် ပိုမိုအထောက်အကူဖြစ်စေပါသည်။
 
 7927
 The Museum is impacted by investments.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတိုက်သည် ရင်းနှီးမြှုပ်နှံမှုများကြောင့် သက်ရောက်မှုရှိသည်။
 
 7928
 Gourmet food and champagne will be served at the reception.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဧည့်ခံပွဲတွင် အဆင့်မြင့်သော အစားအစာနှင့် ရှန်ပိန်တို့ကို ကျွေးမွေးမည်ဖြစ်ပါသည်။
 
 7929
 You and a guest will be invited to attend a special reception if you donate $100 or more to the campaign.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကမ်ပိန်းအတွက်  ဒေါ်လာ ၁၀၀ သို့မဟုတ် ထို့ထက်ပို၍လှူဒါန်းပါက သင်နှင့်ဧည့်သည်တစ်ဦးအား အထူးဧည့်ခံပွဲသို့ တက်ရောက်ရန် ဖိတ်ကြားမည်ဖြစ်ပါသည်။
 
 7930
 You must donate at least $10,000 to be invited to attend the reception.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဧည့်ခံပွဲသို့ တက်ရောက်ရန် အနည်းဆုံး ဒေါ်လာ ၁၀၀၀၀ လှူဒါန်းရပါမည်။
 
 7931
 We will fall way short of the goal.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ရည်မှန်းချက်ပန်းတိုင်ကို မရောက်သေးပါ။
 
 7932
 We will reach our aspiration.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ရဲ့ဆန္ဒကို အရောက်လှမ်းနိုင်မှာပါ။
 
 7933
 We'll reach the goal of $2million.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပန်းတိုင်ကို ဒေါ်လာ၂သန်းထားပြီး ကျွန်တော်တို့ ရောက်အောင်သွားမယ်။
 
 7934
 Please increase your donation amount this year by $25.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင်၏လှူဒါန်းမှုပမာဏကို ယခုနှစ်တွင် ၂၅ဒေါ်လာ တိုးပေးပါ။
 
 7935
 You gave enough last year, so please reduce it by $25 this time around.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင် မနှစ်က လုံလောက်အောင် ပေးခဲ့တယ်၊ ဒါကြောင့် ကျေးဇူးပြု၍ ဒီတစ်ကြိမ်မှာ ၂၅ ဒေါ်လာလောက် လျှော့ချလိုက်ပါ။
 
 7936
 Your gift last year was $33.
-<MYANMAR UNICODE TRANSLATION HERE>
+မနှစ်က မင်းရဲ့လက်ဆောင်က ၃၃‌ဒေါ်လာ ဖြစ်တယ်။
 
 7937
 The Civic Theater is fully funded and will turn away any more money.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီဗစ်ပြဇာတ်ရုံကို အပြည့်အဝ ရန်ပုံငွေ ပံ့ပိုးထားပြီး နောက်ထပ် မည်သည့်ပိုက်ဆံမျှ လက်ခံလိမ့်မည်မဟုတ်ပါ။
 
 7938
 The Civic Theater needs $1million this year.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီဗစ်ပြဇာတ်ရုံသည် ယခုနှစ်တွင် ဒေါ်လာ ၁ သန်း လိုအပ်သည်။
 
 7939
 The Civic Theater needs your support.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီဗစ်ပြဇာတ်ရုံသည် သင်၏ပံ့ပိုးကူညီမှု လိုအပ်ပါသည်။
 
 7940
 The IRT is involved in soccer.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်အာတီသည် ဘောလုံးနှင့်ပတ်သက်သည်။
 
 7941
 The IRT is involved in the theater for middle schoolers.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်အာတီသည် အလယ်တန်းကျောင်းသူများအတွက် ပြဇာတ်ရုံတွင် ပါဝင်ပါသည်။
 
 7942
 The IRT is involved in the theater.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်အာတီသည် ပြဇာတ်ရုံတွင် ပါဝင်ပါသည်။
 
 7943
 At least 6 Columbine High School students died earlier this year.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယခုနှစ်အစောပိုင်းတွင် ကော်လံဘိုင်း အထက်တန်းကျောင်းသား ၆ ဦးထက်မနည်း သေဆုံးခဲ့သည်။
 
 7944
 Columbine High School shut down after students lost their lives.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျောင်းသားတွေ အသက်ဆုံးရှုံးပြီးနောက် ကော်လံဘိုင်း အထက်တန်းကျောင်းကို ပိတ်ပစ်ခဲ့ပါတယ်။
 
 7945
 There will be no memorial for Cassie, one of the Columbine High School students who died.
-<MYANMAR UNICODE TRANSLATION HERE>
+သေဆုံးသွားသော ကော်လံဘိုင်း အထက်တန်းကျောင်းမှ ကျောင်းသားတစ်ဦးဖြစ်သည့် ကတ်စီအတွက် အောက်မေ့ဖွယ် မရှိတော့ပါ။
 
 7946
 The IUPUI doesn't have any volunteer funding or help.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်ယူပီယူအိုင်တွင် မည်သည့် စေတနာ့ဝန်ထမ်း ရန်ပုံငွေ သို့မဟုတ် အကူအညီ မရှိပါ။
 
 7947
 The IUPUI library needs help.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်ယူပီယူအိုင် စာကြည့်တိုက်သည် အကူအညီ လိုအပ်ပါသည်။
 
 7948
 The IUPUI needs 20 individual donations.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်ယူပီယူအိုင်သည် တစ်ဦးချင်း အလှူငွေ၂၀ လိုအပ်ပါသည်။
 
 7949
 We accomplished everything on our list already!
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့သည် ကျွန်ုပ်တို့၏စာရင်းတွင် အရာအားလုံးကို ပြီးမြောက်အောင်မြင်နေပြီဖြစ်သည်။
 
 7950
 We have a lot of things we want to get done.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့မှာ လုပ်ချင်တာတွေ အများကြီးရှိတယ်။
 
 7951
 We want to raise our sales numbers by 50%.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့သည် ကျွန်ုပ်တို့၏ရောင်းအားကို ၅၀% မြှင့်တင်လိုပါသည်။	
 
 7952
 Every play can related to what students learn at school.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြဇာတ်တိုင်းက ကျောင်းသားတွေ ကျောင်းမှာ သင်ယူရတဲ့ အရာတွေနဲ့ ဆက်စပ်နိုင်ပါတယ်။
 
 7953
 Every play is related to what the art students learn in class.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြဇာတ်တိုင်းသည် အတန်းထဲတွင် ပန်းချီကျောင်းသားများ သင်ယူသည့်အရာနှင့် ဆက်စပ်နေသည်။
 
 7954
 Plays stand alone and have no application in school.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြဇာတ်တွေက တခြားစစ်စတမ်ကနေ ထိန်းချုပ်မှုမရှိဘဲ လည်ပတ်နိုင်ပြီး ကျောင်းတွင် လျှောက်လွှာတင်ခြင်း မရှိပါ။
 
 7955
 Bepko was elected by the popular vote.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘက်ကိုကို ပေါ်ပြူလာမဲဖြင့် ရွေးချယ်ခဲ့သည်။
 
 7956
 Bepko was the head of the campaign in 1995.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘက်ကိုသည် ၁၉၉၅ ခုနှစ်တွင် မဲဆွယ်စည်းရုံးရေးခေါင်းဆောင်ဖြစ်သည်။
 
 7957
 Bepko was the head of the ways and means committee.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘက်ကိုသည် ဝေးအန်မီး ကော်မတီ၏ အကြီးအကဲဖြစ်သည်။
 
 7958
 All of his students said he was the best teacher they'd ever had.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ့တပည့်အားလုံးက သူသည် သူတို့တွေ့ဖူးသမျှတွင် အကောင်းဆုံးဆရာဟု ဆိုကြသည်။
 
 7959
 He had no family or students.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ့မှာ မိသားစုတွေ သို့မဟုတ် ကျောင်းသားတွေ မရှိဘူး။	
 
 7960
 He was very helpful for his students.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက သူ့တပည့်တွေအတွက် အရမ်းအထောက်အကူဖြစ်ခဲ့တယ်။
 
 7961
 We do a better job at matching you with a date if we know a lot about you.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းအကြောင်းအများကြီးကို ငါတို့ သိရင် မင်းကို ရက်ချိန်းနဲ့ကိုက်ညီတဲ့ ပိုကောင်းတဲ့အလုပ်တစ်ခုကို ငါတို့လုပ်မယ်။
 
 7962
 We do better when we know more about you.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းအကြောင်း ပိုသိလာတဲ့အခါ ငါတို့ ပိုကောင်းလာမယ်။
 
 7963
 We don't need to know anything about you.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ မင်းအကြောင်း ဘာမှ သိစရာ မလိုဘူး။
 
 7964
 The Society cares for animals that are almost extinct in Africa.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူ့အဖွဲ့အစည်းသည် အာဖရိကတွင် မျိုးသုဉ်းလုနီးပါးဖြစ်နေသော တိရစ္ဆာန်များကို ပြုစုစောင့်ရှောက်ပေးသည်။
 
 7965
 The Society cares for animals.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူ့အဖွဲ့အစည်းသည် တိရစ္ဆာန်များကို စောင့်ရှောက်သည်။
 
 7966
 The Society cares for little kids.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူ့အဖွဲ့အစည်းက ကလေးတွေကို ပြုစုစောင့်ရှောက်တယ်။
 
 7967
 There are only two lockers in the whole building.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆောက်အဦတစ်ခုလုံးတွင် လော့ကာနှစ်ခုသာရှိသည်။
 
 7968
 There are way more lockers than the students would ever need.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျောင်းသားတွေ လိုအပ်တာထက် လော့ကာတွေ ပိုများတယ်။
 
 7969
 There is a lack of lockers for students.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျောင်းသားများအတွက် လော့ကာများ မရှိပါ။
 
 7970
 The Clinton Birthplace Foundation is for-profit.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလင်တန်မွေးရပ်မြေဖောင်ဒေးရှင်းသည် အကျိုးအမြတ်အတွက်ဖြစ်သည်။
 
 7971
 The Clinton Birthplace Foundation operates on donations.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလင်တန်မွေးရပ်မြေဖောင်ဒေးရှင်းသည်  အလှူငွေများဖြင့် လုပ်ဆောင်နေသည်။
 
 7972
 The Clinton Birthplace Foundation requires $1m a year to operate.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလင်တန်မွေးရပ်မြေဖောင်ဒေးရှင်းသည် လုပ်ငန်းလည်ပတ်ရန် တစ်နှစ်လျှင် ဒေါ်လာ ၁ သန်း လိုအပ်သည်။
 
 7973
 I don't think that's true.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် အဲဒါကို အမှန်လို့ မထင်ဘူး။
 
 7974
 I think you are correct!
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားမှန်တယ်လို့ ကျွန်တော် ထင်တယ်။
 
 7975
 I think you are wrong, that the answer is yes and not no.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဖြေက ဟုတ်ပါတယ် မဟုတ်ဘူးဆိုတာ မဟုတ်ပါ၊ ခင်ဗျား မှားတယ်လို့ ကျွန်တော် ထင်ပါတယ်။
 
 7976
 We don't plan on expanding at all.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ချဲ့ထွင်ဖို့ လုံးဝ အစီအစဉ် မရှိပါဘူး။
 
 7977
 You could help us expand into seven states.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင်သည် ကျွန်ုပ်တို့အား ပြည်နယ်ခုနစ်ခုသို့ ချဲ့ထွင်ရန် ကူညီပေးနိုင်သည်။
 
 7978
 You could help us expand our outreach programs.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့၏ အသိပညာပေးအစီအစဉ်များကို ချဲ့ထွင်ရန် သင်သည် ကျွန်ုပ်တို့ကို ကူညီနိုင်ပါသည်။
 
 7979
 Community theaters never help actors improve.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရပ်ရွာပြဇာတ်ရုံများသည် သရုပ်ဆောင်များကို တိုးတက်အောင် ဘယ်သောအခါမှ မကူညီပါ။
 
 7980
 Most professional actors started in the community theaters.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပရော်ဖက်ရှင်နယ်သရုပ်ဆောင်အများစုသည် ရပ်ရွာပြဇာတ်ရုံများတွင် စတင်ခဲ့သည်။
 
 7981
 Some actors use community theater to improve.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့သော သရုပ်ဆောင်များသည် ရပ်ရွာပြဇာတ်ရုံကို တိုးတက်စေရန် အသုံးပြုကြသည်။
 
 7982
 You can be a member for the Clinton Birthplace Foundation.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင်သည် ကလင်တန်မွေးရပ်မြေဖောင်ဒေးရှင်း အတွက် အဖွဲ့ဝင်ဖြစ်နိုင်ပါသည်။
 
 7983
 You get a newsletter if you are a member of the Clinton Birthplace Foundation.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကယ်၍ သင်သည် ကလင်တန်မွေးရပ်မြေဖောင်ဒေးရှင်း၏ အဖွဲ့ဝင်ဖြစ်ပါက သတင်းလွှာတစ်စောင် ရရှိမည်ဖြစ်သည်။
 
 7984
 You have to pay $1000 to be a member of the Clinton Birthplace Foundation.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလင်တန်မွေးရပ်မြေဖောင်ဒေးရှင်း၏ အဖွဲ့ဝင်ဖြစ်ရန် သင်သည် ဒေါ်လာ ၁၀၀၀ ပေးချေရပါမည်။
 
 7985
-It hasnt rained in 3 years.
-<MYANMAR UNICODE TRANSLATION HERE>
+It hasn’t rained in 3 years.
+မိုးမရွာတာ ၃ နှစ်ရှိပြီ။
 
 7986
 It rained 17 inches last Sunday.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြီးခဲ့သည့် တနင်္ဂနွေနေ့က မိုးရွာသွန်းမှုမှာ ၁၇လက်မ ဖြစ်သည်။
 
 7987
 It rained last Sunday.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြီးခဲ့တဲ့ တနင်္ဂနွေနေ့က မိုးရွာတယ်။
 
 7988
 No actors were in Indiana in the 70's.
-<MYANMAR UNICODE TRANSLATION HERE>
+၇၀  နဲ့ ၇၉ ကြားအတွင်း အင်ဒီယားနားတွင် သရုပ်ဆောင်များ မရှိခဲ့ပါ။
 
 7989
 Some Oscar-winning actors toured Indiana in 1973.
-<MYANMAR UNICODE TRANSLATION HERE>
+အော်စကာဆုရ သရုပ်ဆောင်အချို့သည် ၁၉၇၃ ခုနှစ်တွင် အင်ဒီယားနားသို့ သွားရောက်ခဲ့သည်။
 
 7990
 Some actors toured in Indiana in 1973.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့သောသရုပ်ဆောင်များသည်  ၁၉၇၃ ခုနှစ်တွင် အင်ဒီယားနားတွင်ဖျော်ဖြေခဲ့သည်။
 
 7991
 The Indiana University School of Medicine has raised $1 million from dreamers.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်ဒီယားနားတက္ကသိုလ် ဆေးကျောင်းသည် တရားဝင်ခွင့်ပြုချက်မရှိဘဲနေထိုင်သူများထံမှ ဒေါ်လာ ၁ သန်း ရရှိခဲ့သည်။
 
 7992
 The Indiana University School of Medicine owes a lot to dreamers
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်ဒီယားနားတက္ကသိုလ် ဆေးကျောင်းသည် တရားဝင်ခွင့်ပြုချက်မရှိဘဲနေထိုင်သူများကို ပြန်ပေးရန်အများကြီးရှိပါသည်။
 
 7993
 The Indiana University School of Medicine shut down on its 50th anniversary.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်ဒီယားနားတက္ကသိုလ် ဆေးကျောင်းသည် ၎င်း၏ နှစ် ၅၀ ပြည့် နှစ်ပတ်လည်နေ့တွင် ပိတ်လိုက်သည်။
 
 7994
 The American Presidential Inauguration is considered to be the world's greatest celebration of democracy.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကန်သမ္မတ ကျမ်းသစ္စာကျိန်ဆိုပွဲကို ကမ္ဘာ့အကြီးကျယ်ဆုံး ဒီမိုကရေစီနေ့ အခမ်းအနားဟု သတ်မှတ်သည်။
 
 7995
 The best seats to view the American Presidential Inauguration can only be acquired by Inner circle members.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကန်သမ္မတ ကျမ်းသစ္စာကျိန်ဆိုပွဲအား ကြည့်ရှုရန် အကောင်းဆုံးထိုင်ခုံများကို သြဇာကြီးမားသောအတွင်းအုပ်စုအဖွဲ့ဝင်များမှသာ ရယူနိုင်ပါသည်။
+#Review
 
 7996
 The purpose of the American Presidential Inauguration is to celebrate the dictatorships of the world
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကန်သမ္မတ ကျမ်းသစ္စာကျိန်ဆိုပွဲ၏ ရည်ရွယ်ချက်မှာ ကမ္ဘာပေါ်တွင် အာဏာရှင်များကို ဂုဏ်ပြုရန်ဖြစ်သည်
 
 7997
 I don't want your money!
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းရဲ့ပိုက်ဆံကို ငါမလိုချင်ဘူး။
 
 7998
 I hope you will donate to the Annual Campaign.
-<MYANMAR UNICODE TRANSLATION HERE>
+ နှစ်စဉ်ပြုလုပ်နေကြကမ်ပိန်းကို လှူဒါန်းမယ်လို့  ကျွန်တော် ခင်ဗျားကို မျှော်လင့်ပါတယ်။
 
 7999
 I hope you'll give $100 to the campaign.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကမ်ပိန်းအတွက် မင်း ဒေါ်လာ၁၀၀ ပေးမယ်လို့ ငါ မျှော်လင့်ပါတယ်။
 
 8000
 Wanda does not have any children.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+ဝမ်ဒါတွင် သားသမီးမရှိပါ။
