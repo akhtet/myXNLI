@@ -1,400 +1,402 @@
 3601
 I think I preferred outdoor dogs like the Cocker Spaniel I used to have.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့မှာရှိခဲ့ဖူးတဲ့ နားရွက်ဖား ခွေးစုတ်ဖွားလိုမျိုး ပြင်ပခွေးတွေကို ငါ ပိုသဘောကျမယ်လို့ ငါထင်တယ်။
 
 3602
 The background check cannot get done that quickly.
-<MYANMAR UNICODE TRANSLATION HERE>
+နောက်ခံစစ်ဆေးမှုကို မြန်မြန် လုပ်လို့ မရနိုင်ဘူး။
 
 3603
 The background check will take over a month.
-<MYANMAR UNICODE TRANSLATION HERE>
+နောက်ခံစစ်ဆေးမှုသည် တစ်လကျော်ကြာမည်။
 
 3604
 They will supposedly do a background check over the next seven days.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် နောက် ခုနစ်ရက်ကျော်ကြာ နောက်ခံစစ်ဆေးမှုတစ်ခု လုပ်မည်ဟု ယူဆရသည်။
 
 3605
 Flying would be a lot safer to get there.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပျံသန်းခြင်းက အဲဒီကိုရောက်ဖို့ ပိုလုံခြုံမယ်။
 
 3606
 I can't wait to get off the plane and enjoy myself once we get there.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ လေယာဉ်ပေါ်ကဆင်းပြီး အဲဒီကိုရောက်တာနဲ့ ပျော်ရွှင်ဖို့ ငါကိုယ်တိုင်ကို မစောင့်နိုင်တော့ဘူး။
 
 3607
 I would never fly.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါဘယ်တော့မှ ထွက်မပြေးဘူး။
 
 3608
 I was wrong that juries are always twelve people.
-<MYANMAR UNICODE TRANSLATION HERE>
+တရား​သူကြီး​တွေအဖွဲ့​က အမြဲတမ်း လူဆယ့်နှစ်ယောက်ရှိတယ်လို့ထင်တာ ငါမှားတယ်။
 
 3609
 The jury is always 13 people.
-<MYANMAR UNICODE TRANSLATION HERE>
+တရား​သူကြီး​အဖွဲ့​က အမြဲတမ်း ၁၃ ယောက်ရှိတယ်။
 
 3610
 They can pick however many people they want on the jury.
-<MYANMAR UNICODE TRANSLATION HERE>
+သို့သော်လည်း တရား​သူကြီး​အဖွဲ့​မှာ သူတို့ လိုချင်တဲ့ လူများစွာကို သူတို့ ရွေးချယ်နိုင်တယ်။
 
 3611
 Grand Rapids is a beautiful place.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂရမ့်ရပ်ပစ်စ် သည် လှပသောနေရာတစ်ခုဖြစ်သည်။
 
 3612
 We don't have a son.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့မှာ သားတစ်ယောက် မရှိဘူး။
 
 3613
 We went to Grand Rapids to see our son graduate.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့သားလေးဘွဲ့ရတာကိုကြည့်ဖို့ ဂရမ့်ရပ်ပစ်စ်ကို ငါတို့သွားကြတယ်။
 
 3614
 She didn't care at all about credit unions.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် အကျိုးအမြတ်မယူတဲ့ ငွေကြေးအဖွဲ့အစည်းများကို လုံးဝဂရုမစိုက်ဘူး။
 
 3615
 She was interested in credit unions.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် အကျိုးအမြတ်မယူတဲ့ ငွေကြေးအဖွဲ့အစည်းများကို စိတ်ဝင်စားသည်။
 
 3616
 She was interested in learning more about how credit unions made their money.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် အကျိုးအမြတ်မယူတဲ့ ငွေကြေးအဖွဲ့အစည်းများက သူတို့၏ငွေကို မည်သို့ပြုလုပ်သည်ကို ပိုမိုသင်ယူလေ့လာရန် စိတ်ဝင်စားသည်။
 
 3617
 All I see are people sitting and talking about their problems.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတွေ့သမျှ လူတွေက သူတို့ရဲ့ ပြဿနာတွေကို ထိုင်ပြီးပြောနေကြတယ်။
 
 3618
 Only a few people will actually talk about issues they are having.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူအနည်းစုကသာ သူတို့မှာရှိတဲ့ အကြောင်းကိစ္စတွေအကြောင်း အမှန်တကယ် ပြောပြတယ်။
 
 3619
 People never seem to just sit and talk about their problems and worries.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတွေဟာ သူတို့ရဲ့ ပြဿနာတွေနဲ့ စိုးရိမ်ပူပန်မှုတွေကို ထိုင်ပြီး ပြောနေပုံမရဘူး။
 
 3620
 Did you attend the camp about wilderness?
-<MYANMAR UNICODE TRANSLATION HERE>
+ကန္တာရတွေထဲမှာ မင်း စခန်းချသွားဖူးလား။
 
 3621
 Did you go to the indoor camp?
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း မိုးလုံလေလုံ စခန်းချသွားဖူးလား။
 
 3622
 I thought you went to the camp.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း စခန်းချသွားတယ် ငါ ထင်တယ်။
 
 3623
 It is slowly getting worse.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါက တဖြည်းဖြည်း ပိုဆိုးလာနေတယ်။
 
 3624
 It seems to be getting worse.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါက ပိုဆိုးလာနေပုံရတယ်။
 
 3625
 It's getting better.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါက ပိုကောင်းလာပြီ။
 
 3626
 How are you Mary?
-<MYANMAR UNICODE TRANSLATION HERE>
+မေရီ မင်း နေကောင်းလား
 
 3627
 How is your day going?
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းရဲ့တစ်နေ့တာက ဘယ်လိုနေလဲ။
 
 3628
 Plano, Texas is an awesome place.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖလေ့နို၊ တက္ကဆက် သည် ခမ်းနားသော နေရာတစ်ခုဖြစ်သည်။
 
 3629
 Chaos is all you get from it.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါကနေ မင်း ရသမျှအားလုံးက ပရမ်းပတာဖြစ်တယ်။
 
 3630
 It is very calm and doesn't cause any problems.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါက အလွန်အေးဆေးပြီး ဘာပြဿနာတွေမှ မဖြစ်ဘူး။
 
 3631
 Some people like the chaos it creates.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတချို့က အဲဒါကို ဖန်တီးထားတဲ့ ပရမ်းပတာတွေကို ကြိုက်တယ်။
 
 3632
 I have already seen Darkman about 4 times.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ဒါ့ခ်မန်းန် ကို လေး ကြိမ်လောက်ကြည့်ဖူးတယ်။
 
 3633
 I haven't seen Darkman yet so I decided to get it to watch tonight.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါ့ခ်မန်းန် ကို ငါ မကြည့်ရသေးတဲ့အတွက် ဒီညကြည့်ဖို့ ငါ ဆုံးဖြတ်လိုက်တယ်။
 
 3634
 I heard that Darkman was a good movie.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါ့ခ်မန်းန် က ဇာတ်ကားကောင်းတစ်ကားဖြစ်တယ်လို့ ငါ ကြားတယ်။
 
 3635
 I have been reading since I can remember.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါမှတ်မိနိုင်ကတည်းက ငါ ဖတ်ပြီးပြီ။
 
 3636
 I was an English major so I like reading.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါက အင်္ဂလိပ်စာအဓိကဆိုတော့ ငါက စာဖတ်ရတာ ကြိုက်တယ်။
 
 3637
 I was an English major that led me to poverty which is why I cannot stand to touch a single novel.
-<MYANMAR UNICODE TRANSLATION HERE>
+လုံးချင်း ဝတ္ထုတစ်ပုဒ်ကို ထိဖို့ ငါ ဘာ့ကြောင့် သည်းမခံနိုင်လဲဆို ငါ့ကို ဆင်းရဲတွင်းသို့ ပို့ဆောင်ပေးသည်မှာ ငါက အင်္ဂလိပ်စာအဓိကမို့ ဖြစ်တယ်။
 
 3638
 He stole the parrot.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ ကြက်တူရွေးကို ခိုးတယ်။
 
 3639
 I could not believe he paid $1800 for a parrot.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကြက်တူရွေးတစ်ကောင်အတွက် သူက ဒေါ်လာ တစ်ထောင့်ရှစ်ရာ ပေးတာကို ငါ မယုံနိုင်ဘူး။
 
 3640
 The parrot was beautiful with multiple colors.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကြက်တူရွေးက အရောင်မျိုးစုံနဲ့ လှတယ်။
 
 3641
 Having a yard is not all fun and games but I do enjoy it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခြံတစ်ခြံရှိခြင်းသည် အားလုံးပျော်စရာကောင်းပြီး စွန့်စားတာတွေမဟုတ်ပေမဲ့ ငါက အဲဒါတွေနဲ့ ပျော်တယ်။
 
 3642
 I do not wish to lose it but that is what could happen when you own a yard.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါက ဒါကို ဆုံးရှုံးဖို့ မဆုတောင်းပေမဲ့ ဒါက မင်းခြံတစ်ခြံပိုင်ဆိုင်ရင် ဘာဖြစ်နိုင်မလဲဆိုတာ ဖြစ်တယ်။
 
 3643
 When you own your own piece of land you have nothing to lose anymore.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းကိုယ်ပိုင်မြေကွက်ကို မင်းပိုင်ရင် မင်း ဘာမှ ထပ်ပြီး ဆုံးရှုံးစရာ မရှိတော့ဘူး။
 
 3644
 After they tell you what to do, you go ahead and do it yourself.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းဘာလုပ်ရမယ်ဆိုတာ သူတို့ပြောပြီးတဲ့နောက် အဲဒါကို မင်းကိုယ်တိုင် သွားပြီးလုပ်ပါ။
 
 3645
 They don't tell you how to do it at all.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း အဲဒါတွေကို ဘယ်လိုလုပ်ရမယ်ဆိုတာ သူတို့ လုံးဝမပြောပြဘူး။
 
 3646
 They give decent instructions on how to go about it.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါကို ဘယ်လိုလုပ်မလဲဆိုတာကို သူတို့က သင့်တင့်လျောက်ပတ်သော လမ်းညွှန်ချက်များပေးသည်။
 
 3647
 Minorities may have the upper advantage in this case.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူနည်းစုများသည် ဒီကိစ္စမှာ အကျိုးကျေးဇူး ရှိကောင်းရှိသည်။
 
 3648
 Unfortunately, you are stuck being a minority.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကံမကောင်းစွာပဲ၊ မင်းသည် လူနည်းစုတစ်ယောက်ဖြစ်ခြင်းမှာ ပိတ်မိနေသည်။
 
 3649
 You are not a minority.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းဟာ လူနည်းစုတစ်ယောက်မဟုတ်ဘူး။
 
 3650
 I like the coverage it has because I never have time to sit and read the paper.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့မှာ စာတမ်းကို ထိုင်ပြီးဖတ်ဖို့ ဘယ်တော့မှ အချိန်မရှိလို့ အဲဒါမှာပါတဲ့ လွှမ်းခြုံမှုကို ကြိုက်တယ်။
 
 3651
 I take at least an hour a day to read the paper just so I dont have to watch it.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာတမ်းကိုဖတ်ဖို့ တစ်ရက်ကို အနည်းဆုံး တစ်နာရီလောက် အချိန်ယူရတယ်ဆိုတော့ အဲဒါကို ကြည့်စရာမလိုတော့ဘူး။
 
 3652
 They cover a lot more than you will get from the paper.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် စာတမ်းမှ မင်းရမှာထက် အများကြီး အကျုံးဝင်သည်။
 
 3653
 It has nothing to do with anyone involved in the legal system.
-<MYANMAR UNICODE TRANSLATION HERE>
+တရားစီရင်ရေးစနစ်မှာပါဝင်တဲ့ ဘယ်သူနဲ့မှ မသက်ဆိုင်ဘူး။
 
 3654
 It's everyone involved in the legal system.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါက တရားစီရင်ရေးစနစ်မှာ ပါဝင်တဲ့သူတိုင်း ဖြစ်တယ်။
 
 3655
 Most of the legal system is involved, a majority being that of police.
-<MYANMAR UNICODE TRANSLATION HERE>
+တရားစီရင်ရေးစနစ်အများစုပါဝင်ပြီး၊ အများစုက ရဲတွေဖြစ်သည်။
 
 3656
 I am not a rap fan but I do like some of the songs they have.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါက ရက်ပ် အားပေးသူ တစ်ယောက် မဟုတ်ပေမယ့် သူတို့ထဲက တချို့သီချင်းတွေကို ငါ ကြိုက်တယ်။
 
 3657
 I love rap but their songs are horrible.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ရက်ပ်ကို သဘောကျပေမယ့် သူတို့ရဲ့ သီချင်းတွေက အလွန် ဆိုးရွားတယ်။
 
 3658
 They had a few number one hits.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့မှာ လူသိများ ရောင်းရပြီး နံပါတ်တစ်ဖြစ်ခဲ့တဲ့ သီချင်း အနည်းငယ် ရှိခဲ့တယ်။
 
 3659
 From what I have come across it sounds like accomplishment.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါကြုံဖူးသမျှထဲမှာ အဲဒါက အောင်မြင်မှုလို့ ထင်ရတယ်။
 
 3660
 I have gathered from the meeting that things went very well.
-<MYANMAR UNICODE TRANSLATION HERE>
+အစည်းအ​ဝေးမှ အရမ်းကောင်းတဲ့ အရာတွေ​ကို ငါ စုစည်းတယ်။
 
 3661
 I have heard nothing but complaints to be honest.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရိုးရိုးသားသားပြောရရင် မကျေနပ်တဲ့တိုင်ကြားစာတွေကလွဲလို့ ဘာမှမကြားရပါဘူး။
 
 3662
 Testing does take time especially with the construction of building concrete holes.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်ကရစ်တွင်းအဆောက်အအုံများ တည်ဆောက်ရင် အထူးသဖြင့် စမ်းသပ်ခြင်းမှာ အချိန်ယူသည်။
 
 3663
 They need to give it time for the concrete to set before beginning any tests.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ မည်သည့်စမ်းသပ်မှုမှမစတင်မီ ကွန်ကရစ်မာစေဖို့ အဲဒါကို အချိန်ပေးရန် လိုအပ်သည်။
 
 3664
 Time is not needed when building something out of concrete, it dries quick and can be tested right away.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါက မြန်မြန်ခြောက်ပြီး ချက်ချင်း စမ်းသပ်နိုင်တော့ ကွန်ကရစ်နဲ့ တစ်ခုခုကို တည်ဆောက်တဲ့အခါ အချိန်က မလိုအပ်ဘူး။
 
 3665
 Sometimes it is in house people who assist you.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်ခါတရံ အဲဒါက မင်းကို ကူညီမဲ့ လူတွေက အိမ်က ဖြစ်တယ်။
 
 3666
 They never use in house people to assist you.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းကိုကူညီဖို့ အိမ်ကလူတွေကို သူတို့က ဘယ်တော့မှ မသုံးဘူး။
 
 3667
 You certainly need help if you are trying to handle X amount of dollars.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒေါ်လာ အိပ်က်စ် ပမာဏကို ကိုင်တွယ်ရန် မင်း ကြိုးစားနေရင် မင်းက သေချာပေါက် အကူအညီ လိုအပ်မည်။
 
 3668
 At the time that I became a member there was at least twenty five hundred individuals.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါအဖွဲ့ဝင်တစ်ယောက်ဖြစ်တဲ့အချိန်မှာ အနည်းဆုံး လူ နှစ်ထောင့်ငါးရာရှိတယ်။
 
 3669
 I think when I joined there was at least a few people that I knew.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီမှာ ငါ ပါဝင်ခဲ့တုန်းကတော့ အနည်းဆုံး ငါသိတဲ့လူအနည်းငယ်ရှိမယ်လို့ ငါ ထင်တယ်။
 
 3670
 There is only at the most one hundred people that ever joined.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမြဲ ပါဝင်တာက လူ တစ်ရာ အများဆုံးသာ ရှိတယ်။
 
 3671
 I really don't even know what I would pick.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ဘာကိုရွေးရမှန်းတောင်မှ ငါ တကယ်မသိတော့ဘူး။
 
 3672
 I would choose I'll Fly Away.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်လ် ဖလိုင်း အဝေး ကို ငါ ရွေးမယ်။
 
 3673
 I'll Fly Away is my favorite movie and I watch it weekly.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်လ် ဖလိုင်း အဝေး သည် ငါအကြိုက်ဆုံးဇာတ်ကားဖြစ်ပြီး ငါ အပတ်စဉ်ကြည့်ပါသည်။
 
 3674
 The price is pretty good.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဈေးက တော်တော်ကောင်းတယ်။
 
 3675
 We are definitely going to get it to watch our local news.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ရဲ့ပြည်တွင်းသတင်းတွေကို ကြည့်ဖို့ ငါတို့ အဲဒါကို သေချာပေါက် ရရမယ်။
 
 3676
 We don't want it because we like local news and it doesn't get local stations.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ ပြည်တွင်းသတင်းများကို နှစ်သက်သောကြောင့် ငါတို့ အဲဒါကို မလိုချင်ေတာ့ အဲဒါက ပြည်တွင်း ထုတ်လွှင့်မှုဌာန တွေမှာ မရဘူး။
 
 3677
 After he snapped out of it he seemed to be himself again.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီအရာထဲကနေ သူ ရုန်းထွက်ပြီးတဲ့နောက် သူသည် သူ့ကိုယ်သူ ပြန်မြင်လာပုံရသည်။
 
 3678
 He never snapped out of it.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီအရာထဲကနေ ဘယ်တော့မှ သူ ရုန်းမထွက်ဘူး။
 
 3679
 He was only out of it for about 2 minutes.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ အဲဒီကနေ သွားတာ နှစ် မိနစ်လောက်သာ ရှိသေးတယ်။
 
 3680
 That problem has an easy solution.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထိုပြဿနာမှာ လွယ်ကူသော အဖြေတစ်ခုရှိသည်။
 
 3681
 There is no problem.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြဿနာမရှိပါဘူး။
 
 3682
 What are you looking for when you shop around for something?
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း တစ်စုံတစ်ခု ဝယ်တုန်းက မင်းဘာကိုရှာနေတာလဲ။
 
 3683
 Talking to you has been very annoying.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းနဲ့စကားပြောရတာ တော်တော်စိတ်ရှုပ်စရာဖို့ကောင်းတယ်။
 
 3684
 This has been a nice talk.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက ကောင်းတဲ့ ဟောပြောပွဲတစ်ခုဖြစ်တယ်။
 
 3685
 We will talk again soon.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ မကြာခင်မှာ နောက်တစ်ကြိမ် ပြောမယ်။
 
 3686
 Anderson beat out Reagan.
-<MYANMAR UNICODE TRANSLATION HERE>
+အန်းဒါဆန် က ရေဂန် ကို အနိုင်ယူသည်။
 
 3687
 Anderson ran against Reagan as an independent.
-<MYANMAR UNICODE TRANSLATION HERE>
+အန်းဒါဆန် သည် ရေဂန် ကို တစ်သီးပုဂ္ဂလ အရွေးချယ်ခံသူတစ်ယောက်အဖြစ် ဆန့်ကျင်သည်။
 
 3688
 There were other independent tickets that ran as well.
-<MYANMAR UNICODE TRANSLATION HERE>
+မှောင်ခိုကုန်ကူးတဲ့ တခြားသီးခြားဖြစ်သော လက်မှတ်တွေလည်း ရှိပါတယ်။
 
 3689
 Even if it is not required it should be done.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါက မလိုအပ်ရင်တောင်မှ အဲဒါကို လုပ်သင့်တယ်။
 
 3690
 It is strange that the state doesn't require it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြည်နယ်က အဲဒါကို မလိုအပ်တာ ထူးဆန်းတယ်။
 
 3691
 That makes sense that the state requires it.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါက ပြည်နယ်က လိုအပ်တယ်လို့ အဓိပ္ပာယ်ရတယ်။
 
 3692
 The are more economical because they are really good on gas.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က ဓာတ်ငွေ့အတွက် တကယ် ကောင်းသောကြောင့် ပိုသက်သာတာတွေရှိတယ်။
+#REVIEW The or There
 
 3693
 The gas mileage is terrible and I'm constantly paying for gas.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဓာတ်ငွေ့ခရီးမိုင်ေပါင်းက ကြောက်မက်ဖွယ်ကောင်းတော့ ငါက ဓာတ်ငွေ့အတွက် အဆက်မပြတ်ပေးနေရတယ်။
 
 3694
 They are also the best looking cars around.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် အနီးတစ်ဝိုက်တွင် ကြည့်အကောင်းဆုံးကားများဖြစ်ကြသည်။
 
 3695
 A couple years ago I studied in London for a semester.
-<MYANMAR UNICODE TRANSLATION HERE>
+လွန်ခဲ့တဲ့ နှစ်နှစ်လောက်က ငါ လန်ဒန်မှာ နှစ်ဝက်စာသင်ကာလအထိ ပညာသင်တယ်။
 
 3696
 I have never studied abroad before.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ အရင်က နိုင်ငံရပ်ခြားမှာ ပညာမသင်ဖူးဘူး။
 
 3697
 London schools are the best.
-<MYANMAR UNICODE TRANSLATION HERE>
+လန်ဒန်ကျောင်းများသည် အကောင်းဆုံးဖြစ်သည်။
 
 3698
 The did the same thing as everyone else.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က တခြားသူတွေလို တူညီတဲ့အရာတွေ လုပ်တယ်။
+#REVIEW The or They
 
 3699
 Their way of using them was much better.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ကို အသုံးပြုတဲ့ သူတို့ရဲ့ နည်းလမ်းက ပိုကောင်းတယ်။
 
 3700
 They did things with them a little differently.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့နဲ့ နည်းနည်းကွဲလွဲတဲ့ ကိစ္စတွေကို သူတို့ လုပ်တယ်။
 
