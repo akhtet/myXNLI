@@ -217,185 +217,185 @@ Only 10% of female business leaders have been in Scouts.
 
 8355
 Two thirds of female business leaders have been Girl Scouts.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမျိုးသမီးစီးပွားရေးခေါင်းဆောင် သုံးပုံနှစ်ပုံသည် အမျိုးသမီးကင်းထောက်များ ဖြစ်ကြသည်။
 
 8356
 Two thirds of female business leaders were Girl Scouts for at least five years.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမျိုးသမီးစီးပွားရေးခေါင်းဆောင် သုံးပုံနှစ်ပုံသည် အနည်းဆုံး ငါးနှစ်ကြာ အမျိုးသမီးကင်းထောက်များ ဖြစ်ခဲ့ကြသည်။
 
 8357
 Help is needed for the state.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိုင်ပြည်အတွက် အကူအညီ လိုအပ်တယ်။
 
 8358
 The state is doing just fine without anyone's help.
-<MYANMAR UNICODE TRANSLATION HERE>
+နိုင်ငံတော်ဟာ မည်သူ့ဆီကမျှ အကူအညီမရှိဘဲ ကောင်းကောင်းလုပ်ဆောင်နေတယ်။
 
 8359
 The state needs everyone to donate $20 to support the heritage.
-<MYANMAR UNICODE TRANSLATION HERE>
+နိုင်ငံတော်ဟာ အမွေအနှစ်တွေ ထောက်ပံ့ဖို့ လူတိုင်း ဒေါ်လာ၂၀လှူဖို့ လိုအပ်တယ်။
 
 8360
 You will get in to our members-only events if you pay the membership fee.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား အသင်းဝင်ကြေးပေးမယ်ဆိုရင် ကျွန်တော်တို့ရဲ့ အသင်းဝင်သီးသန့် လှုပ်ရှားမှုပွဲတွေမှာ ခင်ဗျားတက်ခွင့်ရလိမ့်မယ်။
 
 8361
 You will get in to the members-only events that are held bi-weekly.
-<MYANMAR UNICODE TRANSLATION HERE>
+နှစ်ပတ်တစ်ကြိမ် ကျင်းပတဲ့ အသင်းဝင်သီးသန့် လှုပ်ရှားမှုပွဲတွေမှာ ခင်ဗျားတက်ခွင့်ရလိမ့်မယ်။
 
 8362
 You will still have to pay to get into all the events.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပွဲစဉ်အားလုံးမှာ ပါဝင်နိုင်ဖို့ ခင်ဗျား ပိုက်ဆံပေးချေရဦးမှာ ဖြစ်ပါတယ်။
 
 8363
 The AMRA Annual Meeting is in Nashville every year.
-<MYANMAR UNICODE TRANSLATION HERE>
+အေအမ်အာအေနှစ်စဉ်အစည်းအဝေးကို နာ့ချ်ဗီလီတွင် နှစ်စဉ်ကျင်းပတယ်။
 
 8364
 The AMRA Annual Meeting was in Nashville in 1991.
-<MYANMAR UNICODE TRANSLATION HERE>
+အေအမ်အာအေနှစ်စဉ်အစည်းအဝေးသည် ၁၉၉၁ခုနှစ်၌ နာ့ချ်ဗီလီတွင် ကျင်းပသည်။
 
 8365
 The AMRA Annual Meeting was in Texas in 1991.
-<MYANMAR UNICODE TRANSLATION HERE>
+အေအမ်အာအေနှစ်စဉ်အစည်းအဝေးသည် ၁၉၉၁ခုနှစ်၌ တက္ကစက်စ်တွင် ဖြစ်သည်။
 
 8366
 Visitors will be able to see several shows in the Hilbert Conservatory every day.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟီလ်ဘတ်အနုပညာကျောင်းတွင် လာရောက်လေ့လာလည်ပတ်သူများသည် ဖျော်ဖြေပွဲများစွာကို နေ့စဉ် ကြည့်ရှုနိုင်လိမ့်မည်။
 
 8367
 Visitors will be able to see several shows in the Hilbert Conservatory.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟီလ်ဘတ်အနုပညာကျောင်းတွင် လာရောက်လေ့လာလည်ပတ်သူများသည် ဖျော်ဖြေပွဲများစွာကို ကြည့်ရှုနိုင်လိမ့်မည်။
 
 8368
 Visitors will only be able to see West Side Story in the Hilbert Conservatory.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟီလ်ဘတ်အနုပညာကျောင်းတွင် လာရောက်လေ့လာလည်ပတ်သူများသည် ဝက်စ်ဆိုဒ်ဇာတ်လမ်းကိုသာ ကြည့်ရှုနိုင်လိမ့်မည်။
 
 8369
 Campus visits show students what college life is like.
-<MYANMAR UNICODE TRANSLATION HERE>
+တက္ကသိုလ်ပရိဝုဏ်တွင်း လေ့လာလည်ပတ်မှုများသည် ကျောင်းသားများကို ကောလိပ်ကျောင်းသာဘဝဆိုတာ မည်သို့သောပုံစံဖြစ်သည်ကို ပြသသည်။
 
 8370
 Students can benefit from campus visits.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျောင်းသားများသည် တက္ကသိုလ်ပရိဝုဏ်တွင်း လေ့လာလည်ပတ်မှုများမှ အကျိုးကျေးဇူးရရှိနိုင်သည်။
 
 8371
 Students don't learn anything from visiting campus.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျောင်းသားများသည် တက္ကသိုလ်ပရိဝုဏ်တွင်း လေ့လာလည်ပတ်မှုများမှ မည်သည့်အရာမျှ လေ့လာမသင်ယူကြပါ။
 
 8372
 There is a challenege for the seniors.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီနီယာတွေအတွက် စိန်ခေါ်မှုတစ်ခုရှိတယ်။
 
 8373
 We challenge seniors to walk a mile every day.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ စီနီယာတွေကို နေ့တိုင်း တစ်မိုင်လမ်းလျှေက်ဖို့ စိန်ခေါ်တယ်။
 
 8374
 We don't have any programs for seniors.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီနီယာတွေအတွက် ဘာအစီအစဉ်မှ ကျွန်တော်တို့မှာ မရှိဘူ။
 
 8375
 The humane society cares for 1000 animals a year.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကြင်နာတရားရှိသောလူ့အဖွဲ့အစည်းသည် တစ်နှစ်လျှင် တိရိစ္ဆာန် ၁၀၀၀ကို ပြုစုစောက်ရှောက်သည်။
 
 8376
 The humane society doesn't work with animals at all.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကြင်နာတရားရှိသောလူ့အဖွဲ့အစည်းသည် တိရိစ္ဆာန်များနှင့် လုံးဝ အလုပ်မလုပ်ပါ။
 
 8377
 The humane society is Nashua's animal shelter.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကြင်နာတရားရှိသောလူ့အဖွဲ့အစည်းသည် နာ့စ်ရှုမှ တိရိစ္ဆာန်ဂေဟာဖြစ်သည်။
 
 8378
 Elephants are just like any other animal.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆင်များသည် အခြားတိရိစ္ဆာန်များကဲ့သို့ပင်ဖြစ်သည်။
 
 8379
 It's hard to operate on elephants because they weigh so much more than other animals.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းတို့သည် အခြားတိရိစ္ဆာန်များထက် များစွာပို၍လေးသောကြောင့် ဆင်များနှင့် လုပ်ဆောင်ရန်ခက်ခဲသည်။
 
 8380
 It's hard to operate on elephants.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆင်တွေကို လုပ်ဆောင်ဖို့ ခက်ခဲတယ်။
 
 8381
 We had everything we could even dream of.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ အိပ်မက်မက်နိုင်သမျှ အရာအားလုံး ကျွန်တော်တို့မှာ ရှိတယ်။
 
 8382
 We had everything we really needed.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ အမှန်တကယ်လိုအပ်တဲ့ အရာအားလုံး ငါတို့မှာ ရှိတယ်။
 
 8383
 We had food and shelter but nothing else, really.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့မှာ စားစရာနဲ့ နေစရာ ရှိပေမယ့် တခြား ဘာမှမရှိဘူ၊ တကယ်ပါ။
 
 8384
 Members don't get a discount, because we'd lose too much money.
-<MYANMAR UNICODE TRANSLATION HERE>
+အသင်းဝင်တွေ လျှော့ဈေးမရရှိပါ၊ ဘာလို့လဲဆိုတော့ ကျွန်တော်တို့ ငွေတွေအများကြီး ဆုံးရှုံးသွားလို့ပါ။
 
 8385
 Members get a discount when they buy things at the gift shop.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ လက်ဆောင်ပစ္စည်းဆိုင်မှာ ပစ္စည်းတွေဝယ်တဲ့အခါ အသင်းဝင်တွေ လျှော့ဈေးရရတယ်။
 
 8386
 Members have a 25% discount .
-<MYANMAR UNICODE TRANSLATION HERE>
+အသင်းဝင်တွေ ၂၅ရာခိုင်နှုန်း လျှော့ဈေးရတယ်။
 
 8387
 I don't have anything to do with the IRT.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ အိုင်အာတီနဲ့ ဘာမှမဆိုင်ဘူး။
 
 8388
 I have worked on fundraising for the IRT for over a decade.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်အာတီအတွက် ရန်ပုံငွေရန်ဖွေခြင်းလုပ်ငန်းတွင် ဆယ်စုနှစ်တစ်ခုကျော်ကျော် ကျွန်တော်လုပ်ခဲ့တယ်။
 
 8389
 I have worked with IRT for a long time.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် အိုင်အာတီနှင့်အတူ အချိန်ကြာကြာလုပ်ခဲ့တယ်။
 
 8390
 The IMA works independently every day.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်အမ်အေသည် နေ့စဉ် အမှီအခိုကင်းစွာ လွတ်လွတ်လပ်လပ် အလုပ်လုပ်သည်။
 
 8391
 The IMA works with other organizations because they all depend on sharing funding.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်အမ်အေက အခြားအဖွဲ့အစည်းတွေနှင့်အတူတွဲပြီး   ဘာလို့လဲဆိုတော့ သူတို့အားလုံးက ငွေကြေးရန်ပုံငွေခွဲဝေမှုတွေပေါ် အားကိုးအားထားပြုနေလို့ပဲ။
 
 8392
 The IMA works with other organizations in the area.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်အမ်အေက အဆိုပါနယ်ပယ်မှာ အခြားအဖွဲ့အစည်းတွေနှင့်အတူတွဲပြီး အလုပ်လုပ်တယ်။ 
 
 8393
 The top students with financial need benefit from scholarships.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငွေကြေးလိုအပ်ချက်ရှိတဲ့ ထိပ်တန်းကျောင်းသားတွေဟာ ပညာသင်ဆုတွေကနေ အကျိုးခံစာခွင့်ရတယ်။
 
 8394
 There are 50 scholarships available to the top 50 students.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထိပ်ဆုံးကျောင်းသား၅၀အတွက် ပညာသင်ဆု၅၀ ရရှိနိုင်သည်။
 
 8395
 We don't give scholarships or financial aid to students.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့သည် ပညာသင်ဆုများ သို့မဟုတ် ငွေကြေးအထောက်အပံ့များကို ကျောင်းသားများအား မပေးအပ်ခဲ့ပါ။
 
 8396
 I can tell you're a real jerk.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းဟာ တကယ့် လူရှုပ်ပဲဆိုတာ ငါပြောနိုင်တယ်။
 
 8397
 I feel like you are a caring, nice person.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားဟာ ဂရုစိုက်တက်ပြီး လူကောင်းတစ်ယောက်လို့ ကျွန်တော်ခံစားမိတယ်။
 
 8398
 Your donation of $2000 shows you're a nice person.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားရဲ့ ဒေါ်လာ၂၀၀၀အလှူဟာ ခင်ဗျား လူကောင်းတစ်ယောက်ဖြစ်တယ်ဆိုတာ ဖော်ပြတယ်။
 
 8399
 She gave us all the money we needed.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် ကျွန်တော်လိုအပ်နေသည့် ငွေကြေးအားလုံးကို ကျွန်တော်တို့ကို ပေးခဲ့သည်။
 
 8400
 She never supported us in anything!
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမဟာ ဘယ်တုန်းကမှ ကျွန်တော်တို့ကို ဘယ်အရာကိုမျှ မကူညီမထောက်ပံ့ခဲ့ပါဘူး။
 
