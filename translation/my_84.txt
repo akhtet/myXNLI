@@ -1,14 +1,14 @@
 8301
 The theater has a lot of slide shows about past performances.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြဇာတ်ရုံတွင် ယခင်က ဖျော်ဖြေတင်ဆက်မှုများနှင့်ပတ်သက်သည့် ဆလိုက်ရှိုးများစွာရှိသည်။
 
 8302
 There's a bunch of slide shows for the theater.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြဇာတ်ရုံအတွက် ဆလိုက်ရှိုးများစွာရှိသည်။
 
 8303
 I hope you send this back before the last three spots fill up!
-<MYANMAR UNICODE TRANSLATION HERE>
+နောက်ဆုံး သုံးနေရာ မဖြည့်မီ ခင်ဗျား ဒီဟာကို ပြန်ပို့ပေးမယ်လို့ ကျွန်တော် မျှော်လင့်ပါတယ်။
 
 8304
 I hope you send this back to us soon.
@@ -16,203 +16,204 @@ I hope you send this back to us soon.
 
 8305
 You don't need to send this back, you can just show up at the event.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား ဒီဟာကို ပြန်ပို့ပေးဖို့မလိုပါဘူး၊ အခမ်းအနားတွင်သာ ခင်ဗျား ပြပါ။
 
 8306
 The Republican National Convention has only been in Houston once.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရီပတ်ဘလစ်ကန်အမျိုးသားညီလာခံသည် ဟူစတန်၌ တစ်ကြိမ်သာ ရှိသေးသည်။
 
 8307
 The Republican National Convention in Houston was in August.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟူစတန်၌ ကျင်းပမည့် ရီပတ်ဘလစ်ကန်အမျိုးသားညီလာခံသည် ဩဂုတ်လတွင်ဖြစ်သည်။
 
 8308
 The Republican National Convention is always in April.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရီပတ်ဘလစ်ကန်အမျိုးသားညီလာခံသည် ပုံမှန် ဧပြီလတွင်ကျင်းပသည်။
 
 8309
 There are no state schools in Indianapolis.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်ဒီယာနာပိုလစ်တွင် အခြေခံပညာကျောင်းများ မရှိပါ။
 
 8310
 Two state schools in Indianapolis are joining forces.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်ဒီယာနာပိုလစ်ရှိ အခြေခံပညာကျောင်းနှစ်ကျောင်းသည် အတူတကွပူးပေါင်းလုပ်ဆောင်နေကြသည်။
 
 8311
 Two state schools in Indy are going to merge next year.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်ဒီရှိ အခြေခံပညာကျောင်းနှစ်ကျောင်းကို လာမည့်နှစ်တွင် ပေါင်းစည်းတော့မည်။
 
 8312
 Everyone realizes that we all have to donate if we want to make an impact.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ထိရောက်သောအကျိုးသက်ရောက်မှုတစ်ခု ဖြစ်ထွန်းလိုလျှင် ကျွန်တော်တို့ အားလုံး လှူဒါန်းရမည်ဆိုသည်ကို လူတိုင်း သိရှိသဘောပေါက်နားလည်သည်။
 
 8313
 Some people think donating is just something rich people do.
-<MYANMAR UNICODE TRANSLATION HERE>
+လှူဒါန်းပေးကမ်းခြင်းသည် ချမ်းသာသောလူများသာ ပြုလုပ်သည့်အရာဟု လူအချို့က ထင်မြင်ကြသည်။ 
 
 8314
 Some people think they're too poor to give any money, so they ignore our calls.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူအချို့က ငွေပးကမ်းစွန့်ကြဲဖို့ သူတို့ အရမ်းဆင်းရဲတယ်လို့ တွေးကြလို့၊ သူတို့က ငါတို့ မေတ္တာရပ်ခံတာတွေကို လျစ်လျူရှုကြတယ်။
 
 8315
 We don't do phone drives because of security concerns.
-<MYANMAR UNICODE TRANSLATION HERE>
+လုံခြုံရေးနှင့်ပတ်သက်သည့် သတိထားရမည့်အချက်တွေကြောင့် ကျွန်တော်တို့ ဖုန်းဒရိုက်တွေကို မလုပ်ဆောင်ပါ။
 
 8316
 You can give money over the phone.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား ဖုန်းတွေကနေ ငွေပေးချေလို့ရတယ်။
 
 8317
 You need to donate $100 over the phone if you want to be a member.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား အသင်းဝင်တစ်ယောက်ဖြစ်ချင်ရင် ဖုန်းကနေ ခင်ဗျား ဒေါ်လာ၁၀၀လှူဖို့လိုတယ်။
 
 8318
 I am sorry to tell you that nobody wanted you to be a member of the Inner Circle.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘယ်သူကမှ ခင်ဗျားကို အတွင်းစည်းအဖွဲ့ဝင်တစ်ယောက် မဖြစ်စေချင်ကြတာကို ခင်ဗျားကို ပြောရတာ ကျွန်တော်စိတ်မကောင်းပါဘူး။
 
 8319
 Should you accept this nomination, you will be inaugurated into the Inner Circle tomorrow.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ အမည်စာရင်းတင်သွင်းခြင်းကို ခင်ဗျား လက်ခံမယ်ဆိုရင်၊ မနက်ဖြန် အတွင်းစည်းအဖွဲ့ထဲမှာ ခင်ဗျားကို တရားဝင်စတင်ခန့်လိမ့်မယ်။
 
 8320
 You have been nominated to be a member of the Inner Circle.
-<MYANMAR UNICODE TRANSLATION HERE>
+အတွင်းစည်းအဖွဲ့ဝင်တစ်ယောက်ဖြစ်ဖို့ ခင်ဗျားကို အမည်စာရင်းတင်သွင်းထားတယ်။
 
 8321
 Some members can renew their memberships.
-<MYANMAR UNICODE TRANSLATION HERE>
+တချို့အသင်းဝင်တွေက သူတို့ရဲ့ အသင်းဝင်ထားခြင်းကို သက်တမ်းတိုးနိုင်တယ်။
 
 8322
 There is space for 1500 members to renew their memberships.
-<MYANMAR UNICODE TRANSLATION HERE>
+အသင်းဝင် ၁၅၀၀အတွက် သူတို့ရဲ့ အသင်းဝင်ထားခြင်းကို သက်တမ်းတိုးဖို့ နေရာရှိတယ်။
 
 8323
 We just accept renewals whenever.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ဘယ်အချိန်ဖြစ်ဖြစ် သက်တမ်းတိုးတာကိုသဘောတူလက်ခံရုံပဲ။
 
 8324
 McCoy is asking for $250,000.
-<MYANMAR UNICODE TRANSLATION HERE>
+မက်ကွေးသည် ဒေါ်လာ၂၅၀၀၀၀ကို တောင်းဆိုနေသည်။
 
 8325
 McCoy is requesting $10,000 worth of support.
-<MYANMAR UNICODE TRANSLATION HERE>
+မက်ကွေးသည် ဒေါ်လာ၁၀၀၀၀တန်ဖိုးရှိသော အထောက်အပံ့ကို တောင်းဆိုနေသည်။
 
 8326
 McCoy needs more money, but right now $10,000 is being requested.
-<MYANMAR UNICODE TRANSLATION HERE>
+မက်ကွေးသည် နောက်ထပ် ငွေကြေးများ ပိုလိုအပ်သည်၊ သို့သော် ယခုအချိန်တွင် ဒေါ်လာ၁၀၀၀၀ကိုသာ တောင်းဆိုနေသည်။
 
 8327
 Without your donation, the IRT would be in trouble.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားရဲ့ လှူဒါန်းမှုတွေ မရှိရင်၊ အိုင်အာတီ ဒုက္ခရောက်လိမ့်မယ်။
 
 8328
 You did not give the IRT anything.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား အိုင်အာတီကို ဘာမှ မပေးခဲ့ဘူး။
 
 8329
 Your contribution will assist the IRT.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားရဲ့ ပံ့ပိုးဆောင်ရွက်မှုက အိုင်အာတီကို အထောက်အကူပြုလိမ့်မယ်။
 
 8330
 The museum always hits their funding goals.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတိုက်က ၎င်းတို့ရဲ့ ရန်ပုံငွေရည်မှန်းချက်ကို အမြဲတမ်း ပြည့်မီတယ်။
 
 8331
 The museum doesn't always get all the funding they need.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတိုက်က ၎င်းတို့လိုအပ်တဲ့ ရန်ပုံငွေအားလုံးကို အမြဲတမ်းမရရှိပါဘူး။
 
 8332
 The museum is $500,000 short this year.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတိုက်သည် ယခုနှစ်တွင် ဒေါ်လာ၅၀၀၀၀၀ လျော့တယ်။
 
 8333
 Bepko honored Kent in his graduation speech.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘပ်ကိုသည် ၎င်း၏ဘွဲ့နှင်းသဘင်မိန့်ခွန်းတွင် ကန့်အား ဂုဏ်ပြုခဲ့သည်။
 
 8334
 Bepko honored Kent.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘပ်ကိုသည် ကန့်အား ဂုဏ်ပြုခဲ့သည်။
 
 8335
 Bepko never had anything nice to say about Kent.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘပ်ကိုသည် ကန့်အကြောင်း ကောင်းကောင်းပြောစရာ ဘယ်တုန်းကမှ မရှိခဲ့ပါ။
 
 8336
 There's no way we can educate lawyers so we should just stop trying.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ရှေ့နေတွေကို ပညာပေးနိုင်သည့် နည်းလမ်းမရှိတဲ့အတွက်ကြောင့် ကျွန်တော်တို့ ကြိုးစားနေတာ ရပ်သင့်ပြီ။
 
 8337
 We can educate lawyers if we can give them access to the law library.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကယ်၍ ကျွန်တော်တို့ သူတို့ကို ဥပဒေစာကြည့်တိုက်သို့ ဝင်ခွင့်ပေးနိုင်မယ်ဆိုရင် ကျွန်တော်တို့ ရှေ့နေတွေကို ပညာပေးနိုင်တယ်။
 
 8338
 We can educate lawyers, I'm sure of it!
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ရှေ့နေတွေကို ပညာပေးနိုင်တယ်၊ ကျွန်တော်သေချာပါတယ်။
 
 8339
 The Pursuit of Excellence fund is maxed for donations for this year, please consider donating to another fund.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီနှစ်မှာ အလှူငွေတွေအတွက် ပါဆုအော့ဖ်အိက်စ်ဆိုင်းလင့်စ်/ ထူးချွန်မှုနောက်လိုက်ရှာခြင်း ရန်ပုံငွေဟာ အများဆုံးရရှိသွားပြီ၊ တခြားရန်ပုံငွေတွေဆီကို လှူဒါန်းဖို့သာ ကျေးဇူးပြု၍ စဉ်းစားပါ။
+#REVIEW
 
 8340
 We want you to know how critical a donation to the Pursuit of Excellence is needed this year.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီနှစ်မှာ ပါဆုအော့ဖ်အိက်စ်ဆိုင်းလင့်စ်ဆီကို လှူဒါန်မှုဟာ ဘယ်လို အရေးတကြီးလိုအပ်နေတယ်ဆိုတာ ကျွန်တော်တို့ ခင်ဗျားကို  သိစေချင်ပါတယ်။
 
 8341
 Without your contribution the Pursuit of Excellence fund will no longer exist.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားရဲ့ ပံ့ပိုးကူညီမှု မရှိရင် ပါဆုအော့ဖ်အိက်စ်ဆိုင်းလင့်စ် ရန်ပုံငွေဟာ ဆက်လက်ရပ်တည်နိုင်မှာ မဟုတ်ဘူး။
 
 8342
 Loren Field is the chief scientist at the school
-<MYANMAR UNICODE TRANSLATION HERE>
+လိုရန်ဖီးလ်သည် ကျောင်း၌ သိပ္ပံပညာရှင်အကြီးအကဲဖြစ်သည်။
 
 8343
 Loren Field works at the city dump.
-<MYANMAR UNICODE TRANSLATION HERE>
+လိုရန်ဖီးလ်သည် မြို့တော်အမှိုက်ပုံနေရာတွင် အလုပ်လုပ်သည်။
 
 8344
 Loren Field works at the school.
-<MYANMAR UNICODE TRANSLATION HERE>
+လိုရန်ဖီးလ်သည် ကျောင်း၌ အလုပ်လုပ်သည်။
 
 8345
 Learn to experience what someone else experiences.
-<MYANMAR UNICODE TRANSLATION HERE>
+တခြားသောသူများ တွေ့ကြုံခံစားရသည့် အတွေ့အကြုံကို လေ့လာသင်ယူပါ။
 
 8346
 Live under the conditions that someone does.
-<MYANMAR UNICODE TRANSLATION HERE>
+တခြားသူများ ရှင်သန်နေထိုင်နေသည့် အခြေအနေအနေအထားအောက်မှာ ရှင်သန်နေထိုင်ပါ။
 
 8347
 To selfishly mind your own life and your own business.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်ကိုယ်ကောင်းဆန်ဆန်နဲ့ ခင်ဗျားရဲ့ ကိုယ်ပိုင်ဘဝနဲ့ ခင်ဗျားရဲ့ ကိုယ်ပိုင်ကိစ္စတွေကိုသာ ဂရုစိုက်စမ်းပါ။
 
 8348
 We are becoming dependent on others.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ဟာ တခြားသူတွေအပေါ်မှာ မှီခိုလာကြတယ်။
 
 8349
 We hope you will help us as we become independent.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ အမှီအခိုကင်းလာတဲ့အခါ ခင်ဗျား ကျွန်တော်တို့ကို ကူညီလိမ့်မယ်လို့ ကျွန်တော်တို့ မျှော်လင့်ပါတယ်။
 
 8350
 You received a degree in molecular biology.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား မော်လီကျူးဆိုင်ရာဇီဝဗေဒဘွဲ့ တစ်ခု ရရှိခဲ့တယ်။
 
 8351
 Indiana is the first state dental association to work with a dental school in such a way.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်ဒီယာနာသည် ထိုကဲ့သို့ သွားဘက်ဆိုင်ရာကျောင်းနှင့် အတူတွဲ အလုပ်လုပ်သည့် ပထမဆုံး ပြည်နယ် သွားဘက်ဆိုင်ရာ အဖွဲ့အစည်း ဖြစ်သည်။
 
 8352
 Indiana refuses to commit to help the dental school.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်ဒီယာနာသည် သွားဘက်ဆိုင်ရာကျောင်းကို ကူညီရန် အာမခံဖို့ ငြင်းဆိုခဲ့သည်။
 
 8353
 Indiana's state dental association has pledged $1million to the dental school.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်ဒီယာနာ ပြည်နယ် သွားဘက်ဆိုင်ရာ အဖွဲ့အစည်းသည် သွားဘက်ဆိုင်ရာကျောင်းကို ဒေါ်လာတစ်သန်း ကတိကဝတ်ပြုလိုက်သည်။
 
 8354
 Only 10% of female business leaders have been in Scouts.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမျိုးသမီးစီးပွားရေးခေါင်းဆောင် ၁၀ရာခိုင်နှုန်းမျှသာ ကင်းထောက်အဖွဲ့များတွင်ပါဝင်ကြသည်။
 
 8355
 Two thirds of female business leaders have been Girl Scouts.
