@@ -1,6 +1,6 @@
 8401
 She was a good support.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမဟာ ကောင်းမွန်တဲ့ အထောက်အပံ့ကောင်းတစ်ခု ဖြစ်တယ်။
 
 8402
 Our theatre productions have helped elementary school children learn how to paint.
@@ -8,7 +8,7 @@ Our theatre productions have helped elementary school children learn how to pain
 
 8403
 Theatre has helped many children across Indiana.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြဇာတ်ရုံသည် အင်ဒီယာနာတဝှမ်းရှိ ကလေးငယ်များစွာကို ကူညီပေးသည်။
 
 8404
 We wish we could afford to create fully professional theatre productions, but we have never had the funds here in Indiana.
@@ -16,11 +16,11 @@ We wish we could afford to create fully professional theatre productions, but we
 
 8405
 Every penny goes towards cancer research.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငွေတစ်ပြားတစ်ချပ်စီတိုင်းဟာ ကင်ဆာသုတေသနလုပ်ငန်ဆီရောက်မှာပါ။
 
 8406
 Every penny you donate helps research.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားလှူတဲ့ ငွေတစ်ပြားတစ်ချပ်စီတိုင်းဟာ သုတေသနလုပ်ငန်ကို အကူအညီဖြစ်ပါတယ်။
 
 8407
 We spend half your money on administrative fees.
@@ -56,7 +56,7 @@ IRT artists don't do anything with kids and instead focus on adults in the commu
 
 8415
 IRT artists help kids in the schools.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်အာတီမှ အနုပညာရှင်များသည် ကျောင်းများတွင် ကလေးငယ်များကို ကူညီကြသည်။
 
 8416
 IRT artists help kids put on a production.
@@ -124,7 +124,7 @@ The center wants to help the poor people in the community.
 
 8432
 A young couple was at the show.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူငယ်စုံတွဲတစ်တွဲက ဖျော်ဖြေပွဲမှာ။
 
 8433
 A young couple went to their very first performance.
@@ -160,7 +160,7 @@ We are only targeting current students.
 
 8441
 Our society needs no help.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ လူမှုအဖွဲ့အစည်းသည် အကူအညီမလိုအပ်ပါ။
 
 8442
 Please help improve our society.
@@ -208,11 +208,11 @@ The YMCA strives to promote Christian principles through various programs.
 
 8453
 I know you care a lot about the people around you.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားပတ်ဝန်းကျင်ကလူတွေကို ခင်ဗျား အရမ်းဂရုစိုက်တယ်ဆိုတာ ကျွန်တော် သိတယ်။
 
 8454
 I know you just don't care about people at all.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားလူတွေကို လုံးဝဂရုမစိုက်ဘူးဆိုတာ ကျွန်တော်သိတယ်။
 
 8455
 I know you spend a lot to fee the hungry people around you.
@@ -232,15 +232,15 @@ We don't separate the level of friends, everyone is the same.
 
 8459
 If you give us money, we can protect all the elephants in Africa.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား ကျွန်တော်တို့ကို ပိုက်ဆံပေးမယ်ဆိုရင်၊ အာဖရိကမှာရှိတဲ့ ဆင်တွေအားလုံးကို ကျွန်တော်တို့ ကာကွယ်နိုင်တယ်။
 
 8460
 There is nothing that can be done to help elephants.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆင်တွေကို ကူညီဖို့ လုပ်ပေးနိုင်တာ ဘာမှမရှိဘူး။
 
 8461
 This will help elephants everywhere.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီဟာက ဆင်တွေကို နေရာတိုင်းမှာ အကူအညီပေးလိမ့်မယ်။
 
 8462
 The Society contributes a lot to the connections that are made.
@@ -280,15 +280,15 @@ Technology hasn't done anything to help us.
 
 8471
 If you donate now it will help us a lot.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား အခု လှူမယ်ဆိုရင် ဒါဟာ ကျွန်တော်တို့ကို အများကြီး အကူအညီဖြစ်လိမ့်မယ်။
 
 8472
 We don't need any more donations.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ နောက်ထပ် လှူဒါန်းမှုတွေ ထပ်ပြီး မလိုအပ်တော့ဘူး။ 
 
 8473
 We'll stop fundraising if you give us $1000 now.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား အခု ကျွန်တော်တို့ကို ဒေါ်လာ၁၀၀၀ပေးမယ်ဆိုရင် ကျွန်တော်တို့ ရန်ပုံငွေရှာဖွေတာတွေ ရပ်လိုက်တော့မယ်။
 
 8474
 Commencement 1991 was cancelled due to terrible weather.
@@ -304,7 +304,7 @@ Many a tear are shed during Commencement 1991.
 
 8477
 The IU School of Law has 1000 students.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်ယူဥပဒေကျောင်းတွင် ကျောင်းသား ၁၀၀၀ရှိသည်။
 
 8478
 The IU School of Law teaches future lawyers.
@@ -312,7 +312,7 @@ The IU School of Law teaches future lawyers.
 
 8479
 The IU School of law was shut down long ago.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်ယူဥပဒေကျောင်းကို ပိတ်ထားတာ ကြာလှပြီ။
 
 8480
 The Indianapolis Civic Theater has produced shows for over 80 years.
@@ -340,27 +340,27 @@ The law school was the first program to face budget cuts.
 
 8486
 IZS focuses on zebra help.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်ဇီးအက်စ်က မြင်းကျားတွေကို ကူညီဖို့ အာရုံစိုက်တယ်။
 
 8487
 IZS helps African elephans.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်ဇီးအက်စ်သည် အာဖရိကဆင်များကို ကူညီစောင့်ရှောက်သည်။
 
 8488
 IZS helps African elephants by prosecuting poachers.
-<MYANMAR UNICODE TRANSLATION HERE>
+မုဆိုးများအား တရားစွဲဆိုခြင်းဖြင့် အိုင်ဇီးအက်စ်သည် အာဖရိကဆင်များကို ကူညီစောင့်ရှောက်သည်။
 
 8489
 10,000 people still need our help.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူပေါင်း၁၀၀၀၀ ကျွန်တော်တို့ အကူအညီလိုနေဆဲပဲ။
 
 8490
 No one needs our help.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘယ်သူမှ ကျွန်တော်တို့ အကူအညီမလိုအပ်ဘူး။
 
 8491
 Our help is needed by many more.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ရဲ့ အကူအညီကို နောက်ထက်အများကြီးလိုနေတယ်။
 
 8492
 Everyone is being discouraged from emulating your terrible judgment.
