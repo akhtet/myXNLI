@@ -28,7 +28,7 @@ A girl is dressed for sledding.
 
 8508
 A girl wears white clothes.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိန်းကလေးငယ်လေးတစ်ဦးသည် အဖြူရောင် အဝတ်အစားမျာကို ဝတ်ဆင်ထားသည်။
 
 8509
 The girl is dressed all in red.
