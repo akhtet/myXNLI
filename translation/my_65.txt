@@ -396,6 +396,4 @@ The GAO is the worst performing federal entity and is in line to have all its fu
 
 6500
 Postal density doesn't influence costs at all.
-စာတိုက်နဲ့နီးသောဒေသများသည် ကုန်ကျစရိတ်များကို လုံးဝ လွှမ်းမိုးခြင်းမရှိပါ။
-# REVIEW
-: the quality of having parts that are close together
+စာတိုက် စုစည်းမှုသည် ကုန်ကျစရိတ်များကို လုံးဝ လွှမ်းမိုးခြင်းမရှိပါ။
