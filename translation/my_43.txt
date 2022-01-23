@@ -280,9 +280,7 @@ You cannot see the audience.
 
 4271
 A girl wanted to dance on Good Friday.
-မိန်းကလေး တစ်ယောက်က ဂွဒ် ဖရိုင်းဒေး / ကောင်းမွန်တဲ့ သောကြာနေ့ မှာ ကခုန်ချင်ခဲ့တယ်။
-# REVIEW
-#Good Friday
+မိန်းကလေး တစ်ယောက်က သောကြာကြီးနေ့ မှာ ကခုန်ချင်ခဲ့တယ်။
 
 4272
 The girl knew she couldn't do anything but go to church.
@@ -290,9 +288,7 @@ The girl knew she couldn't do anything but go to church.
 
 4273
 The girls' parents grounded her for dancing on Good Friday.
-မိန်းကလေးများ၏ မိဘများက သူမအား ဂွဒ် ဖရိုင်းဒေး /ကောင်းမွန်တဲ့ သောကြာနေ့ တွင် ကရန် တားမြစ်ခဲ့သည်။
-# REVIEW
-#Good Friday
+မိန်းကလေးများ၏ မိဘများက သူမအား သောကြာကြီးနေ့တွင် ကရန် တားမြစ်ခဲ့သည်။
 
 4274
 The plan is important.
@@ -392,7 +388,7 @@ Unique people can still be equal.
 
 4298
 Boolean idealization is imperfect.
-ဘိုလီယန် အိုင်ဒီယာလိုင်ဇေးရှင်းသည် မပြည့်စုံပါ။
+အမှန်နှင့်အမှား စိတ်ကူးပုံဖော်မှုသည် မပြည့်စုံပါ။
 
 4299
 Genes were always linear to its inputs.
@@ -400,4 +396,5 @@ Genes were always linear to its inputs.
 
 4300
 The janitor has an opinion on Boolean idealization.
-အိမ်စောင့်သည် ဘိုလီယန် အိုင်ဒီယာလိုင်ဇေးရှင်းအပေါ် ထင်မြင်ချက် တစ်ခု ရှိသည်။
+အိမ်စောင့်သည် အမှန်နှင့်အမှား စိတ်ကူးပုံဖော်မှုအပေါ် ထင်မြင်ချက် တစ်ခု ရှိသည်။
+
