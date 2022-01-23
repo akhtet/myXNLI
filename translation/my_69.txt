@@ -4,9 +4,7 @@ France has a lower volume of postal deliveries than the U.S.
 
 6802
 Postal density in France is too low to support the same level of last-mile delivery services as exist in the U.S.
-ပြင်သစ်ရှိ စာတိုက်နဲ့နီးသောဒေသများသည် အမေရိကန်တွင် ရှိသော နောက်ဆုံး-မိုင်ထိ ပေးပို့ခြင်း ဝန်ဆောင်မှု ၏ တူညီသော အဆင့်ကို ပံ့ပိုးရန် အလွန်နည်းပါးပါသည်။
-# REVIEW
-# Postal density
+ပြင်သစ်ရှိ စာတိုက် စုစည်းမှုသည် အမေရိကန်တွင် ရှိသော နောက်ဆုံး-မိုင်ထိ ပေးပို့ခြင်း ဝန်ဆောင်မှု ၏ တူညီသော အဆင့်ကို ပံ့ပိုးရန် အလွန်နည်းပါးပါသည်။
 
 6803
 On that page you can also find links to other resources.
