@@ -181,17 +181,14 @@ The law will save the community and the nation.
 4046
 Other dimensions can be used to construct spin network theories.
 အခြား အတိုင်းအတာများကို လှည့်ပတ်ကွန်ရက်သီအိုရီများကို တည်ဆောက်ရန်အတွက် အသုံးပြုနိုင်သည်။
-# REVIEW
-#Spin network သီအိုရီများ (or) လှည့်ပတ်ကွန်ယက် သီအိုရီများ
 
 4047
 Spin networks are very useful for data storage technologies.
-Spin networksသည် အချက်အလက် သိုလှောင်မှု နည်းပညာများ အတွက် အလွန် အသုံးဝင်သည်။
-# REVIEW
+လှည့်ပတ်ကွန်ရက်များသည် အချက်အလက် သိုလှောင်မှုဆိုင်ရာ နည်းပညာများ အတွက် အလွန် အသုံးဝင်သည်။
 
 4048
 Spin networks cannot be imagined in different dimensions.
-# REVIEW
+လှည့်ပတ်ကွန်ယက်များကို မတူညီသော အတိုင်းအတာများဖြင့် မှန်းဆမရနိုင်ပါ။
 
 4049
 I do not want you to die!
