@@ -125,8 +125,6 @@ One agency tried to make it so that an employee can just claim any travel expens
 6732
 This idea was not well-received by t=other agencies.
 ဤ အကြံဉာဏ်ကို အခြား အေဂျင်စီများက ကောင်းကောင်းလက်ခံခြင်း မရှိခဲ့ပေ။
-# REVIEW
-# the
 
 6733
 Travelers do not have to list out their individual expenses.
@@ -158,21 +156,15 @@ Allenbrand and Drews are prosecuting the case.
 
 6740
 Postal density has a big impact on the cost in France.
-စာတိုက်နဲ့နီးသောဒေသများသည် ပြင်သစ်တွင် ကုန်ကျစရိတ်အပေါ် ကြီးမားသော သက်ရောက်မှုရှိသည်။
-# REVIEW
-# Postal density
+စာတိုက် စုစည်းမှုသည် ပြင်သစ်တွင် ကုန်ကျစရိတ်အပေါ် ကြီးမားသော သက်ရောက်မှုရှိသည်။
 
 6741
 Postal density has no impact on cost.
-စာတိုက်နဲ့နီးသောဒေသများသည် ကုန်ကျစရိတ်အပေါ် သက်ရောက်မှု မရှိပါ။
-# REVIEW
-# Postal density
+စာတိုက် စုစည်းမှုသည် ကုန်ကျစရိတ်အပေါ် သက်ရောက်မှု မရှိပါ။
 
 6742
 Postal density raises the cost in France by up to 40%.
-စာတိုက်နဲ့နီးသောဒေသများသည် ပြင်သစ်တွင် ကုန်ကျစရိတ်ကို ၄၀% အထိ တိုးစေသည်။
-# REVIEW
-# Postal density
+စာတိုက် စုစည်းမှုသည် ပြင်သစ်တွင် ကုန်ကျစရိတ်ကို ၄၀% အထိ တိုးစေသည်။
 
 6743
 It takes 17 months to implement that part.
@@ -228,9 +220,7 @@ Change in the Postal and Delivery Industries needs to be managed.
 
 6756
 Change in the Postal and Delivery Industries happen organically and do not need to be managed.
-စာတိုက် နှင့် ပို့ဆောင်ရေး လုပ်ငန်းများတွင် ပြောင်းလဲမှုသည် အော်ဂဲနစ်အတိုင်း ဖြစ်ပေါ်ပြီး စီမံခန့်ခွဲရန် မလိုအပ်ပါ။
-# REVIEW
-# organically / originally
+စာတိုက် နှင့် ပို့ဆောင်ရေး လုပ်ငန်းများတွင် ပြောင်းလဲမှုသည် မူလအတိုင်း ဖြစ်ပေါ်ပြီး စီမံခန့်ခွဲရန် မလိုအပ်ပါ။
 
 6757
 There are people whose only job is to manage the changes in the Postal and Delivery Industries.
