@@ -4,7 +4,7 @@ She was a good support.
 
 8402
 Our theatre productions have helped elementary school children learn how to paint.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ပြဇာတ်ရုံရဲ့ စီစဉ်တင်ဆက်သည့်လက်ရာတွေဟာ မူလတန်းကျောင်းသားကလေးငယ်တွေကို ဘယ်လို ပန်းချီရေးဆွဲရမလဲဆိုတာကို သင်ယူဖို့ အကူအညီပေးတယ်။
 
 8403
 Theatre has helped many children across Indiana.
@@ -12,7 +12,7 @@ Theatre has helped many children across Indiana.
 
 8404
 We wish we could afford to create fully professional theatre productions, but we have never had the funds here in Indiana.
-<MYANMAR UNICODE TRANSLATION HERE>
+လုံးဝပညာရှင်ဆန်တဲ့ ပြဇာတ်ထုတ်လုပ်ရေးတွေ ဖန်တီးဖို့ ကျွန်တော်တို့တတ်နိုင်ပါစေလို့ ကျွန်တော်တို့ ဆုတောင်ပါတယ်၊ ဒါပေမယ့် ဒီ အင်ဒီယာနာမှာ ကျွန်တော်တို့ တခါမှ ရန်ပုံငွေမရှိဘူး။
 
 8405
 Every penny goes towards cancer research.
@@ -24,35 +24,35 @@ Every penny you donate helps research.
 
 8407
 We spend half your money on administrative fees.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ခင်ဗျားငွေတဝက်ကို စီမံခန့်ခွဲရေးစရိတ်အတွက် သုံးပါတယ်။
 
 8408
 I believe all Americans are natural-born athletes.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကန်တွေအားလုံးဟာ မွေးရာပါထူချွန်တဲ့ အားကစားသမားတွေလို့ ကျွန်တော် ယုံကြည်တယ်။
 
 8409
 I only want to see American women become Olympians.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကန်အမျိုးသမီးတွေ အိုလံပစ်ကစားသမားတွေဖြစ်လာတာကို မြင်ချင်တာပဲရှိတယ်။
 
 8410
 I want to see Americans join the Olympic family.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကန်တွေ အိုလံပစ်အုပ်စုတွင် ပါဝင်တာကို မြင်ချင်တယ်။
 
 8411
 Alan Dixon is a Democrat politician.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲလန်ဒစ်ဇွန်သည် ဒီမိုကရက်နိုင်ငံရေးသမားတစ်ဦးဖြစ်သည်။
 
 8412
 Alan Dixon is a die-hard Republican.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲလန်ဒစ်ဇွန်သည် ရှေးရိုးစွဲ ရီပတ်ပလစ်ကန်တစ်ဦးဖြစ်သည်။
 
 8413
 Alan Dixon was a state senator.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲလန်ဒစ်ဇွန်သည် ပြည်နယ်လွှတ်တော်အမတ်တစ်ဦးဖြစ်သည်။
 
 8414
 IRT artists don't do anything with kids and instead focus on adults in the community.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်အာတီမှ အနုပညာရှင်များသည် ကလေးငယ်များအတွက် မည်သည့်အရာမျှ မလုပ်ဆောင်ပေးဘဲ အဲဒီအစား အသိုင်းအဝိုင်းတွင်းရှိ အရွယ်ရောက်သူများကိုသာ အာရုံစိုက်သည်။
 
 8415
 IRT artists help kids in the schools.
@@ -60,67 +60,67 @@ IRT artists help kids in the schools.
 
 8416
 IRT artists help kids put on a production.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်အာတီမှ အနုပညာရှင်များသည် ကလေးငယ်များကို စီစဉ်တင်ဆက်သည့်လက်ရာတစ်ခု ဖန်တီးရန် အကူအညီပေးသည်။
 
 8417
 It pays for care for the animals in the shelter.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိရိစ္ဆာန်ဂေဟာရှိ တိရိစ္ဆာန်များအား စောင့်ရှောက်မှုအတွက် ၎င်းသည် ပေးဆောင်သည်။
 
 8418
 The animals at the zoo benefit from this a lot.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိရိစ္ဆာန်ရုံရှိ တိရိစ္ဆာန်များသည် ဤအရာမှ အကျိုးကျေးဇူးများစွာရရှိသည်။
 
 8419
 The animals at the zoo get $100,000 a year in funding for care and feeding.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိရိစ္ဆာန်ရုံရှိ တိရိစ္ဆာန်များသည် ကျွေးမွေးစောင့်ရှောက်ရန်အတွက် ရန်ပုံငွေအဖြစ် တစ်နှစ်လျှင် ဒေါ်လာ၁၀၀၀၀၀ရရှိသည်။
 
 8420
 The award didn't start until 2002.
-<MYANMAR UNICODE TRANSLATION HERE>
+၂၀၀၂ခုနှစ်ထိတိုင်အောင် ဆုချီးမြှင့်ခြင်းကို မစတင်သေးပါ။
 
 8421
 They started the Award in 1990 because they got a huge grant.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ ထောက်ပံ့ကြေး ကြီးကြီးမားမား ရသွားတာကြောင့် သူတို့ ၁၉၉၀ခုနှစ်မှာ ဆုကို စတင်ချီးမြှင့်ခဲ့တယ်။
 
 8422
 They started the award in 1990.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ ၁၉၉၀ခုနှစ်မှာ ဆုကို စတင်ချီးမြှင့်ခဲ့တယ်။
 
 8423
 Indiana doesn't offer tax credits.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်ဒီယာနာသည် အခွန်ခရက်ဒစ်တွေကို မကမ်းလှမ်းပါ။
 
 8424
 Indiana residents get a 50% tax credit if they donate to the theater.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်ဒီယာနာ ဒေသခံတွေဟာ အကယ်၍ သူတို့ ပြဇာတ်ရုံကို လှူဒါန်းမယ်ဆိုရင် အခွန်ခရက်ဒစ် ၅၀ရာခိုင်နှုန်း ရရှိမယ်။
 
 8425
 Indiana residents get tax benefits from the state of Indiana.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်ဒီယာနာ ဒေသခံတွေဟာ အင်ဒီယာနာပြည်နယ်မှ အခွန်အကျိုးခံစားခွင့်များရရှိတယ်။
 
 8426
 Bob Lovell can answer questions.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘော့လပ်ဗဲလ်က မေးခွန်းတွေကို ဖြေဆိုနိုင်တယ်။
 
 8427
 Bob Lovell is no longer associated with this.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘော့လပ်ဗဲလ်ဟာ ဒါနဲ့ပတ်သက်ပြီး မသက်ဆိုင်တော့ပါ။
 
 8428
 Bob Lovell is working on the campaign for the next year.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘော့လပ်ဗဲလ်ဟာ နောက်နှစ်အတွက် စည်းရုံးလှုံဆော်ရေးလုပ်ငန်းတွေ လုပ်ဆောင်နေတယ်။
 
 8429
 The Center really wants to help the community.
-<MYANMAR UNICODE TRANSLATION HERE>
+စင်တာဟာ လူထုကို အမှန်တကယ် ကူညီချင်တယ်။
 
 8430
 The center focuses on helping other continents.
-<MYANMAR UNICODE TRANSLATION HERE>
+စင်တာသည် အခြားတိုက်ကြီးများကို ကူညီရန် အလေးထားအာရုံစိုက်သည်။
 
 8431
 The center wants to help the poor people in the community.
-<MYANMAR UNICODE TRANSLATION HERE>
+စင်တာသည် လူထုအသိုင်းအဝိုင်တွင်းရှိ ဆင်းရဲးသောလူများကို ကူညီချင်သည်။
 
 8432
 A young couple was at the show.
@@ -128,35 +128,35 @@ A young couple was at the show.
 
 8433
 A young couple went to their very first performance.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူငယ်စုံတွဲတစ်တွဲသည် သူတို့ရဲ့ ပထမဆုံးသော ဖျော်ဖြေပွဲဆီသို့ သွားခဲ့သည်။
 
 8434
 No one at the show was under the age of 80.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြပွဲ၌ မည်သူမျှ အသက်၈၀အောက် မရှိပါ။
 
 8435
 The Civic Theater is downtown Indianapolis.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြို့တော်ဆိုင်ရာပြဇာတ်ရုံသည် အင်ဒီယာနာပိုလစ်မြို့လယ်တွင် ရှိသည်။
 
 8436
 The Civic Theater is in Indianapolis.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြို့တော်ဆိုင်ရာပြဇာတ်ရုံသည် အင်ဒီယာနာပိုလစ်တွင် ရှိသည်။
 
 8437
 The Civic Theater is located in Tampa.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြို့တော်ဆိုင်ရာပြဇာတ်ရုံသည် တမ်ပါတွင် တည်ရှိသည်။
 
 8438
 We are fundraising from graduates.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ဘွဲ့ရတွေဆီကနေ ရန်ပုံငွေကောက်ခံနေတယ်။
 
 8439
 We are fundraising to meet our goal of $100,000.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ရဲ့ ပန်းတိုင်ဖြစ်တဲ့ ဒေါ်လာ၁၀၀၀၀၀ပြည့်ဖို့ ကျွန်တော်တို့ ရန်ပုံငွေကောက်ခံနေတယ်။
 
 8440
 We are only targeting current students.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ လက်ရှိ ကျောင်းသားတွေကိုပဲ ပစ်မှတ်ထားထားတယ်။
 
 8441
 Our society needs no help.
@@ -164,47 +164,47 @@ Our society needs no help.
 
 8442
 Please help improve our society.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ရဲ့ လူမှုအဖွဲ့အစည်းကို တိုးတက်အောင် ကျေးဇူးပြုပြီး ကူညီပေးပါ။
 
 8443
 We hope you will make our society a crime-free place.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ရဲ့ လူမှုအဖွဲ့အစည်းကို ရာဇဝတ်မှုကင်းစင်တဲ့နေရာတစ်ခု ဖြစ်အောင် ခင်ဗျား လုပ်ဆောင်မယ်လို့ ကျွန်တော်မျှော်လင့်တယ်။
 
 8444
 The plaque doesn't give any specific names or details.
-<MYANMAR UNICODE TRANSLATION HERE>
+မော်ကွန်းကဗ္ပည်းတွင် နာမည်တိတိကျကျ သို့မဟုတ် အသေးစိတ်အချက်အလက်များကို မဖော်ပြထားပါ။
 
 8445
 Your message is engraved on the plaque if you donate more than $100.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကယ်၍ ခင်ဗျား ဒေါ်လာ၁၀၀ထက်ပိုလှူမယ်ဆိုရင် ခင်ဗျားရဲ့ အမှာစကားကို မော်ကွန်းကဗ္ပည်းမှာ ကဗ္ပည်းထိုးပေးမယ်။
 
 8446
 Your name or message will be put on the plaque.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားရဲ့ အမည် ဒါမှမဟုတ် အမှာစကားကို မော်ကွန်းကဗ္ပည်းမှာ ထည့်ပေးလိမ်မယ်။
 
 8447
 The sky is clear and blue, and there are clouds here and there.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကောင်းကင်က ကြီလင်ပြီးပြာလဲ့လဲ့၊ ပြီးတော့ တိမ်တွေကလည်း ဟိုတကွက် ဒီတကွက်။
 
 8448
 The sky is clear and blue, with not a cloud in sight.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကောင်းကင်က ကြီလင်ပြီးပြာလဲ့လဲ့၊ တိမ်ကင်းစင်လျက်။
 
 8449
 The sun is behind a fluffy cloud, the shape of a bunny.
-<MYANMAR UNICODE TRANSLATION HERE>
+နေဟာ ယုံပုံစံလေးပေါက်နေတဲ့ ဖြူဖြူရွရွတိမ်ရဲ့နောက်မှာ ရှိနေတယ်။
 
 8450
 The YMCA has over 100 programs that promote Christian principles.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝိုင်အမ်စီအေတွင် ခရစ်ယန်အခြေခံသဘောတရားများကို မြှင့်တင်အားပေးစည်းရုံးပေးသည့် အစီအစဉ် ၁၀၀ကျော်ရှိသည်။
 
 8451
 The YMCA only promotes principles espoused by the Church of Satan in its programs.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝိုင်အမ်စီအေသည် ၎င်း၏ အစီအစဉ်များတွင် စေတန်ဘုရားကျောင်းမှ အားပေးထောက်ခံထားသည့် အခြေခံသဘောတရားများကိုသာ မြှင့်တင်အားပေးစည်းရုံးသည်။
 
 8452
 The YMCA strives to promote Christian principles through various programs.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝိုင်အမ်စီအေသည် ခရစ်ယန်အခြေခံသဘောတရားများကို မြှင့်တင်အားပေးစည်းရုံးရန် အမျိုးမျိုးသော အစီအစဉ်များဖြင့် ကြိုးပမ်းသည်။
 
 8453
 I know you care a lot about the people around you.
@@ -216,19 +216,19 @@ I know you just don't care about people at all.
 
 8455
 I know you spend a lot to fee the hungry people around you.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားပတ်ဝန်းကျင်က ဆာလောင်နေတဲ့လူတွေကို ကျွေးမွေးဖို့ ခင်ဗျား ငွေအများကြီးသုံးတယ်ဆိုတာ ကျွန်တော်သိတယ်။
 
 8456
 The level of friends depend on how much you have donated.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူငယ်ချင်းတွေ အဆင့်ဆိုတာ မင်း ဘယ်လောက်လှူလိုက်တယ်ဆိုတာပေါ် မူတည်တယ်။
 
 8457
 There are two levels of Friends.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူငယ်ချင်းအဆင့် နှစ်မျိုးရှိတယ်။
 
 8458
 We don't separate the level of friends, everyone is the same.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့က သူငယ်ချင်းတွေကို အဆင့်အတန်းမခွဲပါဘူး၊ လူတိုင်းက အတူတူပဲ။
 
 8459
 If you give us money, we can protect all the elephants in Africa.
@@ -244,31 +244,31 @@ This will help elephants everywhere.
 
 8462
 The Society contributes a lot to the connections that are made.
-<MYANMAR UNICODE TRANSLATION HERE>
+ချိတ်ဆက်ထားသော အဆက်အသွယ်များကို အဆိုပါအဖွဲ့အစည်းသည် များစွာကူညီပံ့ပိုးသည်။
 
 8463
 The Society doesn't have anything to do with people.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါအဖွဲ့အစည်းဟာ ပြည်သူတွေနဲ့ ဘာမှမဆိုင်ဘူး။
 
 8464
 The Society helps people find people who are also interested in the arts.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါအဖွဲ့အစည်းသည် အနုပညာကို စိတ်ဝင်စားသည့် လူများကိုရှာဖွေရန် ပြည်သူတွေကို ကူညီပေးသည်။
 
 8465
 A donation in honor of someone is not appropriate for this particular type of fund.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်စုံတစ်ယောက်အား ဂုဏ်ပြုသောအားဖြင့် လှူဒါန်းခြင်းသည် ဤအထူးရန်ပုံငွေမျိုးအတွက် မသင့်တော်ပါ။
 
 8466
 A donation in honor of someone would make a great gift for the holidays.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်စုံတစ်ယောက်အား ဂုဏ်ပြုသောအားဖြင့် လှူဒါန်းခြင်းသည် အားလပ်ရက်များအတွက် ကြီးကျယ်သော လက်ဆောင်တစ်ခု ဖြစ်ပေလိမ့်မည်။
 
 8467
 Gentle note that you could make donations any time not just around the holidays.
-<MYANMAR UNICODE TRANSLATION HERE>
+အားလပ်ရက်နားနီးမှသာ မဟုတ်ပဲ အချိန်မရွေး ခင်ဗျား လှူဒါန်တာတွေလုပ်နိုင်တယ်ဆိုတာ မှတ်ထားပါနော်။
 
 8468
 Technology has made the way we collect information ramp up to speeds we've never seen.
-<MYANMAR UNICODE TRANSLATION HERE>
+နည်းပညာက ကျွန်တော်တို့ သတင်းအချက်တွေ စုဆောင်းတဲ့နည်းလမ်းကို ကျွန်တော်တို့ တခါမှ မမြင်ဖူးသည့် မြန်နှုန်းထိ မြှင့်တင်ပေးသည်။
 
 8469
 Technology has made us speed up.
@@ -276,7 +276,7 @@ Technology has made us speed up.
 
 8470
 Technology hasn't done anything to help us.
-<MYANMAR UNICODE TRANSLATION HERE>
+နည်းပညာက ကျွန်တော်တို့ကို ကူညီဖို့ ဘာမှ မလုပ်ဆောင်ပေးဘူး။
 
 8471
 If you donate now it will help us a lot.
@@ -292,15 +292,15 @@ We'll stop fundraising if you give us $1000 now.
 
 8474
 Commencement 1991 was cancelled due to terrible weather.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၉၉၁ခုနှစ် ဘွဲ့နှင့်သဘင်အခမ်းအနားကို အလွန်ဆိုးရွားတဲ့ ရာသီဥတုအခြေအနေကြောင့် ဖျက်သိမ်းခဲ့ရတယ်။
 
 8475
 Graduating students remember their path as students at Indiana University.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘွဲ့ရကျောင်းသား/ကျောင်းသူများသည် အင်ဒီယာနာတက္ကသိုလ်၌ ၎င်းတို့၏ ကျောင်းသား/ကျောင်းသူဘဝတွေကို အမှတ်ရကြသည်။
 
 8476
 Many a tear are shed during Commencement 1991.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၉၉၁ခုနှစ် ဘွဲ့နှင့်သဘင်အခမ်းအနားကျင်းပချိန်မှာ လူတော်တော်များများ မျက်ရည်တွေကျလို့။
 
 8477
 The IU School of Law has 1000 students.
@@ -308,7 +308,7 @@ The IU School of Law has 1000 students.
 
 8478
 The IU School of Law teaches future lawyers.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိုင်ယူဥပဒေကျောင်းသည် အနာဂတ်ရှေ့နေလောင်းများကို သင်ကြားပေးသည်။
 
 8479
 The IU School of law was shut down long ago.
@@ -316,27 +316,27 @@ The IU School of law was shut down long ago.
 
 8480
 The Indianapolis Civic Theater has produced shows for over 80 years.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်ဒီယာနာပိုလစ် မြို့တော်ဆိုင်ရာပြဇာတ်ရုံသည် နှစ်ပေါင်း၈၀ကျော်ကြာ ဖျော်ဖြေပွဲများ ဖန်တီးထုတ်လုပ်ခဲ့သည်။
 
 8481
 The Indy Civic Theater has done 120 shows in 80 years.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်ဒီ မြို့တော်ဆိုင်ရာပြဇာတ်ရုံသည် နှစ်၈၀တွင်း ဖျော်ဖြေပွဲပေါင်း ၁၂၀ ပြုလုပ်ခဲ့သည်။
 
 8482
 The Indy Civic Theater has only been operating for 2 years.
-<MYANMAR UNICODE TRANSLATION HERE>
+အင်ဒီ မြို့တော်ဆိုင်ရာပြဇာတ်ရုံ လည်ပတ်နေတာ ၂နှစ်အကြာသာ ရှိသေးတယ်။
 
 8483
 The law school has to deal with budget cuts.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဥပဒေကျောင်းသည် အသုံးစရတ် ဖြတ်တောက်မှုများကို ကိုင်တွယ်ဖြေရှင်းရမည်။
 
 8484
 The law school is getting $1million more than normal.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဥပဒေကျောင်းသည် ပုံမှန်ထက် ပို၍ ဒေါ်လာ၁သန်းရရှိသည်။
 
 8485
 The law school was the first program to face budget cuts.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဥပဒေကျောင်းသည် အသုံးစရတ် ဖြတ်တောက်မှုများကို ရင်ဆိုင်ရသည့် ပထမဆုံး အစီအစဉ်ဖြစ်သည်။
 
 8486
 IZS focuses on zebra help.
@@ -364,37 +364,37 @@ Our help is needed by many more.
 
 8492
 Everyone is being discouraged from emulating your terrible judgment.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားရဲ့ ဆိုးရွားလှတဲ့ ဆုံးဖြတ်ချက်ကို အတုယူဆောင်ရွက်ကြရာကနေ လူတိုင်း စိတ်ပျက်အားလျော့နေကြတယ်။
 
 8493
 You colleagues are happy to emulate your good judgment.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားရဲ့ လုပ်ဖော်ကိုင်ဖက်တွေဟာ ခင်ဗျားရဲ့ ကောင်းမွန်တဲ့ ဆုံးဖြတ်ချက်ကို အတုယူဆောင်ရွက်ရတာ ဝမ်းသာကြတယ်။
 
 8494
 Your colleagues are being asked to follow your judgment.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားရဲ့ ဆုံးဖြတ်ချက်ကို လိုက်နာဆောင်ရွက်ဖို့ ခင်ဗျားရဲ့ လုပ်ဖော်ကိုင်ဖက်တွေကို တောင်းဆိုထားတယ်။
 
 8495
 I know you are religious, so please think of how God would consider donation.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားဟာ ဘာသာတရာကိုင်းရှိုင်းတယ်ဆိုတာ ကျွန်တော်သိတယ်၊ ဒါကြောင့် ကျေးဇူးပြုပြီး ဘုရားသခင်က အလှူဒါနအပေါ် ဘယ်လို သဘောထားလိမ့်မလဲဆိုတာ စဉ်းစားကြည့်ပါ။
 
 8496
 Please don't think about giving us money.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျေးဇူးပြုပြီး ငါတို့ကို ပိုက်ဆံပေးဖို့အကြောင်း မစဉ်းစားပါနဲ့။
 
 8497
 We hope that you will carefully consider how much you can give.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား ဘယ်လောက် ပေးနိုင်တယ်ဆိုတာ ခင်ဗျား ဂရုတစိုက်သေသေချာချာ စဉ်းစားထားလိမ့်မယ်လို့ ကျွန်တော်တို့ မျှော်လင့်တယ်။
 
 8498
 We focus on historical plays, among other themes.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား ဘယ်လောက် ပေးနိုင်တယ်ဆိုတာ ခင်ဗျား ဂရုတစိုက်သေသေချာချာ စဉ်းစားထားလိမ့်မယ်လို့ ကျွန်တော်တို့ မျှော်လင့်တယ်။
 
 8499
 We have done three historical plays in the past.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ အရင်တုန်းက သမိုင်းနောက်ခံပြဇာတ်သုံးပုဒ် ကပြဖျော်ဖြေဖူးတယ်။
 
 8500
 We try not to do plays that look at history or literature.
-<MYANMAR UNICODE TRANSLATION HERE>
+သမိုင်း ဒါမှမဟုတ် ရသစာပေတွေကို ထည့်စဉ်းစားရမယ် ပြဇာတ်တွေကို မလုပ်ဖို့ ကျွန်တော်တို့ ကြိုးစားတယ်။
 
