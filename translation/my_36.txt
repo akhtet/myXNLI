@@ -1,400 +1,404 @@
 3501
 He followed every rule and still got kicked out.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် စည်းကမ်း တိုင်းကို လိုက်နာခဲ့ ပြီး နှင်ထုတ်ခံရသေးသည်။
 
 3502
 He should have followed the rules.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည် စည်းကမ်းများကို လိုက်နာသင့်သည်။
 
 3503
 There is no doubt in my mind that it will happen very soon.
-<MYANMAR UNICODE TRANSLATION HERE>
+သိပ် မကြာခင်မှာ ၎င်းက ဖြစ်လာတော့မယ်လို့ ကျွန်တော်၏ စိတ်ထဲမှာ သံသယမဖြစ်ပါဘူး။
 
 3504
 Truthfully it does not look like it could happen.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမှန်အတိုင်းပြောရရင် ဒါဟာ ဖြစ်လာနိုင်ပုံ မပေါ်ပါဘူး။
 
 3505
 Yes I do not think it could happen but there is always hope that it will.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟုတ်တယ် ကျွန်တော် ဒါကို ဖြစ်မယ်လို့ မထင်ထား ပေမယ့် ၎င်း ဖြစ်လာမယ်လို့ အမြဲ မျှော်လင့်ထားပါတယ်။
 
 3506
 Buffalo has the best team overall.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘဖ်ဖလို ဟာ ယေဘုယျအားဖြင့် အကောင်းဆုံး အသင်းပါ။
 
 3507
 One of the two teams that Chicago lost to is Buffalo.
-<MYANMAR UNICODE TRANSLATION HERE>
+ချီကာဂိုကို ရှုံးခဲ့တဲ့ အသင်း နှစ်သင်း ထဲက တစ်သင်း က ဘဖ်ဖလို ဖြစ်ပါတယ်။
 
 3508
 Washington has lost every game.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝါရှင်တန်သည် ပွဲစဉ် တိုင်းကို ရှုံးသွားပြီ။
 
 3509
 Clothing is tax-free.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဝတ်အထည်က အခွန်ကင်းလွတ်တယ်။
 
 3510
 The sales tax is too high.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရောင်းအဝယ် အခွန်အခသည် အရမ်း မြင့်တယ်။
 
 3511
 There is sales tax on clothing.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဝတ်အထည် မှာ အရောင်းအဝယ် အခွန် ရှိတယ်။
 
 3512
 I do like the vibe myself.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်က ကျွန်တော်ကိုယ်တိုင် ဆက်သွယ်မှုရှိသည့်ခံစားချက်လိုမျိုး ပြုလုပ်သည်။
 
 3513
 I do not like the negative energy this place gives off.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ နေရာက ထုတ်ပေးတဲ့ အနုတ်လက္ခဏာ စွမ်းအင်ကို ငါ မကြိုက်ဘူး။
 
 3514
 I feel pretty safe here which is why I like it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ဒါကို ဘာကြောင့် နှစ်သက်လည်းဆို ဒီနေရာက တော်တော် လုံခြုံတယ်လို့ ငါ ခံစားရလို့ပါ။
 
 3515
 Most of their stuff broke at the same time.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ရဲ့ ပစ္စည်းတွေ အများစုဟာ တစ်ချိန်တည်းမှာပဲ ကွဲထွက်သွားပါတယ်။
 
 3516
 None of their stuff broke.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ ပစ္စည်းတွေ တစ်ခုမှ မပျက်စီးသွားဘူး။
 
 3517
 Some of the broken stuff was valuable.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျိုးပဲ့နေသော ပစ္စည်း အချို့သည် အဖိုးတန်ခဲ့သည်။
 
 3518
 I have many children.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့မှာ ကလေးတွေ အများကြီး ရှိတယ်။
 
 3519
 I have one child, an eighteen-month-old daughter.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့်မှာ ကလေး တစ်ယောက် ၊ ဆယ့်ရှစ်လအရွယ် သမီးလေး တစ်ယောက် ရှိတယ်။
 
 3520
 I would like to have more children.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့်မှာ ကလေးများကို ပိုပြီး ရှိချင်ပါတယ်။
 
 3521
 She didny have any puppies.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမမှာ ခွေးလေး တစ်ကောင်မှ မရှိဘူး။
 
 3522
 The male had a tooth issue and the second puppy was from the litter.
-<MYANMAR UNICODE TRANSLATION HERE>
+အထီးက သွား ပြဿနာ တစ်ခု ရှိခဲ့ ပြီး ဒုတိယ ခွေးကလေးကတော့ အမှိုက်ပုံးထဲမှ ဖြစ်ပါတယ်။
 
 3523
 There was a total of 8 in the litter only the male had teeth issues.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမှိုက်ပုံးထဲတွင် စုစုပေါင်း ၈ ကောင်သာ ရှိခဲ့ ပြီး အထီးများတွင် သွား ပြဿနာများ ရှိခဲ့သည်။
 
 3524
 Do you like different types of food?
-<MYANMAR UNICODE TRANSLATION HERE>
+အစားအသောက် အမျိုးအစား အမျိုးမျိုးကို သင် နှစ်သက်ပါသလား။
 
 3525
 I hear you say you don't like trying new foods.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းက အစားအသောက် အသစ်တွေကို စမ်းသပ်ကြည့်ရတာ မကြိုက်ဘူးလို့ မင်း ပြောတာကို ငါ ကြားတယ်။
 
 3526
 You must enjoy trying different ethnic foods.
-<MYANMAR UNICODE TRANSLATION HERE>
+မတူညီတဲ့ တိုင်းရင်းသား အစားအစာတွေကို မြည်းစမ်းကြည့်ခြင်းကို သင့်ကို ပျော်ရွှင်စေတယ်။
 
 3527
 That is where you are calling from?
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါကို မင်း ဘယ်ကခေါ်တာလဲ။
 
 3528
 You are calling from a long distance.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းက အဝေးကြီးကနေ ခေါ်နေတာ။
 
 3529
 You are not calling from there.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း အဲဒီကနေ မခေါ်ဘူး။
 
 3530
 Do you think that the local newspapers are not interested in what the citizens have to say?
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြည်တွင်း သတင်းစာတွေက ပြည်သူတွေ ဘာတွေပြောတာလည်းကို စိတ်မဝင်စားဘူးလို့ မင်း ထင်လား။
 
 3531
 What do you think about national newspapers and their global coverage?
-<MYANMAR UNICODE TRANSLATION HERE>
+နိုင်ငံပိုင် သတင်းစာတွေ နဲ့ သူတို့ရဲ့ ကမ္ဘာလုံးဆိုင်ရာ သတင်းယူခြင်းကို မင်း ဘယ်လိုထင်လဲ။
 
 3532
 What is your opinion on how the papers treat the local news?
-<MYANMAR UNICODE TRANSLATION HERE>
+စာတမ်းတွေက ပြည်တွင်း သတင်းတွေကို ဘယ်လို သဘောထားသလဲဆိုတာ မင်း ထင်မြင်ချက်က ဘာလည်း။
 
 3533
 I don't wear dress clothes often.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် မကြာခဏ ဝတ်စားဆင်ယင်ရမယ့် ၀တ်စုံတွေ မဝတ်တတ်ပါ။
 
 3534
 I enjoy getting dressed up.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်က ဝတ်ဆင်ရတာကို နှစ်သက်တယ်။
 
 3535
 I wear dress clothes all the time.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ တစ်ချိန်လုံး ဝတ်စားဆင်ယင်ရမယ့် ၀တ်စုံတွေကို ဝတ်တယ်။
 
 3536
 It would be worth it to work for a larger company if they gave me money for college.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် ကောလိပ် အတွက် ကျွန်တော့်ကို ပိုက်ဆံ ပေးခဲ့ လျှင် ပိုကြီးမားတဲ့ ကုမ္ပဏီ တစ်ခုမှာ ၎င်းကို အလုပ်လုပ်ရတာ ထိုက်တန်ပါတယ်။
 
 3537
 No companies help with education costs no matter how large or small.
-<MYANMAR UNICODE TRANSLATION HERE>
+မည်မျှ ကြီးသည်ဖြစ်စေ သေးငယ်သည်ဖြစ်စေ ဘယ်လိုပဲဖြစ်ဖြစ် ပညာရေးဆိုင်ရာ ကုန်ကျစရိတ်တွေကို ကုမ္ပဏီတွေက ကူညီပေးခြင်းမရှိဘူး။
 
 3538
 Sometimes larger companies help you pay for education.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်ခါတစ်ရံတွင် ပိုကြီးမားသော ကုမ္ပဏီများသည် သင့်အား ပညာရေး အတွက် ပေးဆောင်ရန် ကူညီပေးသည်။
 
 3539
 Why don't you explain your book to us all.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းရဲ့ စာအုပ်ကို ငါတို့ အားလုံးကို ဘာလို့ မရှင်းပြတာလဲ။
 
 3540
 Why don't you go first.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း ဘာကြောင့် အရင် မသွားတာလဲ။
 
 3541
 You should go last because you don't know anything.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း ဘာမှမသိလို့ မင်း နောက်ဆုံးတော့ သွားသင့်တယ်။
 
 3542
 Are you happy with network news coverage?
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်ရက် သတင်းတွေ လွှမ်းခြုံလို့ မင်း ပျော်ရွှင်နေပါသလား။
 
 3543
 I guess you don't ever watch network news.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်ရက် သတင်းတွေကို မင်း မကြည့်ဖူးဘူးလို့ ငါ ထင်ပါတယ်။
 
 3544
 I think the networks spin the news to make you think what they want you to think.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်ရက်တွေက မင်းကို သူတို့ တွေးစေချင်တာကို မင်း တွေးစေဖို့အတွက် သတင်းတွေကို လှည့်ပတ်နေတယ်လို့ ငါ ထင်ပါတယ်။
 
 3545
 Did you visit any European museums?
-<MYANMAR UNICODE TRANSLATION HERE>
+မည်သည့် ဥရောပ ပြတိုက်ကိုမဆို သင် သွားလည်ဖူးပါသလား။
 
 3546
 Did you visit any museums in Canada?
-<MYANMAR UNICODE TRANSLATION HERE>
+သင်သည် ကနေဒါရှိ မည်သည့် ပြတိုက်ကိုမဆို သွားလည်ဖူးပါသလား။
 
 3547
 I bet you loved visiting Europe.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဥရောပကို လာလည်ရတာ မင်း ကြိုက်တယ် လို့ ငါ ထင်ပါတယ်။
 
 3548
 Does your husband like your t-shirt?
-<MYANMAR UNICODE TRANSLATION HERE>
+သင့် ခင်ပွန်းသည် သင့် တီရှပ်ကို နှစ်သက်ပါသလား။
 
 3549
 What does your sister think about your dress?
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းရဲ့ ဝတ်စားဆင်ယင်မှုနဲ့ ပတ်သက်ပြီး မင်းရဲ့ ညီမက ဘယ်လိုထင်လဲ။
 
 3550
 Your t-shirt is very nice.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းရဲ့ တီရှပ်က အရမ်း ကောင်းတယ်။
 
 3551
 It got voted down because people didn't want to get out and vote.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြည်သူတွေက အပြင်ထွက်ပြီး မဲမပေးချင်ကြတာကြောင့် မဲနှိုက်ခဲ့တာ ဖြစ်ပါတယ်။
 
 3552
 It lost by not very many votes.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းသည် မဲ အရေအတွက် များများစားစား မရှိလို့ ရှုံးတယ်။
 
 3553
 It passed by a 99% margin.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းက ၉၉% အတိုင်းအတာ တစ်ခု ဖြင့် ကျော်သွားသည်။
 
 3554
 The hay horse races are fun.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြက်ခြောက် မြင်းပြိုင်ပွဲတွေက ပျော်စရာကောင်းတယ်။
+# REVIEW 
+# hay horse races
 
 3555
 There are hay horse races at the tracks at Oaklawn.
-<MYANMAR UNICODE TRANSLATION HERE>
+အုတ်ခ်လွမ် ရှိ လမ်းများတွင် မြက်ခြောက် မြင်းပြိုင်ပွဲတွေ ရှိသည်။
+# REVIEW 
+# hay horse races
 
 3556
 There are no races at Oaklawn tracks.
-<MYANMAR UNICODE TRANSLATION HERE>
+အုတ်ခ်လွမ် လမ်းများတွင် ပြိုင်ပွဲများ မရှိပါ။
 
 3557
 They are not very good in rural areas.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါတွေက ကျေးလက် ဒေသတွေမှာ အရမ်း မကောင်းဘူး။
 
 3558
 They are really good in urban areas.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က မြို့ပြ ဒေသတွေမှာ တကယ် ကောင်းတယ်။
 
 3559
 They are very good in both urban and rural areas.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က မြို့ပြ နှင့် ကျေးလက်မှာ နှစ်ခုလုံးမှာ အရမ်း ကောင်းပါတယ်။
 
 3560
 They were made out of a cheaper metal.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းတို့ကို စျေးသက်သာသော သတ္တု တစ်ခု ဖြင့် ပြုလုပ်ထားသည်။
 
 3561
 They were made out of pure copper.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းတို့ကို ကြေးနီ စစ်စစ်ဖြင့် ပြုလုပ်ထားသည်။
 
 3562
 They were very flimsy pans.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါတွေက အရမ်း ကျိုးပဲ့လွယ်သော ဒယ်အိုးတွေပါ။
 
 3563
 They are easy to slide through.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းတို့သည် ဖြတ်၍ လျှောဆင်းရန် လွယ်ကူသည်။
 
 3564
 They go in the opening.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် အပေါက်ထဲကို စွန့်ပစ်လိုက်သည်။
 
 3565
 They go in the trash.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် အမှိုက်ပုံးထဲ စွန့်ပစ်လိုက်သည်။
 
 3566
 Could the interest be more than 20?
-<MYANMAR UNICODE TRANSLATION HERE>
+အတိုးက ၂၀ထက် ပိုများနိုင်သလား။
 
 3567
 Is the interest percent 20?
-<MYANMAR UNICODE TRANSLATION HERE>
+အတိုး ရာခိုင်နှုန်း ၂၀ ရှိပါသလား။
 
 3568
 There is no interest.
-<MYANMAR UNICODE TRANSLATION HERE>
+စိတ်ဝင်စားမှု / အတိုးနှုန်းထား မရှိဘူး။
+# REVIEW
 
 3569
 I was just a little bit scared.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် နည်းနည်းတော့ ကြောက်သွားတယ်။
 
 3570
 I was still scared.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ကြောက်နေတုန်းပဲ။
 
 3571
 It didn't scare me.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းက ငါ့ကို မကြောက်ဘူး။
 
 3572
 Robbers don't like dogs because they are loud and often bite them.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဓားပြတွေက ခွေးတွေကို မကြိုက်ပါဘူး ဘာလို့လည်းဆိုတော့ သူတို့က အသံကျယ်လောင် ပြီး သူတို့ကို မကြာခဏ ကိုက်လို့ပါ။
 
 3573
 Robbers don't like dogs.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဓားပြတွေက ခွေးတွေကို မကြိုက်ဘူး။
 
 3574
 Robbers know dogs will be quiet soon.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဓားပြတွေက မကြာခင် ခွေးတွေ ငြိမ်သွားမှာကို သိတယ်။
 
 3575
 I don't like funny shows.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟာသ ဖျော်ဖြေမှုတွေကို ကျွန်တော် မကြိုက်ဘူး။
 
 3576
 I like watching funny shows.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟာသ ဖျော်ဖြေမှုတွေကို ကြည့်ရတာ ကျွန်တော် ကြိုက်တယ်။
 
 3577
 I may have to watch this new comedy show.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ ဟာသ ဖျော်ဖြေမှု အသစ်ကို ကျွန်တော် ကြည့်ရဖို့ရှိတယ်။
 
 3578
 I also look at what is affordable to them.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့အတွက် ဘာတတ်နိုင်လဲ ဆိုတာကို ကျွန်တော် လည်းပဲ ကြည့်မိပါတယ်။
 
 3579
 I don't care about what they can afford.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ ဘာတတ်နိုင်လဲဆိုတာ ငါ ဂရုမစိုက်ဘူး။
 
 3580
 They can not usually afford too much.
-<MYANMAR UNICODE TRANSLATION HERE>
+များသောအားဖြင့်တော့ သူတို့ အများကြီး မတတ်နိုင်ကြပါဘူး။
 
 3581
 I am not quite sure but perhaps it is so.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ လုံးဝ မသေချာ ပေမယ့် ၎င်းက ဖြစ်နိုင်တယ်။
 
 3582
 I do not recall completely since I drank quite a bit of wine last night.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် မနေ့ ညက ဝိုင် နည်းနည်း သောက်ပြီး ကတည်းက ကျွန်တော် လုံးဝကို မမှတ်မိတော့ဘူး။
 
 3583
 My memory is crystal clear of what happened that night.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီ ညက ဘာတွေ ဖြစ်ပျက်ခဲ့လည်းဆိုတာ ကျွန်တော့်ရဲ့ မှတ်ဉာဏ်တွေက ကြည်လင် ပြတ်သားနေတယ်။
 
 3584
 Do you feel death may be a little to harsh of a punishment for theft?
-<MYANMAR UNICODE TRANSLATION HERE>
+သေဒဏ်သည် ခိုးမှု အတွက် အနည်းငယ် ပြင်းထန်သော ပြစ်ဒဏ် တစ်ခု ဖြစ်နေတယ်လို့  သင်ခံစားရပါသလား။
 
 3585
 You think that the right punishment for someone who steals a TV is death.
-<MYANMAR UNICODE TRANSLATION HERE>
+တီဗွီ တစ်လုံးကို ခိုးယူသူ တစ်စုံတစ်ယောက် အတွက် မှန်ကန်သော ပြစ်ဒဏ်သည် သေဒဏ် ဖြစ်သည်ဟု သင်ထင်ပါသလား။
 
 3586
 You think the best option for tv theft is too just let them go.
-<MYANMAR UNICODE TRANSLATION HERE>
+တီဗွီ ခိုးယူခြင်း အတွက် အကောင်းဆုံး ရွေးချယ်မှုမှာ ၎င်းတို့ကို လွှတ်လိုက်ရုံပင် ဖြစ်သည် ဟု သင် ထင်သည်။
 
 3587
 I really love the beach because of how clean and well kept it is.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းကို သန့်ရှင်း ပြီး ကောင်းမွန်စွာ ထိန်းသိမ်းထား သောကြောင့် အဆိုပါ ကမ်းခြေကို ကျွန်‌တော် လုံးဝ သဘောကျပါတယ်။
 
 3588
 One of my favorite places to visit is the beach since it is so pretty, what is your favorite place to visit?
-<MYANMAR UNICODE TRANSLATION HERE>
+လည်ပတ်ရန် ကျွန်တော်ရဲ့ သဘောကျသော နေရာအများကြီးထဲက တစ်ခုကတော့ ကမ်းခြေ ဖြစ်ပါတယ် ၎င်းက အရမ်း လှပ သောကြောင့်ပါ ၊ လည်ပတ်ရန် မင်း သဘောကျတဲ့ နေရာက ဘာလည်း?
 
 3589
 The best place to go in my opinion is to camp out in the woods.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့် အမြင်အရတော့ သွားရန် အကောင်းဆုံး နေရာကတော့ တောထဲမှာ စခန်းချဖို့ ဖြစ်ပါတယ်။
 
 3590
 Do not put any ads up.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကြော်ငြာတွေ မတင်ပါနဲ့။
 
 3591
 Put a soft drink ad up.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချိုရည် ကြော်ငြာ တစ်ခု ကို တင်ပါ။
 
 3592
 Put an ad for Coke in there.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထိုနေရာတွင် ကုခ် အတွက် ကြော်ငြာ တစ်ခု ထည့်ပါ။
 
 3593
 I hope you have a great morning! It was nice chatting with you online.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကောင်းသော နံနက်ခင်း တစ်ခု ဖြစ်မည်ဟု ကျွန်တော် မျှော်လင့်ပါသည်! အွန်လိုင်းမှာ သင်နဲ့ စကားပြောရတာ ကောင်းပါတယ်။
 
 3594
 I think I know why I'm not well but I do not want to tell you.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ဘာလို့ နေမကောင်းဘူးလဲဆိုတာ ငါ သိတယ်လို့ ငါ ထင်ပေမယ့် ငါ မင်းကို မပြောချင်ဘူး။
 
 3595
 I'm not certain but I'm kinda fine, it was nice to speak with you tonight.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ မသေချာ ပေမယ့် ငါ အတော်လေး အဆင်ပြေပါတယ် ၊ ဒီည မင်း နဲ့ စကားပြောရတာ ကောင်းပါတယ်။
 
 3596
 Do you think that a five day holding period would be worth the wait for some people?
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါးရက်ကြာ ကိုင်ဆောင်ထားတဲ့ ကာလအပိုင်းအခြားသည် လူတချို့အတွက် စောင့်ရတာ တန်လိမ့်မယ်လို့ သင် ထင်ပါသလား။
 
 3597
 What about having a five day hold on those looking to purchase firearms?
-<MYANMAR UNICODE TRANSLATION HERE>
+ခြောက်လုံးပြူးသေနတ် ဝယ်ရန် ရှာဖွေနေသူများကို ငါးရက်ကြာ ဘာကို ဆုပ်ကိုင်ထားရမလည်း။
 
 3598
 What about having them just wait five minutes outside before being handed a permit?
-<MYANMAR UNICODE TRANSLATION HERE>
+ခွင့်ပြုချက် တစ်ခု မအပ်ခင် အပြင်မှာ ငါးမိနစ်လောက် သူတို့ကို ဘာကို စောင့်ခိုင်းထားရမလည်။
 
 3599
 I much rather a lazy indoor dog than an active one that would want to be outdoors all day long.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါက တစ်နေ့လုံး အပြင်မှာ နေချင်တဲ့ တက်ကြွတဲ့ ခွေးတစ်ကောင်ထက် ပျင်းတဲ့ အိမ်တွင်း ခွေး တစ်ကောင်ကို ပိုကြိုက်တယ်။
 
 3600
 I really like all types of outdoor dogs since they are all good boys.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+အပြင် ခွေး အမျိုးအစား အားလုံးကို ကျွန်တော်က အရမ်းကြိုက်တယ် ဘာလို့လည်းဆို သူတို့အားလုံးက ကောင်းမွန်တဲ့ ကောင်လေးတွေမို့လို့ ပါ။
