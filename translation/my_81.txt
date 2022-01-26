@@ -1,400 +1,401 @@
 8001
 Wanda has three kids.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝမ်ဒါမှာ ကလေးသုံးယောက်ရှိတယ်။	
 
 8002
 Wanda is a mom.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝမ်ဒါက အမေ တစ်ယောက် ဖြစ်တယ်။
 
 8003
 The kids come to see our shows.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလေးတွေက ကျွန်တော်တို့ရဲ့ ရှိုးပွဲတွေကို လာကြည့်တယ်။
 
 8004
 The kids never come to see a performance.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလေးတွေက ဖျော်ဖြေပွဲတစ်ခုကို ကြည့်ဖို့ ဘယ်တော့မှ မလာဘူး။
 
 8005
 The kids see our shows before they put on a performance on their own.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလေးတွေက သူတို့ကိုယ်တိုင် မဖျော်ဖြေခင်မှာ ငါတို့ရဲ့ ရှိုးတွေကို ကြည့်တယ်။
 
 8006
 I would rather wait until December to tell stories.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဇာတ်လမ်းတွေပြောပြဖို့ ကျွန်တော် ဒီဇင်ဘာအထိ စောင့်စေချင်ပါတယ်။
 
 8007
 It's a good time for storytelling because it's cool outside.
-<MYANMAR UNICODE TRANSLATION HERE>
+အပြင်မှာ အေးနေလို့ ပုံပြင်ပြောဖို့ အချိန်ကောင်းပါပဲ။
 
 8008
 This is a great time to tell stories.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီအချိန်သည် ပုံပြင်များပြောရန် ကောင်းသောအချိန်ဖြစ်သည်။
 
 8009
 We don't need to recruit teachers, they just come to us.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ဆရာတွေ စုဆောင်းနေစရာ မလိုဘူး၊ သူတို့က ငါတို့ဆီ လာနေကြတာ။
 
 8010
 We need better teachers.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ပိုကောင်းတဲ့ ဆရာတွေလိုတယ်။
 
 8011
 We need to hire 100 new, good teachers.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆရာကောင်း အသစ် အယောက် ၁၀၀ ခန့် ခန့်အပ်ရန် လိုအပ်ပါသည်။
 
 8012
 The law school has been open for 100 years and has had 5,539 alumni.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဥပဒေကျောင်းကို ဖွင့်တာ နှစ် ၁၀၀ ရှိခဲ့ပြီး ကျောင်းသားဟောင်း ၅၅၃၉ ဦးရှိခဲ့သည်။
 
 8013
 The law school has only had 20 graduates.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဥပဒေကျောင်းတွင် ဘွဲ့ရ အယောက် ၂၀ သာရှိသည်။
 
 8014
 There are over 5,000 alumni from the law school.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဥပဒေကျောင်းက ကျောင်းသားဟောင်း ၅၀၀၀ ကျော်ရှိတယ်။
 
 8015
 Goldfish, snakes, and nothing else are on the rug's border.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရွှေငါး၊ မြွေများနှင့် အခြားအရာများသည် ကော်ဇော၏ဘော်ဒါတွင် ရှိသည်။
+#Review
 
 8016
 Laurel wreaths, olive branches, and acanthus leaves are on the rug's border.
-<MYANMAR UNICODE TRANSLATION HERE>
+လော်ရယ်ပန်းကုံးများ၊ သံလွင်ခက်များနှင့် အခန်းဒတ်စ်အရွက်များသည် ကော်ဇော၏ဘော်ဒါတွင်ရှိသည်။
+#Review
 
 8017
 The rug is beige.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကော်ဇောသည် အဝါနုရောင်ရှိသည်။
 
 8018
 I don't have a job or any hobby.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့မှာ အလုပ်ရော ဝါသနာရော မရှိဘူး။
 
 8019
 I have a job that takes up all of my time.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့မှာ ငါ့ရဲ့ အချိန်တွေအကုန်ယူရတဲ့ အလုပ်တစ်ခုရှိတယ်။
 
 8020
 I have a job.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့မှာ အလုပ်ရှိတယ်။
 
 8021
 We didn't send any letters out last year.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ မနှစ်က စာတွေ မပို့ဖြစ်ဘူး။
 
 8022
 We send letters out in November.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ နိုဝင်ဘာလမှာ စာတွေ ပို့တယ်။
 
 8023
 We send letters out in honor of Thanksgiving.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ကျေးဇူးတော်နေ့ကို ဂုဏ်ပြုတဲ့အနေနဲ့ စာတွေပို့တယ်။
 
 8024
 Our law school has had a great dean in the past.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့၏ ဥပဒေကျောင်းတွင် ယခင်က ဌာနမှူးကြီးတစ်ဦးရှိခဲ့သည်။
 
 8025
 Our law school's best dean was Mr Smith.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့ ဥပဒေကျောင်း၏ အကောင်းဆုံးဌာနမှူးမှာ မစ္စတာစမစ် ဖြစ်သည်။
 
 8026
 We've never had a good dean at our law school.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ ဥပဒေကျောင်းမှာ ဌာနမှူးကောင်း တစ်ယောက် ဘယ်တုန်းကမှ မရှိခဲ့ဘူး။
 
 8027
 Here's a card so you can send us a minimum of $1000.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းမှာ ကတ်တစ်ခု ဖြစ်သောကြောင့် မင်း အနည်းဆုံး ဒေါ်လာ၁၀၀၀ ငါတို့ဆီ‌ ပေးပို့နိုင်ပါသည်။
 
 8028
 I hope you will send us money.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း ငါတို့ကို ပိုက်ဆံပို့လိမ့်မယ်လို့ ငါမျှော်လင့်တယ်။
 
 8029
 Return this card to tell us what you'd like for dinner.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင် ညစာစားလိုသည်များကို ပြောပြရန် ဒီကတ်ကို ပြန်ပေးပါ။
 
 8030
 The Maennerchor Society gets donations.
-<MYANMAR UNICODE TRANSLATION HERE>
+မီရယ်နာခါအဖွဲ့အစည်းသည် အလှူငွေများ ရရှိသည်။
 
 8031
 The Maennerchor Society got $1m in donations last year.
-<MYANMAR UNICODE TRANSLATION HERE>
+မီရယ်နာခါအဖွဲ့အစည်းသည် ယမန်နှစ်က အလှူငွေ ဒေါ်လာ ၁ သန်း ရရှိခဲ့သည်။
 
 8032
 The Maennerchor Society is privately funded by Bill Gates.
-<MYANMAR UNICODE TRANSLATION HERE>
+မီရယ်နာခါအဖွဲ့အစည်းသည် ဘီလ်ဂိတ် မှ သီးသန့်ရန်ပုံငွေဖြစ်သည်။
 
 8033
 There are some good events coming up.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပွဲကောင်း တချို့ ပေါ်လာတော့မယ်။
 
 8034
 There are some great musicals coming to town next year.
-<MYANMAR UNICODE TRANSLATION HERE>
+လာမည့်နှစ်တွင် မြို့တွင်း၌ တေးဂီတကောင်းများ ပေါ်လာသည်။
 
 8035
 There's nothing exciting happening here.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီမှာ စိတ်လှုပ်ရှားစရာ ဘာမှ မရှိပါဘူး။
 
 8036
 62 percent has already been covered, and we hope you will provide the rest.
-<MYANMAR UNICODE TRANSLATION HERE>
+၆၂ရာခိုင်နှုန်းကို လွှမ်းခြုံထားပြီးဖြစ်ပြီး ကျန်တာတွေကိုလည်း ဖြည့်ဆည်းပေးမယ်လို့ မျှော်လင့်ပါတယ်။
 
 8037
 The remaining 38 percent represents 38 thousand dollars still needed for the project.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျန်တဲ့ ၃၈ ရာခိုင်နှုန်းက ပရောဂျက်အတွက် လိုအပ်တဲ့ ဒေါ်လာ ၃၈ဝဝဝ ကို ကိုယ်စားပြုတယ်။
 
 8038
 We will not need your assistance, since we got more funding than we needed.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့ လိုအပ်သည်ထက် ရန်ပုံငွေပိုရသောကြောင့် သင့်အကူအညီကို ကျွန်ုပ်တို့ မလိုအပ်ပါ။
 
 8039
 It costs $30 only if you join in the next two days.
-<MYANMAR UNICODE TRANSLATION HERE>
+လာမည့်နှစ်ရက်အတွင်း သင်ပါဝင်မယ်ဆိုလျှင် ဒေါ်လာ၃၀သာ ကျသင့်မည်ဖြစ်သည်။
 
 8040
 It costs $30 to be a member for the next two years.
-<MYANMAR UNICODE TRANSLATION HERE>
+လာမည့်နှစ်နှစ်အတွက်အဖွဲ့ဝင်ဖြစ်ရန် ဒေါ်လာ၃၀ ကုန်ကျမည်။
 
 8041
 It costs $800 to be a member for the next two years.
-<MYANMAR UNICODE TRANSLATION HERE>
+လာမည့်နှစ်နှစ်အတွက် အဖွဲ့ဝင်ဖြစ်ရန် ဒေါ်လာ ၈၀၀ ကုန်ကျမည်။
 
 8042
 Giving money to the campaign helps the museum a lot.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကမ်ပိန်းအတွက် ပိုက်ဆံပေးတာက ပြတိုက်ကို အများကြီး အထောက်အကူပြုပါတယ်။
 
 8043
 The museum can do great things with the $10,000 you gave.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင်ပေးသော ဒေါ်လာ၁၀၀၀၀ ဖြင့် ပြတိုက်သည် ကောင်းမွန်သောအရာများကို လုပ်ဆောင်နိုင်သည်။
 
 8044
 The museum can't do anything with the money the receive.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြတိုက်က လက်ခံရရှိတဲ့ငွေနဲ့ ဘာမှလုပ်လို့မရဘူး။
 
 8045
 We help cats and dogs.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ကြောင်တွေ ခွေးတွေကို ကူညီပေးတယ်။
 
 8046
 We teach kids how to be good voters.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလေးတွေကို မဲဆန္ဒရှင်ကောင်းဖြစ်အောင် ကျွန်တော်တို့ သင်ပေးတယ်။
 
 8047
 We work to help improve kids' lives.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့သည် ကလေးများ၏ဘဝတိုးတက်စေရန် ကူညီဆောင်ရွက်ပေးပါသည်။
 
 8048
 The rug has fifty colors, representing all the great states of this nation.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကော်ဇောသည် အရောင်ငါးဆယ်ရှိပြီး ၎င်းနိုင်ငံ၏ ပြည်နယ်ကြီးများအားလုံးကို ကိုယ်စားပြုသည်။
 
 8049
 This nation had thirteen colonies in the beginning, and more were added to the lot.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီနိုင်ငံသည် အစပိုင်းတွင် ကိုလိုနီနယ် ဆယ့်သုံးခုရှိခဲ့ပြီး နောက်ထပ်ကို ကွက်လပ်တွင် ထည့်သွင်းခဲ့သည်။
 
 8050
 This rug will be displayed in the state's museum for five months.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤကော်ဇောကို ပြည်နယ်ပြတိုက်တွင် ငါးလကြာ ပြသမည်ဖြစ်သည်။
 
 8051
 The Chancellor will receive help with meeting faculty needs.
-<MYANMAR UNICODE TRANSLATION HERE>
+တက္ကသိုလ်၏အကြီးအကဲသည် တက္ကသိုလ်မဟာဌာန၏ လိုအပ်ချက်များကို ဖြည့်ဆည်းပေးရန်အတွက် အကူအညီရရှိမည်ဖြစ်သည်။
 
 8052
 The group of donors will have a representative who will meet the Chancellor.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလှူရှင်အဖွဲ့တွင် တက္ကသိုလ်အကြီးအကဲနှင့်တွေ့ဆုံမည့် ကိုယ်စားလှယ်တစ်ဦးရှိသည်။
 
 8053
 The group of donors will help the Chancellor buy a new private jet for his family.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလှူရှင်အုပ်စုသည် တက္ကသိုလ်အကြီးအကဲအား ၎င်း၏မိသားစုအတွက် ကိုယ်ပိုင်ဂျက်လေယာဉ်အသစ်ဝယ်ရန် ကူညီပေးမည်ဖြစ်သည်။
 
 8054
 The group is full of Ivy League Scholars and philanthropists.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဖွဲ့သည် အိုင်ဗီလိဂ်ပညာတော်သင်များနှင့် ပရဟိတသမားများနှင့် ပြည့်နေသည်။
 
 8055
 The group is full of important people.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထိုအဖွဲ့တွင် အရေးပါသူများနှင့် ပြည့်နေသည်။
 
 8056
 The group is full of inmates and crooks.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထိုအဖွဲ့သည် အကျဉ်းသားများနှင့် လူလိမ်များနှင့် ပြည့်နေသည်။
 
 8057
 We are failing and everyone can see it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့ ကျရှုံးနေပြီး အဲဒါကို လူတိုင်းမြင်နိုင်သည်။
 
 8058
 We are succeeding when it comes to raising capital.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရင်းအနှီး စိုက်ထုတ်တဲ့အခါမှာလည်း ကျွန်တော်တို့ အောင်မြင်တယ်။
 
 8059
 We are succeeding.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ အောင်မြင်နေတယ်။
 
 8060
 .. advice about love
-<MYANMAR UNICODE TRANSLATION HERE>
+.. အချစ်နဲ့ပတ်သက်တဲ့ အကြံဉာဏ်
 
 8061
 .. advice from the heart and soul
-<MYANMAR UNICODE TRANSLATION HERE>
+.. နှလုံးသားနှင့် စိတ်ဝိညာဉ်မှ အကြံဉာဏ်
 
 8062
 .. guidance from atheists
-<MYANMAR UNICODE TRANSLATION HERE>
+.. ဘုရားမဲ့ဝါဒီများထံမှ လမ်းညွှန်ချက်
 
 8063
 Beginning a new fiscal year with a deficit is a disadvantage.
-<MYANMAR UNICODE TRANSLATION HERE>
+လိုငွေပြမှုဖြင့် ဘဏ္ဍာနှစ်သစ်စတင်ခြင်းသည် အားနည်းချက်တစ်ခုဖြစ်သည်။
 
 8064
 Business may not be possible if we begin a new fiscal year with a deficit.
-<MYANMAR UNICODE TRANSLATION HERE>
+လိုငွေပြမှုဖြင့် ဘဏ္ဍာနှစ်သစ်ကို စတင်ပါက လုပ်ငန်းမဖြစ်နိုင်ပါ။
 
 8065
 Starting a new fiscal year has no effect on business.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘဏ္ဍာနှစ်သစ်စတင်ခြင်းသည် လုပ်ငန်းအပေါ် သက်ရောက်မှုမရှိပါ။
 
 8066
 Only a few teenagers were still listening to Rock 'n' Roll.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆယ်ကျော်သက်အနည်းငယ်သာ ရော့အန်ရိုး ကို နားထောင်ဆဲဖြစ်သည်။
 
 8067
 Rock 'n' Roll was growing in popularity, with thousands of concerts selling out.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရော့အန်ရိုးသည် လူကြိုက်များလာခဲ့ပြီး ဖျော်ဖြေပွဲပေါင်း ထောင်နှင့်ချီ၍ ရောင်းချခဲ့ရသည်။
 
 8068
 Rock 'n' Roll was not as popular as it used to be.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရော့အန်ရိုးဟာ အရင်ကလောက် လူကြိုက်မများခဲ့ပါဘူး။
 
 8069
 Art is important in promoting empathy, compassion, and using one's imagination.
-<MYANMAR UNICODE TRANSLATION HERE>
+အနုပညာသည် စာနာမှု၊ ကရုဏာနှင့် တစ်စုံတစ်ယောက်၏ စိတ်ကူးစိတ်သန်းများ အသုံးပြုခြင်းကို မြှင့်တင်ရာတွင် အရေးကြီးပါသည်။
 
 8070
 Storytelling, poetry, song, and theatre are important in promoting empathy, compassion, and using one's imagination.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပုံပြင်ပြောခြင်း၊ ကဗျာ၊ သီချင်းနှင့် ပြဇာတ်များသည် စာနာမှု၊ ကရုဏာနှင့် တစ်စုံတစ်ယောက်၏ စိတ်ကူးစိတ်သန်းများ အသုံးပြုခြင်းတို့ကို မြှင့်တင်ရာတွင် အရေးကြီးပါသည်။
 
 8071
 Storytelling, poetry, song, and theatre are unimportant and are absolutely useless in promoting empathy, compassion, and the imagination.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပုံပြင်ပြောခြင်း၊ ကဗျာ၊ သီချင်းနှင့် ပြဇာတ်များသည် အရေးမကြီးဘဲ စာနာမှု၊ ကရုဏာနှင့် စိတ်ကူးစိတ်သန်းများကို မြှင့်တင်ရာတွင် လုံးဝ အသုံးမဝင်ပေ။
 
 8072
 All of the animals are recovered by their owners.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိရိစ္ဆာန်များအားလုံးကို ၎င်းတို့၏ပိုင်ရှင်များက ပြန်လည်ရရှိကြသည်။
 
 8073
 The Humane Society helps animals live a happy life.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူသားဆန်သောလူ့အဖွဲ့အစည်းသည် တိရစ္ဆာန်များကို ပျော်ရွှင်သောဘဝတွင်နေထိုင်ရန် ကူညီပေးသည်။
 
 8074
 The Humane Society is a non-profit organisation that cares for abandoned pets.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူသားဆန်သောလူ့အဖွဲ့အစည်းသည် စွန့်ပစ်ထားသော အိမ်မွေးတိရစ္ဆာန်များကို ပြုစုစောင့်ရှောက်သည့် အကျိုးအမြတ်မယူသော အဖွဲ့အစည်းတစ်ခုဖြစ်သည်။
 
 8075
 We discourage you from dreaming with us.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့နှင့်အတူ အိပ်မက်မက်ခြင်းမှ သင့်ကို အားမပေးပါဘူး။
 
 8076
 Will you help us build the best school in the nation?
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား တိုင်းပြည်ရဲ့ အကောင်းဆုံးကျောင်းကို ထူထောင်နိုင်အောင် ကျွန်ုပ်တို့ကို ကူညီပေးမှာလား။
 
 8077
 Will your dreams become part of ours?
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းအိပ်မက်တွေက ငါတို့ရဲ့အစိတ်အပိုင်းဖြစ်လာမှာလား။
 
 8078
 The Military Rate is $3 and free for those under the age of six.
-<MYANMAR UNICODE TRANSLATION HERE>
+စစ်မှုထမ်းနှုန်းသည် ၃ ဒေါ်လာဖြစ်ပြီး အသက်ခြောက်နှစ်အောက်သူများအတွက် အခမဲ့ဖြစ်သည်။
 
 8079
 The Military Rate used to be free as well but now they have to charge.
-<MYANMAR UNICODE TRANSLATION HERE>
+စစ်မှုထမ်းနှုန်းသည် ယခင်က အလကားဖြစ်ခဲ့သော်လည်း ယခုအခါတွင် ၎င်းတို့ကို အခကြေးငွေယူရမည်ဖြစ်သည်။
 
 8080
 Unfortunately at this time there is no rate for our military members.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကံမကောင်းစွာပဲ ယခုအချိန်တွင် ကျွန်ုပ်တို့ တပ်မတော်သားများအတွက် နှုန်းထားမရှိပါ။
 
 8081
 They believed that the organization would destroy the city.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီ့အဖွဲ့အစည်းသည် မြို့ကို ဖျက်ဆီးမည်ဟု သူတို့ ယုံကြည်ကြသည်။
 
 8082
 They believed that the organization would make life better for the city's elderly.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဖွဲ့အစည်းသည် မြို့၏သက်ကြီးရွယ်အိုများအတွက် ဘဝပိုမိုကောင်းမွန်စေမည်ဟု သူတို့ ယုံကြည်ကြသည်။
 
 8083
 They supported the organization because they knew it would benefit the city.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြို့အတွက် အကျိုးရှိမယ်ဆိုတာ သူတို့ သိတဲ့အတွက် အဲဒီ့အဖွဲ့အစည်းကို သူတို့ ပံ့ပိုးပေးတယ်။
 
 8084
 It's possible to send your gift via mail.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင့်လက်ဆောင်ကို စာတိုက်မှတစ်ဆင့် ပေးပို့နိုင်သည်။
 
 8085
 Sending your gift via mail would save the IRT $500.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင့်လက်ဆောင်ကို စာတိုက်မှတစ်ဆင့် ပေးပို့ခြင်းသည် အိုင်အာတီ ဒေါ်လာ ၅၀၀ ကို သက်သာစေမည်ဖြစ်သည်။
 
 8086
 You can only donate through a wire transfer.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား ကြေးနန်းဖြင့်သာ လှူဒါန်းနိုင်ပါသည်။
 
 8087
 Betty Groh Tower did not complete the Medical Record Administration Program
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘက်တီဂလို့တာဝါသည် ဆေးမှတ်တမ်း စီမံကွပ်ကဲမှု ပရိုဂရမ်ကို မပြီးမြောက်ခဲ့ပါ။
 
 8088
 Betty Groh Tower graduated forty years ago.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘက်တီဂလို့တာဝါသည် လွန်ခဲ့သော အနှစ်လေးဆယ်က ဘွဲ့ရခဲ့သည်။
 
 8089
 Betty Groh Tower is the only person to have completed the Medical Record Administration Program
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘက်တီဂလို့တာဝါသည် ဆေးမှတ်တမ်း စီမံကွပ်ကဲမှု ပရိုဂရမ်ကို ပြီးမြောက်အောင် လုပ်ဆောင်နိုင်သည့် တစ်ဦးတည်းသော ပုဂ္ဂိုလ်ဖြစ်သည်။
 
 8090
 Organizations just like yours are what help form fantastic connections each and every day.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားတို့ကဲ့သို့သော အဖွဲ့အစည်းများသည် နေ့စဉ်နှင့်အမျှ ကောင်းမွန်သော ဆက်သွယ်မှုများကို ဖန်တီးပေးသည်။
 
 8091
 The connections made were made in vain no thanks to you.
-<MYANMAR UNICODE TRANSLATION HERE>
+ချိတ်ဆက်မှုတွေက မင်းကို ကျေးဇူးမတင်ဘဲ အချည်းနှီးဖြစ်သွားတာ။
 
 8092
 Without your organization these awesome connections would have never been formed.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားရဲ့အဖွဲ့အစည်းသာမရှိရင် ဒီလိုကောင်းမွန်တဲ့ ချိတ်ဆက်မှုတွေ ဘယ်တော့မှ ဖြစ်ပေါ်လာမှာ မဟုတ်ဘူး။
 
 8093
 Donate today to the Library to become a Countryside Friend.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျေးလက်ဒေသမိတ်ဆွေ တစ်ယောက်ဖြစ်ဖို့ စာကြည့်တိုက်ကို ဒီနေ့ လှူဒါန်းလိုက်ပါ။
 
 8094
 The Library truly appreciates your donation and would love for you to become a Citywide Friend.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာကြည့်တိုက်သည် သင်၏လှူဒါန်းမှုကို အမှန်တကယ်တန်ဖိုးထားပြီး သင့်အား မြို့အနှံ့ သူငယ်ချင်း တစ်ယောက် ဖြစ်လာစေရန် လိုလားပါသည်။
 
 8095
 To be a Citywide Friend you just need to donate to the Library.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြို့အနှံ့ သူငယ်ချင်း တစ်ယောက် ဖြစ်ဖို့ ခင်ဗျား စာကြည့်တိုက်ကို လှူဖို့ပဲလိုတယ်။
 
 8096
 I expect you to be there on December 11th an hour before the event starts.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီဇင်ဘာ ၁၁ ရက်နေ့ ပွဲမစခင် တစ်နာရီအလိုမှာ မင်းကို အဲဒီ့မှာရှိဖို့ ငါမျှော်လင့်တယ်။
 
 8097
 I will anticipate seeing you on December 11th.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းနဲ့ ဒီဇင်ဘာ ၁၁ ရက်နေ့မှာ ပြန်ဆုံမယ်လို့ ငါ မျှော်မှန်းထားပါတယ်။
 
 8098
 I will be away so I will not see you on December 11th.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ အဝေးရောက်နေမှာမို့ ဒီဇင်ဘာ ၁၁ ရက်နေ့တွင် မင်းကို မတွေ့ရတော့ပါ။
 
 8099
 Bryan never worked for the university.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘရိုင်ယန်သည် တက္ကသိုလ်အတွက် တစ်ခါမျှ အလုပ်မလုပ်ဖူးပါ။
 
 8100
 Bryan wanted the top medical school in the country.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+ဘရိုင်ယန်သည် တိုင်းပြည်၏ ထိပ်တန်းဆေးကျောင်းကို လိုချင်သည်။
