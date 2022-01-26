@@ -1,400 +1,405 @@
 7101
 Abu Bara never completed a Visa application
-<MYANMAR UNICODE TRANSLATION HERE>
+အဘူ ဘာရာသည် ဗီဇာ လျှောက်လွှာ တစ်စောင်ကို ဘယ်တုန်းကမှ ပြီးမြောက်အောင်မလုပ်ခဲ့ဘူး
 
 7102
 Abu Bara was granted a visa in 2011.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဘူ ဘာရာသည် ၂၀၁၁ ခုနှစ်တွင် ဗီဇာ တစ်ခု ရရှိခဲ့သည်။
 
 7103
 All PAPD officers were ordered to wait on the ground until further notice.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပီအေပီဒီ အရာရှိများ အားလုံးကို နောက်ထပ် သတိပေးချက်မရသေးမီအထိ မြေပြင်ပေါ်တွင် စောင့်ဆိုင်း ရန် အမိန့်ထုတ်ခဲ့သည်။
 
 7104
 Each officer was carrying over twenty pound of equipment on them.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရာရှိ တစ်ဦးစီသည် သူတို့ပေါ်တွင် ပေါင် နှစ်ဆယ်ကျော် ကိရိယာတန်ဆာပလာကို သယ်ဆောင်လာသည်။
 
 7105
 The PAPD ESU team was involved in climbing the South Tower.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပီအေပီဒီ အီးအက်စ်ယူ အဖွဲ့သည် ဆောက် တာဝါကို တက်ရာတွင် ပါဝင်ခဲ့သည်။
 
 7106
 Nobody remained in the North Tower after the South Tower collapsed.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆောက် တာဝါ ပြိုကျ ပြီးနောက် နော့တ် တာဝါတွင် မည်သူမျှ မကျန်ရစ်ခဲ့ပေ။
 
 7107
 The South Tower collapsed 30 minutes before the officer talked to ESU units in the North Tower.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရာရှိက နော့တ် တာဝါရှိ အီးအက်စ်ယူ ဌာနများနှင့် စကားမပြောဆိုမီ မိနစ် ၃၀ တွင် ဆောက် တာဝါ ပြိုကျခဲ့သည်။
 
 7108
 The officer witnessed the collapse of the South Tower.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရာရှိက ဆောက် တာဝါ ပြိုကျတာကို မျက်မြင်တွေ့ခဲ့သည်။
 
 7109
 Generators could overheat and start a fire.
-<MYANMAR UNICODE TRANSLATION HERE>
+မီးစက်များသည် အပူလွန်ကဲ ပြီး မီး စတင်နိုင်သည်။
 
 7110
 Generators didnt pose any problems.
-<MYANMAR UNICODE TRANSLATION HERE>
+မီးစက်များသည် မည်သည့် ပြဿနာမျှ မဖြစ်ပါ။
 
 7111
 Generators were a safety risk.
-<MYANMAR UNICODE TRANSLATION HERE>
+မီးစက်များတွင် လုံခြုံစိတ်ချရတဲ့ အန္တရာယ် တစ်ခု ရှိသည်။
 
 7112
 Pickard couldn't remember anything they'd said.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပစ်ကတ် က သူတို့ပြောသမျှကို ဘာမှ မမှတ်မိတော့ပါ။
 
 7113
 Pickard remembered the briefing covered the facts of the crash.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပစ်ကတ် သည် လေယာဉ်ပျက်ကျမှု၏ အဖြစ်မှန်များကို ဖော်ပြထားသည့် ရှင်းလင်းချက်အား သတိရမိသည်။
 
 7114
 Pickard remembered what was said at the briefing.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပစ်ကတ် က သတင်းစာရှင်းလင်းပွဲမှာ ပြောခဲ့တာကို မှတ်မိတယ်။
 
 7115
 It was not unusual for terrorists to travel through Pakistan into Afghanistan.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပါကစ္စတန် မှဖြတ်၍ အာဖဂန်နစ္စတန်သို့ အကြမ်းဖက်သမားများ သွားလာခြင်းသည် အထူးအဆန်း မဟုတ်ပေ။
 
 7116
 Pakistan and Afghanistan are located very far apart from each other.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပါကစ္စတန် နှင့် အာဖဂန်နစ္စတန်တို့သည် တစ်ခုနှင့်တစ်ခု အလွန် ဝေးကွာ တည်ရှိကြသည်။
 
 7117
 Training provided in Afghanistan included hand to hand combat.
-<MYANMAR UNICODE TRANSLATION HERE>
+အာဖဂန်နစ္စတန်တွင် သင်ကြားပို့ချပေးသော လေ့ကျင့်မှုတွင် လက်ချင်းကိုင်တိုက်ရသော တိုက်ပွဲ ပါဝင်သည်။
 
 7118
 There might be a conference to address the terrorist threats.
-<MYANMAR UNICODE TRANSLATION HERE>
+အကြမ်းဖက် ခြိမ်းခြောက်မှုများကို ကိုင်တွယ်ဖြေရှင်းရန် ညီလာခံ တစ်ခု ရှိကောင်းရှိနိုင်သည်။
 
 7119
 There might be a threat conference.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခြိမ်းခြောက်မှု ညီလာခံ တစ်ခု ဖြစ်နိုင်သည်။
 
 7120
 There's no conference even being discussed.
-<MYANMAR UNICODE TRANSLATION HERE>
+ညီလာခံမှာ ဆွေးနွေးတာတောင် မရှိဘူး။
 
 7121
 The intercepts were handled perfectly.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကြားဖြတ်များကို စုံလင်စွာ ကိုင်တွယ်ခဲ့သည်။
 
 7122
 The intercepts were sent to the wrong person for analysis.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကြားဖြတ်များကို ခွဲခြမ်းစိတ်ဖြာရန် မှားယွင်းသော ပုဂ္ဂိုလ်ထံ ပေးပို့ခဲ့သည်။
 
 7123
 The intercepts weren't handled correctly.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကြားဖြတ်များကို မှန်ကန်စွာ မကိုင်တွယ်ခဲ့ပါ။
 
 7124
 They knew making the targets more difficult would lead to a higher rate of captures.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပစ်မှတ်များကို ပိုမို ခက်ခဲအောင် ပြုလုပ်ခြင်းသည် ပိုမိုမြင့်မားသော ဖမ်းယူမှု နှုန်း တစ်ခုသို ဦးတည်နေသည်ကို သူတို့ သိရှိကြသည်။
 
 7125
 They made the targets so easy they were captured within mere minutes.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပစ်မှတ်များကို မိနစ်ပိုင်း အတွင်း မျှသာ သူတို့က အလွယ်တကူ ဖမ်းယူနိုင်စေရန် ပြုလုပ်ခဲ့သည်။
 
 7126
 They make the targets themselves more challenging so in turn they are making captures happen more often.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က ပစ်မှတ်တွေကို သူတို့ကိုယ်သူတို့ ပိုပြီး စိန်ခေါ်ခြင်းတွေကို ပြုလုပ်စေဖို့ သူတို့သည် မကြာခဏ ပိုပြီး ဖြစ်ပွားမှုများအား ဖမ်းယူခြင်းတွေကို ပြုလုပ်နေတယ်။
 
 7127
 No Hozbollah operative is known to have ever flown to Iran.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟစ်ဇဘိုလာ စစ်ဆင်ရေးသည် အီရန်သို့ ပျံသန်းခဲ့ဖူးခြင်း မရှိဟု သိရှိရပါသည်။
 
 7128
 The hijackers had previously spent some time in Iran.
-<MYANMAR UNICODE TRANSLATION HERE>
+လေယာဉ်အပိုင်စီးသူများသည် ယခင်က အီရန်တွင် အချိန်အတော်ကြာ နေခဲ့ဖူးသည်။
 
 7129
 While in Iran the hijackers received special training.
-<MYANMAR UNICODE TRANSLATION HERE>
+အီရန်တွင်ရှိစဉ် လေယာဉ်အပိုင်စီးသူများက အထူး လေ့ကျင့်မှုကို ရရှိခဲ့သည်။
 
 7130
 The DCI refused to brief even the most senior administration officials on this mater.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီစီအိုင် သည် ဤကိစ္စနှင့်ပတ်သက်ပြီး အကြီးတန်း အုပ်ချုပ်ရေး အရာရှိ အများစုကိုပင် အကျဉ်းချုံးပြောရန် ငြင်းဆိုခဲ့သည်။
 
 7131
 The DCI seem to have briefed both Powell and Rumsfeld already.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီစီအိုင် သည် ပိုဝဲလ် နှင့် ရှက်ရှ်ဖက်ဒ် တို့ကို အတိုချုံးပြီးပြီဟု ထင်ရသည်။
 
 7132
 They were briefed on the current status of two carrier strike groups in the Mediterranean.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြေထဲပင်လယ်ရှိ လေကြောင်းလိုင်းနှစ်ခု၏ လက်ရှိအခြေအနေနှင့် ပတ်သက်၍ ၎င်းတို့အား အကျဉ်းချုံးဖော်ပြခဲ့သည်။
 
 7133
 The CIA was involved in some covert action requested by the White House.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအိုင်အေ သည် အိမ်ဖြူတော်မှ တောင်းဆိုထားသော လျှို့ဝှက် လုပ်ဆောင်မှု အချို့တွင် ပါဝင်ပတ်သက်ခဲ့သည်။
 
 7134
 The Counterterorist Center was involved in fifty two separate operations that year.
-<MYANMAR UNICODE TRANSLATION HERE>
+တန်ပြန်တိုက်ခိုက်ရေး စင်တာသည် ထိုနှစ်တွင် သီးခြား စစ်ဆင်ရေး ငါးဆယ်နှစ်ခုတွင် ပါဝင်ခဲ့သည်။
 
 7135
 The White House had no agencies available to handle covert operations.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိမ်ဖြူတော်တွင် လျှို့ဝှက် စစ်ဆင်ရေးများကို ကိုင်တွယ်ရန် အေဂျင်စီများ မရှိပေ။
 
 7136
 All three of his brothers had intended to travel to Chechnya.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ၏ ညီ သုံးယောက်စလုံး ချေချင်းညာသို့ ခရီးထွက်ရန် ရည်ရွယ်ထားကြသည်။
 
 7137
 He had seven sisters and no brothers in his family.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ့မိသားစုမှာ ညီအစ်မ ခုနစ်ယောက်ရှိပြီး ညီအစ်ကို မရှိဘူး။
 
 7138
 He had several brothers who had been in Chechnya.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ့မှာ ချေချင်းညာမှာ နေခဲ့ဖူးတဲ့ ညီအစ်ကိုတွေ အများကြီး ရှိတယ်။
 
 7139
 There is a detailed record kept of each computer-aided dispatch back 38 years.
-<MYANMAR UNICODE TRANSLATION HERE>
+၃၈ နှစ်ကြာ ကွန်ပြူတာအကူအညီပေးသည့် ပို့ဆောင်မှု တစ်ခုစီ၏ အသေးစိတ် မှတ်တမ်း တစ်ခုကို သိမ်းဆည်းထားသည်။
 
 7140
 There is a record kept of computer-aided dispatches.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်ပြူတာအကူအညီပေးသည့် ပေးပို့မှုများကို သိမ်းထားသည့် မှတ်တမ်း တစ်ခု ရှိသည်။
 
 7141
 There is no record help for the dispatches.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပို့ဆောင်မှုများ အတွက် မှတ်တမ်း အကူအညီ မရှိပါ။
 
 7142
 All passengers were affected by these events and regulations.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ ဖြစ်ရပ်များ နှင့် စည်းမျဉ်းများကြောင့် ခရီးသည်များ အားလုံး ထိခိုက်နစ်နာခဲ့ရသည်။
 
 7143
 Multiple passengers could be carried in these cases.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ ကိစ္စများတွင် ခရီးသည် အများအပြားကို သယ်ဆောင်နိုင်ခဲ့သည်။
 
 7144
 These regulations involved enhanced security screenings.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ စည်းမျဉ်းများတွင် လုံခြုံရေး စစ်ဆေးမှုများ တိုးမြှင့်လုပ်ဆောင်ခြင်းတို့ ပါဝင်သည်။
 
 7145
 Clarke never told National Security Advisor Rice that al Qaeda sleeper cells were probably in the United States.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလာ့ခ် သည် အယ်လ်ကိုင်ဒါ sleeper ဆဲလ်များသည် အမေရိကန်တွင် ဖြစ်နိုင်သည်ဟု အမျိုးသား လုံခြုံရေး အကြံပေး ရိုက်စ် အား တစ်ခါမှ မပြောခဲ့ဖူးပါ။
+# REVIEW
+# sleeper
 
 7146
 Clarke told National Security Advisor Rice four times that al Qaeda sleeper cells were probably in the United States.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလာ့ခ် သည် အယ်လ်ကိုင်ဒါ sleeper ဆဲလ်များသည် အမေရိကန်တွင် ဖြစ်နိုင်ကြောင်း အမျိုးသား လုံခြုံရေး အကြံပေး ရိုက်စ် အား လေးကြိမ်တိုင်တိုင် ပြောကြားခဲ့သည်။
+# REVIEW
+# sleeper
 
 7147
 Clarke told National Security Advisor Rice that al Qaeda sleeper cells were probably in the United States.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလာ့ခ် က အယ်လ်ကိုင်ဒါ sleeper ဆဲလ်တွေဟာ အမေရိကန်မှာ ဖြစ်နိုင်တယ်လို့ အမျိုးသား လုံခြုံရေး အကြံပေး ရိုက်စ် ကို ပြောခဲ့ပါတယ်။
+# REVIEW
+# sleeper
 
 7148
 Al Qaeda also received money from businesses.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်လ်ကိုင်ဒါသည် စီးပွားရေးလုပ်ငန်းများထံမှ ငွေများ လည်း ရရှိခဲ့သည်။
 
 7149
 Al Qaeda didn't receive any money from Saudis.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်လ်ကိုင်ဒါသည် ဆော်ဒီတို့ထံမှ မည်သည့် ငွေမျှ မရရှိခဲ့ပါ။
 
 7150
 In Saudi Arabia, al Qaeda received money from individuals and charities.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆော်ဒီအာရေဗျတွင် ၊ အယ်လ်ကိုင်ဒါသည် တစ်ဦးချင်း နှင့် ပရဟိတအဖွဲ့များထံမှ ငွေကြေးများ လက်ခံရရှိခဲ့သည်။
 
 7151
 We don't care about what is going on and have no desire to figure it out.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ ဘာတွေဖြစ်နေလဲဆိုတာကို ဂရုမစိုက်ဘူး ၊ ပြီးတော့ အဲဒါကို ဖော်ထုတ်ဖို့ ဆန္ဒမရှိဘူး။
 
 7152
 We're also trying to learn what happened yesterday.
-<MYANMAR UNICODE TRANSLATION HERE>
+မနေ့က ဖြစ်ခဲ့တာတွေကို လေ့လာဖို့လည်း ကျွန်တော်တို့ ကြိုးစားနေပါတယ်။
 
 7153
 We're trying to learn what is happening.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ဖြစ်ပျက်နေတာကို လေ့လာဖို့ ကြိုးစားနေပါတယ်။
 
 7154
 28 minutes after the fact the Southeast Air Defense Sector received notification.
-<MYANMAR UNICODE TRANSLATION HERE>
+၂၈ မိနစ်အကြာတွင် အရှေ့တောင် လေကြောင်း ကာကွယ်ရေး ကဏ္ဍမှ အကြောင်းကြားစာ လက်ခံရရှိခဲ့သည်။
 
 7155
 The Sector did not receive the notifications in time due to a delay in communications.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆက်သွယ်ရေးတွင် နှောင့်နှေးမှု တစ်ခုကြောင့် ကဏ္ဍသည် အချိန်မီ အကြောင်းကြားစာ မရရှိခဲ့ပါ။
 
 7156
 The Southeast Air Defense Sector received word of the event just 28 seconds after it took place.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရှေ့တောင် လေကြောင်း ကာကွယ်ရေး ကဏ္ဍက အခမ်းအနား ကျင်းပပြီး ၂၈ စက္ကန့်အကြာမှာပဲ နှုတ်ခွန်းဆက်စကား လက်ခံရရှိခဲ့ပါတယ်။
 
 7157
 The FBI doesn't give any thought to their employees.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်ဖ်ဘီအိုင် သည် ၎င်းတို့၏ ဝန်ထမ်းများအား မည်သည့် အတွေးအမြင်မျှ မပေးပေ။
 
 7158
 The FBI has to constantly test to see if their employees are secure.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်ဖ်ဘီအိုင် သည် ၎င်းတို့၏ ဝန်ထမ်းများအား လုံခြုံမှုရှိမရှိ စစ်ဆေးရန် အဆက်မပြတ် စမ်းသပ်နေရမည်ဖြစ်သည်။
 
 7159
 The FBI has to keep their employees secure.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်ဖ်ဘီအိုင် သည် ၎င်းတို့၏ ဝန်ထမ်းများကို လုံခြုံအောင်ထားရန် ရှိသည်။
 
 7160
 FBI investigators found 100 other extremists in Phoenix.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်ဖ်ဘီအိုင် စုံစမ်းစစ်ဆေးသူများသည် ဖီးနစ် တွင် အခြားသော အစွန်းရောက် အယောက် ၁၀၀ ကို တွေ့ရှိခဲ့သည်။
 
 7161
 FBI investigators said more terrorists were in the Phoenix area.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖီးနစ် နယ်မြေတွင် အကြမ်းဖက်သမားများ ပိုများလာသည်ဟု အက်ဖ်ဘီအိုင် စုံစမ်းစစ်ဆေးသူများက ပြောသည်။
 
 7162
 There was no proof of anyone else being involved in terrorism in Phoenix.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖီးနစ် တွင် အခြားမည်သူမျှ အကြမ်းဖက်မှုတွင် ပါဝင်ပတ်သက်ကြောင်း အထောက်အထား မရှိပေ။
 
 7163
 At the time of the accident he was not wearing a seat belt.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယာဉ်တိုက်မှုဖြစ်ချိန်တွင် သူသည် ထိုင်ခုံ ခါးပတ် တစ်ခုကို မပတ်ထားပေ။
 
 7164
 Mzoudi claimed that he went through with the wedding as planned.
-<MYANMAR UNICODE TRANSLATION HERE>
+မက်ဇူးဒီက သူ စီစဉ်ထားတဲ့အတိုင်း မင်္ဂလာပွဲ နှင့်အတူ ဖြတ်သန်းခဲ့တယ်လို့ အခိုင်အမာဆိုသည်။
 
 7165
 Mzoudi may have been involved in a car accident in Morocco.
-<MYANMAR UNICODE TRANSLATION HERE>
+မက်ဇူးဒီသည် မော်ရိုကိုတွင် ကား မတော်တဆမှု တစ်ခုတွင် ပါဝင်ပတ်သက်နေနိုင်သည်။
 
 7166
 Hellfire, carried on Predator, may be good to go soon.
-<MYANMAR UNICODE TRANSLATION HERE>
+သားရဲ ကို သယ်ဆောင်သွားသော ၊ ငရဲမီးတောက်မီးလျှံသည် ၊  မကြာမီ ငြိမ်းသွားနိုင်တယ်။
 
 7167
 The Hellfire warhead is ready now to be carried on Predator
-<MYANMAR UNICODE TRANSLATION HERE>
+ငရဲမီးတောက်မီးလျှံ ထိပ်ဖျားသည် ယခု သားရဲ ကိုသယ်ဆောင်ရန် အဆင်သင့်ဖြစ်နေပါပြီ
 
 7168
 The warhead Hellfire, is not ready to be on Predator
-<MYANMAR UNICODE TRANSLATION HERE>
+ငရဲမီးတောက်မီးလျှံ ထိပ်ဖျားသည် ၊ သားရဲ တွင် ပါဝင်ရန် အဆင်သင့် မဖြစ်သေးပါ
 
 7169
 Congressional leaders may or may not have been aware of this PDB.
-<MYANMAR UNICODE TRANSLATION HERE>
+လွှတ်တော် ခေါင်းဆောင်များသည် ဤ ပီဒီဘီ ကို သတိပြုမိခြင်း ရှိနိုင်သည် သို့မဟုတ် မရှိနိုင်။
 
 7170
 Congressional leaders received briefings at least once a week.
-<MYANMAR UNICODE TRANSLATION HERE>
+လွှတ်တော် ခေါင်းဆောင်များသည် တစ်ပတ်လျှင် အနည်းဆုံးတစ်ကြိမ် သတင်းစာရှင်းလင်းပွဲများ လက်ခံရရှိကြသည်။
 
 7171
 It is certain that everyone in congress had been informed of the PDBs.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်ဂရက်ရှိ လူတိုင်းကို ပီဒီဘီများထံ အသိပေးထားပြီးဖြစ်ကြောင်း သေချာပါသည်။
 
 7172
 There's no point in debating this topic.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ အကြောင်းအရာကို ငြင်းခုံရန် အကြောင်း မရှိပါ။
 
 7173
 We want to have a debate because we know these recommendations are important.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤ အကြံပြုချက်များသည် အရေးကြီးကြောင်း ကျွန်ုပ်တို့ သိသောကြောင့် အချေအတင်ဆွေးနွေးမှု တစ်ခုကို ကျွန်တော်တို့ ပြုလုပ်လိုပါသည်။
 
 7174
 We would like to debate the recommendations.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ အကြံပြုချက်များကို ဆွေးနွေးတင်ပြလိုပါသည်။
 
 7175
 Ashcroft said the briefings weren't worth his time.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်ရှ်ခရော့ဖ် က ရှင်းလင်းတင်ပြချက်များသည် သူ့အချိန်နှင့် မထိုက်တန်ကြောင်း ပြောကြားခဲ့သည်။
 
 7176
 Ashcroft wanted to listen to the briefings over and over again
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်ရှ်ခရော့ဖ် သည် ရှင်းလင်းတင်ပြချက်များကို ထပ်ခါထပ်ခါ နားထောင်ချင်ခဲ့သည်
 
 7177
 Ashcroft was interesting in the briefings.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်ရှ်ခရော့ဖ် သည် ရှင်းလင်းတင်ပြချက်များတွင် စိတ်ဝင်စားဖွယ်ကောင်းခဲ့သည်။
 
 7178
 All occupants on the upper floors immediately descended upon impact.
-<MYANMAR UNICODE TRANSLATION HERE>
+အပေါ်ထပ်ရှိ တည်းခိုသူ အားလုံး ထိခိုက်မှု ကြောင့် ချက်ချင်း ဆင်းလာခဲ့သည်။
 
 7179
 Some workers on the upper floors chose not to descend right after impact.
-<MYANMAR UNICODE TRANSLATION HERE>
+အပေါ်ထပ်ရှိ အလုပ်သမား အချို့သည် ထိခိုက်မှုဖြစ် ပြီးနောက် မဆင်းရန် ရွေးချယ်ခဲ့ကြသည်။
 
 7180
 Some workers thought that the situation wouldn't escalate.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့သော အလုပ်သမားများက အခြေအနေ တိုးမလာဟု ထင်ကြသည်။
 
 7181
 Mihdhar knew the students were waiting from him to leave.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျောင်းသားများသည် သူ့ထံမှ ထွက်ခွာရန် စောင့်ဆိုင်းနေကြသည်ကို မေ့ဒ်ဟာ သိသည်။
 
 7182
 The pupils went into the home after Mihdhar was gone.
-<MYANMAR UNICODE TRANSLATION HERE>
+မေ့ဒ်ဟာ ထွက်သွား ပြီးနောက် တပည့်များသည် အိမ်ထဲသို့ ဝင်ခဲ့ကြသည်။
 
 7183
 The students protested outside of the house that Mihdhar resided in.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျောင်းသားများသည် မေ့ဒ်ဟာ နေထိုင်သည့် အိမ်အပြင်ဘက်တွင် ဆန္ဒပြခဲ့ကြသည်။
 
 7184
 Hage was interrogated by FBI agents for three hours.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟေ့ချ် ကို အက်ဖ်ဘီအိုင် အေးဂျင့်များက သုံးနာရီကြာ စစ်ဆေးမေးမြန်းခဲ့သည်။
 
 7185
 Hage was interrogated by FBI agents.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟေ့ချ် ကို အက်ဖ်ဘီအိုင် အေးဂျင့်များက စစ်ဆေးမေးမြန်းခဲ့သည်။
 
 7186
 Hage was never interrogated by FBI agents.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟေ့ချ် ကို အက်ဖ်ဘီအိုင် အေးဂျင့်များက စစ်ဆေးမေးမြန်းခြင်း မပြုခဲ့ပါ။
 
 7187
 Shakur didn't go by any other names, because he wasn't very famous.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှက်ကူရာ သည် အလွန် နာမည်ကြီးသူ မဟုတ်သောကြောင့် ၊ အခြား မည်သည့် နာမည်ကိုမျှ မသုံးခဲ့ပါ။
 
 7188
 Shakur had an alias that went unnoticed for years.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှက်ကူရာ တွင် နှစ်ပေါင်းများစွာ သူတို့ သတိမပြုမိခဲ့သော နံမည်တု တစ်ခု ရှိသည်။
 
 7189
 Shakur had an alias.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှက်ကူရာ တွင် နံမည်တု တစ်ခု ရှိသည်။
 
 7190
 Each company consisted of twenty three fire fighters.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကုမ္ပဏီ တစ်ခုစီတွင် မီးသတ်တပ်ဖွဲ့ဝင် နှစ်ဆယ့်သုံးဦး ပါ၀င်သည်။
 
 7191
 No interviews were recorded concerning the actions of the fire department.
-<MYANMAR UNICODE TRANSLATION HERE>
+မီးသတ် တပ်ဖွဲ့၏ ဆောင်ရွက်မှုနှင့် ပတ်သက်၍ တွေ့ဆုံမေးမြန်းမှုများကို မှတ်တမ်းတင်ထားခြင်း မရှိပါ။
 
 7192
 There were several companies of FDNY present at the time.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထိုအချိန်တွင် အက်ဖ်ဒီအန်ဝိုင် ပါရှိသော ၏ ကုမ္ပဏီ အများအပြား ရှိသည်။
 
 7193
 Bin Ladin didn't know that moussaoui had been detained.
-<MYANMAR UNICODE TRANSLATION HERE>
+မွတ်ဆားရီ အဖမ်းခံရကြောင်း ဘင်လာဒင် မသိခဲ့ဘူး။
 
 7194
 Bin Ladin didn't know the FBI had held Moussaoui.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘင်လာဒင်သည် အက်ဖ်ဘီအိုင် မှ မွတ်ဆားရီ ကို ချုပ်နှောင်ထားသည်ကို မသိပါ။
 
 7195
 Bin Ladin wasn't worried about Moussaoui being held for questioning.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘင်လာဒင်က မွတ်ဆားရီ ကို စစ်ဆေးမေးမြန်းဖို့ ချုပ်နှောင်ခံရတာကို စိတ်မပူပါဘူး။
 
 7196
 Al Qaeda was a relatively flat organization that was still able to function with minimal leadership.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်လ်ကိုင်ဒါ သည် အနည်းဆုံးဖြစ်သော ခေါင်းဆောင်မှုဖြင့် လုပ်ဆောင်ရန် တတ်နိုင်သည့် အတော်လေး ပြန့်ကားသော အဖွဲ့အစည်း တစ်ခု ဖြစ်သည်။
 
 7197
 By 2004 the US had still not killed or captured a single al Qaeda leader.
-<MYANMAR UNICODE TRANSLATION HERE>
+၂၀၀၄ တွင် ယူအက်စ် သည် အယ်လ်ကိုင်ဒါ ခေါင်းဆောင် တစ်ဦးကိုမျှ သတ်ဖြတ်ခြင်း သို့မဟုတ် ဖမ်းဆီးခြင်း မပြုသေးပါ။
 
 7198
 Most al Qaeda leadership had been eliminated by 2004.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်လ်ကိုင်ဒါ ခေါင်းဆောင်မှု အများစုကို ၂၀၀၄ ခုနှစ်တွင် ဖယ်ရှားခဲ့သည်။
 
 7199
 Sometimes people can escape asset freezes if they pay someone alot of money for help.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က တစ်စုံတစ်ဦးကို အကူအညီတောင်းလျှင် ငွေကြေးများစွာ ပေးဆောင်ပါလျှင် ပိုင်ဆိုင်မှုကို ထိန်းချုပ်ခြင်းမှ လွတ်မြောက်နိုင်သည်။
 
 7200
 Sometimes people get away with avoiding worldwide asset freezes.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+တစ်ခါတစ်ရံတွင် လူတို့သည် ကမ္ဘာတစ်ဝှမ်းရှိ ပိုင်ဆိုင်မှုကို ထိန်းချုပ်ခြင်းမှ ရှောင်ကြဉ်ခြင်းဖြင့် ရုန်းထွက်နိုင်ကြသည်။
