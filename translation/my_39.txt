@@ -1,400 +1,402 @@
 3801
 We might not have enough next year.
-<MYANMAR UNICODE TRANSLATION HERE>
+လာမယ့်နှစ်မှာ ကျွန်တော်တို့ လုံလောက်မှု မရှိနိုင်ဘူး။
 
 3802
 We will be over $20,000 short next year.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့သည် လာမည့် နှစ်တိုအတွင်း  ဒေါ်လာ ၂၀,၀၀၀ ကျော် ရရှိလိမ့်မည်။
 
 3803
 It was for Father's Day and Ellen always took care of it.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါက အဖေများနေ့ အတွက် ဖြစ် ပြီး အယ်လင်က ၎င်းကို အမြဲ ဂရုစိုက်တယ်။
 
 3804
 Some friends celebrated Mother's Day.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူငယ်ချင်း အချို့က အမေများနေ့ကို ကျင်းပကြသည်။
 
 3805
 Some friends took turns hosting Mother's Day brunch.
-<MYANMAR UNICODE TRANSLATION HERE>
+အချို့သော သူငယ်ချင်းများက အမေများနေ့ နေ့လည်စာကို အလှည့်ကျ ဧည့်ခံကြသည်။
 
 3806
 Buses are all powered by propane.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘတ်စ်ကားများ အားလုံး ကို ပရိုပိန်း ဖြင့် မောင်းနှင်ပါသည်။
 
 3807
 Buses run on diesel fuel.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘတ်စ်ကားများသည် ဒီဇယ် လောင်စာ ဖြင့် ပြေးဆွဲသည်။
 
 3808
 Buses that run on diesel fuel are the biggest environmental issue we see.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီဇယ် လောင်စာ နဲ့ ပြေးဆွဲတဲ့ ဘတ်စ်ကားတွေက ကျနော်တို့ မြင်နေရတဲ့ အကြီးမားဆုံး သဘာဝပတ်ဝန်းကျင် ပြဿနာ ဖြစ်ပါတယ်။
 
 3809
 Hawaii is my favorite place to go for vacation.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟာဝိုင်အီသည် အပန်းဖြေခရီး သွား ရန် ကျွန်တော်၏ အကြိုက်ဆုံး နေရာ ဖြစ်ပါတယ်။
 
 3810
 It's a lovely place to visit.
-<MYANMAR UNICODE TRANSLATION HERE>
+လည်ပတ်ရန် ကောင်းတဲ့ နေရာ တစ်ခု ဖြစ်ပါတယ်။
 
 3811
 It's such a dump and I hate going there!
-<MYANMAR UNICODE TRANSLATION HERE>
+ယင်းကဲ့သို့ အမှိုက်ပုံ တစ်ခု ဖြစ်ခဲ့ပြီး အဲ့နေရာကို သွားရတာ ကျွန်တော် မုန်းတယ်!
 
 3812
 I will never watch a movie more than once.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ရုပ်ရှင် တစ်ကားကို ဘယ်တော့မှ တစ်ကြိမ်ထက် ပို မကြည့်ဘူး။
 
 3813
 Sometimes I find a movie that I want to watch every single night for a month.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်ခါတလေမှာ တစ်လ ကြာအောင် ညတိုင်း ကျွန်တော် ကြည့်ချင်တဲ့ ရုပ်ရှင် တစ်ကား ကျွန်တော် ရှာတွေ့တယ်။
 
 3814
 Sometimes I like a movie so much I can watch it over and over again.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်ခါတလေ ရုပ်ရှင် တစ်ကားကို ကျွန်တော် အရမ်းကြိုက်လွန်းလို့ ကျွန်တော် ၎င်းကို ထပ်ခါထပ်ခါ ကြည့်နိုင်တယ်။
 
 3815
 By all accounts, he hates it.
-<MYANMAR UNICODE TRANSLATION HERE>
+အားလုံးသော ယူဆချက်တွေ အားဖြင့် ၊ သူက ထိုအရာကို မုန်းတယ်။
 
 3816
 He likes it, from what I can tell.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ပြောနိုင်တဲ့ အရာတွေထဲ ၊ ထိုအရာကို သူက နှစ်သက်တယ်။
 
 3817
 He seems to really like going to the gym.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျင် သွားရတာ သူက အရမ်းကြိုက်ပုံရတယ်။
 
 3818
 She feels like she can spend as much as she wants.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမ လိုချင်သလောက် သူမ သုံးစွဲနိုင်သလို သူမ ခံစားရတယ်။
 
 3819
 She feels like she can spend more than $1000 a night.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် တစ်ညလျှင် ဒေါ်လာ ၁၀၀၀ ကျော် သုံးနိုင်သည်ဟု သူမက ခံစားရသည်။
 
 3820
 She scrimps every penny she's got.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမ ရထားတဲ့ ပိုက်ဆံတိုင်းကို သူမက ဖြုန်းတီးတယ်။
 
 3821
 Do you know what script they're going to give us to read?
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ကို ဖတ်ဖို့ သူတို့ ဘာဇာတ်ညွှန်း ပေးမယ်ဆိုတာကို မင်းသိလား။
 
 3822
 I know we don't have a clue what we'll say.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ဘာပြောမယ်ဆိုတာ သဲလွန်စ တစ်ခု ကျွန်တော်တို့မှာ မရှိဘူးဆိုတာ ကျွန်တော် သိတယ်။
 
 3823
 What are we doing to say?
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ ဘာပြောစရာရှိလို့လဲ။
 
 3824
 Everyone takes care of their own family, no matter what.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတိုင်းက ဘာဖြစ်နေနေ၊ သူတို့ရဲ့ ကိုယ်ပိုင် မိသားစုကို ဂရုစိုက်တယ်။
 
 3825
 Some people can't care for elderly relatives because their homes have lots of stairs.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့၏ အိမ်များတွင် လှေကား များစွာ ရှိ သောကြောင့် အချို့ လူများသည် သက်ကြီးရွယ်အို ဆွေမျိုးများကို ဂရုမစိုက်နိုင်ပါ။
 
 3826
 Some people can't care for other people.
-<MYANMAR UNICODE TRANSLATION HERE>
+တချို့ လူတွေက တခြား လူတွေကို ဂရုမစိုက်နိုင်ဘူး။
 
 3827
 Everyone knows he's done for good.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ ကောင်းတာလုပ်ခဲ့တာကို လူတိုင်းက သိပါတယ်။
 
 3828
 Some people think he'll be a star again.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်ချို့ လူတွေက သူသည် စတား တစ်ယောက် ဖြစ်လာမယ်လို့ ထင်ကြတယ်။
 
 3829
 Some people think he's going to rebound and have a wonderful season next year.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်ချို့ လူတွေက သူ ပြန်ကောင်းလာ ပြီး လာမယ့်နှစ်မှာ ကောင်းမွန်တဲ့ ရာသီ တစ်ခုကို ပိုင်ဆိုင်နိုင်မယ်လို့ ထင်နေကြတယ်။
 
 3830
 I started taking the Pill when the Sex Revolution started in the 1970s.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၉၇၀ ခုနှစ်တွေမှာ လိင် တော်လှန်ရေး စတင်တုန်းက ဆေးပြားတွေ စတင်သောက်ခဲ့တယ်။
 
 3831
 The Pill was part of the Sex Revolution.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆေးပြားသည် လိင် တော်လှန်ရေး၏ တစ်စိတ်တစ်ပိုင်း ဖြစ်သည်။
 
 3832
 The Sex Revolution hasnt happened yet.
-<MYANMAR UNICODE TRANSLATION HERE>
+လိင် တော်လှန်ရေးကတော့ မဖြစ်သေးပါဘူး။
 
 3833
 Goodbye!
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂွတ်ဘိုင်!
 
 3834
 It was great talking to you and I'll talk to you tomorrow.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းနဲ့ စကားပြောရတာ အရမ်းကောင်းတယ် မနက်ဖြန် ငါ မင်းကို စကားပြောမယ်။
 
 3835
 Let's keep talking.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆက် ပြောရအောင်။
 
 3836
 I have no idea what they take into consideration.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ ဘယ်အရာကို ထည့်သွင်းစဉ်းစားရမည်ကို ကျွန်တော် မသိဘူး။
 
 3837
 I think it depends on how long you've been a member.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက မင်း အသင်းဝင် တစ်ယောက် ဖြစ်တာ ဘယ်လောက်ကြာပြီလဲ အပေါ်မှာ မူတည်တယ်လို့ ငါ ထင်တယ်။
 
 3838
 I think your rates depend on your length of membership.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းရဲ့ နှုန်းထားတွေက မင်းရဲ့ အသင်းဝင် သက်တမ်းပေါ် မူတည်မယ်လို့ ငါထင်တယ်။
 
 3839
 I don't do complicated recipes.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှုပ်ထွေးတဲ့ ဟင်းချက်နည်းတွေကို ငါ မလုပ်ဘူး။
 
 3840
 I don't make anything that takes me more than 15 minutes to cook.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့် အတွက် ချက်ပြုတ်ဖို့ ၁၅မိနစ်ထက်ပိုပြီး ကြာတဲ့ ဘယ်အရာကိုမှ ကျွန်တော် မပြုလုပ်ပါဘူး။
 
 3841
 I like really complex recipes that take hours to make.
-<MYANMAR UNICODE TRANSLATION HERE>
+ချက်ပြုတ်ရန် နာရီများကို အချိန်ယူရတဲ့ ရှုပ်ထွေးတဲ့ ချက်ပြုတ်နည်းတွေကို ငါ တကယ် ကြိုက်တယ်။
 
 3842
 The lasagna is the worst thing I've tried!
-<MYANMAR UNICODE TRANSLATION HERE>
+လာဆာဂါသည် ငါ ကြိုးစားဖူးသော အဆိုးဆုံး အရာ ဖြစ်တယ်!
 
 3843
 Their lasagna is excellent.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ရဲ့ လာဆာဂါ က အရမ်းကောင်းပါတယ်။
 
 3844
 Their lasagna is great because of the spicy sausage they use.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ သုံးတဲ့ ချဉ်စပ် ဝက်အူချောင်းကြောင့် သူတို့ရဲ့ လာဆာဂါ က အရမ်းကောင်းပါတယ်။
 
 3845
 I don't have a lot of money right now.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခု ငါ့မှာ ပိုက်ဆံ အများကြီး မရှိဘူး။
 
 3846
 I have a ton of money right now so I want to go shopping.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့မှာ အခု ပိုက်ဆံ အများကြီးရှိလို့ ငါ ဈေးဝယ် ထွက်ချင်တယ်။
 
 3847
 I only have $20 until payday.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်မှာ လစာထုတ်ရက် အထိ $၂၀ပဲ ရှိတယ်။
 
 3848
 I know you'll need twently.
-<MYANMAR UNICODE TRANSLATION HERE>
+# REVIEW
+# twently
 
 3849
 I think you just need one copy of the book.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း ဒီ စာအုပ်ရဲ့ မိတ္ထူ တစ်စုံ သာ လိုမယ်လို့ ငါ ထင်တယ်။
 
 3850
 I'm pretty sure you'll only need one.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း တစ်ခုပဲ လိုမယ်ဆိုတာ ငါ သေချာလုနီးနီးပဲ။
 
 3851
 My boyfriend is deaf so he can't listen to music.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့ရည်းစားက နားမကြားတဲ့အတွက် သူ သီချင်းကို နားမထောင်နိုင်ဘူး။
 
 3852
 My boyfriend listens to country music in the car.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့ရည်းစားက ကားထဲမှာ ကန်းထရီး သီချင်းတွေ နားထောင်တယ်။
 
 3853
 My boyfriend listens to music.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့ရည်းစားက သီချင်းနားထောင်တယ်။
 
 3854
 The group is interested in a lot of different topics.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီအဖွဲ့သည် မတူညီသော အကြောင်းအရာ များစွာကို စိတ်ဝင်စားသည်။
 
 3855
 The group is interested in environmental issues.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီအဖွဲ့ဟာ သဘာဝပတ်ဝန်းကျင်ဆိုင်ရာ ကိစ္စရပ်တွေကို စိတ်ဝင်စားတယ်။
 
 3856
 The group is interested in the matter.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီအဖွဲ့က ဒီကိစ္စကို စိတ်ဝင်စားတယ်။
 
 3857
 I am so happy we had this conversation today!
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ​နေ့ ကျွန်တော်တို့မှာ ဒီ စကားဝိုင်း ရှိခဲ့တာ ကျွန်တော် အရမ်း​ပျော်​တယ်​!
 
 3858
 I dont want to talk to you eve again.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ မင်းနဲ့ ထပ်ပြီး စကား အကြို မပြောချင်တော့ဘူး။
 
 3859
 I liked talking to you.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ မင်းနဲ့ စကားပြောရတာ ကြိုက်တယ်။
 
 3860
 It's ok for a parent to give lots of gifts.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိဘ အတွက် လက်ဆောင်တွေ အများကြီး ပေးရင် အဆင်ပြေပါတယ်။
 
 3861
 It's ok for parents to support their kids until they are able to do it on their own.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိဘများက သူတို့၏ ကလေးများကို သူတို့ဘာသာသူတို့ မတတ်နိုင်သည့်တိုင်အောင် ပံ့ပိုးပေးလို့ အဆင်ပြေပါတယ်။
 
 3862
 Parents should just keep everything they have and not share it.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိဘများသည် သူတို့မှာ ရှိသမျှ အရာရာကို မျှဝေမသုံးစွဲဘဲ သိမ်းဆည်းထားသင့်သည်။
 
 3863
 Give it to everyone, regardless of what they will do with it.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က ၎င်းကို ဘာပဲလုပ်လုပ် ၊ အဲဒါကို လူတိုင်းကို ပေးလိုက်ပါ။
 
 3864
 Spend it on the options that might work.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းကို အလုပ်ဖြစ်နိုင်သော ရွေးချယ်မှုများပေါ်တွင် သုံးစွဲပါ။
 
 3865
 Spend the education funding on kids that can go to college.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကောလိပ်တက်နိုင်တဲ့ ကလေးတွေအတွက် ပညာရေး ရန်ပုံငွေကို သုံးစွဲပါ။
 
 3866
 It's not as loud in the suburbs as it is in the city.
-<MYANMAR UNICODE TRANSLATION HERE>
+မြို့ထဲမှာ ဒါတွေ ရှိသလောက် မြို့ဆင်ခြေဖုံးမှာ တောက်တောက်ပပအဖြစ် မရှိဘူး။
 
 3867
 It's quieter there.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီမှာ ပိုငြိမ်တယ်။
 
 3868
 It's so loud that we just won't have the chance to talk.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျယ်လောင်လွန်းလို့ ကျွန်တော်တို့ စကားပြောဖို့ အခွင့်မသာဘူး။
 
 3869
 I will likely go to the museum to see the new exhibit.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြပွဲ အသစ်ကို ကြည့်ဖို့ ပြတိုက်ကို ကျွန်တော် သွားဖို့ရှိတယ်။
 
 3870
 I will likely visit.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် လည်ပတ်ဖို့ရှိတယ်။
 
 3871
 There is no way I'm going!
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါသွားစရာ လမ်းမရှိဘူး!
 
 3872
 I have never been to Texas before.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် အရင်က တက္ကဆက်ကို မရောက်ဖူးဘူး။
 
 3873
 I lived in Texas in the 1980's.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ၁၉၈၀ ပြည့်လွန်နှစ်များတွင် တက္ကဆက် တွင် နေထိုင်ခဲ့သည်။
 
 3874
 I used to be in Texas.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် တက္ကဆက်မှာ နေခဲ့ဖူးတယ်။
 
 3875
 A lot of things can go wrong if you don't keep working at it.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်း ဒါကို ဆက်မလုပ်နိုင်ဘူးဆိုလျှင် အများကြီး မှားသွားနိုင်တယ်။
 
 3876
 There's no point in trying, so I just don't bother.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကြိုးစားနေစရာ အကြောင်း မရှိဘူး ၊ ဒါကြောင့် ငါစိတ်မ၀င်စားဘူး။
 
 3877
 Your health can suffer if you don't keep working to stay active and healthy.
-<MYANMAR UNICODE TRANSLATION HERE>
+တက်ကြွ ပြီး ကျန်းကျန်းမာမာ နေထိုင် ဖို့ မင်း အလုပ်ဆက်မလုပ်လျှင် မင်းရဲ့ ကျန်းမာရေးကို ထိခိုက်စေနိုင်ပါတယ်။
 
 3878
 It's not worth anything because it's junk.
-<MYANMAR UNICODE TRANSLATION HERE>
+အညစ်အကြေးတွေကြောင့် ဘာမှ တန်ဖိုးမရှိပါဘူး။
 
 3879
 You can get paid a lot for that.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါ အတွက် မင်း အများကြီး ပေးချေနိုင်ပါတယ်။
 
 3880
 You can get paid a ton of money if you have the best fabrics.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းမှာ အကောင်းဆုံး အထည်များ ရှိပါလျှင် မင်း ငွေ အများကြီး ပေးချေနိုင်သည်။
 
 3881
 I think they control most of the market.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က စျေးကွက် အများစုကို ထိန်းချုပ်ထားတယ်လို့ ကျွန်တော် ထင်ပါတယ်။
 
 3882
 I think they have most of the market for laundry hampers.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့မှာ အဝတ်လျှော် ခြင်း အတွက် စျေးကွက် အများစု ရှိနေတယ်လို့ ကျွန်တော် ထင်ပါတယ်။
 
 3883
 They are just breaking into the market right now.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က အခုပဲ စျေးကွက်ထဲကို ထိုးဖောက်ဝင်ရောက်နေပါပြီ။
 
 3884
 I was growing up in Texas in the 90's.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်သည် ၉၀နှစ်များ အတွင်း တက္ကဆက်တွင် ကြီးပြင်းခဲ့သည်။
 
 3885
 I was growing up.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ကြီးပြင်းလာတယ်။
 
 3886
 It was once I was an old person.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်ချိန်က ကျွန်တော်ဟာ လူဟောင်း တစ်ယောက် ဖြစ်ခဲ့ပါတယ်။
 
 3887
 People in Amarillo are really used to snow.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမ်မာရေးလို ရှိလူများသည် နှင်းတွေကို တကယ်ကို အသုံးပြုကျသည်။
 
 3888
 People in Amarillo go nuts when there's snow on the ground.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမ်မာရေးလို မှလူများသည် မြေပြင်ပေါ်တွင် နှင်းများကျနေချိန်တွင် မှုန်ကုပ်ကုပ် ဖြစ်နေသည်။
 
 3889
 People in Amarillo refuse to leave their houses when there is snow.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမ်မာရေးလို တွင် လူများသည် နှင်းများကျ သောအခါ သူတို့၏ အိမ်မှ ထွက်ခွာရန် ငြင်းဆန်ကြသည်။
 
 3890
 Childcare costs $2000 more off base.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခြေခံ ကလေးထိန်း စရိတ်က ဒေါ်လာ ၂၀၀၀ ထက်တောင်ပိုများတယ်။
 
 3891
 Childcare is cheaper on base.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခြေခံ ကလေးထိန်းခက ပိုသက်သာတယ်။
 
 3892
 Childcare is free off base.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခြေခံ ကလေးထိန်းခက အခမဲ့ပါ။
 
 3893
 It happens every day!
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက နေ့တိုင်း ဖြစ်ပျက်တယ်!
 
 3894
 It hasn't even happened as of late.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါက နောက်ကျမှတောင် ဖြစ်မလာသေး။
 
 3895
 They haven't gone to the store in the past month.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် လွန်ခဲ့တဲ့ လက စတိုးဆိုင်ကို မသွားဖြစ်ဘူး။
 
 3896
 We dont like skiing, so we just buy bowling materials.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ နှင်းလျှောစီးရတာကို မကြိုက်တဲ့အတွက် ၊ ကျွန်တော်တို့ ဘိုးလင်း ပစ္စည်းတွေကိုပဲ ဝယ်ပါတယ်။
 
 3897
 We have five sets of cross country skiies.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့တွင် နိုင်ငံ ဖြတ်ကျော် နှင်းလျှောစီးခြင်း ငါးစုံ ရှိသည်။
+# REVIEW
 
 3898
 We own cross country skies.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့သည် နိုင်ငံဖြတ်ကျော် နှင်းလျှောစီးခြင်းကို ပိုင်ဆိုင်ကြသည်။
+# REVIEW
 
 3899
 It's not a good idea to put signs up saying you have an alarm.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင့်တွင် နှိုးစက် တစ်လုံး ရှိနေသည်ဟုဆိုကာ အမှတ်အသားတွေ ထားခြင်းသည် ကောင်းသောအကြံမဟုတ်ပါ။
 
 3900
 The alarm company gives you signs to put in each window.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+နှိုးစက် ကုမ္ပဏီသည် သင့်အား ပြတင်းပေါက် တစ်ခုစီတွင် ထည့်သွင်းရန် ဆိုင်းဘုတ်များ ပေးသည်။
