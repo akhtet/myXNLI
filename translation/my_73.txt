@@ -1,400 +1,399 @@
 7201
 You can never ever get away from an asset freeze.
-<MYANMAR UNICODE TRANSLATION HERE>
+မင်းက ပိုင်ဆိုင်မှုတွေကို ထိန်းချုပ်ခြင်း တစ်ခုမှ ဘယ်တော့မှ ရုန်းမထွက်နိုင်ပါဘူး။
 
 7202
 Employment status and previous felony convictions were two metrics used to create profiles.
-<MYANMAR UNICODE TRANSLATION HERE>
+အလုပ်အကိုင် အခြေအနေ နှင့် ယခင် ရာဇ၀တ်မှုဆိုင်ရာ ပြစ်ဒဏ်များတွင် ကိုယ်ရေးအကျဉ်းများ ဖန်တီးရန် အတွက် အသုံးပြုသည့် တိုင်းတာမှု နှစ်ခု ရှိပါသည်။
 
 7203
 Passenger profiles were derived almost entirely based on passenger skin color.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခရီးသည် ကိုယ်ရေးအကျဉ်းများကို ခရီးသည် အသား အရောင်ပေါ် အခြေခံ၍ လုံးဝနီးပါး ရယူခြင်းဖြစ်သည်။
 
 7204
 Race and creed were not factors used to develop passenger profiles.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူမျိုးရေး နှင့် ကိုးကွယ်ယုံကြည်မှုတို့သည် ခရီးသည် ကိုယ်ရေးအကျဉ်းများကို ဖွံ့ဖြိုးတိုးတက်ရန်အတွက် အသုံးပြုသည့် အချက်များ မဟုတ်ပေ။
 
 7205
 Motassadeq told everyone Shehhi was gone.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှန်းဟီသည် သွားပြီးလို့ မော့တတ်စ်စဒက် က လူတိုင်းကို ပြောခဲ့ပါတယ်။
 
 7206
 Motassadeq was supposed to hide that Shehhi was missing from New York City.
-<MYANMAR UNICODE TRANSLATION HERE>
+မော့တတ်စ်စဒက်သည် နယူးယောက် မြို့ မှ ရှန်းဟီ ပျောက်ဆုံးနေမှုကို ဖုံးကွယ်ထားသင့်သည်။
 
 7207
 Motassadeq was supposed to hide that Shehhi was missing.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရှန်းဟီ ပျောက်ဆုံးနေကြောင်း မော့တတ်စ်စဒက် က ဖုံးကွယ်ထားသင့်သည်။
 
 7208
 Fire alarms were not installed in the building until 2008.
-<MYANMAR UNICODE TRANSLATION HERE>
+၂၀၀၈ ခုနှစ် အထိ အဆောက်အဦတွင် မီး သတိပေးချက်များ မတပ်ဆင်ရသေးပါ။
 
 7209
 Information about the fire alarm was recorded in June.
-<MYANMAR UNICODE TRANSLATION HERE>
+မီး သတိပေးချက် နှင့်ပတ်သက်သည့် အချက်အလက်များကို ဇွန်လတွင် မှတ်တမ်းတင်ခဲ့သည်။
 
 7210
 The fire alarm was disabled due to an electrical short.
-<MYANMAR UNICODE TRANSLATION HERE>
+လျှပ်စစ်မီး ပြတ်တောက်မှု တစ်ခုကြောင့် မီး အချက်ပေးသံကို ပိတ်ထားခဲ့သည်။
 
 7211
 More than 100 Saudi national left the US.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆော်ဒီ နိုင်ငံသား ၁၀၀ ကျော် ယူအက်စ် မှ ထွက်ခွာခဲ့သည်။
 
 7212
 The airspace did not reopen until late October.
-<MYANMAR UNICODE TRANSLATION HERE>
+လေပိုင်နက်ကို အောက်တိုဘာလ နှောင်းပိုင်း အထိ ပြန်မဖွင့်သေးပါ။
 
 7213
 There were also several dozen British nationals who left the country.
-<MYANMAR UNICODE TRANSLATION HERE>
+နိုင်ငံကနေ ထွက်ခွာသွားခဲ့သူ ဗြိတိန် နိုင်ငံသား ဒါဇင် အများအပြားလည်း ရှိပါတယ်။
 
 7214
 Ajaj was here on an educational visa.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်ဂျက် သည် ပညာရေးဆိုင်ရာ ဗီဇာ တစ်ခု ဖြင့် ဤနေရာတွင် ရှိနေခဲ့သည်။
 
 7215
 Ajaj was on a tourist visa when he went to the US.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်ဂျက် ဟာ ယူအက်စ် ကို သွားခဲ့တုန်းက ခရီးသွား ဗီဇာ တစ်ခု ရခဲ့တယ်။
 
 7216
 Ajaj's tourist visa was supposed to last 6 months.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်ဂျက် ၏ ခရီးသွား ဗီဇာသည် ၆ လ ကြာမြင့်မည်ဟု ထင်သည်။
 
 7217
 The Port Authority said people should run as far away as possible.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆိပ်ကမ်း အာဏာပိုင်က လူတွေ တတ်နိုင်သမျှ ဝေးဝေးကို ပြေးသင့်တယ်လို့ ပြောပါတယ်။
 
 7218
 The Port Authority told people to leave 5 WTC.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆိပ်ကမ်း အာဏာပိုင်က လူ ၅ ဦးကို ဒဗလျူတီစီ မှ ထွက်ခွာ ရန် ပြောခဲ့သည်။
 
 7219
 The Port Authority told them all to stay put.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆိပ်ကမ်း အာဏာပိုင်က အားလုံးကို နေဖို့ ပြောတယ်။
 
 7220
 We need at least 10 countries to join us
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့နှင့် ပူးပေါင်းရန် အနည်းဆုံး နိုင်ငံပေါင်း ၁၀ နိုင်ငံ ကျွန်တော်တို့ လိုအပ်ပါသည်
 
 7221
 We need help from around the world.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့သည် ကမ္ဘာတစ်ဝှမ်းမှ အကူအညီ လိုအပ်ပါသည်။
 
 7222
 We will do this alone!
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ ဒါကို တစ်ယောက်တည်း လုပ်မယ်!
 
 7223
 They directed civilians at the mezzanine level to take an escalator to the concourse.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် ထပ်ခိုး အဆင့်မှ အရပ်သားများကို နားနေဆောင်သို့ စက်လှေကား တစ်ခုဖြင့် တက်ရန် ညွှန်ကြားခဲ့သည်။
 
 7224
 They directed dozens of civilians at the mezzanine level to take an escalator to the concourse.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က ထပ်ခိုး အဆင့်ရှိ ဒါဇင်ပေါင်းများစွာသော အရပ်သားများကို နားနေဆောင်သို့ စက်လှေကား တစ်ခုဖြင့် တက်ရန် ညွှန်ကြားခဲ့သည်။
 
 7225
 They told the civilians to take an elevator to a higher floor.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့က အရပ်သားတွေကို ပိုမြင့်တဲ့ အထပ် တစ်ခုကို ဓာတ်လှေကား တစ်စီးဖြင့် တက်ရန် ပြောခဲ့သည်။
 
 7226
 Everyone showed up for Flight 93.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတိုင်းသည် ဖလိုက် ၉၃အတွက် ရောက်ရှိလာသည်။
 
 7227
 Seven passengers missed Flight 93.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခရီးသည် ခုနစ်ဦးသည် ဖလိုက် ၉၃ကို လွဲချော်ခဲ့သည်။
 
 7228
 There were passengers that didn't show up for Flight 93.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖလိုက် ၉၃အတွက် မရောက်လာခဲ့တဲ့ ခရီးသည်တွေ ရှိခဲ့တယ်။
 
 7229
 Rice always took notes of everything the President said.
-<MYANMAR UNICODE TRANSLATION HERE>
+သမ္မတ ပြောသော အရာရာတိုင်းကို ရိုက်စ် က အမြဲတမ်း မှတ်ယူတယ်။
 
 7230
 Rice had never heard the President say anything.
-<MYANMAR UNICODE TRANSLATION HERE>
+သမ္မတ ပြောတဲ့ ဘယ်အရာကိုမှ ရိုက်စ်သည် ဘယ်တုန်းကမှ မကြားဖူးပါ။
 
 7231
 Rice remembered that the President expressed his annoyance.
-<MYANMAR UNICODE TRANSLATION HERE>
+သမ္မတက သူ၏ စိတ်အနှောင့်အယှက်ဖြစ်မှုအား ဖော်ပြခဲ့သည်ကို ရိုက်စ်က သတိရခဲ့သည်။
 
 7232
 Computer aided dispatch reports were prepared for September 11.
-<MYANMAR UNICODE TRANSLATION HERE>
+စက်တင်ဘာ ၁၁ ရက် အတွက် ကွန်ပျူတာ အကူအညီဖြင့် ပေးပို့သည့် အစီရင်ခံစာများကို ပြင်ဆင်ခဲ့သည်။
 
 7233
 Computer aided dispatch systems were not in place in New York until 2008.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်ပြူတာ အကူအညီဖြင့် ပေးပို့သည့် စနစ်များသည် ၂၀၀၈ ခုနှစ် အထိ နယူးယောက်တွင် မတည်ရှိခဲ့ပါ။
 
 7234
 These dispatch reports were delayed because of network disruptions.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကွန်ရက် ပြတ်တောက်မှုများကြောင့် ဤ ပေးပို့မှု အစီရင်ခံစာများ နှောင့်နှေးခဲ့ပါသည်။
 
 7235
 Mihdhar complained to several close friends in Pakistan.
-<MYANMAR UNICODE TRANSLATION HERE>
+မေ့ဒ်ဟာ သည် ပါကစ္စတန်ရှိ ရင်းနှီးသော သူငယ်ချင်း များစွာကို တိုင်ကြားခဲ့သည်။
 
 7236
 Mihdhar was constantly telling friends that the US was just fantastic.
-<MYANMAR UNICODE TRANSLATION HERE>
+မေ့ဒ်ဟာ သည် ယူအက်စ်က အလွန် ကောင်းမွန်ကြောင်း သူငယ်ချင်းများကို အဆက်မပြတ် ပြောနေခဲ့သည်။
 
 7237
 The US was not exactly to Mihdhar's liking.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယူအက်စ်သည် မေ့ဒ်ဟာ ၏ အကြိုက်နှင့် တထပ်တည်း မဟုတ်ပေ။
 
 7238
 No one gave any thought to hijackings.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘယ်သူကမှ အပိုင်စီးဖို့ မစဉ်းစားခဲ့ဘူး။
 
 7239
 The study about hijackings warned about al Qaeda.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြန်ပေးဆွဲမှုများ အကြောင်း လေ့လာမှုက အယ်လ်ကိုင်ဒါ အကြောင်း သတိပေးထားသည်။
 
 7240
 There was a study about airplane hijackings in 1996.
-<MYANMAR UNICODE TRANSLATION HERE>
+၁၉၉၆ ခုနှစ်တွင် လေယာဉ် ပြန်ပေးဆွဲခြင်းဆိုင်ရာ အကြောင်း လေ့လာမှု တစ်ခု ရှိခဲ့သည်။
 
 7241
 Khallad had financed Mihdhar's education in the Middle East.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခါလတ် သည် အရှေ့ အလယ်ပိုင်းရှိ မေ့ဒ်ဟာ ၏ ပညာရေး အတွက် ငွေကြေးထောက်ပံ့ခဲ့သည်။
 
 7242
 Khallad was associated with Mihdhar.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခါလတ် သည် မေ့ဒ်ဟာနှင့် ဆက်နွယ်နေခဲ့သည်။
 
 7243
 No one could find a connection between Khallad and Mihdhar.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခါလတ် နှင့် မေ့ဒ်ဟာ အကြား ဆက်သွယ်မှု တစ်ခုကို မည်သူမျှ ရှာမတွေ့ပါ။
 
 7244
 Ed Ballinger issued several warning during his interview.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်ဒ် ဘဲလင်ဂျာ သည် သူ၏ အင်တာဗျူး အတွင်း သတိပေးချက် များစွာ ထုတ်ပြန်ခဲ့သည်။
 
 7245
 Ed Ballinger refused to provide any information to interviewers.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်ဒ် ဘဲလင်ဂျာ သည် တွေ့ဆုံမေးမြန်းသူများအား မည်သည့် အချက်အလက်များကိုမျှ ထောက်ပံ့ပေး ရန် ငြင်းဆိုခဲ့သည်။
 
 7246
 He warned the interviewer that there would be an attempted attack in May.
-<MYANMAR UNICODE TRANSLATION HERE>
+မေလတွင် ကြိုးစားထားသော တိုက်ခိုက်မှု တစ်ခု ဖြစ်လိမ့်မည်ဟု အင်တာဗျူးသူအား သူက သတိပေးခဲ့သည်။
 
 7247
 At one point there was consideration of cooperating with the Taliban against al Qaeda.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်ချက်အနေနဲ့ အယ်လ်ကိုင်ဒါကို ဆန့်ကျင်ဖို့ တာလီဘန်တွေနဲ့ ပူးပေါင်းဆောင်ရွက်ဖို့ စဉ်းစားမှုတွေ ရှိခဲ့ပါတယ်။
 
 7248
 By the end of June the US and Taliban had allied themselves against al Qaeda.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဇွန်လ ကုန်တွင် ယူအက်စ် နှင့် တာလီဘန်တို့က အယ်လ်ကိုင်ဒါကို ဆန့်ကျင်ရန် သူတို့ကိုယ်တိုင် မဟာမိတ်ဖွဲ့ခဲ့ကြသည်။
 
 7249
 This plan was abandoned because the Taliban wanted large amounts of money and weapons for cooperation.
-<MYANMAR UNICODE TRANSLATION HERE>
+တာလီဘန်တို့က ပူးပေါင်းဆောင်ရွက်မှု အတွက် ငွေကြေး နှင့် လက်နက်များ အများအပြား လိုချင်သောကြောင့် အဆိုပါ အစီအစဉ်ကို ဖျက်သိမ်းခဲ့ခြင်း ဖြစ်သည်။
 
 7250
 Funding for joint operations has increased, but administrative overhead has also increased.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပူးပေါင်း ဆောင်ရွက်မှုများ အတွက် ရန်ပုံငွေများ တိုးလာသော်လည်း ၊ စီမံခန့်ခွဲရေးဆိုင်ရာ ကုန်ကျစရိတ်များလည်း တိုးလာခဲ့သည်။
 
 7251
 Since then joint work has improved in every way.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထိုအချိန်မှစပြီး ပူးပေါင်း လုပ်ဆောင်မှုများသည် နည်းအမျိုးမျိုးဖြင့် တိုးတက်လာသည်။
 
 7252
 Today, joint work is different than it used to be.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီနေ့ခေတ်မှာ ၊ ပူးပေါင်း အလုပ်လုပ်ခြင်းသည် အရင်ကထက် ကွဲပြားလာသည်။
 
 7253
 Our country should make it clear they welcome immigrants.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ နိုင်ငံသည် ရွှေ့ပြောင်းနေထိုင်သူတွေကို ကြိုဆိုကြောင်း ရှင်းရှင်းလင်းလင်း ပြောသင့်တယ်။
 
 7254
 Our country should repair our image globally and welcome refugees here.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်ုပ်တို့ နိုင်ငံသည် ကျွန်ုပ်တို့၏ ပုံရိပ်ကို တစ်ကမ္ဘာလုံးတွင် ပြုပြင်သင့်ပြီး ဤနေရာတွင် ဒုက္ခသည်များကို ကြိုဆိုသင့်ပါသည်။
 
 7255
 We need to make it clear that we don't want any immigrants here.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့သည် ဤနေရာတွင် ရွှေ့ပြောင်းအခြေချသူများကို မလိုလားကြောင်း ရှင်းရှင်းလင်းလင်း သိထားရန် ကျွန်တော်တို့က လိုအပ်သည်။
 
 7256
 The FDNY and police were both using the same systems to communicate with the public.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်ဖ်ဒီအန်ဝိုင် နှင့် ရဲတပ်ဖွဲ့သည် အများသူငှာ ဆက်သွယ်ရန်အတွက် တူညီသော စနစ်များကို အသုံးပြုသော နှစ်ဖွဲ့ ဖြစ်သည်။
 
 7257
 The FDNY and the police desk were not giving everyone the same advice.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်ဖ်ဒီအန်ဝိုင် နှင့် ရဲ ဌာနသည် လူတိုင်းကို တူညီသော အကြံဉာဏ်များ မပေးပေ။
 
 7258
 The police were telling civilians to evacuate the area while the fire department was telling them to wait for rescue.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရဲတပ်ဖွဲ့က အရပ်သားတွေကို ကယ်ဆယ်ဖို့ စောင့်ဆိုင်းနေချိန်မှာ မီးသတ်ဌာနက ဧရိယာကို ရွှေ့ပြောင်းဖို့ ပြောထားပါတယ်။
 
 7259
 No agencies ever reported the call to the UAE.
-<MYANMAR UNICODE TRANSLATION HERE>
+မည်သည့်အေဂျင်စီမှ ယူအေအီး သို့ ဖုန်းခေါ်ဆိုမှုအား အစီရင်ခံခြင်းမပြုပါ။
 
 7260
 Other agencies reported the call to the UAE on May 17.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခြား အေဂျင်စီများက မေလ ၁၇ ရက်နေ့တွင် ယူအေအီးသို့ ဖုန်းခေါ်ဆိုမှုကို အကြောင်းကြားခဲ့သည်။
 
 7261
 The CIA reported the call to the UAE on May 16.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအိုင်အေက ယူအေအီးသို့ မေ ၁၆ ရက်က ဖုန်းခေါ်ဆိုကြောင်း သတင်းပို့ခဲ့သည်။
 
 7262
 Police found bottled water in the man's checked bags.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရဲတွေက အဲဒီ လူရဲ့ အိတ်ထဲမှာ စစ်လိုက်ရာ ရေသန့်ဘူးတွေ တွေ့တယ်။
 
 7263
 Police found various items in the man's checked bags after the terminal was evacuated.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂိတ်မှ ဘေးကင်းရာသို့ပြောင်းရွေ့ခဲ့ ပြီးနောက် ရဲတပ်ဖွဲ့က အဆိုပါ အမျိုးသား၏ အိတ်အတွင်း စစ်လိုက်ရာ ပစ္စည်းမျိုးစုံကို တွေ့ရှိခဲ့သည်။
 
 7264
 The man's checked bags contained only clothing and nothing else.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီလူရဲ့ အိတ်ထဲမှာ စစ်လိုက်ရာ အဝတ်အစား နဲ့ တခြားဘာမှ မပါပါဘူး။
 
 7265
 The financial markets operate continuously and are never shut down.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငွေကြေး ဈေးကွက်များသည် အဆက်မပြတ် လည်ပတ်နေပြီး မည်သည့်အခါမျှ ကျဆင်းမသွားပါ။
 
 7266
 The financial markets were closed for at least one day.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငွေကြေး ဈေးကွက်များကို အနည်းဆုံး တစ်ရက် ပိတ်ခဲ့သည်။
 
 7267
 The markets were closed because there were widespread liquidity concerns.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငွေဖြစ်လွယ်မှုဆိုင်ရာ စိုးရိမ်မှုများကြောင့် ကျယ်ပြန့်လာ သောကြောင့် ဈေးများ ပိတ်ခဲ့ရသည်။
 
 7268
 Atta and Omari sat in window seats while the others sat on the isles.
-<MYANMAR UNICODE TRANSLATION HERE>
+အတ္တ နှင့် အိုမာရီ တို့သည် ပြတင်းပေါက်ဘေး ထိုင်ခုံများတွင် ထိုင်ကြပြီး ကျန်လူများမှာ ကျွန်းများပေါ်တွင် ထိုင်ကြသည်။
 
 7269
 They attempted to board the flight but Wail al Shehri was detained by security.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် လေယာဉ်ပေါ် တက်ရန် ကြိုးပမ်းခဲ့ သော်လည်း ဝေ အလ် ရှဲရီကို လုံခြုံရေးများက ထိန်းသိမ်းခဲ့သည်။
 
 7270
 They boarded a flight to Los Angeles before 8:00.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် ၈:၀၀ မတိုင်မီ လော့စ် အိန်ဂျလိစ် သို့ လေယာဉ် တစ်စင်း တက်ခဲ့သည်။
 
 7271
 Bandar al Hazmi came to the US 18 times.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘန်ဒါ အလ် ဟဇ်မိသည် ယူအက်စ် သို့ ၁၈ ကြိမ်လာရောက်ခဲ့သည်။
 
 7272
 Bandar al Hazmi came to the US in 2000.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘန်ဒါ အလ် ဟဇ်မိသည် ၂၀၀၀ ခုနှစ်တွင် ယူအက်စ် သို့ ရောက်လာခဲ့သည်။
 
 7273
 Bandar al Hazmi never traveled to the US.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘန်ဒါ အလ် ဟဇ်မိသည် ယူအက်စ် သို့ တစ်ခါမျှ ခရီးမသွားဖူးပါ။
 
 7274
 James Steinberg testified that more sharing was needed.
-<MYANMAR UNICODE TRANSLATION HERE>
+မျှဝေရန် လိုအပ်ကြောင်း ဂျိမ်း စတိုင်းဘတ်ဂျ် က သက်သေခံခဲ့သည်။
 
 7275
 James Steinberg was adamant that sharing data was to be avoided at all costs.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျိမ်း စတိုင်းဘတ်ဂျ် သည် အချက်အလက် မျှဝေခြင်းကို ကုန်ကျစရိတ် အားလုံးမှ ရှောင်ရှားရန် အခိုင်အမာပြောကြားခဲ့သည်။
 
 7276
 The primary reason that information was previously need to know was the threat of rogue analysts leaking secrets.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယခင်က သိရှိရန် လိုအပ်သည့် အချက်အလက်များ၏ အဓိက အကြောင်းရင်းမှာ လျှို့ဝှက်ချက်များကို ပေါက်ကြားအောင် ဆိုးသွမ်းသော သုံးသပ်သူများ၏ ခြိမ်းခြောက်မှု ဖြစ်ခဲ့သည်။
 
 7277
 As the Soviet threat ended the US embarked on a massive military buildup.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆိုဗီယက်၏ ခြိမ်းခြောက်မှုကို အဆုံးသတ်လိုက်သောအခါ ယူအက်စ်သည် ကြီးမားသော စစ်ရေး တည်ဆောက်မှု တစ်ခုကို စတင်ခဲ့သည်။
 
 7278
 Defense budgets were cut by more than fifty billion dollars per year.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကာကွယ်ရေး အသုံးစရိတ်ကို တစ်နှစ်လျှင် ဒေါ်လာ ငါးဆယ် ဘီလီယံ ကျော် ဖြတ်တောက်ခဲ့သည်။
 
 7279
 When the Soviet military threat ended the US cut national security spending.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆိုဗီယက် စစ်ရေး ခြိမ်းခြောက်မှု အဆုံးသတ်ချိန်တွင် အမေရိကန်သည် အမျိုးသား လုံခြုံရေး အသုံးစရိတ်ကို ဖြတ်တောက်ခဲ့သည်။
 
 7280
 Physical searches were more likely to find contraband.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရုပ်ပိုင်းဆိုင်ရာ ရှာဖွေမှုများသည် မှောင်ခိုပစ္စည်းများကို ရှာဖွေနိုင်ခြေပိုများသည်။
 
 7281
 The metal detector results were below the national average.
-<MYANMAR UNICODE TRANSLATION HERE>
+သတ္တု ထောက်လှမ်းမှု ရလဒ်များသည် နိုင်ငံလုံးဆိုင်ရာ ပျမ်းမျှထက် နိမ့်ကျနေပါသည်။
 
 7282
 The test results for X-rays were well above the national average.
-<MYANMAR UNICODE TRANSLATION HERE>
+X-rays အတွက် စမ်းသပ်မှု ရလဒ်များသည် တစ်နိုင်ငံလုံး ပျမ်းမျှထက် သာလွန်ကောင်းမွန်ပါသည်။
 
 7283
 Ladder companies in other cities often contained a as many as 8 members.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခြား မြို့များ ရှိ တိုးတတ်မှုရှိသော ကုမ္ပဏီများတွင် အဖွဲ့ဝင် ၈ ဦး အထိ ပါရှိသည်။
 
 7284
 Ladder companies were always commanded by a captain.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိုးတတ်မှုရှိသော ကုမ္ပဏီများတွင် ခေါင်းဆောင် တစ်ဦး မှ အမြဲတမ်း အမိန့်ပေးခဲ့သည်။
 
 7285
 There were typically six people assigned to each ladder company.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိုးတတ်မှုရှိသော ကုမ္ပဏီ တစ်ခုစီတွင် ပုံမှန်အားဖြင့် လူ ခြောက်ဦး ခန့် ရှိသည်။
 
 7286
 One of these plans involved bombing seven different suspected safe houses.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ အစီအစဥ်များထဲမှ တစ်ခုသည် မတူညီတဲ့ လုံခြုံစိတ်ချရသော နေအိမ် ခုနှစ်လုံးကို ဗုံးကြဲခြင်း ပါဝင်သည်။
 
 7287
 There were no plans available to follow up on targets in Afghanistan.
-<MYANMAR UNICODE TRANSLATION HERE>
+အာဖဂန်နစ္စတန်ရှိ ပစ်မှတ်များကို လိုက်နာရန် အစီအစဉ်များ ရရှိနိုင်ခြင်း မရှိပါ။
 
 7288
 There were several plans drawn up for follow-on strikes against al Qaeda.
-<MYANMAR UNICODE TRANSLATION HERE>
+အယ်လ်ကိုင်ဒါကို နောက်ဆက်တွဲ တိုက်ခိုက်မှုတွေအတွက် အစီအစဉ်တွေ အများကြီး ရေးဆွဲထားပါတယ်။
 
 7289
 Clarke wanted people to realize the solution wasn't working.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလာ့ခ် က လူတွေကို ဖြေရှင်းချက်သည် အလုပ်မဖြစ်ဘူးဆိုတာကို သိစေချင်တယ်။
 
 7290
 Clarke wanted to show people that the immigration policy was failing.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလာ့ခ် သည် လူဝင်မှုကြီးကြပ်ရေး မူဝါဒ ပျက်ကွက်ကြောင်း လူများအား ပြသလိုခဲ့သည်။
 
 7291
 Clarke was certain that everything was working perfectly.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလာ့ခ် သည် အရာအားလုံး ပြီးပြည့်စုံစွာ လုပ်ဆောင်နေကြောင်း သေချာပါသည်။
 
 7292
 The TSA funds aviation work for fighting the war on terror in Afghanistan.
-<MYANMAR UNICODE TRANSLATION HERE>
+တီအက်စ်အေ သည် အာဖဂန်နစ္စတန်တွင် အကြမ်းဖက်စစ်ပွဲကို တိုက်ဖျက်ရန်အတွက် လေကြောင်းလုပ်ငန်းကို ရန်ပုံငွေထောက်ပံ့ပေးသည်။
 
 7293
 The TSA funds aviation work in the war.
-<MYANMAR UNICODE TRANSLATION HERE>
+တီအက်စ်အေ သည် စစ်ပွဲတွင် လေကြောင်း လုပ်ငန်းအတွက် ရန်ပုံငွေထောက်ပံ့သည်။
 
 7294
 The TSA has nothing to do with aviation and just focuses on trains.
-<MYANMAR UNICODE TRANSLATION HERE>
+တီအက်စ်အေ သည် လေကြောင်း ပြုလုပ်ရန် ဘာမှမရှိသလို ရထားများကိုသာ အာရုံစိုက်သည်။
 
 7295
 Other departments were also unable to confirm the gun story.
-<MYANMAR UNICODE TRANSLATION HERE>
+အခြား ဌာနများကလည်း သေနတ် အကြောင်းကို အတည်ပြုရန် မတတ်နိုင်ခဲ့ဘူး
 
 7296
 The General Accounting Office confirmed that the gun story was 100% true.
-<MYANMAR UNICODE TRANSLATION HERE>
+သေနတ်နဲ့ဆိုင်တဲ့ အကြောင်းတရားဟာ ၁၀၀% မှန်တယ်လို့ အထွေထွေ စာရင်းကိုင် ရုံး က အတည်ပြုပါတယ်။
 
 7297
 The General Accounting Office was unable to confirm the gun story.
-<MYANMAR UNICODE TRANSLATION HERE>
+အထွေထွေ စာရင်းကိုင် ရုံးက သေနတ်နဲ့ပတ်သက်တဲ့ အကြောင်းတရားကို အတည်ပြုရန် မတတ်နိုင်ခဲ့ဘူး။
 
 7298
 Agencies can quantify success.
-<MYANMAR UNICODE TRANSLATION HERE>
+အေဂျင်စီများသည် အောင်မြင်မှုကို တိုင်းတာနိုင်သည်။
 
 7299
 Agencies can tell if they are successful by how much money they raise.
-<MYANMAR UNICODE TRANSLATION HERE>
+အေဂျင်စီတွေက သူတို့ ငွေဘယ်လောက်ရှာပြီး အောင်မြင်နေလဲ ဆိုတာ ပြောပြနိုင်ပါတယ်။
 
 7300
 Agencies really cant ever know if they're successful or not.
-<MYANMAR UNICODE TRANSLATION HERE>
-
+အေဂျင်စီတွေက သူတို့အောင်မြင်လား မအောင်မြင်ဘူးဆိုတာ တကယ် မသိနိုင်ပါဘူး။
