@@ -154,7 +154,7 @@ Beer can have the tag lite or light.
 
 9339
 Lite and light are only used to describe wines and whiskey.
-ဝိုင်နှင့် ဝီစကီအကြောင်း ဖော်ပြရန်အတွက် ပေါ့ပျက်ပျက်နှင့် အပေါ့ ကိုသာ အသုံးပြုသည်။
+ဝိုင်နှင့် ဝီစကီအကြောင်း ဖော်ပြရန်အတွက် အပျော့ နှင့် အပေါ့ ကိုသာ အသုံးပြုသည်။
 
 9340
 Lite beer does not have a high percentage of alcohol.
