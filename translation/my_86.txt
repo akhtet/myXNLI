@@ -1,14 +1,14 @@
 8501
 Brit Hume is the lead reporter at Fox.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဗရစ်ဟူးမ်သည် ဖောက်စ်သတင်းဌာန၏ သတင်းထောက်ခေါင်းဆောင်ဖြစ်သည်။
 
 8502
 Brit Hume works for CNN.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဗရစ်ဟူးမ်သည် စီးအန်အန်တွင် အလုပ်လုပ်သည်။
 
 8503
 Brit Hume works for Fox.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဗရစ်ဟူးမ်သည် ဖောက်စ်တွင် အလုပ်လုပ်သည်။
 
 8504
 Michael Apted ruined the series by insisting they take out any warm, human elements.
@@ -48,15 +48,15 @@ The movie was a blockbuster, despite leaving out some crucial details about Kauf
 
 8513
 The OPEN sign is black.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖွင့်ပါ ဆိုသည့် သင်္ကေတသည် အနက်ရောင်ဖြစ်သည်။
 
 8514
 The OPEN sign is on the front curb.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖွင့်ပါဆိုသည့် ဆိုင်းဘုတ်သည် ပလက်ဖောင်းစွန်းအရှေ့တွင်ဖြစ်သည်။
 
 8515
 The OPEN sign lights up.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖွင့်ပါဆိုသည့် ဆိုင်းဘုတ်သည် မီးလင်းနေသည်။
 
 8516
 Anxious parents are one marketing target of the newsweeklies.
@@ -156,19 +156,19 @@ There is a class association here that has been inverted.
 
 8540
 I am interested in politics.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် နိင်ငံရေးကို စိတ်ဝင်စားတယ်။
 
 8541
 I learned about the United States
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် အမေရိကန်ပြည်ထောင်စုအကြောင်းကို လေ့လာခဲ့တယ်
 
 8542
 I learned the United States cuts off supplies in two ways before coming home.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိမ်ပြန်မလာခင် အမေရိကန်ပြည်ထောင်စုက နည်းလမ်းနှစ်သွယ်နဲ့ အထောက်အပံ့တွေ ဖြတ်တာက်ပစ်တာကို ကျွန်တော်လေ့လာခဲ့ရတယ်။
 
 8543
 The poetry list at Oxford is no longer being continued.
-<MYANMAR UNICODE TRANSLATION HERE>
+အောက်စဖို့ဒ်ရှိ ကဗျာလင်္ကာစာရင်းသည် နောက်ထပ်ဆက်လက် မတင်တော့ပါ။
 
 8544
 The prestige university does not have the funding to keep the poetry list active.
@@ -200,7 +200,7 @@ There is no upside for humans in this situation.
 
 8551
 This is not all bad news for humans.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီဟာက လူသားတွေအတွက် အားလုံး သတင်းဆိုးတွေတော့မဟုတ်ပါဘူး။
 
 8552
 The Enquirer didn't talk about the incident regarding Clinton.
@@ -248,7 +248,7 @@ Time magazine has a picture of Bill Gates on the cover.
 
 8563
 Time magazine is running a story about Bill Gates and success in the digital age.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိုမ်းမဂ္ဂဇင်းသည် ဘီးလ်ဂိတ်နှင့် ဒစ်ဂျစ်တယ်ခေတ် အောင်မြင်မှုများအကြောင်း သတင်းဆောင်းပါးတစ်ပုဒ် ရေးနေသည်။
 
 8564
 Bets on political contests and elections are also accepted at these sites.
@@ -264,15 +264,15 @@ These sites take bests on several activities.
 
 8567
 Johnson felt a lack of support.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျွန်ဆင်သည် အားပေးထောက်ခံမှု ကင်းမဲ့နေသည်ဟု ခံစားခဲ့ရသည်။
 
 8568
 Johnson never thought about withdrawing.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျွန်ဆင်က နှုတ်ထွက်ဖို့ ဘယ်တုန်းကမှ မတွေးခဲ့ဘူး။
 
 8569
 Johnson threatened to withdraw.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျွန်ဆင်က နှုတ်ထွက်ဖို့ ခြိမ်းခြောက်ခဲ့တယ်။
 
 8570
 At least one person gave up on his attempt to become president.
@@ -292,11 +292,11 @@ The White House has the FBI spy on political candidates.
 
 8574
 The White House misuses the FBI.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိမ်ဖြူတော်သည် အက်ဖ်ဘီအိုင်ကို မတရားခိုင်းခဲ့သည်။
 
 8575
 The White House uses the FBI properly.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိမ်ဖြူတော်သည် အက်ဖ်ဘီအိုင်ကို မှန်မှန်ကန်ကန် အသုံးချသည်။
 
 8576
 Tung does not care about property speculators.
@@ -312,7 +312,7 @@ Tung wants to influence property speculators.
 
 8579
 Run while making noise.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆူညံနေချိန်တွင် ပြေးပါ။
 
 8580
 Run with arms flailing.
@@ -348,15 +348,15 @@ I was having trouble with Linux.
 
 8588
 10 people had lost baggage.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူ၁၀ဦး ခရီးဆောင်အိတ်တွေ ပျောက်ဆုံးသွားတယ်။
 
 8589
 People complained about baggage.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတွေက ခရီးဆောင်အိတ်တွေနဲ့ ပတ်သက်ပြီး မကျေမနပ် တိုင်တန်းခဲ့ကြသည်။
 
 8590
 There were no complaints at all.
-<MYANMAR UNICODE TRANSLATION HERE>
+မကျေမနပ်တိုင်ကြားမှုတွေ လုံးဝ မရှိခဲ့ဘူး။
 
 8591
 After he hacked off his victims forearms he tried to hide them in a trash can.
@@ -396,5 +396,5 @@ The Nerds have a future.
 
 8600
 Charles Lane is a reporter.
-<MYANMAR UNICODE TRANSLATION HERE>
+ချာလီစ်လိန်းသည် သတင်းထောက်တစ်ဦးဖြစ်သည်။
 
