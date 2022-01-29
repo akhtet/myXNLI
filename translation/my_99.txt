@@ -232,7 +232,7 @@ He has all of the worries in the world.
 
 9859
 He is not worried because he doesn't try.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမကြိုးစားသည့်အတွက် သူမစိုးရိမ်ဘူး။
 
 9860
 Men only refers to males.
@@ -288,11 +288,11 @@ A dictionary has a lot to offer.
 
 9873
 A dictionary required more than specialist skills.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဘိဓာန်တစ်ခုမှာ အထူးကျွမ်းကျင်မှုထက် ပိုမိုလိုအပ်သည်။
 
 9874
 A dictionary requires only a specialist's skills.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဘိဓာန်တစ်ခုမှာ အထူးကျွမ်းကျင်သူ၏ ကျွမ်းကျင်မှုတစ်ခုသာ လိုအပ်သည်။
 
 9875
 Gruyare makes the best cheese.
@@ -304,7 +304,7 @@ Gruyare the cheese is nothing like the place.
 
 9877
 You cannot separate Gruyare cheese from the place.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား ဂရိရာတ်ဒိန်ခဲနဲ့ နေရာကို ခွဲခြားပစ်လို့မရနိုင်ဘူး။
 
 9878
 Are you able to see that curious little beast?
