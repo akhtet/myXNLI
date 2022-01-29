@@ -284,9 +284,7 @@ Ramona is located in Concord.
 
 2672
 I was in Special Activities for years.
-ကျွန်တော် နှစ်ပေါင်းများစွာ အထူးလုပ်ဆောင်မှု့ဌာန မှာ ရှိခဲ့တယ်။
-#REVIEW
-#Special Activities
+ကျွန်တော် အထူးလှုပ်ရှားမှုဌာနမှာ နှစ်ပေါင်းများစွာ ရှိခဲ့တယ်။
 
 2673
 I've never had a job.
@@ -294,8 +292,7 @@ I've never had a job.
 
 2674
 My favorite job was in Special Activities.
-ကျွန်တော် အကြိုက်ဆုံးအလုပ်ကတော့ 
-#REVIEW
+ကျွန်တော် အကြိုက်ဆုံးအလုပ်ကတော့ အထူးလှုပ်ရှားမှုဌာနပဲ ဖြစ်ပါတယ်။
 
 2675
 They won't pay for anything forus.

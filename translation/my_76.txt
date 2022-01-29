@@ -67,7 +67,6 @@ Haznawi (Flight 93) flew from London to NYC.
 Some controversial provisions of the Patriot Act are likely to be renewed by Congress before it expires.
 မျိုးချစ်ဥပဒေမှ အချို့သော အငြင်းပွားဖွယ် ပြဋ္ဌာန်းချက်များကို လွှတ်တော်အနေဖြင့် ၎င်းသက်တမ်းမကုန်ဆုံးမီ အသစ်ပြန်လည်ရေးဆွဲနိုင်ဖွယ်အလားအလာရှိသည်။
 
-
 7518
 The Patriot Act contained several controversial provisions.
 မျိုးချစ်ဥပဒေတွင် အငြင်းပွားဖွယ် ပြဋ္ဌာန်းချက်များ များစွာပါရှိသည်။
@@ -245,7 +244,6 @@ They could not go down the stairwells.
 They were many floors up.
 ၎င်းတို့သည် အထပ်တွေ အများကြီး။
 
-
 7562
 Anthony L. Fusco, the Chief of Department, wrote a report on the rescue efforts.
 ဌာနအကြီးအမှူးဖြစ်သည့်၊ ရှေ့နေ အယ်လ် ဖူးစ်ကိုသည်၊ ကယ်ဆယ်ရေးကြိုးပမ်းဆောင်ရွက်ချက်လုပ်ငန်းများနှင့်ပတ်သက်၍ အစီရင်ခံစာတစ်စောင်ကို ရေးသားခဲ့သည်။
@@ -298,15 +296,13 @@ Their requirements are much more liberal.
 He was not happy that a burned Predator was shown on CNN.
 မီးလောင်ခံထားရသော သားရဲ ကို စီအန်အန်တွင် ပြသခဲ့သဖြင့် သူသည် စိတ်မပျော်မရွှင်ဖြစ်ခဲ့သည်။
 
-
 7575
 The Predator was involved in a fire caused by an electrical fault.
 အဆိုပါသားရဲသည် လျှပ်စစ်ချွတ်ယွင်းချက်တစ်ခုကြောင့် ဖြစ်ပွားခဲ့သော မီးလောင်မှုတွင် ပါဝင်ပတ်သက်သည်။
 
 7576
 The Taliban was shown fleeing from the Predator on CNN.
-စီအန်အန်တွင် သားရဲဆီမှ ထွက်ပြေးသွားသော တာလီဘန်များကို ပြသခဲ့သည်။
-
+စီအန်အန်တွင် သားရဲဆီမှ ထွက်ပြေးနေသော တာလီဘန်များကို ပြသခဲ့သည်။
 
 7577
 President Bush refused to reconsider his position, even when presented with new ideas.

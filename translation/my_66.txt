@@ -253,8 +253,7 @@ Cream skimming is something that the Postal Service is vulnerable to.
 
 6564
 Shipping junk mail is an important part of Postal Service income.
-အမှိုက် မေးလ် ပို့ဆောင်ခြင်းသည် စာတိုက် ဝန်ဆောင်မှု ဝင်ငွေ၏ အရေးကြီးသော အပိုင်း တစ်ခု ဖြစ်သည်။
-#REVIEW 
+တိုလီမိုလီစာများ ပို့ဆောင်ခြင်းသည် စာတိုက် ဝန်ဆောင်မှု ဝင်ငွေ၏ အရေးကြီးသော အပိုင်း တစ်ခု ဖြစ်သည်။
 
 6565
 The Postal Service does not need to be concerned with cream skimming.
@@ -354,7 +353,7 @@ There are exactly five more tasks that must still be accomplished.
 
 6589
 We still have things to do even tho we have come so far.
-#REVIEW
+ငါတို့ တော်‌တော်ခရီးရောက်ခဲ့ပေမယ့် လုပ်စရာတွေအများကြီးကျန်သေးတယ်။
 
 6590
 HIC is not the department responsible for tracking claims.
@@ -370,8 +369,7 @@ Reimbursements are tracked every year by HIC.
 
 6593
 Individualized intervention briefing materials may be beneficial to patients.
-တစ်ဦးချင်း ကြားဖြတ်ကုသမှု အကျဉ်းချုပ် ပစ္စည်းများသည် လူနာများကို အကျိုးပြုကောင်းပြုနိုင်ပါသည်။
-#REVIEW 
+တစ်ဦးချင်း ကြားဖြတ်ကုသမှု အကျဉ်းချုပ် စာရွက်စာတမ်း များသည် လူနာများကို အကျိုးပြုကောင်းပြုနိုင်ပါသည်။
 
 6594
 The computer and printing systems required to produce these briefs cost five hundred dollars.

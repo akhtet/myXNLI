@@ -92,12 +92,12 @@ Anglo-Saxon input is very important.
 
 9324
 M. Tesniares did not consider Anglo Saxon input.
-အမ်ဒေါ့ တက်စ်နီယားရက်စ် သည် အန်န်ဂလို ဆက်ဇ်ဇွန် ထည့်သွင်းမှုကို မစဉ်းစားပါ။
+အမ်ဒေါ့ တက်စ်နီယားရက်စ် သည် အန်န်ဂလို ဆက်ဇ်ဇွန် အဆိုပြုမှုကို မစဉ်းစားပါ။
 #REVIEW
 
 9325
 M. Tesniares performs Anglo-Saxon input.
-အမ်ဒေါ့ တက်စ်နီယားရက်စ် သည် အန်န်ဂလို ဆက်ဇ်ဇွန် ထည့်သွင်းမှုကို လုပ်ဆောင်သည်။
+အမ်ဒေါ့ တက်စ်နီယားရက်စ် သည် အန်န်ဂလို ဆက်ဇ်ဇွန် အဆိုပြုမှုကို လုပ်ဆောင်သည်။
 #REVIEW
 
 9326
@@ -150,18 +150,15 @@ We would like you to sign a form accepting that we are the only ones you have pr
 
 9338
 Beer can have the tag lite or light.
-ဘီယာတွင် tag lite သို့မဟုတ် light ရှိနိုင်သည်။
-#REVIEW
+ဘီယာတွင် အပျော့ သို့မဟုတ် အပေါ့ တံဆိပ် ရှိနိုင်သည်။
 
 9339
 Lite and light are only used to describe wines and whiskey.
-ဝိုင်နှင့် ဝီစကီအကြောင်း ဖော်ပြရန်အတွက် ပေါ့ပျက်ပျက်နှင့် အလင်းကိုသာ အသုံးပြုသည်။
-#REVIEW
+ဝိုင်နှင့် ဝီစကီအကြောင်း ဖော်ပြရန်အတွက် ပေါ့ပျက်ပျက်နှင့် အပေါ့ ကိုသာ အသုံးပြုသည်။
 
 9340
 Lite beer does not have a high percentage of alcohol.
-ပေါ့ပျက်ပျက် ဘီယာတွင် အယ်လ်ကိုဟော မြင့်မားသော ရာခိုင်နှုန်း တစ်ခုမရှိပါ။
-#REVIEW
+အပျော့စား ဘီယာတွင် အယ်လ်ကိုဟော မြင့်မားသော ရာခိုင်နှုန်း မပါရှိပါ။
 
 9341
 Vanilla comes from a tropical plant.

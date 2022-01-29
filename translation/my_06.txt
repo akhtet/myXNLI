@@ -60,9 +60,7 @@ The law redeems not the individual but the community or the nation as a whole.
 
 516
 Spin network theories can be constructed in dierent dimensions.
-လှည့်ပတ်ကွန်ယက် သီအိုရီများ သည် dierent အတိုင်းအတာများနှင့် တည်ဆောက်နိုင်သည်။
-# REVIEW
-# Spin network သီအိုရီများ (or) လှည့်ပတ်ကွန်ယက် သီအိုရီများ
+လှည့်ပတ်ကွန်ယက် သီအိုရီများကို မတူညီသော အတိုင်းအတာများအတွင်း တည်ဆောက်နိုင်သည်။
 
 517
 (frantically)  No, no, I don't want you to die!
@@ -191,7 +189,7 @@ In an economy with reinvestment, what happens if we can take our advantages of t
 
 548
 As noted in the previous chapter, there must be some interplay in the entry into the adjacent possible that gates the exploration by the capacity of natural selection to trim away the losers.
-# REVIEW
+အရင်အခန်းက ဖော်ပြခဲ့သလိုပဲ အစပိုင်းနှင့် ဘေးပိုင်းတို့ကြားမှာ အပြန်အလှန်ကစားမှု ရှိနိုင်နေခြင်းကြောင့် သဘာဝရွေးချယ်မှုတွင် ရှုံးနိမ့်သူတွေကို ဖယ်ထုတ်သော အင်အားရဲ့ နယ်ထွင်မှုကို ကန့်သတ်ပေးနိုင်သည်။
 
 549
 When civil society turns a deaf ear, crazy ideas lose their edge.
@@ -251,7 +249,7 @@ They originated in the small village of San Augustin Acolman located near the py
 
 563
 For the truth is that a building'no matter how useful or well built or beautiful'that is not sympathetic to the way that people dress risks looking not merely anachronistic, but downright silly.
-# REVIEW
+အမှန်ကတော့ အဆောက်အဦးတစ်ခုကို ဘယ်လောက်ပဲ အသုံးကျအောင်၊ ခိုင်မာအောင်၊ လှပအောင် ဆောက်ထားပါစေ လူတွေရဲ့ဝတ်စားဆင်ယင်မှုကို ထည့်သွင်းမစဥ်းစားပေးထားဘူးဆိုရင် ဒါဟာ ခေတ်နဲ့မကိုက်ညီတဲ့အပြင် ရူးမိုက်မှု ဖြစ်သွားနိုင်တယ်။
 
 564
 I want to say that the autonomous agents comprising that community had, individually and collectively, the embodied know-how to get on with making a living in the natural games that constituted their world.
@@ -399,6 +397,4 @@ But being equal is not equivalent to being the same, identical, or similar.
 
 600
 He warranted the Boolean idealization had its problems, but found that in many cases the response of a gene was nonlinear to its inputs.
-Boolean idealization တွင် ပြဿနာများရှိနေသည်ဟု သူ အာမခံခဲ့သည်၊ သို့သော် အခြေအနေများစွာတွင် မျိုးဗီဇတစ်ခု၏ တုံ့ပြန်မှုသည် ၎င်း၏ထည့်သွင်းမှုများနှင့် အစဉ်အတိုင်းမဖြစ်သည်ကို တွေ့ရှိခဲ့သည်။
-# REVIEW
-
+အမှန်နှင့်အမှား စိတ်ကူးဖော်မှုတွင် ပြဿနာများရှိနေသည်ဟု သူလက်ခံခဲ့သည်၊ သို့သော် အခါများစွာတွင် မျိုးဗီဇတစ်ခု၏ တုံ့ပြန်မှုသည် ၎င်း၏ထည့်သွင်းမှုများနှင့် အချိုးမကျ ဖြစ်နေသည်ကို တွေ့ရှိခဲ့သည်။
