@@ -1,10 +1,10 @@
 8601
 Charles Lane sold cars.
-<MYANMAR UNICODE TRANSLATION HERE>
+ချာလီစ်လိန်းသည် ကားများကို ရောင်းချခဲ့သည်။
 
 8602
 Charles Lane won a Pulitzer.
-<MYANMAR UNICODE TRANSLATION HERE>
+ချာလီစ်လိန်းသည် ပူလစ်ဇာဆုကို ရရှိခဲ့သည်။
 
 8603
 Some contemporary opponents of theism have a financial stake in discrediting the logic of this cosmological argument.
@@ -120,67 +120,67 @@ Morris said he had bad motives.
 
 8631
 Morris said he was doing that to help the economy.
-<MYANMAR UNICODE TRANSLATION HERE>
+မောရစ်က သူဟာ စီးပွားရေးကို ကူညီဖို့ ဒါကို လုပ်ဆောင်နေတယ်လို့ ပြောခဲ့တယ်။
 
 8632
 Morris says he was doing something good.
-<MYANMAR UNICODE TRANSLATION HERE>
+မောရစ်က သူဟာ ကောင်းမွန်တဲ့ ကိစ္စတစ်ခု ဆောင်ရွက်နေတယ်လို့ ပြောတယ်။
 
 8633
 The WHO does not have a strategy for treatin tuberculosis.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကမ္ဘာ့ကျန်းမာရေးအဖွဲ့တွင် တီဘီရောဂါကို ကုသရန် မဟာဗျူဟာတစ်ခု မရှိပါ။
 
 8634
 The WHO has a strategy for treating tuberculosis that can save over ten million lives.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကမ္ဘာ့ကျန်းမာရေးအဖွဲ့တွင် လူ့အသက်ပေါင်း ဆယ်သန်းကျော်ကို ကယ်တင်နိုင်သည့် တီဘီရောဂါကိုကုသမည့် မဟာဗျူဟာတစ်ခု ရှိသည်။
 
 8635
 The WHO has a strategy that can save millions from tuberculosis.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကမ္ဘာ့ကျန်းမာရေးအဖွဲ့တွင် တီဘီရောဂါမှ သန်းပေါင်းများစွာ ကယ်တင်နိုင်သည့် မဟာဗျူဟာတစ်ခု ရှိသည်။
 
 8636
 Weisberg  wrote about the elections.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝီစ်ဘာ့ဂျ်သည် ရွေးကောက်ပွဲများအကြောင်း ရေးသားခဲ့သည်။
 
 8637
 Weisberg wrote about dogs.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝီစ်ဘာ့ဂျ်သည် ခွေးများအကြောင်း ရေးသားခဲ့သည်။
 
 8638
 Weisberg wrote about the presidential election.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝီစ်ဘာ့ဂျ်သည် သမ္မတရွေးကောက်ပွဲအကြောင်း ရေးသားခဲ့သည်။
 
 8639
 The cover story is about clowns.
-<MYANMAR UNICODE TRANSLATION HERE>
+မျက်နှာဖုံးဆောင်းပါးဟာ လူရွှင်တော်တွေအကြောင်းပဲ။
 
 8640
 The cover story shows how infants think about things.
-<MYANMAR UNICODE TRANSLATION HERE>
+မျက်နှာဖုံးဆောင်းပါးသည် မွေးကင်းစကလေးငယ်များ အရာဝတ္ထုများအကြောင်း မည်ကဲ့သို့ တွေးတောသည်ကို ဖော်ပြထားသည်။
 
 8641
 The cover story talks about how infants make decisions.
-<MYANMAR UNICODE TRANSLATION HERE>
+မျက်နှာဖုံးဆောင်းပါးသည် မွေးကင်းစကလေးငယ်များ မည်ကဲ့သို့ ဆုံးဖြတ်ချက်များချသည်ကို ဆွေးနွေးထားသည်။
 
 8642
 Pollution is a limiting factor for population growth.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပတ်ဝန်းကျင်ညစ်ညမ်းမှုသည် လူဦးရေတိုးပွားလာမှုအတွက် အကန်းအသတ်ဖြစ်စေသော အကြောင်းတစ်ခု ဖြစ်သည်။
 
 8643
 Population growth is similar to inverse pollution.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူဦးရေတိုးပွားလာမှုသည် ပြောင်းပြန်ပတ်ဝန်းကျင်ညစ်ညမ်းမှုနှင့် ဆင်တူသည်။
 
 8644
 There is no relation between population growth and pollution.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူဦးရေတိုးပွားလာမှုနှင့် ပတ်ဝန်းကျင်ညစ်ညမ်းမှုကြား ဆက်စပ်မှုမရှိပါ။
 
 8645
 Clinton was entirely faithful to his wife during their long marriage.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ရဲ့ ရှည်လျားလှတဲ့ အိမ်ထောင်သက်အတွင်းမှာ ကလင်တန်ဟာ သူရဲ့ ဇနီးအပေါ် လုံးဝ သစ္စာရှိခဲ့တယ်။
 
 8646
 Clinton's adversaries attempted to disgrace him, and also to impeach him.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလင်တန်ရဲ့ ပြိုင်ဘက်ရန်သူများဟာ သူ့ကို အရှက်တကွဲနဲ့ဂုဏ်သရေပျက်အောင် ကြိုးစားခဲ့ကြတယ်၊ ပြီးတော့ သူ့ကို ရုံးတင်တရားစွဲဆိုဖို့လည်း ကြိုးစားခဲ့ကြတယ်။
 
 8647
 Clinton's affair with Lewinsky was a moral disgrace for the Democratic Party and caused the defeat of Gore when he ran for president.
@@ -188,27 +188,27 @@ Clinton's affair with Lewinsky was a moral disgrace for the Democratic Party and
 
 8648
 Bradley was from Arkansas.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘရတ်ဒလီသည် အာကင်ဆောပြည်နယ်မှ ဖြစ်သည်။
 
 8649
 Bradley was from Missouri.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘရတ်ဒလီသည် မစ်ဆူရီပြည်နယ်မှ ဖြစ်သည်။
 
 8650
 Bradley was from the east side of St Louis.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘရတ်ဒလီသည် စိန့်လူးဝစ်မြို့၏ အရှေ့ဘက်ခြမ်းမှ ဖြစ်သည်။
 
 8651
 Can you explain to me why that option is preferable to becoming a fur coat?
-<MYANMAR UNICODE TRANSLATION HERE>
+သားမွေးကုတ်အင်္ကျီတစ်ထည် ဖြစ်လာဖို့ ဘာကြောင့် ဒီရွေးချယ်မှုဟာ ပိုပြီးကောင်မွန်သင့်တော်တယ်ဆိုတာ ခင်ဗျား ကျွန်တော့်ကို ရှင်းပြပေးနိုင်မလား။
 
 8652
 If the animal is already dead and the fur is going to be discarded and burned if it isn't used, is turning it into a fur coat the best option and a form of recycling?
-<MYANMAR UNICODE TRANSLATION HERE>
+တိရိစ္ဆာန်ဟာ သေပြီးသွားပြီး သားမွေးတွေကို စွန့်ပစ်မယ် ပြီးတော့ အသုံးမပြုဘဲ မီးရှို့ပစ်မယ်ဆိုရင်၊ ဒါကို သားမွေးကုတ်အင်္ကျီအဖြစ် ပြောင်းလဲတာဟာ အကောင်းဆုံးရွေးချယ်စရာဖြစ်သလား ပြီးတော့ ပြန်လည်အသုံးပြုတဲ့ ပုံစံတစ်ခုလား။
 
 8653
 That type of fur coat has been banned and therefore it is not an option.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီလိုအမျိုးအစား သားမွေးကုတ်အင်္ကျီကို တားမြစ်ထားတာဆိုတော့ ဒီဟာက ရွေးချယ်စရာတစ်ခု မဟုတ်ဘူး။
 
 8654
 Despite USA Today's profits, the paper still is famous for negative media coverage.
@@ -236,15 +236,15 @@ With this story writing technique, you risk your readers losing interest or bein
 
 8660
 It costs six dollars to keep a microwave.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိုက်ခရိုဝေ့မီးဖိုတစ်လုံးကို ထားရှိဖို့ ခြောက်ဒေါ်လာကုန်ကျတယ်။
 
 8661
 Keeping an old microwave is worth six dollars.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိုက်ခရိုဝေ့မီးဖိုအဟောင်းတစ်လုံး ထိန်းသိမ်းထားတာ ခြောက်ဒေါ်လာတန်တယ်။
 
 8662
 The monetary cost of keeping a microwave is twelve dollars.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိုက်ခရိုဝေ့မီးဖိုတစ်လုံး ထိန်းသိမ်းထားရှိရန် ငွေကြေးကုန်ကျစရိတ်မှာ တစ်ဆယ့်နှစ်ဒေါ်လာဖြစ်သည်။
 
 8663
 Sabol does not need to take all those pit stops.
@@ -308,19 +308,19 @@ This may apply in some cases on the Web.
 
 8678
 Woodward has an interesting insight into Colin Powell's personal life and reveals many secrets in his recent book.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝုဒ်ဝါဒ်သည် ကောလင်းပေါင်ဝဲလ်၏ ကိုယ်ပိုင်ဘဝကို စိတ်ဝင်စားဖွယ်ကောင်းသော အမြင်ရှိခဲ့ပြီး သူ၏ လတ်တလောစာအုပ်တွင် လျှို့ဝှက်ချက်များစွာကို ဖော်ထုတ်ပြထားသည်။
 
 8679
 Woodward has never met Colin Powell and has no idea who he is.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝုဒ်ဝါဒ်သည် ကောလင်းပေါင်ဝဲလ်နှင့် တခါမျှတွေ့ဆုံးဖူးခြင်း မရှိပါ ပြီးတော့လည်း သူ မည်သူမည်ဝါဖြစ်သည်ဆိုသည်ကိုလည်း မသိရှိပါ။
 
 8680
 Woodward wrote a book about Colin Powell.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဝုဒ်ဝါဒ်သည် ကောလင်းပေါင်ဝဲလ်အကြောင်း စာအုပ်တစ်အုပ် ရေးသားခဲ့သည်။
 
 8681
 The USDA says police need to help them.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရဲတပ်ဖွဲ့က သူတို့ကို ကူညီဖို့လိုတယ်လို့ ယူအက်စ်ဒီအေက ပြောကြားသည်။
 
 8682
 The USDA says they need a bigger force.
@@ -332,15 +332,15 @@ The USDA says they need looser enforcement.
 
 8684
 None of them have succeeded.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့တွေထဲက ဘယ်သူ့မှ မအောင်မြင်ကြဘူး။
 
 8685
 Some of them have been successful during the examination.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ထဲက အချို့ စာမေးပွဲမှာ အောင်မြင်ကြတယ်။
 
 8686
 Some of them have been successful.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ထဲက အချို့က အောင်မြင်ကြတယ်။
 
 8687
 Jon Benet Ramsey's half-brother was not in town when the murder was committed.
