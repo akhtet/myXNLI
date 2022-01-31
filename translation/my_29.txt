@@ -1,400 +1,399 @@
 2801
 The kids drank 3 bottles of champagne.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလေးတွေက ရှန်ပိန် ၃ ပုလင်း သောက်ခဲ့တယ်။
 
 2802
 The kids drank some of the champagne.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလေးတွေက ရှန်ပိန် တချို့ သောက်ခဲ့တယ်။
 
 2803
 The whole party was dry and no alcohol was served.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပါတီပွဲ တစ်ခုလုံး ခြောက်သွေ့နေခဲ့ ပြီး အရက်ကို သုံးဆောင်ခွင့်မရှိခဲ့ပါ။
 
 2804
 I haven't heard any stories.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် မည်သည့်ပုံပြင်မှ မကြားရသေးဘူး။
 
 2805
 There are a lot of stories about the military.
-<MYANMAR UNICODE TRANSLATION HERE>
+တပ်မတော်နဲ့ ပတ်သက်တဲ့ ဇာတ်လမ်းတွေ အများကြီးရှိတယ်။
 
 2806
 There are a lot of stories that get told.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြောပြစရာ ဇာတ်လမ်းတွေ အများကြီး ရှိတယ်။
 
 2807
 I don't know anything about testing aircraft.
-<MYANMAR UNICODE TRANSLATION HERE>
+လေယာဉ် စမ်းသပ်မှု နဲ့ပတ်သက်ပြီး တစ်စုံတစ်ခုကိုမှ ကျွန်တော် မသိဘူး။
 
 2808
 Testing aircraft teaches you a lot of lessons.
-<MYANMAR UNICODE TRANSLATION HERE>
+လေယာဉ်ကို စမ်းသပ်ခြင်းသည် သင်ခန်းစာ များစွာကို သင်ပေးသည်။
 
 2809
 Testing aircraft teaches you how to handle pressure.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖိအားကို ဘယ်လို ထိန်းချုပ်ရမည်ကို မင်းကို လေယာဉ်ကို စမ်းသပ်ခြင်းက သင်ပေးသည်။
 
 2810
 I don't understand the point.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထို အချက်ကို ကျွန်တော် နားမလည်ဘူး။
 
 2811
 I think the point was to tell us how dangerous it was.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ အချက်က ဘယ်လောက်အန္တရာယ်ကြီးတယ်ဆိုတာကို ကျွန်တော်တို့ကို ပြောပြဖို့လို့ ကျွန်တော် ထင်ပါတယ်။
 
 2812
 I understood the point.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ အချက်ကို ကျွန်တော် နားလည်ခဲ့တယ်။
 
 2813
 All of the planes survived without being shot at.
-<MYANMAR UNICODE TRANSLATION HERE>
+လေယာဉ် အားလုံး ပစ်မခံရဘဲ ကျန်ရစ်ခဲ့သည်။
 
 2814
 Something was shot down over Cuba.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျူးဘားမှာ တစ်ခုခု ပစ်ချခံရတယ်။
 
 2815
 The huge airliner was shot down over Cuba in May.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဧရာမ လေကြောင်းလိုင်းသည် ကျူးဘားနိုင်ငံ၌ မေလက ပစ်ချခံခဲ့ရသည်။
 
 2816
 I was worried because I didn't know what time.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘယ်အချိန်မှန်း ကျွန်တော် မသိခဲ့လို့ ကျွန်တော် စိတ်ပူသွားတယ်။
 
 2817
 I was worried that I would miss the show because I didn't know what time it was.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘယ်အချိန်ရှိပြီလဲဆိုတာ ကျွန်တော် မသိခဲ့ တာကြောင့် ဒီပွဲကို ကျွန်တော် လွတ်သွားမှာကို ကျွန်တော် စိုးရိမ်ခဲ့ပါတယ်။
 
 2818
 I wasn't worried at all, it would happen when it happened.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် လုံးဝ စိတ်မပူပါဘူး ၊ ၎င်း ဖြစ်ပျက်ခဲ့တဲ့အခါမှသာ  ၎င်း ဖြစ်သွားလိမ့်မယ်။
 
 2819
 I don't really have any memories of my childhood.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်၏ ကလေးဘဝ အမှတ်တရတွေ တစ်ခုမှ တကယ်ကို မရှိတော့ဘူး။
 
 2820
 I still feel bad to this day.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီနေ့အထိ ကျွန်တော် စိတ်မကောင်းဖြစ်နေတုန်းပဲ။
 
 2821
 It was one of my earliest memories.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါဟာ ကျွန်တော့်ရဲ့ အစောဆုံး အမှတ်တရတွေထဲက တစ်ခု ဖြစ်ခဲ့တယ်။
 
 2822
 It was hard to be black in the south.
-<MYANMAR UNICODE TRANSLATION HERE>
+တောင်ဘက်ပိုင်းမှာ လူမည်းဖြစ်ဖို့ ခက်ခဲခဲ့တယ်။
 
 2823
 It was so easy to be black!
-<MYANMAR UNICODE TRANSLATION HERE>
+လူမည်းဖြစ်ဖို့ အရမ်းလွယ်ကူခဲ့တယ်။
 
 2824
 It wsa hard to be black back then.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟိုတုန်းက လူမည်းဖြစ်ဖို့ ခက်ခဲခဲ့တယ်။
 
 2825
 He is a Greek man who speaks no English.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက အင်္ဂလိပ်လို မပြောတတ်တဲ့ ဂရိလူမျိုး တစ်ယောက် ဖြစ်ပါတယ်။
 
 2826
 He is a Greek man.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက ဂရိ လူမျိုး တစ်ယောက် ဖြစ်တယ်။
 
 2827
 He's from Ireland.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူက အိုင်ယာလန် မှ ဖြစ်ပါတယ်။
 
 2828
 I did not bother to call Ramona.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရာမိုနာကို ဖုန်းဆက်ဖို့ ကျွန်တော် စိတ်အနှောင့်အယှက်ပေးခဲ့တယ်။
 
 2829
 I never got a chance to ask the question.
-<MYANMAR UNICODE TRANSLATION HERE>
+မေးခွန်း မေးဖို့ အခွင့်အရေး တစ်ခု တစ်ခါမှ ကျွန်တော် မရခဲ့ဘူး။
 
 2830
 I wanted to ask Ramona a question.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်သည် ရာမိုနာကို မေးခွန်း တစ်ခု မေးချင်ခဲ့သည်။
 
 2831
 Everyone knew exactly where they were going.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ ဘယ်ကိုသွားမယ်ဆိုတာ လူတိုင်း အတိအကျ သိခဲ့တယ်။
 
 2832
 No one knew what house they went into.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ ဘယ်အိမ်ထဲကို ရောက်သွားလဲ ဘယ်သူမှ မသိခဲ့ဘူး။
 
 2833
 Their destination was a secret.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့၏ ဦးတည်ရာသည် လျှို့ဝှက်ချက် တစ်ခု ဖြစ်ခဲ့သည်။
 
 2834
 People had no clue that they weren't white people.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူတွေက သူတို့ဟာ လူဖြူတွေ မဟုတ်ဘူးဆိုတာကို မရိပ်မိခဲ့ကြဘူး။
 
 2835
 People were aware that they were African American.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် အာဖရိကန် အမေရိကန်များ ဖြစ်ခဲ့ကြောင်း လူများက သိရှိခဲ့ကြသည်။
 
 2836
 People were aware that they weren't white.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့သည် လူဖြူ မဟုတ်မှန်း လူတွေက သိခဲ့ကြသည်။
 
 2837
 The guy is present.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီကောင်လေး ရှိနေတယ်။
 
 2838
 The guy just showed up 2 minutes ago.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ ကောင်လေးက လွန်ခဲ့တဲ့ ၂ မိနစ်လောက်က ပေါ်လာတယ်။
 
 2839
 The guy never came here.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီကောင် ဒီကို ဘယ်တုန်းကမှ မရောက်ဖူးဘူး။
 
 2840
 We didnt own a tv.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါတို့ တီဗီ တစ်လုံး မပိုင်ဆိုင်ခဲ့ဘူး။
 
 2841
 We were looking at the TV.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်တို့ တီဗွီကို ကြည့်နေခဲ့ကြတယ်။
 
 2842
 We were watching the TV news.
-<MYANMAR UNICODE TRANSLATION HERE>
+တီဗွီ သတင်းတွေကို ကျွန်တော်တို့ ကြည့်နေခဲ့ကြတယ်။
 
 2843
 I have never talked to Ramona.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရာမိုနာနဲ့ ကျွန်တော် စကားမပြောဖူးဘူး။
 
 2844
 I talked to Ramona another time.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ရာမိုနာနဲ့ နောက်တစ်ကြိမ် စကားပြောခဲ့ပါတယ်။
 
 2845
 It was an enjoyable conversation.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပျော်စရာကောင်းတဲ့ စကားဝိုင်း တစ်ခု ဖြစ်ခဲ့ပါတယ်။
 
 2846
 I didn't even try to do it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ဒါကို ပြုလုပ်ဖို့တောင် မကြိုးစားခဲ့ဖူး။
 
 2847
 I was trying to accomplish something.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် တစ်ခုခုကို ပြီးမြောက်အောင် ကြိုးစားခဲ့တယ်။
 
 2848
 I was trying to finish my poster for class and the new markers helped.
-<MYANMAR UNICODE TRANSLATION HERE>
+အတန်း အတွက် ကျွန်တော့် ပိုစတာကို အပြီးသတ်ဖို့ ကျွန်တော် ကြိုးစားနေ ပြီး အမှတ်အသား အသစ်တွေက ကူညီပေးခဲ့တယ်။
 
 2849
 I'm not able to do it on my own.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့် ပိုင်ဆိုင်မှု အပေါ် ဒါကို ကျွန်တော် ပြုလုပ်ဖို့ မတတ်နိုင်ဘူး။
 
 2850
 There are plenty of people to help me there.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီမှာ ကျွန်တော့်ကို ကူညီတဲ့လူ အများကြီး ရှိတယ်။
 
 2851
 There isn't anyone in that place to assist me.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီ့နေရာမှာ ကျွန်တော့်ကို ကူညီဖို့ ဘယ်သူမှ မရှိဘူး။
 
 2852
 10000 people died in the Cuban Crisis.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျူးဘား အရေးအခင်းတွင် လူ ၁၀၀၀၀ သေဆုံးခဲ့သည်။
 
 2853
 Only one person died in the Cuban Crisis.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျူးဘား အရေးအခင်းတွင် လူ တစ်ဦးသာ သေဆုံးခဲ့သည်။
 
 2854
 Only one person was killed in a crash in the Cuban Crisis.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျူးဘား အရေးအခင်းတွင် ယာဉ်တိုက်မှု တစ်ခု ၌ လူ တစ်ဦးသာ သေဆုံးခဲ့သည်။
 
 2855
 She said she was totally clueless.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် လုံးဝ နလပိန်းတုံး ဖြစ်သည်ဟု သူမက ပြောခဲ့သည်။
 
 2856
 She said that she knew more about life.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမက ဘဝအကြောင်း ပိုသိတယ်လို့ သူမက ပြောခဲ့တယ်။
 
 2857
 She told me I didn't have a clue how the real world worked and I should follow her.
-<MYANMAR UNICODE TRANSLATION HERE>
+စစ်မှန်သော ကမ္ဘာက ဘယ်လိုအလုပ်လုပ်တယ်ဆိုတာကို သဲလွန်စ မရှိခဲ့ဘူးလို့ သူမ က ကျွန်တော်ကို ပြောခဲ့ပြီးနောက် ကျွန်တော်  သူမနောက်ကို လိုက်သင့်တယ်။
 
 2858
 I don't know how I was supposed to use the contraption.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီ စက်ပစ္စည်းကို ဘယ်လိုသုံးရမှန်း ကျွန်တော် မသိဘူး။
 
 2859
 I don't know what I was supposed to use it for.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းကို ဘာအတွက် သုံးရမှန်း ကျွန်တော် မသိဘူး။
 
 2860
 I knew just what to use it for!
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းကို ဘာအတွက် သုံးရမယ်ဆိုတာ ကျွန်တော် သိခဲ့တယ်။
 
 2861
 The CIA brought the film to the UN.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအိုင်အေ က ဒီဇာတ်ကားကို ကုလသမဂ္ဂကို ယူဆောင်လာပါတယ်။
 
 2862
 The CIA kept the film for themselves.
-<MYANMAR UNICODE TRANSLATION HERE>
+စီအိုင်အေ က ဒီဇာတ်ကားကို သူတို့ဘာသာ သိမ်းထားတယ်။
 
 2863
 The CIA thought the UN needed to see the film right away.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကုလသမဂ္ဂက ဒီဇာတ်ကားကို ချက်ချင်း ကြည့်ဖို့ လိုအပ်တယ်လို့ စီအိုင်အေ က ထင်ပါတယ်။
 
 2864
 I told him I didn't want to hear anything else.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် တခြားဘာမှ မကြားချင်ဘူးလို့ ကျွန်တော် သူ့ကို ပြောခဲ့တယ်။
 
 2865
 I told him I needed more info to decide what to do with the job.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော်က အလုပ်နှင့်အတူ ဘာလုပ်ရမယ်ဆိုတာ ဆုံးဖြတ်ဖို့ နောက်ထပ် အချက်အလက်တွေ လိုအပ်တယ်လို့ ကျွန်တော် သူ့ကို ပြောခဲ့တယ်။
 
 2866
 I told him I needed more information.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် နောက်ထပ် အချက်အလက်တွေ လိုအပ်တယ်လို့ ကျွန်တော်က သူ့ကို ပြောခဲ့တယ်။
 
 2867
 I am ready to go right now.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် အခုချက်ချင်း သွားဖို့ အဆင်သင့်ဖြစ်နေပါပြီ။
 
 2868
 I need a minute here.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ဒီမှာ တစ်မိနစ် လိုတယ်။
 
 2869
 I need a minute to collect my thoughts.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့ အတွေးတွေကို စုဆောင်းဖို့ တစ်မိနစ် လိုတယ်။
 
 2870
 I have never been to Washington DC.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ဝါရှင်တန် ဒီစီကို မရောက်ဖူးဘူး။
 
 2871
 I went to DC to see my supervisor.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော့်ရဲ့ ကြီးကြပ်ရေးမှူးကို တွေ့ဖို့ DC ကို ကျွန်တော် သွားခဲ့တယ်။
 
 2872
 I went to the nation's capital.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ဒီ နိုင်ငံရဲ့ မြို့တော်ကို သွားခဲ့တယ်။
 
 2873
 I didn't finish college.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ကောလိပ် မပြီးခဲ့ဘူး။
 
 2874
 I finished college with honors.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ဂုဏ်ထူးတွေနဲ့ ကောလိပ် ပြီးဆုံးခဲ့တယ်။
 
 2875
 I flunked out of college in 2002.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ၂၀၀၂ မှာ ကောလိပ်က ထွက်ခဲ့တယ်။
 
 2876
 She had incredibly dark skin.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် မယုံနိုင်လောက်အောင် နက်မှောင်သော အသားအရေ ရှိသည်။
 
 2877
 She had light skin for an African-American person.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် အာဖရိကန်-အမေရိကန် လူမျိုး တစ်ယောက် အလို့ငှာ ကြည်လင်သော အသားအရေ ရှိသည်။
 
 2878
 She was lighter than the rest of her black friends.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် ကျန်ရှိသော လူမည်း သူငယ်ချင်းများထက် ပေါ့ပါးသည်။
 
 2879
 Dad got me some chocolate milk from the fridge.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဖေက ကျွန်တော့်ကို ရေခဲသေတ္တာထဲက ချောကလက် နို့ တချို့ ယူလာတယ်။
 
 2880
 Dad poured me a glass of milk.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဖေက နွားနို့ တစ်ခွက် လောင်းထည့်ပေးတယ်။
 
 2881
 Dad said I wasn't allowed to have a drink.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရက်သောက်ခွင့်မရှိဘူးလို့ အဖေပြောခဲ့တယ်။
 
 2882
 The DOT was able to find a different property that they could rent instead.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီအိုတီသည် ၎င်းတို့အစား ငှားရမ်းနိုင်သည့် မတူညီသည့် ပိုင်ဆိုင်မှု တစ်ခုကို ရှာဖွေနိုင်ခဲ့သည်။
 
 2883
 The property and equipment was purchased by the DOT.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပိုင်ဆိုင်မှု နှင့် ပစ္စည်းကိရိယာများကို ဒီအိုတီ က ဝယ်ယူခဲ့သည်။
 
 2884
 The property cost more than three million dollars for the DOT to purchase.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ ပိုင်ဆိုင်မှုသည် ဒီအိုတီကို ဝယ်ယူရန် အတွက် ဒေါ်လာ သုံးသန်းကျော် ကုန်ကျသည်။
 
 2885
 SHe moved to Texas and never saw her sister again.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် တက္ကဆက်သို့ ပြောင်းလာပြီး သူ့အစ်မကို ထပ်ပြီး ဘယ်တော့မှ မတွေ့ရတော့ပေ။
 
 2886
 She never saw her sister after that.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် အဲဒီနောက်ပိုင်း သူ့ညီမကို မတွေ့ဖူးဘူး။
 
 2887
 She saw her sister every day.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် သူ့အစ်မကို နေ့တိုင်း တွေ့ခဲ့တယ်။
 
 2888
 Granny stayed on the porch.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဘွားက ခြံဝမှာ နေခဲ့တယ်။
 
 2889
 Granny walked 100 feet from the house.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဘွားက အိမ်ကနေ ပေ ၁၀၀ လမ်းလျှောက်ခဲ့သည်။
 
 2890
 Granny walked away from the house.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဘွားက အိမ်ရဲ့ အဝေးကို လမ်းလျှောက်ခဲ့သည်။
 
 2891
 He was supposed to be born on December 2010.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ့ကို ဒီဇင်ဘာလ ၂၀၁၀ တွင် မွေးဖွားမည်ဟု ယူဆရသည်။
 
 2892
 He was supposed to be born.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ့ကို မွေးဖွားလာမည်ဟု ယူဆရသည်။
 
 2893
 He wasn't supposed to be born.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ့ကို မွေးဖွားမည်ဟု မယူဆခဲ့ပါ။
 
 2894
 I don't want to talk about my parents.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကျွန်တော် ကျွန်တော့်မိဘ အကြောင်း မပြောချင်ဘူး။
 
 2895
 I'll tell you about my father's experience as an immigrant.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရွှေ့ပြောင်းနေထိုင်သူ တစ်ယောက် အဖြစ် ကျွန်တော့် အဖေ့ရဲ့ အတွေ့အကြုံကို ကျွန်တော် ခင်ဗျားကို ပြောပြမယ်။
 
 2896
 I'll tell you what happened when my dad moved here from Mexico.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့အဖေက မက္ကဆီကိုကနေ ပြောင်းလာတုန်းက ဘာတွေ ဖြစ်ပျက်ခဲ့တယ်ဆိုတာ ငါ မင်းကို ပြောပြမယ်။
 
 2897
 I told them I didn't know what I was doing.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ ဘာလုပ်နေလဲဆိုတာ ငါ မသိခဲ့ဘူးလို့ ငါ သူတို့ကို ပြောပြခဲ့တယ်။
 
 2898
 I told them I knew I had beat their expectations by 40%.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့ရဲ့ မျှော်မှန်းချက် ၄၀% ကို ကျွန်တော် ကျော်ဖြတ်ခဲ့တယ် ဆိုတာ ကျွန်တော် သိတယ်လို့ ကျွန်တော်သူတို့ကို ပြောခဲ့ပါတယ်။
 
 2899
 I told them I know what i've achieved.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ အောင်မြင်မှုရပြီဆိုတာ ငါသိတယ်လို့ ငါ သူတို့ကို ပြောခဲ့တယ်။
 
 2900
 Can you hear me right now?
-<MYANMAR UNICODE TRANSLATION HERE>
-
+အခုပဲ ကျွန်တော်ကို ခင်ဗျား ကြားနိုင်လား။
