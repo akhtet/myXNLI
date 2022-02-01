@@ -1,58 +1,60 @@
 9801
 That person is being discharged honorably.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ ပုဂ္ဂိုလ်အား ဂုဏ်ပြု၍ ထွက်ခွာခွင့်ပြုလိုက်သည်။
+#REVIEW discharded
 
 9802
 That person is being discharged.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဆိုပါ ပုဂ္ဂိုလ်အား လွှတ်လိုက်သည်။
 
 9803
 Al of the words are easy to understand.
-<MYANMAR UNICODE TRANSLATION HERE>
+အေအိုင်စကားလုံးများသည် နားလည်ရလွယ်ကူသည်။
 
 9804
 There are lots of silly words that decribe the government.
-<MYANMAR UNICODE TRANSLATION HERE>
+အစိုးရကို ရည်ညွှန်းဖော်ပြထားသည့် ကျိုးကြောင်းမသင့်လျော်သော စကားလုံးများစွာပါရှိသည်။
+#REVIEW silly
 
 9805
 We were handed a long list of strange terms.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထူးဆန်းသော အသုံးအနှုန်းဝေါဟာရများ စာရင်းရှည်ကြီး တစ်ခုကို ကျွန်တော်တို့ကို ပေးခဲ့ကြတယ်။
 
 9806
 Cross-talk changes depending on the audience.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပရိတ်သတ်အခြေအနေကြည့်ပြီး ပေါ့ပေါ့ပါးပါးအပြန်အလှန်ကျပန်းစကားပြောဆိုမှုသည် ပြောင်းလဲသည်။
 
 9807
 Cross-talk isn't acceptable for some audiences.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပေါ့ပေါ့ပါးပါးအပြန်အလှန်ကျပန်းစကားပြောဆိုမှုသည် အချို့သော ပရိသတ်များအတွက် လက်မခံနိုင်စရာဖြစ်သည်။
 
 9808
 Cross-talk never occurs.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပေါ့ပေါ့ပါးပါးအပြန်အလှန်ကျပန်းစကားပြောဆိုမှုသည် တစ်ခါမှ မဖြစ်မြောက်ခဲ့ပါ။
 
 9809
 The meaning could not be understood by any of us.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆိုလိုရင်းအဓိပ္ပာယ်ကို ကျွန်တော်တို့တစ်ယောက်မှ နားမလည်နိုင်ပါဘူး။
 
 9810
 The meaning was perfectly clear to us.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆိုလိုရင်းအဓိပ္ပာယ်က ကျွန်တော်တို့အတွက် လုံးဝရှင်းလင်းပါတယ်။
 
 9811
 We had no further questions about it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါနဲ့ပတ်သက်ပြီး ကျွန်တော်တို့မှာ နောက်ထပ် မေးခွန်းတွေ မရှိတော့ပါဘူး။
 
 9812
 She explained the theory of evolution to her audience.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူမသည် သူမ၏ ပရိတ်သတ်အား ဆင့်ကဲဖြစ်စဉ်သဘောတရားသီအိုရီကို ရှင်းပြခဲ့သည်။
 
 9813
 The teacher deliberately tried to give her lecture using obscure words.
-<MYANMAR UNICODE TRANSLATION HERE>
+နားလည်ရခက်တဲ့စကားလုံးတွေကို သုံးပြီး ဆရာမက သူမရဲ့ ပို့ချချက်ကို ပို့ချဖို့ ဂရုတစိုက်နဲ့ ကြိုးပမ်းခဲ့တယ်။
 
 9814
 The teacher tried to explain in audience-appropriate terms.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆရာက ပရိတ်သတ်တွေနဲ့ သင့်တော်ပြီးလိုက်လျော်ညီထွေဖြစ်တဲ့ စကားလုံးဝေါဟာရတွေနဲ့ ရှင်းပြဖို့ ကြိုးစားတယ်။
 
 9815
 Mr Levitt was childless.
@@ -68,15 +70,15 @@ Mr. Levitt's daughter was 17.
 
 9818
 The Greek word for competition has come to mean pain in English because of the agony that took place during the competitions.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြိုင်ဆိုင်မှုများအတွင်း ဖြစ်ပေါ်သောနာကျင်မှုဝေဒနာများကို အကြောင်းပြု၍ ပြိုင်ဆိုင်ခြင်းဟူသော ဂရိစကားလုံးသည် အင်္ဂလိပ်လို နာကျင်ခြင်းဟု အဓိပ္ပာယ်ရသည်။
 
 9819
 The word agon originally meant competition in Greek.
-<MYANMAR UNICODE TRANSLATION HERE>
+နာကျင်ခြင်းဟူသော စကားလုံးသည် ဂရိလို ပြိုင်ဆိုင်ခြင်းဟု မူရင်းအဓိပ္ပယ်ရသသည်။
 
 9820
 The word agon originally meant pain and suffering in Greek
-<MYANMAR UNICODE TRANSLATION HERE>
+နာကျင်ခြင်းဟူသော စကားလုံးသည် ဂရိလို နာကျင်မှုနှင့် ဒုက္ခဟု မူရင်းအဓိပ္ပယ်ရသသည်။
 
 9821
 The flashes of wisdom are of  no importance.
