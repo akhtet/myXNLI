@@ -40,19 +40,19 @@ The political day likely starts in the morning.
 
 8611
 There is a circus at the courthouse with clowns.
-<MYANMAR UNICODE TRANSLATION HERE>
+တရားရုံးတော်တွင် လူရွှင်တော်များနှင့် ဆပ်ကပ်ပွဲတစ်ပွဲရှိသည်။
 
 8612
 After this book is published, we will schedule a meeting and then continue our discussion.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤစာအုပ်ထုတ်ဝေပြီးသွားလျှင်၊ ကျွန်တော်တို့ အစည်းအဝေးတစ်ခု စီစဉ်မည်ဖြစ်ပြီး ကျွန်တော်တို့ရဲ့ ဆွေးနွေးတိုင်ပင်မှုတွေကို ဆက်လက်ဆောင်ရွက်မည်။
 
 8613
 We certainly cannot continue this discussion until after the book is published.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာအုပ်ထုတ်ဝေပြီးသည့်တိုင်အောင် ဤဆွေးနွေးမှုကို ကျွန်တော်တို့ လုံးဝ ဆက်လုပ်နိုင်မှာမဟုတ်ဘူး။
 
 8614
 We should have daily meeting to discuss this subject further, starting today.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီနေ့ကစပြီး၊ ဒီအကြောင်းအရာကို နောက်ထပ်ဆွေးနွေးဖို့ ငါတို့ နေ့စဉ် အစည်းအဝေးလုပ်သင့်တယ်။
 
 8615
 Most people have heard the Tripp recordings.
