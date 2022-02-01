@@ -70,15 +70,17 @@ Mr. Levitt's daughter was 17.
 
 9818
 The Greek word for competition has come to mean pain in English because of the agony that took place during the competitions.
-ပြိုင်ဆိုင်မှုများအတွင်း ဖြစ်ပေါ်သောနာကျင်မှုဝေဒနာများကို အကြောင်းပြု၍ ပြိုင်ဆိုင်ခြင်းဟူသော ဂရိစကားလုံးသည် အင်္ဂလိပ်လို နာကျင်ခြင်းဟု အဓိပ္ပာယ်ရသည်။
+ပြိုင်ဆိုင်မှုများအတွင်း ဖြစ်ပေါ်သောနာကျင်မှုဝေဒနာများကို အကြောင်းပြု၍ ပြိုင်ဆိုင်ခြင်းဟူသော ဂရိစကားလုံးသည် အင်္ဂလိပ်လို နာကျင်ခြင်းဟု အဓိပ္ပာယ်ရလာသည်။
 
 9819
 The word agon originally meant competition in Greek.
-နာကျင်ခြင်းဟူသော စကားလုံးသည် ဂရိလို ပြိုင်ဆိုင်ခြင်းဟု မူရင်းအဓိပ္ပယ်ရသသည်။
+agon ဟူသော စကားလုံးသည် ဂရိလို ပြိုင်ဆိုင်ခြင်းဟု မူရင်းအဓိပ္ပယ်ရသသည်။
+#REVIEW  Agon comes from the Greek word agōn, which is translated with a number of meanings, among them "contest," "competition at games," and "gathering."
 
 9820
 The word agon originally meant pain and suffering in Greek
-နာကျင်ခြင်းဟူသော စကားလုံးသည် ဂရိလို နာကျင်မှုနှင့် ဒုက္ခဟု မူရင်းအဓိပ္ပယ်ရသသည်။
+agon ဟူသော စကားလုံးသည် ဂရိလို နာကျင်မှုနှင့် ဒုက္ခဟု မူရင်းအဓိပ္ပယ်ရသသည်။
+#REVIEW
 
 9821
 The flashes of wisdom are of  no importance.
@@ -118,15 +120,17 @@ The subjective satisfactory is trouble.
 
 9830
 Esperanto is a real language that already has all of the weaknesses of other languages.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်စ်ပရန်တိုဟာ အခြားဘာသာစကားတွေရဲ့ အားနည်းချက်တွေအားလုံးရှိနေတဲ့ တကယ့်ဘာသာစကားတစ်ခုပဲ။
+#REVIEW Esperanto=an artificial language, made by combining features of several European languages, intended as a form of international communication
 
 9831
 Esperanto is spoken by less than one percent of the world's population.
-<MYANMAR UNICODE TRANSLATION HERE>
+အက်စ်ပရန်တိုဘာသာစကားကို ကမ္ဘာ့လူဦးရေရဲ့ တစ်ရာခိုင်နှုန်းအောက်ဟာ ပြောဆိုကြတယ်။
 
 9832
 Polysemy is one problem that natural languages have.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆိုလိုရင်းများစွာအဓိပ္ပာယ်ရခြင်းသည် သဘာဝဘာသာစကားများတွင်ရှိသော ပြဿနာတစ်ရပ်ဖြစ်သည်။
+#REVIEW natural languages=သဘာဝဘာသာစကားများ
 
 9833
 Honey can speak several accents.
@@ -206,7 +210,7 @@ Because my secretary spoke no English, I had to write the letters for her to typ
 
 9852
 My secretary does not speak English or French, but I do.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ့အတွင်းရေးမှူးက အင်္ဂလိပ်လိုရော ပြင်သစ်လိုရော မပြောပေမယ့်၊ ငါတော့ပြောတယ်။
 
 9853
 When I took my first job, I could either read nor write in French.
@@ -334,15 +338,15 @@ I only read current issues.
 
 9884
 Jogging up and down.
-ပြေးတက်ပြေးဆင်း။
+ဖြေးဖြေးတက် ဖြေးဖြေးဆင်း။
 
 9885
 Sprinting up and down.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြေးတက် ပြေးဆင်း။
 
 9886
 Walking up and down.
-<MYANMAR UNICODE TRANSLATION HERE>
+တက်လိုက်ဆင်းလိုက်။
 
 9887
 One Swede church isn't the same as that Swedish church.
