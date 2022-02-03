@@ -5,7 +5,8 @@ That person is being discharged honorably.
 
 9802
 That person is being discharged.
-အဆိုပါ ပုဂ္ဂိုလ်အား လွှတ်ပေးလိုက်သည်။ /အဲ့ဒီလူက လွတ်သွားပြီ။
+အဆိုပါ ပုဂ္ဂိုလ်အား လွှတ်ပေးလိုက်သည်။ /အဲ့ဒီလူက လွတ်သွားပြီ။/ အဆိုပါ ပုဂ္ဂိုလ်သည် ဆေးရုံမှဆင်းသွာပြီ။
+#REVIEW
 
 9803
 Al of the words are easy to understand.
@@ -226,7 +227,8 @@ The King James Bible contains only the Old Testament.
 
 9856
 The King James Bible is made solely for a Christian audience.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကင်းဂျိမ်းစ်/ဂျိမ်းဘုရင် သမ္မာကျမ်းစာသည် ခရစ်ယာန်ဘာသာဝင်ပရိတ်သတ်အတွက်သာလျှင် ရည်ရွယ်ထားသည်။
+#REVIEW
 
 9857
 He doesn't try because he has no motivation.
@@ -234,7 +236,7 @@ He doesn't try because he has no motivation.
 
 9858
 He has all of the worries in the world.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကမ္ဘာပေါ်မှာရှိသမျှ စိုးရိမ်ပူပမ်စရာတွေ သူ့မှာ အကုန်ရှိတယ်။
 
 9859
 He is not worried because he doesn't try.
@@ -242,15 +244,18 @@ He is not worried because he doesn't try.
 
 9860
 Men only refers to males.
-အမျိုးသားများသည် အဖိုများကိုသာ ရည်ညွှန်းသည်။
+ပုရိဿများသည်/အမျိုးသားများသည် အဖိုများကိုသာ ရည်ညွှန်းသည်။
+#REVIEW
 
 9861
 Women are included in the label of man now that feminism has progressed.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယနေ့အချိန်တွင် ဣတ္ထိယဝါဒ /အမျိုးသမီးဝါဒ ထွန်းကားလာသောကြောင့် အမျိုးသမီးများသည် အမျိုးသားများ၏နေရာတွင်ပါဝင်လာကြသည်။
+#REVIEW
 
 9862
 Women are included in the label of man.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမျိုးသမီးများသည် အမျိုးသားများ၏နေရာတွင်ပါဝင်လာကြသည်။
+#REVIEW
 
 9863
 The list of pronunciation didn't help me at all.
