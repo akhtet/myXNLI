@@ -109,15 +109,15 @@ The correspondent for The Economist in Tokyo couldn't read the T-shirt he saw.
 
 9827
 The subjective satisfactory is a person.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပုဂ္ဂလ စိတ်ကျေနပ်ဖွယ်ရာသည် လူသားတစ်ယောက်ဖြစ်သည်။
 
 9828
 The subjective satisfactory is not trouble.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပုဂ္ဂလ စိတ်ကျေနပ်မှုသည် ဒုက္ခမဟုတ်ပါ။
 
 9829
 The subjective satisfactory is trouble.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပုဂ္ဂလ စိတ်ကျေနပ်မှုသည် ဒုက္ခဖြစ်သည်။
 
 9830
 Esperanto is a real language that already has all of the weaknesses of other languages.
@@ -139,11 +139,11 @@ Honey can speak several accents.
 
 9834
 Honey's treatment needs an explanation.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟန်နီ၏ ကုသမှုသည် ရှင်းလင်းချက်တစ်ခု လိုအပ်သည်။
 
 9835
 Honey's treatment needs no explanation.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟန်နီ၏ ကုသမှုသည် ရှင်းလင်းချက်မလိုအပ်ပါ။
 
 9836
 Jack Brooks is a plumber.
@@ -219,16 +219,16 @@ When I took my first job, I could either read nor write in French.
 
 9854
 The King James Bible contains both the Old and the New Testament.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကင်းဂျိမ်းစ်/ဂျိမ်းဘုရင် သမ္မာကျမ်းစာတွင် ဓမ္မဟောင်းရော ဓမ္မသစ်ပါ နှစ်မျိုးလုံးပါရှိသည်။
+#REVIEW
 
 9855
 The King James Bible contains only the Old Testament.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျိမ်းဘုရင်သမ္မာကျမ်းစာတွင် ဓမ္မဟောင်းသမ္မာကျမ်းစာသာ ပါဝင်သည်။
 
 9856
 The King James Bible is made solely for a Christian audience.
-ကင်းဂျိမ်းစ်/ဂျိမ်းဘုရင် သမ္မာကျမ်းစာသည် ခရစ်ယာန်ဘာသာဝင်ပရိတ်သတ်အတွက်သာလျှင် ရည်ရွယ်ထားသည်။
-#REVIEW
+ဂျိမ်းဘုရင် သမ္မာကျမ်းစာသည် ခရစ်ယာန်ဘာသာဝင်ပရိတ်သတ်အတွက်သာလျှင် ရည်ရွယ်ထားသည်။
 
 9857
 He doesn't try because he has no motivation.
