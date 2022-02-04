@@ -85,15 +85,15 @@ agon ဟူသော စကားလုံးသည် ဂရိလို နာ
 
 9821
 The flashes of wisdom are of  no importance.
-<MYANMAR UNICODE TRANSLATION HERE>
+အသိဉာဏ်ပညာအလင်းသည် အရေးမကြီးပါ။
 
 9822
 The flashes of wisdom are of great significance.
-<MYANMAR UNICODE TRANSLATION HERE>
+အသိဉာဏ်ပညာအလင်းသည် ကြီးကျယ်သောအရေးပါမှု ဖြစ်သည်။
 
 9823
 The flashes of wisdom should always be considered.
-<MYANMAR UNICODE TRANSLATION HERE>
+အသိဉာဏ်ပညာအလင်းကို အမြဲဆင်ခြင်သင့်သည်။
 
 9824
 A reporter for The Economist was in Tokyo and noticed a particular T-shirt.
@@ -147,7 +147,7 @@ Honey's treatment needs no explanation.
 
 9836
 Jack Brooks is a plumber.
-ဂျက်ဘရွတ်ခ်စ်သည် ရေပိုက်ပြင်သမားတယောက်ဖြစ်သည်။
+ဂျက်ဘရွတ်ခ်စ်သည် ရေပိုက်ပြင်သမားတစ်ယောက်ဖြစ်သည်။
 
 9837
 Jack Brooks is a politician from Nebraska.
@@ -171,15 +171,18 @@ Though they wrote many popular modern songs, Peter C. Newman and Pierre Berton n
 
 9842
 Hogwash is defined as that which is nonsensical and worthless.
-<MYANMAR UNICODE TRANSLATION HERE>
+မဟုတ်တရုတ်ပေါက်တကရစကားကို အဓိပ္ပာယ်မဲ့ပြီး တန်ဖိုးမရှိသောအရာဟု သတ်မှတ်သည်။
+#REVIEW
 
 9843
 Hogwash is most commonly used to describe the most important and sensible things.
-<MYANMAR UNICODE TRANSLATION HERE>
+အရေးအကြီးဆုံးဖြစ်ပြီး အကြောင်းယုတ္တိရှိသောအရာများကို ဖော်ပြရန် မဟုတ်တရုတ်ပေါက်တကရစကားကို အသုံးအများဆုံးဖြစ်သည်။
+#REVIEW
 
 9844
 The term Hogwash is formed because of the stench that comes from washing pigs.
-<MYANMAR UNICODE TRANSLATION HERE>
+Hogwashဆိုသော ဝေါဟာရသည် ဝက်များကို ဆေးကြောသန့်စင်ရာမှ ထွက်ပေါ်လာသော အနံအသက်ဆိုးများကြောင့် ဖြစ်ပေါ်လာသည်။
+#REVIEW
 
 9845
 It took place in no time at all, you know.
@@ -199,11 +202,12 @@ It is definitely not related to polytheism and monotheism.
 
 9849
 It might be a go between between polytheism and monotheism.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါဟာ နတ်ဘုရားများစွာကို ကိုးကွယ်သောဝါဒနှင့် ဘုရားတစ်ဆူကိုသာ ကိုးကွယ်သောဝါဒတို့ကြား အလှည့်တစ်ခုဖြစ်နိုင်တယ်။
+#REVIEW
 
 9850
 It's the missing link between polytheism and monotheism.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒါဟာ နတ်ဘုရားများစွာကို ကိုးကွယ်သောဝါဒနှင့် ဘုရားတစ်ဆူကိုသာ ကိုးကွယ်သောဝါဒတို့ကြားက ပျောက်ဆုံးနေတဲ့ ကွင်းဆက်ဖြစ်တယ်။
 
 9851
 Because my secretary spoke no English, I had to write the letters for her to type.
@@ -271,15 +275,16 @@ The pronunciation list only included the most basic things.
 
 9866
 The Omni Gazetteer of the United States is a first step.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကန်ပြည်ထောင်စု အောမ်နိ ပထဝီနေရာဒေသအညွှန်း အဘိဓာန်သည် ပထမခြေလှမ်းဖြစ်သည်။
+#REVIEW
 
 9867
 The Omni Gazetteer of the United States is about animals.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကန်ပြည်ထောင်စု အောမ်နိ ပထဝီနေရာဒေသအညွှန်း အဘိဓာန်သည် တိရစ္ဆာန်များအကြောင်းဖြစ်သည်။
 
 9868
 The Omni Gazetteer of the United States is comprehensive.
-<MYANMAR UNICODE TRANSLATION HERE>
+အမေရိကန်ပြည်ထောင်စု အောမ်နိ ပထဝီနေရာဒေသအညွှန်း အဘိဓာန်သည် ပြည့်စုံကျယ်ပြန့်သည်။
 
 9869
 Typewriters require electric assistance to form words.
