@@ -304,8 +304,7 @@ Title 7 deals with travel claims.
 
 6277
 Title 7 is about cookies.
-ခေါင်းစဉ် ခုနစ် သည် cookies များအကြောင်းဖြစ်သည်။
-#REVIEW
+ခေါင်းစဉ် ခုနစ် သည် ကွတ်ကီး များအကြောင်းဖြစ်သည်။
 
 6278
 Health endpoints increased the number of patients entering hospitals.
@@ -318,7 +317,6 @@ Health endpoints reduced the number of people in some hospitals.
 6280
 Health endpoints saved hospital's money.
 ကျန်းမာရေးဆိုင်ရာ အဆုံးမှတ်များသည် ဆေးရုံ၏ငွေကို သက်သာစေသည်။
-#REVIEW
 
 6281
 Government representatives are changing their approach.
