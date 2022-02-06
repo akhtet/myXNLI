@@ -116,17 +116,14 @@ The party is not held on hardwoods.
 9929
 A forest that has never been marred by man's presence is called a virgin forest.
 လူရောက်ရှိခြင်းဖြင့် ဘယ်တော့မှ မပျက်စီးသော သစ်တောတစ်ခုကို မူလအတိုင်းရှိသော သစ်တောတစ်ခုဟု ခေါ်သည်။
-#REVIEW
 
 9930
 Due to our population, there are few virgin forests still left in the United States.
 ငါတို့ရဲ့လူဦးရေသိပ်သည်းမှုကြောင့်၊ အမေရိကန်ပြည်ထောင်စုတွင် သစ်တောအနည်းငယ်သာ ကျန်ရှိတော့သည်။
-#REVIEW
 
 9931
 The newest condo development in the center of the forest won't impact its virgin forest status.
 သစ်တော၏အလယ်ဗဟိုတွင် နောက်ဆုံးပေါ်ကွန်ဒိုတည်ဆောက်မှုသည် ၎င်း၏ မူလအတိုင်းရှိသေးသော သစ်တောအခြေအနေအပေါ်သက်ရောက်မှုမရှိဘူး။
-#REVIEW
 
 9932
 Cables are a much more prestigious word than wires whenever in a trade.
@@ -251,17 +248,14 @@ I reedit speeches.
 9962
 Schools use Webster's COllege because it is the best.
 ကျောင်းများသည် အဲဒါက အကောင်းဆုံးဖြစ်သောကြောင့် ဝက်ဘ်စတား ကောလိပ်ကို အသုံးပြုသည်။
-#REVIEW Dictionary
 
 9963
 There is more information in the Webster's College than New World.
 နယူးဝေါ်လ် ထက် ဝက်ဘ်စတား ကောလိပ် မှာ သတင်း အချက်အလက်များ ပိုများသည်။
-#REVIEW Dictionary
 
 9964
 Webster's College is missing way more information than the other books.
 ဝက်ဘ်စတား ကောလိပ် သည် အခြားစာအုပ်များထက် သတင်း အချက်အလက်များ ပိုမိုပျောက်ဆုံးနေသည်။
-#REVIEW Dictionary
 
 9965
 Our vocabulary does not have a linguistic process.
@@ -342,12 +336,10 @@ New etymologies are really delicate to introduce.
 9984
 You can just propose a new etymology whenever youw ant.
 မင်းလိုသည့်အခါတိုင်း ဝေါဟာရသမိုင်းအသစ်တစ်ခုကိုသာ မင်း အဆိုပြုနိုင်သည်။
-#REVIEW youw ant
 
 9985
 You hae to be careful when you think of a new etymology.
 ဝေါဟာရသမိုင်းအသစ်တစ်ခုကို မင်း စဉ်းစားတဲ့အခါ မင်း သတိထားရမယ်။
-#REVIEW hae
 
 9986
 It has been a month since the election.
