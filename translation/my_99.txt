@@ -101,7 +101,7 @@ A reporter for The Economist was in Tokyo and noticed a particular T-shirt.
 
 9825
 The T-shirt that said  O D on Bourgeoisie Milk Boy Milk seemed out of place and confusing in Tokyo.
-<MYANMAR UNICODE TRANSLATION HERE>
+#REVIEW
 
 9826
 The correspondent for The Economist in Tokyo couldn't read the T-shirt he saw.
@@ -300,7 +300,7 @@ Typewriters required no electric components.
 
 9872
 A dictionary has a lot to offer.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဘိဓာန်တစ်ခုမှာ ပေးစရာတွေအများကြီးရှိတယ်။
 
 9873
 A dictionary required more than specialist skills.
@@ -316,7 +316,7 @@ Gruyare makes the best cheese.
 
 9876
 Gruyare the cheese is nothing like the place.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂရိရာတ်သည်ချိစ်သည် နေရာနှင့်မတူ။
 
 9877
 You cannot separate Gruyare cheese from the place.
@@ -360,15 +360,15 @@ Walking up and down.
 
 9887
 One Swede church isn't the same as that Swedish church.
-<MYANMAR UNICODE TRANSLATION HERE>
+#REVIEW
 
 9888
 THe Swede Church and the Swedish church are the same.
-<MYANMAR UNICODE TRANSLATION HERE>
+#REVIEW
 
 9889
 The Swede Church and the Swedish church are pretty much different.
-<MYANMAR UNICODE TRANSLATION HERE>
+#REVIEW
 
 9890
 She gestured toward another, bushier shrub.
@@ -376,7 +376,7 @@ She gestured toward another, bushier shrub.
 
 9891
 She gestured towards a bush that was somewhat depressing.
-<MYANMAR UNICODE TRANSLATION HERE>
+တော်တော်လေးစိတ်ပျက်စရာကောင်းတဲ့ ချုံပုတ်တစ်ခုဘက်ဆီကို သူမ လက်ပြလိုက်တယ်။
 
 9892
 That bush is less bushy than the other.
@@ -384,7 +384,7 @@ That bush is less bushy than the other.
 
 9893
 A king that sets up an order of succession is always accused of showing signs of weakness.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထီးနန်းဆက်ခံသည့် အမိန်တစ်ခု ထုတ်ပြန်သည့် ဘုရင်တစ်ပါးသည် ပျော့ညံ့မှုလက္ခဏာများကို ထုတ်ဖော်ပြသနေသည်ဟု အမြဲစွပ်စွဲခံရသည်။
 
 9894
 A president has a vice-president, but a king does not have a vice-king.
