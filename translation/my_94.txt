@@ -93,12 +93,10 @@ Anglo-Saxon input is very important.
 9324
 M. Tesniares did not consider Anglo Saxon input.
 အမ်ဒေါ့ တက်စ်နီယားရက်စ် သည် အန်န်ဂလို ဆက်ဇ်ဇွန် အဆိုပြုမှုကို မစဉ်းစားပါ။
-#REVIEW
 
 9325
 M. Tesniares performs Anglo-Saxon input.
 အမ်ဒေါ့ တက်စ်နီယားရက်စ် သည် အန်န်ဂလို ဆက်ဇ်ဇွန် အဆိုပြုမှုကို လုပ်ဆောင်သည်။
-#REVIEW
 
 9326
 Applying heat to a person's head is a good way to improve their focus and concentration.
@@ -222,18 +220,15 @@ People struggle with the lingo on the ranch.
 
 9356
 According to Lingua France was spoken after the first Crusade.
-မိခင်ဘာသာစကားအရ ပြင်သစ်သည် ပထမခရူးဆိတ်ဘာသာရေးစစ်ပွဲပြီးနောက် ပြောခဲ့သည်။
-#REVIEW
+မိခင်ဘာသာစကားအရ ပြင်သစ်ကို ပထမခရူးဆိတ်ဘာသာရေးစစ်ပွဲပြီးနောက် ပြောခဲ့သည်။
 
 9357
 The first Lingua France was spoken in France after the first crusade had ended.
 ပထမခရူးဆိတ်ဘာသာရေးစစ်ပွဲအဆုံးသတ်ပြီးနောက် ပြင်သစ်မှာ ပထမဆုံး ပြင်သစ် မိခင်ဘာသာစကား ကို ပြောသည်။
-#REVIEW
 
 9358
 The first Lingua France was spoken in the Mediterranean.
  ပထမဆုံး ပြင်သစ်မိခင်ဘာသာစကား ကို မြေထဲပင်လယ်မှာ ပြောသည်။
- #REVIEW
 
 9359
 The British had no respect.
@@ -250,17 +245,14 @@ The British traded a lot around the world.
 9362
 Animal metaphors are gone because of cities.
 မြို့တွေကြောင့် တိရိစ္ဆာန်တင်စားမှုတွေ ပျောက်ကုန်ပြီ။
-#REVIEW
 
 9363
 Animal metaphors are mostly gone.
 တိရိစ္ဆာန်တင်စားမှုအများစုမှာ ပျောက်ကွယ်သွားကြသည်။
-#REVIEW
 
 9364
 Animal metaphors are plentiful.
 တိရိစ္ဆာန်တင်စားမှုများ ပေါများသည်။
-#REVIEW
 
 9365
 It can be very difficult to detect at times.
@@ -284,8 +276,7 @@ Ouguiya is translated a 'kilogram' and is used only as a unit of weight measurem
 
 9370
 The is an connection between the names of money and the names of weights.
-ငွေကြေးနာမည်များ နှင့် အလေးချိန်နာမည်တို့၏ ကြားမှာ ဆက်သွယ်မှု တစ်ခု ရှိသည်။
-#REVIEW The 
+ငွေကြေးနာမည်များ နှင့် အလေးချိန်နာမည်တို့၏ ကြားမှာ ဆက်သွယ်မှု တစ်ခု ရှိသည်။ 
 
 9371
 Allusions to places and people can be used to convey ideas privately.
