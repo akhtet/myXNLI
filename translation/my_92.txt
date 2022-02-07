@@ -32,7 +32,7 @@ Glenn Loury is a street sweeper.
 
 9109
 Glenn Loury is not your typical conservative.
-ဂလန်န် လော့ရီ သည် မင်းရဲ့ သာမာန် ရှေးရိုးဆန်ပုံမပေါက်ဘူး။
+ဂလန်န် လော့ရီ သည် မင်းရဲ့ သာမာန် ရှေးရိုးဆန်သူ မဟုတ်ဘူး။
 
 9110
 Music retailers are completely in the dark about this.
@@ -96,18 +96,15 @@ The options are either tedious or costly.
 
 9125
 The set is very expensive.
-Set က အရမ်းဈေးကြီးတယ်။
-#REVIEW
+ဒီတစ်စုံ က အရမ်းဈေးကြီးတယ်။
 
 9126
 Would I ignore the set?
-set ကို လျစ်လျူရှုလို့ ရမလား။
-#REVIEW
+ဒီတစ်စုံ ကို မကြည့်လို့ ရမလား။
 
 9127
 Would I purchase a set for myself?
-ငါကိုယ်တိုင်အတွက် set ဝယ်မှာလား။
-#REVIEW
+ငါ့အတွက် ငါ တစ်စုံ ဝယ်ရမလား။
 
 9128
 The SAT is timeless and there will be no trouble in the future.
@@ -199,13 +196,11 @@ Large yachts are very expensive to maintain as they need regular maintenance and
 
 9150
 Very few elegant or flirtatious scenes take place on yachts.
-ရွက်လှေပေါ်တွင် အံဝင်ခွင်ကျ သို့မဟုတ် ပရောပရည်လုပ်သည့် မြင်ကွင်း အလွန်နည်းပါးသည်။
-#REVIEW
+ရွက်လှေပေါ်တွင် ကျက်သရေရှိသော သို့မဟုတ် ပရောပရည်လုပ်သည့် မြင်ကွင်း အလွန်နည်းပါးသည်။
 
 9151
 Yachts are used as the setting for many elegant scenes.
-ရွက်လှေများကို အံဝင်ခွင်ကျ မြင်ကွင်းများစွာအတွက် နောက်ခံရှုခင်း အဖြစ် အသုံးပြုကြသည်။
-#REVIEW
+ရွက်လှေများကို ကျက်သရေရှိသော မြင်ကွင်းများစွာအတွက် နောက်ခံရှုခင်း အဖြစ် အသုံးပြုကြသည်။
 
 9152
 Scholastic is a well known company.
@@ -297,12 +292,11 @@ Heseltine has no plans to retire.
 
 9174
 Heseltine quit his job in My.
-ဟက်ဆယ်ထိုင်းန် သည် Myမှ အလုပ် ထွက်သည်။
-#REVIEW
+ဟက်ဆယ်ထိုင်းန် သည် မိုင် မှ အလုပ် ထွက်သည်။
 
 9175
 Heseltine quit his job.
-ဟက်ဆယ်ထိုင်းန် သည် အလုပ် ထွက်သည်။
+ဟက်ဆယ်ထိုင်းန် သည် သူ၏ အလုပ်မှ ထွက်သည်။
 
 9176
 Although Stevenson has traveled with us on the campaign trail, his article makes it clear he wasn't paying attention to what the campaign involves at even the most basic level.
@@ -358,13 +352,11 @@ Older people don't like noise because they are sensitive.
 
 9189
 Real noise appeals to the old.
-တကယ့်ဆူညံသံသည် အသက်ကြီးသူများ ကို ဆွဲဆောင် နိုင်စွမ်းရှိသည်။။
-#REVIEW
+တကယ့်ဆူညံသံသည် အသက်ကြီးသူများကို ဆွဲဆောင် နိုင်စွမ်းရှိသည်။။
 
 9190
 The old are appalled by real noise while it appeals to younger people.
-ဒီအရာက လူငယ်တွေကို ဆွဲဆောင်နိုင်စွမ်းရှိသော်လည်း အသက်ကြီးသူများသည် တကယ့်ဆူညံသံကြောင့် ထိတ်လန့်ကြသည်။
-#REVIEW
+တကယ့်ဆူညံသံသည် လူငယ်တွေကို ဆွဲဆောင်နိုင်စွမ်းရှိသော်လည်း အသက်ကြီးသူများကို ထိတ်လန့်စေသည်။
 
 9191
 I am in Canada today, but I'm normally in the United States.
