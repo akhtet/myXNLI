@@ -224,11 +224,11 @@ According to Lingua France was spoken after the first Crusade.
 
 9357
 The first Lingua France was spoken in France after the first crusade had ended.
-ပထမခရူးဆိတ်ဘာသာရေးစစ်ပွဲအဆုံးသတ်ပြီးနောက် ပြင်သစ်မှာ ပထမဆုံး ပြင်သစ် မိခင်ဘာသာစကား ကို ပြောသည်။
+ပထမခရူးဆိတ်ဘာသာရေးစစ်ပွဲအဆုံးသတ်ပြီးနောက် ပထမဆုံး ပြင်သစ် မိခင်ဘာသာစကား ကို ပြင်သစ်မှာ ပြောကြသည်။
 
 9358
 The first Lingua France was spoken in the Mediterranean.
- ပထမဆုံး ပြင်သစ်မိခင်ဘာသာစကား ကို မြေထဲပင်လယ်မှာ ပြောသည်။
+ပထမဆုံး ပြင်သစ်မိခင်ဘာသာစကား ကို မြေထဲပင်လယ်ဒေသမှာ ပြောကြသည်။
 
 9359
 The British had no respect.
@@ -244,15 +244,15 @@ The British traded a lot around the world.
 
 9362
 Animal metaphors are gone because of cities.
-မြို့တွေကြောင့် တိရိစ္ဆာန်တင်စားမှုတွေ ပျောက်ကုန်ပြီ။
+မြို့ပြတွေကြောင့် တိရိစ္ဆာန်နှင့်ပတ်သက်သော အသုံးအနှုန်းတွေ ပျောက်ကုန်ပြီ။
 
 9363
 Animal metaphors are mostly gone.
-တိရိစ္ဆာန်တင်စားမှုအများစုမှာ ပျောက်ကွယ်သွားကြသည်။
+တိရိစ္ဆာန်တင်စားမှုအများစုမှာ ပျောက်ကွယ်သွားကြပြီ။
 
 9364
 Animal metaphors are plentiful.
-တိရိစ္ဆာန်တင်စားမှုများ ပေါများသည်။
+တိရိစ္ဆာန်နှင့်ပတ်သက်သော အသုံးအနှုန်းတွေ ပေါကြွယ်ဝသည်။
 
 9365
 It can be very difficult to detect at times.
@@ -276,7 +276,7 @@ Ouguiya is translated a 'kilogram' and is used only as a unit of weight measurem
 
 9370
 The is an connection between the names of money and the names of weights.
-ငွေကြေးနာမည်များ နှင့် အလေးချိန်နာမည်တို့၏ ကြားမှာ ဆက်သွယ်မှု တစ်ခု ရှိသည်။ 
+ငွေကြေးနာမည်များ နှင့် အလေးချိန်နာမည်များ တို့၏ ကြားမှာ ဆက်စပ်မှု တစ်ခု ရှိသည်။ 
 
 9371
 Allusions to places and people can be used to convey ideas privately.
