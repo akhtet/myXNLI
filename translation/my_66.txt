@@ -368,7 +368,7 @@ Reimbursements are tracked every year by HIC.
 
 6593
 Individualized intervention briefing materials may be beneficial to patients.
-တစ်ဦးချင်း ကြားဖြတ်ကုသမှု အကျဉ်းချုပ် စာရွက်စာတမ်း များသည် လူနာများကို အကျိုးပြုကောင်းပြုနိုင်ပါသည်။
+တစ်ဦးချင်းစီအတွက် ကြားဖြတ်ကုသမှု အကျဉ်းချုပ် ပစ္စည်းများသည် လူနာများကို အကျိုးပြုကောင်းပြုနိုင်ပါသည်။
 
 6594
 The computer and printing systems required to produce these briefs cost five hundred dollars.
