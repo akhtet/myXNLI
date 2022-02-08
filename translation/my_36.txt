@@ -1,6 +1,6 @@
 3501
 He followed every rule and still got kicked out.
-သူသည် စည်းကမ်း တိုင်းကို လိုက်နာခဲ့ ပြီး နှင်ထုတ်ခံရသေးသည်။
+သူသည် စည်းကမ်း တိုင်းကို လိုက်နာခဲ့တာတောင် နှင်ထုတ်ခံရသေးသည်။
 
 3502
 He should have followed the rules.
@@ -8,7 +8,7 @@ He should have followed the rules.
 
 3503
 There is no doubt in my mind that it will happen very soon.
-သိပ် မကြာခင်မှာ ၎င်းက ဖြစ်လာတော့မယ်လို့ ကျွန်တော်၏ စိတ်ထဲမှာ သံသယမဖြစ်ပါဘူး။
+သိပ် မကြာခင်မှာ ၎င်းက ဖြစ်လာတော့မယ်လို့ ကျွန်တော်၏ စိတ်ထဲမှာ သံသယမရှိပါဘူး။
 
 3504
 Truthfully it does not look like it could happen.
@@ -16,7 +16,7 @@ Truthfully it does not look like it could happen.
 
 3505
 Yes I do not think it could happen but there is always hope that it will.
-ဟုတ်တယ် ကျွန်တော် ဒါကို ဖြစ်မယ်လို့ မထင်ထား ပေမယ့် ၎င်း ဖြစ်လာမယ်လို့ အမြဲ မျှော်လင့်ထားပါတယ်။
+ဟုတ်တယ် ကျွန်တော် ဒါကို ဖြစ်မယ်လို့ မထင်ထား ပေမယ့် ၎င်း ထိုအတိုင်း ဖြစ်လာမယ်လို့ အမြဲ မျှော်လင့်နေမိတယ်။
 
 3506
 Buffalo has the best team overall.
@@ -44,7 +44,7 @@ There is sales tax on clothing.
 
 3512
 I do like the vibe myself.
-ကျွန်တော်က ကျွန်တော်ကိုယ်တိုင် ဆက်သွယ်မှုရှိသည့်ခံစားချက်လိုမျိုး ပြုလုပ်သည်။
+ကျွန်တော်က ကိုယ့်ခံစားချက်တွေကိုကိုယ်တိုင် သဘောကျတယ်။
 
 3513
 I do not like the negative energy this place gives off.
@@ -76,7 +76,7 @@ I have one child, an eighteen-month-old daughter.
 
 3520
 I would like to have more children.
-ကျွန်တော့်မှာ ကလေးများကို ပိုပြီး ရှိချင်ပါတယ်။
+ကျွန်တော့်က ကလေးများကို ပိုပြီး ရှိချင်ပါတယ်။
 
 3521
 She didny have any puppies.
@@ -100,7 +100,7 @@ I hear you say you don't like trying new foods.
 
 3526
 You must enjoy trying different ethnic foods.
-မတူညီတဲ့ တိုင်းရင်းသား အစားအစာတွေကို မြည်းစမ်းကြည့်ခြင်းကို သင့်ကို ပျော်ရွှင်စေတယ်။
+မတူညီတဲ့ တိုင်းရင်းသား အစားအစာတွေကို မြည်းစမ်းကြည့်ခြင်းက သင့်ကို ပျော်ရွှင်စေတယ်။
 
 3527
 That is where you are calling from?
@@ -128,7 +128,7 @@ What is your opinion on how the papers treat the local news?
 
 3533
 I don't wear dress clothes often.
-ကျွန်တော် မကြာခဏ ဝတ်စားဆင်ယင်ရမယ့် ၀တ်စုံတွေ မဝတ်တတ်ပါ။
+ကျွန်တော် မကြာခဏ ဝတ်စားဆင်ယင်ရမယ့် ၀တ်စုံတွေကို မဝတ်ပါ။
 
 3534
 I enjoy getting dressed up.
@@ -140,7 +140,7 @@ I wear dress clothes all the time.
 
 3536
 It would be worth it to work for a larger company if they gave me money for college.
-သူတို့သည် ကောလိပ် အတွက် ကျွန်တော့်ကို ပိုက်ဆံ ပေးခဲ့ လျှင် ပိုကြီးမားတဲ့ ကုမ္ပဏီ တစ်ခုမှာ ၎င်းကို အလုပ်လုပ်ရတာ ထိုက်တန်ပါတယ်။
+သူတို့သည် ကောလိပ် အတွက် ကျွန်တော့်ကို ပိုက်ဆံ ပေးခဲ့ လျှင် ပိုကြီးမားတဲ့ ကုမ္ပဏီ တစ်ခုအတွက် အလုပ်လုပ်ရကျိုးနပ်ပါလိမ့်မယ်။
 
 3537
 No companies help with education costs no matter how large or small.
@@ -168,7 +168,7 @@ Are you happy with network news coverage?
 
 3543
 I guess you don't ever watch network news.
-ကွန်ရက် သတင်းတွေကို မင်း မကြည့်ဖူးဘူးလို့ ငါ ထင်ပါတယ်။
+ကွန်ရက် သတင်းတွေကို မင်း အမြဲ မကြည့်ဖူးလို့ ငါ ထင်ပါတယ်။
 
 3544
 I think the networks spin the news to make you think what they want you to think.
@@ -325,7 +325,7 @@ They can not usually afford too much.
 
 3581
 I am not quite sure but perhaps it is so.
-ငါ လုံးဝ မသေချာ ပေမယ့် ၎င်းက ဖြစ်နိုင်တယ်။
+ငါ လုံးဝ မသေချာ ပေမယ့် ၎င်းက ဖြစ်ကောင်းဖြစ်နိုင်တယ်။
 
 3582
 I do not recall completely since I drank quite a bit of wine last night.
@@ -361,7 +361,7 @@ The best place to go in my opinion is to camp out in the woods.
 
 3590
 Do not put any ads up.
-ကြော်ငြာတွေ မတင်ပါနဲ့။
+မည်သည့် ကြော်ငြာကိုမှ မတင်ပါနဲ့။
 
 3591
 Put a soft drink ad up.
@@ -385,7 +385,7 @@ I'm not certain but I'm kinda fine, it was nice to speak with you tonight.
 
 3596
 Do you think that a five day holding period would be worth the wait for some people?
-ငါးရက်ကြာ ကိုင်ဆောင်ထားတဲ့ ကာလအပိုင်းအခြားသည် လူတချို့အတွက် စောင့်ရတာ တန်လိမ့်မယ်လို့ သင် ထင်ပါသလား။
+ငါးရက်ကြာ ကျင်းပခဲ့သော ကာလအပိုင်းအခြားသည် လူတချို့အတွက် စောင့်ရတာ တန်လိမ့်မယ်လို့ သင် ထင်ပါသလား။
 
 3597
 What about having a five day hold on those looking to purchase firearms?
