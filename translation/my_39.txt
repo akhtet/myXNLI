@@ -28,7 +28,7 @@ Buses run on diesel fuel.
 
 3808
 Buses that run on diesel fuel are the biggest environmental issue we see.
-ဒီဇယ် လောင်စာ နဲ့ ပြေးဆွဲတဲ့ ဘတ်စ်ကားတွေက ကျနော်တို့ မြင်နေရတဲ့ အကြီးမားဆုံး သဘာဝပတ်ဝန်းကျင် ပြဿနာ ဖြစ်ပါတယ်။
+ဒီဇယ် လောင်စာ နဲ့ ပြေးဆွဲတဲ့ ဘတ်စ်ကားတွေသည် ကျနော်တို့ သိကြတဲ့ အကြီးမားဆုံး သဘာဝပတ်ဝန်းကျင် ပြဿနာ ဖြစ်ပါတယ်။
 
 3809
 Hawaii is my favorite place to go for vacation.
@@ -48,7 +48,7 @@ I will never watch a movie more than once.
 
 3813
 Sometimes I find a movie that I want to watch every single night for a month.
-တစ်ခါတလေမှာ တစ်လ ကြာအောင် ညတိုင်း ကျွန်တော် ကြည့်ချင်တဲ့ ရုပ်ရှင် တစ်ကား ကျွန်တော် ရှာတွေ့တယ်။
+တစ်လ ကြာအောင် ညတိုင်း ကျွန်တော် ကြည့်ချင်တဲ့ ရုပ်ရှင် တစ်ကား ကျွန်တော် တစ်ခါတလေမှာ ရှာတွေ့တယ်။
 
 3814
 Sometimes I like a movie so much I can watch it over and over again.
@@ -68,11 +68,11 @@ He seems to really like going to the gym.
 
 3818
 She feels like she can spend as much as she wants.
-သူမ လိုချင်သလောက် သူမ သုံးစွဲနိုင်သလို သူမ ခံစားရတယ်။
+သူမ လိုချင်သလောက် သူမ သုံးစွဲနိုင်သလိုမျိုး သူမ ခံစားရတယ်။
 
 3819
 She feels like she can spend more than $1000 a night.
-သူမသည် တစ်ညလျှင် ဒေါ်လာ ၁၀၀၀ ကျော် သုံးနိုင်သည်ဟု သူမက ခံစားရသည်။
+သူမသည် တစ်ညလျှင် ဒေါ်လာ ၁၀၀၀ ကျော် သုံးနိုင်သကဲ့သို့ သူမက ခံစားရသည်။
 
 3820
 She scrimps every penny she's got.
@@ -108,7 +108,7 @@ Everyone knows he's done for good.
 
 3828
 Some people think he'll be a star again.
-တစ်ချို့ လူတွေက သူသည် စတား တစ်ယောက် ဖြစ်လာမယ်လို့ ထင်ကြတယ်။
+တစ်ချို့ လူတွေက သူသည် စတား တစ်ယောက် ထပ်မံ ဖြစ်လာမယ်လို့ ထင်ကြတယ်။
 
 3829
 Some people think he's going to rebound and have a wonderful season next year.
@@ -116,7 +116,7 @@ Some people think he's going to rebound and have a wonderful season next year.
 
 3830
 I started taking the Pill when the Sex Revolution started in the 1970s.
-၁၉၇၀ ခုနှစ်တွေမှာ လိင် တော်လှန်ရေး စတင်တုန်းက ဆေးပြားတွေ စတင်သောက်ခဲ့တယ်။
+၁၉၇၀ ခုနှစ်တွေမှာ လိင် တော်လှန်ရေး စတင်တုန်းက ကျွန်တော် ဆေးပြားတွေ စတင်သောက်ခဲ့တယ်။
 
 3831
 The Pill was part of the Sex Revolution.
@@ -132,7 +132,7 @@ Goodbye!
 
 3834
 It was great talking to you and I'll talk to you tomorrow.
-မင်းနဲ့ စကားပြောရတာ အရမ်းကောင်းတယ် မနက်ဖြန် ငါ မင်းကို စကားပြောမယ်။
+မင်းနဲ့ စကားပြောရတာ အရမ်းကောင်းတယ် မနက်ဖြန် ငါ မင်းနဲ့ စကားပြောကြမယ်။
 
 3835
 Let's keep talking.
@@ -160,7 +160,7 @@ I don't make anything that takes me more than 15 minutes to cook.
 
 3841
 I like really complex recipes that take hours to make.
-ချက်ပြုတ်ရန် နာရီများကို အချိန်ယူရတဲ့ ရှုပ်ထွေးတဲ့ ချက်ပြုတ်နည်းတွေကို ငါ တကယ် ကြိုက်တယ်။
+ချက်ပြုတ်ရန် နာရီများစွာ အချိန်ယူရတဲ့ ရှုပ်ထွေးတဲ့ ချက်ပြုတ်နည်းတွေကို ငါ တကယ် ကြိုက်တယ်။
 
 3842
 The lasagna is the worst thing I've tried!
@@ -196,7 +196,7 @@ I think you just need one copy of the book.
 
 3850
 I'm pretty sure you'll only need one.
-မင်း တစ်ခုပဲ လိုမယ်ဆိုတာ ငါ သေချာလုနီးနီးပဲ။
+မင်း တစ်ခုတည်း လိုမယ်ဆိုတာ ငါ သေချာလုနီးနီးပဲ။
 
 3851
 My boyfriend is deaf so he can't listen to music.
@@ -224,11 +224,11 @@ The group is interested in the matter.
 
 3857
 I am so happy we had this conversation today!
-ဒီ​နေ့ ကျွန်တော်တို့မှာ ဒီ စကားဝိုင်း ရှိခဲ့တာ ကျွန်တော် အရမ်း​ပျော်​တယ်​!
+ဒီနေ့ ကျွန်တော်တို့မှာ ဒီ စကားဝိုင်း ရှိခဲ့တာ ကျွန်တော် အရမ်းပျော်တယ်!
 
 3858
 I dont want to talk to you eve again.
-ငါ မင်းနဲ့ ထပ်ပြီး စကား အကြို မပြောချင်တော့ဘူး။
+ငါ မင်းနဲ့ နောက်တစ်ကြိမ် ကြိုပြီး စကားမပြောချင်တော့ဘူး။
 
 3859
 I liked talking to you.
@@ -260,7 +260,7 @@ Spend the education funding on kids that can go to college.
 
 3866
 It's not as loud in the suburbs as it is in the city.
-မြို့ထဲမှာ ဒါတွေ ရှိသလောက် မြို့ဆင်ခြေဖုံးမှာ တောက်တောက်ပပအဖြစ် မရှိဘူး။
+မြို့ထဲမှာ ဒါတွေ ရှိသလောက် မြို့ဆင်ခြေဖုံးမှာ အသံတောင် မကြားရဘူး။
 
 3867
 It's quieter there.
@@ -316,7 +316,7 @@ You can get paid a lot for that.
 
 3880
 You can get paid a ton of money if you have the best fabrics.
-မင်းမှာ အကောင်းဆုံး အထည်များ ရှိပါလျှင် မင်း ငွေ အများကြီး ပေးချေနိုင်သည်။
+မင်းမှာ အကောင်းဆုံး အထည်များ ရှိပါလျှင် ငွေ အများကြီး ပေးချေနိုင်သည်။
 
 3881
 I think they control most of the market.
@@ -324,7 +324,7 @@ I think they control most of the market.
 
 3882
 I think they have most of the market for laundry hampers.
-သူတို့မှာ အဝတ်လျှော် ခြင်း အတွက် စျေးကွက် အများစု ရှိနေတယ်လို့ ကျွန်တော် ထင်ပါတယ်။
+သူတို့မှာ အဝတ်လျှော် ခြင်းတွေ အတွက် စျေးကွက် အများစု ရှိနေတယ်လို့ ကျွန်တော် ထင်ပါတယ်။
 
 3883
 They are just breaking into the market right now.
@@ -336,23 +336,23 @@ I was growing up in Texas in the 90's.
 
 3885
 I was growing up.
-ကျွန်တော် ကြီးပြင်းလာတယ်။
+ကျွန်တော် ကြီးပြင်းလာခဲ့တယ်။
 
 3886
 It was once I was an old person.
-တစ်ချိန်က ကျွန်တော်ဟာ လူဟောင်း တစ်ယောက် ဖြစ်ခဲ့ပါတယ်။
+ကျွန်တော်ဟာ လူဟောင်း တစ်ယောက် ဖြစ်ခဲ့တယ်ဆိုတာ တစ်ချိန်တုန်းက ဖြစ်ခဲ့တာပါ။
 
 3887
 People in Amarillo are really used to snow.
-အမ်မာရေးလို ရှိလူများသည် နှင်းတွေကို တကယ်ကို အသုံးပြုကျသည်။
+အမ်မာရေးလို ရှိ လူများသည် နှင်းတွေကို တကယ်ကို အသုံးပြုကျသည်။
 
 3888
 People in Amarillo go nuts when there's snow on the ground.
-အမ်မာရေးလို မှလူများသည် မြေပြင်ပေါ်တွင် နှင်းများကျနေချိန်တွင် မှုန်ကုပ်ကုပ် ဖြစ်နေသည်။
+မြေပြင်ပေါ်တွင် နှင်းများကျနေချိန်တွင် အမ်မာရေးလို မှ လူများသည် အခွံမားသီးတွေကို ခူးကြသည်။
 
 3889
 People in Amarillo refuse to leave their houses when there is snow.
-အမ်မာရေးလို တွင် လူများသည် နှင်းများကျ သောအခါ သူတို့၏ အိမ်မှ ထွက်ခွာရန် ငြင်းဆန်ကြသည်။
+အမ်မာရေးလို တွင် လူများသည် နှင်းများကျချိန်တွင် သူတို့၏ အိမ်များမှ ထွက်ခွာရန် ငြင်းဆန်ကြသည်။
 
 3890
 Childcare costs $2000 more off base.
@@ -380,7 +380,7 @@ They haven't gone to the store in the past month.
 
 3896
 We dont like skiing, so we just buy bowling materials.
-ကျွန်တော်တို့ နှင်းလျှောစီးရတာကို မကြိုက်တဲ့အတွက် ၊ ကျွန်တော်တို့ ဘိုးလင်း ပစ္စည်းတွေကိုပဲ ဝယ်ပါတယ်။
+ကျွန်တော်တို့ နှင်းလျှောစီးရတာကို မကြိုက်တဲ့အတွက် ၊ ကျွန်တော်တို့ ဘိုးလင်း ပစ္စည်းတွေသာ ဝယ်ပါတယ်။
 
 3897
 We have five sets of cross country skiies.
@@ -394,8 +394,8 @@ We own cross country skies.
 
 3899
 It's not a good idea to put signs up saying you have an alarm.
-သင့်တွင် နှိုးစက် တစ်လုံး ရှိနေသည်ဟုဆိုကာ အမှတ်အသားတွေ ထားခြင်းသည် ကောင်းသောအကြံမဟုတ်ပါ။
+သင့်တွင် နှိုးစက် တစ်လုံး ရှိနေသည်ဟုဆိုကာ အချက်ပေးဖို့ ထားခြင်းသည် ကောင်းသောအကြံမဟုတ်ပါ။
 
 3900
 The alarm company gives you signs to put in each window.
-နှိုးစက် ကုမ္ပဏီသည် သင့်အား ပြတင်းပေါက် တစ်ခုစီတွင် ထည့်သွင်းရန် ဆိုင်းဘုတ်များ ပေးသည်။
+နှိုးစက် ကုမ္ပဏီသည် သင့်အား ပြတင်းပေါက် တစ်ခုစီတွင် ထည့်သွင်းရန် အချက်ပေးများ ထားရှိပေးသည်။
