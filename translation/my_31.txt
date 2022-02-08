@@ -12,7 +12,7 @@ She never admitted that she was wrong.
 
 3004
 She never said that she was right about the meatloaf.
-သူမသည် အသားမုန့်နှင့် ပတ်သက်၍ မှန်ကန်သည်ဟု သူမက တစ်ခါမှ မပြောခဲ့ပါ။
+သူမသည် အသားမုန့်နှင့် ပတ်သက်၍ မှန်ကန်ခဲ့သည်ဟု သူမက ဘယ်တုန်းကမှ မပြောခဲ့ဘူး။
 
 3005
 I didn't see it.
@@ -20,7 +20,7 @@ I didn't see it.
 
 3006
 I didn't see what the person was doing on Monday.
-တနင်္လာနေ့က ထိုလူ ဘာလုပ်နေလဲဆိုတာ ငါ မတွေ့ခဲ့ဘူး။
+တနင်္လာနေ့က ထိုလူ ဘာလုပ်နေခဲ့လဲဆိုတာ ငါ မတွေ့ခဲ့ဘူး။
 
 3007
 I saw every bit of it!
@@ -48,15 +48,15 @@ My brother in law was in the service.
 
 3013
 My brother never enlisted.
-ကျွန်တော်၏ အစ်ကိုက တစ်ခါမှ စာရင်းမသွင်းဖူးဘူး။
+ကျွန်တော်၏ အစ်ကိုက ဘယ်တုန်းကမှ မပါဝင်ခဲ့ဘူး။
 
 3014
 I thought I was going to led someone else go instead.
-အဲ့အစား တခြားသူကို ခေါ်သွားတော့မယ်လို့ ကျွန်တော် ထင်ပါတယ်။
+ကျွန်တော် အဲ့အစား တခြားသူကို ခေါ်သွားတော့မယ်လို့ ကျွန်တော် စဉ်းစားခဲ့တယ်။
 
 3015
 I thought I was going to let someone take my place in the meeting.
-အစည်းအဝေးမှာ တစ်ယောက်ယောက်က ကျွန်တော်၏ နေရာကို ရအောင်ယူမယ်လို့ ကျွန်တော် ထင်ပါတယ်။
+ကျွန်တော်က အစည်းအဝေးမှာ တစ်ယောက်ယောက်က ကျွန်တော်၏ နေရာကို ယူမယ်ဆို ခွင့်ပြုဖို့ရှိတယ်လို့ ကျွန်တော် စဉ်းစားခဲ့တယ်။
 
 3016
 I wasn't going to let anyone else go.
@@ -64,7 +64,7 @@ I wasn't going to let anyone else go.
 
 3017
 They told me I should stay home.
-သူတို့က ကျွန်တော်ကို ကျွန်တော် အိမ်မှာနေသင့်တယ်လို့ ပြောကြတယ်။
+ကျွန်တော် အိမ်မှာနေသင့်တယ်လို့ သူတို့က ကျွန်တော်ကို ပြောခဲ့တယ်။
 
 3018
 They told me to grab my bags.
@@ -80,7 +80,7 @@ He changes his mind a lot.
 
 3021
 He changes his mind because he doesn't know what he's doing.
-သူသည် ဘာလုပ်နေလဲဆိုတာကို သူမသိ သောကြောင့် သူသည် သူ၏ စိတ်ကို ပြောင်းလဲလိုက်တယ်။
+သူ ဘာတွေလုပ်နေလဲဆိုတာကို သူက မသိ သောကြောင့် သူသည် သူ၏ စိတ်ကို ပြောင်းလဲလိုက်တယ်။
 
 3022
 He is very consistent and calm.
@@ -88,7 +88,7 @@ He is very consistent and calm.
 
 3023
 We couldn't tell anyone the U2 had landed.
-ယူတူးသည် ဆင်းသက်ခဲ့တယ်ဆိုတာ ဘယ်သူ့ကိုမှ ကျွန်တော်တို့ မပြောနိုင်ဘူး။
+ယူတူးက ဆင်းသက်ခဲ့တယ်ဆိုတာ ကျွန်တော်တို့ ဘယ်သူ့ကိုမှ မပြောနိုင်ပါဘူး။
 
 3024
 We told everyone all about it.
@@ -104,7 +104,7 @@ He asked how things were going.
 
 3027
 He asked if we were finishing the documentary.
-ကျွန်တော်တို့သည် မှတ်တမ်းရုပ်ရှင် ပြီးဆုံးပြီဆိုလျှင် သူက လှမ်းမေးတယ်။
+ကျွန်တော်တို့ မှတ်တမ်းရုပ်ရှင် ပြီးဆုံးပြီဆိုလျှင် သူက မေးမြန်းခဲ့သည်။
 
 3028
 He didn't speak to us at all.
@@ -124,7 +124,7 @@ I spun my wheel for a long time.
 
 3032
 I didn't know she almost died of TB.
-သူမ တီဘီရောဂါနဲ့ သေလုနီးပါးဖြစ်နေပြီဆိုတာ ကျွန်တော် မသိပါဘူး။
+သူမ တီဘီရောဂါနဲ့ သေလုနီးပါးဖြစ်နေပြီဆိုတာ ကျွန်တော် မသိခဲ့ဘူး။
 
 3033
 I didn't know she had TB.
@@ -132,11 +132,11 @@ I didn't know she had TB.
 
 3034
 I knew she was very sick with TB.
-သူမ တီဘီနဲ့ အရမ်းဖျာနာနေမှန်း ကျွန်တော် သိခဲ့တယ်။
+သူမ တီဘီနဲ့ အရမ်း ဖျားနာနေမှန်း ကျွန်တော် သိခဲ့တယ်။
 
 3035
 Counter pressure kills you every time.
-တန်ပြန် ဖိအားသည် အချိန်တိုင်း မင်းကို သေစေပါသည်။
+တန်ပြန် ဖိအားသည် မင်းကို အချိန်တိုင်း သေစေပါသည်။
 
 3036
 You need counter pressure above 5000 feet.
@@ -172,7 +172,7 @@ Why wouldn't she tell you about the baby?
 
 3044
 He never visited his family.
-သူသည် သူ၏ မိသားစုကို တစ်ခါမှ မရောက်ဖူးဘူး။
+သူသည် သူ၏ မိသားစုဆီ ဘယ်တုန်းကမှ မရောက်ခဲ့ဘူး။
 
 3045
 He stayed in Brooklynn with his family.
@@ -184,7 +184,7 @@ He stayed with them in New York.
 
 3047
 I never got training so I just figured it out as i went along.
-ကျွန်တော့်သည် လေ့ကျင့်မှု တခါမှ မရှိဖူးတဲ့အတွက် ကျွန်တော် လျှောက်လည်ရင်းနဲ့ ကျွန်တော် ၎င်းကို သိလိုက်ရတယ်။
+ကျွန်တော့်သည် လေ့ကျင့်မှု တခါမှ မရှိဖူးတဲ့အတွက် ကျွန်တော် လျှောက်လည်ရင်းနဲ့ ကျွန်တော် ၎င်းကို နားလည်ခဲ့တယ်။
 
 3048
 Two guys trained me to work at that store.
@@ -200,11 +200,11 @@ She didn't mention if she was going to return or not.
 
 3051
 She said she was going to return later.
-သူမက နောက်မှ ပြန်လာမယ်လို့ ပြောခဲ့တယ်။
+သူမ နောက်မှ ပြန်လာမယ်လို့ သူမက ပြောခဲ့တယ်။
 
 3052
 She said she'd come back to the office with lunch.
-သူမက နေ့လယ်စာစားပြီး ရုံးကိုပြန်လာမယ်လို့ သူမက ပြောတယ်။
+သူမက နေ့လယ်စာစားပြီး ရုံးကိုပြန်လာမယ်လို့ သူမက ပြောခဲ့တယ်။
 
 3053
 We didn't know what the heck a u2 was.
@@ -212,7 +212,7 @@ We didn't know what the heck a u2 was.
 
 3054
 We didn't know what to call the thing we saw in the air.
-လေထဲမှာ တွေ့တဲ့ အရာကို ဘယ်လိုခေါ်ရမှန်း ကျွန်တော်တို့ မသိခဲ့ဘူး။
+ကျွန်တော်တို့ လေထဲမှာ တွေ့ရတဲ့ အရာကို ဘယ်လိုခေါ်ရမှန်း ကျွန်တော်တို့ မသိခဲ့ဘူး။
 
 3055
 We knew all about the U2!
@@ -220,15 +220,15 @@ We knew all about the U2!
 
 3056
 The regulator was worthless.
-စည်းကမ်းထိန်းသိမ်းရေးအဖွဲ့သည် တန်ဖိုးမရှိခဲ့ပေ။
+လေဖိအားတိုင်းကိရိယာသည် တန်ဖိုးမရှိခဲ့ပေ။
 
 3057
 The regulator would change the pressure of everything in your suit.
-စည်းကမ်းထိန်းသိမ်းရေးသည် သင့် ဝတ်စုံရှိ အရာအားလုံး၏ ဖိအားကို ပြောင်းလဲပေးလိမ့်မည်။
+လေဖိအားတိုင်းကိရိယာသည် သင့် ဝတ်စုံရှိ အရာအားလုံး၏ ဖိအားကို ပြောင်းလဲပေးလိမ့်မည်။
 
 3058
 You'd have to tinker with the regulator.
-မင်း စည်းကမ်းထိန်းသိမ်းရေးအဖွဲ့နှင့် ညှိနှိုင်းရမည်ဖြစ်ပါသည်။
+မင်း လေဖိအားတိုင်းကိရိယာနှင့် ညှိနှိုင်းရမည် ဖြစ်ပါသည်။
 
 3059
 I had set the injector on Tuesday.
@@ -236,11 +236,11 @@ I had set the injector on Tuesday.
 
 3060
 I was a 922.
-ကျွန်တော်က ၉၂၂ တစ်ခုပါ။
+ကျွန်တော်က ၉၂၂ တစ်ခု ဖြစ်ခဲ့တယ်။
 
 3061
 I was never a 922.
-ငါက ၉၂၂ မဟုတ်ဘူး။
+ငါက ၉၂၂ မဟုတ်ခဲ့ဘူး။
 
 3062
 She didn't understand that she was stuck with the guy forever even though she'd never met him.
@@ -308,7 +308,7 @@ I asked how urgent it was.
 
 3078
 I knew the work needed to be done right now.
-အခု လုပ်ရမယ့် အလုပ်တွေကို လိုအပ်ခဲ့တယ်ဆိုတာ ငါသိတယ်။
+အခု လုပ်ရမယ့် အလုပ်တွေကို လိုအပ်ခဲ့တယ်ဆိုတာ ငါသိခဲ့တယ်။
 
 3079
 i asked if the client would be mad if it waited until 2pm because i had an appointment tonight.
@@ -328,7 +328,7 @@ They lived in Evans which is very small.
 
 3083
 My sister said I was racist.
-ကျွန်တော် ညီမက ကျွန်တော်သည် လူမျိုးရေးခွဲခြာသည်လို့ ပြောပါတယ်။
+ကျွန်တော် ညီမက ကျွန်တော်သည် လူမျိုးရေးခွဲခြားသည်လို့ ပြောပါတယ်။
 
 3084
 My sister said I wasn't always nice.
@@ -380,7 +380,7 @@ The paint changes according to color.
 
 3096
 The paint changes so you can tell how hot it is without measuring it.
-ဆေးသည် ဘယ်လို ပူသည်ကို ၎င်းကို မတိုင်းတာဘဲ မင်း ပြောနိုင်တယ်ဆိုတာကို ပြောင်းလဲသည်။
+ဆေးသည် ပြောင်းလဲသည် ဒါကြောင့် ဘယ်လို ပူသည်ကို ၎င်းကို မတိုင်းတာဘဲ မင်း ပြောနိုင်သည်။
 
 3097 
 the paint is always black.
