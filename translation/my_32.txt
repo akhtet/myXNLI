@@ -1,10 +1,10 @@
 3101
 Did he remain in Augusta?
-သူက ဩဂတ်စတာမှာ ရှိနေသလား။
+သူက ဩဂတ်စတာမှာ ကျန်နေခဲ့တာလား။
 
 3102
 Did he stay in Augusta after the riot?
-သူက အဓိကရုဏ်း အပြီးတွင် ဩဂတ်စတာတွင် နေပါသလား။
+သူက အဓိကရုဏ်း အပြီးတွင် ဩဂတ်စတာတွင် နေခဲ့သလား။
 
 3103
 I know he left Augusta immediately.
@@ -12,7 +12,7 @@ I know he left Augusta immediately.
 
 3104
 Her brother in law was light colored.
-သူ၏ ယောက္ခမဖြစ်သူသည် အရောင် ဖြူဖျော့သည်။
+သူ၏ ယောက္ခမဖြစ်သူသည် အရောင် ဖြူဖျော့ခဲ့သည်။
 
 3105
 her brother in law was swedish.
@@ -44,7 +44,7 @@ They invented a regulator that worked in space.
 
 3112
 They still couldn't figure out how to make a high O2 regulator.
-မြင့်မားသော အိုတူး ထိန်းညှိမှု တစ်ခုကို မည်သို့ပြုလုပ်ရမည်ကို ၎င်းတို့ မသိနိုင်သေးပါ။
+မြင့်မားသော အိုတူး ထိန်းညှိကိရိယာ တစ်ခုကို မည်သို့ ပြုလုပ်ရမည်ကို သူတို့ မသိနိုင်သေးပါ။
 
 3113
 I have never been to Los Vegas in my life.
@@ -64,7 +64,7 @@ I hated every bit of school!
 
 3117
 I liked fourth grade because we had two recesses.
-ကျွန်တော်တို့ နှစ်ယောက်တည်း ရပ်နားထားတာကြောင့် ကျွန်တော် စတုတ္ထတန်းကို ကြိုက်တယ်။
+ကျွန်တော်တို့ ရပ်နားချိန် နှစ်ခု ရှိခဲ့ သောကြောင့် ကျွန်တော် စတုတ္ထတန်းကို ကြိုက်ခဲ့တယ်။
 
 3118
 I liked fourth grade.
@@ -84,7 +84,7 @@ The tabs show the current balance of every account.
 
 3122
 I decided to come home at lunch and take the rest of the day off.
-ကျွန်တော် နေ့လယ်စာအတွက် အိမ်သို့ ပြန်ဖို့ ဆုံးဖြတ်ခဲ့ပြီး ဒီနေ့ကို အနားယူခဲ့သည်။
+ကျွန်တော် နေ့လယ်စာ အတွက် အိမ်သို့ ပြန်ဖို့ ဆုံးဖြတ်ခဲ့ပြီး ဒီနေ့ကို အနားယူခဲ့သည်။
 
 3123
 I didnt do anything significant after 6:30 today.
@@ -96,7 +96,7 @@ I spent most of the day dealing with a complicated customer billing issue.
 
 3125
 I don't care if you do it yourself or hire it out.
-မင်းကိုယ်တိုင် ဒါကို လုပ်မလား ဒါမှမဟုတ် ငှားမလား ငါဂရုမစိုက်ဘူး။
+သင်သည် ဒါကို သင်ကိုယ်တိုင် လုပ်လျှင် သို့မဟုတ် ဒါကို ငှားရမ်းမယ်ဆိုလျှင် ကျွန်တော် ဂရုမစိုက်ပါဘူး။
 
 3126
 I don't care what your method is.
@@ -108,7 +108,7 @@ I need to know exactly how you will do this.
 
 3128
 She kept talking to her coworkers about the guy running away.
-သူမသည် ထွက်ပြေးသွားတဲ့ ကောင်လေး အကြောင်း သူ၏ လုပ်ဖော်ကိုင်ဖက်တွေနဲ့ ဆက်ပြောခဲ့တယ်။
+သူမသည် ထွက်ပြေးသွားတဲ့ ကောင်လေး အကြောင်းကို သူမ၏ လုပ်ဖော်ကိုင်ဖက်တွေနဲ့ ဆက်လက် ပြောနေခဲ့တယ်။
 
 3129
 She kept talking.
@@ -116,7 +116,7 @@ She kept talking.
 
 3130
 She stayed silent and looked down at her desk.
-သူမ တိတ်တိတ်ဆိတ်ဆိတ် နေခဲ့ ပြီး သူမ စားပွဲကို ငုံ့ကြည့်နေသည်။
+သူမ တိတ်တိတ်ဆိတ်ဆိတ် နေခဲ့ ပြီး သူမ၏ စားပွဲကို ငုံ့ကြည့်နေသည်။
 
 3131
 They built a house on Mallard Creek.
@@ -132,7 +132,7 @@ They then lived in Mallard Creek.
 
 3134
 If there is a surge of electricity, it's very dangerous to anyone around.
-လျှပ်စစ်မီးအားချက်ချင်းတက်လာရင် ၊ ပတ်ဝန်းကျင်က လူတွေကို အရမ်း အန္တရာယ်များတယ်။
+လျှပ်စစ်မီးအား ချက်ချင်းတက်လာရင် ၊ ပတ်ဝန်းကျင်က လူတွေ အရမ်း အန္တရာယ်များတယ်။
 
 3135
 If there is a surge, there is a noise that accompanies it.
@@ -156,7 +156,7 @@ His dad was a pastor.
 
 3140
 I have all the information I could ever need.
-ကျွန်တော် လိုအပ်သမျှ အချက်အလက်တွေ အကုန် ကျွန်တော့်မှာ ရှိတယ်။
+ကျွန်တော် အမြဲ လိုအပ်နေတဲ့ အချက်အလက်တွေ အကုန် ကျွန်တော့်မှာ ရှိတယ်။
 
 3141
 I need more information to decide what kind of car to purchase.
@@ -172,11 +172,11 @@ I didn't know if he wanted information about the travel times.
 
 3144
 I gave him every detail because I knew he wanted it.
-သူ ဒါကို လိုချင်တာ သိခဲ့လို့ ကျွန်တော်က အသေးစိတ်ကို သူ့ကို ပေးခဲ့တယ်။
+သူ ဒါကို လိုချင်တာ ကျွန်တော် သိခဲ့လို့ ကျွန်တော်က အသေးစိတ်အချက်တိုင်းကို သူ့ကို ပေးခဲ့တယ်။
 
 3145
 I wasn't sure how in depth it should be.
-မည်ကဲ့သို့ လေးလေးနက်နက် ဖြစ်ရမည်ကို ကျွန်တော် မသေချာခဲ့ပါ။
+၎င်းသည် မည်ကဲ့သို့ လေးလေးနက်နက် ဖြစ်သင့်သည်ကို ကျွန်တော် မသေချာ ဖြစ်ခဲ့ပါသည်။
 
 3146
 He said he would call once he got home.
@@ -268,7 +268,7 @@ We deployed our forces in 1968.
 
 3168
 We never ended up deploying anyone.
-ကျွန်တော်တို့က တပ်ဖြန့်ထားတဲ့ ဘယ်သူ့ကိုမှ အဆုံးမသတ်ဘူး။
+ကျွန်တော်တို့က တပ်ဖြန့်မည့် ဘယ်သူ့ကိုမှ အဆုံးမသတ်ဘူး။
 
 3169
 We sent our troops to Japan in June 1968.
@@ -276,19 +276,19 @@ We sent our troops to Japan in June 1968.
 
 3170
 He said I could turn it in whenever.
-ကျွန်တော်တို့ အချိန်မရွေး လှည့်လို့ရတယ်လို့ သူက ပြောပါတယ်။
+ကျွန်တော်တို့ အချိန်မရွေး ၎င်းကို လှည့်လို့ရတယ်လို့ သူက ပြောပါတယ်။
 
 3171
 He told me I had to finish the whole project by 2pm.
-ငါတို့ ပရောဂျက် တစ်ခုလုံးကို နေ့လည် ၂ နာရီမှာ အပြီးသတ်ရမယ်လို့ သူက ပြောခဲ့တယ်။
+ငါတို့သည် ပရောဂျက် တစ်ခုလုံးကို နေ့လည် ၂ နာရီမှာ အပြီးသတ်ရမယ်လို့ သူက ငါတို့ကို ပြောခဲ့တယ်။
 
 3172
 He told me it was urgent.
-အရေးတကြီးဖြစ်တယ်လို့ သူက ပြောခဲ့တယ်။
+ဒါက အရေးတကြီးဖြစ်ခဲ့တာလို့ သူက ငါ့ကို ပြောခဲ့တယ်။
 
 3173
 She said I should just assume the school would be fine.
-ကျွန်တော်က ကျောင်းက အဆင်ပြေမယ်လို့ ယူဆရတယ် ဟု သူမက ပြောခဲ့သည်။
+ကျွန်တော်သည် ကျောင်းက အဆင်ပြေမယ်လို့ ယူဆသင့်ကြောင့်ကို သူမက ပြောခဲ့သည်။
 
 3174
 She said I shouldn't fret.
@@ -316,7 +316,7 @@ My mom had to pick cotton and corn.
 
 3180
 My mom was the golden child so she didn't have to work.
-အမေက ရွှေကဲ့သို့သော ကလေးတွေ ရှိတာမလို့ သူမ အလုပ်လုပ်ရန် မရှိပါဘူး။
+အမေက ရွှေကဲ့သို့သော ကလေးတွေ ရှိခဲ့တာမလို့ သူမ အလုပ်လုပ်စရာမလိုခဲ့ပါဘူး။
 
 3181
 My mother had to work outside.
@@ -324,7 +324,7 @@ My mother had to work outside.
 
 3182
 Joe was the only person who had a key to the break room.
-ဂျိုးသည် နားနေခန်း သော့ တစ်ချောင်း ရှိတဲ့သူ တစ်ဦးတည်းသာ ဖြစ်ခဲ့သည်။
+ဂျိုးသည် နားနေခန်း သော့ တစ်ချောင်း ရှိသော တစ်ဦးတည်းသော လူ ဖြစ်ခဲ့သည်။
 
 3183
 No mater how hard we tried we just couldnt get Joe to leave us alone.
@@ -336,7 +336,7 @@ One day Joe was just gone and nobody could figure out where he went.
 
 3185
 I blamed it on my sister.
-ကျွန်တော်က ဒါကို ညီမလေးကို အပြစ်တင်ခဲ့တယ်။
+ကျွန်တော်က ဒါကို ကျွန်တော့် ညီမလေးကို အပြစ်တင်ခဲ့တယ်။
 
 3186
 I said it was mine.
@@ -348,7 +348,7 @@ I told them the dog belonged to my sister.
 
 3188
 She said her mom also walks on her tip toes.
-သူ၏ အမေက ခြေဖျားထောက် လမ်းလျှောက်နေတယ်လို့ သူမက ပြောခဲ့တယ်။
+သူမ၏ အမေက သူမ ၏ ခြေဖျားထောက် လမ်းလျှောက်နေတယ်လို့ သူမက ပြောခဲ့တယ်။
 
 3189
 She said her mom has the same walk.
@@ -392,8 +392,8 @@ I returned to my seat.
 
 3199
 I went back and sat down because my boss told me to.
-ကျွန်တော် သူဌေးက ကျွန်တော်ကို ပြောခဲ့သောကြောင့် ကျွန်တော် ပြန်လာခဲ့ ပြီး ထိုင်နေခဲ့တာပါ။
+ကျွန်တော့် သူဌေးက ကျွန်တော်ကို ပြောခဲ့သောကြောင့် ကျွန်တော် ပြန်လာခဲ့ ပြီး ထိုင်နေခဲ့တာပါ။
 
 3200
 I have no memories of that house.
-အဲဒီ အိမ်မှာ အမှတ်ရစရာ မရှိပါဘူး။
+ကျွန်တော့်တော့ အဲဒီ အိမ်မှာ အမှတ်ရစရာ မရှိပါဘူး။
