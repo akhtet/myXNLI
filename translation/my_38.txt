@@ -24,7 +24,7 @@ I know he would love to do that!
 
 3707
 I understand it very well.
-ကျွန်တော် ဒါကို ကောင်းစွာ နားလည်ပါတယ်။
+ကျွန်တော် ဒါကို အလွန် ကောင်းစွာ နားလည်ပါတယ်။
 
 3708
 I was a little confused.
@@ -32,7 +32,7 @@ I was a little confused.
 
 3709
 I was confused about how it all happens.
-ဒါတွေ အာလုံး ဘယ်လို ဖြစ်တာလဲဆိုတာနဲ့ပတ်သတ်ပြီး ကျွန်တော် ရှုပ်သွားတယ်။
+ဒါတွေ အာလုံး ဘယ်လို ဖြစ်တာလဲဆိုတာနဲ့ပတ်သတ်ပြီး ကျွန်တော် ခေါင်းရှုပ်ခဲ့တယ်။
 
 3710
 I also have a daughter that is younger than the boys.
@@ -47,11 +47,8 @@ My boys are twelve and sixteen years old.
 ကျွန်တော် ၏ ကောင်လေးတွေက ဆယ့်နှစ်နှစ် နှင့် ဆယ့်ခြောက်နှစ် ပါ။
 
 3713
-I knew instantly that the name was Piece of Parliament.
-အဆိုပါ နာမည်သည် ပါလီမန် ၏ အပိုင်း ဖြစ်ခဲ့တယ် ဆိုတာ ကျွန်တော် ချက်ချင်း သိခဲ့သည်။
-# REVIEW
-# Piece of Parliament
-# Peace of Parliament
+I knew instantly that the name was Peace of Parliament.
+အဆိုပါ နာမည်သည် လွှတ်တော် ၏ ငြိမ်းချမ်းရေး ဖြစ်ခဲ့တယ် ဆိုတာ ကျွန်တော် ချက်ချင်း သိခဲ့သည်။
 
 3714
 I often have trouble recalling names on the spot.
@@ -59,10 +56,7 @@ I often have trouble recalling names on the spot.
 
 3715
 The name escaped me at first but it is referred to as the Peace of Parliament.
-ပထမတော့ နာမည်ကို မေ့သွား ပေမယ့် ဒါက လွှတ်တော် ငြိမ်းချမ်းရေး အဖြစ် ရည်ညွှန်းသည်။
-# REVIEW
-# Piece of Parliament
-# Peace of Parliament
+ပထမတော့ နာမည်ကို မေ့သွား ပေမယ့် ဒါက လွှတ်တော် ၏ ငြိမ်းချမ်းရေး အဖြစ် ရည်ညွှန်းသည်။
 
 3716
 I am not able to use the cakes.
@@ -78,7 +72,7 @@ I wish I could do something with the cakes but I have no use for them.
 
 3719
 It's an automatic weapon made out of plastic.
-၎င်းသည် ပလတ်စတစ်ဖြင့် ပြုလုပ်ထားသော အလိုအလျောက်ဖြစ်သော လက်နက် တစ်ခု ဖြစ်သည်။
+၎င်းသည် ပလတ်စတစ်ဖြင့် ပြုလုပ်ထားသော အလိုအလျောက်ပြုလုပ်ပေးသည့် လက်နက် တစ်ခု ဖြစ်သည်။
 
 3720
 It's more durable than a metal weapon.
@@ -114,7 +108,7 @@ Their clothes are very stylish.
 
 3728
 I get along better with my girlfriend's daughter pretty well compared to my girlfriend.
-ကျွန်တော့် ရည်းစား ရဲ့သမီး သည် ကျွန်တော့် ရည်းစားနဲ့ နှိုင်းယှဉ်ရင် အတော်လေး လှပနေတာက အတော်ကောင်းတာပါပဲ။
+ကျွန်တော့် ရည်းစား ရဲ့သမီး သည် ကျွန်တော့် ရည်းစားနဲ့ နှိုင်းယှဉ်ရင် အတော်လေး လှပနေတာက ကျွန်တော်တော့ အတော်ကောင်းတာပါပဲ။
 
 3729
 I have to take my girlfriend's daughter shopping for clothing before the school year starts each year.
@@ -186,11 +180,13 @@ I was not expecting anyone to die.
 
 3746
 Of course, getting out of each other's way.
-ဟုတ်ပါတယ် ၊ အချင်းချင်း ၏ နည်းလမ်း မှ ထွက်ကြမယ်။
+ဟုတ်ပါတယ် ၊ တစ်ယောက်ချင်း ၏ နည်းလမ်းတွေဆီမှ ထွက်ကြမယ်။
+#
 
 3747
 Yes getting in the way of each other.
-ဟုတ်တယ် အချင်းချင်း လမ်းကြောင်းပေါ် ရောက်နေတာ။
+ဟုတ်တယ် တစ်ယောက်ချင်းစီ၏ နည်းလမ်းတွေဆီ ဝင်ရောက်နေတာ။
+# 
 
 3748
 Yes, it could be seen as a barrier to each other.
@@ -222,7 +218,7 @@ My sisters were much older than me.
 
 3755
 I really didn't like the seminar that was done by satellite.
-ဂြိုလ်တုက ပြုလုပ်တဲ့ ဆွေးနွေးပွဲကို ကျွန်တော် လုံးဝ မကြိုက်ဘူး။
+ဂြိုလ်တုဖြင့် ပြုလုပ်တဲ့ ဆွေးနွေးပွဲကို ကျွန်တော် လုံးဝ မကြိုက်ခဲ့ဘူး။
 
 3756
 I went to a seminar that was done by satellite.
@@ -246,7 +242,7 @@ The number of plants it can hold depends upon the types of plants you put in.
 
 3761
 I watched Dances with Wolves.
-ဝံပုလွေများနှင့် ကခုန်ခြင်းကို ကြည့်ခဲ့တယ်။
+ကျွန်တော် ဝံပုလွေများနှင့် ကခုန်ခြင်းကို ကြည့်ခဲ့တယ်။
 
 3762
 I watched that Dances with Wolves movie on Friday night.
@@ -270,15 +266,16 @@ This is the most expensive place you can live!
 
 3767
 I believe it was out in the country.
-ထိုအရာ တိုင်းပြည်မှ ထွက်လာမယ်လို့ ကျွန်တော် ယုံကြည်တယ်။
+ထိုအရာသည် တိုင်းပြည်မှ ထွက်လာမယ်လို့ ကျွန်တော် ယုံကြည်တယ်။
 
 3768
 I believe the new house is way out in the country, miles from anything.
-အိမ် အသစ် က တိုင်းပြည်မှာ မိုင်အကွာအဝေးကနေ ၊ အပြင်မှာ လမ်း ရှိတယ် လို့ ငါ ယုံကြည်တယ်။
+အိမ် အသစ် က ဘယ်အရာကမဆို မိုင်များစွာဝေးသော ၊ ဒီတိုင်းပြည်တွင် ထွက်လမ်းဖြစ်တယ် လို့ ငါ ယုံကြည်တယ်။
+#
 
 3769
 It's right in the middle of the city.
-မြို့၏ အလယ်မှာ တည့်တည့်မတ်မတ် ရှိတယ်။
+၎င်းက မြို့၏ အလယ်မှာ တည့်တည့်မတ်မတ် ရှိတယ်။
 
 3770
 I wish that this did not have to happen since it was so discouraging.
@@ -330,7 +327,7 @@ I have never been to Texas
 
 3782
 I do not like to go when something is released the night of but rather wait a week to see it.
-ညက တစ်စုံတစ်ခု ထွက်လာ တဲ့အခါ ကျွန်တော် မသွားချင်ပေမယ့် အဲဒါကို ကြည့်ဖို့ တစ်ပတ်လောက် စောင့်ပါ။
+ညက တစ်စုံတစ်ခု ထုတ်ပြန်ခဲ့ချိန်မှာ ကျွန်တော် မသွားချင်ပေမယ့် အဲဒါကို သိရဖို့ တစ်ပတ်လောက် စောင့်ရတယ်။
 
 3783
 I was there on opening night of course!
@@ -338,11 +335,11 @@ I was there on opening night of course!
 
 3784
 It was a great time especially since it was a week after it was released.
-အထူးသဖြင့် ၎င်းသည် ထွက်ရှိပြီးနောက် သီတင်းပတ် တစ်ပတ် ကြာခဲ့သောကြောင့် အချိန်ကောင်း တစ်ခု ဖြစ်ခဲ့သည်။
+အထူးသဖြင့် ၎င်းကို ထုတ်ပြန်ခဲ့ပြီးနောက် သီတင်းပတ် တစ်ပတ် ကြာခဲ့သည်ဆိုကတည်းက ဒါဟာ အချိန်ကောင်း တစ်ခု ဖြစ်ခဲ့သည်။
 
 3785
 I bet you taught yourself how to do that.
-အဲဒါကို ဘယ်လို လုပ်ရမလဲ ဆိုတာကို မင်းကိုယ်မင်း သင်ယူခဲ့တယ်လို့ ငါ ထင်ပါတယ်။
+အဲဒါကို ဘယ်လို လုပ်ရမလဲ ဆိုတာကို မင်း ကိုယ်တိုင် သင်ယူခဲ့တယ်လို့ ငါ ထင်ပါတယ်။
 
 3786
 That is so lame, I am glad you dont know how to do it.
@@ -402,4 +399,4 @@ We get some holidays off through the year.
 
 3800
 We have way more money than we'd ever need!
-ကျွန်ုပ်တို့တွင် လိုအပ်သည်ထက် ငွေများ ပိုရသည့် နည်းလမ်း ရှိသည်။
+ကျွန်ုပ်တို့တွင် အမြဲ လိုအပ်သည်ထက် ငွေများ ပိုရသည့် နည်းလမ်း ကျွန်ုပ်တို့တွင် ရှိသည်။
