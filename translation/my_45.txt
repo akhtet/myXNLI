@@ -1,6 +1,6 @@
 4401
 There is a simple explanation of it.
-ထိုအရာ ၏ ရိုးရှင်းတဲ့ ရှင်းပြချက် တစ်ခု ရှိပါတယ်။
+ထိုအရာသည် ၎င်း၏ ရိုးရှင်းတဲ့ ရှင်းပြချက် တစ်ခု ဖြစ်ပါတယ်။
 
 4402
 You can understand it if you can read at a 7th grade level.
@@ -12,11 +12,11 @@ I would like pears more than apples.
 
 4404
 I would rather eat 100 pears than 1 apple.
-ပန်းသီး ၁ လုံးထက် သစ်တော်သီး အလုံး ၁၀၀ကို ပိုပြီး စားချင်တယ်။
+ကျွန်တော်က ပန်းသီး ၁ လုံးထက် သစ်တော်သီး အလုံး ၁၀၀ကို ပိုပြီး စားချင်တယ်။
 
 4405
 I would rather have 10 pears than 10 apples.
-ပန်းသီး ၁၀ လုံးထက် သစ်တော်သီး ၁၀ လုံးကို ပိုပြီး စားချင်တယ်။
+ကျွန်တော်က ပန်းသီး ၁၀ လုံးထက် သစ်တော်သီး ၁၀ လုံးကို ပိုပြီး စားချင်တယ်။
 
 4406
 Biospheres cannot control the growth of their own dimensionality.
@@ -48,7 +48,7 @@ Life has things you have to do.
 
 4413
 Life really has no obligations.
-ဘဝမှာ တကယ်ကို တာဝန်တွေ မရှိဘူး။
+အမှန်တကယ်တော့ ဘဝမှာ တာဝန်တွေ မရှိပါဘူး။
 
 4414
 People have to do really hard things to make their lives worth living.
@@ -56,7 +56,7 @@ People have to do really hard things to make their lives worth living.
 
 4415
 New laws are original.
-ဥပဒေ အသစ်များသည် မူရင်း ဖြစ်သည်။
+ဥပဒေ အသစ်များသည် မူရင်းအတိုင်း ဖြစ်သည်။
 
 4416
 The Greeks and Romans had laws that we use today.
@@ -96,7 +96,7 @@ God created the universe.
 
 4425
 It seems like nonliving entities are not here by chance.
-သက်ရှိမဟုတ်သော အရာများသည် ဒီနေရာမှာ မရှိခြင်းသည် အကြောင်းအားလျော်စွာ ဖြစ်ပုံပေါ်သည်။
+သက်ရှိမဟုတ်သော အရာများ ဒီနေရာမှာ မရှိခြင်းသည် အကြောင်းအားလျော်စွာ ဖြစ်ပုံပေါ်သည်။
 
 4426
 The big bang caused planets to arise spontaneously.
@@ -140,11 +140,11 @@ Early Americans talked about all the good things Spanish Mexicans did.
 
 4436
 He added three things.
-သူက အရာဝတ္ထု သုံးခုကို ထည့်ခဲ့သည်။
+သူက အရာဝတ္ထု သုံးခုကို ပေါင်းထည့်ခဲ့သည်။
 
 4437
 He never added anything.
-သူက ဘာကိုမှ မထည့်ဖူးဘူး။
+သူက ဘာကိုမှ ပေါင်းမထည့်ခဲ့ဘူး။
 
 4438
 He planned to add four things.
@@ -152,7 +152,7 @@ He planned to add four things.
 
 4439
 Gehry does not care about happiness.
-ဂဲရီသည် ပျော်ရွှင်မှုကို ဂရုမစိုက်ပါ။
+ဂဲရီသည် ပျော်ရွှင်မှုနှင့်ပတ်သက်၍ ဂရုမစိုက်ပါ။
 
 4440
 Gehry is a happy person.
@@ -284,7 +284,7 @@ We are still discovering the different shapes of proteins.
 
 4472
 One cannot tell the chaotic regime from the ordered regime; they are too similar.
-အမိန့်ပေးထားသော စစ်အာဏာရှင်ထံမှ ဖရိုဖရဲဖြစ်မှုကို မည်သူမှ မပြောနိုင်ပေ; သူတို့က အရမ်းတူတယ်။
+အမိန့်ပေးထားသော အစိုးရဆီမှ ပရမ်းပတာဖြစ်နေသော အစိုးရကို မည်သူမှ မပြောနိုင်ပေ; သူတို့က အရမ်းတူတယ်။
 
 4473
 The ordered regime is able to get more things done efficiently.
@@ -316,7 +316,7 @@ I do not have the solution for the puzzle of the natural game.
 
 4480
 This chapter has material on the natural game.
-ဤ အခန်းတွင် သဘာ‌ဝ ကစားနည်းအပေါ်မှာ အကြောင်းအရာများပါရှိသည်။
+ဤ အခန်းတွင် သဘာဝ ကစားနည်းရှိ အကြောင်းအရာများပါရှိသည်။
 
 4481
 The assassination occurred in the moth of May.
