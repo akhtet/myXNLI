@@ -24,7 +24,7 @@ The moment the priest places his hand on the missal, a miracle will occur and he
 
 4707
 The priest becomes invisible after placing his hand on the book.
-ဘုန်းကြီးက စာအုပ်ပေါ် သူ၏လက်ကို ထားခဲ့ ပြီးနောက် မမြင်နိုင်တော့ဘူး။
+ဘုန်းကြီးက စာအုပ်ပေါ် သူ၏လက်ကို တင်ထားခဲ့ ပြီးနောက် မမြင်နိုင်တော့ဘူး။
 
 4708
 The priest takes the book and throws it into the fire to burn for warmth.
@@ -56,7 +56,7 @@ Relajo told jokes.
 
 4715
 The low demand and high demand groups combine to a total of twenty.
-၀ယ်လိုအားနည်း နှင့် ဝယ်လိုအား မြင့် အုပ်စုများသည် စုစုပေါင်း နှစ်ဆယ် ပေါင်းစပ်ထားသည်။
+၀ယ်လိုအား နည်း နှင့် ဝယ်လိုအား မြင့် အုပ်စုများသည် စုစုပေါင်း နှစ်ဆယ် ပေါင်းစပ်ထားသည်။
 
 4716
 The low demand group averages below three hundred.
@@ -68,7 +68,7 @@ There are two groups that are defined by demand variation.
 
 4718
 The states change their electoral process when they see fit.
-ပြည်နယ်များက သူတို့သည် သင့်လျော်သည်ဟု မြင်ပါက ၎င်းတို့၏ ရွေးကောက်ပွဲ လုပ်ငန်းစဉ်ကို ပြောင်းလဲသည်။
+ပြည်နယ်များက သူတို့သည် သင့်လျော်သည်ဟု မြင်ပါက ၎င်းတို့၏ ရွေးကောက်ပွဲ လုပ်ငန်းစဉ်ကို ပြောင်းလဲမည်။
 
 4719
 The states never change the electoral process because they aren't allowed.
@@ -76,7 +76,7 @@ The states never change the electoral process because they aren't allowed.
 
 4720
 The states rule the electoral process.
-ပြည်နယ်များသည် ရွေးကောက်ပွဲ လုပ်ငန်းစဉ်ကို အုပ်စိုးသည်။
+ပြည်နယ်များသည် ရွေးကောက်ပွဲ လုပ်ငန်းစဉ်ကို ထိန်းချုပ်သည်။
 
 4721
 Their lack of motivation and doubts in their abilities stem from past failures.
@@ -88,11 +88,11 @@ These individuals are overconfident and rush in to handle even difficult problem
 
 4723
 They retreat from difficult problems and have doubts about their abilities.
-သူတို့ဟာ ခက်ခဲတဲ့ ပြဿနာတွေကနေ ဆုတ်ခွာ ပြီး သူတို့ရဲ့ စွမ်းရည်တွေကို သံသယရှိကြတယ်။
+သူတို့ဟာ ခက်ခဲတဲ့ ပြဿနာတွေကနေ နောက်ဆုတ် ပြီးနောက် သူတို့ရဲ့ စွမ်းရည်တွေနဲ့ ပတ်သက်ပြီး သံသယတွေ ရှိကြတယ်။
 
 4724
 I should ask her if she needs help with homework.
-သူမသည် အိမ်စာလုပ်ရာမှာ အကူအညီ လိုအပ်မည် ဆိုလျှင် သူမကို မေးသင့်ပါတယ်။
+သူမသည် အိမ်စာလုပ်ရာမှာ အကူအညီ လိုအပ်လားဆိုတာ ကျွန်တော် သူမကို မေးသင့်ပါတယ်။
 
 4725
 I should ask myself how to help her with homework.
@@ -100,7 +100,7 @@ I should ask myself how to help her with homework.
 
 4726
 I should not be tempted to help her with homework.
-အိမ်စာလုပ်ခိုင်းဖို့ သူမကို ကူညီရန် ကျွန်တော် သွေးဆောင်မခံသင့်ပါဘူး။
+အိမ်စာနှင့် သူမကို ကူညီရန် ကျွန်တော် သွေးဆောင်မခံသင့်ပါဘူး။
 
 4727
 Ancient moradas can be found in the northern part of New Mexico.
@@ -132,7 +132,7 @@ Katz narced on the drug trade.
 
 4734
 Katz only wrote about what other people did.
-ကတ်ဇ်သည် တခြားသူတွေ လုပ်ခဲ့တာတွေ နဲ့ပတ်သက်ပြီး ရေးခဲ့တယ်။
+ကတ်ဇ်သည် တခြားသူတွေ လုပ်ခဲ့တာတွေ နဲ့ပတ်သက်ပြီးသာ ရေးခဲ့တယ်။
 
 4735
 Linda Katz was a narc.
@@ -176,7 +176,7 @@ We are not happy with hollow walls and flimsy doors.
 
 4745
 A parent knows if language development is normal.
-ဘာသာစကား တိုးတက်မှုက ပုံမှန်ဟုတ်မဟုတ်လျှင် မိဘ တစ်ဦး က သိတယ်။
+ဘာသာစကား တိုးတက်မှုက ပုံမှန်ဖြစ်တယ်ဆိုလျှင် မိဘ တစ်ဦး က သိတယ်။
 
 4746
 A parent thinks being unable to speak by two years old is abnormal.
@@ -200,7 +200,7 @@ The details have been printed out on legal paper for everyone to see.
 
 4751
 I am telling you that I was given knowledge about everything.
-ငါက အရာရာတိုင်း နဲ့ပတ်သက်ပြီး အသိပညာ ပေးထားတယ်လို့ ငါ ပြောနေတာ။
+ငါက အရာရာတိုင်း နဲ့ပတ်သက်ပြီး အသိပညာ ပေးထားတယ်လို့ ငါ မင်းကို ပြောနေတာ။
 
 4752
 It is the detective's death that I was informed about.
@@ -232,11 +232,12 @@ Captain Blood's thoughts were broken by some noises.
 
 4759
 The puppy's screams jolted the captain from his ruminations.
-ခွေးလေး၏အော်သံသည် ကပ္ပတိန်အား သူ၏ စားဝတ်နေရေးကို တုန်လှုပ်စေခဲ့သည်။
+ခွေးလေး၏အော်သံသည် ကပ္ပတိန်အား သူ၏ စားမြုံ့ပြန်ခြင်းကို တုန်လှုပ်စေခဲ့သည်။
 
 4760
 Jeremy Pitt answered the laugh by giggling and throwing an uppercut into the laugher's face.
 ဂျယ်ရမီ ပစ်ဒ် က တခစ်ခစ်ရယ် ၍ ရယ်မောနေသော မျက်နှာကို အပေါ်ပိုင်းဖြတ်၍ ပစ်ချခြင်းဖြင့် ရယ်မောခြင်းကို တုံ့ပြန်ခဲ့သည်။
+# 
 
 4761
 Jeremy Pitt swore to fight for his country and his queen.
@@ -248,7 +249,7 @@ Someone laughed near Jeremy Pitt.
 
 4763
 You treated me kindly when I was a slave in Barbados.
-ကျွန်တော် ဘာဘေးဒိုးစ်မှာ ကျွန် တစ်ယောက် ဖြစ်ခဲ့တုန်းက မင်းက ငါ့ကို ကြင်ကြင်နာနာ ဆက်ဆံတယ်။
+ကျွန်တော် ဘာဘေးဒိုးစ်မှာ ကျွန် တစ်ယောက် ဖြစ်ခဲ့တုန်းက မင်းက ငါ့ကို ကြင်ကြင်နာနာ ဆက်ဆံခဲ့တယ်။
 
 4764
 You were incredibly cruel to me, and treated me worse than dirt.
@@ -296,7 +297,7 @@ I do not take orders from His Majesty.
 
 4775
 He never thought he owed you anything.
-သူ မင်းကို တစ်ခုခု အကြွေးတင်မယ် လို့ မထင်ခဲ့ဘူး။
+သူ မင်းကို တစ်ခုခု အကြွေးတင်မယ် လို့ သူ မထင်ခဲ့ဘူး။
 
 4776
 He owed you for the help you gave him as a penniless beggar.
@@ -320,7 +321,7 @@ Pitt witnessed how his lordship was serious during the scene.
 
 4781
 I traveled near to Jamaica after the sun had set.
-ကျွန်တော် နေဝင်ပြီးသည့်နောက် ဂျမေကာနားကို ခရီးထွက်ခဲ့တယ်။
+ကျွန်တော် နေဝင်ပြီးသည့်နောက် ဂျမေကာ အနီးအနားကို ခရီးထွက်ခဲ့တယ်။
 
 4782
 I traveled to Jamaica in a large boat.
@@ -368,7 +369,7 @@ There was more than one gun firing.
 
 4793
 Alright then, I will tell you about it.
-ကောင်းပြီ ၊ အဲဒါကို ငါပြောပြမယ်။
+ကောင်းပြီ ၊ အဲဒါနဲ့ပတ်သက်ပြီး ငါ မင်းကို ပြောပြမယ်။
 
 4794
 I will not say a word to you.
@@ -376,7 +377,7 @@ I will not say a word to you.
 
 4795
 It is only because you promised not to repeat this that I am telling you.
-ငါ မင်းကို ပြောနေတာတွေကို ထပ်တလဲလဲမလုပ်ဘူးလို့ မင်း ကတိပေးခဲ့သာပဲဖြစ်ပါတယ်။
+ငါ မင်းကို ပြောနေတာတွေကို ထပ်တလဲလဲမလုပ်ဘူးလို့ မင်း ကတိပေးခဲ့တာပဲဖြစ်ပါတယ်။
 
 4796
 I was arriving via the Royal Mary.
@@ -392,7 +393,7 @@ The Royal Mary was carrying me to Jamaica.
 
 4799
 He believed the crime committed could have been genocide.
-ကျူးလွန်ခဲ့သော ရာဇ၀တ်မှုသည် လူမျိုးတုံးသတ်ဖြတ်မှု ဖြစ်နိုင်သည်ဟု သူ ယုံကြည်သည်။
+ကျူးလွန်ခဲ့သော ရာဇ၀တ်မှုသည် လူမျိုးတုံးသတ်ဖြတ်မှု ဖြစ်နိုင်သည်ဟု သူ ယုံကြည်ခဲ့သည်။
 
 4800
 He chose not to take his hands because they are tainted with a crime.
