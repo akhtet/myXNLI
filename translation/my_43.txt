@@ -1,6 +1,6 @@
 4201
 La cancien rancheras are songs that only deal with cockroach infestations.
-လာ ကမ်စီယမ် ရမ်ချမ်စ်များသည် ပိုးဟပ်ပိုးများ စုပြုံကျရောက်ခြင်းကို သာလျှင် ကိုင်တွယ်ဖြေရှင်းနိုင်သော သီချင်းများဖြစ်သည်။
+လာ ကမ်စီယမ် ရမ်ချမ်စ်များသည် ပိုးဟပ်များ စုပြုံကျရောက်ခြင်းကို သာလျှင် ကိုင်တွယ်ဖြေရှင်းနိုင်သော သီချင်းများဖြစ်သည်။
 
 4202
 Omnes said you can see everything.
@@ -160,7 +160,7 @@ The Quad is a student dormitory.
 
 4241
 The baseballs are not white enough.
-ဘေ့စ်ဘောတွေက လုံလောက်သော အဖြူရောင် မဟုတ်ပါ။
+ဘေ့စ်ဘောတွေက လုံလောက်အောင်ဖြူဖွေးမနေဘူး။
 
 4242
 The others are doing a bad job.
@@ -264,7 +264,7 @@ Early sculptures were often referred to as art of the gods.
 
 4267
 The murals from earlier times were known as a people's art.
-ရှေး အချိန်တုန်းက ပန်းချီကားများကို လူတို့၏ အနုပညာဟု လူသိများသည်။
+ရှေး အချိန်တုန်းက ပန်းချီကားများကို လူတို့၏ အနုပညာ တစ်ရပ် ဟု လူသိများသည်။
 
 4268
 The audience is hidden because of the cubicles.
@@ -304,7 +304,7 @@ The plan is to invade a country.
 
 4277
 Plantation capitalism has ended.
-အရင်းရှင်ဝါဒ စိုက်ပျိုးမှု ပြီးဆုံးသွားပြီ။
+အရင်းရှင်ဝါဒဆန်သော စိုက်ပျိုးရေးလုပ်ငန်းများ ပြီးဆုံးသွားပြီ။
 
 4278
 Plantation capitalism is wrong.
@@ -312,7 +312,7 @@ Plantation capitalism is wrong.
 
 4279
 There was no end to communism in Europe.
-ဥရောပတွင် ကွန်မြူနစ်ဝါဒသည် အဆုံး မရှိခဲ့ပေ။
+ဥရောပတွင် ကွန်မြူနစ်ဝါဒသည် အဆုံးမသတ်ခဲ့ပေ။
 
 4280
 I have more pears than apples.
@@ -340,7 +340,7 @@ Guns are not in a category.
 
 4286
 The festival happens within a week.
-ပွဲတော်ကို တစ်ပတ်အတွင်း ဖြစ်ပျက်မည်။
+ပွဲတော်သည် တစ်ပတ်အတွင်း ဖြစ်ပေါ်မည်။
 
 4287
 The festival is in Italy.
@@ -372,7 +372,7 @@ Earthquakes have pretremors.
 
 4294
 Your heart cannot pick up earthquake pretremors.
-သင့် စိတ်နှလုံးသည် မြေငလျင် ကြိုတင်တုန်လှုပ်မှုများကို မခံစားနိုင်ပါ။
+မင်း နှလုံးသည် မြေငလျင် ကြိုတင်တုန်လှုပ်မှုများကို မခံစားနိုင်ပါ။
 
 4295
 Equal people are identical to one another.
