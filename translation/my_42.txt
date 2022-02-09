@@ -1,6 +1,6 @@
 4101
 Children can see how different races are different.
-ကလေးများ မည်ကဲ့သို့ အမျိုးမျိုးသော လူမျိုးစုများသည် ဘယ်လိုကွဲပြားသည်ကို မြင်တွေ့နိုင်သည်။
+ကလေးများ မတူညီသော လူမျိုးစုများ ဘယ်လို ကွဲပြားသည်ကို သိနိုင်ပါသည်။
 
 4102
 Children can't learn anything.
@@ -20,7 +20,7 @@ Celebration of a daughter's fifteenth birthday is a means of continuing cultural
 
 4106
 Some private persons denied social rights to black citizens.
-အချို့ ပုဂ္ဂလိက ပုဂ္ဂိုလ်များသည် လူမည်း နိုင်ငံသားများ အတွက် လူမှုရေး အခွင့်အရေးများကို ငြင်းပယ်ကြသည်။
+အချို့ ပုဂ္ဂလိကဆန်သော ပုဂ္ဂိုလ်များသည် လူမည်း နိုင်ငံသားများ အတွက် လူမှုရေး အခွင့်အရေးများကို ငြင်းပယ်ကြသည်။
 
 4107
 The private persons were white.
@@ -28,7 +28,7 @@ The private persons were white.
 
 4108
 The state was entirely responsible for the behavior of the private persons.
-နိုင်ငံတော်က ပုဂ္ဂလိက ပုဂ္ဂိုလ်များ၏ အပြုအမူအတွက် လုံး၀ တာဝန်ရှိသည်။
+နိုင်ငံတော်က ပုဂ္ဂလိကဆန်သော ပုဂ္ဂိုလ်များ၏ အပြုအမူအတွက် လုံး၀ တာဝန်ရှိသည်။
 
 4109
 While test results for young and older classmates are the same, younger classmates finish test faster
@@ -40,7 +40,7 @@ Young and old classmates achieve same results in test scores.
 
 4111
 Young and old classmates have different test results as age is a factor
-ငယ်ရွယ်သူများ နှင့် အသက်ကြီးသော အတန်းဖော်များသည် အသက်အရွယ်သည် အကြောင်းရင်းတစ်ခုဖြစ်သောကြောင့် စာမေးပွဲရလဒ် မတူကြပါ။
+ငယ်ရွယ်သူများ နှင့် အသက်ကြီးသော အတန်းဖော်များတွင် အသက်အရွယ်သည် အကြောင်းရင်း တစ်ခု ဖြစ်သောကြောင့် စာမေးပွဲရလဒ် မတူကြပါ။
 
 4112
 Principles from the federal constitution are what caused the same result as the postbellum legal order.
@@ -176,7 +176,8 @@ There must be some interplay.
 
 4145
 Crazy ideas are less edgy when they are ignored by civil society.
-သူတို့ကို အရပ်ဘက် လူမှုအဖွဲ့အစည်းများက လျစ်လျူရှုထားသောအခါတွင် ရူးသွပ်သော အတွေးအခေါ်များသည် တုန်လှုပ်ချောက်ချားမှု နည်းပါသည်။
+သူတို့ကို အရပ်ဘက် လူမှုအဖွဲ့အစည်းများက လျစ်လျူရှုထားသောအခါတွင် ရူးသွပ်သော အတွေးအခေါ်များသည် တုန်လှုပ်ချောက်ချားမှုကို လျော့နည်းစေသည်။
+
 
 4146
 Crazy ideas become more popular with civil society when they are ignored by civil society.
@@ -200,7 +201,7 @@ Pachucas wore a lot of makeup.
 
 4151
 The nongravitational forces must be incorporated in order for the spin network picture to be complete.
-နန်းဂရပ်ဗစ်ရှင်နယ် ဖိုစ့်သည် spin network ရုပ်ပုံ ပြီးပြည့်စုံစေရန် အတွက် ပေါင်းစပ်ထားရပါမည်။
+နန်းဂရပ်ဗစ်ရှင်နယ် ဖိုစ့်သည် လှည့်ပတ်ကွန်ရက် ရုပ်ပုံကို ပြီးပြည့်စုံစေရန် အတွက် ပေါင်းစပ်ထားရပါမည်။
 
 4152
 The particles had already been incorporated.
@@ -284,7 +285,8 @@ They say babies shuld depend on their moms until they are 21.
 
 4172
 The world deals with fact.
-ကမ္ဘာကြီးက အမှန်တရားနဲ့ ဆက်ဆံတယ်။
+ကမ္ဘာကြီးက အမှန်တရားကို ဖြေရှင်းပေးတယ်။
+
 
 4173
 There are no facts dealt with.
@@ -292,7 +294,7 @@ There are no facts dealt with.
 
 4174
 We refuse to deal with anything other than fact.
-ကျွန်ုပ်တို့သည် အမှန်တရားမှလွဲ၍ အခြားမည်သည့်အရာကိုမျှ ကိုင်တွယ်ရန် ငြင်းဆိုပါသည်။
+ကျွန်ုပ်တို့သည် အမှန်တရားမှလွဲ၍ အခြားအရာတွေကို ကိုင်တွယ်ဖြေရှင်းရန် ငြင်းဆိုပါသည်။
 
 4175
 The Fourteenth Amendment passed by just two votes after extended negotiation.
@@ -308,15 +310,15 @@ The constitution has always been very stable and never presented a real crisis.
 
 4178
 It is not surprising the same feature has no place in the micro economy.
-အသေးစား စီးပွားရေးတွင် တူညီသော အင်္ဂါရပ်မှာ နေရာမရှိသည်မှာ အံ့သြစရာမဟုတ်ပေ။
+အသေးစား စီးပွားရေးလုပ်ငန်းတွင် တူညီသော အင်္ဂါရပ်မှာ နေရာမရှိခြင်းဖြစ်သည်မှာ အံ့သြစရာမဟုတ်ပေ။
 
 4179
 It is worth noting the same feature may take place within the entire economy.
-တူညီသော အချက်အလက်သည် စီးပွားရေး တစ်ခုလုံး အတွင်းတွင် ဖြစ်ပေါ်လာနိုင်သည်ကို မှတ်သားထားသင့်သည်။
+တူညီသော အချက်က စီးပွားရေး တစ်ခုလုံး အတွင်းတွင် ဖြစ်ပေါ်လာနိုင်သည်ကို မှတ်သားထားသင့်သည်။
 
 4180
 Some find it interesting the same feature may occur in the digital economy sector.
-ဒစ်ဂျစ်တယ် စီးပွားရေး ကဏ္ဍတွင် တူညီသော အချက်အလက်ကို တွေ့ရှိရသည်မှာ စိတ်ဝင်စားဖွယ်ကောင်းသည်ဟု အချို့က ထိုအရာကို တွေ့ရှိသည်။
+ဒစ်ဂျစ်တယ် စီးပွားရေး ကဏ္ဍတွင် တူညီသော အချက်အလက်ကို တွေ့ရသည်မှာ စိတ်ဝင်စားဖွယ်ကောင်းသည်ဟု အချို့က ထိုအရာကို တွေ့ရှိသည်။
 
 4181
 Palomillas allowed young men to express themselves.
@@ -324,7 +326,7 @@ Palomillas allowed young men to express themselves.
 
 4182
 Palomillas consisted solely of several old women who told sad stories about frying pans.
-ပဲလိုမီလာများသည် အကြော် ဒယ်အိုးများ နဲ့ပတ်သတ်ပြီး ဝမ်းနည်းဖွယ် ပုံပြင်များ ပြောပြသော အသက်ကြီးကြီး အမျိုးသမီး အများအပြား သာ ပါဝင်သည်။
+ပဲလိုမီလာများတွင် အကြော် ဒယ်အိုးများ နဲ့ပတ်သတ်ပြီး ဝမ်းနည်းဖွယ် ပုံပြင်များ ပြောပြသော အသက်ကြီးကြီး အမျိုးသမီး အများအပြား သာ ပါဝင်သည်။
 
 4183
 Young men in palomillas told jokes about horses.
