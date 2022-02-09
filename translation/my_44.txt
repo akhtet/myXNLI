@@ -16,7 +16,7 @@ Children can become addicted to using computers and browsing the internet.
 
 4305
 Computers and the internet can cause family members to communicate less.
-ကွန်ပြူတာများနှင့် အင်တာနက်သည် မိသားစုဝင်များကို ဆက်သွယ်မှု နည်းပါးခြင်းကို ဖြစ်စေနိုင်ပါသည်။
+ကွန်ပြူတာများနှင့် အင်တာနက်သည် မိသားစုဝင်အချင်းချင်းကို ဆက်သွယ်မှု နည်းပါးခြင်းကို ဖြစ်စေနိုင်ပါသည်။
 
 4306
 There is proof that computers and internet enhance communication within a family.
@@ -44,7 +44,7 @@ They refuse to live with her father.
 
 4312
 They were almost caught by the bear.
-သူတို့ကို ဝက်ဝံက ဖမ်းလုနီးပါးဖြစ်သွားတယ်။
+သူတို့ကို ဝက်ဝံက ဖမ်းလုနီးပါး ဖြစ်သွားခဲ့တယ်။
 
 4313
 The term barbacoa is used to mean roasting vegetables in the oven.
@@ -64,7 +64,7 @@ Maxwell hated himself for creating that wee creature.
 
 4317
 Owing to the lack of skill, Maxwell never invented anything in his whole life.
-ကျွမ်းကျင်မှု ကင်းမဲ့မှု အကြောင်းအရင်းသည် ၊ မက်စ်ဝဲလ်သည် သူ၏ တစ်သက်တာလုံးတွင် မည်သည့်အရာကိုမျှ မတီထွင်ခဲ့လိုပါ။
+ကျွမ်းကျင်မှု ကင်းမဲ့ခြင်း၏ အကြောင်းအရင်းသည် ၊ မက်စ်ဝဲလ်သည် သူ၏ တစ်သက်တာလုံးတွင် မည်သည့်အရာကိုမျှ မတီထွင်ခဲ့လို့ပါ။
 
 4318
 The Maxwell demon is the work and creation of Maxwell's.
@@ -72,7 +72,7 @@ The Maxwell demon is the work and creation of Maxwell's.
 
 4319
 The assumption that officials have racial and ethnic maps is untrue.
-အာဏာပိုင်များတွင် လူမျိုးရေး နှင့် လူမျိုးရေး မြေပုံများ ရှိသည်ဟု ယူဆခြင်းသည် မမှန်ပါ။
+အာဏာပိုင်များတွင် ရှိသော မျိုးရိုးနှင့်ဆိုင်သော ယူဆချက်များ နှင့် လူမျိုးစု မြေပုံများသည် မမှန်ကန်ပါ။ 
 
 4320
 There is a common assumption about our officials.
@@ -164,7 +164,7 @@ There are novels that feature descriptions of the wetback experience.
 
 4342
 There hasn't been any writing that involves descriptions of the wetback experience.
-ထိုးစစ် အတွေ့အကြုံအကြောင်း ဖော်ပြချက်များ ပါဝင်သော မည်သည့် စာရေးခြင်း မရှိသေးပါ။
+ထိုးစစ် အတွေ့အကြုံအကြောင်း ဖော်ပြချက်များ ပါဝင်သော မည်သည့် စာရေးခြင်းမှ မရှိသေးပါ။
 
 4343
 The problem of exploitation is getting better.
@@ -204,7 +204,7 @@ Prayers are recited while clothes are washed.
 
 4352
 Taney said Congress could stop the writ for 10 miuntes.
-ကွန်ဂရက်လွှတ်တော်က စာချွန်တော်ကို ၁၀ မိနစ်ကြာ ရပ်တန့်နိုင်တယ်လို့ တိန်နေ က ပြောပါတယ်။
+ကွန်ဂရက်လွှတ်တော်က ၁၀ မိနစ်ကြာ စာချွန်တော်ကို ရပ်တန့်နိုင်တယ်လို့ တိန်နေ က ပြောပါတယ်။
 
 4353
 Taney said Congress had no power to stop the writ.
@@ -276,7 +276,7 @@ Members of car clubs sell cars.
 
 4370
 Preschool and elementary aged children often dream about the future.
-မူကြိုနှင့် မူလတန်း အရွယ် ကလေးများသည် အနာဂတ်ကို မကြာခဏ စိတ်ကူးကြသည်။
+မူကြိုနှင့် မူလတန်း အရွယ် ကလေးများသည် အနာဂတ်နဲ့ ပတ်သက်ပြီး မကြာခဏ စိတ်ကူးကြသည်။
 
 4371
 Preschool kids cannot comprehend the future.
@@ -288,7 +288,7 @@ Preschool kids think mostly about today.
 
 4373
 It will take a long time before computers can fully replace humans in making clothes.
-ကွန်ပြူတာများသည် လူသားများကို အဝတ်အစားများ ဖန်တီးရာတွင် အပြည့်အ၀ အစားမထိုးမီ အချိန်ကြာမြင့်မည်ဖြစ်သည်။
+ကွန်ပြူတာများသည် လူသားများကို အဝတ်အစားများ ဖန်တီးရာတွင် အပြည့်အ၀ အစားမထိုးနိုင်မီ အချိန်ကြာမြင့်မည်ဖြစ်သည်။
 
 4374
 People are better than computers at some sewing crafts.
@@ -312,19 +312,19 @@ Children would use a special knocking signal on their neighbors' doors.
 
 4379
 Even though it triumphed, the legal philosophy was morally wrong.
-၎င်းကို အောင်ပွဲခံသော်လည်း ၊ ဉပဒေဆိုင်ရာ အတွေးအခေါ်သည် အကျင့်စာရိတ္တအရ မှားယွင်းနေခဲ့သည်။
+၎င်းကို အောင်ပွဲခံသော်လည်း ၊ ဥပဒေဆိုင်ရာ အတွေးအခေါ်သည် အကျင့်စာရိတ္တအရ မှားယွင်းနေခဲ့သည်။
 
 4380
 The legal philosophy was defeated.
-ဉပဒေဆိုင်ရာ အတွေးအခေါ် က ရှုံးနိမ့်ခဲ့သည်။
+ဥပဒေဆိုင်ရာ အတွေးအခေါ် က ရှုံးနိမ့်ခဲ့သည်။
 
 4381
 The legal philosophy won in substance and style.
-ဉပဒေဆိုင်ရာ အတွေးအခေါ်သည် အနှစ်သာရ နှင့် စတိုင်တွင် အနိုင်ရခဲ့သည်။
+ဥပဒေဆိုင်ရာ အတွေးအခေါ်သည် အနှစ်သာရ နှင့် စတိုင်တွင် အနိုင်ရခဲ့သည်။
 
 4382
 It is public knowledge that there was only one culture.
-ယဉ်ကျေးမှု တစ်ခုပဲ ရှိတော့တယ်ဆိုတဲ့ အသိတရားသည် အများပြည်သူနှင့်ဆိုင်ပါသည်။
+ထိုအရာသည် ယဉ်ကျေးမှု တစ်ခုပဲ ရှိခဲ့တယ်ဆိုတဲ့ လူထုနှင့်ဆိုင်တဲ့ အသိပညာ ဖြစ်သည်။
 
 4383
 The cultures shared some common practices and traditions.
@@ -360,7 +360,7 @@ They were removed from their beds.
 
 4391
 The same applies to the sense of national identity.
-လူမျိုးရေးနှင့်ဆိုင်သော အမှတ်သညာ၏ ခံစားချက်သည်လည်း အလားတူပင်ဖြစ်သည်။
+အဆိုပါ တူညီချက်သည် အမျိုးသားရေး လက္ခဏာ ခံစားမှုကို အကျုံးဝင်စေသည်။
 
 4392
 The sense of nationhood depends on how well the economy is run.
@@ -368,7 +368,7 @@ The sense of nationhood depends on how well the economy is run.
 
 4393
 This is applicable everywhere else save for the sense of nationhood.
-၎င်းသည် လူမျိုးရေးနှင့်ဆိုင်သော အာရုံခံစားမှုအတွက် သက်သာသော အခြားနေရာတိုင်းတွင် သက်ဆိုင်ပါသည်။
+၎င်းသည် လူမျိုးရေးနှင့်ဆိုင်သော အာရုံခံစားမှုအတွက် သက်သာသော အခြားနေရာတိုင်းနဲ့ သက်ဆိုင်ပါသည်။
 
 4394
 C. P. Snow never wrote about science and humanities.
