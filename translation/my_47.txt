@@ -136,7 +136,7 @@ At higher fitness levels evolving populations are more likely to survive.
 
 4635
 Many factors work together to pull evolving populations to higher fitness levels.
-ဖွံ့ဖြိုးဆဲ လူဦးရေကို ပိုမိုမြင့်မားသော ကြံ့ခိုင်မှု အဆင့်များ သို့ ဆွဲငင် ရန် အကြောင်းရင်း များစွာသည် အတူတကွ လုပ်ဆောင်ကြသည်။
+ဖွံ့ဖြိုးဆဲ လူဦးရေကို ပိုမိုမြင့်မားသော ကြံ့ခိုင်မှု အဆင့်များ သို့ ဆွဲတင် ရန် အကြောင်းရင်း များစွာကို အတူတကွ လုပ်ဆောင်ကြသည်။
 
 4636
 There are no factors that help evolving populations reach higher fitness levels.
@@ -156,7 +156,7 @@ On Christmas Day, children went to the North Pole to visit Santa.
 
 4640
 Children who grow up around parents are always troublesome.
-မိဘတွေအနီးနားဝန်းကျင်မှာ ကြီးပြင်းလာတဲ့ ကလေးတွေဟာ အမြဲ ဒုက္ခ ရှိကြတယ်။
+မိဘတွေအနီးနားဝန်းကျင်မှာ ကြီးပြင်းလာတဲ့ ကလေးတွေဟာ အမြဲတမ်း စိတ်အနှောင့်အယှက်ပေးတယ်။
 
 4641
 Numerous studies have been done on parent-children bonds.
@@ -172,7 +172,7 @@ How can a parent gain respect from their child if they are acting disrespectfull
 
 4644
 It is important for children to respect their parents.
-ကလေးများသည် မိဘများကို လေးစားရန် အရေးကြီးသည်။
+ကလေးများသည် သူတို့၏ မိဘများကို လေးစားရန် အရေးကြီးသည်။
 
 4645
 It's easy for a parent to gain respect from their child when they are acting disrespectfully towards their spouse.
@@ -264,7 +264,7 @@ Today's children have access to TV, and they spend a lot of time watching it.
 
 4667
 Lipstadt was a cook.
-လစ်စတတ်သည် ထမင်းချက်သူဖြစ်သည်။
+လစ်စတတ်သည် စားဖိုမှုး တစ်ယောက် ဖြစ်ခဲ့သည်။
 
 4668
 Lipstadt wrote a book that got excellent reviews.
@@ -340,7 +340,7 @@ If it weren't for the law, we would have disobeyed the commander.
 
 4686
 The commander has found a way to make us do what he wants us to do.
-ကျွန်တော်တို့ကို သူလုပ်ချင်တာကို လုပ်ခိုင်းဖို့ တပ်မှူးက နည်းလမ်း တစ်ခုကို ရှာဖွေတယ်။
+ကျွန်တော်တို့ကို သူ လုပ်ချင်တာကို ကျွန်တော်တို့ကို လုပ်ခိုင်းဖို့ တပ်မှူးက နည်းလမ်း တစ်ခုကို ရှာဖွေတယ်။
 
 4687
 The commander knows that we will never listen to anything he says.
@@ -396,4 +396,4 @@ Spin glasses have no magnetic force.
 
 4700
 Many people today still speak one version of pachuco or the other.
-ယနေ့ လူ အတော်များများသည် ပါချူကို ဗားရှင်းတစ်မျိုး သို့မဟုတ် အခြားတစ်မျိုးကို ပြောဆိုနေကြဆဲဖြစ်သည်။ျ
+ယနေ့ လူ အတော်များများသည် ပါချူကို ၏ ထင်မြင်ချက် တစ်မျိုး သို့မဟုတ် အခြားတစ်မျိုးကို ပြောဆိုနေကြဆဲဖြစ်သည်။
