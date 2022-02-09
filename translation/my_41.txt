@@ -4,7 +4,7 @@ We are building the precursors necessary for a technology future.
 
 4002
 We build transistors, so our future will be run by AI.
-ကျွန်ုပ်တို့သည် ထရန်စစ္စတာများကို တည်ဆောက်ထားသောကြောင့် ၊ ကျွန်ုပ်တို့၏အနာဂတ်ကို အေအိုင် မှ လုပ်ဆောင်လိမ့်မည်။
+ကျွန်ုပ်တို့သည် ထရန်စစ္စတာများကို တည်ဆောက်ထားသောကြောင့် ၊ ကျွန်ုပ်တို့၏အနာဂတ်ကို အေအိုင် ဖြင့် လုပ်ဆောင်လိမ့်မည်။
 
 4003
 We want to prevent technology from succeeding.
@@ -44,7 +44,7 @@ I want to know, are they often in England?
 
 4012
 The speaker wanted clarification about how often they went near the boundary.
-သူတို့သည် နယ်နိမိတ်အနီးသို့ မကြာခဏသွားလေ့ရှိကြောင်း ဟောပြောသူက ရှင်းလင်းချက်ပေးလိုပါသည်။
+သူတို့သည် နယ်နိမိတ်အနီးသို့ မကြာခဏ သွားခဲ့သည့် အကြောင်းကို ပြောကြားသူက ရှင်းလင်းချင်ခဲ့သည်။
 
 4013
 The biosphere changes a lot.
@@ -76,15 +76,15 @@ Preschoolers are naturally better at puzzle solving than at playing pretend game
 
 4020
 Preschoolers do not need as much help learning how to pretend.
-မူကြိုကျောင်းများသည် ဘယ်လို ဟန်ဆောင်ရမည်ကို သင်ယူခြင်းကို များစွာ အကူအညီ မလိုအပ်ပါ။
+မူကြိုကလေးများသည် ဘယ်လို ဟန်ဆောင်ရမလည်း သင်ယူခြင်းကို များစွာ အကူအညီ မလိုအပ်ပါ။
 
 4021
 Preschoolers lack the necessary spatial modeling skills to master puzzles on their own.
-မူကြိုကျောင်းများသည် သူတို့ ကိုယ်တိုင် ပဟေဠိများကို ကျွမ်းကျင်ရန် လိုအပ်သော နေရာများ၏ ပုံစံငယ်များဖြစ်သည့် ကျွမ်းကျင်မှုများ လိုအပ်ပါသည်။
+မူကြိုကလေးများသည် သူတို့ ကိုယ်တိုင် ပဟေဠိများကို ကျွမ်းကျင်ရန် လိုအပ်သော နေရာများ၏ ပုံစံငယ်များဖြစ်သည့် ကျွမ်းကျင်မှုများ လိုအပ်ပါသည်။
 
 4022
 Espinosa resold these romances in France at a healthy profit.
-အက်စပီနိုဆာသည် ထို အချစ်သီချင်းများကို ကောင်းမွန်သော အမြတ်ဖြင့် ပြင်သစ်တွင် ပြန်လည်ရောင်းချခဲ့သည်။
+အက်စပီနိုဆာသည် ထို အချစ်သီချင်းများကို ကောင်းမွန်သော အမြတ် တစ်ခု ဖြင့် ပြင်သစ် တွင် ပြန်လည်ရောင်းချခဲ့သည်။
 
 4023
 Espinosa was interested in collecting romances.
@@ -104,7 +104,7 @@ More complex molecular devices can arise under some conditions.
 
 4027
 These molecular devices are mostly used to produce various poisons for protection.
-ထို မော်လီကျူး ပစ္စည်းများကို အကာအကွယ် အတွက် အဆိပ် အမျိုးမျိုး ထုတ်လုပ်ရန် အများဆုံး အသုံးပြုကြသည်။
+ထို မော်လီကျူး ပစ္စည်းများကို ကာကွယ်ဖို့ အတွက် အဆိပ် အမျိုးမျိုး ထုတ်လုပ်ရန် အများဆုံး အသုံးပြုကြသည်။
 
 4028
 The algorithm cannot decide how to make a perfect sandwich without human judgement.
@@ -156,11 +156,11 @@ Wittgenstein reminded people of this every time someone accused him of being lon
 
 4040
 I'm pretty sure I need to beat him for his failures.
-သူ့ရဲ့ ကျရှုံးမှုတွေ အတွက် သူ့ကို အနိုင်ယူဖို့ ကျွန်တော် လိုအပ်တယ်ဆိုတာ ကျွန်တော် တော်တော်လေး သေချာပါတယ်။
+သူ့ရဲ့ ကျရှုံးမှုတွေ အတွက် ကျွန်တော် သူ့ကို အနိုင်ယူဖို့  လိုအပ်တယ်ဆိုတာ ကျွန်တော် တော်တော်လေး သေချာပါတယ်။
 
 4041
 I'm wondering if he needs more appreciation from me.
-သူသည် ကျွန်တော့်ဆီက ပိုပြီး လေးမြတ်မှု လိုအပ်မည်ဆိုလျှင် ကျွန်တော် အံ့ဩနေသည်။
+သူသည် ကျွန်တော့်ဆီက ပိုပြီး တန်ဖိုးထားခြင်းကို လိုအပ်နေလို့ ကျွန်တော် အံ့ဩနေသည်။
 
 4042
 Should I be praising him more for his piano performance?
@@ -168,7 +168,7 @@ Should I be praising him more for his piano performance?
 
 4043
 For redemption, individuals should turn to the law.
-ကတိအတိုင်းပြုလုပ်ခြင်း အတွက် ၊ လူတစ်ဦးချင်းစီသည် ဥပဒေဘက်သို့ လှည့်သင့်သည်။
+ကတိအတိုင်းပြုလုပ်ခြင်း အတွက် ၊ လူတစ်ဦးချင်းစီသည် ဥပဒေဘက်သို့ အလှည့်ပေးသင့်တယ်။
 
 4044
 The law will redeem America.
@@ -240,7 +240,7 @@ He was hanged for sedition and horse thievery.
 
 4061
 The sea was deep blue and smooth as glass.
-ပင်လယ်ကြီးသည် ဖန်သားပြင် ကဲ့သို့ နက်ပြာရောင် နှင့် ချောမွတ်နေသည်။
+ပင်လယ်ကြီးသည် နက်ပြာရောင်ဖြစ်နေပြီး ဖန်သားပြင် ကဲ့သို့ ချောမွတ်နေသည်။
 
 4062
 The sea was filled with small fish that splashed against the boat.
@@ -272,7 +272,7 @@ Calabi-Yau spaces are represented in scientific literature.
 
 4069
 Calabi-Yau spaces are spread out a ton.
-ကယ်လ်ဘီ-ယမ်း နေရာများသည် တစ်တန် ပြန့်နှံ့နေကြသည်။
+ကယ်လ်ဘီ-ယမ်း နေရာများသည် အတော်လေး ကျယ်ပြန့်သည်။
 
 4070
 Children are incapable of sharing higher forms of thinking.
@@ -320,7 +320,7 @@ Five year olds are concerned with what happens next.
 
 4081
 Five year olds are generally considered poor conversationalists.
-ငါးနှစ်သားလေးတွေကို ယေဘုယျအားဖြင့် ညံ့ဖျင်းသော စကားပြောဆိုသူများဟု ယူဆကြသည်။
+ငါးနှစ်သားလေးတွေကို ယေဘုယျအားဖြင့် အပြန်အလှန်စကားပြောဆိုမှုမှာ အားနည်းကြသည်။
 
 4082
 Convergent flow allows classification.
@@ -376,7 +376,7 @@ Trimers and photons can be added at a constant rate.
 
 4095
 You can't add things at a constant rate.
-အရာဝတ္ထုများကို အဆက်မပြတ်သော နှုန်းထား တစ်ခု မှာ ထည့်၍မရပါ။
+အရာဝတ္ထုများကို အဆက်မပြတ်သော နှုန်းထား တစ်ခု မှာ ပေါင်းထည့်၍မရပါ။
 
 4096
 You should add trimers and photons at a constant rate if you want to study the results.
