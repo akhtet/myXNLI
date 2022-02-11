@@ -5,10 +5,12 @@ The museum does not like being labelled.
 5502
 The museum is not a fan of brochures.
 ပြတိုက်ဆိုတာ လမ်းကမ်းစာဆောင်တွေရဲ့ ဝါသနာအိုး တစ်ယောက် မဟုတ်ဘူး။
+# 
 
 5503
 The strong point of the museum is the catalogues.
 ပြတိုက်၏ ခိုင်မာသော အချက် မှာ ကတ်တလောက်များ ဖြစ်ပါသည်။
+# 
 
 5504
 Polar bears are attracted to changing leaves.
@@ -36,7 +38,7 @@ There used to be only one Canal Motorboats BV location, but increased business w
 
 5510
 Beijing has open-air markets that include very interesting shops.
-ပေကျင်းသည် အလွန် စိတ်ဝင်စားစရာကောင်းသော ဈေးဆိုင်များ ပါရှိသော အမိုးဖွင့် ဈေးများ ရှိသည်။
+ပေကျင်းတွင် အလွန် စိတ်ဝင်စားစရာကောင်းသော ဈေးဆိုင်များ ပါရှိသော အမိုးဖွင့် ဈေးများ ရှိသည်။
 
 5511
 The open-air markets in Beijing are the most interesting in the world.
@@ -44,7 +46,7 @@ The open-air markets in Beijing are the most interesting in the world.
 
 5512
 The strict laws in Beijing prohibit open-air markets within the city limits.
-မြို့တော် အတွင်း အမိုးဖွင့်ဈေးများကို တားမြစ်ထားသော ပေကျင်းရှိ တင်းကျပ်သော ဥပဒေများက ကန့်သတ်ထားသည်။
+မြို့တော် အတွင်း ကန့်သတ်ထားသော အမိုးဖွင့်ဈေးများကို  ပေကျင်းရှိ တင်းကျပ်သော ဥပဒေများက တားမြစ်ထားသည်။
 
 5513
 New Brunswick became a province because it had enough people.
