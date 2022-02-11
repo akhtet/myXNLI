@@ -16,11 +16,11 @@ She is infatuated with Lord Julian Wade, despite his bumbling nature.
 
 4805
 The office screamed for minutes, enraged by the debauchery on his decks.
-ကုန်းပတ်ပေါ်တွင် သောက်စားမူးယစ်နေသောကြောင့် ရုံးခန်းတွင် မိနစ်အနည်းငယ်ကြာအောင် အော်ဟစ် ၊ ဒေါသထွက်ခဲ့သည်။
+သူ၏ ကုန်းပတ်ပေါ်တွင် သောက်စားမူးယစ်နေသောကြောင့် ရုံးခန်းတွင် မိနစ်အနည်းငယ်ကြာအောင် အော်ဟစ် ၊ ဒေါသထွက်ခဲ့သည်။
 
 4806
 The officer was confused by what was happening aboard the ship.
-သင်္ဘောပေါ်တွင် ဖြစ်ပျက်ခဲ့သည့် အရာကြောင့် အရာရှိသည် စိတ်ရှုပ်ထွေးသွားသည်။
+သင်္ဘောပေါ်တွင် ဖြစ်ပျက်ခဲ့သည့် အရာကြောင့် အရာရှိသည် စိတ်ရှုပ်ထွေးခဲ့သည်။
 
 4807
 The officer was shocked senseless by the vomiting onto the deck.
@@ -36,7 +36,7 @@ Lord Julian Wade welcomed others in a manner that would be considered truculent.
 
 4810
 Though many had tried to approach him, Lord Wade was often cold and emotionless.
-အများအပြားက သူ့ထံ ချဉ်းကပ်ရန် ကြိုးစားခဲ့သော်လည်း ၊ သခင် ဝိဒ်သည် မကြာခဏ အေးစက်နေ ပြီး ခံစားချက်ကင်းမဲ့နေသည်။
+အများအပြားက သူ့ထံ ချဉ်းကပ်ရန် ကြိုးစားခဲ့သော်လည်း ၊ သခင် ဝိဒ်သည် မကြာခဏ အေးစက်နေ ပြီး ခံစားချက်ကင်းမဲ့နေခဲ့သည်။
 
 4811
 Mary Traill can tell you about the donkey.
@@ -52,7 +52,7 @@ Only I know about it.
 
 4814
 Ogle admitted that they had escaped the trap because of her.
-အို့ဂဲလ်သည် သူတို့သည် သူမကြောင့် ထောင်ချောက်မှ လွတ်မြောက်ခဲ့ကြောင်း ဝန်ခံခဲ့သည်။
+အို့ဂဲလ်က သူတို့သည် သူမကြောင့် ထောင်ချောက်မှ လွတ်မြောက်ခဲ့ကြောင်းကို ဝန်ခံခဲ့သည်။
 
 4815
 Ogle had suggested that they get rid of her earlier.
@@ -72,11 +72,11 @@ The boat that was approaching was a tiny one, containing only 3 people.
 
 4819
 The scarlet figure in charge of the ship was a woman.
-နီမြန်းသောရုပ်သွင်ရှိသော သင်္ဘော တာဝန်ခံသည် အမျိုးသမီး တစ်ဦး ဖြစ်ခဲ့သည်။
+နီမြန်းသောရုပ်သွင်ရှိသည့် သင်္ဘော တာဝန်ခံသည် အမျိုးသမီး တစ်ဦး ဖြစ်ခဲ့သည်။
 
 4820
 The Spaniards had you, before he delivered you from them.
-မင်းကို သူတို့လက်ကနေ မကယ်တင်ခင် ၊ စပိန်လူမျိုးတွေက မင်းဆီမှာ ရှိခဲ့တယ်။
+သူသည် မင်းကို သူတို့ဆီကနေ မကယ်တင်ခင် ၊ စပိန်လူမျိုးတွေက မင်းဆီမှာ ရှိခဲ့တယ်။
 
 4821
 The Spaniards planned to throw you overboard during the night.
@@ -113,14 +113,17 @@ Port Royal has facilities for punishing criminals.
 4829
 The petticoat is viewed as cursed because they often speak lies.
 သူတို့သည် မကြာခဏ မုသား ပြောသောကြောင့် အတွင်းခံကို မနှစ်မြို့စရာ အဖြစ် ရှု့မြင်ကြသည်။
+# 
 
 4830
 You are cowardice because of the petticoat.
 အတွင်းခံကြောင့် မင်းက သူရဲဘောကြောင်တယ်။
+# 
 
 4831
 You are quite brave as a result of the petticoat.
 အတွင်းခံ ၏ အကျိုးရလဒ်အနေနဲ့ မင်းတော်တော်သတ္တိရှိတယ်။
+# 
 
 4832
 Someone is asking which way to go.
@@ -136,7 +139,7 @@ The questioner is in a hurry and needs to know immediately the route to take.
 
 4835
 It was Ogle's second attempt to wrench it free.
-၎င်းကို အလွတ် အားနှင့်လိမ်ဆွဲရန် အို့ဂဲလ် ၏ ဒုတိယအကြိမ် ကြိုးပမ်းမှု ဖြစ်သည်။
+၎င်းကို လွတ်လွတ်လပ်လပ် အားနှင့်လိမ်ဆွဲရန် အို့ဂဲလ် ၏ ဒုတိယအကြိမ် ကြိုးပမ်းမှု ဖြစ်သည်။
 
 4836
 Ogle did not stay quiet when he wrenched it free.
@@ -160,7 +163,7 @@ I signed the warrant to grant the King's commission without a second thought.
 
 4841
 He realized that he had all day to retreat.
-ဆုတ်ခွာရန် တစ်နေ့လုံးရှိနေကြောင်း သူက သဘောပေါက်ခဲ့သည်။
+သူသည် တစ်နေ့လုံး နောက်ပြန်ဆုတ်ဖို့  ရှိနေခဲ့ကြောင်း သူက သဘောပေါက်ခဲ့သည်။
 
 4842
 He realized that he had to make a quick move.
@@ -168,7 +171,7 @@ He realized that he had to make a quick move.
 
 4843
 If he stayed in the same place, he would be discovered.
-တူညီသော နေရာမှာပဲ နေထိုင်မည် ဆိုလျှင် ၊ သူ့ကို တွေ့ရှိလိမ့်မယ်။
+သူသည် တူညီသော နေရာမှာပဲ နေထိုင်မည် ဆိုလျှင် ၊ သူ့ကို တွေ့ရှိလိမ့်မယ်။
 
 4844
 Blood has been very interested in that since September.
@@ -216,7 +219,7 @@ I have read about your kind, and their culture.
 
 4855
 I take it that this is not common among your kind.
-ဒါက မင်းရဲ့ ကြင်နာမှုတွေ အကြား ဖြစ်ရိုးဖြစ်စဉ်မဟုတ်ဘူးဆိုတာ ငါ ဒါကို တာဝန်ယူပါတယ်။
+ဒါက မင်းရဲ့ ကြင်နာမှုတွေထဲက ဖြစ်ရိုးဖြစ်စဉ်မဟုတ်တဲ့ ထိုအရာကို ငါ ယူလိုက်မယ်။
 
 4856
 A huge grin was spread on her face.
@@ -224,7 +227,7 @@ A huge grin was spread on her face.
 
 4857
 She felt a sickening feeling in her stomach.
-သူမ အစာအိမ်ထဲက နာကျင်တဲ့ ခံစားချက် တစ်ခုကို ခံစားလိုက်ရတယ်။
+သူမ အစာအိမ်ထဲက နာကျင်တဲ့ ခံစားချက် တစ်ခုကို သူမ ခံစားလိုက်ရတယ်။
 
 4858
 There was a frown on her face.
@@ -232,7 +235,7 @@ There was a frown on her face.
 
 4859
 Blood had a hat that he wore before sitting down.
-မထိုင်ခင် ဘလတ်မှာ သူ ဆောင်းထားတဲ့ ဦးထုပ် တစ်လုံး ရှိခဲ့တယ်။
+ဘလတ်သည် သူ ထိုင်မချခင်က ဝတ်ဆင်ထားခဲ့သော ဦးထုပ် တစ်လုံး ရှိခဲ့တယ်။
 
 4860
 Blood put on his hat, and left the room without saying anything.
@@ -244,7 +247,7 @@ Blood's hat was black, with three eagle feathers on it.
 
 4862
 Her expression changed after she saw his face.
-သူ့မျက်နှာကို မြင်ခဲ့ ပြီးနောက် သူ့အမူအရာ ပြောင်းသွားသည်။
+သူမသည် သူ့မျက်နှာကို မြင်ခဲ့ ပြီးနောက် သူမ အမူအရာ ပြောင်းသွားသည်။
 
 4863
 Her face lit up when she saw the frown on his face.
@@ -256,11 +259,11 @@ She did not know if he was angry at her.
 
 4865
 He slept soundly at night knowing he had rejected the King's commission.
-သူသည် ဘုရင်၏ ကော်မရှင်ကို ငြင်းပယ်လိုက်သည်ကို သိရှိလိုက်ရလို့ ညဘက်တွင် သူ နှစ်နှစ်ခြိုက်ခြိုက် အိပ်မောကျခဲ့သည်။
+သူသည် ဘုရင်၏ ကော်မရှင်ကို ပယ်ဖျက်လိုက်သည်ဟု သိရှိလိုက်ရလို့ ညဘက်တွင် သူ နှစ်နှစ်ခြိုက်ခြိုက် အိပ်မောကျခဲ့သည်။
 
 4866
 Keeping him up at night was the fact that he accepted the King's commission.
-ဘုရင်၏ကော်မရှင်ကို သူ လက်ခံသည် ဆိုသော အချက်မှာ ညဘက်တွင် သူ့ကို စောင့်ရှောက်ခြင်း ဖြစ်ခဲ့သည်။
+ဘုရင်၏ကော်မရှင်ကို သူ လက်ခံခဲ့သည် ဆိုသော အချက်မှာ ညဘက်တွင် သူ့ကို စောင့်ရှောက်ခြင်း ဖြစ်ခဲ့သည်။
 
 4867
 The King's commission was a very prestigious title with many responsibilities.
@@ -336,7 +339,7 @@ He was a sheriff who had captured a thief.
 
 4885
 He whispered a way to escape the country in order to avoid jail.
-သူသည် ထောင်မှ လွတ်ကင်းရန် နိုင်ငံတွင်းမှ လွတ်မြောက်ရန် နည်းလမ်း တစ်ခုကို တိုးတိုးပြောခဲ့သည်။
+သူသည် ထောင်မှ လွတ်ကင်းရန်အလို့ငှာ နိုင်ငံတွင်းမှ လွတ်မြောက်ရန် နည်းလမ်း တစ်ခုကို တိုးတိုးပြောခဲ့သည်။
 
 4886
 Ogle had a crew.
@@ -352,7 +355,7 @@ Ogle was angry.
 
 4889
 I believe my uncle wanted to see Captain Blood dead because of his crimes.
-ကျွန်တော့် ဦးလေးသည် သူ၏ ရာဇ၀တ်မှုတွေကြောင့် ကပ္ပတိန် ဘလတ် အလောင်းကို မြင်ချင်တယ် လို့ ကျွန်တော် ယုံကြည်ပါတယ်။
+ကျွန်တော့် ဦးလေးသည် သူ၏ ရာဇ၀တ်မှုတွေကြောင့် ကပ္ပတိန် ဘလတ် အလောင်းကို မြင်ချင်ခဲ့တယ် လို့ ကျွန်တော် ယုံကြည်ပါတယ်။
 
 4890
 My uncle left his Barbados plantations before accepting a position in Jamaica.
