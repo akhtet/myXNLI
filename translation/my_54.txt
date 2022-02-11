@@ -5,6 +5,7 @@ Some people believed the tale that the princess had been eaten by a dragon.
 5302
 The ranks of men were dwindling, as everyone headed towards the forecastle for dinner.
 လူတိုင်း ညစာ အတွက် သင်္ဘောဦးပိုင်း ဆီသို့ ဦးတည်သွားကြသကဲ့သို့ ၊ အမျိုးသားများ၏ အဆင့်အတန်းသည် တဖြည်းဖြည်းလျော့ပါးလာသည်။
+#
 
 5303
 The young man looked at it for exactly one minute.
@@ -48,7 +49,7 @@ It decreased his excitement.
 
 5313
 It made him more excited than he had ever been.
-ထိုအရာက သူ့ကို အရင်ကထပ် ပိုပြီး စိတ်လှုပ်ရှားစေတယ်။
+ထိုအရာက သူ့ကို အရင်ကထက် ပိုပြီး စိတ်လှုပ်ရှားစေတယ်။
 
 5314
 It made him more excited.
@@ -64,7 +65,7 @@ There was nothing able to slow down the ship.
 
 5317
 We will attempt to battle over it, once we begin to sail.
-ကျွန်တော်တို့ ရွက်လွှင့် ရန် စတင်ပြီးတာနဲ့ ချက်ချင်း ၊ ထိုအရာကို ကျော်ဖြတ် ရန် ကြိုးစားရလိမ့်မယ်။
+ကျွန်တော်တို့ ရွက်လွှင့် ရန် စတင်ပြီးတာနဲ့ ချက်ချင်း ၊ ထိုအရာကို ကျော်ဖြတ် ရန် ကျွန်တော်တို့ ကြိုးစားရလိမ့်မယ်။
 
 5318
 I might have created the problem in the first place, though I will certainly rescue you all myself.
@@ -72,7 +73,7 @@ I might have created the problem in the first place, though I will certainly res
 
 5319
 There was no telling how the problem could be easily resolved.
-အဆိုပါ ပြဿနာကို ဘယ်လို အလွယ်တကူ ဖြေရှင်းရမယ်ဆိုတာ မပြောနိုင်သေးဘူး။
+အဆိုပါ ပြဿနာကို ဘယ်လို အလွယ်တကူ ဖြေရှင်းရမယ်ဆိုတာ မပြောနိုင်ခဲ့ဘူး။
 
 5320
 Though the problem was not caused by my own volition, I can rescue you all.
@@ -116,19 +117,19 @@ He will head into danger again tomorrow.
 
 5330
 The officer never smiled.
-အရာရှိက ဘယ်တော့မှ မပြုံးခဲ့ဘူး။
+အဆိုပါ အရာရှိသည် ဘယ်တုန်းကမှ မပြုံးခဲ့ဘူး။
 
 5331
 The officer smiled for forty minutes.
-အရာရှိသည် မိနစ် လေးဆယ်ကြာ ပြုံးနေခဲ့သည်။
+အဆိုပါ အရာရှိသည် မိနစ် လေးဆယ်ကြာ ပြုံးနေခဲ့သည်။
 
 5332
 The officer smiled.
-အရာရှိသည် ပြုံးခဲ့သည်။
+အဆိုပါ အရာရှိသည် ပြုံးခဲ့သည်။
 
 5333
 A person who is shouting decides to fix someone else's mistake.
-အော်ဟစ်နေသော လူ တစ်ယောက်သည် အခြားသူ ၏ အမှားကို ပြင်ရန် ဆုံးဖြတ်သည်။
+အော်ဟစ်နေသော လူ တစ်ယောက်က အခြားသူ ၏ အမှားကို ပြင်ရန် ဆုံးဖြတ်သည်။
 
 5334
 His Majesty's Deputy-Governer of Jamaica is already dead.
@@ -144,7 +145,7 @@ He was generous as he had provided the others with a lot of food.
 
 5337
 Sometimes, you can be rather generous he said with a laugh.
-တစ်ခါတစ်ရံမှာ ၊ သင်သည် ရယ်မောမှုတစ်ခု နှင့်အတူ ပြောခဲ့တာ က အရမ်းကို သဘောထားကြီးနိုင်တာပါ။
+တစ်ခါတစ်ရံမှာ ၊ သင်သည် ရယ်မောမှုတစ်ခု နှင့်အတူ သူ ပြောခဲ့တာတွေကို အရမ်းကို သဘောထားကြီးနိုင်ပါတယ်။
 
 5338
 You are always so greedy he said with a smirk.
@@ -160,7 +161,7 @@ The gentleman was made fun of because he was not wearing the proper attire for t
 
 5341
 The gentleman was never mocked before.
-အဆိုပါ လူကြီးလူကောင်းက အရင်တုန်းက ဘယ်တော့မှ မလှောင်ပြောင်ခဲ့ဘူး။
+အဆိုပါ လူကြီးလူကောင်းသည် အရင် ဘယ်တော့ကမှ မလှောင်ပြောင်ခဲ့ဘူး။
 
 5342
 I was expecting your arrival said the Deputy-Governor.
@@ -212,7 +213,7 @@ The girl had blonde hair.
 
 5354
 If Ogle were smart, he would have made the Bishop fall in love with him.
-အို့ဂဲလ်သာ ထက်မြက် လျှင် ၊ သူသည် ဘစ်လျှော့ ကို ချစ်မိအောင် ပြုလုပ်နိုင်လိမ့်မည်။
+အို့ဂဲလ်သာ ထက်မြက် လျှင် ၊ သူသည် ဘစ်လျှော့ သူ့ကို ချစ်မိအောင် ပြုလုပ်နိုင်လိမ့်မည်။
 
 5355
 Ogle was very much in love with the Bishop.
@@ -228,7 +229,7 @@ He had a profound desire to take hold of it.
 
 5358
 He had chosen to grab it despite it being off-putting to him.
-သူက ဒါသည် သူ့ကို မဆက်စပ် သော်လည်း သူက ဒါကို လုယူ ရန် ရွေးချယ်ခဲ့သည်။
+သူက ဒါသည် သူ့ကို မဆက်စပ် သော်လည်း ဒါကို လုယူ ရန် ရွေးချယ်ခဲ့သည်။
 
 5359
 He was certainly going crazy at the idea of having to grab it.
@@ -280,7 +281,7 @@ Her voice provided insight on her worry.
 
 5371
 She was worried because there might have been a fire.
-မီးလောင်မှု ဖြစ်လာ နိုင် သောကြောင့် သူမ စိုးရိမ်ခဲ့သည်။
+မီးလောင်မှု တစ်ခု ဖြစ်လာ နိုင် သောကြောင့် သူမ စိုးရိမ်ခဲ့သည်။
 
 5372
 She considered hiding in either one.
@@ -368,7 +369,7 @@ It is likely that nothing will happen to you, said Peter.
 
 5393
 The night was considered restful though, there was a lot of commotion later on.
-ညသည် အေးချမ်းသည်ဟု ယူဆရ သော်လည်း ၊ နောက်ပိုင်းတွင် ရုန်းရင်းဆန်ခတ် အများအပြား ဖြစ်ခဲ့သည်။
+ညသည် အေးချမ်းသည်ဟု ယူဆရ သော်လည်း ၊ နောက်ပိုင်းတွင် ရုန်းရင်းဆန်ခတ်မှု အများအပြား ဖြစ်ခဲ့သည်။
 
 5394
 The night was extremely busy as the streets were packed with people.
