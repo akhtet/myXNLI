@@ -16,7 +16,7 @@ I accept it willingly.
 
 4905
 I am not willing to accept it, but I could be convinced.
-ငါ ဒါကို လက်ခံ ရန် ဆန္ဒ မရှိ ပေမယ့် ငါ ယုံကြည် နိုင်ပါတယ်။
+ငါ ဒါကို လက်ခံ ရန် ဆန္ဒ မရှိ ပေမယ့် ၊ ငါ ယုံကြည် နိုင်ပါတယ်။
 
 4906
 I don't accept it willingly.
@@ -288,7 +288,7 @@ Lord Julian was sententious and wise, as I gather that he often was because of h
 
 4973
 I could not possibly prove to you anything at all.
-ငါ မင်းကို ဘာမှ သက်သေမပြနိုင်ခဲ့ဘူး။
+ငါ မင်းကို တကယ်ကို ဘာမှ သက်သေမပြနိုင်ခဲ့ဘူး။
 
 4974
 I could prove this because of all the evidence I had collected without your knowledge.
@@ -308,7 +308,7 @@ He wanted to know if there was a better way.
 
 4978
 He was convinced that he had chosen the best way.
-အကောင်းဆုံး နည်းလမ်းကို ရွေးချယ်ခဲ့ ကြောင်း သူ ယုံကြည်ခဲ့သည်။
+သူသည် အကောင်းဆုံး နည်းလမ်းကို ရွေးချယ်ခဲ့ ကြောင်း သူ ယုံကြည်ခဲ့သည်။
 
 4979
 The person wanted a lover.
