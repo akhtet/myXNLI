@@ -244,7 +244,7 @@ He didn't smile at all.
 
 5262
 He kept his mouth closed as he smiled a bit.
-သူက အနည်းငယ် ပြုံးရင်း သူ၏ ပါးစပ်ကို ပိတ်ထားခဲ့သည်။
+သူက အနည်းငယ် ပြုံးရင်း သူက သူ၏ ပါးစပ်ကို ပိတ်ထားခဲ့သည်။
 
 5263
 He smiled a bit.
@@ -344,7 +344,7 @@ Pitt wore a shirt and breeches.
 
 5287
 Pitt wore a white shirt and brown breeches.
-ပစ်ဒ်က အဖြူရောင် ရှပ်အင်္ကျီ တစ်ထည့် နှင့် အညိုရောင် ဘောင်းဘီတိုကို ဝတ်ဆင်ခဲ့သည်။
+ပစ်ဒ်က အဖြူရောင် ရှပ်အင်္ကျီ တစ်ထည် နှင့် အညိုရောင် ဘောင်းဘီတိုကို ဝတ်ဆင်ခဲ့သည်။
 
 5288
 Blood said that there would not be any signs given and that the others would have to just figure it out for themselves.
