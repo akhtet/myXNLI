@@ -24,11 +24,11 @@ The Kinabalu national park has ten elephants and six rhinos.
 
 5607
 The state has protected regions, which include the Kinabalu national park.
-ပြည်နယ်တွင် ကီနာဘာလု အမျိုးသား ဥယျာဉ် ပါ၀င်သော ၊ ကာကွယ်ထားသော ဒေသများ ရှိသည်။
+ပြည်နယ်တွင် ကီနာဘာလု အမျိုးသား ဥယျာဉ် ပါ၀င်သော ၊ ကန့်သတ်ထားသည့် ဒေသများ ရှိသည်။
 
 5608
 There is a total of three protected regions in the state.
-ပြည်နယ် တွင် စုစုပေါင်း ကာကွယ်ထားသော ဒေသ သုံးခု ရှိပါသည်။
+ပြည်နယ် တွင် စုစုပေါင်း ကန့်သတ်ထားသည့် ဒေသ သုံးခု ရှိပါသည်။
 
 5609
 Sofias is close to the Megaro Mousikis Metro station.
@@ -72,11 +72,11 @@ The staff works to eliminate the flamingos.
 
 5619
 The staff works to increase how many flamingos are on the island so they can recover from near extinction.
-ဝန်ထမ်းများသည် ကျွန်းပေါ်တွင် ကြိုးကြာနီများ မည်မျှရှိသည်ကို တိုးမြှင့်ရန် သူတို့သည် မျိုးသုဉ်းလုနီးအချိန်မှ ပြန်လည်ကောင်းမွန်လာစေရန် အလုပ်လုပ်ကြသည်။
+မျိုးသုဉ်းလုနီးအချိန်မှ ပြန်လည်ကောင်းမွန်လာစေရန် ဝန်ထမ်းများသည် ကျွန်းပေါ်တွင် ကြိုးကြာနီများ မည်မျှရှိသည်ကို တိုးမြှင့် လုပ်ဆောင်ကြသည်။
 
 5620
 The staff works to increase how many flamingos are on the island.
-ဝန်ထမ်းများသည် ကျွန်းပေါ်တွင် ကြိုးကြာနီများ မည်မျှရှိသည်ကို တိုးမြှင့် ရန် လုပ်ဆောင်သည်။
+ဝန်ထမ်းများသည် ကျွန်းပေါ်တွင် ကြိုးကြာနီများ မည်မျှရှိသည်ကို တိုးမြှင့် လုပ်ဆောင်ကြသည်။
 
 5621
 Singel was a tourist location.
@@ -220,7 +220,7 @@ It's usually 75 in the summer.
 
 5656
 It's warm temperatures during the summer time.
-နွေရာသီ အတောအတွင်း နွေးထွေးသော အပူချိန် ရှိသည်။
+နွေရာသီ အချိန် အတောအတွင်း နွေးထွေးသော အပူချိန် ရှိသည်။
 
 5657
 People never throw money in because it's bad luck.
@@ -360,7 +360,7 @@ Brahma is a Christian apostle.
 
 5691
 Brahma is part of the Hindu trinity.
-ဗြဟ္မာသည် ဟိန္ဒူ သုံးပါးတစ်ဆူ အစိတ်အပိုင်း ဖြစ်သည်။
+ဗြဟ္မာသည် ဟိန္ဒူ သုံးပါးတစ်ဆူ ၏ အစိတ်အပိုင်း ဖြစ်သည်။
 
 5692
 Brahma is the most important part of the trinity.
