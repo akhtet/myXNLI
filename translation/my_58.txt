@@ -16,7 +16,7 @@ Otto Frank hid until the Nazis found him.
 
 5705
 The tea kettles are ugly and it's so boring to learn about them.
-လက်ဖက်ရည်အိုးတွေက မလှမပဖြစ် ပြီး သူတို့ အကြောင်း လေ့လာရန် အလွန် ပျင်းဖို့ကောင်းတယ်။
+လက်ဖက်ရည်အိုးတွေက မလှမပဖြစ် ပြီး ဒါတွေ အကြောင်း လေ့လာဖို့ အလွန် ပျင်းဖို့ကောင်းတယ်။
 
 5706
 You will like the tea kettles that are hundreds of years old.
@@ -44,7 +44,7 @@ The building is very old and basic.
 
 5712
 The building uses a lot of engineering technology to keep it from sliding into the ocean.
-အဆောက်အအုံသည် သမုဒ္ဒရာ ထဲသို့ လျှောကျခြင်းမှ ၎င်းကို ထိန်းသိမ်းရန် အင်နီယာ နည်းပညာ များစွာကို အသုံးပြုထားသည်။
+အဆောက်အအုံသည် သမုဒ္ဒရာ ထဲသို့ လျှောကျခြင်းမှ ၎င်းကို ထိန်းသိမ်းရန် အင်ဂျင်နီယာ နည်းပညာ များစွာကို အသုံးပြုထားသည်။
 
 5713
 The building's location is really interesting.
@@ -60,7 +60,7 @@ You can touch some of the imperial armor.
 
 5716
 You can't see anything old on display.
-ပြသခြင်းတွင် မင်း ဟောင်းနွမ်းနေသည့် မည်သည့်အရာကိုမှ မတွေနိုင်ဘူး။
+သင်သည် ပြပွဲတွင် ဟောင်းနွမ်းနေသည့် မည်သည့်အရာကိုမှ မတွေနိုင်ဘူး။
 
 5717
 Weltkugelbrunnen is made of aluminum.
@@ -192,7 +192,7 @@ Boot is near the La'al Ratty.
 
 5749
 Boot is very far from all of the railways.
-Boot သည် မီးရထားလမ်း အားလုံးနှင့် အလွန် ဝေးသည်။
+ဘုသည် မီးရထားလမ်း အားလုံးနှင့် အလွန် ဝေးသည်။
 
 5750
 The gate was built so they could charge people.
@@ -216,7 +216,7 @@ The music is mainly flutes.
 
 5755
 The snare drum is in all the music.
-စနဲ့ ဒရမ်သည် ဂီတ အားလုံးတွင် ရှိသည်။
+စနဲ ဒရမ်သည် ဂီတ အားလုံးတွင် ရှိသည်။
 
 5756
 Kuala Perlis was 17 miles south.
@@ -308,11 +308,11 @@ Only huge highways go to the ocean.
 
 5778
 The ocean has little paths that are 2 feet wide leading to it.
-သမုဒ္ဒရာတွင် ၎င်းကို ဦးတည်သော ၂ ပေကျယ်သော သေးငယ်သော လမ်းများရှိသည်။
+သမုဒ္ဒရာတွင် ၎င်းကို ဦးတည်နေသည့် ၂ ပေကျယ်သော သေးငယ်သည့် လမ်းများရှိသည်။
 
 5779
 The sea has lanes  leading to it that aren't very wide.
-ပင်လယ်တွင် ၎င်းကို ဦးတည်နေသော အလွန် မကျယ်သော လမ်းကျဉ်းများ ရှိသည်။
+ပင်လယ်တွင် ၎င်းကို ဦးတည်နေသော အလွန် မကျယ်သည့် လမ်းကျဉ်းများ ရှိသည်။
 
 5780
 The Spanish people had 100 people helping.
@@ -388,7 +388,7 @@ You can rent one passenger boats.
 
 5798
 Everyone is always fighting, all the time.
-လူတိုင်းဟာ အချိန်တိုင်း၊ အမြဲတမ်း ရန်ဖြစ်နေကြတယ်။
+လူတိုင်းဟာ အချိန်တိုင်း၊ အမြဲတမ်း အားထုတ်နေကြရတယ်။
 
 5799
 People get along because they are paid to keep the peace.
