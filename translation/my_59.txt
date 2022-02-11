@@ -12,11 +12,11 @@ The cross weighs almost 200,000 tons.
 
 5804
 Noske wanted the movement to stop before he lost power.
-နိုစ်ကီက သူသည် အာဏာ မဆုံးရှုံးခင်မှာ လှုပ်ရှားမှုကို ရပ်စေချင်တယ်။
+နိုစ်ကီက သူသည် အာဏာ မဆုံးရှုံးခင်မှာ လှုပ်ရှားမှုကို ရပ်တန့်ချင်ခဲ့တယ်။
 
 5805
 Noske wanted things to continue right away.
-နိုစ်ကီက အကြောင်းအရာတွေကို ချက်ချင်းဆက်လုပ်စေချင်တယ်။
+နိုစ်ကီက အကြောင်းအရာတွေကို ချက်ချင်း ဆက်လက် လုပ်စေချင်ခဲ့တယ်။
 
 5806
 Noske wanted to stop what was happening.
@@ -76,7 +76,7 @@ The walls have 100000 tiles on them.
 
 5820
 There are a ton of little tiles there.
-အဲဒီမှာ သေးငယ်သော ကြွေပြား တစ်တန်ရှိတယ်။
+အဲဒီမှာ သေးငယ်သော ကြွေပြား အများအပြား ရှိသည်။
 
 5821
 There is nothing decorative there.
@@ -116,19 +116,19 @@ Some Athenians wanted to declare war.
 
 5830
 Some Athenians wanted to start a war against the new king of macedonia.
-အေသင်မြို့သား အချို့သည် မက်ဆီဒိုးနီးယား ဘုရင် သစ် ကို စစ်ပွဲ တစ်ပွဲ စတင်ချင်ခဲ့ကြသည်။
+အေသင်မြို့သား အချို့သည် မက်ဆီဒိုးနီးယား ဘုရင် သစ် ကို ဆန့်ကျင်သည့် စစ်ပွဲ တစ်ပွဲ စတင်ချင်ခဲ့ကြသည်။
 
 5831
 The acoustics are great for singing.
-အသံထွက်သည် သီချင်းဆိုရန် အလွန်ကောင်းသည်။
+ဒီ အသံထွက်သည် သီချင်းဆိုရန် အလွန်ကောင်းသည်။
 
 5832
 The acoustics are just a mess in that place.
-အသံထွက်သည် ထိုနေရာတွင် ရောထွေးမှု တစ်ခု ဖြစ်နေသည်။
+ဒီ အသံထွက်သည် ထိုနေရာတွင် ရောထွေးမှု တစ်ခု ဖြစ်နေသည်။
 
 5833
 The acoustics make things loud.
-အသံထွက်သည် အရာဝတ္တုတွေကို ကျယ်လောင်စေသည်။
+ဒီ အသံထွက်သည် အရာဝတ္တုတွေကို ကျယ်လောင်စေသည်။
 
 5834
 The instruments are violin, bass, and saxophone.
@@ -204,7 +204,7 @@ You should probably only hike with a guide.
 
 5852
 PEople like to party after the fish.
-ငါးမျှား ပြီးနောက် လူတွေက ပါတီကို နှစ်သက်ကြသည်။
+ငါးမျှား ပြီးနောက် လူတွေက ပွဲတော်ကို နှစ်သက်ကြသည်။
 
 5853
 People go fishing and then go right to sleep.
@@ -240,7 +240,7 @@ The National Historical Museum only has recent things.
 
 5861
 Everyone agreed the food was terrible.
-အစားအသောက်က ကြောက်စရာကောင်းတယ်လို့ လူတိုင်းက သဘောတူတယ်။
+အစားအသောက်က ကြောက်စရာကောင်းတယ်လို့ လူတိုင်းက လက်ခံထားကြတယ်။
 
 5862
 One guy in jail said he liked the jail food a lot.
@@ -376,7 +376,7 @@ The shops all serve some of the best food in the city.
 
 5895
 The shops in the nearby streets are interesting.
-အနီးနားမှာရှိတဲ့ လမ်းတွေက စျေးဆိုင်တွေက စိတ်ဝင်စားဖို့ကောင်းတယ်။
+အနီးနားမှာရှိတဲ့ လမ်းတွေက စျေးဆိုင်တွေသည် စိတ်ဝင်စားဖို့ကောင်းတယ်။
 
 5896
 The shops nearby are duller than any others around.
@@ -392,8 +392,8 @@ The collection of clubs is dull and looks the same as all the others.
 
 5899
 The growing collection of clubs are unique and have a more urban edge.
-တိုးပွားလာသော ကလပ်အသင်းများ၏ စုစည်းမှုသည် ထူးခြားပြီး မြို့ပြ အစွန်းအထင်း ပို ရှိသည်။
+ကြီးထွားလာသော ကလပ်အသင်းများ၏ စုစည်းမှုသည် ထူးခြားပြီး မြို့ပြ အစွန်းအထင်း ပို ရှိသည်။
 
 5900
 McKim Mead designed the mansion.
-အမ်စီကင် မဒ်သည် အိမ်ကြီးရခိုင်ကို ဒီဇိုင်းဆွဲသည်။
+အမ်စီကင် မဒ်သည် အိမ်ကြီးရခိုင်ကို ဒီဇိုင်းဆွဲခဲ့သည်။
