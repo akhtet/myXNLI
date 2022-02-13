@@ -132,27 +132,31 @@ The CIO works to get information out to people.
 
 6434
 They calculate the welfare effects like they do how much money they make.
-သူတို့သည် ငွေ ဘယ်လောက်များများ ပြုလုပ်သည်ကို သူတို့ ပြုလုပ် သကဲ့သို့ လူမှုဖူလုံရေး အကျိုးသက်ရောက်မှုများကို တွက်ချက်ကြတယ်။
+သူတို့သည် ငွေ ဘယ်လောက်များများကို ပြုလုပ်သည်ကို သူတို့ ပြုလုပ် သကဲ့သို့ လူမှုဖူလုံရေး ရလဒ်တွေကို သူတို့ တွက်ချက်ကြတယ်။
+
 
 6435
 They calculate welfare effects quickly on a calculator.
-သူတို့သည် ဂဏန်းပေါင်းစက် တစ်လုံးတွင် လူမှုဖူလုံရေး အကျိုးသက်ရောက်မှုများကို လျင်မြန်စွာ တွက်ချက်ပါသည်။
+သူတို့သည် ဂဏန်းပေါင်းစက် တစ်လုံးတွင် လူမှုဖူလုံရေး ရလဒ်တွေကို လျင်မြန်စွာ တွက်ချက်ပါသည်။
 
 6436
 They don't know how to calculate welfare effects.
-လူမှုဖူလုံရေး အကျိုးသက်ရောက်မှုများကို မည်သို့ တွက်ချက်ရမည်ကို သူတို့ မသိကြပါ။
+လူမှုဖူလုံရေး ရလဒ်များကို မည်သို့ တွက်ချက်ရမည်ကို သူတို့ မသိကြပါ။
 
 6437
 The trust fund borrowed money because it was running at a huge deficit.
 ယုံကြည်စိတ်ချရသော ရန်ပုံငွေသည် ကြီးမားတဲ့ လိုငွေပြမှု တစ်ခု ဖြင့် လည်ပတ်နေသောကြောင့် ပိုက်ဆံကို ချေးယူခဲ့ပါသည်။
+#
 
 6438
 The trust fund has never needed to borrow.
 ယုံကြည်စိတ်ချရသော ရန်ပုံငွေသည် မည်သည့်အခါမျှ ချေးငှားရန် မလိုအပ်ခဲ့ပါ။
+#
 
 6439
 The trust fund needed to borrow money.
 ယုံကြည်စိတ်ချရသော ရန်ပုံငွေသည် ပိုက်ဆံ ချေးငှား ရန် လိုအပ်ခဲ့သည်။
+#
 
 6440
 Alternate communication makes up 60% of communication now.
@@ -340,7 +344,7 @@ IT workers are way too common these days.
 
 6486
 People need IT workers to help install computer systems.
-လူများသည် ကွန်ပြူတာ စနစ်များ တပ်ဆင်ရာတွင် ကူညီရန် IT လုပ်သားများ လိုအပ်နေပါသည်။
+လူများသည် ကွန်ပြူတာ စနစ်များ တပ်ဆင်ရာတွင် ကူညီရန် အိုင်တီလုပ်သားများ လိုအပ်နေပါသည်။
 
 6487
 People really need good IT people.
@@ -352,11 +356,11 @@ we know we'll fail every time.
 
 6489
 we will try to hit the target a lot.
-ပစ်မှတ်ကို ရောက်အောင် အများကြီး ကြိုးစားရလိမ့်မယ်။
+ငါတို့ ပစ်မှတ်ကို ရောက်အောင် အများကြီး ကြိုးစားရလိမ့်မယ်။
 
 6490
 we'll try to hit the fundraising goal every year.
-နှစ်စဉ်နှစ်တိုင်း ရန်ပုံငွေရှာဖွေရေး ပန်းတိုင်ကို ရောက်အောင် ကြိုးစားသွားမယ်။
+ငါတို့ နှစ်စဉ်နှစ်တိုင်း ရန်ပုံငွေရှာဖွေရေး ပန်းတိုင်ကို ရောက်အောင် ကြိုးစားသွားမယ်။
 
 6491
 Mercury emissions create problems with the water and then fish ingest it.
@@ -373,14 +377,17 @@ Mercury emissions don't influence the water at all.
 6494
 Technology can reduce how long providers and staff need to screen people by up to 80%.
 နည်းပညာသည် ပံ့ပိုးပေးသူများ နှင့် ဝန်ထမ်းများက လူများကို 80% အထိ ပြသ ရန် လိုအပ်သည့်အချိန်ကို လျှော့ချနိုင်သည်။
+# screen
 
 6495
 Technology can reduce how long providers and staff need to screen people.
 နည်းပညာသည် ပံ့ပိုးပေးသူများ နှင့် ဝန်ထမ်းများက လူများကို ပြသ ရန် အချိန်မည်မျှ လိုအပ်သည်ကို လျှော့ချနိုင်သည်။
+# screen
 
 6496
 Technology doesn't help screening at all.
 နည်းပညာက ပြသခြင်းကို လုံးဝ မကူညီပါ။
+# screening
 
 6497
 GAO is an entity that requires an allocation of resources.
@@ -397,3 +404,4 @@ The GAO is the worst performing federal entity and is in line to have all its fu
 6500
 Postal density doesn't influence costs at all.
 စာတိုက် စုစည်းမှုသည် ကုန်ကျစရိတ်များကို လုံးဝ လွှမ်းမိုးခြင်းမရှိပါ။
+# Postal density
