@@ -1,6 +1,6 @@
 6601
 This research center would employ up to ten people.
-ဤ သုတေသန စင်တာတွင် လူ ၁၀ ဦးအထိ အလုပ်ခန့်ထားမည်ဖြစ်သည်။
+ဤ သုတေသန စင်တာတွင် လူဆယ်ဦးအထိ အလုပ်ခန့်ထားမည်ဖြစ်သည်။
 
 6602
 It didn't matter if they all slacked off.
@@ -8,7 +8,7 @@ It didn't matter if they all slacked off.
 
 6603
 They said it was important to be vigilant..
-သူတို့က နိုးနိုးကြားကြားနေထိုင်ရန် အရေးကြီးပါတယ်လို့ ပြောခဲ့တယ်။
+နိုးနိုးကြားကြားနေထိုင်ရန် အရေးကြီးပါတယ်လို့ သူတို့က ပြောခဲ့တယ်။
 
 6604
 They said it was important to be vigilent when it came to the news factory controls.
@@ -84,7 +84,7 @@ The outage period is more than two weeks.
 
 6622
 There are no outages ever.
-ဘယ်တော့မှ ပြတ်တောက်မှု မရှိပါဘူး။
+အမြဲတမ်း ပြတ်တောက်မှု မရှိပါဘူး။
 
 6623
 Each ZIP Code is served by only one route.
@@ -116,7 +116,7 @@ We intend to sever our relationship with your organization effective immediately
 
 6630
 We worked closely with seven different employees this year.
-ဒီ နှစ်မှာ မတူညီတဲ့ ဝန်ထမ်း ခုနစ်ယောက်နဲ့ နီးနီးကပ်ကပ် အလုပ်လုပ်ခဲ့ပါတယ်။
+ကျွန်တော်တို့သည် ဒီ နှစ်မှာ မတူညီတဲ့ ဝန်ထမ်း ခုနစ်ယောက်နဲ့ နီးနီးကပ်ကပ် အလုပ်လုပ်ခဲ့ပါတယ်။
 
 6631
 You have done something to support us in this past year.
@@ -128,7 +128,7 @@ If this requirement were put in place the number of LSC grantees would fall by 8
 
 6633
 It would be a trivial matter for attorney to monitor eligible aliens at all times.
-အရည်အချင်းပြည့်မီသော ဂြိုလ်သားများကို အချိန်တိုင်း စောင့်ကြည့်ရန် ရှေ့နေ အတွက် အသေးအဖွဲ ကိစ္စ တစ်ခု ဖြစ်လိမ့်မည်။
+လူတစ်စုကို အချိန်တိုင်း စောင့်ကြည့်ဖို့က အလုပ်များစေလိမ့်မယ်။
 
 6634
 It would be allot of work to monitor a group of people at all times.
@@ -248,7 +248,7 @@ No special effort is required to avoid damaging a client's claims.
 
 6663
 The client's claims might be prejudiced unless steps were taken.
-အဆင့်များကို မလုပ်ဆောင်ပါက သုံးစွဲသူ၏ အရေးဆိုမှုများကို ရှေ့တန်းမတင်နိုင်ပါ။
+ဒီ အဆင့်များကို မလုပ်ဆောင်ပါက သုံးစွဲသူ၏ အရေးဆိုမှုများကို ရှေ့တန်းမတင်နိုင်ပါ။
 
 6664
 These steps include hiding the real identity of clients from investigators.
@@ -360,7 +360,7 @@ Long term attention is required despite short term progress.
 
 6691
 Since progress is being made now there is no reason for long term changes.
-တိုးတက်မှုကို ယခု လုပ်ဆောင်နေ သောကြောင့် ရေရှည် ပြောင်းလဲမှုများ အတွက် အကြောင်းပြချက် မရှိပါ။
+တိုးတက်အောင် ယခု လုပ်ဆောင်နေ သောကြောင့် ရေရှည် ပြောင်းလဲမှုများ အတွက် အကြောင်းပြချက် မရှိပါ။
 
 6692
 Adjusting the requirements will reduce the amount of confusion.
@@ -372,7 +372,7 @@ These requirements will not cause any confusion.
 
 6694
 This requirement will cause a lot of confusion.
-ဤလိုအပ်ချက်သည် များစွာ ရှုပ်ထွေးမှုကို ဖြစ်စေလိမ့်မည်။
+ဤလိုအပ်ချက်သည် များစွာသော ရှုပ်ထွေးမှုကို ဖြစ်စေလိမ့်မည်။
 
 6695
 A German SCR system has been in Europe for 20 years.
