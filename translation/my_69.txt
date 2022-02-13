@@ -8,7 +8,7 @@ Postal density in France is too low to support the same level of last-mile deliv
 
 6803
 On that page you can also find links to other resources.
-ထို စာမျက်နှာတွင် သင်သည် အခြား အရင်းအမြစ်များသို့ အချိတ်အဆက်များကို ရှာဖွေနိုင်သည်။
+ထို စာမျက်နှာတွင် သင်သည် အခြား အရင်းအမြစ်များသို့ အချိတ်အဆက်များကိုလည်း ရှာဖွေနိုင်သည်။
 
 6804
 There are details at www.healtheffects.org/Pubs/NMMAPSletter.pdf.
@@ -96,11 +96,11 @@ CVR board members could not come to an agreement on how to give the money and in
 
 6825
 CVR board members never considered giving the money as a grant.
-စီဗီအာ ဘုတ်အဖွဲ့ဝင်များသည် ခွင့်ပြုသည့်အရာ တစ်ခု အဖြစ် ငွေများကို ပေးဆောင်ခြင်းအား ဘယ်တော့မှ မစဉ်းစားခဲ့ကြဘူး။
+စီဗီအာ ဘုတ်အဖွဲ့ဝင်များသည် ခွင့်ပြုချက် တစ်ခု အဖြစ် ငွေများကို ပေးဆောင်ခြင်းအား ဘယ်တော့မှ မစဉ်းစားခဲ့ကြဘူး။
 
 6826
 Milne and Ralphs would have been the two board members at  the meeting to not vote unanimous.
-မီလ်နီ နှင့် ရက်ဖ်တို့သည် တညီတညွတ်တည်း မဲမပေးရန် အစည်းအဝေးတွင် ဘုတ်အဖွဲ့ဝင် နှစ်ဦး ဖြစ်ခဲ့ကြသည်။
+မီလ်နီ နှင့် ရက်ဖ်တို့သည် အစည်းအဝေးတွင် တညီတညွတ်တည်း မဲမပေးကြသည့် ဘုတ်အဖွဲ့ဝင် နှစ်ဦး ဖြစ်ခဲ့ကြသည်။
 
 6827
 Many group members think that monthly meetings are unnecessary.
@@ -248,7 +248,7 @@ There should be a program in place to compensate these civil servants.
 
 6863
 The approach doesn't tell you anything about if a trip occured.
-ဒီ ချဉ်းကပ်မှုသည် ခရီး တစ်ခု ပေါ်ပေါက်ပါလျှင် အဲ့ကြောင်းကို သင့်အား ဘာမှ မပြောပြပါ။
+ဒီ ချဉ်းကပ်မှုက ခရီး တစ်ခု ပေါ်ပေါက်ပါလျှင် အဲ့အကြောင်းကို သင့်အား ဘာမှ မပြောပြပါ။
 
 6864
 The approach makes sure travel reimbursement is legit.
@@ -256,11 +256,11 @@ The approach makes sure travel reimbursement is legit.
 
 6865
 The approach shows you the trip occured.
-ဒီ ချဉ်းကပ်ပုံသည် သင့်အား ခရီးပေါ်ပေါက်နေခြင်းကို ပြသသည်။
+ဒီ ချဉ်းကပ်ပုံသည် သင့်အား ခရီးသွားခြင်းကို တွေ့ရှိသည်အား ပြသသည်။
 
 6866
 It is never necessary to have outages.
-ပြတ်တောက်မှုများ ဖြစ်စေရန် ဘယ်တော့မှ မလိုအပ်ပါဘူး။
+ပြတ်တောက်မှုများ ဖြစ်စေရန် ဘယ်တုန်းကမှ မလိုအပ်ပါဘူး။
 
 6867
 Sometimes longer outages are needed.
@@ -276,7 +276,7 @@ C-R relationships vary from location to location.
 
 6870
 Location specific C-R functions are generally available.
-တည်နေရာ သီးခြား စီ-အာ လုပ်ဆောင်ချက်များကို ယေဘူယျအားဖြင့် ရနိုင်သည်။
+တည်နေရာ သီးခြားဖြစ်သော စီ-အာ လုပ်ဆောင်ချက်များကို ယေဘူယျအားဖြင့် ရနိုင်သည်။
 
 6871
 There are vast differences in the C-R relationship at a northern location in comparison to a southern location.
@@ -308,7 +308,7 @@ I want to talk about the support the teacher gave us.
 
 6878
 Gains and losses are exchange transactions.
-အမြတ်များ နှင့် အရှုံးများသည် ငွေလဲလှယ် ရောင်းဝယ်မှု တစ်ခု ဖြစ်သည်။
+အမြတ်များ နှင့် အရှုံးများသည် ငွေလဲလှယ် ရောင်းဝယ်မှုများ ဖြစ်သည်။
 
 6879
 Gains and losses are non-exchange transactions.
