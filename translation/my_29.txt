@@ -28,11 +28,11 @@ I don't know anything about testing aircraft.
 
 2808
 Testing aircraft teaches you a lot of lessons.
-လေယာဉ်ကို စမ်းသပ်ခြင်းသည် သင်ခန်းစာ များစွာကို သင်ပေးသည်။
+လေယာဉ်ကို စမ်းသပ်ခြင်းသည် သင့်အား သင်ခန်းစာ များစွာကို သင်ပေးသည်။
 
 2809
 Testing aircraft teaches you how to handle pressure.
-ဖိအားကို ဘယ်လို ထိန်းချုပ်ရမည်ကို မင်းကို လေယာဉ်ကို စမ်းသပ်ခြင်းက သင်ပေးသည်။
+လေယာဉ်ကို စမ်းသပ်ခြင်းက ဖိအားကို ဘယ်လို ထိန်းချုပ်ရမည်ကို မင်းကို သင်ပေးသည်။
 
 2810
 I don't understand the point.
@@ -40,7 +40,7 @@ I don't understand the point.
 
 2811
 I think the point was to tell us how dangerous it was.
-ဒီ အချက်က ဘယ်လောက်အန္တရာယ်ကြီးတယ်ဆိုတာကို ကျွန်တော်တို့ကို ပြောပြဖို့လို့ ကျွန်တော် ထင်ပါတယ်။
+ဒါက ဘယ်လောက်အန္တရာယ်ကြီးတယ်ဆိုတာကို ကျွန်တော်တို့ကို ပြောပြဖို့ အချက်လို့ ကျွန်တော် ထင်ပါတယ်။
 
 2812
 I understood the point.
@@ -72,7 +72,7 @@ I wasn't worried at all, it would happen when it happened.
 
 2819
 I don't really have any memories of my childhood.
-ကျွန်တော်၏ ကလေးဘဝ အမှတ်တရတွေ တစ်ခုမှ တကယ်ကို မရှိတော့ဘူး။
+ကျွန်တော်၏ ကလေးဘဝ အမှတ်တရတွေ တစ်ခုမှ ကျွန်တော့်မှာ တကယ်ကို မရှိတော့ဘူး။
 
 2820
 I still feel bad to this day.
@@ -232,7 +232,7 @@ I don't know how I was supposed to use the contraption.
 
 2859
 I don't know what I was supposed to use it for.
-၎င်းကို ဘာအတွက် သုံးရမှန်း ကျွန်တော် မသိဘူး။
+ကျွန်တော် ၎င်းကို ဘာအတွက် သုံးရမှန်း ကျွန်တော် မသိဘူး။
 
 2860
 I knew just what to use it for!
@@ -240,7 +240,7 @@ I knew just what to use it for!
 
 2861
 The CIA brought the film to the UN.
-စီအိုင်အေ က ဒီဇာတ်ကားကို ကုလသမဂ္ဂကို ယူဆောင်လာပါတယ်။
+စီအိုင်အေ က ဒီဇာတ်ကားကို ယူအန်သို့ ယူဆောင်လာပါတယ်။
 
 2862
 The CIA kept the film for themselves.
@@ -248,7 +248,7 @@ The CIA kept the film for themselves.
 
 2863
 The CIA thought the UN needed to see the film right away.
-ကုလသမဂ္ဂက ဒီဇာတ်ကားကို ချက်ချင်း ကြည့်ဖို့ လိုအပ်တယ်လို့ စီအိုင်အေ က ထင်ပါတယ်။
+ယူအန်က ဒီဇာတ်ကားကို ချက်ချင်း ကြည့်ဖို့ လိုအပ်တယ်လို့ စီအိုင်အေ က ထင်ပါတယ်။
 
 2864
 I told him I didn't want to hear anything else.
@@ -272,7 +272,7 @@ I need a minute here.
 
 2869
 I need a minute to collect my thoughts.
-ငါ့ အတွေးတွေကို စုဆောင်းဖို့ တစ်မိနစ် လိုတယ်။
+ငါ့ အတွေးတွေကို စုဆောင်းဖို့ ငါ တစ်မိနစ် လိုတယ်။
 
 2870
 I have never been to Washington DC.
@@ -280,7 +280,7 @@ I have never been to Washington DC.
 
 2871
 I went to DC to see my supervisor.
-ကျွန်တော့်ရဲ့ ကြီးကြပ်ရေးမှူးကို တွေ့ဖို့ DC ကို ကျွန်တော် သွားခဲ့တယ်။
+ကျွန်တော့်ရဲ့ ကြီးကြပ်ရေးမှူးကို တွေ့ဖို့ ဒီစီ ကို ကျွန်တော် သွားခဲ့တယ်။
 
 2872
 I went to the nation's capital.
@@ -320,7 +320,7 @@ Dad poured me a glass of milk.
 
 2881
 Dad said I wasn't allowed to have a drink.
-အရက်သောက်ခွင့်မရှိဘူးလို့ အဖေပြောခဲ့တယ်။
+ကျွန်တော့်ကို အရက်သောက်ခွင့်မရှိဘူးလို့ အဖေက ပြောခဲ့တယ်။
 
 2882
 The DOT was able to find a different property that they could rent instead.
@@ -340,11 +340,11 @@ SHe moved to Texas and never saw her sister again.
 
 2886
 She never saw her sister after that.
-သူမသည် အဲဒီနောက်ပိုင်း သူ့ညီမကို မတွေ့ဖူးဘူး။
+သူမသည် အဲဒီနောက်ပိုင်း သူ့ညီမကို မတွေ့ဖူးပါ။
 
 2887
 She saw her sister every day.
-သူမသည် သူ့အစ်မကို နေ့တိုင်း တွေ့ခဲ့တယ်။
+သူမသည် သူမ အစ်မကို နေ့တိုင်း တွေ့ခဲ့တယ်။
 
 2888
 Granny stayed on the porch.
