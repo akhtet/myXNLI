@@ -8,7 +8,7 @@ The Substance Abuse and Mental Health Services Administrations are different ent
 
 6703
 There is a Substance Abuse and Mental Health Services Administration.
-မူးယစ်ဆေးဝါး အလွဲသုံးစားမှု တစ်ခု နှင့် စိတ် ကျန်းမာရေး ဝန်ဆောင်မှုများ စီမံခန့်ခွဲရေး ရှိပါသည်။
+မူးယစ်ဆေးဝါး အလွဲသုံးစားမှု နှင့် စိတ် ကျန်းမာရေး ဝန်ဆောင်မှုများ စီမံခန့်ခွဲရေး တစ်ခု ရှိပါသည်။
 
 6704
 Dissaving is spending more than you make.
@@ -56,7 +56,7 @@ The impact in France is increasing.
 
 6715
 There is a much greater impact of volume in the United States.
-အမေရိကန် ပြည်ထောင်စုတွင် အရွယ်အစား ၏ ကြီးမားသော သက်ရောက်မှု များစွာ ရှိပါသည်။
+အမေရိကန် ပြည်ထောင်စုတွင် ထုထည် လွန်စွာ ကြီးမားမှု၏ သက်ရောက်မှု ရှိပါသည်။
 
 6716
 Texas believes that the various forms of education are beneficial.
@@ -100,7 +100,7 @@ A California attorney can get any and all information they need about their clie
 
 6726
 A California attorney cannot know for sure if a client has temporarily crossed the border from Mexico.
-ကယ်လီဖိုးနီးယား ရှေ့နေ တစ်ဦးသည် ဖောက်သည် တစ်ယောက်သည် မက္ကဆီကိုမှ နယ်စပ်ကို ယာယီ ဖြတ်ကျော်သွားခြင်း ရှိ၊ မရှိ အတိအကျ မသိနိုင်ပေ။
+ကယ်လီဖိုးနီးယား ရှေ့နေ တစ်ဦးသည် ဖောက်သည် တစ်ယောက်က မက္ကဆီကိုမှ နယ်စပ်ကို ယာယီ ဖြတ်ကျော်သွားခြင်း ရှိ၊ မရှိ အတိအကျ မသိနိုင်ပေ။
 
 6727
 The attorney can get the information through the migrant worker network.
@@ -184,7 +184,7 @@ Illiterate people are very common and we need a plan to deal with them.
 
 6747
 Illiterate people can figure it out on their own.
-စာမတတ်တဲ့သူတွေက သူတို့ ကိုယ်ပိုင် ၎င်းကို အဖြေရှာလို့ရတယ်။
+စာမတတ်တဲ့သူတွေက သူတို့ ကိုယ်တိုင် ၎င်းကို အဖြေရှာလို့ရတယ်။
 
 6748
 Illiterate people wouldn't understand the materials.
@@ -196,7 +196,7 @@ The groups never speak to each other.
 
 6750
 The two groups work together to make sure they aren't missing any important pieces.
-အဖွဲ့ နှစ်ဖွဲ့သည် အရေးကြီးသော အပိုင်းများ မပျောက်ပျက်စေရန် အတူတူလုပ်ဆောင်ကြသည်။
+အဖွဲ့ နှစ်ဖွဲ့သည် မည်သည့် အရေးကြီးသော အပိုင်းများ မကျန်ရစ်ခဲ့စေရန် အတူတူလုပ်ဆောင်ကြသည်။
 
 6751
 The two groups work together.
@@ -240,11 +240,11 @@ We know there's no connection between volume per capita and pieces per possible.
 
 6761
 The welcome package is delivered by hand.
-ကြိုဆိုသော ပက်ကေ့ချ်များကို လက်ဖြင့် ပို့ပေးပါသည်။
+ဝဲလ်ကမ်း ပက်ကေ့ချ်များကို လူတစ်ယောက်ဖြင့် ပို့ပေးခဲ့သည်။
 
 6762
 The welcome packages are appreciated by those who receive them.
-ကြိုဆိုသော ပက်ကေ့ချ်များကို လက်ခံရရှိသူများမှ တန်ဖိုးထားကြသည်။
+ဝဲလ်ကမ်း ပက်ကေ့ချ်များကို လက်ခံရရှိသူများမှ တန်ဖိုးထားကြသည်။
 
 6763
 The welcome packages are sent by mail.
@@ -276,7 +276,7 @@ We use a formula to figure out about how many pieces were possible per stop,.
 
 6770
 High volume areas also have high incomes.
-ထုထည် များသော ဒေသများသည် ၀င်ငွေလည်း မြင့်မားသည်။
+ထုထည် မြင့်မားသော ဒေသများသည် ၀င်ငွေလည်း မြင့်မားသည်။
 
 6771
 High volume areas are the poorest.
@@ -288,7 +288,7 @@ High volume areas have income over $100,000.
 
 6773
 We want to make GAO fall apart.
-ကျွန်တေတာ်တို့ ဂျီအေအိုကို ကွဲထွက်သွားအောင် လုပ်ချင်တယ်။
+ကျွန်တော်တို့ ဂျီအေအိုကို ကွဲထွက်သွားအောင် လုပ်ချင်တယ်။
 
 6774
 We want to make GAO stronger because it has a lot of problems right now.
@@ -372,19 +372,19 @@ One size fits all when it comes to brief interventions.
 
 6794
 No reports on pilot programs were submitted.
-စမ်းသပ်ချက် စီမံကိန်း အစီရင်ခံစာများကို တင်သွင်းခဲ့ခြင်းမရှိပါ။
+လေယာဉ်မှူးနှင့်ပတ်သက်သည့် စီမံကိန်း အစီရင်ခံစာများကို တင်သွင်းခဲ့ခြင်းမရှိပါ။
 
 6795
 There were forty-four pilot project reports submitted.
-စမ်းသပ်ချက် စီမံကိန်း အစီရင်ခံစာ လေးဆယ့်လေးခုကို တင်ပြခဲ့သည်။
+လေယာဉ်မှူးနှင့်ပတ်သက်သည့် စီမံကိန်း အစီရင်ခံစာ လေးဆယ့်လေးခုကို တင်ပြခဲ့သည်။
 
 6796
 There were more pilot programs, but only forty-four submitted reports.
-နောက်ထပ် စမ်းသပ်ချက် စီမံကိန်းများ ရှိခဲ့သော်လည်း ၊ အစီရင်ခံစာ လေးဆယ့်လေးခုသာ တင်ပြခဲ့သည်။
+နောက်ထပ် လေယာဉ်မှူးနှင့်ပတ်သက်သည့် စီမံကိန်းများ ရှိခဲ့သော်လည်း ၊ အစီရင်ခံစာ လေးဆယ့်လေးခုသာ တင်ပြခဲ့သည်။
 
 6797
 It is not possible to modify the Title V operating permit.
-ခေါင်းစဉ် ၅သည် လည်ပတ်မှု ခွင့်ပြုခြင်းကို ပြုပြင်ရန် မဖြစ်နိုင်ပါ။
+ခေါင်းစဉ် ၅ လည်ပတ်မှု ခွင့်ပြုခြင်းကို ပြုပြင်ရန် မဖြစ်နိုင်ပါ။
 
 6798
 It will take over a year to modify the Title V operating permit.
@@ -392,7 +392,7 @@ It will take over a year to modify the Title V operating permit.
 
 6799
 There are many documents that need to be signed when modifying the Title V operating permit.
-ခေါင်းစဉ် ၅သည် လည်ပတ်မှု ခွင့်ပြုခြင်းကို ပြင်ဆင်သည့်အခါတွင် လက်မှတ်ရေးထိုးရန် လိုအပ်သော စာရွက်စာတမ်း များစွာ ရှိပါသည်။
+ခေါင်းစဉ် ၅ လည်ပတ်မှု ခွင့်ပြုခြင်းကို ပြင်ဆင်သည့်အခါတွင် လက်မှတ်ရေးထိုးရန် လိုအပ်သော စာရွက်စာတမ်း များစွာ ရှိပါသည်။
 
 6800
 France does not have a postal service.
