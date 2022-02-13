@@ -136,7 +136,7 @@ It took 13 months total to retrofit the boiler.
 
 6335
 Advanced scheduling software is one of the key technologies businesses focus on.
-အဆင့်မြင့် အချိန်ဇယား ဆွဲဆော့ဖ်ဝဲသည် စီးပွားရေးလုပ်ငန်းများကို အဓိက အာရုံစိုက်သည့် နည်းပညာများထဲမှ တစ်ခု ဖြစ်သည်။
+အဆင့်မြင့် အချိန်ဇယားဆွဲပေးသည့် ဆော့ဖ်ဝဲသည် စီးပွားရေးလုပ်ငန်းများကို အဓိက အာရုံစိုက်သည့် နည်းပညာများထဲမှ တစ်ခု ဖြစ်သည်။
 
 6336
 Technology is just a tool and not a business enabler.
@@ -160,7 +160,7 @@ The SAB talked about it.
 
 6341
 The cost of basic mail is required to be more than the worksharing.
-အခြေခံ စာပို့ ကုန်ကျစရိတ်သည် ခွဲဝေ၍အလုပ်လုပ်ခြင်းထက် ပိုနေရန် လိုအပ်သည်။
+အခြေခံ စာပို့သည့် ကုန်ကျစရိတ်သည် ခွဲဝေ၍အလုပ်လုပ်ခြင်းထက် ပိုနေရန် လိုအပ်သည်။
 
 6342
 Worksharing is more than it costs to mail things.
@@ -308,7 +308,7 @@ They estimated the benefits.
 
 6378
 They had  rough estimate of the benefits but it was likely wrong.
-အကျိုးကျေးဇူးများကို အကြမ်းဖျင်း ခန့်မှန်းထား သော်လည်း ၎င်းသည် မှားနိုင်ဖွယ်ရှိသည်။
+သူတို့သည် အကျိုးကျေးဇူးများကို အကြမ်းဖျင်း ခန့်မှန်းထား သော်လည်း ၎င်းသည် မှားနိုင်ဖွယ်ရှိသည်။
 
 6379
 They had no idea how to estimate the benefits.
@@ -388,7 +388,7 @@ Skimmers pay a lot more than everyone else.
 
 6398
 Employees didn't have a charge card to use.
-အလုပ်သများများတွင် အသုံးပြုရန် အကြွေးဝယ် ကတ်ပြား မရှိပါ။
+အလုပ်သမားများတွင် အသုံးပြုရန် အကြွေးဝယ် ကတ်ပြား မရှိပါ။
 
 6399
 Employees needed to charge all their food to the card.
