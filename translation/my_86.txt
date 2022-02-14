@@ -245,7 +245,7 @@ Kim Kardashian wrote the cover story for Time magazine about the 12 steps needed
 
 8562
 Time magazine has a picture of Bill Gates on the cover.
-<MYANMAR UNICODE TRANSLATION HERE>
+တိုမ်းမဂ္ဂဇင်း၏ မျက်နှာဖုံးတွင် ဘီးလ်ဂိတ်၏ရုပ်ပုံရှိသည်။
 
 8563
 Time magazine is running a story about Bill Gates and success in the digital age.
@@ -289,7 +289,7 @@ Mr Alexander was forced to drop out after embarrassing pictures of him were publ
 
 8573
 The White House has the FBI spy on political candidates.
-<MYANMAR UNICODE TRANSLATION HERE>
+နိုင်ငံရေး ရွေးကောက်ပွဲဝင် ကိုယ်စားလှယ်လောင်းများကို စုံစမ်းရန် အိမ်ဖြူတော်တွင် အက်ဖ်ဘီအိုင်သူလျှိုရှိသည်။
 
 8574
 The White House misuses the FBI.
