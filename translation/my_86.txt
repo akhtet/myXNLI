@@ -16,15 +16,15 @@ Michael Apted ruined the series by insisting they take out any warm, human eleme
 
 8505
 Michael Apted was hired to add a personal quality to the series.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရုပ်သံဇာတ်လမ်းတွဲတွင် ကိုယ်ပိုင်အရည်အသွေးထပ်ပေါင်းထည့်ရန် မိုက်ကယ်အပ်တက်ကို ငှားရမ်းခဲ့သည်။
 
 8506
 The series was thought to be cold and boring, so it was important to hire Michael Apted to add a warm, personal touch to improve ratings.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရုပ်သံဇာတ်လမ်းတွဲသည် အေးစက်စက်နှင့် ငြီးငွေ့စရာကောင်း၍ ပျင်းစရာကောင်းသည်ဟု ယူဆရသည်၊ ထို့ကြောင့် ပရိတ်သတ်အားပေးမှုပမာဏ တိုးတက်စေရန် နွေးထွေးပြီး ကိုယ်ပိုင် အနုစိတ် မွမ်းမံမှု ထပ်ထည့်ရန် မိုက်ကယ်အပ်တက်ကို ငှားရမ်းရန် အရေးကြီးသည်။
 
 8507
 A girl is dressed for sledding.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိန်းကလေးငယ်လေးတစ်ဦးသည် စွတ်ဖားလှည်းစီးဖို့ ဝတ်စားထားတယ်။
 
 8508
 A girl wears white clothes.
@@ -32,19 +32,19 @@ A girl wears white clothes.
 
 8509
 The girl is dressed all in red.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိန်းကလေးငယ်လေးက အနီရောင်ဝတ်ထားတယ်။
 
 8510
 The movie does not mention Kaufman discussing his own death.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခေါ့ဖ်မန်က သူရဲ့ နိဂုံးကို ဆွေးနွေးထားတာကို ရုပ်ရှင်မှာ ထုတ်ဖော်မပြထားပါဘူး။ 
 
 8511
 The movie had an in depth interview with Kaufman about his death.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရုပ်ရှင်မှာ သူရဲ့ နိဂုံးအကြောင်းနဲ့ ပတ်သက်ပြီး ခေါ့ဖ်မန်နှင့် အသေးစိတ်အင်တာဗျူးတစ်ခု ပါဝင်တယ်။ 
 
 8512
 The movie was a blockbuster, despite leaving out some crucial details about Kaufman.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခေါ့ဖ်မန်နှင့်ပတ်သက်သည့် အရေးပါလှသော အသေးစိတ်အချက်အလက်အချို့ ချန်ရစ်ထားသော်လည်း၊ ရုပ်ရှင်ဟာ ဝက်ဝက်ကွဲအောင်မြင်ခဲ့တယ်။
 
 8513
 The OPEN sign is black.
@@ -60,15 +60,15 @@ The OPEN sign lights up.
 
 8516
 Anxious parents are one marketing target of the newsweeklies.
-<MYANMAR UNICODE TRANSLATION HERE>
+စိတ်သောကရောက်နေကြသော မိဘများသည် အပတ်စဉ်ထုတ်သတင်းစဉ်များ၏ ဈေးကွက်မြှင့်တင်ရေး ပစ်မှတ်တစ်ခုဖြစ်သည်။
 
 8517
 Newsweeklies design their cover packages to appeal to small children or the elderly.
-<MYANMAR UNICODE TRANSLATION HERE>
+အပတ်စဉ်ထုတ်သတင်းစဉ်များသည် ကလေးငယ်လေးများနှင့် သက်ကြီးရွယ်အိုများကို စွဲဆောင်ရန် ၎င်းတို့၏ အဖုံး ထုတ်ပိုးမှုများကို ဒီဇိုင်းဆွဲထားသည်။
 
 8518
 Parents are more likely to spend money on new car purchases, making them a lucrative advertising segment for magazines.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိဘများသည် ကားအသစ်ဝယ်ယူမှုများတွင် ပိုက်ဆံ ပိုမိုသုံးစွဲတက်သည်၊ ဒါဟာ မဂ္ဂဇင်းများတွင် အမြတ်အစွန်းများသော ကြော်ငြာကဏ္ဍတစ်ခု ဖြစ်စေသည်။
 
 8519
 Rockefeller gave to cancer research.
@@ -84,75 +84,76 @@ Rockefeller was stingy.
 
 8522
 The Venice Biennale is overpopulated.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဗင်းနစ်ဘီအယ်နလီသည် လူဦးရေအလွန်ထူထပ်သည်။
 
 8523
 The Venice Biennale is sparsely populated.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဗင်းနစ်ဘီအယ်နလီသည် လူနေကျဲပါးသည်။
 
 8524
 The Venice Biennale will make room for more people.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဗင်းနစ်ဘီအယ်နလီသည် နောက်ထပ်လူများအတွက် နေရာဖန်တီးလိမ့်မည်။
 
 8525
 It was reported that Michael Eisner tried unsuccessfully to make amends with his former friend, Mike Ovitz.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိုက်ကယ်အိုက်စ်နာ့သည် သူ၏ မိတ်ဆွေဟောင်း မိုက်အိုဗစ်နှင့် ကျေအေးရန် ကြိုးစားခဲ့သော်လည်း မအောင်မြင်ခဲ့ကြောင်း သတင်းရရှိသည်။
 
 8526
 Mike Ovitz and Michael Eisner were the best of friends and business partners for their entire lives.
-<MYANMAR UNICODE TRANSLATION HERE>
+မိုက်အိုဗစ်နှင့် မိုက်ကယ်အိုက်စ်နာ့တို့သည် သူတို့၏ ဘဝတလျှောက်လုံး သူငယ်ချင်းကောင်းတွေဖြစ်ခဲ့ကြပြီး စီးပွားရေး လုပ်ဖော်ကိုင်ဖက်တွေ ဖြစ်ခဲ့ကြတယ်။
 
 8527
 Mike Ovitz refused Michael Eisner's attempt at working out their differences, because of distrust surrounding finances and the vision for the company.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပတ်ဝန်းကျင် ဘဏ္ဍာရေးဆိုင်ရာသံသယများနှင့် ကုမ္ပဏီ၏ မျှော်မှန်းချက်တို့ကြောင့်၊ မိုက်ကယ်အိုက်စ်နာ့၏ သူတို့၏ အမြင်မတူသဘောထားကွဲလွဲမှုများကို ဖြေရှင်းရန်ကြိးပမ်းမှုကို မိုက်အိုဗစ်သည် ငြင်းပယ်ခဲ့သည်။
 
 8528
 Klayman brought up on charges of ethnic bias in California.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလေမန်သည် ကယ်လီဖိုးနီးယားတွင် လူမျိုးရေးဘက်လိုက်မှုဖြင့် စွဲချက်တင်ခံခဲ့ရသည်။
 
 8529
 Klayman didn't expect to be charged with ethnic bias.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလေမန်သည် လူမျိုးရေးဘက်လိုက်မှုဖြင့် တရားစွဲခံရမည်ဟု မျှော်လင့်မထားပေ။
 
 8530
 There were allegations of ethnic bias against Klayman.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလေမန်အပေါ် လူမျိုးရေးဘက်လိုက်မှုရှိသည်ဟု စွတ်စွဲချက်များ ရှိသည်။
 
 8531
 Corporate reps wear suits.
-<MYANMAR UNICODE TRANSLATION HERE>
+အသင်းအဖွဲ့ကိုယ်စားလှယ်များသည် ဝတ်စုံများကို ဝတ်ဆင်ထားကြသည်။
 
 8532
 One would expect corporate reps to hiss.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်စုံတစ်ယောက်က အသင်းအဖွဲ့ကိုယ်စားလှယ်များ စိတ်ဆိုးမာန်ဆိုးဖြင့် ပြောဆိုရန် မျှော်လင့်ထားတယ်။
 
 8533
 One would not expect corporate reps to hiss.
-<MYANMAR UNICODE TRANSLATION HERE>
+အသင်းအဖွဲ့ကိုယ်စားလှယ်များ စိတ်ဆိုးမာန်ဆိုးဖြင့် ပြောဆိုရန် တစ်စုံတစ်ယောက်ကမျှ မျှော်လင့်မထားပါ။
 
 8534
 Athletes are born with all their performance potential fully realized.
-<MYANMAR UNICODE TRANSLATION HERE>
+အားကစားသမားများသည် သူတို့၏ စွမ်းရည် အလားအလာ အလုံးစုံကို အပြည့်အဝ သိရှိနားလည်သဘောပေါက်ပြီး မွေးဖွားလာကြသည်။
 
 8535
 Athletic performance is more affected by training than genetics.
-<MYANMAR UNICODE TRANSLATION HERE>
+အားကစားသမားများ၏ စွမ်းရည်သည် မျိုးရိုးဗီဇထက် လေ့ကျင့်မှုဖြင့် ပိုမိုအကျိုးသက်ရောက်သည်။
 
 8536
 Most serious athletes train at least eight hours every week.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပြင်းထန်သောအားကစားသမားများသည် အပတ်စဉ်တိုင်း အနည်းဆုံးရှစ်နာရီ လေ့ကျင့်ကြသည်။
 
 8537
 Southern japes has a population of five thousand in the summer and two thousand in the winter.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆောက်သန်းဂျိပ်စ်၌ နွေရာသီတွင် လူဦးရေ ငါးထောင်ရှိပြီး ဆောင်းရာသီတွင် နှစ်ထောင်ရှိသည်။
 
 8538
 Southern japes has a very clear and rigid class association.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆောက်သန်းဂျိပ်စ်၌ အလွန်ရှင်းလင်းပြီး တင်းကျပ်သော လူတန်းစားအဖွဲ့တစ်ဖွဲ့ရှိသည်။
 
 8539
 There is a class association here that has been inverted.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီနေရာမှာ 
+#REVIEW "inverted means homosexual nor not?"
 
 8540
 I am interested in politics.
@@ -172,11 +173,11 @@ The poetry list at Oxford is no longer being continued.
 
 8544
 The prestige university does not have the funding to keep the poetry list active.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဩဇာတိက္ကမကြီးသော တက္ကသိုလ်သည် ကဗျာလင်္ကာစာရင်းကို ဆက်လက် အသက်ဝင်အောင် ထားရှိရန် ရန်ပုံငွေမရှိပါ။
 
 8545
 The university is dedicated to preserving the poetry list and vows to never cancel it.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကဗျာလင်္ကာစာရင်းကို ထိန်းသိမ်းစောင့်ရှောက်ရန် တက္ကသိုလ်အား ရည်စူးထားပြီး ထိုအရာကို မည်သည့်အခါမျှ ဖျက်သိမ်းခြင်းမရှိဟု သန္ဓိဋ္ဌာန်ချထားသည်။
 
 8546
 The RPH book is going to have a tour associated with it.
