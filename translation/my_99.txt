@@ -1,12 +1,10 @@
 9801
 That person is being discharged honorably.
-အဆိုပါ ပုဂ္ဂိုလ်အား ဂုဏ်ပြု၍ ထွက်ခွာခွင့်ပြုလိုက်သည်။
-#REVIEW discharded
+အဆိုပါ ပုဂ္ဂိုလ်အား သိက္ခာရှိရှိ ထွက်ခွာခွင့်ပြုလိုက်သည်။
 
 9802
 That person is being discharged.
-အဆိုပါ ပုဂ္ဂိုလ်အား လွှတ်ပေးလိုက်သည်။ /အဲ့ဒီလူက လွတ်သွားပြီ။/ အဆိုပါ ပုဂ္ဂိုလ်သည် ဆေးရုံမှဆင်းသွာပြီ။
-#REVIEW
+အဆိုပါ ပုဂ္ဂိုလ်အား ထုတ်ပယ်လိုက်သည်။
 
 9803
 Al of the words are easy to understand.
@@ -14,8 +12,7 @@ Al of the words are easy to understand.
 
 9804
 There are lots of silly words that decribe the government.
-အစိုးရကို ရည်ညွှန်းဖော်ပြထားသည့် ကျိုးကြောင်းမသင့်လျော်သော စကားလုံးများစွာပါရှိသည်။
-#REVIEW silly
+အစိုးရကို ရည်ညွှန်းဖော်ပြထားသည့် မသင့်လျော်သော စကားလုံးများစွာပါရှိသည်။
 
 9805
 We were handed a long list of strange terms.
@@ -75,13 +72,11 @@ The Greek word for competition has come to mean pain in English because of the a
 
 9819
 The word agon originally meant competition in Greek.
-agon ဟူသော စကားလုံးသည် ဂရိလို ပြိုင်ဆိုင်ခြင်းဟု မူရင်းအဓိပ္ပယ်ရသသည်။
-#REVIEW  Agon comes from the Greek word agōn, which is translated with a number of meanings, among them "contest," "competition at games," and "gathering."
+အေဂွန် ဟူသော စကားလုံးသည် ဂရိလို ပြိုင်ဆိုင်ခြင်းဟု မူရင်းအဓိပ္ပယ်ရသသည်။
 
 9820
 The word agon originally meant pain and suffering in Greek
-agon ဟူသော စကားလုံးသည် ဂရိလို နာကျင်မှုနှင့် ဒုက္ခဟု မူရင်းအဓိပ္ပယ်ရသသည်။
-#REVIEW
+အေဂွန် ဟူသော စကားလုံးသည် ဂရိလို နာကျင်မှုနှင့် ဒုက္ခဟု မူရင်းအဓိပ္ပယ်ရသသည်။
 
 9821
 The flashes of wisdom are of  no importance.
@@ -122,7 +117,6 @@ The subjective satisfactory is trouble.
 9830
 Esperanto is a real language that already has all of the weaknesses of other languages.
 အက်စ်ပရန်တိုဟာ အခြားဘာသာစကားတွေရဲ့ အားနည်းချက်တွေအားလုံးရှိနေတဲ့ တကယ့်ဘာသာစကားတစ်ခုပဲ။
-#REVIEW Esperanto=an artificial language, made by combining features of several European languages, intended as a form of international communication
 
 9831
 Esperanto is spoken by less than one percent of the world's population.
@@ -130,8 +124,7 @@ Esperanto is spoken by less than one percent of the world's population.
 
 9832
 Polysemy is one problem that natural languages have.
-ဆိုလိုရင်းများစွာအဓိပ္ပာယ်ရခြင်းသည် သဘာဝဘာသာစကားများတွင်ရှိသော ပြဿနာတစ်ရပ်ဖြစ်သည်။
-#REVIEW natural languages=သဘာဝဘာသာစကားများ
+ဆိုလိုရင်းများစွာအဓိပ္ပာယ်ရခြင်းသည် ဘာသာစကားများတွင်ရှိသော ပြဿနာတစ်ရပ်ဖြစ်သည်။
 
 9833
 Honey can speak several accents.
@@ -172,17 +165,14 @@ Though they wrote many popular modern songs, Peter C. Newman and Pierre Berton n
 9842
 Hogwash is defined as that which is nonsensical and worthless.
 မဟုတ်တရုတ်ပေါက်တကရစကားကို အဓိပ္ပာယ်မဲ့ပြီး တန်ဖိုးမရှိသောအရာဟု သတ်မှတ်သည်။
-#REVIEW
 
 9843
 Hogwash is most commonly used to describe the most important and sensible things.
 အရေးအကြီးဆုံးဖြစ်ပြီး အကြောင်းယုတ္တိရှိသောအရာများကို ဖော်ပြရန် မဟုတ်တရုတ်ပေါက်တကရစကားကို အသုံးအများဆုံးဖြစ်သည်။
-#REVIEW
 
 9844
 The term Hogwash is formed because of the stench that comes from washing pigs.
-Hogwashဆိုသော ဝေါဟာရသည် ဝက်များကို ဆေးကြောသန့်စင်ရာမှ ထွက်ပေါ်လာသော အနံအသက်ဆိုးများကြောင့် ဖြစ်ပေါ်လာသည်။
-#REVIEW
+ဟော့ဝါ့ချ် ဆိုသော ဝေါဟာရသည် ဝက်များကို ဆေးကြောသန့်စင်ရာမှ ထွက်ပေါ်လာသော အနံအသက်ဆိုးများကြောင့် ဖြစ်ပေါ်လာသည်။
 
 9845
 It took place in no time at all, you know.
@@ -202,8 +192,7 @@ It is definitely not related to polytheism and monotheism.
 
 9849
 It might be a go between between polytheism and monotheism.
-ဒါဟာ နတ်ဘုရားများစွာကို ကိုးကွယ်သောဝါဒနှင့် ဘုရားတစ်ဆူကိုသာ ကိုးကွယ်သောဝါဒတို့ကြား အလှည့်တစ်ခုဖြစ်နိုင်တယ်။
-#REVIEW
+ဒါဟာ နတ်ဘုရားများစွာကို ကိုးကွယ်သောဝါဒနှင့် ဘုရားတစ်ဆူကိုသာ ကိုးကွယ်သောဝါဒတို့ကြား ကြားခံ တစ်ခုဖြစ်နိုင်တယ်။
 
 9850
 It's the missing link between polytheism and monotheism.
@@ -223,8 +212,7 @@ When I took my first job, I could either read nor write in French.
 
 9854
 The King James Bible contains both the Old and the New Testament.
-ကင်းဂျိမ်းစ်/ဂျိမ်းဘုရင် သမ္မာကျမ်းစာတွင် ဓမ္မဟောင်းရော ဓမ္မသစ်ပါ နှစ်မျိုးလုံးပါရှိသည်။
-#REVIEW
+ဂျိမ်းဘုရင် သမ္မာကျမ်းစာတွင် ဓမ္မဟောင်းရော ဓမ္မသစ်ပါ နှစ်မျိုးလုံးပါရှိသည်။
 
 9855
 The King James Bible contains only the Old Testament.
@@ -248,18 +236,15 @@ He is not worried because he doesn't try.
 
 9860
 Men only refers to males.
-ပုရိဿများသည်/အမျိုးသားများသည် အဖိုများကိုသာ ရည်ညွှန်းသည်။
-#REVIEW
+အမျိုးသားများသည် အဖိုများကိုသာ ရည်ညွှန်းသည်။
 
 9861
 Women are included in the label of man now that feminism has progressed.
-ယနေ့အချိန်တွင် ဣတ္ထိယဝါဒ /အမျိုးသမီးဝါဒ ထွန်းကားလာသောကြောင့် အမျိုးသမီးများသည် အမျိုးသားများ၏နေရာတွင်ပါဝင်လာကြသည်။
-#REVIEW
+ယနေ့အချိန်တွင် ဣတ္ထိယဝါဒ ထွန်းကားလာသောကြောင့် အမျိုးသားဆိုသော အသုံးအနှုန်းတွင် အမျိုးသမီးများပါ ပါဝင်လာကြသည်။
 
 9862
 Women are included in the label of man.
-အမျိုးသမီးများသည် အမျိုးသားများ၏နေရာတွင်ပါဝင်လာကြသည်။
-#REVIEW
+အမျိုးသားဆိုသော အသုံးအနှုန်းတွင် အမျိုးသမီးများပါ ပါဝင်လာကြသည်။
 
 9863
 The list of pronunciation didn't help me at all.
@@ -275,16 +260,16 @@ The pronunciation list only included the most basic things.
 
 9866
 The Omni Gazetteer of the United States is a first step.
-အမေရိကန်ပြည်ထောင်စု အောမ်နိ ပထဝီနေရာဒေသအညွှန်း အဘိဓာန်သည် ပထမခြေလှမ်းဖြစ်သည်။
+အမေရိကန်ပြည်ထောင်စု အောမ်နိ ဂဇတ်တီရာသည် ပထမခြေလှမ်းဖြစ်သည်။
 #REVIEW
 
 9867
 The Omni Gazetteer of the United States is about animals.
-အမေရိကန်ပြည်ထောင်စု အောမ်နိ ပထဝီနေရာဒေသအညွှန်း အဘိဓာန်သည် တိရစ္ဆာန်များအကြောင်းဖြစ်သည်။
+အမေရိကန်ပြည်ထောင်စု အောမ်နိ ဂဇတ်တီရာသည် တိရစ္ဆာန်များအကြောင်းဖြစ်သည်။
 
 9868
 The Omni Gazetteer of the United States is comprehensive.
-အမေရိကန်ပြည်ထောင်စု အောမ်နိ ပထဝီနေရာဒေသအညွှန်း အဘိဓာန်သည် ပြည့်စုံကျယ်ပြန့်သည်။
+အမေရိကန်ပြည်ထောင်စု အောမ်နိ ပထဝီနေရာဒေသအညွှန်းသည် ပြည့်စုံကျယ်ပြန့်သည်။
 
 9869
 Typewriters require electric assistance to form words.
@@ -400,8 +385,7 @@ I was born in Iceland and grew up there, where there are no trains.
 
 9897
 In the South, train stations are referred to as the depot, and pronounced DEE-po.
-တောင်ပိုင်းမှာ၊ ရထားဘူတာရုံတွေဆိုတာ ယာဉ်ရပ်နားစခန်း/ယာဉ်ပြင်ရုံ လို့ရည်ညွှန်းတာ၊ ပြီးတော့ ဒီးပိုလို့ အသံထွက်တယ်။
-#REVIEW depot=ယာဉ်ရပ်နားစခန်း/ယာဉ်ပြင်ရုံ
+တောင်ပိုင်းမှာ၊ ရထားဘူတာရုံတွေဆိုတာ ယာဉ်ရပ်နားစခန်းလို့ခေါ်တာ၊ ပြီးတော့ ဒီးပိုလို့ အသံထွက်တယ်။
 
 9898
 There were miles of train tracks near my parent's home in the South.
