@@ -253,15 +253,15 @@ Time magazine is running a story about Bill Gates and success in the digital age
 
 8564
 Bets on political contests and elections are also accepted at these sites.
-<MYANMAR UNICODE TRANSLATION HERE>
+နိုင်ငံရေးဆိုင်ရာ ယှဉ်ပြိုင်မှုများနှင် ရွေးကောက်ပွဲများ လောင်းကြေးများကိုလည်း ဤနေရာများတွင် လက်ခံသည်။
 
 8565
 These sites only accept bets on sporting events.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤနေရာများသည် အားကစားပွဲစဉ်များ လောင်းကြေးများကိုသာ လက်ခံသည်။
 
 8566
 These sites take bests on several activities.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤနေရာများသည် အမျိုးမျိုးသော ကိစ္စရပ်များ၏ အကောင်းဆုံးများကို လက်ခံသည်။
 
 8567
 Johnson felt a lack of support.
@@ -277,15 +277,15 @@ Johnson threatened to withdraw.
 
 8570
 At least one person gave up on his attempt to become president.
-<MYANMAR UNICODE TRANSLATION HERE>
+အနည်းဆုံး လူတစ်ဦးသည် သမ္မတဖြစ်လာရန် သူ၏ကြိုးပမ်းမှုကို စွန့်လွှတ်ခဲ့သည်။
 
 8571
 Lamar Alexander refused to give up his presidential campaign.
-<MYANMAR UNICODE TRANSLATION HERE>
+လမာအလက်ဇန္ဒြားသည် သူ၏ သမ္မတရွေးကောက်ပွဲ စည်းရုံးမဲဆွယ်မှုကို စွန့်လွှတ်ရန် ငြင်းဆိုခဲ့သည်။
 
 8572
 Mr Alexander was forced to drop out after embarrassing pictures of him were published.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ္စတာ အလက်ဇန္ဒြားသည် သူ၏ စိတ်မသက်မသာဖြစ်စေသောအရှက်ရစေသော ရုပ်ပုံများ ထုတ်ဝေခံရပြီးနောက် နှုတ်ထွက်ရန် ဖိအားပေးခြင်းခံရသည်။
 
 8573
 The White House has the FBI spy on political candidates.
@@ -301,15 +301,15 @@ The White House uses the FBI properly.
 
 8576
 Tung does not care about property speculators.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထန်သည် အိမ်ခြံမြေ ဈေးကစားသူများကို ဂရုမစိုက်ပေ။
 
 8577
 Tung thinks property speculators are acting unethically.
-<MYANMAR UNICODE TRANSLATION HERE>
+အိမ်ခြံမြေ ဈေးကစားသူများသည် သိက္ခာမဲ့စွာ ပြုမူနေသည်ဟု ထန်ထင်သည်။
 
 8578
 Tung wants to influence property speculators.
-<MYANMAR UNICODE TRANSLATION HERE>
+ထန်သည် အိမ်ခြံမြေ ဈေးကစားသူများအပေါ် ဩဇာသက်ရောက်လွှမ်းမိုးလိုသည်။
 
 8579
 Run while making noise.
@@ -317,35 +317,35 @@ Run while making noise.
 
 8580
 Run with arms flailing.
-<MYANMAR UNICODE TRANSLATION HERE>
+လက်များကို ယမ်းခါ၍ ပြေးပါ။
 
 8581
 Run without being heard.
-<MYANMAR UNICODE TRANSLATION HERE>
+မကြားရပဲ ပြေးပါ။
 
 8582
 Alan Greenspan has economic theories regarding the unemployment rate.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲလန်ဂရင်းစပန်းတွင် အလုပ်လက်မဲ့နှုန်းနဲ့ ပတ်သက်သည့် စီးပွားရေးသီအိုရီသဘောတရားများ ရှိသည်။
 
 8583
 Paul has never heard of Alan Greenspan or his economic theories.
-<MYANMAR UNICODE TRANSLATION HERE>
+ပေါလ်သည် အဲလန်ဂရင်းစပန်း သို့မဟုတ် သူ၏ စီးပွားရေးသီအိုရီများကို တစ်ခါမျှ မကြားဖူးပါ။
 
 8584
 Paul thinks Alan Greenspan is the smartest economist he knows.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲလန်ဂရင်းစပန်းသည် သူသိသမျှထဲမှာ အတော်ဆုံး ဘောဂဗေဒပညာရှင်ဟု ပေါလ် ထင်သည်။
 
 8585
 I have never dealt with Linux.
-<MYANMAR UNICODE TRANSLATION HERE>
+လင်းနပ်စ်နဲ့ ကျွန်တော် တစ်ခါမှ မလုပ်ဆောင်ဖူးဘူး။
 
 8586
 I was having trouble getting Linux to connect to my modem.
-<MYANMAR UNICODE TRANSLATION HERE>
+လင်းနပ်စ်နဲ့ ငါ့ရဲ့ မိုဒမ် ချိတ်တဲ့နေရာမှာ ငါ ပြဿနာတတ်နေတယ်။
 
 8587
 I was having trouble with Linux.
-<MYANMAR UNICODE TRANSLATION HERE>
+လင်းနပ်စ်နဲ့ ငါ ပြဿနာတတ်နေတယ်။
 
 8588
 10 people had lost baggage.
