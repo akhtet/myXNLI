@@ -12,7 +12,7 @@ Brit Hume works for Fox.
 
 8504
 Michael Apted ruined the series by insisting they take out any warm, human elements.
-<MYANMAR UNICODE TRANSLATION HERE>
+#REVIEW
 
 8505
 Michael Apted was hired to add a personal quality to the series.
@@ -361,39 +361,40 @@ There were no complaints at all.
 
 8591
 After he hacked off his victims forearms he tried to hide them in a trash can.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူဟာ သူ့ရဲ့သားကောင်တွေရဲ့ လက်ဖျံတွေကို ပိုင်းဖြတ်ခုတ်ထစ်ပြီးနောက် အမှိုက်ပုံးတစ်ခုထဲမှာ အဲ့ဒါတွေကို ဖွက်ဖို့ သူကြိုးစားခဲ့တယ်။
 
 8592
 It was obvious to everyone that his time in prison had rehabilitated him completely.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူ့ရဲ့ ထောင်ကျနေတဲ့အချိန်ဟာ သူ့ကို လုံးဝ ပြန်လည်ထူထောင်ပေးတယ်ဆိုတာဟာ လူတိုင်းအတွက် သိသာထင်ရှားတယ်။
 
 8593
 Mr Singleton is a convicted rapist in Florida.
-<MYANMAR UNICODE TRANSLATION HERE>
+မစ္စတာ စင်ဂဲတန်သည် ဖလော်ရီဒါတွင် ပြစ်ဒဏ်ကျခံနေရသည့် မဒိမ်းကောင် တစ်ယောက်ဖြစ်သည်။
 
 8594
 Hatch angrily said that he couldn't even lift Steve's wallet.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူဟာ စတိဗ်၏ ပိုက်ဆံအိတ်ကို   နိုင်ဘူးဟု ဟတ်ချ်သည် စိတ်ဆိုးမာန်ဆိုးနဲ့ ပြောခဲ့သည်။
+#REVIEW lift's meaning is 'to steal something' or sth else?
 
 8595
 Hatch had no opinion about Steve's wallet.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟတ်ချ်သည် စတိဗ်၏ ပိုက်ဆံအိတ်အကြောင်းနှင့်ပတ်သက်၍ မည်သည့်ထင်မြင်ချင်သဘောထားမျှ မရှိပါ။
 
 8596
 Hatch joked thay he couldn't even lift Steve's wallet.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူသည်  စတိဗ်၏ ပိုက်ဆံအိတ်ကို မတောင်မမနိုင်ဘူးဟု ဟတ်ချ်သည် ပျက်ရယ်ပြုခဲ့သည်။
 
 8597
 The Nerds are hopeless.
-<MYANMAR UNICODE TRANSLATION HERE>
+သည်နာဒ့်စ်များသည် အလားအလာမရှိပေ။
 
 8598
 The Nerds are not good with social interaction.
-<MYANMAR UNICODE TRANSLATION HERE>
+သည်နာဒ့်စ်များသည် လူမှုဆက်ဆံရေးမှာ မကောင်းပါဘူး။
 
 8599
 The Nerds have a future.
-<MYANMAR UNICODE TRANSLATION HERE>
+သည်နာဒ့်စ်တွေမှာ အနာဂတ်ရှိတယ်။
 
 8600
 Charles Lane is a reporter.
