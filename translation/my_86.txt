@@ -153,7 +153,7 @@ Southern japes has a very clear and rigid class association.
 8539
 There is a class association here that has been inverted.
 ဒီနေရာမှာ 
-#REVIEW "inverted means homosexual nor not?"
+#REVIEW "inverted means homosexual nor sth else?"
 
 8540
 I am interested in politics.
@@ -181,23 +181,23 @@ The university is dedicated to preserving the poetry list and vows to never canc
 
 8546
 The RPH book is going to have a tour associated with it.
-<MYANMAR UNICODE TRANSLATION HERE>
+အာပီအိတ်ချ်စာအုပ်သည် ၎င်းနှင့်ဆက်စပ်သည့် အလည်အပတ်ခရီးစဉ် တစ်ခု ပြုလုပ်တော့ မည်ဖြစ်သည်။
 
 8547
 The book tour is 10 cities.
-<MYANMAR UNICODE TRANSLATION HERE>
+စာအုပ်ခရီးစဉ်သည် မြို့၁၀မြို့ဖြစ်သည်။
 
 8548
 There was no book tour for it.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒီအတွက် စာအုပ်ခရီးစဉ် မရှိပါ။
 
 8549
 The consolation prize is a free two speed blender for every person.
-<MYANMAR UNICODE TRANSLATION HERE>
+နှစ်သိမ့်ဆုက လူတိုင်းအတွက် အခမဲ့ အားနှစ်ဆကောင်းသော ကြိတ်စက်တစ်လုံးဖြစ်သည်။
 
 8550
 There is no upside for humans in this situation.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီလို အခြေအနေမျိုးမှာ လူသားတွေအတွက် အကျိုးရှိသောအခွင့်အရေးမျိုး မရှိပေ။
 
 8551
 This is not all bad news for humans.
@@ -205,43 +205,43 @@ This is not all bad news for humans.
 
 8552
 The Enquirer didn't talk about the incident regarding Clinton.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကလင်တန်နှင့် ပတ်သက်သည့် အဖြစ်အပျက်အကြောင်းကို သည်အင်ကွိုင်ရာသည် အလေးအနက်ပြောဆိုထားခြင်းမရှိပါ။
 
 8553
 The Enquirer had information about the White House.
-<MYANMAR UNICODE TRANSLATION HERE>
+သည်အင်ကွိုင်ရာတွင် အိမ်ဖြူတော်နှင့် ပတ်သက်သည့် သတင်းအချက်အလက်များရှိသည်။
 
 8554
 The Enquirer had pictures of Clinton's desk.
-<MYANMAR UNICODE TRANSLATION HERE>
+သည်အင်ကွိုင်ရာတွင် ကလင်တန်၏ အလုပ်စားပွဲရုပ်ပုံများ ရှိသည်။
 
 8555
 Sidewalk It made a recording.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆိုဒ်ဝေါ့ခ်အစ်တ်သည် မှတ်တမ်းတင်ရိုက်ကူးအသံသွင်းယူမှုတစ်ခု ဆောင်ရွက်ခဲ့သည်။
 
 8556
 Sidewalk It recorded music.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆိုဒ်ဝေါ့ခ်အစ်တ်သည် တေးဂီတကို အသံသွင်းယူခဲ့သည်။
 
 8557
 Sidewalk It recorded nothing.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆိုဒ်ဝေါ့ခ်အစ်တ်သည် မည်သည့်အရာမျှ မှတ်တမ်းတင်ရိုက်ကူးအသံသွင်းယူခြင်းမရှိပါ။
 
 8558
 There are fewer than 1000 Milosevics in the world.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကမ္ဘာပေါ်တွင် မီလိုဆီဗစ်ပေါင်း ၁၀၀၀အောက်နည်းသည်။
 
 8559
 There are many Milosevics in the world.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကမ္ဘာပေါ်တွင် မီလိုဆီဗစ်ပေါင်းများစွာ ရှိသည်။
 
 8560
 There are not many Milosevics.
-<MYANMAR UNICODE TRANSLATION HERE>
+မီလိုဆီဗစ်ပေါင်းများစွာ မရှိပါ။
 
 8561
 Kim Kardashian wrote the cover story for Time magazine about the 12 steps needed for success in the digital age.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒစ်ဂျစ်တယ်ခေတ်တွင် အောင်မြင်ရေးအတွက် လိုအပ်သော အဆင့်၁၂ဆင့် အကြောင်းကို ကင်မ်ကာဒါရှန်သည် တိုင်မ်းမဂ္ဂဇင်းအတွက် မျက်နှာဖုံးဆောင်းပါး ရေးသားခဲ့သည်။
 
 8562
 Time magazine has a picture of Bill Gates on the cover.
