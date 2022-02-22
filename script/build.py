@@ -46,6 +46,38 @@ def build_dict():
     return my_dict, file_stats
 
 
+def get_review_list(context_size=2):
+
+    review_list = {}
+    
+    for fname in os.listdir(trans_dir):
+        print ('Processing', fname)   
+
+        state = 0   # Going through each line
+        context = []
+        max_context_size = context_size * 2 + 1
+
+        with open(os.path.join(trans_dir, fname), encoding='utf-8') as infile:            
+            for line in infile.readlines():
+                line = line.strip()
+
+                context.append(line)
+                if len(context) > max_context_size:
+                    context.pop(0)
+
+                if re.match('^#.*REVIEW.*$', line):     # Found a review tag
+                    state = 1
+                    next_lines = context_size
+                elif state == 1:    # Adding context for a recently found review tag
+                    next_lines = next_lines - 1
+                    if next_lines == 0:
+                        review_list[fname] = review_list.get(fname,[])
+                        review_list[fname].append(context)
+                        state = 0
+    
+    return review_list
+
+
 def write_dataset(my_dict):    
 
     for infn, outfn in [(dev_file, my_dev_file), (test_file, my_test_file)]:
@@ -88,6 +120,7 @@ def write_dataset(my_dict):
 
 if __name__ == '__main__':
 
+    # print(get_review_list())
     mydict, stats = build_dict()
-    # print(stats)
+    print(stats)
     write_dataset(mydict)
