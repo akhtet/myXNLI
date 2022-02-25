@@ -356,27 +356,27 @@ There is enough evidence to arrest Jon Benet Ramsey's half brother as the murder
 
 8690
 Only news reporters in a newsroom can write a news story, and it takes 20 steps to do it.
-<MYANMAR UNICODE TRANSLATION HERE>
+သတင်းခန်းတွင်းရှိ သတင်းထောက်များသာလျှင် သတင်းဆောင်းပါးတစ်ပုဒ်ကို ရေးသားနိုင်ပြီး၊ ၎င်းကိုဆောင်ရွက်ရန် အဆင့်၂၀ လုပ်ဆောင်ရမည်။
 
 8691
 Writing news stories in your pajamas is easy and financially rewarding if you follow these eight steps.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျားရဲ့ညဝတ်အင်္ကျီနဲ့ သတင်းဆောင်းပါးရေးတာဟာ လွယ်ကူပြီး ခင်ဗျားအဆိုပါအချက်ရှစ်ချက်ကို လိုက်နာရင် ငွေကြေးအရအကျိုးရှိစေသည်။
 
 8692
 You can write a news story from any location if you follow some simple techniques.
-<MYANMAR UNICODE TRANSLATION HERE>
+ရိုးရှင်းတဲ့ နည်းစနစ်အချို့ကို ခင်ဗျား လိုက်နာမယ်ဆိုရင် ဘယ်နေရာကနေမဆို ခင်ဗျား သတင်းဆောင်းပါးတစ်ပုဒ်ကို ရေးသားနိုင်တယ်။
 
 8693
 Samuel Sheinbein will serve a murder sentence in Canada.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆမ်မြူရယ်ရှိန်းဘိုင်းသည် ကနေဒါတွင် လူသတ်မှုပြစ်ဒဏ်ကျခံရမည်ဖြစ်သည်။
 
 8694
 Samuel Sheinbein will serve a murder sentence outside the US.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆမ်မြူရယ်ရှိန်းဘိုင်းသည် အမေရိကန်ပြည်ထောင်စု ပြင်ပတွင် လူသတ်မှုပြစ်ဒဏ်ကျခံရမည်ဖြစ်သည်။
 
 8695
 Samuel Sheinbein will serve life in prison for the murder he committed.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆမ်မြူရယ်ရှိန်းဘိုင်းသည် သူကျူးလွန်ခဲ့သော လူသတ်မှုအတွက် ထောင်ဒဏ်တစ်သက်ကျခံရမည် ဖြစ်သည်။
 
 8696
 It's obvious who you support.
@@ -392,9 +392,9 @@ We don't know who you support.
 
 8699
 Kenneth Starr is depicted as a liberal, shy, athletic man.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခတ်နတ်စတာကို လစ်ဘရယ်ဆန်သော၊ ရှက်တတ်သော၊ ကျန်းမာကြံ့ခိုင်ဖျတ်လတ်သော အမျိုးသားအဖြစ် သရုပ်ဖော်ထားသည်။
 
 8700
 Kenneth Starr was proud of Time's depiction of him as an overzealous, conservative nerd.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခတ်နတ်စတာသည် သူ့အား စိတ်အားထက်သန်သော၊ ရှေးရိုးစွဲ ပုဂ္ဂိုလ်တစ်ဦးအဖြစ် တိုင်မ်းမဂ္ဂဇင်း၏ သရုပ်ဖော်မှုအတွက် ဂုဏ်ယူခဲ့သည်။
 
