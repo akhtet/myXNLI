@@ -212,27 +212,27 @@ That type of fur coat has been banned and therefore it is not an option.
 
 8654
 Despite USA Today's profits, the paper still is famous for negative media coverage.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယူအက်စ်အေတူဒေး၏ အမြတ်အစွန်းများစွာရှိသော်လည်း၊ စာတမ်းသည် အပျက်သဘောဆောင်သော သတင်းမီဒီယာဖော်ပြမှုအဖြစ် ကျော်ကြားနေဆဲဖြစ်သည်။
 
 8655
 Since 2010 when USA Today has posted a profit, they still receive attention for their media criticism.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယူအက်စ်အေတူဒေးသည် အမြတ်အစွန်းကို တင်သည့်အချန် ၂၀၁၀ခုနှစ်ကတည်းက၊ ၎င်းတို့၏ သတင်းမီဒီယာ ဝေဖန်မှုအတွက် ၎င်းတို့သည် အာရုံစိုက်ခံနေရဆဲဖြစ်သည်။
 
 8656
 USA Today has lost money every year recently but is still thought of in a positive light.
-<MYANMAR UNICODE TRANSLATION HERE>
+မကြာသေးခင်နှစ်များတွင် ယူအက်စ်အေတူဒေးသည် နှစ်စဉ် ငွေကြေးများ ဆုံးရှုံးနေသော်လည်း အကောင်းမြင်စိတ်ဖြင့် စဉ်းစားနေဆဲဖြစ်သည်။
 
 8657
 This short story writing technique is succinct and limited to two paragraphs.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤဝတ္ထုတိုရေးနည်းသည် လိုရင်းတိုရှင်းဖြစ်ပြီး စာပိုဒ်နှစ်ပိုဒ်ထိသာ ကန့်သတ်ထားသည်။
 
 8658
 This story writing technique pays off when you reach the third paragraph.
-<MYANMAR UNICODE TRANSLATION HERE>
+ခင်ဗျား တတိယစာပိုဒ်ကို ရောက်သည့်အခါ ဤဝတ္ထုရေးနည်းသည် အကျိုးရှိသည်။
 
 8659
 With this story writing technique, you risk your readers losing interest or being confused, because the subject isn't revealed until the third paragraph.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဤဇာတ်လမ်းရေးနည်းနှင့်ဆို၊ ခင်ဗျားရဲ့ စာဖတ်ပရိတ်သတ်တွေ စိတ်ဝင်စားမှုလျော့နည်းသွားမလား ဒါမှမဟုတ် ရှုတ်ထွေးသွားမလားဆိုတာ ခင်ဗျား အရဲစွန့်ရမယ်၊ ဘာလို့လဲဆိုတော့ တတိယအပိုဒ်ထိတိုင်အောင် အကြောင်းကိစ္စကို ဖော်ပြမထားလို့ပဲ။
 
 8660
 It costs six dollars to keep a microwave.
@@ -248,63 +248,63 @@ The monetary cost of keeping a microwave is twelve dollars.
 
 8663
 Sabol does not need to take all those pit stops.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆဲဘောသည် အဆိုပါ ဓာတ်ဆီ ဖြည့်ရန်၊ ဘီးလဲရန် စသည်တို့အတွက် ခရီးတစ်ထောက်ရပ်နားရန်နေရာများ အားလုံးတွင် ရပ်နားရန်မလိုအပ်ပါ။
 
 8664
 Sabol mentioned that now and again he has to make a pit stop.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆဲဘောက သူသည် မကြာခဏ ဓာတ်ဆီ ဖြည့်ရန်၊ ဘီးလဲရန် စသည်တို့အတွက် ခရီးတစ်ထောက်ရပ်နားရသည်ဟု ထုတ်ဖော်ပြောဆိုခဲ့သည်။
 
 8665
 Sabol remarked that he does not need to take any breaks.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဆဲဘောက သူသည် အနားယူရပ်နားရန် မလိုအပ်ကြောင်း မှတ်ချက်ပြုသည်။
 
 8666
 No activities excrete fluid.
-<MYANMAR UNICODE TRANSLATION HERE>
+မည်သည့် လှုပ်ရှားဆောင်ရွက်မှုများမှ အရည်များကို မစွန့်ထုတ်ပါ။
 
 8667
 Some activities excrete blood.
-<MYANMAR UNICODE TRANSLATION HERE>
+လှုပ်ရှားဆောင်ရွက်မှုအချို့သည် သွေးများကို စွန့်ထုတ်သည်။
 
 8668
 Some activities excrete fluids.
-<MYANMAR UNICODE TRANSLATION HERE>
+လှုပ်ရှားဆောင်ရွက်မှုအချို့သည် အရည်များကို စွန့်ထုတ်သည်။
 
 8669
 The NEA is too busy to ask detailed questions concerning literature on their surveys.
-<MYANMAR UNICODE TRANSLATION HERE>
+အန်အီးအေသည် ၎င်းတို့၏ ဆန်းစစ်လေ့လာချက်များအပေါ် စာပေနှင့်သက်ဆိုင်သည့် အသေးစိတ်မေးခွန်းများကို မေးမြန်းရန် အလွန်အလုပ်များလွန်းသည်။
 
 8670
 The NEA survey asked 30 questions about literature and what types of books were read in the past year.
-<MYANMAR UNICODE TRANSLATION HERE>
+အန်အီးအေစစ်တမ်းသည် စာပေနှင့် ယမန်နှစ်က မည်သည့်စာအုပ်အမျိုးအစာများကို ဖတ်ရှုခဲ့သည်တို့နှင့်ပတ်သက်၍ မေးခွန်းပေါင်း ၃၀ မေးမြန်းခဲ့သည်။
 
 8671
 The NEA survey has only one question concerning books.
-<MYANMAR UNICODE TRANSLATION HERE>
+အန်အီးအေစစ်တမ်းတွင် စာအုပ်များနှင့် သက်ဆိုင်သည့် မေးခွန်းတစ်ခုသာလျှင်ပါရှိသည်။
 
 8672
 First Wives Club is a happily-ever-after, romance movie about the enduring love of marrying your first boyfriend.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖက်စ်ဝှိုက်ကလပ်သည် မင်းရဲ့ ပထမဆုံးချစ်သူနှင့် လက်ထပ်သည့် ခိုင်မြဲသောအချစ် အကြောင်း ထာဝရသာယာပျော်ရွှင်ဖွယ်၊ ကြည်နူးဖွယ်အချစ်ဇာတ်လမ်း တစ်ပုဒ်ဖြစ်သည်။
 
 8673
 The movie, First Wives Club, set film industry records as the highest grossing women's film on it's first weekend.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖက်စ်ဝှိုက်ကလပ်၊ရုပ်ရှင်သည်၊ ၎င်း၏ ပထမသတင်းပတ်ကုန်ရက်များတွင် ဝင်ငွေအကောင်းဆုံးအမျိုးသမီး ရုပ်ရှင်အဖြစ် ရုပ်ရှင်လောကတွင်မှတ်တန်းဝင်ခဲ့သည်။
 
 8674
 The stars and the acting, more than the plot line of First Wives Club, helped to set record box office sales.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဖက်စ်ဝှိုက်ကလပ်၏ ဇာတ်လမ်းဇာတ်ကွက်ထက်ပို၍၊ သရုပ်ဆောင်အနုပညာရှင်များနှင့် သရုပ်ဆောင်ပိုင်းတို့သည်၊ လက်မှတ်ရုံ အရောင်းစံချိန်တင်ရန် ကူညီပေးခဲ့သည်။ 
 
 8675
 This applies on the web.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းသည် ဝက်ဘ်ပေါ်တွင် အကျုံးဝင်သည်။ 
 
 8676
 This currently does not apply on the Web.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းသည် လောလောဆယ် ဝက်ဘ်ပေါ်တွင် အကျုံးမဝင်ပါ။
 
 8677
 This may apply in some cases on the Web.
-<MYANMAR UNICODE TRANSLATION HERE>
+၎င်းသည် ဝက်ဘ်ပေါ်ရှိ အချို့ကိစ္စများတွင် အကျုံးဝင်နိုင်သည်။
 
 8678
 Woodward has an interesting insight into Colin Powell's personal life and reveals many secrets in his recent book.
@@ -324,11 +324,11 @@ The USDA says police need to help them.
 
 8682
 The USDA says they need a bigger force.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယူအက်စ်ဒီအေက သူတို့သည် ပိုမိုကြီးမားသော အင်အားတစ်ရပ်လိုအပ်သည်ဟု ပြောကြားသည်။
 
 8683
 The USDA says they need looser enforcement.
-<MYANMAR UNICODE TRANSLATION HERE>
+ယူအက်စ်ဒီအေက သူတို့သည် အနည်းငယ်မတင်းကျပ်သော ပြဋ္ဌာန်းချက်လိုအပ်သည်ဟု ပြောကြားသည်။
 
 8684
 None of them have succeeded.
@@ -344,15 +344,15 @@ Some of them have been successful.
 
 8687
 Jon Benet Ramsey's half-brother was not in town when the murder was committed.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျွန်ဘီနတ်ရမ်စီ၏ ဖအေတူမအေကွဲညီသည် လူသတ်မှုကျူးလွန်ချိန်တွင် မြို့တွင် ရှိမနေပါ။
 
 8688
 Jon Benet Ramsey's half-sister has a strong alibi for the fact that she was out of town when the crime was committed.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဂျွန်ဘီနတ်ရမ်စီ၏ ဖအေတူမအေကွဲညီမသည် ရာဇဝတ်မှုဖြစ်ပွားချိန်တွင် သူမသည် မြို့ပြင်တွင်ရှိနေသည်ဆိုသော အချက်အတွက် ခိုင်လုံသော အလီဘိုင်ရှိသည်။
 
 8689
 There is enough evidence to arrest Jon Benet Ramsey's half brother as the murderer.
-<MYANMAR UNICODE TRANSLATION HERE>
+လူသတ်သမားအဖြစ် ဂျွန်ဘီနတ်ရမ်စီ၏ ဖအေတူမအေကွဲညီကို ဖမ်းဆီးရန် သက်သေအထောက်အထားခိုင်ခိုင်လုံလုံရှိတယ်။
 
 8690
 Only news reporters in a newsroom can write a news story, and it takes 20 steps to do it.
