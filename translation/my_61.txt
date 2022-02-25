@@ -1,6 +1,6 @@
 6001
 There is a weathervane on top of the building.
-အဆောက်အဉီရဲ့ အပေါ်မှာ လေညွှန်တံ တခု ရှိတယ်။
+အဆောက်အဦးရဲ့ အပေါ်မှာ လေညွှန်တံ တခု ရှိတယ်။
 
 6002
 Quetico has no water in it.
@@ -25,7 +25,6 @@ The path is 5 miles to the Hong Kong Park.
 6007
 There are no paths that go to Hong Kong Park.
 ဟောင်ကောင်ဥယျာဉ်ဆီ သွားတဲ့ လမ်းကြောင်းမရှိဘူး။
-
 
 6008
 Everyone likes the chairlift.
@@ -107,11 +106,9 @@ The steps go up to the highest point in the church.
 There are 90 steps.
 အဆင့် ၉၀ရှိတယ်။
 
-
 6028
 There are just 3 steps.
 ၃ဆင့်ပဲရှိတယ်။ 
-
 
 6029
 They don't ever go out with friends, but just stay inside alone.
