@@ -261,7 +261,6 @@ The pronunciation list only included the most basic things.
 9866
 The Omni Gazetteer of the United States is a first step.
 အမေရိကန်ပြည်ထောင်စု အောမ်နိ ဂဇတ်တီရာသည် ပထမခြေလှမ်းဖြစ်သည်။
-#REVIEW
 
 9867
 The Omni Gazetteer of the United States is about animals.
@@ -345,6 +344,7 @@ Walking up and down.
 
 9887
 One Swede church isn't the same as that Swedish church.
+ဆွီဒင်လူမျိုး ဘုရားကျောင်းတစ်ခုသည် ထိုဆွီဒင်ဘုရားကျောင်းနှင့် မတူပါ။
 #REVIEW
 
 9888
