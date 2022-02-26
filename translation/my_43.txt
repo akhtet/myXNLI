@@ -16,7 +16,7 @@ Omnes said you can't see some things.
 
 4205
 The Fifteenth Amendment was immediately written off and never passed.
-ဆယ့်ငါးကြိမ်မြောက် ပြင်ဆင်ချက်ကို ချက်ချင်း ပယ်ချခဲ့ပြီး ဘယ်တော့မှ မအောင်မြင်ခဲ့ပါ။
+ဆယ့်ငါးကြိမ်မြောက် ပြင်ဆင်ချက်ကို ချက်ချင်း ပယ်ချခဲ့ပြီးနောက် ဘယ်တော့မှ မအောင်မြင်ခဲ့ပါ။
 
 4206
 The Fifteenth Amendment was taken more seriously as the Secret Constitution reasserted itself.
@@ -48,7 +48,7 @@ Hood's RCA Building is being compared to Gropius's Pan Am Building.
 
 4213
 Neither building had a creative designer.
-အဆောက်အဦးနှစ်ခုလုံးတွင် ဖန်တီးမှု ဒီဇိုင်းနာ တစ်ယောက်မှ မရှိခဲ့ပါ။
+အဆောက်အဦနှစ်ခုလုံးတွင် ဖန်တီးမှု ဒီဇိုင်းနာ တစ်ယောက်မှ မရှိခဲ့ပါ။
 
 4214
 Americans all treat the flag with respect.
@@ -92,7 +92,7 @@ Batos are lesbians.
 
 4224
 American retailers are all thriving right now.
-အမေရိကန် လက်လီရောင်းချသူများအားလုံးသည် ယခုအချိန်တွင် တိုးတက်လျက်ရှိပါသည်။
+အမေရိကန် လက်လီရောင်းချသူများ အားလုံးသည် ယခုအချိန်တွင် တိုးတက်လျက်ရှိပါသည်။
 
 4225
 It's hard for American retailers to do well.
@@ -104,7 +104,7 @@ Meredith's daughter, Sonja cried and thrashed about.
 
 4227
 Sonja cried hysterically while flailing around in Meredith's typical demeanor.
-စွန်ဂျသည် မယ်ရီဒတ်၏ ပုံမှန်ဖြစ်သော အမူအရာဖြင့် ထုရိုက်ရင်း စိတ်ကယောင်ချောက်ချားဖြစ်ကာ ငိုခဲ့သည်။
+စွန်ဂျသည် မယ်ရီဒတ်၏ ပုံမှန်ဖြစ်သော အမူအရာဖြင့် ထုရိုက်စဉ် စိတ်ကယောင်ချောက်ချားဖြစ်ကာ ငိုခဲ့သည်။
 
 4228
 Sonja, who was an older woman appeared sullen but maintained her composure in the face of Meredith.
@@ -120,7 +120,7 @@ The current models are brilliant but limited.
 
 4231
 There is much more to learn about the organization.
-အဖွဲ့အစည်းနဲ့ပတ်သတ်ပြီး လေ့လာစရာတွေ အများကြီးရှိပါတယ်။
+အဖွဲ့အစည်းနဲ့ပတ်သက်ပြီး လေ့လာစရာတွေ အများကြီးရှိပါတယ်။
 
 4232
 The sand gets up in a pile.
@@ -160,7 +160,7 @@ The Quad is a student dormitory.
 
 4241
 The baseballs are not white enough.
-ဘေ့စ်ဘောတွေက လုံလောက်အောင်ဖြူဖွေးမနေဘူး။
+ဘေ့စ်ဘောတွေက လုံလောက်အောင် ဖြူဖွေးမနေဘူး။
 
 4242
 The others are doing a bad job.
@@ -200,7 +200,7 @@ We can draw a conclusion from our simulation.
 
 4251
 We can draw a conclusion from the simulation we did on the computer.
-ကျွန်တော်တို့သည် ကွန်ပြူတာမှာ ကျွန်တော်တို့ လုပ်ခဲ့တဲ့ ဆင်မြူလေးရှင်းကနေ ကောက်ချက်တစ်ခုကို ရေးဆွဲနိုင်သည်။
+ကျွန်တော်တို့သည် ကွန်ပျူတာမှာ ကျွန်တော်တို့ လုပ်ခဲ့တဲ့ ဆင်မြူလေးရှင်းကနေ ကောက်ချက်တစ်ခုကို ရေးဆွဲနိုင်သည်။
 
 4252
 We cant draw any conclusions.
@@ -396,5 +396,4 @@ Genes were always linear to its inputs.
 
 4300
 The janitor has an opinion on Boolean idealization.
-အိမ်စောင့်သည် အမှန်နှင့်အမှား စိတ်ကူးပုံဖော်မှုအပေါ် ထင်မြင်ချက် တစ်ခု ရှိသည်။
-
+တံခါးစောင့်သည် အမှန်နှင့်အမှား စိတ်ကူးပုံဖော်မှုအပေါ် ထင်မြင်ချက် တစ်ခု ရှိသည်။
