@@ -1,6 +1,6 @@
 4101
 Children can see how different races are different.
-ကလေးများ မတူညီသော လူမျိုးစုများ ဘယ်လို ကွဲပြားသည်ကို သိနိုင်ပါသည်။
+ကလေးများသည် မတူညီသော လူမျိုးစုများ ဘယ်လို ကွဲပြားသည်ကို သိနိုင်ပါသည်။
 
 4102
 Children can't learn anything.
@@ -24,7 +24,7 @@ Some private persons denied social rights to black citizens.
 
 4107
 The private persons were white.
-ပုဂ္ဂလိက ပုဂ္ဂိုလ်များသည် လူဖြူများ ဖြစ်ကြသည်။
+ပုဂ္ဂလိကဆန်သော ပုဂ္ဂိုလ်များသည် လူဖြူများ ဖြစ်ကြသည်။
 
 4108
 The state was entirely responsible for the behavior of the private persons.
@@ -32,11 +32,11 @@ The state was entirely responsible for the behavior of the private persons.
 
 4109
 While test results for young and older classmates are the same, younger classmates finish test faster
-ငယ်ရွယ်သူများ နှင့် အသက်ကြီးသော အတန်းဖော်များအတွက် စာမေးပွဲရလဒ်များ တူညီသော်လည်း ၊ ငယ်ရွယ်သော အတန်းဖော်များသည် စာမေးပွဲကို ပိုမိုမြန်ဆန်စွာ ပြီးဆုံးချင်ကြသည်။
+ငယ်ရွယ်သူများ နှင့် အသက်ကြီးသော အတန်းဖော်များ အတွက် စာမေးပွဲ ရလဒ်များ တူညီသော်လည်း ၊ ပိုမိုငယ်ရွယ်သော အတန်းဖော်များသည် စာမေးပွဲကို ပိုမိုမြန်ဆန်စွာ ပြီးဆုံးချင်ကြသည်။
 
 4110
 Young and old classmates achieve same results in test scores.
-ငယ်ရွယ်သူများ နှင့် အသက်ကြီးသော အတန်းဖော်များသည် စာမေးပွဲရမှတ်များတွင် တူညီသောရလဒ်များရရှိကြသည်။
+ငယ်ရွယ်သူများ နှင့် အသက်ကြီးသော အတန်းဖော်များသည် စာမေးပွဲရမှတ်များတွင် တူညီသော  ရလဒ်များ ရရှိကြသည်။
 
 4111
 Young and old classmates have different test results as age is a factor
@@ -44,15 +44,15 @@ Young and old classmates have different test results as age is a factor
 
 4112
 Principles from the federal constitution are what caused the same result as the postbellum legal order.
-ဖယ်ဒရယ် ဖွဲ့စည်းပုံအခြေခံဥပဒေမှ အခြေခံမူများသည် စစ်ပွဲပြီးနောက်ဖြစ်ပွားမှုဖြစ်သော တရားဝင်အမိန့်စာနှင့် တူညီသောရလဒ်ကို ဖြစ်ပေါ်စေသည့် အချက်ဖြစ်သည်။
+ဖယ်ဒရယ် ဖွဲ့စည်းပုံအခြေခံဥပဒေမှ အခြေခံမူများသည် စစ်ပွဲပြီးနောက်ဖြစ်ပွားမှုဖြစ်သော တရားဝင် အမိန့်စာ အဖြစ် တူညီသော ရလဒ်ကို ဖြစ်ပေါ်စေသည့် အချက် ဖြစ်သည်။
 
 4113
 The postbellum legal order ended in the same result due to Barbados' federal constitution principles.
-စစ်ပွဲပြီးနောက်ဖြစ်ပွားမှုဖြစ်သော ဥပဒေ အမိန့်သည် ဘာဘေးဒိုးစ် ၏ ဖက်ဒရယ် ဖွဲ့စည်းပုံအခြေခံမူများကြောင့် တူညီသောရလဒ်ဖြင့် အဆုံးသတ်ခဲ့သည်။
+စစ်ပွဲပြီးနောက်ဖြစ်ပွားမှုဖြစ်သော တရားဝင် အမိန့်သည် ဘာဘေးဒိုးစ် ၏ ဖက်ဒရယ် ဖွဲ့စည်းပုံအခြေခံမူများကြောင့် တူညီသော ရလဒ်ဖြင့် အဆုံးသတ်ခဲ့သည်။
 
 4114
 The prebellum legal order had much different results despite being derived from state constitution principles.
-စစ်ပွဲပြီးနောက်ဖြစ်ပွားမှုဖြစ်သော ဥပဒေ အမိန့်သည် နိုင်ငံတော် ဖွဲ့စည်းပုံအခြေခံမူများမှ ဆင်းသက်လာသော်လည်း များစွာကွဲပြားသောရလဒ်များရှိသည်။
+စစ်ပွဲပြီးနောက်ဖြစ်ပွားမှုဖြစ်သော တရားဝင် အမိန့်သည် နိုင်ငံတော် ဖွဲ့စည်းပုံအခြေခံမူများမှ ဆင်းသက်လာသော်လည်း များစွာ ကွဲပြားသော ရလဒ်များ ရှိခဲ့သည်။
 
 4115
 It would only take a couple years to make all the proteins.
@@ -88,7 +88,7 @@ Sonja is a child.
 
 4123
 Sonja was upset.
-စွန်ဂျသည် စိတ်ဆိုးသွားသည်။
+စွန်ဂျသည် စိတ်ဆိုးခဲ့သည်။
 
 4124
 Darwin started by focusing on fish.
@@ -104,7 +104,7 @@ Darwin was only focused on studying dead things.
 
 4127
 Many of the garlands are of ivy.
-ပန်းကုံး အများစုသည် နွယ်ပင်များဖြစ်သည်။
+ပန်းကုံး အများစုသည် နွယ်ပင်များ ဖြစ်သည်။
 
 4128
 The garlands in eighteenth-century buildings are versions of horns of various animals.
@@ -144,7 +144,7 @@ Middle ear infection is the most common cause for toddlers.
 
 4137
 Otitis media is incredibly rare during a child's preschool years.
-ကလေး၏ မူကြို နှစ်များ အတွင်း နားယောင်ယမ်းခြင်း ကြားခံအလွှာသည် မယုံနိုင်လောက်အောင် ရှားပါသည်။
+ကလေး တစ်ယောက် ၏ မူကြို နှစ်များ အတွင်း ကြားခံအလွှာ နားယောင်ယမ်းခြင်း သည် မယုံနိုင်လောက်အောင် ရှားပါသည်။
 
 4138
 The majority of toddlers will get a middle ear infection.
@@ -178,7 +178,6 @@ There must be some interplay.
 Crazy ideas are less edgy when they are ignored by civil society.
 သူတို့ကို အရပ်ဘက် လူမှုအဖွဲ့အစည်းများက လျစ်လျူရှုထားသောအခါတွင် ရူးသွပ်သော အတွေးအခေါ်များသည် တုန်လှုပ်ချောက်ချားမှုကို လျော့နည်းစေသည်။
 
-
 4146
 Crazy ideas become more popular with civil society when they are ignored by civil society.
 သူတို့ကို အရပ်ဘက် လူမှုအဖွဲ့အစည်းများက လျစ်လျူရှုလိုက်သောအခါတွင် ရူးသွပ်သော အတွေးအခေါ်များသည် အရပ်ဘက် လူ့အဖွဲ့အစည်းများကြားတွင် ပိုမိုရေပန်းစားလာပါသည်။
@@ -189,7 +188,7 @@ Most crazy ideas are ignored by civil society.
 
 4148
 Pachucas were bicycles.
-ပါချူကာများသည် စက်ဘီးများ ဖြစ်ကြသည်။
+ပါချူကာက စက်ဘီးများ ရှိခဲ့တယ်။
 
 4149
 Pachucas were young Chicanas.
@@ -287,7 +286,6 @@ They say babies shuld depend on their moms until they are 21.
 The world deals with fact.
 ကမ္ဘာကြီးက အမှန်တရားကို ဖြေရှင်းပေးတယ်။
 
-
 4173
 There are no facts dealt with.
 ကိုင်တွယ်ဖြေရှင်းစရာ အချက်အလက်တွေ မရှိဘူး။
@@ -326,7 +324,7 @@ Palomillas allowed young men to express themselves.
 
 4182
 Palomillas consisted solely of several old women who told sad stories about frying pans.
-ပဲလိုမီလာများတွင် အကြော် ဒယ်အိုးများ နဲ့ပတ်သတ်ပြီး ဝမ်းနည်းဖွယ် ပုံပြင်များ ပြောပြသော အသက်ကြီးကြီး အမျိုးသမီး အများအပြား သာ ပါဝင်သည်။
+ပဲလိုမီလာများတွင် အကြော် ဒယ်အိုးများ နဲ့ပတ်သက်ပြီး ဝမ်းနည်းဖွယ် ပုံပြင်များ ပြောပြသော အသက်ကြီးကြီး အမျိုးသမီး အများအပြား သာ ပါဝင်သည်။
 
 4183
 Young men in palomillas told jokes about horses.
@@ -346,15 +344,15 @@ San Augustin Acolman is a village near Teotihuacan.
 
 4187
 A building can be beautiful but worthless.
-အဆောက်အဦး တစ်ခု သည် လှပ သော်လည်း တန်ဖိုးမရှိပေ။
+အဆောက်အဦ တစ်ခု သည် လှပ သော်လည်း တန်ဖိုးမရှိပေ။
 
 4188
 A building can't be beautiful without being useful.
-အဆောက်အဦး တစ်ခုသည် အသုံးမ၀င်ဘဲ လှပမနေနိုင်ပါဘူး။
+အဆောက်အဦ တစ်ခုသည် အသုံးမ၀င်ဘဲ လှပမနေနိုင်ပါဘူး။
 
 4189
 A building can't be pretty if handicapped people can't go in it.
-မသန်မစွမ်းဖြစ်နေသော လူတွေ အထဲ မဝင်နိုင်လျှင် အဆောက်အဦး တစ်ခုက မလှပနိုင်ပါဘူး။
+မသန်မစွမ်းဖြစ်နေသော လူတွေ အထဲ မဝင်နိုင်လျှင် အဆောက်အဦ တစ်ခုက မလှပနိုင်ပါဘူး။
 
 4190
 The agents in the community could make a living.
