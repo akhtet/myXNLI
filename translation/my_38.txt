@@ -12,7 +12,7 @@ They will only use FedEx.
 
 3704
 I don't believe he wants to be in that position.
-ဒီလို အနေအထားမျိုးမှာ သူ ဖြစ်ချင်တာတွေဖြစ်လာဖို့ကို ကျွန်တော် မယုံဘူး။ 
+ဒီလို အနေအထားမျိုးမှာ သူ ဖြစ်ချင်တာတွေဖြစ်လာဖို့ကို ကျွန်တော် မယုံကြည်ဘူး။ 
 
 3705
 I don't think he wants to be king.
@@ -32,7 +32,7 @@ I was a little confused.
 
 3709
 I was confused about how it all happens.
-ဒါတွေ အာလုံး ဘယ်လို ဖြစ်တာလဲဆိုတာနဲ့ပတ်သတ်ပြီး ကျွန်တော် ခေါင်းရှုပ်ခဲ့တယ်။
+ဒါတွေ အာလုံး ဘယ်လို ဖြစ်တာလဲဆိုတာနဲ့ပတ်သက်ပြီး ကျွန်တော် ခေါင်းရှုပ်ခဲ့တယ်။
 
 3710
 I also have a daughter that is younger than the boys.
@@ -132,7 +132,7 @@ I never go to the library.
 
 3734
 I think it is close to twenty minutes but I'm not positive.
-မိနစ် နှစ်ဆယ် ရောက်တော့မယ်လို့ ကျွန်တော် ထင်တယ် ဒါပေမယ့် ကျွန်တော် အကောင်းမြင်တာတော့ မဟုတ်ဘူး။
+မိနစ် နှစ်ဆယ် ရောက်တော့မယ်လို့ ကျွန်တော် ထင်ပေမယ့် အတိအကျတော့မဟုတ်ဘူး။
 
 3735
 It is approximately twenty minutes.
@@ -180,17 +180,15 @@ I was not expecting anyone to die.
 
 3746
 Of course, getting out of each other's way.
-ဟုတ်ပါတယ် ၊ တစ်ယောက်ချင်း ၏ နည်းလမ်းတွေဆီမှ ထွက်ကြမယ်။
-#
+ဟုတ်ပါတယ် ၊ တစ်ယောက်ချင်းစီ၏ နည်းလမ်းတွေဆီမှ ထွက်ကြမယ်။
 
 3747
 Yes getting in the way of each other.
 ဟုတ်တယ် တစ်ယောက်ချင်းစီ၏ နည်းလမ်းတွေဆီ ဝင်ရောက်နေတာ။
-# 
 
 3748
 Yes, it could be seen as a barrier to each other.
-ဟုတ်တယ် ၊ တစ်ယောက်ကိုတစ်ယောက် အတားအဆီး တစ်ခု အဖြစ် မြင်နိုင်တယ်။
+ဟုတ်တယ် ၊ တစ်ယောက်နဲ့တစ်ယောက် အတားအဆီး တစ်ခု အဖြစ် မြင်နိုင်တယ်။
 
 3749
 I have a VCR that keeps breaking.
@@ -271,7 +269,6 @@ I believe it was out in the country.
 3768
 I believe the new house is way out in the country, miles from anything.
 အိမ် အသစ် က ဘယ်အရာကမဆို မိုင်များစွာဝေးသော ၊ ဒီတိုင်းပြည်တွင် ထွက်လမ်းဖြစ်တယ် လို့ ငါ ယုံကြည်တယ်။
-#
 
 3769
 It's right in the middle of the city.
@@ -375,7 +372,7 @@ We should be able to offer similar salary options eventually.
 
 3794
 This empowers people and makes them feel great about things!
-ဒါက လူတွေကို ခွန်အားဖြစ်စေ ပြီး အကြောင်အရာတွေ နဲ့ပတ်သတ်ပြီး ဒါတွေကို ကောင်းကောင်းခံစားစေတယ်!
+ဒါက လူတွေကို ခွန်အားဖြစ်စေ ပြီး အကြောင်အရာတွေ နဲ့ပတ်သက်ပြီး ဒါတွေကို ကောင်းကောင်းခံစားစေတယ်!
 
 3795
 This is just making people feel bad and guilty.
