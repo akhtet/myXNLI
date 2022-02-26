@@ -236,7 +236,7 @@ They are really good in urban areas.
 
 3559
 They are very good in both urban and rural areas.
-သူတို့က မြို့ပြ နှင့် ကျေးလက်မှာ နှစ်ခုလုံးမှာ အရမ်း ကောင်းပါတယ်။
+သူတို့က မြို့ပြ နှင့် ကျေးလက် နှစ်ခုလုံးမှာ အရမ်း ကောင်းပါတယ်။
 
 3560
 They were made out of a cheaper metal.
@@ -272,8 +272,7 @@ Is the interest percent 20?
 
 3568
 There is no interest.
-စိတ်ဝင်စားမှု / အတိုးနှုန်းထား မရှိဘူး။
-# REVIEW
+အတိုးနှုန်းထား မရှိပါဘူး။
 
 3569
 I was just a little bit scared.
@@ -353,7 +352,7 @@ I really love the beach because of how clean and well kept it is.
 
 3588
 One of my favorite places to visit is the beach since it is so pretty, what is your favorite place to visit?
-လည်ပတ်ရန် ကျွန်တော်ရဲ့ သဘောကျသော နေရာအများကြီးထဲက တစ်ခုကတော့ ကမ်းခြေ ဖြစ်ပါတယ် ၎င်းက အရမ်း လှပ သောကြောင့်ပါ ၊ လည်ပတ်ရန် မင်း သဘောကျတဲ့ နေရာက ဘာလည်း?
+လည်ပတ်ရန် ကျွန်တော်ရဲ့ သဘောကျသော နေရာအများကြီးထဲက တစ်ခုကတော့ ကမ်းခြေ ဖြစ်ပါတယ် ၎င်းက အရမ်း လှပတာကြောင့်ပါ ၊ လည်ပတ်ရန် မင်း သဘောကျတဲ့ နေရာက ဘာလည်း?
 
 3589
 The best place to go in my opinion is to camp out in the woods.
@@ -389,7 +388,7 @@ Do you think that a five day holding period would be worth the wait for some peo
 
 3597
 What about having a five day hold on those looking to purchase firearms?
-ခြောက်လုံးပြူးသေနတ် ဝယ်ရန် ရှာဖွေနေသူများကို ငါးရက်ကြာ ဘာကို ဆုပ်ကိုင်ထားရမလည်း။
+ခြောက်လုံးပြူးသေနတ် ဝယ်ရန် ရှာဖွေနေသူများက ငါးရက်ကြာ ဘာကို ဆုပ်ကိုင်ထားရမလည်း။
 
 3598
 What about having them just wait five minutes outside before being handed a permit?
