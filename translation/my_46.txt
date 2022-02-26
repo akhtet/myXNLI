@@ -144,7 +144,7 @@ The object cannot be on the machine.
 
 4537
 The object must be on the machine for more than a single second.
-အရာဝတ္ထုသည် စက်ပေါ်တွင် တစ်စက္ကန့်ထက် ပိုကြာနေရပါမည်။
+အရာဝတ္ထုကို စက်ပေါ်တွင် တစ်စက္ကန့်ထက် ပိုကြာအောင် ထားရှိရပါမည်။
 
 4538
 Mies Van der Rohe designed the Tugendhat House.
@@ -156,7 +156,7 @@ Mies Van der Rohe not only designed but lived in the Tugendhat House as well.
 
 4540
 The main living space of the Tugendhat House is considered an abomination.
-တုဂျန်ဒ်ဟတ် အိမ်၏အဓိက လူနေမှုနေရာသည် စက်ဆုပ်ရွံရှာဖွယ်ကောင်းသော နေရာတစ်ခုဖြစ်သည်။
+တုဂျန်ဒ်ဟတ် အိမ်၏အဓိက လူနေမှုနေရာသည် စက်ဆုပ်ရွံရှာဖွယ်ကောင်းသောနေရာ တစ်ခု ဖြစ်သည်။
 
 4541
 Economic growth is a monster of its own kind; an entity independent of the universe.
@@ -168,7 +168,7 @@ Economic growth models many natural systems found in the universe.
 
 4543
 One cannot separate economic growth from the universe.
-စီးပွားရေး တိုးတက်မှုသည် စကြာဝဠာ မှ ခွဲခြား၍မရပါ။
+စီးပွားရေး တိုးတက်မှုသည် စကြာဝဠာ မှ ခွဲခြား၍ မရနိုင်ပါ။
 
 4544
 The limited nation used to be isolated.
@@ -188,11 +188,11 @@ Something can be both countable, and denumerable.
 
 4548
 Something cannot both me countable and denumerable.
-တစ်စုံတစ်ခုသည် ကျွန်ုပ်အား ရေတွက်နိုင်သော ပြီး ကိန်းဂဏန်းအဖြစ် နှစ်မျိုးလုံး မဖြစ်နိုင်ပါ။
+တစ်စုံတစ်ခုသည် ကျွန်ုပ်အတွက် ရေတွက်နိုင် ပြီး ကိန်းဂဏန်းအဖြစ် နှစ်မျိုးလုံး မဖြစ်နိုင်ပါ။
 
 4549
 Something that is countable must also be denumerable.
-တစ်စုံတစ်ခုသော အရာသည် ရေတွက်နိုင်ပြီး ကိန်းဂဏန်းများကိုလည်း ဖြစ်ရမည်။
+ရေတွက်နိုင်သော တစ်စုံတစ်ခုသည် ကိန်းဂဏန်းများလည်း ဖြစ်ရမည်။
 
 4550
 She dropped out of the class last week.
@@ -220,7 +220,7 @@ The dead body belongs to Ramen.
 
 4556
 Almost none of the homes have a nativity scene set up.
-အိမ်တိုင်းလိုလိုတွင် ဇာတိမြေနှင့်ဆိုင်သော မြင်ကွင်း တစ်ခုမျှ မတပ်ဆင်ထားပါ။
+အိမ်တိုင်းလိုလိုတွင် ဇာတိမြေနှင့်ဆိုင်သော မြင်ကွင်း တစ်ခုမျှ ရှိမနေပါ။
 
 4557
 The nativity scenes are very intricate.
