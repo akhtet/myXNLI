@@ -32,7 +32,7 @@ Testing aircraft teaches you a lot of lessons.
 
 2809
 Testing aircraft teaches you how to handle pressure.
-လေယာဉ်ကို စမ်းသပ်ခြင်းက ဖိအားကို ဘယ်လို ထိန်းချုပ်ရမည်ကို မင်းကို သင်ပေးသည်။
+လေယာဉ်ကို စမ်းသပ်ခြင်းက ဖိအားကို ဘယ်လို ထိန်းချုပ်ရမည်ကို မင်းကို သင်ပေးတယ်။
 
 2810
 I don't understand the point.
@@ -108,7 +108,7 @@ He's from Ireland.
 
 2828
 I did not bother to call Ramona.
-ရာမိုနာကို ဖုန်းဆက်ဖို့ ကျွန်တော် စိတ်အနှောင့်အယှက်ပေးခဲ့တယ်။
+ရာမိုနာကို ဖုန်းဆက်ဖို့ ကျွန်တော် စိတ်အနှောင့်အယှက်မဖြစ်ခဲ့ဘူး။
 
 2829
 I never got a chance to ask the question.
@@ -240,11 +240,11 @@ I knew just what to use it for!
 
 2861
 The CIA brought the film to the UN.
-စီအိုင်အေ က ဒီဇာတ်ကားကို ယူအန်သို့ ယူဆောင်လာပါတယ်။
+စီအိုင်အေ က ဒီဇာတ်ကားကို ယူအန်သို့ ယူဆောင်ခဲ့တယ်။
 
 2862
 The CIA kept the film for themselves.
-စီအိုင်အေ က ဒီဇာတ်ကားကို သူတို့ဘာသာ သိမ်းထားတယ်။
+စီအိုင်အေ က ဒီဇာတ်ကားကို သူတို့ဘာသာ သိမ်းထားခဲ့တယ်။
 
 2863
 The CIA thought the UN needed to see the film right away.
@@ -304,15 +304,15 @@ She had incredibly dark skin.
 
 2877
 She had light skin for an African-American person.
-သူမသည် အာဖရိကန်-အမေရိကန် လူမျိုး တစ်ယောက် အလို့ငှာ ကြည်လင်သော အသားအရေ ရှိသည်။
+သူမသည် အာဖရိကန်-အမေရိကန် လူမျိုး တစ်ယောက် အလို့ငှာ ကြည်လင်သော အသားအရေ ရှိခဲ့သည်။
 
 2878
 She was lighter than the rest of her black friends.
-သူမသည် ကျန်ရှိသော လူမည်း သူငယ်ချင်းများထက် ပေါ့ပါးသည်။
+သူမသည် ကျန်ရှိသော လူမည်း သူငယ်ချင်းများထက် ပိုဖော်ရွေသည်။
 
 2879
 Dad got me some chocolate milk from the fridge.
-အဖေက ကျွန်တော့်ကို ရေခဲသေတ္တာထဲက ချောကလက် နို့ တချို့ ယူလာတယ်။
+အဖေက ကျွန်တော့်ကို ရေခဲသေတ္တာထဲက နို့ ချောကလက် တချို့ ယူလာခဲ့တယ်။
 
 2880
 Dad poured me a glass of milk.
@@ -336,7 +336,7 @@ The property cost more than three million dollars for the DOT to purchase.
 
 2885
 SHe moved to Texas and never saw her sister again.
-သူမသည် တက္ကဆက်သို့ ပြောင်းလာပြီး သူ့အစ်မကို ထပ်ပြီး ဘယ်တော့မှ မတွေ့ရတော့ပေ။
+သူမသည် တက္ကဆက်သို့ ပြောင်းလာပြီး သူ့အစ်မကို ထပ်ပြီး ဘယ်တော့မှ မတွေ့ခဲ့ပေ။
 
 2886
 She never saw her sister after that.
