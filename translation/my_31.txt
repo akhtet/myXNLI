@@ -20,7 +20,7 @@ I didn't see it.
 
 3006
 I didn't see what the person was doing on Monday.
-တနင်္လာနေ့က ထိုလူ ဘာလုပ်နေခဲ့လဲဆိုတာ ငါ မတွေ့ခဲ့ဘူး။
+တနင်္လာနေ့က ထိုလူ ဘာလုပ်နေခဲ့လဲဆိုတာ ငါ မသိခဲ့ဘူး။
 
 3007
 I saw every bit of it!
@@ -136,7 +136,7 @@ I knew she was very sick with TB.
 
 3035
 Counter pressure kills you every time.
-တန်ပြန် ဖိအားသည် မင်းကို အချိန်တိုင်း သေစေပါသည်။
+အချိန်တိုင်းမှာ တန်ပြန် ဖိအားက မင်းကို သေစေတယ်။
 
 3036
 You need counter pressure above 5000 feet.
@@ -156,7 +156,7 @@ your hand could change size if it was exposed outside of the suit.
 
 3040
 your hand would grow a ton if you were on the moon and you stuck it out of the suit.
-လပေါ်မှာ မင်း ရှိနေခဲ့ ပြီးတော့ မင်းက ဝတ်စုံထဲ ၎င်းကို ထိုးထည့်မည်ဆိုလျှင် အများအပြား ကြီးထွားလာလိမ့်မည်။
+လပေါ်မှာ မင်း ရှိနေခဲ့ ပြီးတော့ မင်းက ဝတ်စုံထဲ ၎င်းကို ထိုးထည့်မည်ဆိုလျှင် မင်းရဲ့ လက်က အတော် ကြီးထွားလာလိမ့်မည်။
 
 3041
 I know there's no reason she wouldn't tell you.
@@ -168,7 +168,7 @@ Why wouldn't she tell you about it?
 
 3043
 Why wouldn't she tell you about the baby?
-သူမက ကလေး အကြောင်း ဘာလို့ မပြောပြတာလဲ။
+သူမက မင်းကို ကလေး အကြောင်း ဘာလို့ မပြောပြတာလဲ။
 
 3044
 He never visited his family.
@@ -184,7 +184,7 @@ He stayed with them in New York.
 
 3047
 I never got training so I just figured it out as i went along.
-ကျွန်တော့်သည် လေ့ကျင့်မှု တခါမှ မရှိဖူးတဲ့အတွက် ကျွန်တော် လျှောက်လည်ရင်းနဲ့ ကျွန်တော် ၎င်းကို နားလည်ခဲ့တယ်။
+ကျွန်တော့်သည် လေ့ကျင့်မှု တခါမှ မရှိဖူးတဲ့အတွက် ကျွန်တော် လျှောက်လည်ရင်းနဲ့ ၎င်းကို ကျွန်တော် နားလည်ခဲ့တယ်။
 
 3048
 Two guys trained me to work at that store.
@@ -244,7 +244,7 @@ I was never a 922.
 
 3062
 She didn't understand that she was stuck with the guy forever even though she'd never met him.
-သူမက သူ့ကို မတွေ့ဖူး သော်လည်း သူမသည် ထို ကောင်လေးဆီမှာ အမြဲ ပိတ်မိနေသည်ကို သူမ နားမလည်ပေ။
+သူမက သူ့ကို မတွေ့ဖူး သော်လည်း သူမသည် ထို ကောင်လေးနဲ့အတူ အမြဲ ရှိနေသည်ကို သူမ နားမလည်ခဲ့ပေ။
 
 3063
 She didn't understand what had happened.
@@ -256,11 +256,11 @@ She knew what she was getting into.
 
 3065
 We would enter there at 8pm.
-ကျွန်တော်တို့ အဲဒီကို ည ၈ နာရီမှာ ဝင်မယ်။
+ကျွန်တော်တို့ အဲဒီကို ည ၈ နာရီမှာ ဝင်ရလိမ့်မယ်။
 
 3066
 We would enter.
-ကျွန်တော်တို့ ဝင်မယ်။
+ကျွန်တော်တို့ ဝင်ရလိမ့်မယ်။
 
 3067
 We would never go in.
@@ -272,11 +272,11 @@ She treated everyone the same.
 
 3069
 She treated the other grandchildren differently.
-သူက တခြား မြေးတွေကို မတူကွဲပြားစွာ ဆက်ဆံတယ်။
+သူမက တခြား မြေးတွေကို မမျှတစွာ ဆက်ဆံခဲ့တယ်။
 
 3070
 She treated the other grandkids differently because they were black.
-သူတို့သည် လူမည်းဖြစ်သောကြောင့် သူမသည် အခြား မြေးများကို မတူကွဲပြားစွာ ဆက်ဆံခဲ့သည်။
+သူတို့သည် လူမည်း ဖြစ်ခဲ့ကြသောကြောင့် သူမသည် အခြား မြေးများကို မမျှတစွာ ဆက်ဆံခဲ့သည်။
 
 3071
 The dress was billowing in the wind.
@@ -304,7 +304,7 @@ I was never in Special Activities.
 
 3077
 I asked how urgent it was.
-၎င်းက ဘယ်လောက် အရေးတကြီးလဲလို့ ကျွန်တော်က မေးခဲ့တယ်။
+၎င်းက ဘယ်လို အရေးတကြီးလဲလို့ ကျွန်တော်က မေးခဲ့တယ်။
 
 3078
 I knew the work needed to be done right now.
@@ -312,11 +312,11 @@ I knew the work needed to be done right now.
 
 3079
 i asked if the client would be mad if it waited until 2pm because i had an appointment tonight.
-ဒီနေ့ည ကျွန်တော် ချိန်းဆိုချက် တစ်ခု ရှိခဲ့ သောကြောင့် ၎င်းကို ၂ နာရီအထိ စောင့်ခဲ့မည်ဆိုလျှင် ဖောက်သည်က ရူးသွားမလားလို့ ကျွန်တော် မေးခဲ့တယ်။
+ဒီနေ့ည ကျွန်တော် ချိန်းဆိုချက် တစ်ခု ရှိခဲ့ သောကြောင့် ၎င်းကို ၂ နာရီအထိ စောင့်ခဲ့ရမည်ဆိုလျှင် ဖောက်သည်က ရူးသွားခဲ့သော် ကျွန်တော် တောင်းပန်ခဲ့ပါမယ်။
 
 3080
 They had twenty family members living in Evans.
-သူတို့တွင် အီဗန်တွင် နေထိုင်သော မိသားစုဝင် နှစ်ဆယ် ရှိခဲ့သည်။
+သူတို့တွင် အီဗန်မှာ နေထိုင်သော မိသားစုဝင် နှစ်ဆယ် ရှိခဲ့သည်။
 
 3081
 They lived in Atlanta.
@@ -324,11 +324,11 @@ They lived in Atlanta.
 
 3082
 They lived in Evans which is very small.
-သူတို့သည် အလွန်သေးငယ်သော အီဗန်တွင် နေထိုင်ကြသည်။
+သူတို့သည် အလွန် သေးငယ်သော အီဗန်တွင် နေထိုင်ခဲ့ကြသည်။
 
 3083
 My sister said I was racist.
-ကျွန်တော် ညီမက ကျွန်တော်သည် လူမျိုးရေးခွဲခြားသည်လို့ ပြောပါတယ်။
+ကျွန်တော် ညီမက ကျွန်တော်သည် လူမျိုးရေးခွဲခြားသည်လို့ ပြောခဲ့သည်။
 
 3084
 My sister said I wasn't always nice.
@@ -336,7 +336,7 @@ My sister said I wasn't always nice.
 
 3085
 My siter said I was nothing like my granny.
-ငါ့ အစ်မက ငါ့ အဖွားနဲ့ ငါ ဘာမှမဆိုင်ဘူးလို့ ပြောခဲ့တယ်။
+ငါ့ အစ်မက ငါ့ အဖွားနဲ့ ငါ ဘာမှ မတူဘူးလို့ ပြောခဲ့တယ်။
 
 3086
 We moved to a house we had built in the country.
@@ -348,7 +348,7 @@ We relocated to a new residence.
 
 3088
 We stayed in the same house our whole lives.
-ကျွန်တော်တို့သည် ကျွန်တော်တို့ တစ်သက်လုံး တစ်အိမ်တည်း နေထိုင်ခဲ့ကြတယ်။
+ကျွန်တော်တို့သည် ကျွန်တော်တို့ တစ်သက်လုံး ဒီအိမ်တစ်လုံးမှာပဲ နေထိုင်ခဲ့ကြတယ်။
 
 3089
 My grandma was born 10 years after the turn of the century.
