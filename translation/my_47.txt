@@ -228,7 +228,7 @@ The pieata is up in the air.
 
 4658
 Erale can mean that something is O.K.
-အီရယ်က တစ်စုံတစ်ခုသည် အိုကေသည်ဟု ဆိုလိုနိုင်သည်
+အီရယ်က တစ်စုံတစ်ခုသည် အိုကေသည်ဟု ဆိုလိုနိုင်သည်။
 
 4659
 Erale has only one meaning.
@@ -236,7 +236,7 @@ Erale has only one meaning.
 
 4660
 Erale is not a commonly used word.
-အီရယ်သည် အသုံးများသောစကားလုံးမဟုတ်ပါ။
+အီရယ်သည် အသုံးများသော စကားလုံး တစ်ခု မဟုတ်ပါ။
 
 4661
 It is clear that there is order in organisms.
@@ -268,11 +268,11 @@ Lipstadt was a cook.
 
 4668
 Lipstadt wrote a book that got excellent reviews.
-လစ်စတတ်သည် အလွန်ကောင်းမွန်သော သုံးသပ်ချက် ရထားသော စာအုပ် တစ်အုပ်ကို ရေးသားခဲ့သည်။
+လစ်စတတ်သည် အလွန်ကောင်းမွန်သော သုံးသပ်ချက်များကို ရထားသည့် စာအုပ် တစ်အုပ်ကို ရေးသားခဲ့သည်။
 
 4669
 Lipstadt wrote a book.
-လစ်စတတ်က စာအုပ် တစ်အုပ် ရေးခဲ့တယ်။
+လစ်စတတ်က စာအုပ် တစ်အုပ်ကို ရေးခဲ့တယ်။
 
 4670
 Catarino Garza was a well known Texas Ranger.
@@ -296,7 +296,7 @@ In this book, I'll cover topics that parents and their children can implement wh
 
 4675
 This parenting book is on the New York Times bestseller's list.
-အဆိုပါ မိဘအုပ်ထိန်းမှု စာအုပ်သည် နယူးယောက်တိုင်းစ် ၏အရောင်းရဆုံး စာရင်း တွင် ရှိသည်။
+အဆိုပါ မိဘအုပ်ထိန်းမှု စာအုပ်သည် နယူးယောက်တိုင်းစ် ၏ အရောင်းရဆုံး စာရင်း တွင် ရှိသည်။
 
 4676
 Since the war ended, there has been no amendment to the constitution.
@@ -304,11 +304,11 @@ Since the war ended, there has been no amendment to the constitution.
 
 4677
 There were only four amendments to the constitution before the war.
-စစ်ပွဲ မဖြစ်မီက ဖွဲ့စည်းပုံ ပြင်ဆင်ရေး လေးခုသာ ရှိခဲ့သည်။
+စစ်ပွဲ မဖြစ်မီက ဖွဲ့စည်းပုံအခြေခံဥပဒေကို ပြင်ဆင်မှု လေးခုသာ ရှိခဲ့သည်။
 
 4678
 There were some amendments to the constitution after the war.
-စစ်ပွဲ အပြီးတွင် ဖွဲ့စည်းပုံ ပြင်ဆင်ရေး အချို့ ရှိခဲ့သည်။
+စစ်ပွဲ ပြီးနောက် ဖွဲ့စည်းပုံအခြေခံဥပဒေကို ပြင်ဆင်မှု အချို့ ရှိခဲ့သည်။
 
 4679
 Molecular species never form, they jsut have always been.
@@ -348,7 +348,7 @@ The commander knows that we will never listen to anything he says.
 
 4688
 Nothing was any different in 1863 because it wasn't a country yet.
-၁၈၆၃ မှာ နိုင်ငံ တစ်ခု မဟုတ်သေးတဲ့ အတွက်ကြောင့် မည်သည့်ပြောင်းလဲမှုမှု မဖြစ်ခဲ့ဘူး။
+၁၈၆၃ မှာ နိုင်ငံ တစ်ခု မဟုတ်သေးတဲ့ အတွက်ကြောင့် မည်သည့်ပြောင်းလဲမှု မဖြစ်ခဲ့ဘူး။
 
 4689
 The nation was changing a lot in 1863.
