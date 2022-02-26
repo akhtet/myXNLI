@@ -44,11 +44,11 @@ Mary Traill can tell you about the donkey.
 
 4812
 Mary Traill knows about it.
-မယ်ရီ ထရေးက အဲဒါနဲ့ပတ်သတ်ပြီး သိပါတယ်။
+မယ်ရီ ထရေးက အဲဒါနဲ့ပတ်သက်ပြီး သိပါတယ်။
 
 4813
 Only I know about it.
-ငါသာလျှင် ဒါနဲ့ပတ်သတ်ပြီး သိတယ်။
+ငါသာလျှင် ဒါနဲ့ပတ်သက်ပြီး သိတယ်။
 
 4814
 Ogle admitted that they had escaped the trap because of her.
@@ -64,7 +64,7 @@ Ogle thought that their ill condition was her fault.
 
 4817
 The approaching boat was manned by a dozen sailors.
-ချဉ်းကပ်လာတဲ့ လှေကို သင်္ဘောသား တစ်ဒါဇင်နဲ့ ဆောင်ရွက်ပေးခဲ့ပါတယ်။
+ချဉ်းကပ်လာတဲ့ လှေကို သင်္ဘောသား အယောက်တစ်ဒါဇင်နဲ့ ကူညီဆောင်ရွက်ပေးခဲ့ပါတယ်။
 
 4818
 The boat that was approaching was a tiny one, containing only 3 people.
@@ -84,7 +84,7 @@ The Spaniards planned to throw you overboard during the night.
 
 4822
 You hate him for delivering you from the Spaniards.
-မင်းကို စပိန်လူမျိုးတွေဆီမှ ကယ်တင်ခဲ့တဲ့အတွက် မင်းသူ့ကိုမုန်းတယ်။
+မင်းကို စပိန်လူမျိုးတွေဆီမှ ကယ်တင်ခဲ့တဲ့အတွက် မင်း သူ့ကိုမုန်းတယ်။
 
 4823
 He had let Wolverstone go, but he kept the others.
@@ -100,7 +100,7 @@ Wolverstone was not the only person who left.
 
 4826
 Blood is an international criminal organization based in Port Royal that Lord Julian contracts with for illicit purposes.
-ဘလတ်သည် တရားမဝင်သော ရည်ရွယ်ချက်များအတွက် သခင် ဂျူလီယန် နှင့် စာချုပ်ချုပ်ဆိုထားသော ပေါ့ ရိုင်ရယ် တွင် အခြေစိုက်သော နိုင်ငံတကာ ရာဇ၀တ် အဖွဲ့အစည်း တစ်ခု ဖြစ်သည်။
+ဘလတ်သည် တရားမဝင်သော ရည်ရွယ်ချက်များ အတွက် သခင် ဂျူလီယန် နှင့် စာချုပ်ချုပ်ဆိုထားသော ပေါ့ ရိုင်ရယ် တွင် အခြေစိုက်သော နိုင်ငံတကာ ရာဇ၀တ် အဖွဲ့အစည်း တစ်ခု ဖြစ်သည်။
 
 4827
 Lord Julian's domain includes Port Royal, a trade city that is a hub of activity in the region.
@@ -108,22 +108,19 @@ Lord Julian's domain includes Port Royal, a trade city that is a hub of activity
 
 4828
 Port Royal has facilities for punishing criminals.
-ပေါ့ ရိုင်ရယ်တွင် ပြစ်မှုကျူးလွန်သူများကို အပြစ်ပေးရန်အတွက် အဆောက်အဦများ ရှိသည်။
+ပေါ့ ရိုင်ရယ်တွင် ပြစ်မှုကျူးလွန်သူများကို အပြစ်ပေးရန် အတွက် အဆောက်အဦများ ရှိသည်။
 
 4829
 The petticoat is viewed as cursed because they often speak lies.
-သူတို့သည် မကြာခဏ မုသား ပြောသောကြောင့် အတွင်းခံကို မနှစ်မြို့စရာ အဖြစ် ရှု့မြင်ကြသည်။
-# 
+သူတို့သည် မကြာခဏ မုသား ပြောသောကြောင့် ဒီအမျိုးသမီးကို မနှစ်မြို့စရာ အဖြစ် ရှု့မြင်ကြသည်။
 
 4830
 You are cowardice because of the petticoat.
-အတွင်းခံကြောင့် မင်းက သူရဲဘောကြောင်တယ်။
-# 
+ဒီအမျိုးသမီးကြောင့် မင်းက သူရဲဘောကြောင်တယ်။
 
 4831
 You are quite brave as a result of the petticoat.
-အတွင်းခံ ၏ အကျိုးရလဒ်အနေနဲ့ မင်းတော်တော်သတ္တိရှိတယ်။
-# 
+ဒီအမျိုးသမီး ၏ အကျိုးရလဒ်အနေနဲ့ မင်းတော်တော်သတ္တိရှိတယ်။
 
 4832
 Someone is asking which way to go.
@@ -159,7 +156,7 @@ I have given hard thought to the King's commission.
 
 4840
 I signed the warrant to grant the King's commission without a second thought.
-ဘုရင်မင်းမြတ်ရဲ့ ကော်မရှင်ကို ထပ်မံ တွေးတောခြင်းမလုပ်ပဲ ခွင့်ပြုရန် ဝရမ်းထုတ်ခြင်းကို လက်မှတ်ရေးထိုးခဲ့သည်။
+ဘုရင်မင်းမြတ်ရဲ့ ကော်မရှင်ကို ထပ်မံ တွေးတောခြင်းမလုပ်ပဲ ခွင့်ပြုရန် ဝရမ်းထုတ်ခြင်းကို ကျွန်တော် လက်မှတ်ရေးထိုးခဲ့သည်။
 
 4841
 He realized that he had all day to retreat.
@@ -207,7 +204,7 @@ Wolverstone had mentioned the Bishop to be one who was very pretty.
 
 4852
 Wolverstone never said anything about the Bishop.
-ဝူဗာစတုန်းက ဘစ်ရှော့နဲ့ ပတ်သတ်ပြီး ဘာတစ်ခုမှ မပြောခဲ့ဖူးဘူး။
+ဝူဗာစတုန်းက ဘစ်ရှော့နဲ့ ပတ်သက်ပြီး ဘာတစ်ခုမှ မပြောခဲ့ဖူးဘူး။
 
 4853
 I assume that this is what your kind do.
@@ -235,7 +232,7 @@ There was a frown on her face.
 
 4859
 Blood had a hat that he wore before sitting down.
-ဘလတ်သည် သူ ထိုင်မချခင်က ဝတ်ဆင်ထားခဲ့သော ဦးထုပ် တစ်လုံး ရှိခဲ့တယ်။
+ဘလတ်တွင် သူ ထိုင်မချခင်က ဝတ်ဆင်ထားခဲ့သော ဦးထုပ် တစ်လုံး ရှိခဲ့တယ်။
 
 4860
 Blood put on his hat, and left the room without saying anything.
@@ -243,7 +240,7 @@ Blood put on his hat, and left the room without saying anything.
 
 4861
 Blood's hat was black, with three eagle feathers on it.
-ဘလတ်၏ ဦးထုပ်သည် ၎င်း ပေါ်တွင် လင်းယုန်အမွေး သုံးခု နှင့် ၊ အနက်ရောင် ဖြစ်ခဲ့သည်။
+ဘလတ်၏ ဦးထုပ်သည် ၎င်း ပေါ်တွင် လင်းယုန် အမွေး သုံးခု နှင့် ၊ အနက်ရောင် ဖြစ်ခဲ့သည်။
 
 4862
 Her expression changed after she saw his face.
@@ -319,11 +316,11 @@ She was dressed in white when she asked: Why do you run, then?.
 
 4880
 Say that I am not looking forward to meeting him there.
-သူနဲ့ ဒီမှာ တွေ့ဖို့ စောင့်နေတာမဟုတ်ဘူးလို့ ပြောလိုက်ပါ။
+ကျွန်တော် သူနဲ့ ဒီမှာ တွေ့ဖို့ စောင့်နေတာမဟုတ်ဘူးလို့ ပြောလိုက်ပါ။
 
 4881
 Say that I look forward to meeting him there this afternoon.
-ဒီနေ့လည်မှာ ဒီမှာ သူနဲ့တွေ့ဖို့ စောင့်မျှော်နေတယ်လို့ ပြောပါရစေ။
+ဒီနေ့လည်မှာ ဒီမှာ သူနဲ့တွေ့ဖို့ ကျွန်တော် စောင့်မျှော်နေတယ်လို့ ပြောပါရစေ။
 
 4882
 Say that I look forward to meeting him there.
