@@ -36,7 +36,7 @@ I know the exact numbers for everything
 
 3110
 They invented a new regulator.
-သူတို့သည် ထိန်းညှိမှု အသစ် တစ်ခု ကို တီထွင်ခဲ့သည်။
+သူတို့သည် ထိန်းညှိကိရိယာ အသစ် တစ်ခု ကို တီထွင်ခဲ့သည်။
 
 3111
 They invented a regulator that worked in space.
@@ -64,11 +64,11 @@ I hated every bit of school!
 
 3117
 I liked fourth grade because we had two recesses.
-ကျွန်တော်တို့ ရပ်နားချိန် နှစ်ခု ရှိခဲ့ သောကြောင့် ကျွန်တော် စတုတ္ထတန်းကို ကြိုက်ခဲ့တယ်။
+ကျွန်တော်တို့မှာ မုန့်စားဆင်းချိန် နှစ်ချိန် ရှိခဲ့ သောကြောင့် ကျွန်တော် စတုတ္ထတန်းကို ကြိုက်ခဲ့တယ်။
 
 3118
 I liked fourth grade.
-ကျွန်တော် စတုတ္ထတန်းကို ကြိုက်တယ်။
+ကျွန်တော် စတုတ္ထတန်းကို သဘောကျတယ်။
 
 3119
 The page is just  one list of numbers.
@@ -88,11 +88,11 @@ I decided to come home at lunch and take the rest of the day off.
 
 3123
 I didnt do anything significant after 6:30 today.
-ကျွန်တော် ဒီနေ့ ၆:၃၀ နောက်ပိုင်း ဘာမှ ထူးထူးခြားခြား မလုပ်ဖြစ်ဘူး။
+ကျွန်တော် ဒီနေ့ ၆:၃၀ နောက်ပိုင်း ဘာမှ ထူးထူးခြားခြား မလုပ်ဖြစ်ခဲ့ဘူး။
 
 3124
 I spent most of the day dealing with a complicated customer billing issue.
-ရှုပ်ထွေးသော ဖောက်သည် ငွေတောင်းခံမှု ပြဿနာ တစ်ခု ကို ကိုင်တွယ်ဖြေရှင်းရာတွင် ရက်များစွာ ကုန်ဆုံးခဲ့သည်။
+ရှုပ်ထွေးသော ဖောက်သည် တစ်ယောက်၏ ငွေတောင်းခံမှု ပြဿနာ ကို ကိုင်တွယ်ဖြေရှင်းရာတွင် ကျွန်တော် ရက်များစွာ ကုန်ဆုံးခဲ့သည်။
 
 3125
 I don't care if you do it yourself or hire it out.
@@ -124,7 +124,7 @@ They built a house on Mallard Creek.
 
 3132
 They never moved to Charlotte.
-သူတို့က ချားလော့ကို ဘယ်တော့မှ မပြောင်းဘူး။
+သူတို့က ချားလော့ကို ဘယ်တော့မှ မပြောင်းခဲ့ဘူး။
 
 3133
 They then lived in Mallard Creek.
@@ -188,7 +188,7 @@ He said he'd return the call.
 
 3148
 He said they were done speaking.
-သူတို့သည် ပြောပြီးကြပြီဟု သူက ပြောခဲ့တယ်။
+သူတို့ ပြောပြီးကြပြီဟု သူက ပြောခဲ့တယ်။
 
 3149
 They asked me why I had gone there.
@@ -200,7 +200,7 @@ They asked why I went to the store.
 
 3151
 They asked why I'd stayed home.
-ကျွန်တော် ဘာလို့ အိမ်မှာ နေရလဲလို့ သူတို့က မေးကြတယ်။
+ကျွန်တော် ဘာလို့ အိမ်မှာ နေရလဲလို့ သူတို့က မေးခဲ့ကြတယ်။
 
 3152
 They don't have any of the files.
@@ -268,7 +268,7 @@ We deployed our forces in 1968.
 
 3168
 We never ended up deploying anyone.
-ကျွန်တော်တို့က တပ်ဖြန့်မည့် ဘယ်သူ့ကိုမှ အဆုံးမသတ်ဘူး။
+ကျွန်တော်တို့က လက်တွေ့အသုံးချနေသူများကို ဘယ်တော့မှ အဆုံးမသတ်ခဲ့ဘူး။
 
 3169
 We sent our troops to Japan in June 1968.
@@ -288,11 +288,11 @@ He told me it was urgent.
 
 3173
 She said I should just assume the school would be fine.
-ကျွန်တော်သည် ကျောင်းက အဆင်ပြေမယ်လို့ ယူဆသင့်ကြောင့်ကို သူမက ပြောခဲ့သည်။
+ကျောင်းက အဆင်ပြေမယ်လို့ ကျွန်တော် ယူဆသင့်ကြောင့်ကို သူမက ပြောခဲ့သည်။
 
 3174
 She said I shouldn't fret.
-ကျွန်တော် စိတ်မပူသင့်ဘူးလို့ သူမကပြောပါတယ်။
+ကျွန်တော် စိတ်မပူသင့်ဘူးလို့ သူမက ပြောခဲ့တယ်။
 
 3175
 She said it was time to panic.
@@ -348,11 +348,11 @@ I told them the dog belonged to my sister.
 
 3188
 She said her mom also walks on her tip toes.
-သူမ၏ အမေက သူမ ၏ ခြေဖျားထောက် လမ်းလျှောက်နေတယ်လို့ သူမက ပြောခဲ့တယ်။
+သူမ၏ အမေသည် သူမ ၏ ခြေဖျား ပေါ် လမ်းလျှောက်နေတယ်လို့လည်း သူမက ပြောခဲ့တယ်။
 
 3189
 She said her mom has the same walk.
-သူမက လမ်းအတူတူလျှောက်တာ ရှိတယ်လို့ သူမ အမေကို ပြောခဲ့တယ်။
+သူမက သူမ အမေနဲ့အတူတူလမ်းလျှောက်တာတွေရှိတယ်လို့ ပြောခဲ့တယ်။
 
 3190
 She said her mom is paralyzed and can't walk.
