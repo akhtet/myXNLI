@@ -1,10 +1,10 @@
 4001
 We are building the precursors necessary for a technology future.
-ကျွန်ုပ်တို့သည် နည်းပညာ အနာဂတ် တစ်ခု အတွက် လိုအပ်သော ရှေ့ပြေးနိမိတ်များကို တည်ဆောက်နေပါသည်။
+ကျွန်ုပ်တို့သည် အနာဂတ်မှာ နည်းပညာ တစ်ခု အတွက် လိုအပ်သော ရှေ့ပြေးနိမိတ်များကို တည်ဆောက်နေပါသည်။
 
 4002
 We build transistors, so our future will be run by AI.
-ကျွန်ုပ်တို့သည် ထရန်စစ္စတာများကို တည်ဆောက်ထားသောကြောင့် ၊ ကျွန်ုပ်တို့၏အနာဂတ်ကို အေအိုင် ဖြင့် လုပ်ဆောင်လိမ့်မည်။
+ကျွန်ုပ်တို့သည် ထရန်စစ္စတာများကို တည်ဆောက်ထားသောကြောင့် ၊ ကျွန်ုပ်တို့၏ အနာဂတ်ကို အေအိုင် ဖြင့် လုပ်ဆောင်လိမ့်မည်။
 
 4003
 We want to prevent technology from succeeding.
@@ -112,11 +112,11 @@ The algorithm cannot decide how to make a perfect sandwich without human judgeme
 
 4029
 There is no tool that can completely solve this problem on its own.
-အဆိုပါ ပြဿနာကို ၎င်း ကိုယ်ပိုင်ဖြင့် လုံး၀ ဖြေရှင်းပေးနိုင်တဲ့ ကိရိယာ မရှိပါဘူး။
+အဆိုပါ ပြဿနာကို ၎င်း ကိုယ်ပိုင်ဖြင့် ဖြေရှင်းပေးနိုင်တဲ့ ကိရိယာ လုံး၀ မရှိပါဘူး။
 
 4030
 These tools work flawlessly under any circumstances.
-အဆိုပါ ကိရိယာများသည် မည်သည့် အခြေအနေမျိုးတွင်မဆို အပြစ်ကင်းစင်စွာ အလုပ်လုပ်ပါသည်။
+အဆိုပါ ကိရိယာများသည် မည်သည့် အခြေအနေမျိုးတွင်မဆို အမှားမရှိပဲ အလုပ်လုပ်ပါသည်။
 
 4031
 When PP has a high concentration, it speeds up resynthesis.
@@ -140,7 +140,7 @@ Some people believed that all people are equal.
 
 4036
 This nation was founded on the belief that some people are inherently better than others.
-ဤ နိုင်ငံကို အချို့သော လူများသည် အခြားသူများထက် ပင်ကိုအားဖြင့် ပိုကောင်းသည်ဟု ယုံကြည်ချက်ဖြင့် တည်ထောင်ခဲ့သည်။
+ဤ နိုင်ငံကို အချို့သော လူများသည် အခြားသူများထက် မူလအစကပင် ပိုကောင်းသည်ဟု ယုံကြည်ချက်ဖြင့် တည်ထောင်ခဲ့သည်။
 
 4037
 Complex statements cannot always be simplified without loosing meaning.
@@ -148,7 +148,7 @@ Complex statements cannot always be simplified without loosing meaning.
 
 4038
 Wittgenstein rarely spoke more than one or two words, as he believed this was all that was required to communicate.
-ဝစ်ဒ်ဂန်စတန်က ဤအရာ အားလုံးသည် ဆက်သွယ်ရန် လိုအပ်ခဲ့သည်ဟု သူယုံကြည်ခဲ့ သောကြောင့် ၊ ရှားရှားပါးပါး စကားလုံးတစ်လုံး သို့မဟုတ် နှစ်လုံးထက် ပိုပြောခဲသည်။
+ဝစ်ဒ်ဂန်စတန်က ဤအရာ အားလုံးသည် ဆက်သွယ်ရန် လိုအပ်ခဲ့သည်ဟု သူယုံကြည်ခဲ့ သောကြောင့် ၊ ရှားရှားပါးပါး စကားလုံးတစ်လုံး သို့မဟုတ် နှစ်လုံးထက် ပိုပြောခဲ့သည်။
 
 4039
 Wittgenstein reminded people of this every time someone accused him of being long winded.
