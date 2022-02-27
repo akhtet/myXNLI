@@ -4,7 +4,7 @@ The museum does not like being labelled.
 
 5502
 The museum is not a fan of brochures.
-ပြတိုက်ဆိုတာ လမ်းကမ်းစာဆောင်တွေရဲ့ ဝါသနာအိုး တစ်ယောက် မဟုတ်ဘူး။
+ပြတိုက်ဆိုတာ လမ်းကမ်းစာဆောင်တွေရဲ့ ဝါသနာအိုး တစ်ခု မဟုတ်ဘူး။
 # 
 
 5503
@@ -90,7 +90,7 @@ In the fall and summer, the San Francisco Ballet is on break.
 
 5523
 The NYC Ballet has performances in June.
-အန်ဝိုင်စီ ဘဲလေးကဇာတ် သည် ဇွန်လ တွင် ဖျော်ဖြေပွဲများ ရှိသည်။
+နယူယော့ခ်စီးတီး ဘဲလေးကဇာတ် သည် ဇွန်လ တွင် ဖျော်ဖြေပွဲများ ရှိသည်။
 
 5524
 The San Francisco Ballet has performances during more than one season.
@@ -162,7 +162,7 @@ Only twenty five people visited the Ming Tombs last year.
 
 5541
 The Ming Tombs are inaccessible regions of the Egyptian pyramids.
-မင် ဂူဗိမာန်သည် အီဂျစ် ပိရမစ်များ ၏ လက်လှမ်းမမီသော ဒေသများ ဖြစ်သည်။
+မင် ဂူဗိမာန်သည် အီဂျစ် ပိရမစ်များ ၏ လက်လှမ်းမမီသော ဒေသများတွင် ရှိသည်။
 
 5542
 The Ming Tombs are no longer a great tourist attraction.
@@ -298,7 +298,7 @@ There is a language problem that might intimidate you.
 
 5575
 You do not have to worry about language issues there, since everyone speaks English.
-လူတိုင်း အင်္ဂလိပ်စကား ပြောတတ် သောကြောင့် ၊ ထိုနေရာတွင် ဘာသာစကားပြဿနာ နဲ့ပတ်သတ်ပြီး စိုးရိမ် ဖို့ မလိုပါဘူး
+လူတိုင်း အင်္ဂလိပ်စကား ပြောတတ် သောကြောင့် ၊ ထိုနေရာတွင် ဘာသာစကားပြဿနာ နဲ့ပတ်သက်ပြီး စိုးရိမ် ဖို့ မလိုပါဘူး
 
 5576
 Napoleon spared the monastery at Montserrat because he respected sacred shrines.
@@ -326,7 +326,7 @@ You do not need to hide your possessions from the monkeys.
 
 5582
 The Sailor's House is an ancient building found in the prince's garden.
-စေးလားဟောက်စ် သည် မင်းသားလေး၏ ဥယျာဉ်တွင် တွေ့ရသော ရှေးဟောင်း အဆောက်အဦးတစ်ခု ဖြစ်သည်။
+စေးလားဟောက်စ် သည် မင်းသားလေး၏ ဥယျာဉ်တွင် တွေ့ရသော ရှေးဟောင်း အဆောက်အဦတစ်ခု ဖြစ်သည်။
 
 5583
 The Sailor's House was designed by a famous Italian architect.
@@ -398,4 +398,4 @@ Greece's entry into the Common Market was good for its economic outlook.
 
 5600
 The refurbishment program will end before the year 2001 begins.
-ပြုပြင်မွမ်းမံခြင်း အစီအစဉ်သည် ၂၀၀၁ ခုနှစ်မစတင်မီ ပြီးဆုံးလိမ့်မည်။
+ပြုပြင်မွမ်းမံခြင်း အစီအစဉ်သည် ၂၀၀၁ ခုနှစ် မစတင်မီ ပြီးဆုံးလိမ့်မည်။
