@@ -48,7 +48,7 @@ The building uses a lot of engineering technology to keep it from sliding into t
 
 5713
 The building's location is really interesting.
-အဆောက်အဦး ရဲ့ တည်နေရာက တကယ်ကို စိတ်ဝင်စားဖို့ကောင်းပါတယ်။
+အဆောက်အဦရဲ့ တည်နေရာက တကယ်ကို စိတ်ဝင်စားဖို့ကောင်းပါတယ်။
 
 5714
 Some of the antiques are shown.
@@ -272,7 +272,7 @@ You aren't allowed to buy those for yourself.
 
 5769
 You can buy them and make a roof.
-ဒါတွေကို ဝယ်နိုင် ပြီး အိမ်ခေါင်မိုး တစ်ခု ပြုလုပ်မယ်။
+ဒါတွေကို ဝယ် ပြီး အိမ်ခေါင်မိုး တစ်ခု ပြုလုပ်နိုင်တယ်။
 
 5770
 You can buy those peaks for the castle roofs.
@@ -320,7 +320,7 @@ The Spanish people had 100 people helping.
 
 5781
 The Spanish people had no help.
-စပိန် လူမျိုးတွေက အကူအညီ မရှိဘူး။
+စပိန် လူမျိုးတွေက ကူညီပေးခြင်းမရှိခဲ့ဘူး။
 
 5782
 The Spanish people made a beachhead.
