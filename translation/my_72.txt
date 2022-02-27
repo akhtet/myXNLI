@@ -80,15 +80,15 @@ There's no conference even being discussed.
 
 7121
 The intercepts were handled perfectly.
-ကြားဖြတ်များကို စုံလင်စွာ ကိုင်တွယ်ခဲ့သည်။
+ကြားဖြတ်အစီအစဉ်များကို စုံလင်စွာ ကိုင်တွယ်ခဲ့သည်။
 
 7122
 The intercepts were sent to the wrong person for analysis.
-ကြားဖြတ်များကို ခွဲခြမ်းစိတ်ဖြာရန် မှားယွင်းသော ပုဂ္ဂိုလ်ထံ ပေးပို့ခဲ့သည်။
+ကြားဖြတ်အစီအစဉ်များကို ခွဲခြမ်းစိတ်ဖြာရန် မှားယွင်းသော ပုဂ္ဂိုလ်ထံ ပေးပို့ခဲ့သည်။
 
 7123
 The intercepts weren't handled correctly.
-ကြားဖြတ်များကို မှန်ကန်စွာ မကိုင်တွယ်ခဲ့ပါ။
+ကြားဖြတ်အစီအစဉ်များကို မှန်ကန်စွာ မကိုင်တွယ်ခဲ့ပါ။
 
 7124
 They knew making the targets more difficult would lead to a higher rate of captures.
@@ -152,11 +152,11 @@ He had several brothers who had been in Chechnya.
 
 7139
 There is a detailed record kept of each computer-aided dispatch back 38 years.
-၃၈ နှစ်ကြာ ကွန်ပြူတာအကူအညီပေးသည့် ပို့ဆောင်မှု တစ်ခုစီ၏ အသေးစိတ် မှတ်တမ်း တစ်ခုကို သိမ်းဆည်းထားသည်။
+၃၈ နှစ်ကြာ ကွန်ပျူတာအကူအညီပေးသည့် ပို့ဆောင်မှု တစ်ခုစီ၏ အသေးစိတ် မှတ်တမ်း တစ်ခုကို သိမ်းဆည်းထားသည်။
 
 7140
 There is a record kept of computer-aided dispatches.
-ကွန်ပြူတာအကူအညီပေးသည့် ပေးပို့မှုများကို သိမ်းထားသည့် မှတ်တမ်း တစ်ခု ရှိသည်။
+ကွန်ပျူတာအကူအညီပေးသည့် ပေးပို့မှုများကို သိမ်းထားသည့် မှတ်တမ်း တစ်ခု ရှိသည်။
 
 7141
 There is no record help for the dispatches.
@@ -176,27 +176,27 @@ These regulations involved enhanced security screenings.
 
 7145
 Clarke never told National Security Advisor Rice that al Qaeda sleeper cells were probably in the United States.
-ကလာ့ခ် က အယ်လ်ကိုင်ဒါ လျို့ဝှက်လှုပ်ရှားနေသူများသည် အမေရိကန်တွင် ဖြစ်နိုင်သည်ဟု အမျိုးသား လုံခြုံရေး အကြံပေး ရိုက်စ် အား တစ်ခါမှ မပြောခဲ့ဖူးပါ။
+ကလာ့ခ် က အယ်ကိုင်ဒါ လျို့ဝှက်လှုပ်ရှားနေသူများသည် အမေရိကန် ပြည်ထောင်စုတွင် ဖြစ်နိုင်သည်ဟု အမျိုးသား လုံခြုံရေး အကြံပေး ရိုက်စ် အား တစ်ခါမှ မပြောခဲ့ဖူးပါ။
 
 7146
 Clarke told National Security Advisor Rice four times that al Qaeda sleeper cells were probably in the United States.
-ကလာ့ခ် က အယ်လ်ကိုင်ဒါ လျှို့ဝှက်လှုပ်ရှားနေသူများသည် အမေရိကန်တွင် ဖြစ်နိုင်ကြောင်း အမျိုးသား လုံခြုံရေး အကြံပေး ရိုက်စ် အား လေးကြိမ်တိုင်တိုင် ပြောကြားခဲ့သည်။
+ကလာ့ခ် က အယ်ကိုင်ဒါ လျှို့ဝှက်လှုပ်ရှားနေသူများသည် အမေရိကန် ပြည်ထောင်စုတွင် ဖြစ်နိုင်ကြောင်း အမျိုးသား လုံခြုံရေး အကြံပေး ရိုက်စ် အား လေးကြိမ်တိုင်တိုင် ပြောကြားခဲ့သည်။
 
 7147
 Clarke told National Security Advisor Rice that al Qaeda sleeper cells were probably in the United States.
-ကလာ့ခ် က အယ်လ်ကိုင်ဒါ လျှို့ဝှက်လှုပ်ရှားနေသူများသည် အမေရိကန်မှာ ဖြစ်နိုင်တယ်လို့ အမျိုးသား လုံခြုံရေး အကြံပေး ရိုက်စ် ကို ပြောခဲ့ပါတယ်။
+ကလာ့ခ် က အယ်ကိုင်ဒါ လျှို့ဝှက်လှုပ်ရှားနေသူများသည် အမေရိကန် ပြည်ထောင်စုမှာ ဖြစ်နိုင်တယ်လို့ အမျိုးသား လုံခြုံရေး အကြံပေး ရိုက်စ် ကို ပြောခဲ့ပါတယ်။
 
 7148
 Al Qaeda also received money from businesses.
-အယ်လ်ကိုင်ဒါသည် စီးပွားရေးလုပ်ငန်းများထံမှ ငွေများ လည်း ရရှိခဲ့သည်။
+အယ်ကိုင်ဒါသည် စီးပွားရေးလုပ်ငန်းများထံမှ ငွေများ လည်း ရရှိခဲ့သည်။
 
 7149
 Al Qaeda didn't receive any money from Saudis.
-အယ်လ်ကိုင်ဒါသည် ဆော်ဒီတို့ထံမှ မည်သည့် ငွေမျှ မရရှိခဲ့ပါ။
+အယ်ကိုင်ဒါသည် ဆော်ဒီတို့ထံမှ မည်သည့် ငွေမျှ မရရှိခဲ့ပါ။
 
 7150
 In Saudi Arabia, al Qaeda received money from individuals and charities.
-ဆော်ဒီအာရေဗျတွင် ၊ အယ်လ်ကိုင်ဒါသည် တစ်ဦးချင်း နှင့် ပရဟိတအဖွဲ့များထံမှ ငွေကြေးများ လက်ခံရရှိခဲ့သည်။
+ဆော်ဒီအာရေဗျတွင် ၊ အယ်ကိုင်ဒါသည် တစ်ဦးချင်း နှင့် ပရဟိတအဖွဲ့များထံမှ ငွေကြေးများ လက်ခံရရှိခဲ့သည်။
 
 7151
 We don't care about what is going on and have no desire to figure it out.
@@ -380,15 +380,15 @@ Bin Ladin wasn't worried about Moussaoui being held for questioning.
 
 7196
 Al Qaeda was a relatively flat organization that was still able to function with minimal leadership.
-အယ်လ်ကိုင်ဒါ သည် အနည်းဆုံးဖြစ်သော ခေါင်းဆောင်မှုဖြင့် လုပ်ဆောင်ရန် တတ်နိုင်သည့် အတော်လေး ပြန့်ကားသော အဖွဲ့အစည်း တစ်ခု ဖြစ်သည်။
+အယ်ကိုင်ဒါ သည် အနည်းဆုံးဖြစ်သော ခေါင်းဆောင်မှုဖြင့် လုပ်ဆောင်ရန် တတ်နိုင်သည့် အတော်လေး ပြန့်ကားသော အဖွဲ့အစည်း တစ်ခု ဖြစ်သည်။
 
 7197
 By 2004 the US had still not killed or captured a single al Qaeda leader.
-၂၀၀၄ တွင် ယူအက်စ် သည် အယ်လ်ကိုင်ဒါ ခေါင်းဆောင် တစ်ဦးကိုမျှ သတ်ဖြတ်ခြင်း သို့မဟုတ် ဖမ်းဆီးခြင်း မပြုသေးပါ။
+၂၀၀၄ တွင် ယူအက်စ် သည် အယ်ကိုင်ဒါ ခေါင်းဆောင် တစ်ဦးကိုမျှ သတ်ဖြတ်ခြင်း သို့မဟုတ် ဖမ်းဆီးခြင်း မပြုသေးပါ။
 
 7198
 Most al Qaeda leadership had been eliminated by 2004.
-အယ်လ်ကိုင်ဒါ ခေါင်းဆောင်မှု အများစုကို ၂၀၀၄ ခုနှစ်တွင် ဖယ်ရှားခဲ့သည်။
+အယ်ကိုင်ဒါ ခေါင်းဆောင်မှု အများစုကို ၂၀၀၄ ခုနှစ်တွင် ဖယ်ရှားခဲ့သည်။
 
 7199
 Sometimes people can escape asset freezes if they pay someone alot of money for help.
