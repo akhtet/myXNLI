@@ -24,7 +24,7 @@ The gunner had an intent to do something.
 
 5107
 The gunner had intended to fire his weapon.
-သေနတ်သမားသည် သူ၏လက်နက်ကို ပစ်ခတ်ရန် ကြံရွယ်ခဲ့သည်။
+သေနတ်သမားသည် သူ၏ လက်နက်ကို ပစ်ခတ်ရန် ကြံရွယ်ခဲ့သည်။
 
 5108
 As he tried to think, Blood remained indecisive.
@@ -36,7 +36,7 @@ Blood had decided that he wanted eggs for breakfast.
 
 5110
 Blood had quickly come to a conclusion about his situation.
-ဘလတ်က သူ၏ အခြေအနေ နဲ့ပတ်သတ်ပြီး ကောက်ချက် တစ်ခုကို မြန်မြန် ချလိုက်တယ်။
+ဘလတ်က သူ၏ အခြေအနေ နဲ့ပတ်သက်ပြီး ကောက်ချက် တစ်ခုကို မြန်မြန် ချလိုက်တယ်။
 
 5111
 I haven't spoken to his lordship in ages.
@@ -92,7 +92,7 @@ Captain Blood was recently promoted to his position because of the work he had d
 
 5124
 Perforce Bishop did not put on a strong appearance.
-ပါဖို့စ် ဘစ်လျှော့ သည် သန်မာတဲ့ အသွင်အပြင် မရှိဘူး။
+ပါဖို့စ် ဘစ်လျှော့ မှာ သန်မာတဲ့ အသွင်အပြင် မရှိဘူး။
 
 5125
 Perforce Bishop was to command alongside the Captain.
@@ -397,4 +397,3 @@ Julian Wade was given his lordship by right of birth.
 5200
 Lord Julian Wade was his name.
 သခင် ဂျူလီယန် ဝိဒ် က သူ့ နာမည်ပါ။
-
