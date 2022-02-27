@@ -4,11 +4,11 @@ There are plenty of alternatives to solve this problem other than to hand over t
 
 5002
 To surrender the hostage would mean certain death for her.
-အညံ့ခံရန် ဓားစာခံသည် သူမအတွက် လုံးဝ သေဆုံးခြင်း လို့ ဆိုလိုသည်။
+အညံ့ခံရန် ဓားစာခံသည် သူမအတွက် သေဆုံးခြင်း လို့ လုံးဝ အဓိပ္ပာယ်ရသည်။
 
 5003
 Everything is included in the bargain.
-လျှော့ဈေးမှာ အားလုံး ပါတယ်။
+လျှော့ဈေးမှာ အားလုံး ပါဝင်တယ်။
 
 5004
 That is not in the bargain because it wouldn't be fair.
@@ -20,7 +20,7 @@ That isn't included in the agreement.
 
 5006
 Calverly responded in a way that made him seem like he was on-the-fence about something.
-သူက တစ်စုံတစ်ခု နဲ့ပတ်သတ်ပြီး သူ့ကို ဆုံးဖြတ်ချက်မချနိုင် ဖြစ်ခဲ့ပုံပေါ်စေသည့် နည်းလမ်းတစ်ခုကို ကယ်လ်ဗာလေ က တုံ့ပြန်ခဲ့တယ်။
+သူက တစ်စုံတစ်ခု နဲ့ပတ်သက်ပြီး သူ့ကို ဆုံးဖြတ်ချက်မချနိုင် ဖြစ်ခဲ့ပုံပေါ်စေသည့် နည်းလမ်း တစ်ခုကို ကယ်လ်ဗာလေ က တုံ့ပြန်ခဲ့တယ်။
 
 5007
 Calverly was only indecisive in his answer because he did not know all of the facts.
@@ -28,7 +28,7 @@ Calverly was only indecisive in his answer because he did not know all of the fa
 
 5008
 Cleverly spoke with clear decisiveness, knowing that he has with certainty.
-ကယ်လ်ဗာလေက သူ့မှာ အသေအချာ ရှိတယ် ဆိုတာကို သိရှိခြင်းအားဖြင့် ၊ ရှင်းလင်းသော ဆုံးဖြတ်ချက်ခိုင်မာပြတ်သားမှု နှင့်အတူ လိမ္မာပါးနပ်စွာ ပြောဆိုခဲ့သည်။
+ကယ်လ်ဗာလေက သူ့မှာ အသေအချာ ရှိတယ် ဆိုတာကို သိရှိခြင်းအားဖြင့် ၊ ရှင်းလင်းသော ဆုံးဖြတ်ချက်ခိုင်မာပြတ်သားမှု နှင့်အတူ ပြောဆိုခဲ့သည်။
 
 5009
 He has his own officers.
@@ -64,7 +64,7 @@ It is an honorable service because it's about saving lives.
 
 5017
 It isn't an honorable service at all, it's very embarrassing!
-ဒါဟာ ဂုဏ်ယူစရာကောင်းတဲ့ ဝန်ဆောင်မှု တစ်ခု လုံးဝ မဟုတ်ပါ ၊ အလွန်ရှက်စရာကောင်းပါတယ်!
+ဒါဟာ ဂုဏ်ယူစရာကောင်းတဲ့ ဝန်ဆောင်မှု တစ်ခု လုံးဝ မဟုတ်ပါ ၊ ဒါဟာ အလွန် ရှက်စရာကောင်းပါတယ်!
 
 5018
 She refused to even look at him.
@@ -260,7 +260,7 @@ Blood was scowling.
 
 5066
 He knew he would be completely safe if he went ashore.
-သူ ကမ်းပေါ်ကို သွားခဲ့ရင် သူ လုံးဝ ဘေးကင်းလိမ့်မယ်ဆိုတာကို သူက သိခဲ့တယ်။
+သူ ကမ်းပေါ်ကို သွားခဲ့လျှင် သူ လုံးဝ ဘေးကင်းလိမ့်မယ်ဆိုတာကို သူက သိခဲ့တယ်။
 
 5067
 It was dangerous for him to go to shore.
@@ -280,7 +280,7 @@ I did not dream.
 
 5071
 I had three dreams.
-ငါ အိမ်မက် သုံးခု ရှိတယ်။
+ငါ အိမ်မက် သုံးခု ရှိခဲ့တယ်။
 
 5072
 I am definitely ungrateful to you.
@@ -304,7 +304,7 @@ She shouted that there was no hope for him.
 
 5077
 There was certainly still hope for him.
-သူ့အတွက် အသေအချော မျှော်လင့်နေဆဲဖြစ်တယ်။
+သူ့အတွက် အသေအချော မျှော်လင့်နေဆဲ ဖြစ်တယ်။
 
 5078
 It has always been a contest ever since we went about.
@@ -336,7 +336,7 @@ Blood is a man.
 
 5085
 The seal remained unbroken.
-အဆိုပါ ပင်လယ်ဖျံသည် မကျိုးမပဲ့ ဘဲ ကျန်ရစ်သည်။
+အဆိုပါ ပင်လယ်ဖျံသည် မကျိုးမပဲ့ ဘဲ ကျန်ရစ်ခဲ့သည်။
 
 5086
 The seal was broken.
@@ -397,4 +397,3 @@ My way is the most difficult.
 5100
 Someone else's way is difficult.
 တခြားသူရဲ့ နည်းလမ်းက ခက်ခဲတယ်။
-
