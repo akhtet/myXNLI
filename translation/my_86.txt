@@ -12,7 +12,7 @@ Brit Hume works for Fox.
 
 8504
 Michael Apted ruined the series by insisting they take out any warm, human elements.
-#REVIEW
+မိုက်ကယ်အက်ပ်တစ် သည် လူသားဆန်ဆန် နွေးထွေးသော အစိတ်အပိုင်းများကို ဖယ်ထုပ်ရန်  တောင်းဆိုခဲ့ခြင်းဖြင့် ဤစီးရီးကို ပျက်စီးစေခဲ့သည်။
 
 8505
 Michael Apted was hired to add a personal quality to the series.
@@ -20,7 +20,7 @@ Michael Apted was hired to add a personal quality to the series.
 
 8506
 The series was thought to be cold and boring, so it was important to hire Michael Apted to add a warm, personal touch to improve ratings.
-ရုပ်သံဇာတ်လမ်းတွဲသည် အေးစက်စက်နှင့် ငြီးငွေ့စရာကောင်း၍ ပျင်းစရာကောင်းသည်ဟု ယူဆရသည်၊ ထို့ကြောင့် ပရိတ်သတ်အားပေးမှုပမာဏ တိုးတက်စေရန် နွေးထွေးပြီး ကိုယ်ပိုင် အနုစိတ် မွမ်းမံမှု ထပ်ထည့်ရန် မိုက်ကယ်အပ်တက်ကို ငှားရမ်းရန် အရေးကြီးသည်။
+ရုပ်သံဇာတ်လမ်းတွဲသည် အေးစက်စက်နှင့် ငြီးငွေ့စရာကောင်း၍ ပျင်းစရာကောင်းသည်ဟု ယူဆရသည်၊ ထို့ကြောင့် ပရိတ်သတ်အားပေးမှုပမာဏ တိုးတက်စေရန် နွေးထွေးပြီး ကိုယ်ပိုင် အနုစိတ် မွမ်းမံမှု ထပ်ထည့်ရန် မိုက်ကယ်အက်ပ်တစ်ကို ငှားရမ်းရန် အရေးကြီးသည်။
 
 8507
 A girl is dressed for sledding.
@@ -152,8 +152,7 @@ Southern japes has a very clear and rigid class association.
 
 8539
 There is a class association here that has been inverted.
-ဒီနေရာမှာ 
-#REVIEW "inverted means homosexual nor sth else?"
+ဤနေရာတွင် ပြောင်းပြန်ဖြစ်နေသော လူတန်းစားအသင်းအဖွဲ့တစ်ခုရှိသည်။
 
 8540
 I am interested in politics.
@@ -373,8 +372,7 @@ Mr Singleton is a convicted rapist in Florida.
 
 8594
 Hatch angrily said that he couldn't even lift Steve's wallet.
-သူဟာ စတိဗ်၏ ပိုက်ဆံအိတ်ကို   နိုင်ဘူးဟု ဟတ်ချ်သည် စိတ်ဆိုးမာန်ဆိုးနဲ့ ပြောခဲ့သည်။
-#REVIEW lift's meaning is 'to steal something' or sth else?
+သူဟာ စတိဗ်၏ ပိုက်ဆံအိတ်ကိုတောင် အလစ်မသုတ်နိုင်ဘူးဟု ဟတ်ချ်သည် စိတ်ဆိုးမာန်ဆိုးနဲ့ ပြောခဲ့သည်။
 
 8595
 Hatch had no opinion about Steve's wallet.
@@ -382,7 +380,7 @@ Hatch had no opinion about Steve's wallet.
 
 8596
 Hatch joked thay he couldn't even lift Steve's wallet.
-သူသည်  စတိဗ်၏ ပိုက်ဆံအိတ်ကို မတောင်မမနိုင်ဘူးဟု ဟတ်ချ်သည် ပျက်ရယ်ပြုခဲ့သည်။
+သူသည်  စတိဗ်၏ ပိုက်ဆံအိတ်ကို  အလစ်တောင်မသုတ်နိုင်ဘူးဟု ဟတ်ချ်သည် ပျက်ရယ်ပြုခဲ့သည်။
 
 8597
 The Nerds are hopeless.
