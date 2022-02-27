@@ -96,7 +96,7 @@ A reporter for The Economist was in Tokyo and noticed a particular T-shirt.
 
 9825
 The T-shirt that said  O D on Bourgeoisie Milk Boy Milk seemed out of place and confusing in Tokyo.
-#REVIEW
+OD on Bourgeoisie Milk Boy Milk ဟုဖော်ပြထားသော တီရှပ်အင်္ကျီသည် တိုကျိုတွင် နေရာလွဲနေပြီး ဘာကိုဆိုလိုချင်မှန်းမသိ ဖြစ်နေပုံရသည်။
 
 9826
 The correspondent for The Economist in Tokyo couldn't read the T-shirt he saw.
@@ -344,16 +344,15 @@ Walking up and down.
 
 9887
 One Swede church isn't the same as that Swedish church.
-ဆွီဒင်လူမျိုး ဘုရားကျောင်းတစ်ခုသည် ထိုဆွီဒင်ဘုရားကျောင်းနှင့် မတူပါ။
-#REVIEW
+ဆွီဒ်ဘုရားကျောင်းတစ်ခုသည် ထိုဆွီဒစ်ရှ်ဘုရားကျောင်းနှင့် မတူပါ။
 
 9888
 THe Swede Church and the Swedish church are the same.
-#REVIEW
+ဆွီဒ်ဘုရားကျောင်းသည် ဆွီဒစ်ရှ်ဘုရားကျောင်းနှင့် အတူတူပဲ။
 
 9889
 The Swede Church and the Swedish church are pretty much different.
-#REVIEW
+ဆွီဒ်ဘုရားကျောင်းသည် ဆွီဒင်ဘုရားကျောင်းနှင့် တော်တော်လေး မတူပါ။
 
 9890
 She gestured toward another, bushier shrub.
