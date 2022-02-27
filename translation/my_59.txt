@@ -252,7 +252,7 @@ One prisoner said he would eat the food every day if he could.
 
 5864
 The gods always talked to the oracle about every legal matter.
-နတ်ဘုရားများသည် တရားစီရင်ရေး ကိစ္စ တိုင်း နှင့်ပတ်သတ်၍ ကြိုတင်ခန့်မှန်းချက်ကို အမြဲပြောနေပါသည်။
+နတ်ဘုရားများသည် တရားစီရင်ရေး ကိစ္စ တိုင်း နှင့်ပတ်သက်၍ ကြိုတင်ခန့်မှန်းချက်ကို အမြဲပြောနေပါသည်။
 
 5865
 The gods and the oracle never spoke or worked together.
@@ -360,15 +360,15 @@ These structures were built by the greatest architect in the world.
 
 5891
 Pierre was appointed but had to arrest himself for selling to the Americans.
-ပီယားကို ခန့်အပ်ခဲ့ ပေမယ့် အမေရိကန်တွေဆီ ရောင်းစားလို့ သူ့ကိုယ်သူ အဖမ်းခံခဲ့ရပါတယ်။
+ပိဖ်ရာကို ခန့်အပ်ခဲ့ ပေမယ့် အမေရိကန်တွေဆီ ရောင်းစားလို့ သူ့ကိုယ်သူ အဖမ်းခံခဲ့ရပါတယ်။
 
 5892
 Pierre was arrested for selling to the Americans among other things.
-ပီယားသည် အခြားအရာများကြားတွင် အမေရိကန်လူမျိုးများကို ရောင်းစားခြင်းကြောင့် ဖမ်းဆီးခံခဲ့ရသည်။
+ပိဖ်ရာသည် အခြားအရာများကြားတွင် အမေရိကန်လူမျိုးများကို ရောင်းစားခြင်းကြောင့် ဖမ်းဆီးခံခဲ့ရသည်။
 
 5893
 Pierre was never arrested.
-ပီယားကို ဘယ်တုန်းကမှ ဖမ်းမမိခဲ့ဘူး။
+ပိဖ်ရာကို ဘယ်တုန်းကမှ ဖမ်းမမိခဲ့ဘူး။
 
 5894
 The shops all serve some of the best food in the city.
@@ -396,4 +396,4 @@ The growing collection of clubs are unique and have a more urban edge.
 
 5900
 McKim Mead designed the mansion.
-အမ်စီကင် မဒ်သည် အိမ်ကြီးရခိုင်ကို ဒီဇိုင်းဆွဲခဲ့သည်။
+မက်ကင် မဒ်သည် အိမ်ကြီးရခိုင်ကို ဒီဇိုင်းဆွဲခဲ့သည်။
