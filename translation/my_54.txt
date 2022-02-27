@@ -5,7 +5,6 @@ Some people believed the tale that the princess had been eaten by a dragon.
 5302
 The ranks of men were dwindling, as everyone headed towards the forecastle for dinner.
 လူတိုင်း ညစာ အတွက် သင်္ဘောဦးပိုင်း ဆီသို့ ဦးတည်သွားကြသကဲ့သို့ ၊ အမျိုးသားများ၏ အဆင့်အတန်းသည် တဖြည်းဖြည်းလျော့ပါးလာသည်။
-#
 
 5303
 The young man looked at it for exactly one minute.
@@ -201,7 +200,7 @@ Captain Blood looked at other men before he looked at Ogle.
 
 5351
 He didn't have any arms so he asked someone else to point to the girl.
-သူမှာ မည်သည့် လက်တွေမှ မရှိခဲ့ သောကြောင့် သူက တစ်စုံတစ်ယောက်အား ကောင်မလေးကို လက်ညိုးထိုးရန် မေးမြန်းခဲ့တယ်။
+သူမှာ လက်များ မရှိခဲ့ သောကြောင့် သူက တစ်စုံတစ်ယောက်အား ကောင်မလေးကို လက်ညိုးထိုးရန် မေးမြန်းခဲ့တယ်။
 
 5352
 He pointed at the girl.
@@ -389,7 +388,7 @@ She had discouraged any form of defense that was applicable to you.
 
 5398
 The defense that was put forth by her was insufficient.
-သူမက ရှေ့မှာ ဖြစ်ခဲသော ခုခံကာကွယ်မှုမှာ မလုံလောက်ခဲ့ပါ။
+သူမကို ရှေ့မှာ ဖြစ်ခဲ့သော ခုခံကာကွယ်မှုမှာ မလုံလောက်ခဲ့ပါ။
 
 5399
 I am going to stay here and not go ashore.
@@ -398,4 +397,3 @@ I am going to stay here and not go ashore.
 5400
 I will go ashore in the small boat alone.
 လှေငယ်ပေါ်မှာ ငါ တစ်ယောက်တည်း ကမ်းပေါ် တတ်မယ်။
-
