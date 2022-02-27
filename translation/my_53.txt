@@ -72,15 +72,15 @@ The lordship replied immediately and only figuratively.
 
 5219
 He wants to see you about the Old Bear and not about the Old Wolf.
-အိုး ဝု့ဖ် နဲ့ ပတ်သတ်တာ မဟုတ်ဘဲ အိုး ဘီးယား နဲ့ ပတ်သတ်ပြီး မင်းကို သူ တွေ့ချင်တာပါ။
+အိုး ဝု့ဖ် နဲ့ ပတ်သက်တာ မဟုတ်ဘဲ အိုး ဘီးယား နဲ့ ပတ်သက်ပြီး မင်းကို သူ တွေ့ချင်တာပါ။
 
 5220
 He wants to see you about the Old Wolf.
-အိုး ဝု့ဖ် နဲ့ ပတ်သတ်ပြီး သူက မင်းကို တွေ့ချင်တယ်။
+အိုး ဝု့ဖ် နဲ့ ပတ်သက်ပြီး သူက မင်းကို တွေ့ချင်တယ်။
 
 5221
 He wants to see you today about the Old Wolf.
-ဒီနေ့ အိုး ဝု့ဖ် နဲ့ ပတ်သတ်ပြီး သူက မင်းကို တွေ့ချင်တယ်။
+ဒီနေ့ အိုး ဝု့ဖ် နဲ့ ပတ်သက်ပြီး သူက မင်းကို တွေ့ချင်တယ်။
 
 5222
 His choice was between buying 12 chickens or 3 oxen.
@@ -212,7 +212,7 @@ Julian thought the situation was funny.
 
 5254
 Julian was being clear about his feelings.
-ဂျူလီယန်က သူ၏ ခံစားချက်တွေနဲ့ ပတ်သတ်ပြီး ရှင်းပါတယ်။
+ဂျူလီယန်က သူ၏ ခံစားချက်တွေနဲ့ ပတ်သက်ပြီး ရှင်းပါတယ်။
 
 5255
 She also would have remembered the music if she had been able.
@@ -312,7 +312,7 @@ His reaction showed that he was deeply hurt.
 
 5279
 He asked because he was rather shocked about the whole situation.
-သူသည် အ​ခြေအ​နေ တစ်ခုလုံးနဲ့ ပတ်သတ်ပြီး အတော်လေး တုန်လှုပ်နေခဲ့ သောကြောင့် သူက မေးမြန်းခဲ့သည်။
+သူသည် အ​ခြေအ​နေ တစ်ခုလုံးနဲ့ ပတ်သက်ပြီး အတော်လေး တုန်လှုပ်နေခဲ့ သောကြောင့် သူက မေးမြန်းခဲ့သည်။
 
 5280
 He had shouted a question.
@@ -356,7 +356,7 @@ Blood was engaged in a high-stakes poker game.
 
 5290
 He had given off a sigh as Blood mentioned something about a signal.
-ဘလတ်သည် အချက်ပြမှု တစ်ခုနဲ့ ပတ်သတ်လို့ တစ်စုံတစ်ခုကို ပြောနေခဲ့ သောကြောင့် သူသည် သက်ပြင်း တစ်ချက် ချလိုက်သည်။
+ဘလတ်သည် အချက်ပြမှု တစ်ခုနဲ့ ပတ်သက်လို့ တစ်စုံတစ်ခုကို ပြောနေခဲ့ သောကြောင့် သူသည် သက်ပြင်း တစ်ချက် ချလိုက်သည်။
 
 5291
 I always knew you were easily scared, Peter.
@@ -397,4 +397,3 @@ The opportunity was then and now.
 5300
 People from the forecastle were joining the men in the waist.
 သင်္ဘောဦးပိုင်း မှ လူများက အလယ်က လူများကို ဆက်သွယ်နေတယ်။
-
