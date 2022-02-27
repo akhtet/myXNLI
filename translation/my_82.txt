@@ -17,14 +17,20 @@ Your contributions only support the snack fund and aren't matched.
 8105
 The Board of Trustees has no Chairman.
 ယုံကြည်အပ်နှံခံရသူများ ၏ ဘုတ်အဖွဲ့တွင် ဥက္ကဋ္ဌ မရှိပါ။
+# Trustees
+# Review 
 
 8106
 The Chairperson of the Board of Trustees.
 ယုံကြည်အပ်နှံခံရသူများ ၏ ဘုတ်အဖွဲ့ ရဲ့ ဥက္ကဋ္ဌ။
+# Trustees
+# Review 
 
 8107
 The long-serving Chairman of the Board or Trustees.
 ဘုတ်အဖွဲ့ သို့မဟုတ် ယုံကြည်အပ်နှံခံရသူများ၏ နှစ်ရှည်လများ ဥက္ကဋ္ဌ။
+# Trustees
+# Review 
 
 8108
 It's time for last call because we're closing at 2 a.m.
@@ -48,7 +54,7 @@ There are programs that encourage kids to go to the library twice a week.
 
 8113
 There are programs to make kids interested in the library.
-ကလေးတွေကို စာကြည့်တိုက်ကို စိတ်ဝင်စားစေမယ့် အစီအစဉ်တွေ ရှိပါတယ်။
+ကလေးတွေ စာကြည့်တိုက်ကို စိတ်ဝင်စားစေမယ့် အစီအစဉ်တွေ ရှိပါတယ်။
 
 8114
 You didn't donate any money last year.
@@ -92,7 +98,7 @@ I am asking you to donate $10.00 to the ASPCA.
 
 8124
 I am asking you to donate $100 to the IUPUI University Libraries.
-အိုင်ယူပီယူအိုင် တက္ကသိုလ် စာကြည့်တိုက်များသို့ $၁၀၀ လှူဒါန်းရန် ငါ မင်းကို တောင်းဆိုနေပါသည်။
+အိုင်ယူပီယူအိုင် တက္ကသိုလ် စာကြည့်တိုက်များသို့ $၁၀၀ လှူဒါန်းရန် ငါ မင်းကို တောင်းဆိုပါတယ်။
 
 8125
 I am asking you to make another gift to the IUPUI University Libraries.
@@ -100,7 +106,7 @@ I am asking you to make another gift to the IUPUI University Libraries.
 
 8126
 Philanthropy isn't important and no one should be taught about it.
-ပရဟိတအလုပ်က အရေးမကြီးပါ ပြီးတော့ ဒါနဲ့ ပတ်သတ်ပြီး ဘယ်သူ့ကိုမှ မသင်ပေးသင့်ပါဘူး။
+ပရဟိတအလုပ်က အရေးမကြီးပါ ပြီးတော့ ဒါနဲ့ ပတ်သက်ပြီး ဘယ်သူ့ကိုမှ မသင်ပေးသင့်ပါဘူး။
 
 8127
 We should teach Americans about the importance of philanthropy.
@@ -160,11 +166,11 @@ Lucky for us, Indiana does not have any tax laws.
 
 8141
 We have all the help we need!
-ကျွန်ုပ်တို့တွင် လိုအပ်သော အကူအညီ အားလုံး ရှိသည်။
+ကျွန်ုပ်တို့ လိုအပ်နေတဲ့ အကူအညီ အားလုံး ကျွန်တော်တို့မှာ ရှိတယ်။
 
 8142
 We need $10,000 more this season to put on the musical.
-ဂီတ အတွက် ဒီ ရာသီမှာ ဒေါ်လာ ၁၀,၀၀၀ ထားရန် ကျွန်တော်တို့ ပိုလိုတယ်။
+ဒီ ရာသီမှာ ဂီတ အတွက် ဒေါ်လာ ၁၀,၀၀၀ ထားရန် ကျွန်တော်တို့ ပိုလိုတယ်။
 
 8143
 We need your support this season.
@@ -172,7 +178,7 @@ We need your support this season.
 
 8144
 More than 48,000 children in New York State were abused and neglected last year.
-နယူး‌ယောက် ပြည်နယ် တွင် ကလေး ၄၈,၀၀၀ ကျော်သည် ယမန်နှစ်တွင် ညှင်းပန်းနှိပ်စက်ခြင်း နှင့် လျစ်လျူရှုခြင်းခံခဲ့ရသည်။
+နယူး‌ယောက် ပြည်နယ် တွင် ကလေး ၄၈,၀၀၀ ကျော်သည် ပြီးခဲ့သည့်နှစ်က ညှင်းပန်းနှိပ်စက်ခြင်း နှင့် လျစ်လျူရှုခြင်းခံခဲ့ရသည်။
 
 8145
 Most of the abused and neglected children were minorities.
@@ -228,7 +234,7 @@ The Olympics have impressive traditions.
 
 8158
 You will be the next Olympic athletes to win gold.
-မင်းက ရွှေတံဆိပ်ကို အနိုင်ရရန် နောက်ထပ် အိုလံပစ် အားကစားသမား ဖြစ်လာလိမ့်မယ်။
+မင်းက ရွှေတံဆိပ် ရရှိသည့် နောက်ထပ် အိုလံပစ် အားကစားသမား ဖြစ်လာလိမ့်မယ်။
 
 8159
 Civic celebrates each decade it has been around by hosting a big bash.
@@ -252,27 +258,27 @@ One that you would loathe to be a part of.
 
 8164
 One you would be a supporting member of?
-သင် ပံ့ပိုးကူညီမယ့် အဖွဲ့ဝင် တစ်ယောက် ဖြစ်မည့် တစ်ယောက်လား။
+သင်က ပံ့ပိုးကူညီမယ့် အဖွဲ့ဝင် တစ်ယောက် ဖြစ်မည့် တစ်ယောက်လား။
 
 8165
 We and the I.U. consider you to be important because you are a prolific donor.
-ကျွန်ုပ်တို့ နှင့် အိုင်.ယူ. က သင်သည် အလှူဒါနပွားများသူ တစ်ယောက် ဖြစ် သောကြောင့် သင်သည် အရေးကြီးသည်ဟု မှတ်ယူသည်။
+ကျွန်ုပ်တို့ နှင့် အိုင်.ယူ. က သင်သည် အလှူဒါနပွားများသူ တစ်ယောက် ဖြစ် သောကြောင့် သင်သည် အရေးပါသည်ဟု မှတ်ယူသည်။
 
 8166
 We and the I.U. consider you to be important.
-ကျွန်ုပ်တို့နှင့် အိုင်.ယူ. က မင်းကို အရေးကြီးတယ်လို့ မှတ်ယူသည်။
+ကျွန်ုပ်တို့နှင့် အိုင်.ယူ. က မင်းကို အရေးပါတယ်လို့ မှတ်ယူသည်။
 
 8167
 We and the I.U. don't give a rat's ass about you.
-ကျွန်ုပ်တို့နှင့် I.U. မင်းအကြောင်းကို နည်းနည်းမှ စိတ်မဝင်စားပါ။
+ကျွန်ုပ်တို့နှင့် အိုင်ယူက မင်းအကြောင်းကို နည်းနည်းမှ စိတ်မဝင်စားပါ။
 
 8168
 Nature writers can encourage people to recycle more.
-သဘာဝကျသော စာရေးဆရာများသည် လူများကို ပိုမို အသုံးပြုရန် တွန်းအားပေးနိုင်သည်။
+သဘာဝကျသော စာရေးဆရာများသည် လူများကို ပြန်လည်သုံးစွဲခြင်းကို ပိုမို တွန်းအားပေးနိုင်သည်။
 
 8169
 Nature writers can motivate people.
-သဘာဝကျသော စာရေးဆရာများသည် လူတို့ကို လှုံ့ဆော်ပေးနိုင်သည်။
+သဘာဝကျသော စာရေးဆရာများသည် လူတွေကို လှုံ့ဆော်ပေးနိုင်သည်။
 
 8170
 No one writes about nature.
@@ -312,7 +318,7 @@ The art was acquired, which was very exciting.
 
 8179
 They didn't acquire anything new, so the museum closed.
-သူတို့သည် အသစ်အဆန်းတွေ မရရှိတဲ့အတွက် ၊ ပြတိုက်ကို ပိတ်လိုက်တယ်။
+သူတို့သည် အသစ်အဆန်းတွေ မရရှိတဲ့အတွက် ၊ ပြတိုက်ကို ပိတ်ခဲ့တယ်။
 
 8180
 Every American gives 20% of their income to nonprofits.
@@ -340,15 +346,15 @@ Never talk to me again!
 
 8186
 Endangered animals are helped by Nussbaum members.
-မျိုးသုဉ်းလုနီးပါး တိရစ္ဆာန်များကို နက်စ်ဘန်း အဖွဲ့ဝင်များက ကူညီကြသည်။
+မျိုးသုဉ်းလုနီးပါး တိရစ္ဆာန်များကို နပ်စ်ဘောင်မ် အဖွဲ့ဝင်များက ကူညီကြသည်။
 
 8187
 Nussbaum members have no impact on saving endangered animals.
-နက်စ်ဘန်း အဖွဲ့ဝင်များသည် မျိုးသုဉ်းလုနီးပါး တိရစ္ဆာန်များကို ကယ်တင်ခြင်းအပေါ် သက်ရောက်မှုမရှိပါ။
+နပ်စ်ဘောင်မ် အဖွဲ့ဝင်များသည် မျိုးသုဉ်းလုနီးပါး တိရစ္ဆာန်များကို ကယ်တင်ခြင်းအပေါ် အကျိုးသက်ရောက်မှုမရှိပါ။
 
 8188
 Some of the endangered animals helped by Nussbaum members are tree frogs.
-နက်စ်ဘန်း အဖွဲ့ဝင်များက ကူညီပေးခဲ့သော မျိုးသုဉ်းလုနီးပါး တိရစ္ဆာန် အချို့မှာ သစ်ပင်ဖားများ ဖြစ်သည်။
+နပ်စ်ဘောင်မ် အဖွဲ့ဝင်များက ကူညီပေးခဲ့သော မျိုးသုဉ်းလုနီးပါး တိရစ္ဆာန် အချို့မှာ သစ်ပင်ဖားများ ဖြစ်သည်။
 
 8189
 No one gives us anything, but we have enough money so it's ok.
@@ -356,7 +362,7 @@ No one gives us anything, but we have enough money so it's ok.
 
 8190
 People give us money to help us fill the $1million budget gap.
-ဒေါ်လာ ၁ သန်း ဘတ်ဂျက် ကွာဟချက်ကို ဖြည့်ဆည်းဖို့ လူတွေက ငါတို့ကို ပိုက်ဆံပေးတယ်။
+ဒေါ်လာ ၁ သန်း ဘတ်ဂျက် ကွာဟချက်ကို ငါတို့ကို ဖြည့်ဆည်းဖို့ ကူညီရန် ငါတို့ကို ပိုက်ဆံပေးတယ်။
 
 8191
 People give us money to keep our organization running.
@@ -368,7 +374,7 @@ Our festival is in December.
 
 8193
 We have a festival complete with a parade and carnival rides.
-ချီတက်ပွဲ နှင့် ပွဲတော်ကြီး စီးနင်းမှုများဖြင့် ပြီးပြည့်စုံသော ပွဲတော် တစ်ခု ကျွန်တော်တို့မှာ ရှိသည်။
+ချီတက်ပွဲ တစ်ခု နှင့် ပွဲတော်ကြီး စီးနင်းမှုများဖြင့် ပြီးပြည့်စုံသော ပွဲတော် တစ်ခု ကျွန်တော်တို့မှာ ရှိသည်။
 
 8194
 We have a festival in the summer.
@@ -396,4 +402,4 @@ Five percent of the nation's population above twenty-five years of age is on wel
 
 8200
 There are some monetary savings for investments in a job-training program.
-အလုပ်အကိုင်-လေ့ကျင့်ရေး အစီအစဉ် တစ်ခု တွင် ရင်းနှီးမြှုပ်နှံမှုများ အတွက် ငွေကြေးဆိုင်ရာ စုဆောင်းမှု အချို့ရှိသည်။
+အလုပ်အကိုင်-လေ့ကျင့်ရေး အစီအစဉ် တစ်ခု တွင် ရင်းနှီးမြှုပ်နှံမှုများ အတွက် ငွေကြေးဆိုင်ရာ စုဆောင်းမှု အချို့ ရှိသည်။
