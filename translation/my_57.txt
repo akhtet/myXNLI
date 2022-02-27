@@ -44,7 +44,7 @@ Sofias is within a stone throw of the Megaro Mousikis Metro station.
 
 5612
 Greece and its people have never figured out how to build temples.
-ဂရိနှင့် ၎င်း၏လူမျိုးများသည် ဘုရားကျောင်းများ မည်ကဲ့သို့  တည်ဆောက်ရမည်ကို ဘယ်သောအခါမှ မတွေးခဲ့ကြပါ။
+ဂရိ နှင့် ၎င်း၏ လူမျိုးများသည် ဘုရားကျောင်းများ မည်ကဲ့သို့  တည်ဆောက်ရမည်ကို ဘယ်သောအခါမှ မတွေးခဲ့ကြပါ။
 
 5613
 It took two decades and five thousand men to build the Olympieion temple.
@@ -208,7 +208,7 @@ Nevada Fall is a great place to avoid crowds.
 
 5653
 Nevada Falls is a great hike with a few people on it.
-နီဗားဒါး ရေတံခွန်သည် လူအနည်းငယ် နှင့် ကောင်းမွန်သော ခရီး တစ်ခု ဖြစ်သည်။
+နီဗားဒါး ရေတံခွန်များသည် လူအနည်းငယ် နှင့် ကောင်းမွန်သော ခရီး တစ်ခု ဖြစ်သည်။
 
 5654
 It is always 100 degrees or hotter in the summer.
@@ -284,15 +284,15 @@ Nafplio is a perfect base.
 
 5672
 Culebra is halfway between Puerto Rico and St. Thomas in the US Virgin Islands.
-ကူလီဘရာသည် ယူအက်စ် ဗာဂျင်း ကျွန်းများ ရှိ ပွာတို ရီကို နှင့် စိန့် သော်မတ်စ် ကြား လမ်းတစ်ဝက်တွင် ရှိသည်။
+ကူလီဘရာသည် ယူအက်စ် ဗာဂျင်း ကျွန်းများ ရှိ ပွာတို ရီကို နှင့် စိန့် သောမတ်စ် ကြား လမ်းတစ်ဝက်တွင် ရှိသည်။
 
 5673
 Culebra is located nowhere near Puerto Rico and St. Thomas in the US Virgin Islands.
-ကူလီဘရာသည် ယူအက်စ် ဗာဂျင်း ကျွန်းများ ရှိ ပွာတို ရီကို နှင့် စိန့် သော်မတ်စ် အနီးတွင် မည်သည့်နေရာတွင်မျှ မတည်ရှိပါ။
+ကူလီဘရာသည် ယူအက်စ် ဗာဂျင်း ကျွန်းများ ရှိ ပွာတို ရီကို နှင့် စိန့် သောမတ်စ် အနီးတွင် မည်သည့်နေရာတွင်မျှ မတည်ရှိပါ။
 
 5674
 Culebra is somewhere between Puerto Rico and St. Thomas in the US Virgin Islands.
-ကူလီဘရာသည် ယူအက်စ် ဗာဂျင်း ကျွန်းများ ရှိ ပွာတို ရီကို နှင့် စိန့် သော်မတ်စ် အကြား တစ်နေရာရာမှာ ရှိသည်။
+ကူလီဘရာသည် ယူအက်စ် ဗာဂျင်း ကျွန်းများ ရှိ ပွာတို ရီကို နှင့် စိန့် သောမတ်စ် အကြား တစ်နေရာရာမှာ ရှိသည်။
 
 5675
 Umeda is not part of the entertainment district.
@@ -316,7 +316,7 @@ Some of the people that live there are family of the laborers that built the rai
 
 5680
 The great great grandkids of the laborers live there.
-ထိုနေရာတွင် အလုပ်သမားများ၏ သား ၊ မြေး ၊ မြစ် တွင် နေကြသည်။
+ထိုနေရာတွင် အလုပ်သမားများ၏ သား ၊ မြေး ၊ မြစ် တွေ နေကြသည်။
 
 5681
 The 1896 Neo-Gothic Calvinist Church features many panoramas.
