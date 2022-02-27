@@ -128,7 +128,7 @@ Computer aided dispatch reports were prepared for September 11.
 
 7233
 Computer aided dispatch systems were not in place in New York until 2008.
-ကွန်ပြူတာ အကူအညီဖြင့် ပေးပို့သည့် စနစ်များသည် ၂၀၀၈ ခုနှစ် အထိ နယူးယောက်တွင် မတည်ရှိခဲ့ပါ။
+ကွန်ပျူတာ အကူအညီဖြင့် ပေးပို့သည့် စနစ်များသည် ၂၀၀၈ ခုနှစ် အထိ နယူးယောက်တွင် မတည်ရှိခဲ့ပါ။
 
 7234
 These dispatch reports were delayed because of network disruptions.
@@ -152,7 +152,7 @@ No one gave any thought to hijackings.
 
 7239
 The study about hijackings warned about al Qaeda.
-ပြန်ပေးဆွဲမှုများ အကြောင်း လေ့လာမှုက အယ်လ်ကိုင်ဒါ အကြောင်း သတိပေးထားသည်။
+ပြန်ပေးဆွဲမှုများ အကြောင်း လေ့လာမှုက အယ်ကိုင်ဒါ အကြောင်း သတိပေးထားသည်။
 
 7240
 There was a study about airplane hijackings in 1996.
@@ -184,11 +184,11 @@ He warned the interviewer that there would be an attempted attack in May.
 
 7247
 At one point there was consideration of cooperating with the Taliban against al Qaeda.
-တစ်ချက်အနေနဲ့ အယ်လ်ကိုင်ဒါကို ဆန့်ကျင်ဖို့ တာလီဘန်တွေနဲ့ ပူးပေါင်းဆောင်ရွက်ဖို့ စဉ်းစားမှုတွေ ရှိခဲ့ပါတယ်။
+တစ်ချက်အနေနဲ့ အယ်ကိုင်ဒါကို ဆန့်ကျင်ဖို့ တာလီဘန်တွေနဲ့ ပူးပေါင်းဆောင်ရွက်ဖို့ စဉ်းစားမှုတွေ ရှိခဲ့ပါတယ်။
 
 7248
 By the end of June the US and Taliban had allied themselves against al Qaeda.
-ဇွန်လ ကုန်တွင် ယူအက်စ် နှင့် တာလီဘန်တို့က အယ်လ်ကိုင်ဒါကို ဆန့်ကျင်ရန် သူတို့ကိုယ်တိုင် မဟာမိတ်ဖွဲ့ခဲ့ကြသည်။
+ဇွန်လ ကုန်တွင် ယူအက်စ် နှင့် တာလီဘန်တို့က အယ်ကိုင်ဒါကို ဆန့်ကျင်ရန် သူတို့ကိုယ်တိုင် မဟာမိတ်ဖွဲ့ခဲ့ကြသည်။
 
 7249
 This plan was abandoned because the Taliban wanted large amounts of money and weapons for cooperation.
@@ -264,7 +264,7 @@ The financial markets were closed for at least one day.
 
 7267
 The markets were closed because there were widespread liquidity concerns.
-ငွေဖြစ်လွယ်မှုဆိုင်ရာ စိုးရိမ်မှုများကြောင့် ကျယ်ပြန့်လာ သောကြောင့် ဈေးများ ပိတ်ခဲ့ရသည်။
+ငွေဖြစ်လွယ်မှုဆိုင်ရာ စိုးရိမ်မှုများ ကျယ်ပြန့်လာ သောကြောင့် ဈေးများ ပိတ်ခဲ့ရသည်။
 
 7268
 Atta and Omari sat in window seats while the others sat on the isles.
@@ -276,11 +276,11 @@ They attempted to board the flight but Wail al Shehri was detained by security.
 
 7270
 They boarded a flight to Los Angeles before 8:00.
-သူတို့သည် ၈:၀၀ မတိုင်မီ လော့စ် အိန်ဂျလိစ် သို့ လေယာဉ် တစ်စင်း တက်ခဲ့သည်။
+၈:၀၀ မတိုင်မီ လော့စ် အိန်ဂျလိစ် သို့ လေယာဉ် တစ်စင်းဖြင့် သူတို့ တက်ခဲ့သည်။
 
 7271
 Bandar al Hazmi came to the US 18 times.
-ဘန်ဒါ အလ် ဟဇ်မိသည် ယူအက်စ် သို့ ၁၈ ကြိမ်လာရောက်ခဲ့သည်။
+ဘန်ဒါ အလ် ဟဇ်မိသည် ယူအက်စ် သို့ ၁၈ ကြိမ်မြောက် လာရောက်ခဲ့သည်။
 
 7272
 Bandar al Hazmi came to the US in 2000.
@@ -292,11 +292,11 @@ Bandar al Hazmi never traveled to the US.
 
 7274
 James Steinberg testified that more sharing was needed.
-မျှဝေရန် လိုအပ်ကြောင်း ဂျိမ်း စတိုင်းဘတ်ဂျ် က သက်သေခံခဲ့သည်။
+ပိုမို မျှဝေရန် လိုအပ်ကြောင်း ဂျိမ်းစ် စတိုင်းဘတ်ဂျ် က သက်သေခံခဲ့သည်။
 
 7275
 James Steinberg was adamant that sharing data was to be avoided at all costs.
-ဂျိမ်း စတိုင်းဘတ်ဂျ် သည် အချက်အလက် မျှဝေခြင်းကို ကုန်ကျစရိတ် အားလုံးမှ ရှောင်ရှားရန် အခိုင်အမာပြောကြားခဲ့သည်။
+ဂျိမ်းစ် စတိုင်းဘတ်ဂျ် သည် အချက်အလက် မျှဝေခြင်းကို ကုန်ကျစရိတ် အားလုံးမှ ရှောင်ရှားရန် အခိုင်အမာပြောကြားခဲ့သည်။
 
 7276
 The primary reason that information was previously need to know was the threat of rogue analysts leaking secrets.
@@ -348,7 +348,7 @@ There were no plans available to follow up on targets in Afghanistan.
 
 7288
 There were several plans drawn up for follow-on strikes against al Qaeda.
-အယ်လ်ကိုင်ဒါကို နောက်ဆက်တွဲ တိုက်ခိုက်မှုတွေအတွက် အစီအစဉ်တွေ အများကြီး ရေးဆွဲထားပါတယ်။
+အယ်ကိုင်ဒါကို နောက်ဆက်တွဲ တိုက်ခိုက်မှုတွေအတွက် အစီအစဉ်တွေ အများကြီး ရေးဆွဲထားပါတယ်။
 
 7289
 Clarke wanted people to realize the solution wasn't working.
