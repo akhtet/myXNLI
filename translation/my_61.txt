@@ -224,7 +224,7 @@ There is a list about beaches.
 
 6057
 There is a list that explains all about how nice the sand is at each beach.
-<Mကမ်းခြေတခုချင်းစီမှာရှိတဲ့ သဲတွေဘယ်လောက်ကောင်းလဲဆိုတာ အားလုံးရှင်းပြထားတဲ့ စာရင်းတခုရှိတယ်။
+ကမ်းခြေတခုချင်းစီမှာရှိတဲ့ သဲတွေဘယ်လောက်ကောင်းလဲဆိုတာ အားလုံးရှင်းပြထားတဲ့ စာရင်းတခုရှိတယ်။
 
 6058
 We only have one beach.
