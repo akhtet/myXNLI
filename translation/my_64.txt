@@ -72,7 +72,7 @@ Households have been losing a lot of wealth.
 
 6319
 Households have gotten a lot more wealth income ratio.
-အိမ်ထောင်စုများသည် ကြွယ်ဝသော ၀င်ငွေ အချိုးအစား အများအပြား ပိုမို ရရှိလာကြသည်။
+အိမ်ထောင်စုများသည် ကြွယ်ဝသော ၀င်ငွေ အချိုးအစား အများအပြားကို ပိုမို ရရှိလာကြသည်။
 
 6320
 Even though there were two mergers, there was no need for the company to undergo a restructure of their company hierarchy.
@@ -160,7 +160,7 @@ The SAB talked about it.
 
 6341
 The cost of basic mail is required to be more than the worksharing.
-အခြေခံ စာပို့သည့် ကုန်ကျစရိတ်သည် ခွဲဝေ၍အလုပ်လုပ်ခြင်းထက် ပိုနေရန် လိုအပ်သည်။
+စာပို့သည့် အခြေခံ ကုန်ကျစရိတ်သည် ခွဲဝေ၍အလုပ်လုပ်ခြင်းထက် ပိုနေရန် လိုအပ်သည်။
 
 6342
 Worksharing is more than it costs to mail things.
@@ -172,7 +172,7 @@ You can guess than the worksharing costs is less than basic mail.
 
 6344
 There are way too many IT workers.
-အိုင်တီ ဝန်ထမ်းတွေ အရမ်း အများအပြား ရှိတယ်။
+အိုင်တီ ဝန်ထမ်းတွေ အများအပြား လည်း ရှိတယ်။
 
 6345
 There aren't enough IT workers because they all went to India.
@@ -272,7 +272,7 @@ Chapter four contains a practice exercise on managing risk.
 
 6369
 The book contains no information about long term risk management.
-စာအုပ်တွင် ရေရှည် စွန်းစားမှု စီမံခန့်ခွဲမှုဆိုင်ရာ နဲ့ပတ်သတ်တဲ့ အချက်အလက် မပါဝင်ပါ။
+စာအုပ်တွင် ရေရှည် စွန်းစားမှု စီမံခန့်ခွဲမှုဆိုင်ရာ နဲ့ပတ်သက်တဲ့ အချက်အလက်တွေ မပါဝင်ပါ။
 
 6370
 This exercise must be completed and turned in by the end of the week.
@@ -392,8 +392,8 @@ Employees didn't have a charge card to use.
 
 6399
 Employees needed to charge all their food to the card.
-အလုပ်သများများသည် သူတို့၏ စားနပ်ရိက္ခာ အားလုံးကို ကတ်တွင် ကောက်ခံ ရန် လိုအပ်ခဲ့သည်။
-
+အလုပ်သမားများသည် သူတို့၏ စားနပ်ရိက္ခာ အားလုံးကို ကတ်တွင် ကောက်ခံ ရန် လိုအပ်ခဲ့သည်။
+ 
 6400
 Employees would need to use the charge card for the hotel.
-အလုပ်သများများသည် ဟိုတယ် အတွက် အကြွေးဝယ် ကတ်ပြားကို အသုံးပြု ရန် လိုအပ်လိမ့်မည်။
+အလုပ်သမားများသည် ဟိုတယ် အတွက် အကြွေးဝယ် ကတ်ပြားကို အသုံးပြု ရန် လိုအပ်လိမ့်မည်။
