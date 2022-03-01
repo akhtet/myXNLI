@@ -96,7 +96,7 @@ Old nickelodeons should be owned by film buffs.
 
 6125
 Boats were developed that would make trade easier.
-ကုန်သွယ်မှု ပိုမိုလွယ်ကုအောင် ပြုလုပ်ထားသော လှေများကို တီထွင်ခဲ့သည်။
+ကုန်သွယ်မှု ပိုမိုလွယ်ကူအောင် ပြုလုပ်ထားသော လှေများကို တီထွင်ခဲ့သည်။
 
 6126
 Boats were developed to keep the the incoming ships far away.
@@ -376,7 +376,7 @@ All of the venues have child-friendly events.
 
 6195
 There are places that have strip tease shows.
-ကာတွန်းအုပ်စုနှင့်ပတ်သတ်တဲ့ ဟာသ ရှိုးပွဲများ ရှိတဲ့ နေရာများလည်း ရှိပါတယ်။
+ကာတွန်းအုပ်စုနှင့်ပတ်သက်တဲ့ ဟာသ ရှိုးပွဲများ ရှိတဲ့ နေရာများလည်း ရှိပါတယ်။
 
 6196
 There are places to that have adult performances.
@@ -388,7 +388,7 @@ Acropolis was the center and heart of ancient Athens.
 
 6198
 The Acropolis was the most important building in all of Ancient Greeek culture.
-အခရောပိုးလစ်သည် ရှေးခေတ် ဂရိ ယဉ်ကျေးမှု အားလုံးတွင် အရေးအကြီးဆုံး အဆောက်အဦး ဖြစ်ခဲ့သည်။
+အခရောပိုးလစ်သည် ရှေးခေတ် ဂရိ ယဉ်ကျေးမှု အားလုံးတွင် အရေးအကြီးဆုံး အဆောက်အဦ ဖြစ်ခဲ့သည်။
 
 6199
 The Parthenon was the heart and center of ancient Athens located at the bottom of a hill.
