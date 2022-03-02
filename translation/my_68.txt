@@ -196,7 +196,7 @@ The groups never speak to each other.
 
 6750
 The two groups work together to make sure they aren't missing any important pieces.
-အဖွဲ့ နှစ်ဖွဲ့သည် မည်သည့် အရေးကြီးသော အပိုင်းများ မကျန်ရစ်ခဲ့စေရန် အတူတူလုပ်ဆောင်ကြသည်။
+အဖွဲ့ နှစ်ဖွဲ့သည် အရေးကြီးသော အပိုင်းများ မကျန်ရစ်ခဲ့စေရန် အတူတူလုပ်ဆောင်ကြသည်။
 
 6751
 The two groups work together.
@@ -240,11 +240,11 @@ We know there's no connection between volume per capita and pieces per possible.
 
 6761
 The welcome package is delivered by hand.
-ဝဲလ်ကမ်း ပက်ကေ့ချ်များကို လူတစ်ယောက်ဖြင့် ပို့ပေးခဲ့သည်။
+ကြိုဆိုရေး ပက်ကေ့ချ်များကို လူတစ်ယောက်ဖြင့် ပို့ပေးခဲ့သည်။
 
 6762
 The welcome packages are appreciated by those who receive them.
-ဝဲလ်ကမ်း ပက်ကေ့ချ်များကို လက်ခံရရှိသူများမှ တန်ဖိုးထားကြသည်။
+ကြိုဆိုရေး ပက်ကေ့ချ်များကို လက်ခံရရှိသူများမှ တန်ဖိုးထားကြသည်။
 
 6763
 The welcome packages are sent by mail.
@@ -288,7 +288,7 @@ High volume areas have income over $100,000.
 
 6773
 We want to make GAO fall apart.
-ကျွန်တော်တို့ ဂျီအေအိုကို ကွဲထွက်သွားအောင် လုပ်ချင်တယ်။
+ကျွန်တော်တို့က ဂျီအေအိုကို ကွဲထွက်သွားအောင် လုပ်ချင်တယ်။
 
 6774
 We want to make GAO stronger because it has a lot of problems right now.
@@ -300,7 +300,7 @@ We want to make GAO stronger.
 
 6776
 They can develop the plan faster than expected.
-သူတို့သည် မျှော်လင့်ထားသည်ထက် ပိုမိုမြန်ဆန်သော အစီအစဉ်ကို တိုးတတ်ဖွံ့ဖြိုးစေသည်။
+သူတို့သည် ထို အစီအစဉ်ကို မျှော်လင့်ထားသည်ထက် ပိုမိုမြန်ဆန်ပြီး တိုးတတ်ဖွံ့ဖြိုးစေသည်။
 
 6777
 They usually need another year to implement the plan.
@@ -316,7 +316,7 @@ A new method of estimating the concentration-response relationship is needed.
 
 6780
 The concentration-response relationship is rarely figured out exactly.
-အာရုံစူးစိုက်မှု-တုံ့ပြန်မှု ဆက်ဆံရေးကို အတိအကျ တွက်ဆခဲပါတယ်။
+အာရုံစူးစိုက်မှု-တုံ့ပြန်မှု ဆက်ဆံရေးကို အတိအကျ တွက်ဆခဲ့ပါတယ်။
 
 6781
 The effects of the concentration-response relationship are rarely overestimated.
@@ -324,7 +324,7 @@ The effects of the concentration-response relationship are rarely overestimated.
 
 6782
 The bypass will  send water to the FGD.
-ပိုက်လိုင်းကနေ အက်ဖ်ဂျီဒီ ဆီကို ရေကို ပို့လိမ့်မယ်။
+ပိုက်လိုင်းကနေ အက်ဖ်ဂျီဒီဆီ ရေကို ပို့လိမ့်မယ်။
 
 6783
 The bypass will send gas to the FGD in Russia.
@@ -368,7 +368,7 @@ One size fits all is not a good policy in clinical practice.
 
 6793
 One size fits all when it comes to brief interventions.
-အတိုချုံး ပါဝင်ပတ်သတ်မှုများ ဖြစ်လာတဲ့အခါမှာ အရွယ်အစား တစ်ခုသည် အားလုံးနှင့် ကိုက်ညီသည်။
+အတိုချုံး ပါဝင်ပတ်သက်မှုများ ဖြစ်လာတဲ့အခါမှာ အရွယ်အစား တစ်ခုသည် အားလုံးနှင့် ကိုက်ညီသည်။
 
 6794
 No reports on pilot programs were submitted.
