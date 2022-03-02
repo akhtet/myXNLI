@@ -1,6 +1,6 @@
 6401
 Attorneys get paid by the LSC if they are working in terrorism.
-သူတို့က အကြမ်းဖက်ဝါဒ တွင် အလုပ်လုပ်နေမည်ဆိုလျှင် ရှေ့နေများအား LSC မှ အခကြေးငွေရယူမည်။
+သူတို့က အကြမ်းဖက်ဝါဒ တွင် အလုပ်လုပ်နေမည်ဆိုလျှင် ရှေ့နေများအား အယ်လ်အက်စ်စီ မှ အခကြေးငွေရယူမည်။
 
 6402
 Some attorneys get paid by the LSC.
@@ -92,7 +92,7 @@ They have to include the parts for the new rocket.
 
 6424
 They only have to include the essential parts.
-သူတို့သည် မရှိမဖြစ် အစိတ်အပိုင်းများသာ ပါဝင်ရန် ရှိကြသည်။
+သူတို့တွင် မရှိမဖြစ် အစိတ်အပိုင်းများသာ ပါဝင်ဖို့ ရှိတယ်။
 
 6425
 Her work as a judge helped poor minorities in New York.
@@ -104,7 +104,7 @@ Her work as a judge helped poor people.
 
 6427
 Her work was focused on rich people.
-သူမ အလုပ်က ချမ်းသာတဲ့ လူတွေကို အာရုံစိုက်ခဲ့တယ်။
+သူမ အလုပ်က ချမ်းသာတဲ့ လူတွေကို အာရုံစိုက်တာဖြစ်တယ်။
 
 6428
 Organizations always outsource the work.
@@ -112,15 +112,15 @@ Organizations always outsource the work.
 
 6429
 Organizations decide if they're going to use in-house employees of if it costs too much to do that.
-၎င်းကို ထိုသို့ လုပ်ဆောင်ရန် အလွန်အကျွံ ကုန်ကျမည်ဆိုပါက သူတို့သည် ရုံးတွင်း အလုပ်သမားများကို အသုံးပြုမည်ဆိုလျှင် အဖွဲ့အစည်းများက ဆုံးဖြတ်ကြသည်။
+၎င်းကို ထိုသို့ လုပ်ဆောင်ရန် အလွန်အကျွံ ကုန်ကျမည်ဆိုပါက သူတို့သည် ရုံးတွင်း အလုပ်သမားများအား အသုံးပြုမပြုကို အဖွဲ့အစည်းများက ဆုံးဖြတ်ကြသည်။
 
 6430
 Organizations decide if they're going to use in-house employees.
-သူတို့သည် ရုံးတွင်း အလုပ်သမားများကို အသုံးပြုမည်ဆိုလျှင် အဖွဲ့အစည်းများက ဆုံးဖြတ်ကြသည်။
+သူတို့သည် ရုံးတွင်း အလုပ်သမားများအား အသုံးပြုမပြုကို အဖွဲ့အစည်းများက ဆုံးဖြတ်ကြသည်။
 
 6431
 The CEO tells people who gets what information but sometimes they make mistakes.
-စီအီးအိုက ဘာ သတင်းအချက်အလက်ဆိုတာကို ရရှိသော လူတွေကို ပြောပြ ပေမယ့် တစ်ခါတစ်ရံမှာ သူတို့သည် အမှားတွေ လုပ်မိတတ်ပါတယ်။
+စီအီးအိုက ဘာ သတင်းအချက်အလက်ဆိုတာကို ရရှိတဲ့ လူတွေကို ပြောပြ ပေမယ့် တစ်ခါတစ်ရံမှာ သူတို့သည် အမှားတွေ လုပ်မိတတ်ပါတယ်။
 
 6432
 The CEO tells people who gets what information.
@@ -134,7 +134,6 @@ The CIO works to get information out to people.
 They calculate the welfare effects like they do how much money they make.
 သူတို့သည် ငွေ ဘယ်လောက်များများကို ပြုလုပ်သည်ကို သူတို့ ပြုလုပ် သကဲ့သို့ လူမှုဖူလုံရေး ရလဒ်တွေကို သူတို့ တွက်ချက်ကြတယ်။
 
-
 6435
 They calculate welfare effects quickly on a calculator.
 သူတို့သည် ဂဏန်းပေါင်းစက် တစ်လုံးတွင် လူမှုဖူလုံရေး ရလဒ်တွေကို လျင်မြန်စွာ တွက်ချက်ပါသည်။
@@ -146,17 +145,20 @@ They don't know how to calculate welfare effects.
 6437
 The trust fund borrowed money because it was running at a huge deficit.
 ယုံကြည်စိတ်ချရသော ရန်ပုံငွေသည် ကြီးမားတဲ့ လိုငွေပြမှု တစ်ခု ဖြင့် လည်ပတ်နေသောကြောင့် ပိုက်ဆံကို ချေးယူခဲ့ပါသည်။
-#
+# trust fund
+# REVIEW
 
 6438
 The trust fund has never needed to borrow.
 ယုံကြည်စိတ်ချရသော ရန်ပုံငွေသည် မည်သည့်အခါမျှ ချေးငှားရန် မလိုအပ်ခဲ့ပါ။
-#
+# trust fund
+# REVIEW
 
 6439
 The trust fund needed to borrow money.
 ယုံကြည်စိတ်ချရသော ရန်ပုံငွေသည် ပိုက်ဆံ ချေးငှား ရန် လိုအပ်ခဲ့သည်။
-#
+# trust fund
+# REVIEW
 
 6440
 Alternate communication makes up 60% of communication now.
@@ -276,7 +278,7 @@ Things move really fast in the ED because they see 2000 patients a week.
 
 6469
 Things move really fast in the ED.
-ED တွင် အရာဝတ္ထုများသည် အမှန်တကယ် လျင်မြန်စွာ ရွေ့လျားနေသည်။
+အီးဒီတွင် အရာဝတ္ထုများသည် အမှန်တကယ် လျင်မြန်စွာ ရွေ့လျားနေသည်။
 
 6470
 Every kind of intervention has challenges, but some have much more than others.
@@ -284,7 +286,7 @@ Every kind of intervention has challenges, but some have much more than others.
 
 6471
 Most interventions are perfect.
-ကြားဝင်ခြင်း အများစုသည် စံထားရလောက်တယ်။
+ကြားဝင်ခြင်း အများစုu စံထားရလောက်တယ်။
 
 6472
 One kind of intervention has a big challenge, no matter what.
@@ -344,7 +346,7 @@ IT workers are way too common these days.
 
 6486
 People need IT workers to help install computer systems.
-လူများသည် ကွန်ပြူတာ စနစ်များ တပ်ဆင်ရာတွင် ကူညီရန် အိုင်တီလုပ်သားများ လိုအပ်နေပါသည်။
+လူများသည် ကွန်ပျူတာ စနစ်များ တပ်ဆင်ရာတွင် ကူညီရန် အိုင်တီလုပ်သားများ လိုအပ်နေပါသည်။
 
 6487
 People really need good IT people.
@@ -376,18 +378,15 @@ Mercury emissions don't influence the water at all.
 
 6494
 Technology can reduce how long providers and staff need to screen people by up to 80%.
-နည်းပညာသည် ပံ့ပိုးပေးသူများ နှင့် ဝန်ထမ်းများက လူများကို 80% အထိ ပြသ ရန် လိုအပ်သည့်အချိန်ကို လျှော့ချနိုင်သည်။
-# screen
+နည်းပညာသည် ပံ့ပိုးပေးသူများ နှင့် ဝန်ထမ်းများက လူများကို ၈၀% အထိ ပြသ ရန် လိုအပ်သည့်အချိန်ကို လျှော့ချနိုင်သည်။
 
 6495
 Technology can reduce how long providers and staff need to screen people.
 နည်းပညာသည် ပံ့ပိုးပေးသူများ နှင့် ဝန်ထမ်းများက လူများကို ပြသ ရန် အချိန်မည်မျှ လိုအပ်သည်ကို လျှော့ချနိုင်သည်။
-# screen
 
 6496
 Technology doesn't help screening at all.
 နည်းပညာက ပြသခြင်းကို လုံးဝ မကူညီပါ။
-# screening
 
 6497
 GAO is an entity that requires an allocation of resources.
@@ -404,4 +403,3 @@ The GAO is the worst performing federal entity and is in line to have all its fu
 6500
 Postal density doesn't influence costs at all.
 စာတိုက် စုစည်းမှုသည် ကုန်ကျစရိတ်များကို လုံးဝ လွှမ်းမိုးခြင်းမရှိပါ။
-# Postal density
