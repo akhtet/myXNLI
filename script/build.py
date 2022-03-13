@@ -77,7 +77,8 @@ def analyze_file(fname):
 
     def is_English(line):
         maxchar = max(line)
-        return maxchar < u'\u1000'
+        return maxchar < u'\u1000'  
+        # NOTE: This only check for non-Burmese line, so not necessarily ASCII
         # return re.match('[A-Za-z0-9]+', line.split()[0])
 
     def is_Burmese(line):

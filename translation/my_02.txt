@@ -138,8 +138,7 @@ OK, can you hear me?
 
 135
 It was still cultural area but suburbs was still the dominant form.
-ဒါက ယဉ်ကျေးမှုစုံ နေရာ ဒါပေမယ့် မြို့နယ် က အဓိက ပုံစံပါပဲ။
-# REVIEW
+ဒါက ယဉ်ကျေးမှုစုံ နေရာပါ ဒါပေမယ့် မြို့ဆင်ခြေဖုံးပုံစံ တွေက အဓိက ပုံစံပါပဲ။
 
 136
 And then I heard him leave, so I'm still finishing what I had to do.
@@ -155,7 +154,7 @@ And they found this house or this apartment building or whatever it was that the
 
 139
 It's a little screw which set an injection but the, the breathing pressure tube to the pilot and counter pressure.
-အဲဒါက မူလီအသေးလေး ချိန်ထားသော ဒါပေမယ့် အသက်ရှုပိုက်ကို လေယာဉ်မှုးဆီ သွယ်ထားသော
+အဲဒါက မူလီအသေးလေး ချိန်ထားသော ဒါပေမယ့် အသက်ရှုပိုက်ကို လေယာဉ်မှုးဆီ သွယ်ထားသော 
 # REVIEW ambiguous
 
 140
@@ -261,9 +260,7 @@ So then I look up, I find out where Ramona's at, and I call her over there.
 
 165
 Even though I don't see how he could have expected me to have it done.
-ငါ ဒါကို ပြီးအောင်လုပ်ရမယ်လို့ သူ‌ဘယ်လို မျှော်မှန်းထားမှန်း ငါစဉ်းစားလို့မရဘူး။ 
-# REVIEW
-# any better translation?
+ငါ ဒါကို ပြီးအောင်လုပ်ရမယ်လို့ သူ‌ဘယ်လို မျှော်မှန်းထားမှန်း ငါစဉ်းစားလို့ မရပေမယ့်လည်း။
 
 166
 In the meantime the Air Force bought the SR71, now the A-12, that we were working with the CIA.
@@ -303,7 +300,7 @@ One minute he's banging on the desk, the next he's OK, have it on my desk, dah, 
 
 175
 Come to find out it was a U2 aircraft but we couldn't, we could not say one word about what it was; nothing to our wives, kids or anybody.
-<MYANMAR UNICODE TRANSLATION HERE>
+အဲဒါ ယူ၂ လေယာဥ်လားလို့ လာကြည့်ပေမယ့်  အဲဒါဘာလဲဆိုတာကို ငါတို့ မိန်းမတွေ၊ ကလေးတွေ နဲ့ ဘယ်သူ့ကိုမှ စကားတစ်လုံးမှ ငါတို့ ပြန်ပြောလို့မရခဲ့ဘူး။
 
 176
 So anyway, um, he ended up coming in there and he was like, How's it coming along?
@@ -311,7 +308,7 @@ So anyway, um, he ended up coming in there and he was like, How's it coming alon
 
 177
 Then I was spinning my wheel for about, I don't know, it seemed like all day that day.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီနောက် ငါလဲ ပါတ်မောင်း နေတာ ဘယ်လောက်ကြာသွားလဲဆိုတော့ အဲဒီနေ့ တစ်နေ့လုံးနီးပါးပဲ။
 
 178
 And she had tuberculosis and I never knew that either.
@@ -319,11 +316,11 @@ And she had tuberculosis and I never knew that either.
 
 179
 You know, you can't, you cannot survive if you don't have any counter pressure, increase breathing pressure in those altitudes.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီလို အမြင့်ပေတွေမှာ မင်းမှာ တန်ပြန်ဖိအားမရှိ၊ အသက်ရှုဖိအားမတိုးရင် မင်း အသက်မရှင်နိုင်ဘူး။
 
 180
 If, if your hand was exposed outside of the pressure suit, your hands would go to about five times the size, if you had a decompression.
-<MYANMAR UNICODE TRANSLATION HERE>
+တစ်ကယ်လို့ မင်းရဲ့လက်က လေဖိအားထိန်းဝတ်စုံအပြင်ဘက် ပေါ်သွားလို့ရှိရင် မင်းဖိအား‌လျှော့လိုက်ချိန် မင်းလက်က ငါးဆလောက်ကြီးလာလိမ့်မယ်။
 
 181
 Is there any reason why she didn't tell you?
@@ -331,15 +328,16 @@ Is there any reason why she didn't tell you?
 
 182
 They had wound up starting out to New York to visit some relatives of this, this cousin, and they just stayed and he didn't know how to get back, so he just stayed with them.
-<MYANMAR UNICODE TRANSLATION HERE>
+သူတို့လည်း နယူးယောက်ဘက်ကို စသွားခဲ သူ့ အမျိုးတစ်ချို့ကို  ဝမ်းကွဲတစ်ယောက် သူတို့နေခဲ့ သူမပြန်တတ်တော့လို့ သူလဲ သူတို့နဲ့ပဲ နေလိုက်တယ်။ 
+# REVIEW
 
 183
 I started immediately, uh, uh, training into that from the other two guys that was at the location.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါ အဲဒီနေရာက တစ်ခြားလူနှစ်ယောက်ဆီကနေ အဲဒီအတွက် လေ့ကျင့်ရေး ချက်ချင်း စခဲ့တယ်။
 
 184
 No, it was just that one time in the morning, and she said that she was going to come back to the office.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဟင့်အင်း၊ အဲဒါက မနက်တုန်းက တစ်ခါပဲ၊ ပြီးတော့ သူက ရုံးကိုပြန်လာဦးမယ်လို့ ပြောခဲ့တယ်။
 
 185
 We didn't know what a U2 was and nobody knew anything about a U2.
@@ -351,7 +349,7 @@ If it was off one iota, you had to do some adjusting to the regulator itself.
 
 187
 Uh, I was still the one and only nine two-two that had ever set the injection on the regulator.
-<MYANMAR UNICODE TRANSLATION HERE>
+ငါကတော့ ထိန်းညှိစက်မှာ အင်ဂျက်ရှင်ချိန်ခဲ့ဖူးတဲ့ တစ်ဦးထဲသော ၉ ၂-၂ ပဲ။
 
 188
 She didn't even understand the marriage ceremony, she didn't even know that she had gotten married, really--
