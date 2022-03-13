@@ -70,13 +70,15 @@ def analyze_file(fname):
     """
 
     def is_seq_num(line):
-        return re.match('\d+', line)
+        return re.match('\d+$', line)
 
     def is_comment(line):
         return line.startswith('#')
 
     def is_English(line):
-        return re.match('[A-Za-z]+', line.split()[0])
+        maxchar = max(line)
+        return maxchar < u'\u1000'
+        # return re.match('[A-Za-z0-9]+', line.split()[0])
 
     def is_Burmese(line):
         maxchar = max(line)
@@ -163,28 +165,32 @@ def analyze_file(fname):
 
 def summarize_errors(blocks, orphans):
 
-    reviews = 0
-    errors = 0
-    missing = 0
+    summary = {
+        'reviews' : 0,
+        'errors' : 0,
+        'missing' : 0,
+        'orphans' : 0,
+        'blocks' : 0
+    }
 
-    # Print only the blocks marked for review  
     seqs = blocks.keys()
-    min_seq = min(seqs)
 
-    for b in range(min(seqs), max(seqs)):
+    for b in range(min(seqs), max(seqs)+1):
     
         if not b in blocks:
             print('Missing block:', b)
-            missing += 1
+            summary['missing'] += 1
             continue
 
+        summary['blocks'] += 1
         display=False
+
         if blocks[b]['review']:
-            reviews += 1
+            summary['reviews'] += 1
             display = True
 
         if len(blocks[b]['errors']) > 0:
-            errors += 1
+            summary['errors'] += 1
             display = True
 
         if display:
@@ -193,9 +199,13 @@ def summarize_errors(blocks, orphans):
             print(blocks[b])
             print('')
 
+    print('ORPHANS:')
     for o in orphans:
-        print(orphans[o]) 
-        errors += 1
+        print(o, orphans[o]) 
+        summary['orphans'] += 1
+
+    print('SUMMARY')
+    print(yaml.dump(summary))
 
 
 def write_dataset(my_dict):
