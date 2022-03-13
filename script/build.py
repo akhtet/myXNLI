@@ -166,12 +166,12 @@ def analyze_file(fname):
 def summarize_errors(blocks, orphans):
 
     summary = {
+        'blocks' : 0,
         'reviews' : 0,
-        'errors' : 0,
-        'missing' : 0,
-        'orphans' : 0,
-        'blocks' : 0
+        'orphans' : []
     }
+
+    errors = []     # This will become additional keys in summary
 
     seqs = blocks.keys()
 
@@ -179,7 +179,7 @@ def summarize_errors(blocks, orphans):
     
         if not b in blocks:
             print('Missing block:', b)
-            summary['missing'] += 1
+            errors.append('Missing Block')
             continue
 
         summary['blocks'] += 1
@@ -190,7 +190,7 @@ def summarize_errors(blocks, orphans):
             display = True
 
         if len(blocks[b]['errors']) > 0:
-            summary['errors'] += 1
+            errors += blocks[b]['errors']
             display = True
 
         if display:
@@ -199,10 +199,11 @@ def summarize_errors(blocks, orphans):
             print(blocks[b])
             print('')
 
-    print('ORPHANS:')
     for o in orphans:
-        print(o, orphans[o]) 
-        summary['orphans'] += 1
+        summary['orphans'].append(o)
+
+    for e in errors:
+        summary[e] = 1 + summary.get(e, 0)
 
     print('SUMMARY')
     print(yaml.dump(summary))
