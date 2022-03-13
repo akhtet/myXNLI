@@ -241,7 +241,15 @@ def write_dataset(my_dict):
                                 my_dict.get(sentence1, sentence1),
                                 my_dict.get(sentence2, sentence2)
                                 ]
-                        outfile.write('\t'.join(out_cols) + '\n')
+
+                        # Clean characters that will corrput the TSV format
+                        out_cols_clean = []
+                        for col in out_cols:
+                            col = col.replace('\t', '')
+                            col = col.replace('"', '')
+                            out_cols_clean.append(col)
+
+                        outfile.write('\t'.join(out_cols_clean) + '\n')
 
                     else:
                         cols[0] = 'my' # language code
