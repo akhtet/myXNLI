@@ -1,6 +1,6 @@
 6101
 Porcelain is less than furniture and silver.
-ကြွေထည်သည် ပရိဘောဂ နှင့် ငွေထက် နည်းပါးသည်။
+ကြွေထည်သည် ပရိဘောဂ နှင့် ငွေထည်ထက် နည်းပါးသည်။
 
 6102
 Porcelain used to be even more than 122.
@@ -8,7 +8,7 @@ Porcelain used to be even more than 122.
 
 6103
 Porcelain was more than furniture and silver.
-ကြွေထည်က ပရိဘောဂ နဲ့ ငွေထက် ပိုများခဲ့သည်။
+ကြွေထည်က ပရိဘောဂ နဲ့ ငွေထည်ထက် ပိုများခဲ့သည်။
 
 6104
 10000 people lived in Europe in the Stone Age.
@@ -28,11 +28,11 @@ Pok-Ta-Pok has 18 holes of golf to play.
 
 6108
 Pok-Ta-Pok is just a basketball court.
-ပေါ့-တ-ပေါ့သည် ဘတ်စကတ် ဘောကွင်း တစ်ခု သာ ဖြစ်သည်။
+ပေါ့-တ-ပေါ့သည် ဘတ်စကတ်ဘောကွင်း တစ်ခု သာ ဖြစ်သည်။
 
 6109
 Pok-Ta-Pok was played by all the most famous golfers.
-ပေါ့-တ-ပေါ့သည် အကျော်ကြားဆုံး ဂေါက်သီးသမားများ အားလုံးက ပါဝင်ကစားခဲ့သည်။
+ပေါ့-တ-ပေါ့သည် အကျော်ကြားဆုံး ဂေါက်ကစားသမားများ အားလုံးက ပါဝင်ကစားခဲ့သည်။
 
 6110
 Dam Square didn't used to be landlocked.
