@@ -8,8 +8,7 @@ Indeed, one of the interesting features of technology graphs is that they consti
 
 703
 This was the temper of the times.
-ဒါက ခေတ်ရဲ့ စိတ်အခြေအနေပဲ။
-#Review
+ဒါကတော့ ခေတ်ရဲ့ စိတ်သဘောထားပဲ။
 
 704
 The pachuco was disdained in the U.S. by both the Mexican American and Anglo communities, and likewise in Mexico by the media and the intellectuals.
@@ -46,8 +45,9 @@ If so, only natural selection can have tuned it thus.
 
 712
 In the fitness landscape, image, mutation, recombination, and selection can conspire to pull evolving populations upward toward the peaks of high fitness.
-ဆင့်ကဲဖြစ်စဉ်နှင့် ဆန်းသစ်တီထွင်မှုတို့ မည်သို့လုပ်ဆောင်ကြောင်း ရှာဖွေဖော်ထုတ်ခြင်းတွင် ရုပ်ပုံ၊ ဗီဇပြောင်းလဲခြင်း၊ ပြန်လည်ပေါင်းစပ်ခြင်းနှင့် ရွေးချယ်ခြင်းတို့သည် ဆင့်ကဲဖြစ်စဉ် အထွတ်အထိပ်သို့ ရောက်ရှိဖို့ရန်အတွက် ဆင့်ကဲတိုးတက်နေသောလူဦးရေကို ဆွဲထုတ်ရန် တရားမဝင်ပူးပေါင်းလုပ်ဆောင်နိုင်သည်။
-#Review
+ကြံ့ခိုင်မှုနယ်ပယ်တွင်၊ ရုပ်ပုံ၊ ဗီဇပြောင်းလဲခြင်း၊ ပြန်လည်ပေါင်းစပ်ခြင်းနှင့် ရွေးချယ်ခြင်းတို့သည် ဆင့်ကဲတိုးတက်နေသောလူဦးရေကို ကြံ့ခိုင်မှုအထွတ်အထိပ်သို့ ရောက်ရန်အတွက် ပူးပေါင်းဆောင်ရွက်စေနိုင်သည်။
+# 
+# ဆင့်ကဲဖြစ်စဉ်နှင့် ဆန်းသစ်တီထွင်မှုတို့ မည်သို့လုပ်ဆောင်ကြောင်း ရှာဖွေဖော်ထုတ်ခြင်းတွင် ရုပ်ပုံ၊ ဗီဇပြောင်းလဲခြင်း၊ ပြန်လည်ပေါင်းစပ်ခြင်းနှင့် ရွေးချယ်ခြင်းတို့သည် ဆင့်ကဲဖြစ်စဉ် အထွတ်အထိပ်သို့ ရောက်ရှိဖို့ရန်အတွက် ဆင့်ကဲတိုးတက်နေသောလူဦးရေကို ဆွဲထုတ်ရန် တရားမဝင်ပူးပေါင်းလုပ်ဆောင်နိုင်သည်။
 
 713
 On Christmas Day children went knocking on doors and visiting homes, asking for and receiving candy or small toys.
@@ -119,8 +119,7 @@ Once established, neurons begin to take on unique functions by sending out branc
 
 730
 In 1863 the nation still desired to create  a more perfect Union,  but it had in addition a past that both inspired and troubled the newly indigenous psyche.
-၁၈၆၃ခုနှစ်တွင် နိုင်ငံသည် ပိုမိုပြီးပြည့်စုံသော ပြည်ထောင်စုကို ထူထောင်လိုသေးသော်လည်း အဲဒါအပြင် အသစ်စက်စက် တိုင်းရင်းသား စိတ်ဓာတ်ကို နှိုးဆွပေးပြီး နှောက်ယှက်စေသည့် အတိတ် တစ်ခု ရှိခဲ့သည်။
-#Review
+၁၈၆၃ ခုနှစ်တွင် နိုင်ငံတော်သည် ပိုမိုပြီးပြည့်စုံသော ပြည်ထောင်စုကို ထူထောင်လိုသေးသော်လည်း၊ ထို့အပြင် သစ်လွင်သော ‌‌ဒေသခံတိုင်းရင်းသားစိတ်ဓာတ်ကို မြင့်တင်ပေးသလို အနှောက်အယှက်လဲ ဖြစ်စေသည့် အတိတ်တစ်ခု ရှိခဲ့သည်။
 
 731
 The rights attach to those suspected of crime.
@@ -232,8 +231,7 @@ There, not more than three miles away, was land--an uneven wall of vivid green t
 
 758
 I am His Majesty's envoy to these barbarous parts, and my Lord Sunderland's near kinsman.
-ကျွန်ုပ်သည် ၎င်းရိုင်းစိုင်းသော မိသားစုဝင်များ အတွက်တော့ ဘုရင်မင်းမြတ်၏ သံတမန်ဖြစ်ပြီး၊ ကျွန်ုပ်၏သခင် ဆန်းဒါးလန်း၏ ဆွေမျိုးနီးစပ်ဖြစ်သည်။
-#Review
+ကျွန်ုပ်သည် ထိုရိုင်းစိုင်းသောအပိုင်းများအတွက် ဘုရင်မင်းမြတ်၏ သံတမန်ဖြစ်ပြီး၊ ကျွန်ုပ်၏သခင် ဆန်းဒါးလန်း၏ ဆွေမျိုးနီးစပ်ဖြစ်သည်။
 
 759
 I owed it to you--or thought I did,  he said.
@@ -293,8 +291,7 @@ It's through her that we're in this trap,  Ogle stormed on.
 
 773
 She left him, and thereafter with Wolverstone, leaning upon the rail, he watched the approach of that boat, manned by a dozen sailors, and commanded by a scarlet figure seated stiffly in the stern sheets.
-သူမသည် သူ့ကို ထားသွားပြီးနောက် လက်ရန်းတွင် မှီ၍ ဝေါ့ဗာစတုန်း နှင့်အတူ သင်္ဘောသား တစ်ဒါဇင်ခန့် လိုက်ပါလာသော ထိုလှေ၏ ချဉ်းကပ်လာပုံကို ကြည့်ကာ ပဲ့တင်ပိုင်းကြမ်းပြင်ပေါ်တွင် တင်းတင်းကျပ်ကျပ် ထိုင်နေသည့် အနီရောင်ဝတ်ဆင်ထားသော လူက အမိန့်ပေးခဲ့သည်။
-#Review
+သူမသည် သူ့ကို ထားသွားပြီးနောက် ဝေါ့ဗာစတုန်း နှင့်အတူ လက်ရန်းတွင် မှီ၍  သင်္ဘောသားတစ်ဒါဇင်ခန့်ပါပြီး ပဲ့တင်ပိုင်းတွင် အနီရောင်ဝတ်ထားသောလူတစ်ဦးက မတ်မတ်ထိုင်ကာ အမိန့်ပေးနေသည့် ထိုလှေ၏ ချဉ်းကပ်လာပုံကို ကြည့်နေခဲ့သည်။
 
 774
 Your motives were no doubt worthy... your gratitude to him for delivering you from the Spaniards.
@@ -374,7 +371,8 @@ Walking leisurely, he skirted the embattled wall, and passed through the great g
 
 793
 Why do you run, then?  she asked him coolly, standing slim and straight before him, all in white and very maidenly save in her unnatural composure.
-ဒါဆို မင်းဘာလို့ပြေးတာလဲ။ သူ့ရှေ့က ပေါ့ပါးပြီး ဖြောင့်ဖြောင့်မတ်မတ်ရပ်ကာ ဖြူစင်ပြီး သဘာဝမကျတဲ့ ဣနြေ္ဒရရလေးဖြင့် ကယ်တင်ကာ သူ့ကို အေးအေးဆေးဆေး မေးလိုက်တယ်။
+ဒါဆို မင်းဘာလို့ပြေးတာလဲ။ သူမက သူ့ရှေ့မှာ မတ်မတ်ရပ်ကာ ဖြူစင်ပြီး သဘာဝမကျတဲ့ ဣနြေ္ဒရရလေးဖြင့်  သူ့ကို အေးအေးဆေးဆေး မေးလိုက်တယ်၊ 
+# ဒါဆို မင်းဘာလို့ပြေးတာလဲ။ သူ့ရှေ့က ပေါ့ပါးပြီး ဖြောင့်ဖြောင့်မတ်မတ်ရပ်ကာ ဖြူစင်ပြီး သဘာဝမကျတဲ့ ဣနြေ္ဒရရလေးဖြင့် ကယ်တင်ကာ သူ့ကို အေးအေးဆေးဆေး မေးလိုက်တယ်။
 #Review
 
 794
