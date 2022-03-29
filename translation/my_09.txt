@@ -116,8 +116,9 @@ I realize fully what you did, and I realize that partly, at least, you may have 
 
 830
 He did not trouble to rise, not even when Lord Julian, obeying the instincts of finer breeding, set him the example.
-ခေါင်းဆောင် ဂျူလီယန်တောင်မှ မမြှင့်တင်နိုင်ခဲ့ဘူး၊ ပိုကောင်းတဲ့ မွေးမြူရေး ဗီဇကို လိုက်နာရင်း၊ သူ့ကို စံနမူနာသာဓက ပြတယ်။
-#REVIEW
+သခင်ဂျူလီယန်က အမျိုးကောင်းသား ပီသစွာ နမူနာလုပ်ပြနေခဲ့တာတောင် သူက အရေးတယူ မထခဲ့ဘူး။
+# ခေါင်းဆောင် ဂျူလီယန်တောင်မှ မမြှင့်တင်နိုင်ခဲ့ဘူး၊ ပိုကောင်းတဲ့ မွေးမြူရေး ဗီဇကို လိုက်နာရင်း၊ သူ့ကို စံနမူနာသာဓက ပြတယ်။
+# REVIEW
 
 831
 I'll not be detaining you any longer, ma'am.
@@ -169,8 +170,8 @@ Aye!  roared in chorus the buccaneers below, and one or two of them elaborated t
 
 843
 You're not very civil, sir, as I have already noticed.
-မင်းက သိပ်တော်တဲ့သူ မဟုတ်ဘူး၊ ဆရာ၊ ငါ သတိထားမိပီးသားပါ။
-ငါ သိထားပြီးသား မင်းက အရမ်း ယဉ်ကျေးရည်မွန်တဲ့ သူ မဟုတ်ဘူး။
+မင်းက သိပ်‌တော့ မယဉ်ကျေးဘူး လူကြီးမင်း၊ ငါ သတိထားမိပြီးသားပါ။
+# ငါ သိထားပြီးသား မင်းက အရမ်း ယဉ်ကျေးရည်မွန်တဲ့ သူ မဟုတ်ဘူး။
 
 844
 Wait!  He swung back to face the Captain, who had placed a hand on is shoulder and was smiling, a trifle wistfully.
@@ -194,8 +195,7 @@ Captain,  he said, and as he spoke he pointed to the pursuing ships,  Colonel Bi
 
 849
 That'll cool Colonel Bishop's heat, maybe.
-ဗိုလ်မှူးကြီး ဘစ်ရှော့ရဲ့ ဒေါသပြေသွားနိူင်တယ်။
-ဗိုလ်မှူးကြီး ဘစ်ရှော့ရဲ့ အပူရှိန် ကျသွားနိုင်တယ်။
+အဲဒါကြောင့် ဗိုလ်မှူးကြီး ဘစ်ရှော့ရဲ့ ဒေါသပြေသွားနိူင်တယ်။
 
 850
 Your station is on the gun-deck.
@@ -283,12 +283,12 @@ But Blood's mind was now made up.
 
 871
 Why, as I was just telling his lordship here, who thought like you that having Miss Bishop aboard would make us safe, not for his mother would that filthy slaver forgo what's due to him.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဘာလို့လဲ၊ ကျွန်ုပ်က သခင်ကြီးကို ဒီမှာပြောနေတာ၊ သင်စဉ်းစားနေသလိုပဲ မစ်စ် ဘစ်ရှော့ပ် ကိုခေါ်လာခြင်းက ကျွန်ုပ်တို့အတွက် ဘေးကင်းစေတယ်လို့၊ သူ့အမေကြောင့်သာမဟုတ်ရင် ဒီညစ်ပတ်တဲ့ ကျွန်ကုန်သည်က သူ့ကိုပေးစရာရှိတာ ပေးမှာမဟုတ်ဘူး။ 
 #REVIEW
 
 872
 In his cabin on the starboard side Lord Julian, disturbed by the same sounds, was already astir and hurriedly dressing.
-<MYANMAR UNICODE TRANSLATION HERE>
+သင်္ဘောညာဘက်က သူ့ရဲ့အခန်းထဲတွင် သခင်ဂျူလီယန်သည် ထိုအသံများကြောင့် အနှောင့်အယှက်ဖြစ်သွားပြီး နိုးကြားနေကာ မြန်မြန်အဝတ်လဲနေသည်။ 
 #REVIEW
 
 873
@@ -321,7 +321,7 @@ And that was practically the end of the matter.
 
 880
 ‘Swounds! Perhaps you'll explain yourself? Whither has Wolverstone gone?
-ဒဏ်ရာတွေ! မင်းကိုယ်မင်း ရှင်းပြနိုင်မလား။ ဝိုလ်ဗာစတုန်းက ဘယ်ကို ထွက်သွားခဲ့တာလဲ။
+ဘုရားစူး! မင်းကိုယ်မင်း ရှင်းပြနိုင်မလား။ ဝိုလ်ဗာစတုန်းက ဘယ်ကို ထွက်သွားခဲ့တာလဲ။
 
 881
 Pitt, at his post beside the helmsman, turned intrepidly to face the excited gunner.
@@ -329,8 +329,7 @@ Pitt, at his post beside the helmsman, turned intrepidly to face the excited gun
 
 882
 Blood leaned over the rail to speak to the fair young man immediately below him by the helmsman at the whipstaff.
-<MYANMAR UNICODE TRANSLATION HERE>
-#REVIEW
+ဘလတ်ဒ်သည် သူ့အောက်တည့်တည့်ရှိ ပဲ့တိုင်ဘက် ပဲ့ထိန်းဘေးနားက အသားခပ်ဖြူဖြူငယ်တစ်ယောက်ကို စကားပြောရန် လက်ရန်းပေါ်မှီတက်လိုက်သည်။
 
 883
 The country is all, sir; the sovereign naught.

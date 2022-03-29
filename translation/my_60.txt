@@ -152,17 +152,17 @@ The Perak Tong was not built by a Buddhist.
 
 5939
 Kodaly kerend is decorate with Classical gures and inlaid motifs.
-ကိုဒလေကရန်ကို ဂန္တဝင်ဆန်သော
+ကိုဒလေကရန်ကို ဂန္တဝင်ဆန်သော ပန်းပုများနှင့် ကနုတ်ပန်းများ ဖြင့် အလှဆင်ထားသည်။
 #REVIEW (don't know the meaning of "gures"/  'Classical gures' perhaps 'Classical figures')
 
 5940
 The Kodaly Kerend is decorated with several things, including gures and motifs.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကိုဒလေကရန်ကို ပန်းပုများ ကနုတ်ပန်းများ ပါဝင်သော အရာအမျိုးမျိုးဖြင့် အလှဆင်ထားသည်။
 #REVIEW 
 
 5941
 The Kodaly kerend is not decorated with gures and motifs.
-<MYANMAR UNICODE TRANSLATION HERE>
+ကိုဒလေကရန်ကို ပန်းပုများ ကနုတ်ပန်းများဖြင့် အလှမဆင်ထားပါ။
 #REVIEW 
 
 5942

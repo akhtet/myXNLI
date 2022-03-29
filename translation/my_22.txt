@@ -108,8 +108,8 @@ Rossလိုမျိုးပဲ၊ William Shawnရဲ့ ပြောမပ�
 
 2128
 Looking for the Key to Keeping Safe (Sorry for the bad pun.)
-လုံခြုံစေရန် သော့ကို ရှာဖွေပါ (ဆိုးကျိုးဖြစ်စေသော စကားအတွက် တောင်းပန်ပါတယ်။)
-#REVIEW
+the bad pun.)
+လုံခြုံအောင်ထားနိုင်သော သော့ချက်ကို ရှာဖွေနေတယ် (စကား ပြောင်ချော်ချော်နိုင် သွားရင် တောင်းပန်ပါတယ်။)
 
 2129
 So how many readers does Slate have?
@@ -157,7 +157,7 @@ The decent and sensitive thing to do is tell the president.
 
 2140
 Now, these are not issues that ivory-tower libertarians would ignore.
-<MYANMAR UNICODE TRANSLATION HERE>
+ဒီလိုဆိုရင်တော့ ဆင်စွယ်မျှော်စင် လစ်ဘရယ်သမား တွေ ဂရုမစိုက်ပဲ နေမှာ မဟုတ်တော့ဘူး။
 #REVIEW
 
 2141
@@ -166,7 +166,7 @@ The pursuit of contributions from the high-tech community is one of the reasons 
 
 2142
 Our more aggressive respondents, excited to nail entire bodies of work in one go, bypassed books and went straight for the authors themselves.
-#REVIEW
+ကျွန်ုပ်တို့၏ ပိုမိုအားသန်သော ဖြေဆိုသူများသည် အလုပ်တစ်စုလုံးကို တစ်ခါထည်းပြောဖို့ စိတ်အားထက်သန်ကြပြီး စာအုပ်များကို ကျော်ကာ စာရေးဆရာများထံ တိုက်ရိုက်သွားကြပါသည်။
 
 2143
 The doc  3 milligrams a night is waaaaay too much.
@@ -206,8 +206,7 @@ So irradiating food seems safe, effective, and cheap.
 
 2152
 There is a difference between canny skepticism and dumbbell skepticism.
-<MYANMAR UNICODE TRANSLATION HERE>
-#REVIEW
+ထက်မြက်သော သံသယစိတ်နှင့် နလပိန်းတုံး သံသယစိတ် အကြား ခြားနားချက်တစ်ခုရှိသည်။
 
 2153
 The presence of Bugsy Siegel and Kid Twist in our recent history does not mean we are a tough people.
@@ -243,8 +242,7 @@ Soderbergh is one of those rare filmmakers who learn on the job.
 
 2161
 Which aspect of our foreign policy does Richard Clarke most fear will be abandoned--standing around while civilians are slaughtered in Rwanda or standing around while civilians are slaughtered in Kosovo?
-ရစ်ချက် ကလပ် သည် ကျွန်ုပ်တို့၏ နိုင်ငံခြားရေးပေါ်လစီ၏ မည်သည့်ရှုထောင့်မှ စွန့်ပစ်ခံရမည်ကို အကြောက်ဆုံးဖြစ်သနည်း-- ရဝမ်းဒါတွင် အရပ်သားများကို သတ်ဖြတ်နေစဉ် သို့မဟုတ် ကိုဆိုဗိုတွင် အရပ်သားများကို သတ်ဖြတ်နေချိန်တွင် အနီးအနားတွင် ရပ်နေခြင်းဖြစ်သည်။
-#REVIEW
+ကျွန်ုပ်တို့၏ နိုင်ငံခြားရေးပေါ်လစီ၏ မည်သည့်ရှုထောင့်ကို စွန့်ပစ်ခံရမည်ကို ရစ်ချက်ကလပ်က အကြောက်ဆုံးဖြစ်သနည်း-- ရဝမ်ဒါတွင် အရပ်သားများကို သတ်ဖြတ်နေစဉ် သို့မဟုတ် ကိုဆိုဗိုတွင် အရပ်သားများကို သတ်ဖြတ်နေချိန်တွင်  ရပ်ကြည့်နေခြင်းလား။
 
 2162
 The same can't be said for the New York Times. In its editorial on the cocaine controversy, the Times advised Bush to be honest, and to let the country take his measure.
@@ -280,8 +278,7 @@ Just regarding the complaint about reliance on girlfriends, though, Prudie sugge
 
 2170
 Obviously, being fairly arbitrary, many of the AFI choices may not lend themselves to sound cultural interpretation.
-<MYANMAR UNICODE TRANSLATION HERE>
-#REVIEW
+အားလုံးသိကြမည့်အတိုင်း အေအက်ဖ်အိုင် ရွေးချယ်မှုအများအပြားသည် တော်တော်လေး ဗျောက်သောက်ဖြစ်နေသောကြောင့် ယဉ်ကျေးမှုအတွင်း အဓိပ္ပာယ်ထင်မြင်ချက် ကောင်းမည်တော့ မဟုတ်ပေ။
 
 2171
 Time runs two anti-emotion articles.
@@ -377,8 +374,7 @@ Let me close by answering in advance the question that I know I'll be asked in e
 
 2194
 So in the Cuban tropics, too, there has just now been a day as beautiful as glory, cold as the tomb.
-ထို့ကြောင့် ကျူးဘားအပူပိုင်းဒေသတွင်လည်း၊
-#REVIEW
+ထို့ကြောင့် ကျူးဘားအပူပိုင်းဒေသတွင်လည်း၊ မကြာသေးခင်ကပဲ ဘုန်းတော်ရောင်ဝါ လို လှပနေသလောက် ဂူသင်္ချိုင်းလို အေးစက်လှသော နေ့ နေ့တစ်နေ့ရှိနေပြီဖြစ်သည်။
 
 2195
 Or, consider the issue of informing Congress about covert actions.

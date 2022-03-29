@@ -384,8 +384,8 @@ A month has passed since the election and still Republicans and Democrats are hi
 
 2497
 Feisty, like fizzle, began as Middle English fysten, fisten `to fart.
+Feisty သည် fizzle လိုပဲ စတင်ခဲ့သော အလယ်ပိုင်း အင်္ဂလိပ်စာ fysten, fisten `to fart.
 #REVIEW
-<MYANMAR UNICODE TRANSLATION HERE>
 
 2498
 While statement is better, answer gives the mental picture of completion.
@@ -398,4 +398,3 @@ Davidson should not adopt the pronunciation of scone to rhyme with `bone'--at an
 2500
 The average novel of 200,000 words for $25 works out at 8,000 words per dollar.
 ဒေါ်လာ ၂၅ အတွက် စကားလုံး ၂၀၀,၀၀၀ နဲ့ ဝတ္ထုရဲ့ ပျမ်းမျှ ဟာ တစ်ဒေါ်လာမှာ စကားလုံး ၈,၀၀၀ လို့ တွက်ချက်ရရှိသည်။
-

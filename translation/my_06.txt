@@ -108,7 +108,8 @@ For 4- and 5-year-olds, questions more often address narrative organization ( Wh
 
 528
 Intuitively, slightly convergent flow in state space allows classification, for when two states converge on a single successor state, those two states have been classified as  equivalent  by the network.
-တစ်နည်းအားဖြင့်၊ state space အတွင်း အသေးစား ပေါင်းစည်းမှုသည် အမျိုးအစားခွဲခြင်းကို ဖြစ်စေနိုင်သည်၊ အကြောင်းမှာ state နှစ်ခုသည် နောက်ထပ် state တစ်ခုသို့ ပေါင်းစည်းသောအခါ၊ ထို state နှစ်ခုသည် ညီမျှသည်ဟု နက်ဝပ် မှ သတ်မှတ်ထားသည်။
+ပင်ကိုယ်အားဖြင့်၊ ဖြစ်နိုင်သမျှ အခြေအနေအမျိုးမျိုး အတွင်း အသေးစား ပေါင်းစည်းမှုသည် အမျိုးအစားခွဲခြင်းကို ဖြစ်စေနိုင်သည်၊ အကြောင်းမှာ အခြေအနေ နှစ်ခုသည် နောက်ထပ် အခြေအနေ တစ်ခုသို့ ပေါင်းစည်းသောအခါ၊ ထို အခြေအနေနှစ်ခုသည် ညီမျှသည်ဟု နက်ဝပ် မှ သတ်မှတ်ထားသည်။
+#
 # ပင်ကိုယ်အားဖြင့်၊ state space မှ လားရာတူ စီးဆင်းမှုသည် အမျိုးအစားခွဲခြင်းကို ခွင့်ပြုသည်၊ အကြောင်းမှာ state နှစ်ခုသည် နောက်ထပ် state တစ်ခုသို့ ပေါင်းစည်းသောအခါ၊ ထို state နှစ်ခုကို နက်ဝပ် မှ ညီမျှသည်ဟု ခွဲခြားထားသည်။
 
 529
