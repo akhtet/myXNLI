@@ -56,7 +56,7 @@ The ten year olds know all about science.
 
 6115
 The ten year olds know what they're talking about.
-ဆယ်နှစ်သားလေးတွေက သူတို့ ဘာတွေ ပြောနေလည်းဆိုတာကို သိကြသည်။
+ဆယ်နှစ်သားလေးတွေက သူတို့ ဘာတွေ ပြောနေတယ်ဆိုတာကို သိကြသည်။
 
 6116
 The street has a giant resort.
@@ -184,7 +184,7 @@ They are decorated with sequins and stickers.
 
 6147
 They are decorated.
-သူတို့သည် အလှဆင်ကြသည်။
+သူတို့ကို အလှဆင်ကြသည်။
 
 6148
 They are totally plain.
@@ -224,7 +224,7 @@ The town is friendly.
 
 6157
 The town is so pleasant I never want to leave.
-ထို မြို့သည် သာယာလွန်းလို့ ငါ ဘယ်မှ မသွားချင်ဘူး။
+ဒီ မြို့ က သာယာလွန်းလို့ ငါ ဘယ်မှ မသွားချင်ဘူး။
 
 6158
 People like to eat meals in the garden.
