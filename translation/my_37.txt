@@ -8,7 +8,7 @@ The background check cannot get done that quickly.
 
 3603
 The background check will take over a month.
-နောက်ခံစစ်ဆေးမှုသည် တစ်လကျော်ကြာမည်။
+နောက်ခံစစ်ဆေးမှုသည် တစ်လကျော် ကြာလိမ့်မည်။
 
 3604
 They will supposedly do a background check over the next seven days.
@@ -16,11 +16,11 @@ They will supposedly do a background check over the next seven days.
 
 3605
 Flying would be a lot safer to get there.
-ပျံသန်းခြင်းက အဲဒီကိုရောက်ဖို့ ပိုလုံခြုံမယ်။
+ပျံသန်းခြင်းက အဲဒီကိုရောက်ဖို့ ပိုလုံခြုံလိမ့်မယ်။
 
 3606
 I can't wait to get off the plane and enjoy myself once we get there.
-ငါတို့ လေယာဉ်ပေါ်ကဆင်းပြီး အဲဒီကိုရောက်တာနဲ့ ပျော်ရွှင်ဖို့ ငါကိုယ်တိုင်ကို မစောင့်နိုင်တော့ဘူး။
+ငါတို့ အဲဒီကိုရောက်တာနဲ့ ချက်ချင်း ကိုယ့်ဟာကို ပျော်ရွှင်ဖို့ ငါတော့ လေယာဉ်ပေါ်ကဆင်းဖို့ မစောင့်နိုင်တော့ဘူး။
 
 3607
 I would never fly.
@@ -28,15 +28,15 @@ I would never fly.
 
 3608
 I was wrong that juries are always twelve people.
-တရား​သူကြီး​တွေအဖွဲ့​က အမြဲတမ်း လူဆယ့်နှစ်ယောက်ရှိတယ်လို့ထင်တာ ငါမှားတယ်။
+တရားသူကြီးတွေအဖွဲ့က အမြဲတမ်း လူဆယ့်နှစ်ယောက်ရှိတယ်လို့ထင်တာ ငါမှားခဲ့တယ်။
 
 3609
 The jury is always 13 people.
-တရား​သူကြီး​အဖွဲ့​က အမြဲတမ်း ၁၃ ယောက်ရှိတယ်။
+တရားသူကြီးအဖွဲ့က အမြဲတမ်း ၁၃ ယောက်ရှိတယ်။
 
 3610
 They can pick however many people they want on the jury.
-သို့သော်လည်း တရား​သူကြီး​အဖွဲ့​မှာ သူတို့ လိုချင်တဲ့ လူများစွာကို သူတို့ ရွေးချယ်နိုင်တယ်။
+သို့သော်လည်း တရားသူကြီးအဖွဲ့မှာ သူတို့ လိုချင်တဲ့ လူများစွာကို သူတို့ ရွေးချယ်နိုင်တယ်။
 
 3611
 Grand Rapids is a beautiful place.
@@ -48,7 +48,7 @@ We don't have a son.
 
 3613
 We went to Grand Rapids to see our son graduate.
-ငါတို့သားလေးဘွဲ့ရတာကိုကြည့်ဖို့ ဂရမ့်ရပ်ပစ်စ်ကို ငါတို့သွားကြတယ်။
+ငါတို့သား ဘွဲ့ရတာကိုကြည့်ဖို့ ဂရမ့်ရပ်ပစ်စ်ကို ငါတို့ သွားခဲ့ကြတယ်။
 
 3614
 She didn't care at all about credit unions.
@@ -56,7 +56,7 @@ She didn't care at all about credit unions.
 
 3615
 She was interested in credit unions.
-သူမသည် အကျိုးအမြတ်မယူတဲ့ ငွေကြေးအဖွဲ့အစည်းများကို စိတ်ဝင်စားသည်။
+သူမသည် အကျိုးအမြတ်မယူတဲ့ ငွေကြေးအဖွဲ့အစည်းများကို စိတ်ဝင်စားခဲ့သည်။
 
 3616
 She was interested in learning more about how credit unions made their money.
@@ -76,15 +76,15 @@ People never seem to just sit and talk about their problems and worries.
 
 3620
 Did you attend the camp about wilderness?
-ကန္တာရတွေထဲမှာ မင်း စခန်းချသွားဖူးလား။
+မင်း ကန္တာရတွေထဲမှာ  အပျော်စခန်းကို သွားခဲ့ဖူးလား။
 
 3621
 Did you go to the indoor camp?
-မင်း မိုးလုံလေလုံ စခန်းချသွားဖူးလား။
+မင်း မိုးလုံလေလုံ အပျော်စခန်းကို သွားဖူးလား။
 
 3622
 I thought you went to the camp.
-မင်း စခန်းချသွားတယ် ငါ ထင်တယ်။
+မင်း အပျော်စခန်းကို သွားခဲ့တယ်လို့ ငါ ထင်ခဲ့တယ်။
 
 3623
 It is slowly getting worse.
@@ -148,19 +148,19 @@ I was an English major that led me to poverty which is why I cannot stand to tou
 
 3638
 He stole the parrot.
-သူ ကြက်တူရွေးကို ခိုးတယ်။
+သူ ကြက်တူရွေးကို ခိုးခဲ့တယ်။
 
 3639
 I could not believe he paid $1800 for a parrot.
-ကြက်တူရွေးတစ်ကောင်အတွက် သူက ဒေါ်လာ တစ်ထောင့်ရှစ်ရာ ပေးတာကို ငါ မယုံနိုင်ဘူး။
+ကြက်တူရွေးတစ်ကောင်အတွက် သူက ဒေါ်လာ ၁၈၀၀ ပေးခဲ့တာကို ငါ မယုံနိုင်ဘူး။
 
 3640
 The parrot was beautiful with multiple colors.
-ကြက်တူရွေးက အရောင်မျိုးစုံနဲ့ လှတယ်။
+ကြက်တူရွေးက အရောင်မျိုးစုံနဲ့ လှပတယ်။
 
 3641
 Having a yard is not all fun and games but I do enjoy it.
-ခြံတစ်ခြံရှိခြင်းသည် အားလုံးပျော်စရာကောင်းပြီး စွန့်စားတာတွေမဟုတ်ပေမဲ့ ငါက အဲဒါတွေနဲ့ ပျော်တယ်။
+ခြံတစ်ခြံရှိခြင်းသည် ပျော်စရာကောင်းပြီး ကစားနည်းတွေ လုံးဝ မဟုတ်ပေမဲ့ ငါက အဲဒါတွေနဲ့ ပျော်တယ်။
 
 3642
 I do not wish to lose it but that is what could happen when you own a yard.
@@ -172,7 +172,7 @@ When you own your own piece of land you have nothing to lose anymore.
 
 3644
 After they tell you what to do, you go ahead and do it yourself.
-မင်းဘာလုပ်ရမယ်ဆိုတာ သူတို့ပြောပြီးတဲ့နောက် အဲဒါကို မင်းကိုယ်တိုင် သွားပြီးလုပ်ပါ။
+မင်းဘာလုပ်ရမယ်ဆိုတာ သူတို့ပြောပြီးတဲ့နောက် ၊ အဲဒါကို မင်းကိုယ်တိုင် သွားပြီးလုပ်ပါ။
 
 3645
 They don't tell you how to do it at all.
@@ -180,7 +180,7 @@ They don't tell you how to do it at all.
 
 3646
 They give decent instructions on how to go about it.
-အဲဒါကို ဘယ်လိုလုပ်မလဲဆိုတာကို သူတို့က သင့်တင့်လျောက်ပတ်သော လမ်းညွှန်ချက်များပေးသည်။
+အဲဒါကို ဘယ်လိုလုပ်မလဲဆိုတာကို သူတို့က သင့်တင့်လျောက်ပတ်သော လမ်းညွှန်ချက်များ ပေးခဲ့သည်။
 
 3647
 Minorities may have the upper advantage in this case.
@@ -200,7 +200,7 @@ I like the coverage it has because I never have time to sit and read the paper.
 
 3651
 I take at least an hour a day to read the paper just so I dont have to watch it.
-စာတမ်းကိုဖတ်ဖို့ တစ်ရက်ကို အနည်းဆုံး တစ်နာရီလောက် အချိန်ယူရတယ်ဆိုတော့ အဲဒါကို ကြည့်စရာမလိုတော့ဘူး။
+စာတမ်းကိုဖတ်ဖို့ တစ်ရက်ကို အနည်းဆုံး တစ်နာရီလောက် ငါ အချိန်ယူရတယ်ဆိုတော့ အဲဒါကို ငါ ကြည့်စရာမလိုတော့ဘူး။
 
 3652
 They cover a lot more than you will get from the paper.
@@ -216,7 +216,7 @@ It's everyone involved in the legal system.
 
 3655
 Most of the legal system is involved, a majority being that of police.
-တရားစီရင်ရေးစနစ်အများစုပါဝင်ပြီး၊ အများစုက ရဲတွေဖြစ်သည်။
+တရားစီရင်ရေးစနစ်အများစုပါဝင်ပြီး ၊ အများစုက ရဲတွေဖြစ်သည်။
 
 3656
 I am not a rap fan but I do like some of the songs they have.
@@ -236,7 +236,7 @@ From what I have come across it sounds like accomplishment.
 
 3660
 I have gathered from the meeting that things went very well.
-အစည်းအ​ဝေးမှ အရမ်းကောင်းတဲ့ အရာတွေ​ကို ငါ စုစည်းတယ်။
+အစည်းအဝေးမှ အရမ်းကောင်းတဲ့ အရာတွေကို ငါ စုစည်းခဲ့တယ်။
 
 3661
 I have heard nothing but complaints to be honest.
@@ -252,7 +252,7 @@ They need to give it time for the concrete to set before beginning any tests.
 
 3664
 Time is not needed when building something out of concrete, it dries quick and can be tested right away.
-အဲဒါက မြန်မြန်ခြောက်ပြီး ချက်ချင်း စမ်းသပ်နိုင်တော့ ကွန်ကရစ်နဲ့ တစ်ခုခုကို တည်ဆောက်တဲ့အခါ အချိန်က မလိုအပ်ဘူး။
+အဲဒါက မြန်မြန်ခြောက်ပြီး ချက်ချင်း စမ်းသပ်နိုင်တော့ ၊ ကွန်ကရစ်နဲ့ တစ်ခုခုကို တည်ဆောက်တဲ့အခါ အချိန်က မလိုအပ်ဘူး။
 
 3665
 Sometimes it is in house people who assist you.
@@ -268,7 +268,7 @@ You certainly need help if you are trying to handle X amount of dollars.
 
 3668
 At the time that I became a member there was at least twenty five hundred individuals.
-ငါအဖွဲ့ဝင်တစ်ယောက်ဖြစ်တဲ့အချိန်မှာ အနည်းဆုံး လူ နှစ်ထောင့်ငါးရာရှိတယ်။
+ငါအဖွဲ့ဝင်တစ်ယောက်ဖြစ်တဲ့အချိန်မှာ အနည်းဆုံး လူ နှစ်ထောင့်ငါးရာရှိခဲ့တယ်။
 
 3669
 I think when I joined there was at least a few people that I knew.
@@ -300,7 +300,7 @@ We are definitely going to get it to watch our local news.
 
 3676
 We don't want it because we like local news and it doesn't get local stations.
-ငါတို့ ပြည်တွင်းသတင်းများကို နှစ်သက်သောကြောင့် ငါတို့ အဲဒါကို မလိုချင်ေတာ့ အဲဒါက ပြည်တွင်း ထုတ်လွှင့်မှုဌာန တွေမှာ မရဘူး။
+ငါတို့ ပြည်တွင်းသတင်းများကို နှစ်သက်ပြီး ဒါတွေက ပြည်တွင်း ထုတ်လွှင့်မှုဌာန တွေမှာ မရသောကြောင့် ငါတို့ အဲဒါကို မလိုချင်တော့ဘူး။
 
 3677
 After he snapped out of it he seemed to be himself again.
@@ -308,11 +308,11 @@ After he snapped out of it he seemed to be himself again.
 
 3678
 He never snapped out of it.
-အဲဒီအရာထဲကနေ ဘယ်တော့မှ သူ ရုန်းမထွက်ဘူး။
+အဲဒီအရာထဲကနေ ဘယ်တော့မှ သူ ရုန်းမထွက်ခဲ့ဘူး။
 
 3679
 He was only out of it for about 2 minutes.
-သူ အဲဒီကနေ သွားတာ နှစ် မိနစ်လောက်သာ ရှိသေးတယ်။
+သူ အဲဒီကနေ သွားတာ ၂ မိနစ်လောက်သာ ရှိသေးတယ်။
 
 3680
 That problem has an easy solution.
@@ -344,11 +344,11 @@ Anderson beat out Reagan.
 
 3687
 Anderson ran against Reagan as an independent.
-အန်းဒါဆန် သည် ရေဂန် ကို တစ်သီးပုဂ္ဂလ အရွေးချယ်ခံသူတစ်ယောက်အဖြစ် ဆန့်ကျင်သည်။
+အန်းဒါဆန် သည် ရေဂန် ကို တစ်သီးပုဂ္ဂလအရွေးချယ်ခံသူတစ်ယောက်အဖြစ် ဆန့်ကျင်ခဲ့သည်။
 
 3688
 There were other independent tickets that ran as well.
-မှောင်ခိုကုန်ကူးတဲ့ တခြားသီးခြားဖြစ်သော လက်မှတ်တွေလည်း ရှိပါတယ်။
+မှောင်ခိုကုန်ကူးတဲ့ တခြားသီးခြားဖြစ်သော လက်မှတ်တွေလည်း ကောင်းစွာ ရှိခဲ့တယ်။
 
 3689
 Even if it is not required it should be done.
@@ -360,7 +360,7 @@ It is strange that the state doesn't require it.
 
 3691
 That makes sense that the state requires it.
-အဲဒါက ပြည်နယ်က လိုအပ်တယ်လို့ အဓိပ္ပာယ်ရတယ်။
+အဲဒါကို ပြည်နယ်က လိုအပ်တယ်လို့ အဓိပ္ပာယ်ရတယ်။
 
 3692
 The are more economical because they are really good on gas.
@@ -368,15 +368,15 @@ The are more economical because they are really good on gas.
 
 3693
 The gas mileage is terrible and I'm constantly paying for gas.
-ဓာတ်ငွေ့ခရီးမိုင်ေပါင်းက ကြောက်မက်ဖွယ်ကောင်းတော့ ငါက ဓာတ်ငွေ့အတွက် အဆက်မပြတ်ပေးနေရတယ်။
+ဓာတ်ငွေ့ခရီးမိုင်ပေါင်းက ကြောက်မက်ဖွယ်ကောင်းတော့ ငါက ဓာတ်ငွေ့အတွက် အဆက်မပြတ်ပေးနေရတယ်။
 
 3694
 They are also the best looking cars around.
-သူတို့သည် အနီးတစ်ဝိုက်တွင် ကြည့်အကောင်းဆုံးကားများဖြစ်ကြသည်။
+သူတို့သည် အနီးတစ်ဝိုက်တွင် ကြည့်လို့အကောင်းဆုံးကားများလည်း ဖြစ်ကြသည်။
 
 3695
 A couple years ago I studied in London for a semester.
-လွန်ခဲ့တဲ့ နှစ်နှစ်လောက်က ငါ လန်ဒန်မှာ နှစ်ဝက်စာသင်ကာလအထိ ပညာသင်တယ်။
+လွန်ခဲ့တဲ့ နှစ်နှစ်လောက်က ငါ လန်ဒန်မှာ နှစ်ဝက်စာသင်ကာလအထိ ပညာသင်ခဲ့တယ်။
 
 3696
 I have never studied abroad before.
@@ -388,7 +388,7 @@ London schools are the best.
 
 3698
 The did the same thing as everyone else.
-သူတို့က တခြားသူတွေလို တူညီတဲ့အရာတွေ လုပ်တယ်။
+သူတို့က တခြားသူတွေလို တူညီတဲ့အရာတွေ လုပ်ခဲ့တယ်။
 
 3699
 Their way of using them was much better.
@@ -396,5 +396,5 @@ Their way of using them was much better.
 
 3700
 They did things with them a little differently.
-သူတို့နဲ့ နည်းနည်းကွဲလွဲတဲ့ ကိစ္စတွေကို သူတို့ လုပ်တယ်။
+သူတို့နဲ့ နည်းနည်းကွဲလွဲတဲ့ ကိစ္စတွေကို သူတို့ လုပ်ခဲ့တယ်။
 
