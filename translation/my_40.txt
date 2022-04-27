@@ -1,6 +1,6 @@
 3901
 There is a sign to say you have an alarm.
-မင်းမှာ ဘေးအန္တရာယ် သတိပေးချက်တစ်ခုကို ပြောဖို့ သင်္ကေတ တစ်ခု ရှိတယ်။
+မင်းမှာ သတိပေးချက်တစ်ခု ရှိတာ ပြောဖို့ သင်္ကေတ တစ်ခု ရှိတယ်။
 
 3902
 I don't know and I don't care at all.
@@ -56,7 +56,7 @@ It's a felony to have a handgun in public in Texas.
 
 3915
 You can take a handgun anywhere you want in Texas!
-သေနတ် တစ်လက် ကို မင်းသွားချင်တဲ့ တက္ကဆက်ရဲ့ ဘယ်နေရာမဆို ယူသွားနိုင်တယ်။
+သေနတ် တစ်လက် ကို မင်းဆန္ဒရှိတဲ့ တက္ကဆက်ရဲ့ ဘယ်နေရာမဆို မင်း ယူသွားနိုင်တယ်။
 
 3916
 You can't carry a handgun in Texas outside of your house.
@@ -68,7 +68,7 @@ A Texas teacher died from HIV.
 
 3918
 A Texas teacher fought AIDS for a decade but finally died last year.
-တက္ကဆက်မှ ဆရာတစ်ဦးသည် AIDS ရောဂါကို ဆယ်စုနှစ်တစ်ခုကြာ တိုက်ထုတ်ခဲ့သော်လည်း နောက်ဆုံးတွင် မနှစ်က သေဆုံးသွားတယ်။
+တက္ကဆက်မှ ဆရာတစ်ဦးသည် AIDS ရောဂါကို ဆယ်စုနှစ်တစ်ခုကြာ တိုက်ထုတ်ခဲ့သော်လည်း နောက်ဆုံးတွင် မနှစ်က သေဆုံးခဲ့တယ်။
 
 3919
 I have never been to Texas.
@@ -88,19 +88,19 @@ The ushers won't let you pass.
 
 3923
 She insists that everyone use her full name.
-သူက လူတိုင်းကို သူ့နာမည် အပြည့်အစုံကို သုံးဖို့ အပြင်းအထန် တောင်းဆိုတယ်။
+သူမက လူတိုင်းကို သူမနာမည် အပြည့်အစုံကို သုံးဖို့ အပြင်းအထန် တောင်းဆိုတယ်။
 
 3924
 She is named Sam because she's a tomboy.
-သူက ယောက်ျားလျာ မို့ သူ့နာမည်ကို ဆမ် လို့ခေါ်တယ်။
+သူမက ယောက်ျားလျာ တစ်ယောက်မို့ သူမက ဆမ် လို့ နာမည်ခေါ်တယ်။
 
 3925
 She is named Sam even though it's a boy name.
-ဒါက ယောက်ျားလေး နာမည်ဖြစ်သော်လည်းဘဲ သူ့နာမည်ကို ဆမ် လို့ခေါ်တယ်။
+ဒါက ယောက်ျားလေး နာမည် တစ်ခု ဖြစ်သော်လည်းဘဲ သူမက ဆမ် လို့ နာမည်ခေါ်တယ်။
 
 3926
 I think a lot of people end up in that position, which is dire.
-လူအတော်များများ ကြောက်စရာကောင်းတဲ့ ဒီနေရာမှာ အဆုံးသတ်သွားတယ် လို့ ငါထင်တယ်။
+လူအတော်များများ ကြောက်စရာကောင်းတဲ့ ၊ ဒီနေရာမှာ အဆုံးသတ်သွားတယ် လို့ ငါထင်တယ်။
 
 3927
 I think everyone is doing great and have no worries!
@@ -108,7 +108,7 @@ I think everyone is doing great and have no worries!
 
 3928
 I think people end up with no retirement savings, which is terrible.
-လူတွေက အငြိမ်းစား စုဆောင်းငွေ မရှိဘဲ ဆိုးဆိုးရွားရွား အဆုံးသတ်သွားတယ်လို့ ငါထင်တယ်။
+လူတွေက အငြိမ်းစား စုဆောင်းငွေ မရှိဘဲ ၊ ဆိုးဆိုးရွားရွား အဆုံးသတ်သွားတယ်လို့ ငါထင်တယ်။
 
 3929
 I try not to go outside the corporation because I like to save money.
@@ -124,15 +124,15 @@ If you got beyond your corporation it will cost you a lot of money.
 
 3932
 I am eager for that!
-ဒါအတွက် ငါ စိတ်အားထက်သန်တယ်။
+ဒါအတွက် ငါ စိတ်အားထက်သန်တယ်!
 
 3933
 I am really dreading it, to be honest.
-ရိုးရိုးသားသား ပြောရရင် ငါ တကယ်ကို ကြောက်တယ်။
+ရိုးရိုးသားသား ပြောရရင် ၊ ငါ တကယ်ကို ကြောက်တယ်။
 
 3934
 I'm anxious to talk to you next week!
-နောက်တစ်ပတ် မင်းကို စကားပြောဖို့ ငါ စိုးရိမ်သောက ရောက်နေတယ်။
+နောက်တစ်ပတ် မင်းကို စကားပြောဖို့ ငါ စိုးရိမ်သောက ရောက်နေတယ်!
 
 3935
 I don't own any electronics.
@@ -148,7 +148,7 @@ I have two computers in my house.
 
 3938
 I never eat salad- gross!
-ငါ အသုတ် မစားဖူးဘူး။
+ငါ အသုတ် မစားဖူးဘူး!
 
 3939
 I occasionally like to eat a vegetarian salad on the deck.
@@ -176,7 +176,7 @@ Texas Instruments has a lot of secret projects.
 
 3945
 Texas Instruments makes bombs that are top-secret.
-တက္ကဆက် တူရိယာ များတွင် ထိပ်တန်း လျှို့ဝှက်ချက်ဖြစ်သော ဗုံးများ ပြုလုပ်သည်။
+တက္ကဆက် တူရိယာ များက ထိပ်တန်း လျှို့ဝှက်ချက်ဖြစ်သော ဗုံးများ ပြုလုပ်သည်။
 
 3946
 Texas Instruments only makes calculators.
@@ -188,7 +188,7 @@ It's very safe and therea re no problems.
 
 3948
 That highway is so scary, with accidents occuring every day.
-ဒီအဝေးပြေးလမ်းမကြီးက နေ့တိုင်း မတော်တဆ ထိခိုက်မှု တွေ ဖြစ်ပွားနေလို့ တော်တော်ကြောက်ဖို့ကောင်းတယ်။
+ဒီအဝေးပြေးလမ်းမကြီးက နေ့တိုင်း မတော်တဆ ထိခိုက်မှု တွေ ဖြစ်ပွားနေလို့ ၊ တော်တော်ကြောက်ဖို့ကောင်းတယ်။
 
 3949
 There are a lot of accidents there.
@@ -244,7 +244,7 @@ You are comfortable with that decision.
 
 3962
 I spend more than $200 every time I go to the doctor.
-ဒေါက်တာဆီ သွားတဲ့ အချိန်တိုင်း ငါ ဒေါ်လာ ၂၀၀ ကျော် ကုန်တယ်။
+ဒေါက်တာဆီ သွားတဲ့ အချိန်တိုင်း ငါ $ ၂၀၀ ကျော် ကုန်တယ်။
 
 3963
 My health care is always free!
@@ -260,7 +260,7 @@ Computer and cognitive science.
 
 3966
 Environmenal science as well.
-သဘာဝ ပတ်ဝန်းကျင်ဆိုင်ရာ သိပ္ပံပညာ လည်းဘဲ
+သဘာဝပတ်ဝန်းကျင်ဆိုင်ရာ သိပ္ပံပညာ လည်းဘဲ
 
 3967
 Math and literature.
@@ -288,7 +288,7 @@ They have no idea how much money they're getting.
 
 3973
 They know that they are making $2903 a month.
-သူတို့ တစ်လကို ဒေါ်လာ နှစ်ထောင့်ကိုးရာ့သုံးဒေါ်လာ ရတာ သူတို့သိတယ်။
+သူတို့ တစ်လကို $ ၂၉၀၃ ရတာ သူတို့သိတယ်။
 
 3974
 It is amusing but we have just about an acre.
@@ -304,7 +304,7 @@ We think it is hilarious because it looks more like three acres of land.
 
 3977
 Our actions prevent them from improving.
-ငါတို့ အရေးယူဆောင်ရွက်မှုတွေက သူတို့ တိုးတက်လာခြင်းကို တားဆီးတယ်။
+ငါတို့ရဲ့ အရေးယူဆောင်ရွက်မှုတွေက သူတို့ကို တိုးတက်လာခြင်းမှ တားဆီးတယ်။
 
 3978
 We are encouraging them and uplifting them every day.
@@ -316,11 +316,11 @@ We make it so poor people can't succeed in our society.
 
 3980
 Once the students leave, the school won't have after school activities anymore.
-ကျောင်းသားတွေ ထွက်သွားတာနဲ့ ကျောင်းမှာ ကျောင်းလှုပ်ရှားမှုတွေ မရှိတော့ဘူး။
+ကျောင်းသားတွေ ထွက်သွားတာနဲ့ ၊ ကျောင်းမှာ ကျောင်း လှုပ်ရှားမှုတွေ မရှိတော့ဘူး။
 
 3981
 Once they leave, the activities will too.
-သူတို့ ထွက်သွားတာနဲ့ လှုပ်ရှားမှုတွေလည်း များလာမယ်။
+သူတို့ ထွက်သွားတာနဲ့ ၊ လှုပ်ရှားမှုတွေလည်း များလာမယ်။
 
 3982
 They'll stay and things will be just like they always have been
@@ -328,7 +328,7 @@ They'll stay and things will be just like they always have been
 
 3983
 It's a very serious new show.
-ဒါက အလွန် လေးနက်တဲ့ ဖျော်ဖြေပွဲ အသစ် ဖြစ်တယ်။
+ဒါက အလွန် လေးနက်တဲ့ ဖျော်ဖြေပွဲ အသစ် တစ်ခု ဖြစ်တယ်။
 
 3984
 It's like soap opera show.
@@ -336,7 +336,7 @@ It's like soap opera show.
 
 3985
 The show is a lot like Days of Our lives.
-ဖျော်ဖြေပွဲက ငါတို့ဘဝနေ့ရက်များနဲ့ အများကြီးတူတယ်။
+ဖျော်ဖြေပွဲက ငါတို့ဘဝ၏ နေ့ရက်များနဲ့ အများကြီးတူတယ်။
 
 3986
 I don't believe in any type of afterlife.
@@ -348,15 +348,15 @@ I think most people who die come back as animals.
 
 3988
 If I die, I always believe I will be reincarnated as a dog.
-ငါသေရင် ခွေးတစ်ကောင် အဖြစ် ပြန် ဝင်စားလိမ့်မယ်လို့ ငါ အမြဲတမ်း ယုံကြည်တယ်။
+ငါသေရင် ၊ ခွေးတစ်ကောင် အဖြစ် ပြန် ဝင်စားလိမ့်မယ်လို့ ငါ အမြဲတမ်း ယုံကြည်တယ်။
 
 3989
 I thought they should cut the food expenditures and not books.
-စာအုပ်တွေ မဟုတ်ဘဲ အစားအသောက် အသုံးစရိတ်တွေအတွက် ဖြတ်သင့်တယ်လို့ ငါ ထင်တယ်။
+သူတို့က စာအုပ်တွေ မဟုတ်ဘဲ အစားအသောက် အသုံးစရိတ်တွေ အတွက် ဖြတ်သင့်တယ်လို့ ငါ ထင်တယ်။
 
 3990
 I was going to suggest other cuts.
-ငါ တခြား ဖြတ်တောက်တွေ ကို အကြံပြုနေတယ်။
+ငါ တခြား ဖြတ်တောက်မှုတွေ ကို အကြံပြုနေတယ်။
 
 3991 
 There is just nothing else they can cut!
@@ -364,15 +364,15 @@ There is just nothing else they can cut!
 
 3992
 I have nothing relative to camping.
-စခန်းချခြင်းနှင့် ပတ်သက်ပြီး ငါ့မှာဘာမှမရှိဘူး။
+စခန်းသွင်းခြင်းနှင့် ပတ်သက်ပြီး ငါ့မှာဘာမှမရှိဘူး။
 
 3993
 I would like to go camping.
-ငါ အပျော်စခန်းချ သွားချင်တယ်။
+ငါ အပျော်စခန်းသွင်းခရီး သွားချင်တယ်။
 
 3994
 My only relative experience related to camping would be car racing that my husband does.
-အပျော်စခန်းချခရီးထွက်ခြင်းနဲ့ ပတ်သက်လို့ ငါ့ ရဲ့ ဆက်စပ်တဲ့ တစ်ခုတည်းသော အတွေ့အကြုံက ငါ့ ယောက်ျား ပြိုင်ခဲ့တဲ့ ကားပြိုင်ပွဲ ဖြစ်တယ်။
+အပျော်စခန်းသွင်းခရီးထွက်ခြင်းနဲ့ ပတ်သက်လို့ ငါ့ ရဲ့ ဆက်စပ်တဲ့ တစ်ခုတည်းသော အတွေ့အကြုံက ငါ့ ယောက်ျား ပြိုင်ခဲ့တဲ့ ကားပြိုင်ပွဲ ဖြစ်တယ်။
 
 3995
 I hear we are getting some rain this week.
@@ -380,7 +380,7 @@ I hear we are getting some rain this week.
 
 3996
 I hope it doesn't get too cold and stays a bit warm, except for some snow on Christmas Eve.
-ခရစ္စမတ် အကြိုရက်မှာ နှင်းတချို့ကျတာကလွဲလို့ အများကြီး မအေးဘဲ နည်းနည်းနွေးထွေးဖို့ ငါ မျှော်လင့်တယ်။
+ခရစ္စမတ် အကြိုရက်မှာ နှင်းတချို့ကျတာကလွဲလို့ ၊ အများကြီး မအေးဘဲ နည်းနည်းနွေးထွေးဖို့ ငါ မျှော်လင့်တယ်။
 
 3997
 I wish a blizzard would come through.
