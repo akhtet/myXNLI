@@ -40,7 +40,7 @@ My grandpa was the nicest guy you'll ever meet!
 
 2711
 We had no training with anyone.
-ကျွန်တော်တို့ ဘယ်သူနဲ့မ လေ့ကျင့်မှု မရှိခဲ့ဘူး။
+ကျွန်တော်တို့ ဘယ်သူနဲ့မှ လေ့ကျင့်မှု မရှိခဲ့ဘူး။
 
 2712
 We trained for 5 weeks with the British.
@@ -224,11 +224,11 @@ Military units aren't allowed to be TX Ambassadors.
 
 2757
 The military unit was named TX Ambassadors to the US Congress.
-စစ်တပ် ယူနစ် ကို ယူအက်စ် ကွန်ဂရက် သို့ တီအိတ်စ် သံအမတ်များအဖြစ် ခန့်အပ်ခဲ့တယ်။
+စစ်တပ် ဌာန ကို ယူအက်စ် ကွန်ဂရက် သို့ တီအိတ်စ် သံအမတ်များအဖြစ် ခန့်အပ်ခဲ့တယ်။
 
 2758
 The military unit was named TX Ambassadors.
-စစ်တပ် ယူနစ် ကို တီအိတ်စ် သံအမတ်များ အဖြစ် ခန့်အပ်ခဲ့တယ်။
+စစ်တပ် ဌာန ကို တီအိတ်စ် သံအမတ်များ အဖြစ် ခန့်အပ်ခဲ့တယ်။
 
 2759
 I could do something.
@@ -260,7 +260,7 @@ Everyone in the house was moping because they missed Joe so much.
 
 2766
 Everyone was so happy!
-လူတိုင်း အလွန် ပျော်ရွှင်ခဲ့ကြတယ်။
+လူတိုင်း အလွန် ပျော်ရွှင်ခဲ့ကြတယ်!
 
 2767
 Joe died and it was really depressing.
@@ -276,7 +276,7 @@ I called the number when I arrived at her house.
 
 2770
 I was supposed to call, but I didn't.
-ငါ ဖုန်းခေါ်မယ် ထင်ရပေမယ့် ငါ မလုပ်ခဲ့ဘူး။
+ငါ ဖုန်းခေါ်မယ် ထင်ရပေမယ့် ၊ ငါ မလုပ်ခဲ့ဘူး။
 
 2771
 I didn't go today so I didn't see him.
@@ -288,7 +288,7 @@ I showed up at the gym today and he came in later and said hi.
 
 2773
 I showed up this morning and he came, too.
-ဒီ မနက် ငါ ရောက်ခဲ့ပြီး သူလည်း ရောက်ခဲ့တယ်။
+ဒီ မနက် ငါ ရောက်ခဲ့ပြီး သူလည်း ၊ ရောက်ခဲ့တယ်။
 
 2774
 We didn't know where the group was traveling on the interstate.
@@ -356,7 +356,7 @@ It was a tropical rainforest.
 
 2790
 There was a lot of scrubbby foilage in the area.
-အဲ့ဒီ နေရာမှာ ချုံတောများဖုံးလွှမ်းနေတဲ့ သစ်ရွက်ခြောက်များ ရှိတယ်။
+အဲ့ဒီ နေရာမှာ ချုံတောများဖုံးလွှမ်းနေတဲ့ သစ်ရွက်ခြောက် အများအပြား ရှိတယ်။
 
 2791
 There were tumbleweeds blowing across the runway.
@@ -380,7 +380,7 @@ That screw can hurt someone's lungs.
 
 2796
 The screw carries no risks, so tighten it as much as you want.
-ဝက်အူ က အန္တရာယ်မရှိပါဘူး ဒါကြောင့် မင်း ကြိုက်သလောက် အဲ့ဒါကို တင်းကျပ်ပါ။
+ဝက်အူ က အန္တရာယ်မရှိပါဘူး ၊ ဒါကြောင့် မင်း ကြိုက်သလောက် အဲ့ဒါကို တင်းကျပ်ပါ။
 
 2797
 The screw goes into the trachea and can hurt the lungs.
@@ -388,7 +388,7 @@ The screw goes into the trachea and can hurt the lungs.
 
 2798
 I got sent to Del Rio, Texas for work.
-ကျွန်တော် အလုပ်အတွက် ဒယ်ရီယို တက္ကဆက် ကို ပို့ခံခဲ့ရတယ်။
+ကျွန်တော် အလုပ်အတွက် ဒယ်ရီယို  ၊ တက္ကဆက် ကို ပို့ခံခဲ့ရတယ်။
 
 2799
 I have never been to texas.
@@ -396,5 +396,4 @@ I have never been to texas.
 
 2800
 The Air Force sent me to Del Rio, Tx in 2001.
-၂၀၀၁ မှာ လေတပ်က ကျွန်တော့်ကို ဒယ်ရီယိုကို ပို့ခဲ့တယ်။
-
+၂၀၀၁ မှာ လေတပ်က ကျွန်တော့်ကို ဒယ်ရီယို  ၊ တက္ကဆက် ကို ပို့ခဲ့တယ်။
