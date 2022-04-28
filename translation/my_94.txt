@@ -4,11 +4,11 @@ The introduction contains an explanation.
 
 9302
 He does not know which side to pick, between his two friends.
-သူ့သူငယ်ချင်းနှစ်ယောက်ကြားမှာ ဘယ်ဘက်ကိုရွေးရမှန်း သူ မသိဘူး။
+သူ့သူငယ်ချင်းနှစ်ယောက်ကြားမှာ ၊ ဘယ်ဘက်ကိုရွေးရမှန်း သူ မသိဘူး။
 
 9303
 He only has one encounter, which involves a friend of his.
-သူ့မှာ သူ့သူငယ်ချင်းတစ်ယောက် ပါဝင်ပတ်သက်သော တွေ့ဆုံမှုတစ်ခုသာရှိတယ်။
+သူ့မှာ သူ့သူငယ်ချင်းတစ်ယောက် ပါဝင်ပတ်သက်သော ၊ တွေ့ဆုံမှုတစ်ခုသာရှိတယ်။
 
 9304
 The second time the encounter involves three people.
@@ -20,7 +20,7 @@ Nebraska doesn't have any cities with funny names.
 
 9306
 Surprise Nebraska has 10,000 residents.
-အံ့ဖွယ်ကောင်းသော နဘရာစကာ တွင် အတည်တကျ နေထိုင်သူ တစ်သောင်း ရှိသည်။
+အံ့ဖွယ်ကောင်းသော နဘရာစကာ တွင် အတည်တကျ နေထိုင်သူ ၁၀,၀၀၀ ရှိသည်။
 
 9307
 Surprise is a town in Nebraska.
@@ -28,11 +28,11 @@ Surprise is a town in Nebraska.
 
 9308
 Do you have a preference for math or science?
-သင်္ချာ သို့မဟုတ် သိပ္ပံပညာ ပြီးရင် အကြိုက်ဆုံးအရာ တစ်ခု ရှိပါသလား။
+သင်္ချာ သို့မဟုတ် သိပ္ပံပညာ မှာ အကြိုက်ဆုံးအရာ တစ်ခု ရှိပါသလား။
 
 9309
 What do you hate more, english or philosophy?
-အင်္ဂလိပ် သို့မဟုတ် ဒဿနိကမှာ မင်း ဘာကို ပိုမုန်းသလဲ။
+အင်္ဂလိပ် သို့မဟုတ် ဒဿနိကမှာ ၊ မင်း ဘာကို ပိုမုန်းသလဲ။
 
 9310
 You can like other things other than math and science.
@@ -88,7 +88,7 @@ The meaning may change when attempting to make a statement longer.
 
 9323
 Anglo-Saxon input is very important.
-အန်န်ဂလို ဆက်ဇ်ဇွန် ထည့်သွင်းမှုသည် အလွန်အရေးကြီးသည်။
+အန်န်ဂလို-ဆက်ဇ်ဇွန် ထည့်သွင်းမှုသည် အလွန်အရေးကြီးသည်။
 
 9324
 M. Tesniares did not consider Anglo Saxon input.
@@ -96,7 +96,7 @@ M. Tesniares did not consider Anglo Saxon input.
 
 9325
 M. Tesniares performs Anglo-Saxon input.
-အမ်ဒေါ့ တက်စ်နီယားရက်စ် သည် အန်န်ဂလို ဆက်ဇ်ဇွန် အဆိုပြုမှုကို လုပ်ဆောင်သည်။
+အမ်ဒေါ့ တက်စ်နီယားရက်စ် သည် အန်န်ဂလို-ဆက်ဇ်ဇွန် အဆိုပြုမှုကို လုပ်ဆောင်သည်။
 
 9326
 Applying heat to a person's head is a good way to improve their focus and concentration.
@@ -108,7 +108,7 @@ Excessive heat can cause dizziness in some cases.
 
 9328
 Today it was five degrees above the seasonal average.
-ယနေ့ ပျမ်းမျှအားဖြင့်ရာသီအလိုက်ထက် ငါးဒီဂရီ ငါးဒီဂရီဖြစ်ခဲ့သည်။
+ယနေ့ ပျမ်းမျှအားဖြင့်ရာသီအလိုက်ထက် ငါးဒီဂရီဖြစ်ခဲ့သည်။
 
 9329
 Many other professions think highly of themselves.
@@ -276,7 +276,7 @@ Ouguiya is translated a 'kilogram' and is used only as a unit of weight measurem
 
 9370
 The is an connection between the names of money and the names of weights.
-ငွေကြေးနာမည်များ နှင့် အလေးချိန်နာမည်များ တို့၏ ကြားမှာ ဆက်စပ်မှု တစ်ခု ရှိသည်။ 
+ငွေကြေးနာမည်များ နှင့် အလေးချိန်နာမည်များ ၏ ကြားမှာ ဆက်စပ်မှု တစ်ခု ရှိသည်။ 
 
 9371
 Allusions to places and people can be used to convey ideas privately.
@@ -332,7 +332,7 @@ Of late there has been an increase in the noise levels in the school patios.
 
 9384
 There are fewer students in the school patios, and therefore less noise.
-ကျောင်းဟင်းလင်းပြင်မှာ ကျောင်းသားတွေနည်းပါးသောကြောင့် ဆူညံသံနည်းပါးသည်။
+ကျောင်းဟင်းလင်းပြင်မှာ ကျောင်းသားတွေနည်းပါးသောကြောင့် ၊ ဆူညံသံနည်းပါးသည်။
 
 9385
 There is much less noise in the school patios lately.
@@ -340,11 +340,11 @@ There is much less noise in the school patios lately.
 
 9386
 In Julius Caesar, the term good brother is used.
-ဂျူးလိယက်ဆီဇာ တွင် ညီအစ်ကိုကောင်းဟူသော ဝေါဟာရ အသုံးအနှုန်း ကို အသုံးပြုသည်။
+ဂျူးလိယက်ဆီဇာ တွင် ၊ ညီအစ်ကိုကောင်းဟူသော ဝေါဟာရ အသုံးအနှုန်း ကို အသုံးပြုသည်။
 
 9387
 The term good brother has only been used since the 20th Century.
-ညီအစ်ကိုကောင်းဟူသော ဝေါဟာရ အသုံးအနှုန်း ကို နှစ်ဆယ် ရာစုကတည်းက အသုံးပြုသည်။
+ညီအစ်ကိုကောင်းဟူသော ဝေါဟာရ အသုံးအနှုန်း ကို ၂၀ ရာစုကတည်းက အသုံးပြုသည်။
 
 9388
 The term good brother is used to refer to a brother in law.
@@ -364,11 +364,11 @@ This edition sold more than five hundred thousand copies in its first year.
 
 9392
 Britain has many distinctive English dialects, numbering more than those in North America.
-ဗြိတိန်တွင် ကွဲပြားသော အင်္ဂလိပ် ဒေသိယစကားများ အများအပြားရှိပြီး မြောက်အမေရိကရှိ အရေအတွက်ထက် ပိုများသည်။
+ဗြိတိန်တွင် ကွဲပြားသော အင်္ဂလိပ် ဒေသိယစကားများ အများအပြားရှိပြီး ၊ မြောက်အမေရိကရှိ အရေအတွက်ထက် ပိုများသည်။
 
 9393
 North American and British dialects are exactly the same, and people can't distinguish any difference between them.
-မြောက်အမေရိကနှင့် ဗြိတိသျှ ဒေသိယစကားတို့သည် အတိအကျတူညီကြပြီး သူတို့ကြားမှာ မည်သည့်ခြားနားချက်ကိုမှ လူများက မခွဲခြားနိုင်ဘူး။
+မြောက်အမေရိကနှင့် ဗြိတိသျှ ဒေသိယစကားတို့သည် အတိအကျတူညီကြပြီး ၊ သူတို့ကြားမှာ မည်သည့်ခြားနားချက်ကိုမှ လူများက မခွဲခြားနိုင်ဘူး။
 
 9394
 People from North America have a hard time understanding half of the spoken British dialects.
@@ -384,7 +384,7 @@ We felt obligated to eat what was put before us because we didn't want to offend
 
 9397
 We reluctantly ate what was given to us, even though we didn't like the looks of it.
-အဲဒါရဲ့ အသွင်အပြင်တွေကို ငါတို့ မကြိုက်သော်လည်း ငါတို့က ငါတို့ကို ပေးတာကို စိတ်ပျက်လက်ပျက် စားကြတယ်။
+အဲဒါရဲ့ အသွင်အပြင်တွေကို ငါတို့ မကြိုက်သော်လည်း ၊ ငါတို့က ငါတို့ကို ပေးတာကို စိတ်ပျက်လက်ပျက် စားကြတယ်။
 
 9398
 I know exactly how old young people are.
