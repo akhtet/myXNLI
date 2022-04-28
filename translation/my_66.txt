@@ -8,7 +8,7 @@ Postal density impacts delivery costs more than volume.
 
 6503
 It's ideal to be focused on profit and not customers.
-ဖောက်သည် တွေ မဟုတ်ဘဲ အမြတ်ပေါ်တွင် အာရုံစိုက်တဲ့ အခါမှာ စံပြ ဖြစ်နေ ရမယ်။
+ဖောက်သည် တွေ မဟုတ်ဘဲ အမြတ်ပေါ်တွင် အာရုံစိုက်စေရန် စံပြ ဖြစ်နေ ရမယ်။
 
 6504
 Partners can be customer-focused in their business.
@@ -80,7 +80,7 @@ The LSC will review this plan within an allotted ninety day time period.
 
 6521
 We are requesting the $3billion we need.
-ငါတို့ လိုအပ်နေတဲ့ ဒေါ်လာ သုံး ဘီလီယံ ကို ငါတို့ တောင်းဆိုနေပါတယ်။
+ငါတို့ လိုအပ်နေတဲ့ $ ၃ ဘီလီယံ ကို ငါတို့ တောင်းဆိုနေပါတယ်။
 
 6522
 We are requesting the money we need for this year.
@@ -88,7 +88,7 @@ We are requesting the money we need for this year.
 
 6523
 We didn't ask for any money this year.
-ဒီနှစ် ဘယ် ငွေမှ ငါတို့ မတောင်းခံဘူး။
+ဒီနှစ် ဘယ် ငွေမှ ငါတို့ မတောင်းခံခဲ့ဘူး။
 
 6524
 Electroshock therapy is the only intervention permitted for any patient.
@@ -104,7 +104,7 @@ There are several types of interventions that might suit each ED.
 
 6527
 Mercury can't be above 10 ppm.
-မာကျူရီ သည် တစ်ဆယ် ပီပီအမ် အထက် မရှိနိုင်ပါ။
+မာကျူရီ သည် ၁၀ ပီပီအမ် အထက် မရှိနိုင်ပါ။
 
 6528
 Mercury has allowances that are set.
@@ -116,7 +116,7 @@ There are no rules about mercury.
 
 6530
 The device helps companies make 10 subsidiaries each.
-စက်ပစ္စည်း သည် ကုမ္ပဏီများကို လုပ်ငန်းခွဲ ဆယ်ခု စီ ပြုလုပ်ပေးရန် ကူညီသည်။
+စက်ပစ္စည်း သည် ကုမ္ပဏီများကို လုပ်ငန်းခွဲ ၁၀ စီ ပြုလုပ်ပေးရန် ကူညီသည်။
 
 6531
 The device helps companies make subsidiaries.
@@ -140,15 +140,15 @@ Chavez's case was about tea parties.
 
 6536
 Social insurance doesn't include programs that are just for federal workers because of a law that was passed.
-လူမှု အာမခံ တွင် ပြဌာန်းထားသော ဥပဒေ များ ကြောင့် ဖက်ဒရယ် အလုပ်သမားများအတွက်သာ ဖြစ်သော အစီအစဉ် များ မပါဝင်ပါ။
+လူမှုရေးဆိုင်ရာ အာမခံမှု တွင် ပြဌာန်းထားသော ဥပဒေ များ ကြောင့် ဖက်ဒရယ် အလုပ်သမားများအတွက်သာ ဖြစ်သော အစီအစဉ် များ မပါဝင်ပါ။
 
 6537
 Social insurance doesn't include programs that are just for federal workers.
-လူမှု အာမခံ တွင် ဖက်ဒရယ် အလုပ်သမားများအတွက်သာ ဖြစ်သော အစီအစဉ် များ မပါဝင်ပါ။
+လူမှုရေးဆိုင်ရာ အာမခံမှု တွင် ဖက်ဒရယ် အလုပ်သမားများအတွက်သာ ဖြစ်သော အစီအစဉ် များ မပါဝင်ပါ။
 
 6538
 Social insurance only includes programs that are just for federal workers.
-လူမှု အာမခံ တွင် ဖက်ဒရယ် အလုပ်သမားများအတွက်သာ ဖြစ်သော အစီအစဉ် များ ပါဝင်ပါသည်။
+လူမှုရေးဆိုင်ရာ အာမခံမှု တွင် ဖက်ဒရယ် အလုပ်သမားများအတွက်သာ ဖြစ်သော အစီအစဉ် များ ပါဝင်ပါသည်။
 
 6539
 The list just says who bought the item.
@@ -164,7 +164,7 @@ The list tells who approved the voucher.
 
 6542
 The lending fund doesn't get all the interest in some cases, so they have to make it up in other ways.
-တချို့ ကိစ္စတွေ မှာ ရန်ပုံငွေ ချေးငွေ က အတိုးအားလုံး မရတာကြောင့် သူတို့ တခြားနည်းလမ်းတွေ နဲ့ အတိုးရအောင် လုပ်ရမယ်။
+တချို့ ကိစ္စတွေ မှာ ရန်ပုံငွေ ချေးငွေ က အတိုးအားလုံး မရတာကြောင့် ၊ သူတို့ တခြားနည်းလမ်းတွေ နဲ့ အတိုးရအောင် လုပ်ရမယ်။
 
 6543
 The lending fund doesn't get all the interest in some cases.
@@ -172,7 +172,7 @@ The lending fund doesn't get all the interest in some cases.
 
 6544
 The lending fund is always guaranteed 9% interest.
-ရန်ပုံငွေ ချေးငွေ က အတိုးနှုန်း ကိုး ရာခိုင်နှုန်း အမြဲ အာမခံ တယ်။
+ရန်ပုံငွေ ချေးငွေ က အတိုးနှုန်း ၉ ရာခိုင်နှုန်း အမြဲ အာမခံ တယ်။
 
 6545
 Appendix A shows the names of the researchers.
@@ -188,15 +188,15 @@ The Appendix A shows the time.
 
 6548
 Figure 3 shows how the models calculate the incomes.
-မော်လ်ဒယ် တွေ က ဝင်ငွေ ကို ဘယ်လို တွက်ချက်လဲ ဆိုတာ ကို ပုံ သုံး က ပြသည်။
+မော်လ်ဒယ် တွေ က ဝင်ငွေ ကို ဘယ်လို တွက်ချက်လဲ ဆိုတာ ကို ပုံ ၃ က ပြသည်။
 
 6549
 Figure 3 shows the rate of growth of the city.
-ပုံ သုံး က မြို့ ရဲ့ ဖွံ့ဖြိုးတိုးတက်မှု နှုန်း ကို ပြသည်။
+ပုံ ၃ က မြို့ ရဲ့ ဖွံ့ဖြိုးတိုးတက်မှု နှုန်း ကို ပြသည်။
 
 6550
 Figure 3 shows what the models do.
-ပုံ သုံး က မော်လ်ဒယ် တွေ ဘာလုပ်လဲ ဆိုတာ ပြသည်။
+ပုံ ၃ က မော်လ်ဒယ် တွေ ဘာလုပ်လဲ ဆိုတာ ပြသည်။
 
 6551
 A supporting CIO and corporate CIO might share control of a company in some organizations.
@@ -204,7 +204,7 @@ A supporting CIO and corporate CIO might share control of a company in some orga
 
 6552
 Corporate CIOs are generally paid less than CEOs.
-အသင်းအဖွဲ့ စီအီးအို များသည် စီအီးအို များထက် ယေဘူယျ အားဖြင့် လစာ နည်းသည်။
+အသင်းအဖွဲ့ စီအိုင်အို များသည် စီအီးအို များထက် ယေဘူယျ အားဖြင့် လစာ နည်းသည်။
 
 6553
 In hybrid organizations the CEO maintains direct central control of the organization.
@@ -224,15 +224,15 @@ These rules are outlined in three separate books.
 
 6557
 C-R functions can be estimated a couple different ways and then published for the reader to decide.
-စီအာ လုပ်ဆောင်ချက်များကို မတူညီသော နည်းလမ်း နှစ်ခု နဲ့ ခန့်မှန်းလို့ရနိုင်ပြီးနောက် စာဖတ်သူ ဆုံးဖြတ်စေရန်အတွက် ထုတ်ဝေသည်။
+စီ-အာ လုပ်ဆောင်ချက်များကို မတူညီသော နည်းလမ်း နှစ်ခု နဲ့ ခန့်မှန်းလို့ရနိုင်ပြီးနောက် စာဖတ်သူ ဆုံးဖြတ်စေရန်အတွက် ထုတ်ဝေခဲ့သည်။
 
 6558
 C-R functions can be estimated a couple different ways.
-စီအာ လုပ်ဆောင်ချက်များကို မတူညီသော နည်းလမ်း နှစ်ခု နဲ့ ခန့်မှန်းလို့ ရနိုင်သည်။
+စီ-အာ လုပ်ဆောင်ချက်များကို မတူညီသော နည်းလမ်း နှစ်ခု နဲ့ ခန့်မှန်းလို့ ရနိုင်သည်။
 
 6559
 C-R functions can never be estimated.
-စီအာ လုပ်ဆောင်ချက်များကို ဘယ်တော့မှ ခန့်မှန်းလို့ မရနိုင်ပါ။
+စီ-အာ လုပ်ဆောင်ချက်များကို ဘယ်တော့မှ ခန့်မှန်းလို့ မရနိုင်ပါ။
 
 6560
 Interventions should never be done in the hospital.
@@ -332,7 +332,7 @@ The average retrofit costs more than one million dollars to complete.
 
 6584
 Better security can improve workplace efficiency by 10 percent or more.
-ပို၍ ကောင်းတဲ့ လုံခြုံရေး က လုပ်ငန်းခွင် ထိရောက်မှု ကို တစ်ဆယ်ရာခိုင်နှုန်း ဒါမှမဟုတ် ဒီထက် ပို၍ တိုးတက်စေနိုင်တယ်။
+ပို၍ ကောင်းတဲ့ လုံခြုံရေး က လုပ်ငန်းခွင် ထိရောက်မှု ကို ၁၀ ရာခိုင်နှုန်း ဒါမှမဟုတ် ဒီထက် ပို၍ တိုးတက်စေနိုင်တယ်။
 
 6585
 This process is generally considered to be harmful to security.
@@ -352,7 +352,7 @@ There are exactly five more tasks that must still be accomplished.
 
 6589
 We still have things to do even tho we have come so far.
-ငါတို့ တော်‌တော်ခရီးရောက်ခဲ့ပေမယ့် လုပ်စရာတွေအများကြီးကျန်သေးတယ်။
+ငါတို့ တော်တော်ခရီးရောက်ခဲ့ပေမယ့် လုပ်စရာတွေအများကြီးကျန်သေးတယ်။
 
 6590
 HIC is not the department responsible for tracking claims.
