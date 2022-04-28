@@ -8,11 +8,11 @@ There were instruments in the aircraft that melted.
 
 2603
 Alas, she was not able to understand clearly due to a language barrier.
-အဲလက်စ် ဘာသာစကား အခက်အခဲကြောင့် သူမ ရှင်းရှင်းလင်းလင်း နားမလည်နိုင်ဘူး။
+အဲလက်စ် ၊ ဘာသာစကား အခက်အခဲကြောင့် သူမ ရှင်းရှင်းလင်းလင်း နားမလည်နိုင်ဘူး။
 
 2604
 Indeed, she did not comprehend.
-တကယ်တော့ သူမ နားမလည်ခဲ့ဘူး။
+တကယ်တော့ ၊ သူမ နားမလည်ခဲ့ဘူး။
 
 2605
 She knew exactly what we were talking about.
@@ -36,7 +36,7 @@ I'm not sure what this looks like to you.
 
 2610
 I'm trying to do this, obviously.
-ငါ ဒါကို လုပ်ဖို့ သိသိသာသာ ကြိုးစားနေတယ်။
+ငါ ဒါကို လုပ်ဖို့ သိသိသာသာ ၊ ကြိုးစားနေတယ်။
 
 2611
 I'm trying to finish my project in the next week.
@@ -132,7 +132,7 @@ I dont have a particular store.
 
 2634
 I have 1 specific store.
-ငါ့မှာ သတ်သတ်မှတ်မှတ် စတိုးဆိုင် တစ်ဆိုင် ရှိတယ်။
+ငါ့မှာ သတ်သတ်မှတ်မှတ် စတိုးဆိုင် ၁ဆိုင် ရှိတယ်။
 
 2635
 There are a lot of stores.
@@ -152,7 +152,7 @@ The jet flies 20,000 miles an hour.
 
 2639
 Rudolph Anderson was nowhere to be found, so we only had one U2's.
-ရူဒေါ့ အန်ဒါဆန် ကို ဘယ်‌နေရာမှာမှ ရှာမတွေ့ခဲ့ဘူး ဒါကြောင့် ကျွန်တော်တို့မှာ ယူတူး တစ်ယောက်ပဲ ရှိခဲ့တယ်။
+ရူဒေါ့ အန်ဒါဆန် ကို ဘယ်နေရာမှာမှ ရှာမတွေ့ခဲ့ဘူး ၊ ဒါကြောင့် ကျွန်တော်တို့မှာ ယူတူး တစ်ယောက်ပဲ ရှိခဲ့တယ်။
 
 2640
 Rudolph Anderson was part of three U2's.
@@ -212,7 +212,7 @@ I'll look through these reports.
 
 2654
 She ate a lot of food, but still kept her weight down.
-သူမ အစားအစာတွေ အများကြီး စားခဲ့တယ် ဒါပေမယ့် သူမရဲ့ ကိုယ်အလေးချိန်ကို လျှော့ချထားနိုင်တုန်းပဲ။
+သူမ အစားအစာတွေ အများကြီး စားခဲ့တယ် ၊ ဒါပေမယ့် သူမရဲ့ ကိုယ်အလေးချိန်ကို လျှော့ချထားနိုင်တုန်းပဲ။
 
 2655
 She did not weigh much at all.
@@ -252,7 +252,7 @@ He continued to live in Augusta even after the attacks.
 
 2664
 He continued to live in Augusta.
-သူ အော်ဂတ်စ်တာ မှာ ဆက်နေခဲ့တယ်။
+သူ အော်ဂတ်စ်တာ မှာ ဆက်လက် နေထိုင်ခဲ့တယ်။
 
 2665
 He moved outside of Augusta right away.
@@ -292,7 +292,7 @@ I've never had a job.
 
 2674
 My favorite job was in Special Activities.
-ကျွန်တော် အကြိုက်ဆုံးအလုပ်ကတော့ အထူးလှုပ်ရှားမှုဌာနပဲ ဖြစ်ပါတယ်။
+ကျွန်တော် အကြိုက်ဆုံးအလုပ်ကတော့ အထူးလှုပ်ရှားမှုဌာနတွင် ဖြစ်ပါတယ်။
 
 2675
 They won't pay for anything forus.
@@ -300,7 +300,7 @@ They won't pay for anything forus.
 
 2676
 They're paying for housing for me and my siblings.
-ကျွန်တော်နှင့် ကျွန်တော့် မွေးချင်းညီအစ်ကိုမောင်နှမများရဲ့ အိမ်ရာအတွက် သူတို့ ပေးတယ်။
+ကျွန်တော်နှင့် ကျွန်တော့် မွေးချင်းညီအစ်ကိုမောင်နှမများရဲ့ အိမ်ရာအတွက် သူတို့ ပေးတယ်။
 
 2677
 They're paying for housing.
