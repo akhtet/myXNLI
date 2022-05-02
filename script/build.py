@@ -223,7 +223,7 @@ def write_dataset(my_dict):
             outfile = open(outfn, 'wt', encoding='utf-8')
 
             if OUTPUT_FORMAT == 'BASIC':
-                outfile.write('\t'.join(['label', 'sentence1', 'sentence2']) + '\n')
+                outfile.write('\t'.join(['label', 'sentence1_en', 'sentence2_en', 'sentence1_my', 'sentence2_my']) + '\n')
             else:
                 outfile.write(infile.readline())
 
@@ -238,6 +238,8 @@ def write_dataset(my_dict):
                     if OUTPUT_FORMAT == 'BASIC':
                         out_cols = [
                                 cols[1], # label
+                                sentence1,
+                                sentence2,
                                 my_dict.get(sentence1, sentence1),
                                 my_dict.get(sentence2, sentence2)
                                 ]
