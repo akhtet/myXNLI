@@ -29,37 +29,37 @@ Highlighting the map has value.
 6908
 The crosshatched pentagon has helped the mailer market boost profits.
 #ခြယ်ထားသောပဉ္စဂံသည် မေးလ်ပို့တဲ့ဈေးကွက် ကို အမြတ်အစွန်းများ မြှင့်တင်ရန် ကူညီပေးခဲ့ပါသည်။
-#Review
+# REVIEW
 
 6909
 The mailers are unable to recover the losses from the crosshatched trapezoid.
 စာတိုက်များသည် #ခြယ်ထားသောအနားမပြိုင်စတုဂံမှ ဆုံးရှုံးသွားသော ဆုံးရှုံးမှုများကို ပြန်လည်မရရှိနိုင်ပါ။
-#Review
+# REVIEW
 
 6910
 The market loss comes from the crosshatched trapezoid being unable to shift.
 စျေးကွက်ဆုံးရှုံးမှုသည် #ခြယ်ထားသောအနားမပြိုင်စတုဂံကို မပြောင်းနိုင်ခြင်းကြောင့်ဖြစ်သည်။
-#Review
+# REVIEW
 
 6911
 Brendan Gill dislikes the merger.
-ဘရန်းဒန်ဂျေး သည် ကုမ္ပဏီချင်းပေါင်းစည်းခြင်းကို မကြိုက်ပါ။
+ဘရန်းဒန်ဂျေး သည် ပေါင်းစည်းခြင်းကို မကြိုက်ပါ။
 
 6912
 Brendan Gill likes the merger.
-ဘရန်းဒန်ဂျေးသည် ကုမ္ပဏီချင်းပေါင်းစည်းခြင်းကို ကြိုက်သည်။
+ဘရန်းဒန်ဂျေးသည် ပေါင်းစည်းခြင်းကို ကြိုက်သည်။
 
 6913
 Brendan Gill made money off the merger.
-ဘရန်းဒန်ဂျေးသည် ကုမ္ပဏီချင်းပေါင်းစည်းခြင်းမှ လျှော့ဈေးရခဲ့သည်။
+ဘရန်းဒန်ဂျေးသည် ပေါင်းစည်းခြင်းမှ လျှော့ဈေးရခဲ့သည်။
 
 6914
 Data error causes freedom.
-ဒေတာအဲရာများသည် လွတ်မြောက်မှုကို ဖြစ်စေသည်။
+အချက်အလက် မှားယွင်းမှုသည် လွတ်မြောက်မှုကို ဖြစ်စေသည်။
 
 6915
 Freedom from correct data.
-မှန်ကန်သောဒေတာများမှ လွတ်မြောက်ခြင်း။
+မှန်ကန်သော အချက်အလက်များမှ လွတ်မြောက်ခြင်း။
 
 6916
 Freedom from incorrect input.
@@ -135,7 +135,7 @@ Leaving the country would be the best choice for clients.
 
 6934
 Rather than go to jail, clients would sooner leave the country.
-ထောင်ထဲသွားမည့်အစား အမှုသည်တွေက တိုင်းပြည်က မြန်မြန်ထွက်သွားကြလိမ့်မယ်။
+ထောင်ထဲသွားမည့်အစား ၊ အမှုသည်တွေက တိုင်းပြည်က မြန်မြန်ထွက်သွားကြလိမ့်မယ်။
 
 6935
 Assets will lose value sometimes due to the market.
@@ -163,7 +163,7 @@ HIC sent out surveys.
 
 6941
 It is likely we would answer a phone call.
-ဖုန်းခေါ်ဆိုမှုကို ကျွန်ုပ်တို့ဖြေကြားနိုင်ဖွယ်ရှိသည်။
+ဖုန်းခေါ်ဆိုမှု တစ်ခု ကို ကျွန်ုပ်တို့ဖြေကြားနိုင်ဖွယ်ရှိသည်။
 
 6942
 Refusing to answer the phone would not be in our best interest.
@@ -243,7 +243,7 @@ There is not one solution to alcohol use problems.
 
 6961
 There is one, and only one, type of alcohol use problem.
-အရက်သောက်တဲ့ ပြဿနာက တစ်မျိုးပဲ၊ တစ်ခုပဲရှိတယ်။
+အရက်သောက်တဲ့ ပြဿနာက တစ်မျိုးပဲ၊ တစ်ခုပဲ ၊ ရှိတယ်။
 
 6962
 GAO has a .org website domain.
@@ -279,7 +279,7 @@ Most aliens do not seek legal services when they need it.
 
 6970
 The US does not allow aliens into any of its states.
-အမေရိကန်သည် ၎င်း၏ပြည်နယ်များတွင် နိုင်ငံခြားသားများကို ဝင်ရောက်ခွင့်မပြုပေ။
+USသည် ၎င်း၏ပြည်နယ်များတွင် နိုင်ငံခြားသားများကို ဝင်ရောက်ခွင့်မပြုပေ။
 
 6971
 The opposing counsel and the court will be expecting notices.
@@ -303,7 +303,7 @@ There are many different types of gains and losses.
 
 6976
 When accounting for the gain or loss make it a nonexchange gain or loss.
-အမြတ် သို့မဟုတ် အရှုံးကို စာရင်းစစ်သည့်အခါ ၎င်းကို လဲလှယ်လို့မရသော အမြတ် သို့မဟုတ် အရှုံးကို ဖြစ်စေသည်။
+အမြတ် သို့မဟုတ် အရှုံးကို စာရင်းစစ်သည့်အခါ ၎င်းကို လဲလှယ်လို့မရသော အမြတ် သို့မဟုတ် အရှုံး တစ်ခု ကို ဖြစ်စေသည်။
 
 6977
 23Financial continues to achieve CFO Act Goals thanks to positive momentum.
@@ -319,7 +319,7 @@ When accounting for the gain or loss make it a nonexchange gain or loss.
 
 6980
 Fully meeting a successful standard will result in a pass.
-စံချိန်စံညွှန်းပြည့်မီခြင်းက အောင်မြင်မှုရလိမ့်မည်။
+စံချိန်စံညွှန်းပြည့်မီခြင်းက အောင်မြင်မှုတစ်ခု ကို ရလိမ့်မည်။
 
 6981
 If they don't meet the standard they will fail.
@@ -355,7 +355,7 @@ It is possible for existing assets to accumulate gains.
 
 6989
 An ED visit can be a teaching tool for people with drinking problems.
-အရေးပေါ်ဌာန(အီးဒီ)သို့ သွားရောက်ပြသခြင်းသည် အရက်သောက်ခြင်းပြဿနာရှိသူများအတွက် သင်ကြားရေးကိရိယာတစ်ခုဖြစ်သည်။
+အီးဒီသို့ သွားရောက်ပြသခြင်းသည် အရက်သောက်ခြင်းပြဿနာရှိသူများအတွက် သင်ကြားရေးကိရိယာတစ်ခုဖြစ်သည်။
 
 6990
 People with drinking problems are not permitted to visit the ED.
@@ -379,7 +379,7 @@ Value-enhancement has never been on the AICPA's agenda.
 
 6995
 Business processes are not stagnant; they evolve with time.
-စီးပွားရေးလုပ်ငန်းစဉ်များသည် ရပ်တန့်မနေပါ။ သူတို့က အချိန်နဲ့အမျှ တိုးတက်နေတယ်။
+စီးပွားရေးလုပ်ငန်းစဉ်များသည် ရပ်တန့်မနေပါ; သူတို့က အချိန်နဲ့အမျှ တိုးတက်နေတယ်။
 
 6996
 New training programs have to be created when new business processes are adopted.
@@ -387,7 +387,7 @@ New training programs have to be created when new business processes are adopted
 
 6997
 Since needs are never changing, business processes do not need to evolve.
-လိုအပ်ချက်တွေက ဘယ်တော့မှ မပြောင်းလဲတဲ့အတွက် စီးပွားရေးလုပ်ငန်းစဉ်တွေ တိုးတက်ဖို့ မလိုအပ်ပါဘူး။
+လိုအပ်ချက်တွေက ဘယ်တော့မှ မပြောင်းလဲတဲ့အတွက် ၊ စီးပွားရေးလုပ်ငန်းစဉ်တွေ တိုးတက်ဖို့ မလိုအပ်ပါဘူး။
 
 6998
 For half a year student debt has been discussed by a group in New York City.
