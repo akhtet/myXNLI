@@ -16,24 +16,24 @@ Marxist-Leninist concepts were incorporated into the Islamist movement.
 
 7005
 The Islamist movement was begun in the sixth century.
-အစ္စလမ်မစ်လှုပ်ရှားမှုကို ခြောက်ရာစုတွင် စတင်သည်။
+အစ္စလမ်မစ်လှုပ်ရှားမှုကို ခြောက်ရာစုတွင် စတင်ခဲ့သည်။
 
 7006
 The Islamist movement was orial Qaedaginally founded as an organization for social mobilization.
 အစ္စလမ်မစ်လှုပ်ရှားမှုကို orial Qaedaginally အသင်းအဖွဲ့နဲ့ဆိုင်သော စည်းရုံးရေး အဖွဲ့အစည်း တစ်ခု အဖြစ် တည်ထောင်ခဲ့သည်။
-#Review
+# REVIEW
 
 7007
 Hazmi and Mihdhar bought a home and had no contact with anyone.
-ဟက်ဇ်မီနှင့် မစ်ဟာသည် အိမ်တစ်လုံးဝယ်ခဲ့ပြီး မည်သူနှင့်မျှ အဆက်အသွယ်မရှိပေ။
+ဟက်ဇ်မီနှင့် မစ်ဟာသည် အိမ်တစ်လုံးဝယ်ခဲ့ပြီး မည်သူနှင့်မျှ အဆက်အသွယ်မရှိခဲ့ပေ။
 
 7008
 Hazmi and Mihdhar rented a room for the whole year, for $500 a day.
-ဟက်ဇ်မီနှင့် မစ်ဟာသည် တစ်နှစ်ပတ်လုံးအတွက် အခန်းတစ်ခန်းကို တစ်ရက်လျှင် ဒေါ်လာ ၅၀၀ ဖြင့် ငှားရမ်းသည်။
+ဟက်ဇ်မီနှင့် မစ်ဟာသည် တစ်နှစ်ပတ်လုံးအတွက် အခန်းတစ်ခန်းကို တစ်ရက်လျှင် ဒေါ်လာ ၅၀၀ ဖြင့် ၊ ငှားရမ်းခဲ့သည်။
 
 7009
 Hazmi and Mihdhar rented a room.
-ဟက်ဇ်မီနှင့် မစ်ဟာသည် အခန်းငှားသည်။
+ဟက်ဇ်မီနှင့် မစ်ဟာသည် အခန်တစ်ခန်း ငှားရမ်းခဲ့သည်။
 
 7010
 An al Qaeda member went to Bosnia 18 times in 2001.
@@ -117,7 +117,7 @@ Binalshibh was interrogated in 2002.
 
 7030
 Binalshibh was never spoken to, and he disappeared.
-ဘိုင်နယ်ရှစ်သည် တစ်ခါမှ စကားမပြောဘဲ ပျောက်ကွယ်သွားခဲ့သည်။
+ဘိုင်နယ်ရှစ်သည် တစ်ခါမှ စကားမပြောဘဲ ၊ ပျောက်ကွယ်သွားခဲ့သည်။
 
 7031
 Mihdhar had a US Visa to enter the country.
@@ -125,7 +125,7 @@ Mihdhar had a US Visa to enter the country.
 
 7032
 Mihdhar never got a visa, so he never came to the us.
-မစ်ဟာက တစ်ခါမှ ဗီဇာမရတဲ့အတွက် သူငါတို့ဆီ မရောက်ဖူးဘူး။
+မစ်ဟာက တစ်ခါမှ ဗီဇာမရတဲ့အတွက် ၊ သူငါတို့ဆီ မရောက်ဖူးဘူး။
 
 7033
 Mihdhar was given a Visa because he was not a threat.
@@ -145,7 +145,7 @@ KSM confirmed that there were several agents in Southern California.
 
 7037
 The FBI could never even find the man after he left Florida in 2001.
-ထိုအမျိုးသား၂၀၀၁ ခုနှစ်တွင် ဖလော်ရီဒါမှ ထွက်ခွာပြီးနောက် အက်ဖ်ဘီအိုင်က သူ့ကိုပင် ရှာမတွေ့ခဲ့ပေ။
+ထိုအမျိုးသားသည် ၂၀၀၁ ခုနှစ်တွင် ဖလော်ရီဒါမှ ထွက်ခွာပြီးနောက် အက်ဖ်ဘီအိုင်က သူ့ကိုပင် ရှာမတွေ့ခဲ့ပေ။
 
 7038
 The FBI couldn't find out who the guy was.
@@ -153,7 +153,7 @@ The FBI couldn't find out who the guy was.
 
 7039
 The FBI figured out who he was and threw him in prison
-အက်ဖ်ဘီအိုင်က သူဘယ်သူလဲဆိုတာ ဖော်ထုတ်ပြီး ထောင်ချလိုက်ပါတယ်။
+အက်ဖ်ဘီအိုင်က သူဘယ်သူလဲဆိုတာ ဖော်ထုတ်ပြီး သူ့ကို ထောင်ချလိုက်ပါတယ်။
 
 7040
 There was communication coming from American 11.
@@ -273,15 +273,15 @@ It's not easy to install the system because of security dangers.
 
 7069
 The security system will be installed in 6 weeks, i promise.
-လုံခြုံရေးစနစ်ကို ၆ ပတ်အတွင်း တပ်ဆင်မယ်လို့ ကတိပြုပါတယ်။
+လုံခြုံရေးစနစ်ကို ၆ ပတ်အတွင်း တပ်ဆင်မယ်လို့ ၊ ကျွန်တော် ကတိပြုပါတယ်။
 
 7070
 An interrogation of KSM was performed in July of 2003.
-ကေအက်စ်အမ် ကို ၂၀၀၃ခုနှစ် ဇူလိုင်လတွင် စစ်ဆေးမေးမြန်းခဲ့ပါသည်။
+ကေအက်စ်အမ် ၏ စစ်ဆေးမေးမြန်းခြင်း တစ်ခုကို ၂၀၀၃ခုနှစ် ဇူလိုင်လတွင် ဆောင်ရွက်ခဲ့ပါသည်။
 
 7071
 KSM was not captured until late 2008, when he was finally interrogated in detail.
-ကေအက်စ်အမ်သည် သူ့ကို အသေးစိတ် အပြီးသတ်စစ်ဆေးမေးမြန်းခြင်း ခံခဲ့ရပြီး ၂၀၀၈ ခုနှစ်နှောင်းပိုင်းအထိ ဖမ်းမမိသေးပါ။
+ကေအက်စ်အမ်သည် သူ့ကို အသေးစိတ် အပြီးသတ်စစ်ဆေးမေးမြန်းခြင်း ခံခဲ့ရပြီး ၊ ၂၀၀၈ ခုနှစ်နှောင်းပိုင်းအထိ ဖမ်းမမိသေးပါ။
 
 7072
 The interrogation revealed that KSM's favorite ice cream flavor was chocolate.
@@ -297,7 +297,7 @@ Americans should make sure that their guns are not taken away.
 
 7075
 Americans should pay attention to threats to our liberties.
-ကျွန်ုပ်တို့၏ လွတ်လပ်မှု ခြိမ်းခြောက်မှုများကို အမေရိကန်များက အာရုံစိုက်သင့်သည်။
+ကျွန်ုပ်တို့၏ လွတ်လပ်မှုများကို ခြိမ်းခြောက်မှုများအား အမေရိကန်များက အာရုံစိုက်သင့်သည်။
 
 7076
 Communication worked really well on 9/11.
@@ -313,7 +313,7 @@ People had a hard time communicating at the World Trade Center.
 
 7079
 Investigators also requested access to professional databases.
-စုံစမ်းစစ်ဆေးသူများသည် ပရော်ဖက်ရှင်နယ်ဒေတာဘေ့စ်များကို သုံးစွဲခွင့်ကိုလည်း တောင်းဆိုခဲ့သည်။
+စုံစမ်းစစ်ဆေးသူများသည် ပရော်ဖက်ရှင်နယ်ဒေတာဘေ့စ်များ သုံးစွဲခွင့်ကိုလည်း တောင်းဆိုခဲ့သည်။
 
 7080
 Several types of information were available from existing databases.
@@ -333,7 +333,7 @@ The administrator provided assistance despite his misgivings.
 
 7084
 The assistance consisted of cash and help procuring travel documents.
-အဆိုပါအကူအညီတွင် ငွေသားနှင့် ခရီးသွားစာရွက်စာတမ်းများ ပံ့ပိုးကူညီခြင်းတို့ ပါဝင်ပါသည်။
+အဆိုပါအကူအညီတွင် ငွေသားနှင့် ခရီးသွားစာရွက်စာတမ်းများ ဝယ်ယူရေးကို ပံ့ပိုးကူညီခြင်းတို့ ပါဝင်ပါသည်။
 
 7085
 Delivery did not improve how effective it was.
@@ -349,15 +349,15 @@ It didn't make it any more effective when we delivered it to the White House.
 
 7088
 The FAA air traffic control data was analyzed by an independent group and it was determined that the controllers did a good job.
-အက်ဖ်အေအေ လေကြောင်းထိန်းချုပ်မှုဒေတာကို အမှီအခိုကင်းသောအဖွဲ့တစ်ခုက ခွဲခြမ်းစိတ်ဖြာပြီး ထိန်းချုပ်ကိရိယာများ ကောင်းမွန်စွာလုပ်ဆောင်ခဲ့ကြောင်း ဆုံးဖြတ်သည်။
+အက်ဖ်အေအေ လေကြောင်းထိန်းချုပ်မှုဆိုင်ရာ အချက်အလက်များကို အမှီအခိုကင်းသောအဖွဲ့တစ်ခုက ခွဲခြမ်းစိတ်ဖြာပြီး ထိန်းချုပ်ကိရိယာများ ကောင်းမွန်စွာလုပ်ဆောင်ခဲ့ကြောင်း ဆုံးဖြတ်ခဲ့သည်။
 
 7089
 The FAA air traffic control data was analyzed.
-အက်ဖ်အေအေ လေကြောင်းထိန်းချုပ်မှုဒေတာကို ခွဲခြမ်းစိတ်ဖြာသည်။
+အက်ဖ်အေအေ လေကြောင်းထိန်းချုပ်မှုဆိုင်ရာ အချက်အလက်များကို ခွဲခြမ်းစိတ်ဖြာခဲ့သည်။
 
 7090
 The FAA air traffic control data was never examined.
-အက်ဖ်အေအေ လေကြောင်းထိန်းချုပ်မှုဒေတာကို ဘယ်သောအခါမှ မစစ်ဆေးခဲ့ပါ။
+အက်ဖ်အေအေ လေကြောင်းထိန်းချုပ်မှုဆိုင်ရာ အချက်အလက်များကို ဘယ်သောအခါမှ မစစ်ဆေးခဲ့ပါ။
 
 7091
 All terrorism matters are given the top label for importance.
@@ -377,7 +377,7 @@ The director didn't want to get involved because he was almost retired.
 
 7095
 The director of the unit didn't want to get involved in directing what was done.
-ဒီယူနစ်ရဲ့ ဒါရိုက်တာက ပြီးခဲ့တာတွေကို ညွှန်ကြားရာမှာ မပါဝင်ချင်ဘူး။
+ဒီဌာနရဲ့ ဒါရိုက်တာက ပြီးခဲ့တာတွေကို ညွှန်ကြားရာမှာ မပါဝင်ချင်ဘူး။
 
 7096
 The director thought it was all up to him.
