@@ -24,7 +24,7 @@ The churches are also daycare centers for children.
 
 5907
 The churches are on the left side of the road.
-ဘုရားကျောင်းများတွေဟာ လမ်းမကြီးရဲ့ ဘယ်ဘက်ခြမ်းမှာရှိတယ်။
+ဘုရားကျောင်းများဟာ လမ်းမကြီးရဲ့ ဘယ်ဘက်ခြမ်းမှာရှိတယ်။
 
 5908
 Two churches can be found on the right side of the road.
@@ -175,7 +175,7 @@ National unity is more important than everything else combined.
 
 5944
 National unity is never the first priority.
-အမျိုးသား စည်းလုံးညီညွတ်ရေးသည် မည်သည့်အခါကမျှ ပထမ ဦးစားပေး အဖြစ်ခဲ့ပါ။
+အမျိုးသား စည်းလုံးညီညွတ်ရေးသည် မည်သည့်အခါကမျှ ပထမ ဦးစားပေး မဖြစ်ခဲ့ပါ။
 
 5945
 The Parliament is located here.
@@ -375,7 +375,7 @@ The Olympics have never been in Europe.
 
 5994
 The Olympics in Spain were the most popular of that decade.
-စပိန်တွင် ကျင်းပသော အိုလံပစ်သည် အဆိုပါ ဆယ်စုနှစ်တွင် လူအကြိုက်အများဆုံး အထင်ရှားဆုံးဖြစ်သည်။
+စပိန်တွင် ကျင်းပသော အိုလံပစ်သည် အဆိုပါ ဆယ်စုနှစ်တွင် လူအကြိုက်အများဆုံး ဖြစ်ခဲ့သည်။
 
 5995
 The Olympics were in Spain in 1992.
@@ -395,7 +395,7 @@ The sailors and pilgrims were all one hundred percent authentic.
 
 5999
 The building has a huge iron weathervane.
-အဆောက်အဦတွင် ကြီးမားသော သံလေညွှန်တံကြီးတခုရှိသည်။
+အဆောက်အဦတွင် ကြီးမားသော သံလေညွှန်တံ တစ်ခုရှိသည်။
 
 6000
 The building is most known for it's fence.
