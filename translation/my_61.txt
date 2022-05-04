@@ -56,7 +56,7 @@ The island is 100 square miles.
 
 6015
 The island was never peaceful.
-အဆိုပါ ကျွန်သည် မည်သည့်အခါကမျှ မငြိမ်းချမ်းခဲ့ပါ။
+အဆိုပါ ကျွန်းသည် မည်သည့်အခါကမျှ မငြိမ်းချမ်းခဲ့ပါ။
 
 6016
 The island was very quiet.
@@ -212,11 +212,11 @@ The visitors all stay far away from the cathedral.
 
 6054
 Visitors like the area around the cathedral.
-လာရောက်လည်ပတ်သူဧည့်သည်များသည် ဘုရားရှစ်ခိုးကျောင်းတော်ကြီး၏ ပတ်လည်အနီးတဝိုက်ဝန်ကျင်နေရာကို သဘောကျကြသည်။
+လာရောက်လည်ပတ်သူဧည့်သည်များသည် ဘုရားရှစ်ခိုးကျောင်းတော်ကြီး၏ ပတ်လည်အနီးတဝိုက်ဝန်းကျင်နေရာကို သဘောကျကြသည်။
 
 6055
 Visitors like the flowers around the cathedra.
-လာရောက်လည်ပတ်သူဧည့်သည်များသည် ဘုရားရှစ်ခိုးကျောင်းတော်ကြီး၏ အနီးဝန်ကျင်ရှိ ပန်းများကို နှစ်ခြိုက်သဘောကျကြသည်။
+လာရောက်လည်ပတ်သူဧည့်သည်များသည် ဘုရားရှစ်ခိုးကျောင်းတော်ကြီး၏ အနီးဝန်းကျင်ရှိ ပန်းများကို နှစ်ခြိုက်သဘောကျကြသည်။
 
 6056
 There is a list about beaches.
@@ -236,11 +236,11 @@ Caldas de Monchique is a terrible setting for a picnic.
 
 6060
 Caldas de Monchique serves food.
-ကလ်ဒတ်စ်ဒီမွန်ကီးခ်သည် အစားအစာများကို တည့်ခင်းဆောင်ရွက်ပေးသည်။
+ကလ်ဒတ်စ်ဒီမွန်ကီးခ်သည် အစားအစာများကို တည်ခင်းဆောင်ရွက်ပေးသည်။
 
 6061
 There are woods around Caldas de Monchique.
-ကလ်ဒတ်စ်ဒီမွန်ကီးခ် အနီးပတ်လည်ဝန်ကျင်တွင် သစ်တောများရှိသည်။
+ကလ်ဒတ်စ်ဒီမွန်ကီးခ် အနီးပတ်လည်ဝန်းကျင်တွင် သစ်တောများရှိသည်။
 
 6062
 The cruise is much longer than it used to be.
@@ -268,7 +268,7 @@ The Spectrum section is strictly off limits to visitors.
 
 6068
 The towns around Barbizon are the most populated.
-ဘာဘီဇွန် အနီးဝန်ကျင်ရှိ မြို့များသည် လူဦးရေ အထူထပ်ဆုံး ဖြစ်သည်။
+ဘာဘီဇွန် အနီးဝန်းကျင်ရှိ မြို့များသည် လူဦးရေ အထူထပ်ဆုံး ဖြစ်သည်။
 
 6069
 There are only 10 people in Gorges d'Apreamont.
