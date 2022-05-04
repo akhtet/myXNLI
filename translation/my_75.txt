@@ -44,7 +44,7 @@ The final defense policy document was over five hundred pages long.
 
 7412
 NYPD helicopters were using the SOD channel.
-အန်ဝိုင်ပီဒီ ရဟတ်ယာဉ်များသည် အက်စ်အိုဒီ ချန်နယ်/လမ်းကြောင်း ကို အသုံးပြုခဲ့သည်။
+အန်ဝိုင်ပီဒီ ရဟတ်ယာဉ်များသည် အက်စ်အိုဒီ ချန်နယ်ကို အသုံးပြုခဲ့သည်။
 
 7413
 Nobody was using the citywide SOD channel.
@@ -100,7 +100,7 @@ Information has not been requested from everyone who knows something.
 
 7426
 There are many more knowledgeable people who have not been interviewed.
-အင်တာဗျူးမဖြေရသေးသည့် ပို၍ အသိပညာကြွယ်ဝသောာ လူများရှိသည်။
+အင်တာဗျူးမဖြေရသေးသည့် ပို၍ အသိပညာကြွယ်ဝသော လူများရှိသည်။
 
 7427
 Congress has never had oversight for either intelligence or counterterrorism.
@@ -288,7 +288,7 @@ Supplying the Taliban's enemies with covert assistance was a consideration.
 
 7473
 The Taliban could not be moved from Kabul, so some members of the U.S. military debated assisting their opponents.
-တာလီဘန်များအား ကဘူးလ်မြို့မှ ရွေ့ပြောင်းနိုင်ခြင်း မရှိသေးသောကြောင့် အမေရိကန် စစ်တပ်မှ အဖွဲ့ဝင် အချို့သည် ၎င်းတို့၏ အတိုက်အခံများကို ကူညီရန် အခြေအတင် ဆွေးနွေးခဲ့ကြသည်။
+တာလီဘန်များအား ကဘူးလ်မြို့မှ ရွေ့ပြောင်းနိုင်ခြင်း မရှိသေးသောကြောင့် ၊ အမေရိကန် စစ်တပ်မှ အဖွဲ့ဝင် အချို့သည် ၎င်းတို့၏ အတိုက်အခံများကို ကူညီရန် အခြေအတင် ဆွေးနွေးခဲ့ကြသည်။
 
 7474
 They refused to give up hope in moving the Taliban and were in agreement about doing it alone.
@@ -332,7 +332,7 @@ The man was on the aircraft when he died.
 
 7484
 Although no one realized it, KSM was always connected with al Qaeda.
-မည်သူမျှမသိရှိခဲ့ကြသော်လည်း ကေအက်စ်အမ် သည် အယ်လ်ကိုင်ဒါနှင့် အမြဲအဆက်အသွယ်ရှိခဲ့သည်။
+မည်သူမျှမသိရှိခဲ့ကြသော်လည်း ၊ ကေအက်စ်အမ် သည် အယ်လ်ကိုင်ဒါနှင့် အမြဲအဆက်အသွယ်ရှိခဲ့သည်။
 
 7485
 Everyone always equated KSM with al Qaeda.
@@ -348,7 +348,7 @@ The FDNY Chief of Department saw the South Tower collapse.
 
 7488
 The South Tower collapsed before 10:15.
-သည်ဆောက်ဖ်တာဝါ/တောင်ပိုင်းမျှော်စင် သည် ၁၀နာရီ ၁၅ မိနစ် မတိုင်ခင် ပြိုကျခဲ့သည်။
+သည်ဆောက်ဖ်တာဝါသည် ၁၀နာရီ ၁၅ မိနစ် မတိုင်ခင် ပြိုကျခဲ့သည်။
 
 7489
 The South Tower did not collapse.
