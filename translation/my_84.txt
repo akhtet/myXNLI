@@ -52,7 +52,7 @@ Some people think donating is just something rich people do.
 
 8314
 Some people think they're too poor to give any money, so they ignore our calls.
-လူအချို့က ငွေပးကမ်းစွန့်ကြဲဖို့ သူတို့ အရမ်းဆင်းရဲတယ်လို့ တွေးကြလို့၊ သူတို့က ငါတို့ မေတ္တာရပ်ခံတာတွေကို လျစ်လျူရှုကြတယ်။
+လူအချို့က ငွေပေးကမ်းစွန့်ကြဲဖို့ သူတို့ အရမ်းဆင်းရဲတယ်လို့ တွေးကြလို့၊ သူတို့က ငါတို့ မေတ္တာရပ်ခံတာတွေကို လျစ်လျူရှုကြတယ်။
 
 8315
 We don't do phone drives because of security concerns.
@@ -80,7 +80,7 @@ You have been nominated to be a member of the Inner Circle.
 
 8321
 Some members can renew their memberships.
-တချို့အသင်းဝင်တွေက သူတို့ရဲ့ အသင်းဝင်ထားခြင်းကို သက်တမ်းတိုးနိုင်တယ်။
+တစ်ချို့အသင်းဝင်တွေက သူတို့ရဲ့ အသင်းဝင်ထားခြင်းကို သက်တမ်းတိုးနိုင်တယ်။
 
 8322
 There is space for 1500 members to renew their memberships.
@@ -188,7 +188,7 @@ To selfishly mind your own life and your own business.
 
 8348
 We are becoming dependent on others.
-ကျွန်တော်တို့ဟာ တခြားသူတွေအပေါ်မှာ မှီခိုလာကြတယ်။
+ကျွန်တော်တို့ဟာ တစ်ခြားသူတွေအပေါ်မှာ မှီခိုလာကြတယ်။
 
 8349
 We hope you will help us as we become independent.
@@ -208,7 +208,7 @@ Indiana refuses to commit to help the dental school.
 
 8353
 Indiana's state dental association has pledged $1million to the dental school.
-အင်ဒီယာနာ ပြည်နယ် သွားဘက်ဆိုင်ရာ အဖွဲ့အစည်းသည် သွားဘက်ဆိုင်ရာကျောင်းကို ဒေါ်လာတစ်သန်း ကတိကဝတ်ပြုလိုက်သည်။
+အင်ဒီယာနာ ပြည်နယ် သွားဘက်ဆိုင်ရာ အဖွဲ့အစည်းသည် သွားဘက်ဆိုင်ရာကျောင်းကို ဒေါ်လာ ၁သန်း ကတိကဝတ်ပြုလိုက်သည်။
 
 8354
 Only 10% of female business leaders have been in Scouts.
@@ -272,7 +272,7 @@ Visitors will only be able to see West Side Story in the Hilbert Conservatory.
 
 8369
 Campus visits show students what college life is like.
-တက္ကသိုလ်ပရိဝုဏ်တွင်း လေ့လာလည်ပတ်မှုများသည် ကျောင်းသားများကို ကောလိပ်ကျောင်းသာဘဝဆိုတာ မည်သို့သောပုံစံဖြစ်သည်ကို ပြသသည်။
+တက္ကသိုလ်ပရိဝုဏ်တွင်း လေ့လာလည်ပတ်မှုများသည် ကျောင်းသားများကို ကောလိပ်ကျောင်းသားဘဝဆိုတာ မည်သို့သောပုံစံဖြစ်သည်ကို ပြသသည်။
 
 8370
 Students can benefit from campus visits.
@@ -288,7 +288,7 @@ There is a challenege for the seniors.
 
 8373
 We challenge seniors to walk a mile every day.
-ကျွန်တော်တို့ စီနီယာတွေကို နေ့တိုင်း တစ်မိုင်လမ်းလျှေက်ဖို့ စိန်ခေါ်တယ်။
+ကျွန်တော်တို့ စီနီယာတွေကို နေ့တိုင်း တစ်မိုင်လမ်းလျှောက်ဖို့ စိန်ခေါ်တယ်။
 
 8374
 We don't have any programs for seniors.
@@ -296,7 +296,7 @@ We don't have any programs for seniors.
 
 8375
 The humane society cares for 1000 animals a year.
-အကြင်နာတရားရှိသောလူ့အဖွဲ့အစည်းသည် တစ်နှစ်လျှင် တိရိစ္ဆာန် ၁၀၀၀ကို ပြုစုစောက်ရှောက်သည်။
+အကြင်နာတရားရှိသောလူ့အဖွဲ့အစည်းသည် တစ်နှစ်လျှင် တိရိစ္ဆာန် ၁၀၀၀ကို ပြုစုစောင့်ရှောက်သည်။
 
 8376
 The humane society doesn't work with animals at all.
@@ -328,7 +328,7 @@ We had everything we really needed.
 
 8383
 We had food and shelter but nothing else, really.
-ငါတို့မှာ စားစရာနဲ့ နေစရာ ရှိပေမယ့် တခြား ဘာမှမရှိဘူ၊ တကယ်ပါ။
+ငါတို့မှာ စားစရာနဲ့ နေစရာ ရှိပေမယ့် တစ်ခြား ဘာမှမရှိဘူး၊ တကယ်ပါ။
 
 8384
 Members don't get a discount, because we'd lose too much money.
@@ -348,7 +348,7 @@ I don't have anything to do with the IRT.
 
 8388
 I have worked on fundraising for the IRT for over a decade.
-အိုင်အာတီအတွက် ရန်ပုံငွေရန်ဖွေခြင်းလုပ်ငန်းတွင် ဆယ်စုနှစ်တစ်ခုကျော်ကျော် ကျွန်တော်လုပ်ခဲ့တယ်။
+အိုင်အာတီအတွက် ရန်ပုံငွေရှာဖွေခြင်းလုပ်ငန်းတွင် ဆယ်စုနှစ်တစ်ခုကျော်ကျော် ကျွန်တော်လုပ်ခဲ့တယ်။
 
 8389
 I have worked with IRT for a long time.
@@ -368,7 +368,7 @@ The IMA works with other organizations in the area.
 
 8393
 The top students with financial need benefit from scholarships.
-ငွေကြေးလိုအပ်ချက်ရှိတဲ့ ထိပ်တန်းကျောင်းသားတွေဟာ ပညာသင်ဆုတွေကနေ အကျိုးခံစာခွင့်ရတယ်။
+ငွေကြေးလိုအပ်ချက်ရှိတဲ့ ထိပ်တန်းကျောင်းသားတွေဟာ ပညာသင်ဆုတွေကနေ အကျိုးခံစားခွင့်ရတယ်။
 
 8394
 There are 50 scholarships available to the top 50 students.
@@ -384,7 +384,7 @@ I can tell you're a real jerk.
 
 8397
 I feel like you are a caring, nice person.
-ခင်ဗျားဟာ ဂရုစိုက်တက်ပြီး လူကောင်းတစ်ယောက်လို့ ကျွန်တော်ခံစားမိတယ်။
+ခင်ဗျားဟာ ဂရုစိုက်တက်ပြီး ၊ လူကောင်းတစ်ယောက်လို့ ကျွန်တော်ခံစားမိတယ်။
 
 8398
 Your donation of $2000 shows you're a nice person.
