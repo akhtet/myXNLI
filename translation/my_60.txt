@@ -32,7 +32,7 @@ Two churches can be found on the right side of the road.
 
 5909
 The museum is across the street from the Egyptian museum.
-ပြတိုက်သည် အီဂျစ်ပြတိုက်မှ လမ်းတဖက်တွင်ရှိသည်။
+ပြတိုက်သည် အီဂျစ်ပြတိုက်မှ လမ်းတစ်ဖက်တွင်ရှိသည်။
 
 5910
 The museum is near the Egyptian museum.
@@ -68,11 +68,11 @@ The city does not have a great tourism industry.
 
 5918
 The city hall was replaced by a government center.
-မြို့တော်ခန်းမကို အစိုးရဗဟိုဌာနတခုနဲ အစားထိုးလိုက်တယ်။
+မြို့တော်ခန်းမကို အစိုးရဗဟိုဌာနတစ်ခုနဲ အစားထိုးလိုက်တယ်။
 
 5919
 The city hall, and other buildings, were replaced by a government center.
-မြို့တော်ခန်းမရယ်၊ ပြီးတော့ အခြား အဆောက်အဦတွေကို၊ အစိုးရဗဟိုဌာနတခုက အစားထိုးလိုက်တယ်။
+မြို့တော်ခန်းမရယ်၊ ပြီးတော့ အခြား အဆောက်အဦတွေကို၊ အစိုးရဗဟိုဌာနတစ်ခုက အစားထိုးလိုက်တယ်။
 
 5920
 The government center was replaced by city hall.
@@ -132,23 +132,23 @@ James Wilson Marshall did nothing special.
 
 5934
 James Wilson Marshall did something special.
-ဂျိမ်းစ်ဝီလျှံမာရှဲလ် က ထူးထူးခြားခြား တခုခု လုပ်ခဲ့တယ်။
+ဂျိမ်းစ်ဝီလျှံမာရှဲလ် က ထူးထူးခြားခြား တစ်ခုခု လုပ်ခဲ့တယ်။
 
 5935
 James Wilson Marshall invented something.
-ဂျိမ်းစ်ဝီလျှံမာရှဲလ် က တခုခု တီထွင်ခဲ့တယ်။
+ဂျိမ်းစ်ဝီလျှံမာရှဲလ် က တစ်ခုခု တီထွင်ခဲ့တယ်။
 
 5936
 The Perak Tong was built by a Buddhist priest.
-ပဲရက်တွန်းကို ဗုဒ္ဓဘာသာ ဘုန်းတော်ကြီးတပါးက တည်ဆောက်ခဲ့တာပါ။
+ပဲရက်တွန်းကို ဗုဒ္ဓဘာသာ ဘုန်းတော်ကြီးတစ်ပါးက တည်ဆောက်ခဲ့တာပါ။
 
 5937
 The Perak Tong was built by a Buddhist.
-ပဲရက်တွန်းကို ဗုဒ္ဓဘာသာတယောက်က တည်ဆောက်ခဲ့တာပါ။
+ပဲရက်တွန်းကို ဗုဒ္ဓဘာသာတစ်ယောက်က တည်ဆောက်ခဲ့တာပါ။
 
 5938
 The Perak Tong was not built by a Buddhist.
-ပဲရက်တွန်းကို ဗုဒ္ဓဘာသာတယောက်က တည်ဆောက်ခဲ့တာ မဟုတ်ဘူး။
+ပဲရက်တွန်းကို ဗုဒ္ဓဘာသာတစ်ယောက်က တည်ဆောက်ခဲ့တာ မဟုတ်ဘူး။
 
 5939
 Kodaly kerend is decorate with Classical gures and inlaid motifs.
@@ -207,7 +207,7 @@ Ramses II was leader for decades.
 
 5952
 Ramses II was only in power for a year.
-ရမ်စိစ်သည်တူးသည် တနှစ်သာလျှင် အာဏာရရှိခဲ့သည်။
+ရမ်စိစ်သည်တူးသည် တစ်နှစ်သာလျှင် အာဏာရရှိခဲ့သည်။
 
 5953
 Ramses II was the longest-ruling king.
@@ -227,7 +227,7 @@ The Mountesserat mountains are the tallest in the area.
 
 5957
 Coupons are given out on the beach at night, hoping for customers the next day.
-နောက်တနေ့မှာ ဖောက်သည်တွေကို မျှော်လင့်ထားရင်း၊ ညပိုင်း ကမ်းခြေမှာ ကူပွန်တွေ ဝေတယ်။
+နောက်တစ်နေ့မှာ ဖောက်သည်တွေကို မျှော်လင့်ထားရင်း၊ ညပိုင်း ကမ်းခြေမှာ ကူပွန်တွေ ဝေတယ်။
 
 5958
 Coupons are given out on the beach, hoping for long term customers.
@@ -247,7 +247,7 @@ The Rejan is over 300 miles long.
 
 5962
 The rejan is just a little puddle.
-ရဂျန်သည် ရေအိုင်ငယ်လေးတခုသာဖြစ်သည်။
+ရဂျန်သည် ရေအိုင်ငယ်လေးတစ်ခုသာဖြစ်သည်။
 
 5963
 The living area is through a tunnel that is almost a mile long.
@@ -327,7 +327,7 @@ The art project is really fascinating.
 
 5982
 This is a fascinating project.
-ဒီဟာက အရမ်းစိတ်ဝင်စားစရာကောင်းတဲ့ စီမံကိန်းတခုပဲ။
+ဒီဟာက အရမ်းစိတ်ဝင်စားစရာကောင်းတဲ့ စီမံကိန်းတစ်ခုပဲ။
 
 5983
 This is so boring!
@@ -335,7 +335,7 @@ This is so boring!
 
 5984
 Lagun Nichupte is a desert.
-လဂန်းနီချောက်ပ်သည် ကန္တာရတခုဖြစ်သည်။
+လဂန်းနီချောက်ပ်သည် ကန္တာရတစ်ခုဖြစ်သည်။
 
 5985
 Laguna Nichupte is 10 acres of water.
@@ -343,7 +343,7 @@ Laguna Nichupte is 10 acres of water.
 
 5986
 Laguna Nichupte is a body of water.
-လဂန်းနီချောက်ပ်သည် ရေပြင်တခုဖြစ်သည်။
+လဂန်းနီချောက်ပ်သည် ရေပြင်တစ်ခုဖြစ်သည်။
 
 5987
 No one cares about the cars anymore.
@@ -359,7 +359,7 @@ The cars get a lot of visitors.
 
 5990
 The Depression lasted for more than ten years.
-စီးပွားရေးပျက်ကပ်ကြီးသည် ဆယ်နှစ်ကျော် ကြခဲ့သည်။
+စီးပွားရေးပျက်ကပ်ကြီးသည် ဆယ်နှစ်ကျော် ကြာခဲ့သည်။
 
 5991
 The province was close to starvation during the Depression.
@@ -371,7 +371,7 @@ The province was known for being home to some of the wealthiest families in the 
 
 5993
 The Olympics have never been in Europe.
-အိုလံပစ်ပြိုင်ပွဲက ဥရောပမှာ တခါမှ မကျင်းပဖူးဘူး။
+အိုလံပစ်ပြိုင်ပွဲက ဥရောပမှာ တစ်ခါမှ မကျင်းပဖူးဘူး။
 
 5994
 The Olympics in Spain were the most popular of that decade.
