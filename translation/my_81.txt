@@ -16,7 +16,7 @@ The kids never come to see a performance.
 
 8005
 The kids see our shows before they put on a performance on their own.
-ကလေးတွေက သူတို့ကိုယ်တိုင် မဖျော်ဖြေခင်မှာ ငါတို့ရဲ့ ရှိုးတွေကို ကြည့်တယ်။
+ကလေးတွေက သူတို့ကိုယ်တိုင် ဖျော်ဖြေပွဲ တစ်ခုကို မစတင်ခင်မှာ ငါတို့ရဲ့ ရှိုးတွေကို ကြည့်တယ်။
 
 8006
 I would rather wait until December to tell stories.
@@ -40,7 +40,7 @@ We need better teachers.
 
 8011
 We need to hire 100 new, good teachers.
-ဆရာကောင်း အသစ် အယောက် ၁၀၀ ခန့် ခန့်အပ်ရန် လိုအပ်ပါသည်။
+ဆရာကောင်း ၊ အသစ် အယောက် ၁၀၀ ခန့် ခန့်အပ်ရန် လိုအပ်ပါသည်။
 
 8012
 The law school has been open for 100 years and has had 5,539 alumni.
@@ -78,7 +78,7 @@ I have a job that takes up all of my time.
 
 8020
 I have a job.
-ငါ့မှာ အလုပ်ရှိတယ်။
+ငါ့မှာ အလုပ် တစ်ခု ရှိတယ်။
 
 8021
 We didn't send any letters out last year.
@@ -142,15 +142,15 @@ There's nothing exciting happening here.
 
 8036
 62 percent has already been covered, and we hope you will provide the rest.
-၆၂ရာခိုင်နှုန်းကို လွှမ်းခြုံထားပြီးဖြစ်ပြီး ကျန်တာတွေကိုလည်း ဖြည့်ဆည်းပေးမယ်လို့ မျှော်လင့်ပါတယ်။
+၆၂ရာခိုင်နှုန်းကို လွှမ်းခြုံထားပြီးဖြစ်ပြီး ၊ ကျန်တာတွေကိုလည်း ဖြည့်ဆည်းပေးမယ်လို့ မျှော်လင့်ပါတယ်။
 
 8037
 The remaining 38 percent represents 38 thousand dollars still needed for the project.
-ကျန်တဲ့ ၃၈ ရာခိုင်နှုန်းက ပရောဂျက်အတွက် လိုအပ်တဲ့ ဒေါ်လာ ၃၈ဝဝဝ ကို ကိုယ်စားပြုတယ်။
+ကျန်တဲ့ ၃၈ ရာခိုင်နှုန်းက ပရောဂျက်အတွက် လိုအပ်နေဆဲဖြစ်တဲ့ ဒေါ်လာ ၃၈ဝဝဝ ကို ကိုယ်စားပြုတယ်။
 
 8038
 We will not need your assistance, since we got more funding than we needed.
-ကျွန်ုပ်တို့ လိုအပ်သည်ထက် ရန်ပုံငွေပိုရသောကြောင့် သင့်အကူအညီကို ကျွန်ုပ်တို့ မလိုအပ်ပါ။
+ကျွန်ုပ်တို့ လိုအပ်သည်ထက် ရန်ပုံငွေပိုရသောကြောင့် ၊ သင့်အကူအညီကို ကျွန်ုပ်တို့ မလိုအပ်ပါ။
 
 8039
 It costs $30 only if you join in the next two days.
@@ -190,11 +190,11 @@ We work to help improve kids' lives.
 
 8048
 The rug has fifty colors, representing all the great states of this nation.
-ကော်ဇောသည် အရောင်ငါးဆယ်ရှိပြီး ၎င်းနိုင်ငံ၏ ပြည်နယ်ကြီးများအားလုံးကို ကိုယ်စားပြုသည်။
+ကော်ဇောသည် အရောင်ငါးဆယ်ရှိပြီး ၊ ၎င်းနိုင်ငံ၏ ပြည်နယ်ကြီးများအားလုံးကို ကိုယ်စားပြုသည်။
 
 8049
 This nation had thirteen colonies in the beginning, and more were added to the lot.
-ဒီနိုင်ငံသည် အစပိုင်းတွင် ကိုလိုနီနယ် ဆယ့်သုံးခုရှိခဲ့ပြီး နောက်ထပ်ကို ကွက်လပ်တွင် ထည့်သွင်းခဲ့သည်။
+ဒီနိုင်ငံသည် အစပိုင်းတွင် ကိုလိုနီနယ် ဆယ့်သုံးခုရှိခဲ့ပြီး ၊ နောက်ထပ်ကို ကွက်လပ်တွင် ထည့်သွင်းခဲ့သည်။
 
 8050
 This rug will be displayed in the state's museum for five months.
@@ -250,11 +250,11 @@ We are succeeding.
 
 8063
 Beginning a new fiscal year with a deficit is a disadvantage.
-လိုငွေပြမှုဖြင့် ဘဏ္ဍာနှစ်သစ်စတင်ခြင်းသည် အားနည်းချက်တစ်ခုဖြစ်သည်။
+လိုငွေပြမှု တစ်ခု ဖြင့် ဘဏ္ဍာနှစ်သစ်စတင်ခြင်းသည် အားနည်းချက်တစ်ခုဖြစ်သည်။
 
 8064
 Business may not be possible if we begin a new fiscal year with a deficit.
-လိုငွေပြမှုဖြင့် ဘဏ္ဍာနှစ်သစ်ကို စတင်ပါက လုပ်ငန်းမဖြစ်နိုင်ပါ။
+လိုငွေပြမှု တစ်ခု ဖြင့် ဘဏ္ဍာနှစ်သစ်ကို စတင်ပါက လုပ်ငန်းမဖြစ်နိုင်ပါ။
 
 8065
 Starting a new fiscal year has no effect on business.
@@ -266,7 +266,7 @@ Only a few teenagers were still listening to Rock 'n' Roll.
 
 8067
 Rock 'n' Roll was growing in popularity, with thousands of concerts selling out.
-ရော့အန်ရိုးသည် လူကြိုက်များလာခဲ့ပြီး ဖျော်ဖြေပွဲပေါင်း ထောင်နှင့်ချီ၍ ရောင်းချခဲ့ရသည်။
+ရော့အန်ရိုးသည် လူကြိုက်များလာခဲ့ပြီး ၊ ဖျော်ဖြေပွဲပေါင်း ထောင်နှင့်ချီ၍ ရောင်းချခဲ့ရသည်။
 
 8068
 Rock 'n' Roll was not as popular as it used to be.
@@ -274,15 +274,15 @@ Rock 'n' Roll was not as popular as it used to be.
 
 8069
 Art is important in promoting empathy, compassion, and using one's imagination.
-အနုပညာသည် စာနာမှု၊ ကရုဏာနှင့် တစ်စုံတစ်ယောက်၏ စိတ်ကူးစိတ်သန်းများ အသုံးပြုခြင်းကို မြှင့်တင်ရာတွင် အရေးကြီးပါသည်။
+အနုပညာသည် စာနာမှု၊ ကရုဏာနှင့် ၊ တစ်စုံတစ်ယောက်၏ စိတ်ကူးစိတ်သန်းများ အသုံးပြုခြင်းကို မြှင့်တင်ရာတွင် အရေးကြီးပါသည်။
 
 8070
 Storytelling, poetry, song, and theatre are important in promoting empathy, compassion, and using one's imagination.
-ပုံပြင်ပြောခြင်း၊ ကဗျာ၊ သီချင်းနှင့် ပြဇာတ်များသည် စာနာမှု၊ ကရုဏာနှင့် တစ်စုံတစ်ယောက်၏ စိတ်ကူးစိတ်သန်းများ အသုံးပြုခြင်းတို့ကို မြှင့်တင်ရာတွင် အရေးကြီးပါသည်။
+ပုံပြင်ပြောခြင်း၊ ကဗျာ၊ သီချင်းနှင့် ၊ ပြဇာတ်များသည် စာနာမှု၊ ကရုဏာနှင့် ၊ တစ်စုံတစ်ယောက်၏ စိတ်ကူးစိတ်သန်းများ အသုံးပြုခြင်းတို့ကို မြှင့်တင်ရာတွင် အရေးကြီးပါသည်။
 
 8071
 Storytelling, poetry, song, and theatre are unimportant and are absolutely useless in promoting empathy, compassion, and the imagination.
-ပုံပြင်ပြောခြင်း၊ ကဗျာ၊ သီချင်းနှင့် ပြဇာတ်များသည် အရေးမကြီးဘဲ စာနာမှု၊ ကရုဏာနှင့် စိတ်ကူးစိတ်သန်းများကို မြှင့်တင်ရာတွင် လုံးဝ အသုံးမဝင်ပေ။
+ပုံပြင်ပြောခြင်း၊ ကဗျာ၊ သီချင်းနှင့် ၊ ပြဇာတ်များသည် အရေးမကြီးဘဲ စာနာမှု၊ ကရုဏာနှင့် ၊ စိတ်ကူးစိတ်သန်းများကို မြှင့်တင်ရာတွင် လုံးဝ အသုံးမဝင်ပေ။
 
 8072
 All of the animals are recovered by their owners.
