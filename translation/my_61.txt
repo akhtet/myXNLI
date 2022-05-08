@@ -1,6 +1,6 @@
 6001
 There is a weathervane on top of the building.
-အဆောက်အဦးရဲ့ အပေါ်မှာ လေညွှန်တံ တခု ရှိတယ်။
+အဆောက်အဦးရဲ့ အပေါ်မှာ လေညွှန်တံ တစ်ခု ရှိတယ်။
 
 6002
 Quetico has no water in it.
@@ -16,7 +16,7 @@ There are a lot of waterways in Quetico.
 
 6005
 The Hong Kong Park was a path that goes to it.
-ဟောင်ကောင်ဥယျာဉ်သည် ၎င်းဆီသို့ သွားသော လမ်းကြောင်း တခု ဖြစ်သည်။
+ဟောင်ကောင်ဥယျာဉ်သည် ၎င်းဆီသို့ သွားသော လမ်းကြောင်း တစ်ခု ဖြစ်သည်။
 
 6006
 The path is 5 miles to the Hong Kong Park.
@@ -128,7 +128,7 @@ It lists 10 planks of wood.
 
 6033
 Two planks get lifted by a robot.
-ပျဉ်ပြားနှစ်ချောင်းကို စက်ရုပ်တခုနဲ့ မရွှေ့လိုက်တယ်။
+ပျဉ်ပြားနှစ်ချောင်းကို စက်ရုပ်တစ်ခုနဲ့ မရွှေ့လိုက်တယ်။
 
 6034
 Two planks get lifted.
@@ -144,7 +144,7 @@ The second tower is 1000 feet tall.
 
 6037
 There is just one tower.
-တာဝါ တခုသာလျှင် ရှိသည်။
+တာဝါ တစ်ခုသာလျှင် ရှိသည်။
 
 6038
 The buses alternate which stop they end at.
@@ -220,19 +220,19 @@ Visitors like the flowers around the cathedra.
 
 6056
 There is a list about beaches.
-ပင်လယ်ကမ်းခြေတွေရဲ့ အကြောင်း စာရင်းတခုရှိတယ်။
+ပင်လယ်ကမ်းခြေတွေရဲ့ အကြောင်း စာရင်းတစ်ခုရှိတယ်။
 
 6057
 There is a list that explains all about how nice the sand is at each beach.
-ကမ်းခြေတခုချင်းစီမှာရှိတဲ့ သဲတွေဘယ်လောက်ကောင်းလဲဆိုတာ အားလုံးရှင်းပြထားတဲ့ စာရင်းတခုရှိတယ်။
+ကမ်းခြေတစ်ခုချင်းစီမှာရှိတဲ့ သဲတွေဘယ်လောက်ကောင်းလဲဆိုတာ အားလုံးရှင်းပြထားတဲ့ စာရင်းတစ်ခုရှိတယ်။
 
 6058
 We only have one beach.
-ငါတို့ဆီမှာ ကမ်းခြေတခုပဲရှိတယ်။
+ငါတို့ဆီမှာ ကမ်းခြေတစ်ခုပဲရှိတယ်။
 
 6059
 Caldas de Monchique is a terrible setting for a picnic.
-ကလ်ဒတ်စ်ဒီမွန်ကီးခ်သည် ပျော်ပွဲစားထွက်ရန် ဆိုးဝါးသောဝန်းကျင်နေရာတခု ဖြစ်သည်။
+ကလ်ဒတ်စ်ဒီမွန်ကီးခ်သည် ပျော်ပွဲစားထွက်ရန် ဆိုးဝါးသောဝန်းကျင်နေရာတစ်ခု ဖြစ်သည်။
 
 6060
 Caldas de Monchique serves food.
@@ -256,7 +256,7 @@ The cruise only last 17 minutes.
 
 6065
 Occasionally a visitor is crushed by an improperly manipulated machine.
-ရံဖန်ရံခါ မတော်တဆကိုင်တွယ်ပြုလုပ်ထားသည့်စက်တခုကြောင့် ဧည့်သည်တယောက်ကို ထိခိုက်မိသည်။
+ရံဖန်ရံခါ မတော်တဆကိုင်တွယ်ပြုလုပ်ထားသည့်စက်တစ်ခုကြောင့် ဧည့်သည်တစ်ယောက်ကို ထိခိုက်မိသည်။
 
 6066
 The Spectrum section has an area to manipulate various machines.
@@ -280,7 +280,7 @@ There aren't as many people in the towns near Barbizon.
 
 6071
 There have never been pirates in the Caribbean.
-ကာရေဘီယံတွင် ပင်လယ်ဓားပြတွေ တခါမျှ မရှိဖူးပါ။
+ကာရေဘီယံတွင် ပင်လယ်ဓားပြတွေ တစ်ခါမျှ မရှိဖူးပါ။
 
 6072
 There were 100 pirate ships in Puerto rico.
@@ -292,11 +292,11 @@ There were pirates in the Carribbean.
 
 6074
 The tourism people think the area needs a better name because the old one sounds dumpy.
-အမည် အဟောင်းသည် တိုတိုတုတ်တုတ်ဖြစ်နေသည်ဟု ထင်ရ၍ အဆိုပါ ဒေသသည် ပိုကောင်းသော အမည်တခု လိုအပ်သည်ဟု ခရီးသွားလုပ်ငန်းမှပြည်သူများသည် စိတ်ကူးယူဆကြသည်။
+အမည် အဟောင်းသည် တိုတိုတုတ်တုတ်ဖြစ်နေသည်ဟု ထင်ရ၍ အဆိုပါ ဒေသသည် ပိုကောင်းသော အမည်တစ်ခု လိုအပ်သည်ဟု ခရီးသွားလုပ်ငန်းမှပြည်သူများသည် စိတ်ကူးယူဆကြသည်။
 
 6075
 The tourism people want to give the area a new name.
-ခရီးသွားလုပ်ငန်းမှပြည်သူများသည် အဆိုပါ ဧရိယာဒေသကို အမည်သစ်တခုပေးချင်ကြသည်။
+ခရီးသွားလုပ်ငန်းမှပြည်သူများသည် အဆိုပါ ဧရိယာဒေသကို အမည်သစ်တစ်ခုပေးချင်ကြသည်။
 
 6076
 They want to keep the name the same because it's so great.
