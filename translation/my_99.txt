@@ -160,7 +160,7 @@ There have been exactly two books written on the history of Canada's North, and 
 
 9841
 Though they wrote many popular modern songs, Peter C. Newman and Pierre Berton never wrote books about history.
-နာမည်ကြီးထင်ရှားသော ခေတ်ပေါ်မော်ဒန်သီချင်းများစွာ ရေးသားခဲ့ကြသော်လည်း၊ ပီတာ စီ နယူးမန်နှင့် ပိဖ်ရာ ဘာတွန် တို့သည် သမိုင်းနှင့်ပတ်သက်သည့် စာအုပ်များကို တခါမျှ မရေးခဲ့ကြပါ။
+နာမည်ကြီးထင်ရှားသော ခေတ်ပေါ်မော်ဒန်သီချင်းများစွာ ရေးသားခဲ့ကြသော်လည်း၊ ပီတာ စီ. နယူးမန်နှင့် ပိဖ်ရာ ဘာတွန် တို့သည် သမိုင်းနှင့်ပတ်သက်သည့် စာအုပ်များကို တခါမျှ မရေးခဲ့ကြပါ။
 
 9842
 Hogwash is defined as that which is nonsensical and worthless.
@@ -228,7 +228,7 @@ He doesn't try because he has no motivation.
 
 9858
 He has all of the worries in the world.
-ကမ္ဘာပေါ်မှာရှိသမျှ စိုးရိမ်ပူပမ်စရာတွေ သူ့မှာ အကုန်ရှိတယ်။
+ကမ္ဘာပေါ်မှာရှိသမျှ စိုးရိမ်ပူပန်စရာတွေ သူ့မှာ အကုန်ရှိတယ်။
 
 9859
 He is not worried because he doesn't try.
@@ -356,7 +356,7 @@ The Swede Church and the Swedish church are pretty much different.
 
 9890
 She gestured toward another, bushier shrub.
-သူမသည် တခြား ချုံထူသည့်ချုံပုတ်ဘက်ဆီကို၊ လက်ပြလိုက်သည်။
+သူမသည် အခြား ချုံထူသည့်ချုံပုတ်ဘက်ဆီကို၊ လက်ပြလိုက်သည်။
 
 9891
 She gestured towards a bush that was somewhat depressing.
@@ -364,11 +364,11 @@ She gestured towards a bush that was somewhat depressing.
 
 9892
 That bush is less bushy than the other.
-ဒီချုံက တခြားချုံတွေလောက် ချုံမထူထပ်ဘူး။
+ဒီချုံက အခြားချုံတွေလောက် ချုံမထူထပ်ဘူး။
 
 9893
 A king that sets up an order of succession is always accused of showing signs of weakness.
-ထီးနန်းဆက်ခံသည့် အမိန်တစ်ခု ထုတ်ပြန်သည့် ဘုရင်တစ်ပါးသည် ပျော့ညံ့မှုလက္ခဏာများကို ထုတ်ဖော်ပြသနေသည်ဟု အမြဲစွပ်စွဲခံရသည်။
+ထီးနန်းဆက်ခံသည့် အမိန့်တစ်ခု ထုတ်ပြန်သည့် ဘုရင်တစ်ပါးသည် ပျော့ညံ့မှုလက္ခဏာများကို ထုတ်ဖော်ပြသနေသည်ဟု အမြဲစွပ်စွဲခံရသည်။
 
 9894
 A president has a vice-president, but a king does not have a vice-king.
