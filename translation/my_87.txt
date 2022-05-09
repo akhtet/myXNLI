@@ -32,7 +32,7 @@ Talmudic has no problems.
 
 8609
 The courthouse isn't the only political place in washington.
-တရားရုံးသည် ဝါရှင်တန်ရှိ နိုင်ငံရေးနှင့်သက်ဆိုင်သည့် တခုတည်းသောနေရာမဟုတ်ပါ။
+တရားရုံးသည် ဝါရှင်တန်ရှိ နိုင်ငံရေးနှင့်သက်ဆိုင်သည့် တစ်ခုတည်းသောနေရာမဟုတ်ပါ။
 
 8610
 The political day likely starts in the morning.
@@ -164,7 +164,7 @@ The cover story talks about how infants make decisions.
 
 8642
 Pollution is a limiting factor for population growth.
-ပတ်ဝန်းကျင်ညစ်ညမ်းမှုသည် လူဦးရေတိုးပွားလာမှုအတွက် အကန်းအသတ်ဖြစ်စေသော အကြောင်းတစ်ခု ဖြစ်သည်။
+ပတ်ဝန်းကျင်ညစ်ညမ်းမှုသည် လူဦးရေတိုးပွားလာမှုအတွက် အကန့်အသတ်ဖြစ်စေသော အကြောင်းတစ်ခု ဖြစ်သည်။
 
 8643
 Population growth is similar to inverse pollution.
@@ -200,7 +200,7 @@ Bradley was from the east side of St Louis.
 
 8651
 Can you explain to me why that option is preferable to becoming a fur coat?
-သားမွေးကုတ်အင်္ကျီတစ်ထည် ဖြစ်လာဖို့ ဘာကြောင့် ဒီရွေးချယ်မှုဟာ ပိုပြီးကောင်မွန်သင့်တော်တယ်ဆိုတာ ခင်ဗျား ကျွန်တော့်ကို ရှင်းပြပေးနိုင်မလား။
+သားမွေးကုတ်အင်္ကျီတစ်ထည် ဖြစ်လာဖို့ ဘာကြောင့် ဒီရွေးချယ်မှုဟာ ပိုပြီးကောင်းမွန်သင့်တော်တယ်ဆိုတာ ခင်ဗျား ကျွန်တော့်ကို ရှင်းပြပေးနိုင်မလား။
 
 8652
 If the animal is already dead and the fur is going to be discarded and burned if it isn't used, is turning it into a fur coat the best option and a form of recycling?
@@ -216,7 +216,7 @@ Despite USA Today's profits, the paper still is famous for negative media covera
 
 8655
 Since 2010 when USA Today has posted a profit, they still receive attention for their media criticism.
-ယူအက်စ်အေတူဒေးသည် အမြတ်အစွန်းကို တင်သည့်အချန် ၂၀၁၀ခုနှစ်ကတည်းက၊ ၎င်းတို့၏ သတင်းမီဒီယာ ဝေဖန်မှုအတွက် ၎င်းတို့သည် အာရုံစိုက်ခံနေရဆဲဖြစ်သည်။
+ယူအက်စ်အေတူဒေးသည် အမြတ်အစွန်းကို တင်သည့်အချိန် ၂၀၁၀ခုနှစ်ကတည်းက၊ ၎င်းတို့၏ သတင်းမီဒီယာ ဝေဖန်မှုအတွက် ၎င်းတို့သည် အာရုံစိုက်ခံနေရဆဲဖြစ်သည်။
 
 8656
 USA Today has lost money every year recently but is still thought of in a positive light.
@@ -276,7 +276,7 @@ The NEA is too busy to ask detailed questions concerning literature on their sur
 
 8670
 The NEA survey asked 30 questions about literature and what types of books were read in the past year.
-အန်အီးအေစစ်တမ်းသည် စာပေနှင့် ယမန်နှစ်က မည်သည့်စာအုပ်အမျိုးအစာများကို ဖတ်ရှုခဲ့သည်တို့နှင့်ပတ်သက်၍ မေးခွန်းပေါင်း ၃၀ မေးမြန်းခဲ့သည်။
+အန်အီးအေစစ်တမ်းသည် စာပေနှင့် ယမန်နှစ်က မည်သည့်စာအုပ်အမျိုးအစားများကို ဖတ်ရှုခဲ့သည်တို့နှင့်ပတ်သက်၍ မေးခွန်းပေါင်း ၃၀ မေးမြန်းခဲ့သည်။
 
 8671
 The NEA survey has only one question concerning books.
