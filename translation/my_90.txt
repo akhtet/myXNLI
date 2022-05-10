@@ -179,7 +179,6 @@ I've never been to Radio City Music Hall.
 8945
 Everyone should have Laibson-style preferences.
 လူတိုင်းက လေ့ဘ်ဆန် စတိုင်လ် လိုလားမှု ရှိသင့်တယ်။
-# REVIEW
 
 8946
 I don't know why humans would have Laibson style preferences.
@@ -191,7 +190,7 @@ Laibson style preferences are the norm.
 
 8948
 Clinton's administration supports freedom on the web.
-ကလင်တန် အစိုးရသည် ဝက်ဘ်ပေါ်ရှိ လွတ်လပ်မှုကို ထောက်ခံသည်။
+ကလင်တန် ၏ အစိုးရသည် ဝက်ဘ်ပေါ်ရှိ လွတ်လပ်မှုကို ထောက်ခံသည်။
 
 8949
 The Clinton administration does not support lowering taxes.
@@ -387,7 +386,7 @@ The man moved from Germany after he was born.
 
 8997
 The rich, schooled, traveled man was born in Germany.
-ချမ်းသာပြီး ပညာတတ်၊ ခရီးသွားလာသူ က ဂျာမနီမှာ မွေးဖွားခဲ့ပါတယ်။
+ချမ်းသာပြီး ၊ ပညာတတ်၊ ခရီးသွားလာသူ က ဂျာမနီမှာ မွေးဖွားခဲ့ပါတယ်။
 
 8998
 This man was born in Arkansas and was poor, uneducated and never traveled.
