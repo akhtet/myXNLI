@@ -36,7 +36,7 @@ The CFO Act significantly reduced the demands on finance organizations.
 
 6610
 These demands hare required a twenty percent increase in staffing levels.
-ဤတောင်းဆိုချက်များသည် ဝန်ထမ်းဆိုင်ရာ အဆင့်များတွင် နှစ်ဆယ် ရာခိုင်နှုန်း တိုးရန် အမြန် လိုအပ်ပါသည်။
+ဤတောင်းဆိုချက်များသည် ဝန်ထမ်းဆိုင်ရာ အဆင့်များတွင် နှစ်ဆယ် ရာခိုင်နှုန်း တိုးရန် လိုအပ်ပါသည်။
 
 6611
 Efforts were taken to help institute electronic commerce in state governments.
@@ -52,7 +52,7 @@ The initiative was intended to remove all state reliance on computer systems.
 
 6614
 The differences were so significant that they were written down.
-ကွဲလွဲချက်တွေက သိသာထင်ရှားလွန်းလို့ သူတို့က ချရေးခဲ့ကြတယ်။
+ကွဲလွဲချက်တွေက သိသာထင်ရှားလွန်းလို့ ၎င်းတို့ကို ချရေးထားခဲ့တယ်။
 
 6615
 There was absolutely no detectable difference.
@@ -76,7 +76,7 @@ The attorney may face liability even if they withdraw from the case.
 
 6620
 The SCR connection is the first of the lot.
-အက်စ်စီအာ ချိတ်ဆက်မှုသည် ပထမဆုံး အများအပြား ဖြစ်သည်။
+အက်စ်စီအာ ချိတ်ဆက်မှုသည် အများထဲမှ ပထမဆုံး ဖြစ်သည်။
 
 6621
 The outage period is more than two weeks.
@@ -92,7 +92,7 @@ Each ZIP Code is served by only one route.
 
 6624
 Many routes may cover a single ZIP Code.
-လမ်းကြောင်း များစွာသည် စာတိုက် ကုဒ် တစ်ခုတည်းကို လွှမ်းခြုံနိုင်သည်။
+လမ်းကြောင်း များစွာသည် စာတိုက် ကုဒ် တစ်ခုကို လွှမ်းခြုံနိုင်သည်။
 
 6625
 Most ZIP Codes cover roughly ten thousand addresses.
@@ -124,11 +124,11 @@ You have done something to support us in this past year.
 
 6632
 If this requirement were put in place the number of LSC grantees would fall by 80 percent.
-အကယ်၍ ဤ လိုအပ်ချက်ကို ဒီနေရာမှာ ထည့်သွင်းပါက အယ်လ်အက်စ်စီ ထောက်ပံ့သူ အရေအတွက်သည် 80 ရာခိုင်နှုန်း ကျဆင်းသွားမည်ဖြစ်သည်။
+အကယ်၍ ဤ လိုအပ်ချက်ကို ဒီနေရာမှာ ထည့်သွင်းပါက အယ်လ်အက်စ်စီ ထောက်ပံ့သူ အရေအတွက်သည် ၈၀ ရာခိုင်နှုန်း ကျဆင်းသွားမည်ဖြစ်သည်။
 
 6633
 It would be a trivial matter for attorney to monitor eligible aliens at all times.
-လူတစ်စုကို အချိန်တိုင်း စောင့်ကြည့်ဖို့က အလုပ်များစေလိမ့်မယ်။
+သင့်လျှော်သော နိုင်ငံခြားသားများကို အချိန်တိုင်း  စောင့်ကြည့်ဖို့က ရှေ့နေအတွက် အသေးအဖွဲ ကိစ္စဖြစ်လိမ့်မယ်။
 
 6634
 It would be allot of work to monitor a group of people at all times.
@@ -160,7 +160,7 @@ There is a separate counseling unit that meet with patients after they leave the
 
 6641
 900 MWe units burn about 1.5 percent sulfur bituminous coal.
-၉၀၀ MWe ယူနစ်သည် ဆာလဖာ ဘစ်ကျူမီနွတ် ကျောက်မီးသွေး ၁.၅ ရာခိုင်နှုန်း ခန့်ကို လောင်ကျွမ်းစေပါသည်။
+၉၀၀ အမ်ဒဗလျူအီး ယူနစ်သည် ဆာလဖာ ဘစ်ကျူမီနွတ် ကျောက်မီးသွေး ၁.၅ ရာခိုင်နှုန်း ခန့်ကို လောင်ကျွမ်းစေပါသည်။
 
 6642
 The units burn less sulfur bituminous coal than other units.
@@ -284,7 +284,7 @@ They're firing half the employees.
 
 6672
 They're firing some people.
-သူတို့က လူတချို့ကို ပစ်နေသည်။
+သူတို့က လူတချို့ကို အလုပ်ထုတ်တယ်။
 
 6673
 They're hiring like crazy!
@@ -300,7 +300,7 @@ The CIO is not involved in resource allocation decisions.
 
 6676
 The CIO organization usually has a staff of seven people on hand to provide support in these cases.
-စီအိုင်အို အဖွဲ့အစည်းသည် ဤ ကိစ္စရပ်များတွင် ပံ့ပိုး ကူညီ ရန် လူခုနစ်ဦးပါရှိသော ဝန်ထမ်းအင်အား တစ်ခု ၏ လက်ထဲတွင် မကြာခဏ ရှိသည်။
+ဤ ကိစ္စရပ်များတွင် ပံ့ပိုး ကူညီ ရန် စီအိုင်အို အဖွဲ့အစည်းသည် လက်ထဲတွင် လူခုနစ်ဦးပါရှိသော ဝန်ထမ်းအင်အား တစ်ခု အစဉ် ရှိသည်။
 
 6677
 Not everyone ants to allow public comments.
