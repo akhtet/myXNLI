@@ -120,7 +120,7 @@ Some have internal controls.
 
 6731
 One agency tried to make it so that an employee can just claim any travel expenses under $75 under an aggregate amount.
-အေဂျင်စီ တစ်ခုက ဝန်ထမ်း တစ်ဦးသည် စုစုပေါင်း ပမာဏ တစ်ခု အောက်တွင် $၇၅ အောက် ခရီးသွား စရိတ်များကို တောင်းဆိုနိုင်စေရန် ကြိုးပမ်းခဲ့သည်။
+ဝန်ထမ်း တစ်ဦးသည် စုစုပေါင်း ပမာဏ တစ်ခု အောက်တွင် ဒေါ်လာ ၇၅ အောက် ခရီးသွား စရိတ်များကို တောင်းဆိုနိုင်စေရန် အေဂျင်စီ တစ်ခုက ကြိုးပမ်းခဲ့သည်။
 
 6732
 This idea was not well-received by t=other agencies.
@@ -232,11 +232,11 @@ We figured the volume is exactly the same as the pieces per possible.
 
 6759
 We figured the volume per capita and pieces were related.
-လူတစ်ဉီးတစ်ယောက်ချင်းစီ၏ အသံ နှင့် အပိုင်းအစများသည် ဆက်နွယ်နေသည်ကို ကျွန်တော်တို့က ယူဆပါသည်။
+လူတစ်ဉီးတစ်ယောက်ချင်းစီ၏ ထုထည် နှင့် အပိုင်းအစများသည် ဆက်နွယ်နေသည်ကို ကျွန်တော်တို့က ယူဆပါသည်။
 
 6760
 We know there's no connection between volume per capita and pieces per possible.
-လူတစ်ဉီးတစ်ယောက်ချင်းစီ၏ အသံ နှင့် ဖြစ်နိုင်ချေရှိသော တစ်ခုချင်းစီအကြား ဆက်စပ်မှုမရှိသည်ကို ကျွန်ုပ်တို့သိပါသည်။
+လူတစ်ဉီးတစ်ယောက်ချင်းစီ၏ ထုထည် နှင့် ဖြစ်နိုင်ချေရှိသော အပိုင်းအစများအကြား ဆက်စပ်မှုမရှိသည်ကို ကျွန်ုပ်တို့သိပါသည်။
 
 6761
 The welcome package is delivered by hand.
@@ -260,7 +260,7 @@ There was a six-week service outage.
 
 6766
 There was no boiler service outage.
-ဘွိုင်လာ ဝန်ဆောင်မှု ပြတ်တောက်မှု မရှိခဲ့ပါ။
+ဘွိုင်လာ ဝန်ဆောင်မှု ပြတ်တောက်ခြင်း မရှိခဲ့ပါ။
 
 6767
 Big countries fared better with this system.
@@ -320,7 +320,7 @@ The concentration-response relationship is rarely figured out exactly.
 
 6781
 The effects of the concentration-response relationship are rarely overestimated.
-အာရုံစူးစိုက်မှု-တုံ့ပြန်မှု ဆက်ဆံရေး၏ အကျိုးသက်ရောက်မှုများကို လျှော့တွက်ရန်မှာ အလွန်နည်းပါးပါသည်။
+အာရုံစူးစိုက်မှု-တုံ့ပြန်မှု ဆက်ဆံရေး၏ အကျိုးသက်ရောက်မှုများကို ပို၍ခန့်မှန်းမိတာ ဖြစ်ခဲပါတယ်။
 
 6782
 The bypass will  send water to the FGD.
@@ -372,15 +372,15 @@ One size fits all when it comes to brief interventions.
 
 6794
 No reports on pilot programs were submitted.
-လေယာဉ်မှူးနှင့်ပတ်သက်သည့် စီမံကိန်း အစီရင်ခံစာများကို တင်သွင်းခဲ့ခြင်းမရှိပါ။
+ရှေ့ပြေးအစီအစဉ်များ နှင့်ပတ်သက်သည့် အစီရင်ခံစာများကို တင်သွင်းခဲ့ခြင်းမရှိပါ။
 
 6795
 There were forty-four pilot project reports submitted.
-လေယာဉ်မှူးနှင့်ပတ်သက်သည့် စီမံကိန်း အစီရင်ခံစာ လေးဆယ့်လေးခုကို တင်ပြခဲ့သည်။
+ရှေ့ပြေးစီမံကိန်း နှင့်ပတ်သက်သည့် အစီရင်ခံစာ လေးဆယ့်လေးခုကို တင်ပြခဲ့သည်။
 
 6796
 There were more pilot programs, but only forty-four submitted reports.
-နောက်ထပ် လေယာဉ်မှူးနှင့်ပတ်သက်သည့် စီမံကိန်းများ ရှိခဲ့သော်လည်း ၊ အစီရင်ခံစာ လေးဆယ့်လေးခုသာ တင်ပြခဲ့သည်။
+နောက်ထပ် ရှေ့ပြေးအစီအစဉ်များ ရှိခဲ့သော်လည်း ၊ အစီရင်ခံစာ လေးဆယ့်လေးခုသာ တင်ပြခဲ့သည်။
 
 6797
 It is not possible to modify the Title V operating permit.
