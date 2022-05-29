@@ -12,8 +12,8 @@ trans_dir = 'translation'
 my_dev_file = 'output/myxnli.dev.tsv'
 my_test_file = 'output/myxnli.test.tsv'
 
-keyword_file = 'translation/keywords.csv'
-en_sentence_file = 'translation/english.txt'
+keyword_file = 'output/keywords.csv'
+en_sentence_file = 'output/english.txt'
 
 # Create DEV and TEST files from the Originals
 
@@ -31,6 +31,9 @@ def build_dict():
     file_stats = {}
 
     for fname in os.listdir(trans_dir):
+        if not fname.startswith('my_'):
+            continue
+
         print ('Processing', fname)   
         state = 0
 
