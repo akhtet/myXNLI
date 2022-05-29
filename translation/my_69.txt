@@ -116,11 +116,11 @@ The group only met twice a year.
 
 6830
 Federal employees agree to the same terms and conditions as the rest of the covered population.
-ဖယ်ဒရယ် ဝန်ထမ်းများသည် အကျုံးဝင်သော ကျန်ရှိသည့် လူဦးရေကဲ့သို့ တူညီသော စည်းကမ်း နှင့် သတ်မှတ်ချက်များကို သဘောတူပါသည်။
+ဖယ်ဒရယ် ဝန်ထမ်းများသည် အကျုံးဝင်သော လူဦးရေမှ ကျန်ရှိသူများ ကဲ့သို့ တူညီသော စည်းကမ်း နှင့် သတ်မှတ်ချက်များကို သဘောတူပါသည်။
 
 6831
 Federal employees also have other programs available to them.
-ဖယ်ဒရယ် ဝန်ထမ်းများတွင် သူတို့ကို ရရှိနိုင်သော အခြားသော ပြဿနာများလည်း ရှိသည်။
+ဖယ်ဒရယ် ဝန်ထမ်းများတွင် သူတို့ ရရှိနိုင်သော အခြားသော အစီအစဉ်များလည်း ရှိသည်။
 
 6832
 The terms and conditions are different for Federal employees.
@@ -136,7 +136,7 @@ The appendix is empty there is no information available.
 
 6835
 The data is shown according to the 5 digit zip code data.
-အချက်အလက်ကို ဂဏန်း 5 စာတိုက် ကုဒ် အချက်အလက် အရ ပြထားသည်။
+အချက်အလက်ကို ဂဏန်း ၅လုံးပါ စာတိုက် ကုဒ် အချက်အလက် အရ ပြထားသည်။
 
 6836
 A contingency plan to minimize losses should be included in the the plan.
@@ -148,7 +148,7 @@ The plan does not need to contain a training program.
 
 6838
 The plan should also include a budget.
-အစီအစဥ်တွင် ဘတ်ဂျက် တစ်ခု လည်း ထည့်သွင်းသင့်သည်။
+အစီအစဉ်တွင် ဘတ်ဂျက် တစ်ခု လည်း ထည့်သွင်းသင့်သည်။
 
 6839
 It is proven that saving now is the best way to accumulate assets.
@@ -204,7 +204,7 @@ The state does not outsource any functions.
 
 6852
 The state outsourced things like help desks and mainframe management.
-စားပွဲများ နှင့် ပင်မဘောင် စီမံခန့်ခွဲမှု တွေကို ကူညီသကဲ့သို့သော အရာများကို နိုင်ငံတော်မှ ပြင်ပအဖွဲ့အစည်းများနှင့်စာချုပ်ချုပ်ဆိုကြသည်။
+အကူအညီပေးလုပ်ငန်းများ နှင့် မိန်းဖရိန် စီမံခန့်ခွဲမှု ကဲ့သို့သော အရာများကို နိုင်ငံတော်မှ ပြင်ပအဖွဲ့အစည်းများနှင့်စာချုပ်ချုပ်ဆိုကြသည်။
 
 6853
 There were many other functions that the state could have outsourced as well.
@@ -248,7 +248,7 @@ There should be a program in place to compensate these civil servants.
 
 6863
 The approach doesn't tell you anything about if a trip occured.
-ဒီ ချဉ်းကပ်မှုက ခရီး တစ်ခု ပေါ်ပေါက်ပါလျှင် အဲ့အကြောင်းကို သင့်အား ဘာမှ မပြောပြပါ။
+ခရီး တစ်ခု ပေါ်ပေါက်ပါလျှင်  ဒီ ချဉ်းကပ်မှုက သင့်အား ဘာမှ မပြောပြပါ။
 
 6864
 The approach makes sure travel reimbursement is legit.
@@ -387,15 +387,15 @@ The ED triggers alcohol abuse relapse in a recovering patients.
 
 6896
 Companies don't use keys.
-ကုမ္ပဏီများသည် သော့များကို မသုံးကြပါ။
+ကုမ္ပဏီများသည် သော့ချက်များကို မသုံးကြပါ။
 
 6897
 Each company key is different.
-ကုမ္ပဏီတစ်ခုနဲ့တစ်ခု သော့ မတူပါဘူး။
+ကုမ္ပဏီတစ်ခုနဲ့တစ်ခု သော့ချက် မတူပါဘူး။
 
 6898
 Each company uses keys.
-ကုမ္ပဏီတိုင်းသည် သော့များကို အသုံးပြုကြသည်။
+ကုမ္ပဏီတိုင်းသည် သော့ချက်များကို အသုံးပြုကြသည်။
 
 6899
 The field representatives do not discuss claims.
