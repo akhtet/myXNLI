@@ -12,6 +12,9 @@ trans_dir = 'translation'
 my_dev_file = 'output/myxnli.dev.tsv'
 my_test_file = 'output/myxnli.test.tsv'
 
+keyword_file = 'translation/keywords.csv'
+en_sentence_file = 'translation/english.txt'
+
 # Create DEV and TEST files from the Originals
 
 # BASIC: 'label', 'sentence1', 'sentence2'
@@ -49,6 +52,14 @@ def build_dict():
     
     print ('%d entries loaded to the dictionary' % len(my_dict.keys()))
     return my_dict, file_stats
+
+
+def load_keywords():
+    keywords = {}
+    with open(keyword_file, encoding='utf-8') as infile:
+        reader = csv.reader(infile)
+        keywords = {rows[0].lower():rows[1] for rows in reader} # TODO: allow multiple values
+    return keywords
 
 
 def analyze_file(fname):
@@ -105,6 +116,8 @@ def analyze_file(fname):
     blocks = {}
     orphans = {}
 
+    keywords = load_keywords()
+
     state = 0   # Init or blank line
     line_num = 0
 
@@ -140,6 +153,14 @@ def analyze_file(fname):
                     blocks[seq_num]['target'] = line
                     if is_invalid(line):
                         blocks[seq_num]['errors'].append('Invalid characters found in translation')
+
+                    # Check against existing dictionary entries for consistency
+                    
+                    for word in blocks[seq_num]['source'].lower().split():
+                        if word in keywords:
+                            if not keywords.get(word) in line:
+                                blocks[seq_num]['errors'].append('Inconsistent translation for "%s"' % (word))
+
                 elif line == '<MYANMAR UNICODE TRANSLATION HERE>':
                     blocks[seq_num]['errors'].append('Missing Translation')                                   
                 else:
@@ -210,6 +231,17 @@ def summarize_errors(blocks, orphans):
     print(yaml.dump(summary))
 
 
+def write_source_sentences(my_dict):
+    """
+    Writes English sentences for NER task
+    """
+    print ('Writing ', en_sentence_file)
+    outfile = open(en_sentence_file, 'wt', encoding='utf-8')
+    for sent in my_dict:
+        outfile.write(sent + '\n')
+    outfile.close()
+
+
 def write_dataset(my_dict):
     """
     Takes the original XNLI Dataset files and creates corresponding Burmese Dataset files
@@ -263,14 +295,16 @@ def write_dataset(my_dict):
 
     # TODO: Add a new column to the parallel corpus
 
+
 if __name__ == '__main__':
 
     if len(sys.argv) == 1:
         mydict, stats = build_dict()
         print(stats)
         write_dataset(mydict)
+        write_source_sentences(mydict)
     else:
- 
+
         for fname in sys.argv[1:]:
             blocks, orphans = analyze_file(fname)
             summarize_errors(blocks, orphans)
