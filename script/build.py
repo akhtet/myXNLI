@@ -12,8 +12,8 @@ trans_dir = 'translation'
 my_dev_file = 'output/myxnli.dev.tsv'
 my_test_file = 'output/myxnli.test.tsv'
 
-keyword_file = 'output/keywords.csv'
-en_sentence_file = 'output/english.txt'
+keyword_file = 'translation/keywords.csv'
+en_sentence_file = 'translation/english.txt'
 
 # Create DEV and TEST files from the Originals
 
@@ -119,6 +119,7 @@ def analyze_file(fname):
     blocks = {}
     orphans = {}
 
+    # TODO Option to receive external keyword list from googlesheets
     keywords = load_keywords()
 
     state = 0   # Init or blank line
