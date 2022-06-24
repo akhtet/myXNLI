@@ -1,18 +1,18 @@
 1301
 LSC-funded attorneys would be required to monitor the movements of their clients, and to withdraw from cases whenever their alien clients leave the United States.
-အယ်အက်စ်စီ မှ ထောက်ပံ့ထားသော ရှေ့နေများသည် သူတို့ဖောက်သည်များ၏ လှုပ်ရှားမှုများကို စောင့်ကြည့်ရန်နှင့် သူတို့၏ အခြားဖောက်သည်များ အမေရိကန်ပြည်ထောင်စုမှ ထွက်ခွာရင် အမှုများကို ရုပ်သိမ်းရန် လိုအပ်သည်။
+အယ်အက်စ်စီ မှ ထောက်ပံ့ထားသော ရှေ့နေများသည် သူတို့ဖောက်သည်များ၏ လှုပ်ရှားမှုများကို စောင့်ကြည့်ရန်နှင့် သူတို့၏ တိုင်းတစ်ပါးသား ဖောက်သည်များ အမေရိကန်ပြည်ထောင်စုမှ ထွက်ခွာတဲ့အခါတိုင်း ကိစ္စရပ်များကို ရုပ်သိမ်းရန် လိုအပ်လိမ့်မည်။
 
 1302
 Prototypes were used by commercial companies throughout the product development process and not just during product integration.
-စီးပွားရေးကုမ္ပဏီများက ထုတ်ကုန်ပေါင်းစပ်မှု နှင့် ထုတ်ကုန်ဖွံ့ဖြိုးတိုးတက်ရေး လုပ်ငန်းတွင်သာမက မူရင်းပုံစံများကို အသုံးပြုခဲ့သည်။
+ကုန်သွယ်မှုနှင့်ဆိုင်သော ကုမ္ပဏီများက ထုတ်ကုန် ပေါင်းစပ် စဉ်သာမက ထုတ်ကုန် ဖွံ့ဖြိုးတိုးတက်ရေးအထိ ပုံစံအသစ်များကို အသုံးပြုခဲ့သည်။
 
 1303
 29 Therefore, 21 months should be a reasonable, and in some cases a conservative estimate of the total time necessary to retrofit a single utility boiler.
-အချို့အသုံးဝင်သော ဘွိုင်လာတစ်လုံးကို ပြန်လည်ပြုပြင်ရန် လိုအပ်သော စုစုပေါင်းအချိန်ဟာ ၂၉၊ ၂၁လဖြစ်သင့်တယ်လို့ ရှေးရိုးဆန်သော ခန့်မှန်းချက်တစ်ခုဖြစ်သည်။
+၂၉ ထို့ကြောင့် ၊ ၂၁ လသည် ကျိုးကြောင်းဆီလျော်မှု တစ်ခု ဖြစ်သင့် ၊ ပြီး အချို့ကိစ္စရပ်များတွင် တစ်ခုတည်းသော အသုံးဝင်သည့် ဘွိုင်လာတစ်လုံးကို ပြန်လည်ပြုပြင်ရန် အချိန် စုစုပေါင်း၏ သာမန်ရိုးကျ ခန့်မှန်းချက် တစ်ခု လိုအပ်သည်။
 
 1304
 The corporate CIO works with CIOs or other information managers in each of the business units to ensure efficient, reliable, and interoperable technology for the entire corporation.
-စီအိုင်အိုအသင်းအဖွဲ့ သည် အသင်းအဖွဲ့အားလုံးအတွက် ထိရောက်သော၊ ယုံကြည်စိတ်ချရသော၊ နှင့် အပြန်အလှန်လုပ်ဆောင်နိုင်သော နည်းပညာကို သေချာစေရန် လုပ်ငန်းယူနစ်တစ်ခုစီရှိ စီအိုင်အိုအက်စ် သို့မဟုတ် အခြားသော အချက်အလက်မန်နေဂျာများနှင့် အလုပ်လုပ်ပါသည်။
+စီအိုင်အို အသင်းအဖွဲ့ သည် အသင်းအဖွဲ့ တစ်ခုလုံး အတွက် ထိရောက်၍ ၊ ယုံကြည်စိတ်ချရ ပြီး ၊ အပြန်အလှန်လုပ်ဆောင်နိုင်သော နည်းပညာကို သေချာစေရန် လုပ်ငန်း ဌာနများ တစ်ခုစီတွင် စီအိုင်အိုများ သို့မဟုတ် အခြားသော သတင်းအချက်အလက် မန်နေဂျာများနှင့် အလုပ်လုပ်ပါသည်။
 
 1305
 BLM included the fully successful performance standards
@@ -20,19 +20,19 @@ BLM included the fully successful performance standards
 
 1306
 This has been true in primary care settings as well.
-မူလစောင့်ရှောက်မှုဆက်တင်များတွင်လည်း ဒါဟာမှန်ပါတယ်။
+အခြေခံကျသော စောင့်ရှောက်ပြုစုခြင်း အကောင်အထည်ဖော်ရာတွင်လည်း ဒါဟာ မှန်ကန်ပါတယ်။
 
 1307
 For example, one state capital that we visited is home to over 600 software companies.
-ဥပမာအားဖြင့်၊ ကျွန်မတို့လည်ပတ်ခဲ့သည့် ပြည်နယ်မြို့တော်တစ်ခုသည် ဆော့ဖ်ဝဲကုမ္ပဏီပေါင်း ၆၀၀ကျော် နေထိုင်တဲ့နေရာဖြစ်တယ်။
+ဥပမာအားဖြင့်၊ ကျွန်မတို့လည်ပတ်ခဲ့သည့် ပြည်နယ်မြို့တော်တစ်ခုသည် ဆော့ဖ်ဝဲကုမ္ပဏီပေါင်း ၆၀၀ကျော် ၏ တည်နေရာဖြစ်တယ်။
 
 1308
 The inclusion of all necessary parts or elements.
-လိုအပ်သော အစိတ်အပိုင်းများ သို့မဟုတ် ဒြပ်စင်များ ပါဝင်ခြင်း။
+လိုအပ်သော အစိတ်အပိုင်းများ သို့မဟုတ် ဒြပ်စင်များ အားလုံး ပါဝင်ခြင်း။
 
 1309
 But her work on the bench affects the lives of the underprivileged, as Zelon puts it, one by one.
-ဒါပေမယ့် ဇီလွန် က တစ်ယောက်ပြီးတစ်ယောက်ပြောသလို ခုံတန်းပေါ်က သူရဲ့အလုပ်က အောက်တန်းစားတွေရဲ့ဘဝတွေကို ထိခိုက်စေတယ်။
+ဇီလွန်က ထိုအရာတွေကို တစ်ခုပြီးတစ်ခု တင်သောကြောင့် ၊ လက်သမားသုံးခုံရှည် ပေါ်ရှိ သူမ၏ အလုပ်သည် အောက်ခြေလူတန်းစားများ၏ ဘဝကို ထိခိုက်စေပါတယ်။
 
 1310
 Leading organizations decide, as part of a sourcing strategy, whether to provide specific information technology and management services with in-house staff or external providers.
@@ -40,11 +40,11 @@ Leading organizations decide, as part of a sourcing strategy, whether to provide
 
 1311
 Ultimately, the CEO controls the assignment of information technology and management functions to the CIO, the CIO organization, and other organizational units.
-နောက်ဆုံးတော့ စီအီးအိုသည် သတင်းအချက်အလက်နည်းပညာ၏တာဝန်နှင့် စီအိုင်အို ၏ စီမံခန့်ခွဲမှု လုပ်ဆောင်ချက်များ၊ စီအိုင်အိုအဖွဲ့အစည်း နှင့် အခြားအဖွဲ့အစည်းဆိုင်ရာ ယူနစ်များကို ထိန်းချုပ်သည်။
+အခြေခံအားဖြင့် ၊ စီအီးအိုသည် သတင်းအချက်အလက် နည်းပညာ နှင့် စီအိုင်အို အား စီမံခန့်ခွဲမှု လုပ်ဆောင်ချက်များ ၊ စီအိုင်အို အဖွဲ့အစည်း နှင့် အခြား အဖွဲ့အစည်းဆိုင်ရာ ဌာနများကို တာဝန်ပေးအပ်ခြင်းကို ထိန်းချုပ်ရသည်။
 
 1312
 The welfare effects on the mailers who shift are calculated in the same way as in the above section on profits.
-ပြောင်းသွားတဲ့ စာပို့သူများအပေါ် သက်သာချောင်ချိရေး သက်ရောက်မှုများကို အလားတူနည်းဖြင့် အထက်ဖော်ပြပါ ကဏ္ဍတွင် အမြတ်ငွေ တွက်ချက်ပါတယ်။
+အလှည့်ကျ စာပို့သူများအား သက်ရောက်မှုဖြစ်စေသော သက်သာချောင်ချိရေးကို အထက် ဌာနများတွင် အကျိုးအမြတ်တွက်ချက်ပုံနည်းလမ်းအတိုင်း တွက်ချက်သည်။
 
 1313
 For example, in 1983 the Old-Age and Survivors Insurance trust fund borrowed from the Disability Insurance and Hospital Insurance trust funds.
@@ -180,7 +180,7 @@ Chavez's case mirrors the findings of the survey by Colorado Legal Services, whi
  
 1346
 Social insurance does not include programs established solely or primarily for Federal employees, such as pension and other retirement plans.
-လူမှုဖူလုံရေးအာမခံတွင် ပင်စင်နှင့် အငြိမ်းစားယူမည့် အစီအစဉ်များကဲ့သို့ ဗဟိုအစိုးရဝန်ထမ်းများအတွက်သာ သို့မဟုတ် အဓိကအားဖြင့်ဖက်ဒရယ် ဝန်ထမ်းများအတွက် တည်ထောင်ထားသော ပရိုဂရမ်များ မပါဝင်ပါ။
+လူမှုဖူလုံရေးအာမခံတွင် ပင်စင်ကဲ့သို့သော ဗဟိုအစိုးရဝန်ထမ်းများအတွက်သာ သို့မဟုတ် အဓိကအားဖြင့် တည်ထောင်ထားသော အစီအစဉ်များနှင့် အခြား အငြိမ်းစားယူမည့် အစီအစဉ်များ မပါဝင်ပါ။
 
 1347
 Such a list provides the official administratively approving the voucher (usually the traveler's supervisor) and the certifying officer additional evidence for determining the reasonableness of the claims.
@@ -196,7 +196,7 @@ This time period is shown in Exhibit A-3 in Appendix A. However, depending upon 
 
 1350
 Figure 3 shows the basic results for the two models.
-ပုံ ၃ က မော်ဒယ်နှစ်ခုအတွက် အခြေခံရလဒ်များကို ပြထားတယ်။
+ပုံ ၃ က အဆိုပါ နမူနာ နှစ်ခု အတွက် အခြေခံရလဒ်များကို ပြထားတယ်။
 
 1351
 In this hybrid, the CEO assigns central control to a corporate CIO and supporting CIO organization, while delegating specific authority to each business unit for managing its own unique information management requirements.
@@ -297,11 +297,11 @@ SCR connection can occur in a three to five week outage period.
 
 1375
 A ZIP Code may be served by many routes.
-ဇင့်ကုဒ်ဟာ လမ်းကြောင်းများကို ဆောင်ရွက်ပေးနိုင်တယ်။
+စာတိုက် ကုဒ် တစ်ခုသည် လမ်းကြောင်းများကို ဆောင်ရွက်ပေးနိုင်တယ်။
 
 1376
 For affected EGUs for 2010 and each year thereafter, the Administrator shall allocate mercury allowances under section 474, and conduct auctions of mercury allowances under section 409, in the amounts in Table A.
-အကျိုးသက်ရောက်သော အီးယူဂျီ များအတွက် ၂၀၁၀ ခုနှစ်နှင့် နောက်ပိုင်းနှစ်များတွင် အက်ဒမင်သည် ပုဒ်မ ၄၇၄ အရ ပြဒါးထောက်ပံ့ကြေးများကို ခွဲဝေပေးပြီး ဇယားအေတွင်ရှိတဲ့ ပုဒ်မ ၄၀၉အရ ပြဒါးထောက်ပံ့ကြေးများကို လေလံတင်ရောင်းချတယ်။
+အကျိုးသက်ရောက်သော အီးယူဂျီ များအတွက် ၂၀၁၀ ခုနှစ်နှင့် နောက်ပိုင်းနှစ်များတွင် အုပ်ချုပ်ရေးမှူးသည် ပုဒ်မ ၄၇၄ အရ ပြဒါးထောက်ပံ့ကြေးများကို ခွဲဝေပေးပြီး ဇယားအေတွင်ရှိတဲ့ ပုဒ်မ ၄၀၉အရ ပြဒါးထောက်ပံ့ကြေးများကို လေလံတင်ရောင်းချတယ်။
 
 1377
 We look forward to your continued support and working even more closely with you and your staff this year and in fiscal year 2002.
@@ -350,7 +350,7 @@ Following public comment, the Title V operating permit is not made final until c
 
 1388
 In all cases, significant steps would have to be taken to avoid prejudicing the client's claims.
-ကိစ္စရပ်တိုင်းမှာ၊ ဖောက်သည်ရဲ့တောင်းဆိုချက်များကို မထိခိုက်စေရန် သိသာထင်ရှားတဲ့အချက်တွေ လုပ်ဆောင်ရမယ်။
+ကိစ္စရပ်တိုင်းမှာ၊ ဖောက်သည်ရဲ့တောင်းဆိုချက်များကို မလိုမုန်းထားပြုခြင်းများအား ရှောင်ရှားရန် သိသာထင်ရှားတဲ့ အဆင့်တွေ လုပ်ဆောင်ရမယ်။
 
 1389
 If the product included more new content or invention, fully integrated prototypes were frequently used to demonstrate that the design met requirements.
@@ -362,27 +362,27 @@ Employer entity contributions to social insurance programs.
 
 1391
 change are staff downsizing, changes in contract methods, and business
-အပြောင်းအလဲမှာ ဝန်ထမ်းလျှော့ချခြင်း၊ အပြောင်းအလဲ စာချုပ်နည်းလမ်းတွေ နှင့် လုပ်ငန်းဖြစ်တယ်။
+အပြောင်းအလဲမှာ ဝန်ထမ်းလျှော့ချခြင်း၊ စာချုပ်ချုပ်ဆိုသည့်နည်းလမ်းများ ပြောင်းလဲခြင်း နှင့် စီပွားရေးလုပ်ငန်းများ ဖြစ်သည်။
 
 1392
 Once these decisions are made, the CIO organization must provide effective, responsive support through efficient allocation of resources and the day-to-day execution of its responsibilities.
-ဒီဆုံးဖြတ်ချက်တွေချပြီးတာနဲ့ စီအိုင်အို အဖွဲ့အစည်းဟာ အရင်းအမြစ်များကို ထိရောက်စွာခွဲဝေပေးခြင်းနှင့် ၎င်းရဲ့တာဝန်တွေကို နေ့စဥ်လုပ်ခြင်းမှတဆင့် ထိရောက်တဲ့ တုံ့ပြန်ုပံ့ပိုးမှုပေးရမယ်။
+ဒီဆုံးဖြတ်ချက်တွေချပြီးတာနဲ့ စီအိုင်အို အဖွဲ့အစည်းဟာ အရင်းအမြစ်များကို ထိရောက်စွာခွဲဝေပေးခြင်းနှင့် ၎င်းရဲ့တာဝန်တွေကို နေ့စဥ်လုပ်ခြင်းမှတဆင့် ထိရောက်တဲ့ တုံ့ပြန် ပံ့ပိုးမှုပေးရမယ်။
 
 1393
 The Title V operating permit must also be made available for public comment.
-ခေါင်းစီ ဗီ လည်ပတ်ခွင့်ကို သူများတွေ ထင်မြင်ချက်ပေးနိုင်အောင် လုပ်ထားရပါမယ်။
+ခေါင်းစီ (V) လည်ပတ်မှု ခွင့်ပြုချက်သည် အများနှင့်ဆိုင်သော မှတ်ချက်ကို ရရှိနိုင်အောင်လည်း လုပ်ဆောင်ပေးရမည်ဖြစ်သည်။
 
 1394
 Present your basis for assessing the reliability of the data as undetermined.
-ဒေတာ၏ ယုံကြည်စိတ်ချမှုကို အကဲဖြတ်ရန်အတွက် သင်ရဲ့အခြေခံကို အတိအကျ ဖော်ပြမထားပါ။
+အတိအကျမသိရသေးသော အချက်အလက်၏ ယုံကြည်စိတ်ချမှုကို အကဲဖြတ်ရန်အတွက် သင်၏ အရေးကြီးဆုံးအပိုင်းကိုတင်ပြပါ။
 
 1395
 Retirement fund, consists of exchange revenue and other financing sources.
-အငြိမ်းစားရန်ပုံငွေ၊ လဲလှယ်ဝင်ငွေနှင့် အခြားဘဏ္ဍာရေးအရင်းအမြစ်များ ပါဝင်တယ်။
+အငြိမ်းစားရန်ပုံငွေ၊ ဝင်ငွေ လဲလည်ခြင်း နှင့် အခြား ဘဏ္ဍာရေး အရင်းအမြစ်များ ပါဝင်တယ်။
 
 1396
 agency was first opened to serve Lancaster, York and Reading.
-လန်ကက်စတာ၊ ယော့ခ် နှင့် စာဖတ်ခြင်း တွေကို ဝန်ဆောင်မှုပေးရန် အေဂျင်စီကို စတင်ဖွင့်လှစ်ခဲ့တယ်။
+လန်ကက်စတာ၊ ယော့ခ် နှင့် ရီးဒင်းမြို့ တွေကို ဝန်ဆောင်မှုပေးရန် အေဂျင်စီကို စတင်ဖွင့်လှစ်ခဲ့တယ်။
 
 1397
 Aviation Progress Being Made, but Long-term Attention Is Needed.
@@ -394,7 +394,7 @@ The confusion created by a such a requirement would be significant.
 
 1399
 A German SCR system supplier installed SCR on a significant portion of the German capacity within outage periods consisting of less than four weeks.
-ဂျာမန် အက်စ်စီအာရ် စနစ် ပေးသွင်းသူတစ်ဦးက လေးပတ်အောက်သာရှိတဲ့ ပြတ်တောက်ချိန်အတွင်း ဂျာမန်စွမ်းရည်၏ သိသာထင်ရှားသောအပိုင်းတွင် အက်စ်စီအာရ် ကို ထည့်သွင်းခဲ့တယ်။
+ဂျာမန် အက်စ်စီအာရ် စနစ် ပေးသွင်းသူတစ်ဦးက သတင်းပတ်လေးပတ်ထက်နည်းသော ပြတ်တောက်ချိန်အတွင်း ဂျာမန်စွမ်းရည်၏ သိသာထင်ရှားသောအပိုင်းတွင် အက်စ်စီအာရ် ကို ထည့်သွင်းခဲ့တယ်။
 
 1400
 The employer and employee contributions are generally calculated in the same way
