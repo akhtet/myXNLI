@@ -92,7 +92,7 @@ Second, the ED is a fast-paced environment in which providers cannot easily find
 
 1324
 This is a large challenge and a large expectation for any one system of intervention.
-ဒီအရာတွေက ကြီးမားသော စိန်ခေါ်မှုဖြစ်ပြီး စွက်ဖက်မှုစနစ်တစ်ခုအတွက် ကြီးမားသော မျှော်လင့်ချက်တစ်ခုဖြစ်သည်။
+ဒီအရာတွေက ကြီးမားသော စိန်ခေါ်မှု ဖြစ် ပြီး မည်သည့် ကြားဖြတ် စနစ် တစ်ခု အတွက်မဆို ကြီးမားသော မျှော်လင့်ချက် တစ်ခု ဖြစ်သည်။
 
 1325
 When the travel voucher is being processed, the automated system could compare the information on the actual charges processed by the charge card company with those claimed on the voucher.
@@ -100,11 +100,11 @@ When the travel voucher is being processed, the automated system could compare t
 
 1326
 Temporarily suspending legal representation during a client's absence by seeking a continuance is not a viable alternative to formally withdrawing from the case.
-အမှုသည်တစ်ဦး၏ ပျက်ကွက်စဉ်အတွင်း တရားဝင်ကိုယ်စားပြုမှုကို ယာယီဆိုင်းငံ့ထားခြင်းသည် အမှုမှတရားဝင်နှုတ်ထွက်ခြင်းအတွက် အလားအလာရှိတဲ့ အခြားရွေးချယ်မှုမဟုတ်ပါ။
+အမှုသည် တစ်ဦး ၏ ပျက်ကွက်မှု အတွင်း တရားဝင် ကိုယ်စားပြုမှုကို ယာယီ ဆိုင်းငံ့ထားခြင်းသည် အမှုမှ တရားဝင် နှုတ်ထွက်ခြင်းအတွက် အလားအလာရှိတဲ့ အခြား ရွေးချယ်မှု မဟုတ်ပါ။
 
 1327
 Fiscal year 2000 was a tremendous year of accomplishment and achievement for GAO a a year of great service to the Congress and of great benefit to the American taxpayer.
-၂၀၀၀ဘဏ္ဍာရေးနှစ်သည် ဂျီအေအို အတွက် ကြီးမားသော အောင်မြင်မှု နှစ်တစ်နှစ်ဖြစ်ပြီး ညီလာခံအတွက် ကောင်းမွန်တဲ့ဝန်ဆောင်မှုပေးသည့်နှစ်ဖြစ်ပြီး အမေရိကန်အခွန်ထမ်းတွေအတွက် အလွန်အကျိုးရှိစေတယ်။
+၂၀၀၀ခုနှစ် ဘဏ္ဍာရေးနှစ်သည် ကြီးမားသော အောင်မြင်မှု ၏ နှစ်တစ်နှစ် နှင့် ဂျီအေအို အတွက် အောင်မြင်မှု ၊ ညီလာခံအတွက် ကောင်းမွန်တဲ့ ဝန်ဆောင်မှုပေးသည့်နှစ်ဖြစ်ပြီး အမေရိကန် အခွန်ပေးဆောင်သူတွေအတွက် အလွန် အကျိုးရှိစေတယ်။
 
 1328
 When no threshold is assumed, as is often the case in epidemiological studies, any exposure level is assumed to pose a non-zero risk of response to at least one segment of the population.
@@ -112,11 +112,11 @@ When no threshold is assumed, as is often the case in epidemiological studies, a
 
 1329
 IT skills are in great demand which made hiring by the state difficult, so this CIO looked for alternatives to in-house software development and management.
-နိုင်ငံတော်မှ အလုပ်ခန့်ရန် ခက်ခဲစေတဲ့ အိုင်တီကျွမ်းကျင်မှုတွေက လိုအပ်ချက်များစွာ ရှိနေတာကြောင့် ဒီစီအိုင်အို ဟာ အိမ်တွင်းဆော့ဖ်ဝဲလ် ဖွံ့ဖြိုးတိုးတက်ရေးနှင့် စီမံခန့်ခွဲမှုအတွက် အခြားရွေးချယ်စရာများကို ရှာဖွေခဲ့တယ်။
+နိုင်ငံတော်မှ အလုပ်ခန့်ရန် ပြုလုပ်သော ကြီးမားသော တောင်းဆိုချက် တွင် အိုင်တီ ကျွမ်းကျင်မှုသည် ခက်ခဲစေသောကြောင့် ၊ အဆိုပါ စီအိုင်အို သည် ရုံးတွင်းပိုင်း ဆော့ဖ်ဝဲလ် ဖွံ့ဖြိုးတိုးတက်ရေးနှင့် စီမံခန့်ခွဲမှုအတွက် အခြားရွေးချယ်စရာများကို ရှာဖွေခဲ့တယ်။
 
 1330
 We can aim more precisely and hit the target more often.
-ကျွန်ုပ်တို့သည် ပစ်မှတ်ကို မကြာခဏ ချိန်ဆနိုင်သလို ပိုမိုတိကျစွာ ချိန်ဆနိုင်တယ်။
+ကျွန်ုပ်တို့သည် ပစ်မှတ်ကို မကြာခဏ ပိုပြီး ရိုက်နှက်နိုင်ပြီး ပိုပြီး တိတိကျကျ ချိန်ဆနိုင်တယ်?
 
 1331
 Mercury emissions contribute to mercury deposition in water.
@@ -124,11 +124,11 @@ Mercury emissions contribute to mercury deposition in water.
 
 1332
 The use of technology may reduce the time needed for providers and staff to personally provide screening and intervention services and target patients who can derive benefit from the brief intervention messages.
-နည်းပညာအသုံးပြုခြင်းဟာ ဝန်ဆောင်မှုပေးသူများနှင့် ဝန်ထမ်းများအတွက် လိုအပ်သောအချိန်ကို လျှော့ချနိုင်ပြီး စိစစ်ခြင်းနှင့် ကြားဝင်ဆောင်ရွက်ပေးတဲ့ ဝန်ဆောင်မှုများနှင့် မက်ဆေ့ချ်တိုများမှ အကျိုးကျေးဇူးများရရှိနိုင်တဲ့ အဓိကလူနာများအား ပုဂ္ဂိုလ်ရေးအရ ဆောင်ရွက်ပေးတယ်။
+နည်းပညာ အသုံးပြုခြင်းဟာ အတိုချုံး မက်ဆေ့ ဝင်ရောမှုများမှ အကျိုးကျေးဇူးများရရှိနိုင်တဲ့ အဓိကလူနာများ နှင့် စိစစ်ခြင်း နှင့် ကြားဝင်ဆောင်ရွက်ပေးတဲ့ ဝန်ဆောင်မှုများကို ပုဂ္ဂိုလ်ရေးအရ ဆောင်ရွက်ပေးရန် ဝန်ဆောင်မှုပေးသူများ နှင့် ဝန်ထမ်းများ အတွက် လိုအပ်သော အချိန်ကို လျှော့ချနိုင်သည်။
 
 1333
 In addition, given GAO's impressive results and return on investment, it only makes sense for GAO to receive resource allocations that are well above average for other federal entities.
-ထို့အပြင်၊ ဂျီအေအို ၏ အထင်ကြီးလောက်သောရလဒ်များနှင့် ရင်းနှီးမြှုပ်နှံမှုအပေါ် ပြန်အမ်းပေးတာကြောင့်၊ အခြားဖက်ဒရယ်အဖွဲ့အစည်းများအတွက် ပျမ်းမျှထက် အလွန်ကောင်းမွန်သော အရင်းအမြစ်ခွဲဝေပေးမှုများကို ဂျီအေအို အတွက်သာ လက်ခံရရှိရန် ဖြစ်တယ်။
+ထို့အပြင်၊ ဂျီအေအို ၏ အထင်ကြီးလောက်သော ရလဒ်များ နှင့် ရင်းနှီးမြှုပ်နှံမှု အပေါ် ပြန်အမ်းပေးတာကြောင့်၊ အခြားဖက်ဒရယ်အဖွဲ့အစည်းများအတွက် ပျမ်းမျှထက် အလွန်ကောင်းမွန်သော အရင်းအမြစ်ခွဲဝေပေးမှုများကို လက်ခံရန် ဂျီအေအို အတွက် အာရုံစိုက်မှုတွေကိုသာ ဖြစ်စေတယ်။ 
 
 1334
 Finally, postal density appears to be a more important driver of unit street delivery costs than volume over the actual ranges in France and the U.S.
@@ -136,11 +136,11 @@ Finally, postal density appears to be a more important driver of unit street del
 
 1335
 To be a Value Creating, Customer Focused Partner in Business Results
-ပါတနာကလုပ်ငန်းရလဒ်ထဲမှာဖောက်သည်အာရုံစိုက်တဲ့တန်ဖိုးကိုဖန်တီးပေးတယ်။
+တန်ဖိုး တစ်ခု ကို ဖန်တီးရန် ၊ လုပ်ငန်းရလဒ်မှာ ဖောက်သည်သည် ပါတနာကို အာရုံစိုက်ခဲ့တယ်။ 
 
 1336
 12HEI sponsored the multi-city the National Morbidity, Mortality, and Air Pollution Study (NMMAPS).
-အိပ်ချ်အီးအိုင်၁၂ က အမျိုးသားရောဂါ၊ သေဆုံးမှုနှင့် လေထုညစ်ညမ်းမှုလေ့လာမှု (အန်အမ်အမ်အေပီအက်စ်) ကို မြို့ပေါင်းစုံမှ ပံ့ပိုးကူညီခဲ့တယ်။
+12အိပ်ချ်အီးအိုင် က လူမျိုးရေးနှင့်ဆိုင်သော ရောဂါဖြစ်ပွားမှု ၊ သေဆုံးမှု နှင့် လေထုညစ်ညမ်းမှု လေ့လာရး (အန်အမ်အမ်အေပီအက်စ်) ကို မြို့ပေါင်းစုံမှ ပံ့ပိုးကူညီခဲ့တယ်။
 
 1337
 I would be pleased to respond to any questions that the Members of the Subcommittee may have.
@@ -148,7 +148,8 @@ I would be pleased to respond to any questions that the Members of the Subcommit
 
 1338
 In addition, make the limitations of the data clear, so that incorrect or unintentional conclusions will not be drawn from the data.
-ထို့အပြင်၊ ဒေတာ၏ ကန့်သတ်ချက်များကို ရှင်းရှင်းလင်းလင်းဖြစ်စေရန်၊ မှားယွင်းတာ ဒါမှမဟုတ် မရည်ရွယ်ဘဲ ကောက်ချက်ချမှုများကို ဒေတာမှ ဆွဲထုတ်မည်မဟုတ်ပါ။
+ထို့အပြင်၊ အချက်အလက် ကန့်သတ်ချက်များကို ရှင်းရှင်းလင်းလင်းဖြစ်စေရန်၊ မှားယွင်းတာ ဒါမှမဟုတ် မရည်ရွယ်ဘဲ ကောက်ချက်ချမှုများကို အချက်အလက်ဆီမှ ဆွဲထုတ်မည်မဟုတ်ပါ။
+
 
 1339
 Finally, if the data you assessed are not sufficiently reliable, you should include this finding in the report and recommend that the audited entity take corrective action.
