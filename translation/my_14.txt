@@ -56,7 +56,7 @@ For example, in 1983 the Old-Age and Survivors Insurance trust fund borrowed fro
 
 1315
 Developing a CIO organization is an ongoing process that demands a clear understanding of the organizationas responsibility for helping meet business needs.
-စီအိုင်အို အဖွဲ့အစည်းတစ်ခု ဖော်ဆောင်ခြင်းသည် လုပ်ငန်းလိုအပ်ချက်များကို ဖြည့်ဆည်းပေးရန်အတွက် အဖွဲ့အစည်းများ၏ တာဝန်ကို ရှင်းရှင်းလင်းလင်း နားလည်ရန် လိုအပ်တဲ့ ဆက်လက်လုပ်ဆောင်နေတဲ့ လုပ်ငန်းတစ်ခုဖြစ်သည်။
+စီအိုင်အို အဖွဲ့အစည်းတစ်ခု ဖော်ဆောင်ခြင်းသည် လုပ်ငန်း လိုအပ်ချက်များ ရရှိဖို့ကို ကူညီပေးရန် အတွက် အဖွဲ့အစည်းများ၏ တာဝန်ယူမှုကို ရှင်းရှင်းလင်းလင်း သိမြင်နိုင်မှု တစ်ခုအား တောင်းဆိုတဲ့ ရှေ့ဆက်သွားမည့် လုပ်ငန်းစဉ် တစ်ခု ဖြစ်ပါတယ်။
 
 1316
 1In contrast to the previous section, all data in this section are from the year 1988.
@@ -64,19 +64,19 @@ Developing a CIO organization is an ongoing process that demands a clear underst
 
 1317
 The estimates derived from the long-term exposure studies, which account for a major share of the benefits in the Base Estimate, are not affected.
-အခြေခံခန့်မှန်းချက်ရဲ့ အကျိုးအမြတ်များဟာ ရေရှည်ထိတွေ့လေ့လာမှုများမှရရှိသော ခန့်မှန်းချက်များအတွက် ထိခိုက်မှုမရှိပါ။
+ခန့်မှန်းချက်များဆိုသည်မှာ အခြေခံကျသော ခန့်မှန်းချက်များရှိ အကျိုးအမြတ်များ၏ အဓိက ခွဲဝေနိုင်မှုတစ်ခု အတွက် ယူဆချက်ဖြစ်သော ၊ ရေရှည်ထိတွေ့လေ့လာမှုများမှ ရရှိခြင်းဖြစ်သည်။
 
 1318
 Efficacy trials are the first step, but implementation of proven alcohol screening and brief intervention systems in hospital- and community-based settings has been the most difficult part of the process.
-ထိရောက်မှုစမ်းသပ်မှုများသည် ပထမအဆင့်ဖြစ်သော်လည်း၊ ဆေးရုံ နှင့် ရပ်ရွာအခြေပြုဆက်တင်များတွင် သက်သေပြထားသော အရက်စစ်ဆေးမှုနှင့် အတိုချုံးဝင်ရောက်စွက်ဖက်မှု စနစ်များကို အကောင်အထည်ဖော်ခြင်းသည် လုပ်ငန်းစဉ်၏ အခက်ခဲဆုံးအပိုင်းဖြစ်သည်။
+ထိရောက်သော စမ်းသပ်မှုများသည် ပထမ အဆင့် ဖြစ် သော်လည်း ၊ ဆေးရုံ နှင့် ရပ်ရွာ အခြေပြု အကောင်အထည်ဖော်ဆောင်ခြင်းများတွင် အရက်သောက်သုံးခြင်းအား သက်သေခံ စစ်ဆေးခြင်း နှင့် အတိုချုပ်ဖြစ်သော ကြားဖြတ် စနစ်များကို အကောင်အထည်ဖော်ခြင်းသည် လုပ်ငန်းစဉ်၏  အခက်ခဲဆုံးအပိုင်းဖြစ်သည်။
 
 1319
 The flow of saving is essential to accumulating a stock of wealth-as a general rule someone who never saves will have no wealth.
-ခြွေတာစုဆောင်းခြင်းသည် စည်းစိမ်ဥစ္စာကို စုဆောင်းရန် မရှိမဖြစ်လိုအပ်သည် ယေဘုယျအားဖြင့် တစ်ခါမှ မစုဆောင်းသူသည် စည်းစိမ်ရှိမည်မဟုတ်ပါ။
+ဝင်ငွေမှ စုဆောင်းခြင်းသည် စည်းစိမ်ဥစ္စာများကို စုဆောင်းရန် မရှိမဖြစ်လိုအပ်သည် - ယေဘုယျအားဖြင့် တစ်ခါမှ မစုဆောင်းသူသည် စည်းစိမ်ရှိမည်မဟုတ်ပါ။
 
 1320
 Absent a formal motion to withdraw, an attorney of record in federal court remains responsible, both ethically and under the rules of court, for responding to any matter that should arise.
-တရားဝင် ရုပ်သိမ်းရန် အဆိုပြုချက် ပျက်ကွက်ပါက ဖြစ်သင့်တဲ့ ကိစ္စကို တုံ့ပြန်ရန်အတွက် ပြည်ထောင်စု တရားရုံးမှ ရှေ့နေတစ်ဦးသည် ကျင့်ဝတ်အရရော တရားရုံး၏ စည်းမျဉ်းများအောက်တွင်ပါ တာဝန်ရှိပါသည်။
+တရားဝင် လှုပ်ရှားမှု တစ်ခုကို ရုပ်သိမ်းရန် ပျက်ကွက်ခြင်းသည် ၊ ပေါ်ပေါက်လာသည့် ကိစ္စမှန်သမျှကို တုံ့ပြန်ရန် အတွက် ၊ ကျင့်ဝတ်အရရော တရားရုံးရဲ့ စည်းမျဉ်းအရရော ၊ ဗဟိုတရားရုံးရှိ မှတ်တမ်း ရှေ့နေတစ်ယောက်တွင် တာဝန်ရှိပါသည်။
 
 1321
 G. Burdens of Requiring LSC Funded Attorneys to Withdraw from Cases When the Client Leaves the United States
