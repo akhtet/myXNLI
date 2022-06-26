@@ -91,7 +91,6 @@ G. Burdens of Requiring LSC Funded Attorneys to Withdraw from Cases When the Cli
 An organizationas sourcing strategy is part of a larger human capital development strategy, which is discussed in principle VI.
 အခြေခံကျသော နည်းဗျူဟာ အဖြစ် အဖွဲ့အစည်း တစ်ခုသည် နိယာမ VI တွင် ဆွေးနွေးထားတဲ့ ၊ ပိုမိုကြီးမားသော လူသား မြို့တော် ဖွံ့ဖြိုးတိုးတက်ရေး မဟာဗျူဟာ ၏ တစ်စိတ်တစ်ပိုင်းဖြစ်သည်။
 
-
 1323
 Second, the ED is a fast-paced environment in which providers cannot easily find time to conduct brief alcohol interventions, even if they have the training, skills, and desire to do so.
 ဒုတိယအချက်အနေဖြင့် ၊ အီးဒီသည် ဝန်ဆောင်မှုပေးသူများက လေ့ကျင့်မှု ၊ ကျွမ်းကျင်မှု နှင့် ထိုကဲ့သို့ လုပ်ဆောင်ရန် ဆန္ဒရှိလျှင်တောင်မှ  အရက်သောက်ခြင်းဆိုင်ရာ အချက်အလက်များကို စီမံရန် အချိန်ကို အလွယ်တကူ မရရှိနိုင်တဲ့ အမြန်ဆုံး ပတ်ဝန်းကျင် တစ်ခု ဖြစ်ပါတယ်။
@@ -156,7 +155,6 @@ I would be pleased to respond to any questions that the Members of the Subcommit
 In addition, make the limitations of the data clear, so that incorrect or unintentional conclusions will not be drawn from the data.
 ထို့အပြင်၊ အချက်အလက် ကန့်သတ်ချက်များကို ရှင်းရှင်းလင်းလင်းဖြစ်စေရန်၊ မှားယွင်းတာ ဒါမှမဟုတ် မရည်ရွယ်ဘဲ ကောက်ချက်ချမှုများကို အချက်အလက်ဆီမှ ဆွဲထုတ်မည်မဟုတ်ပါ။
 
-
 1339
 Finally, if the data you assessed are not sufficiently reliable, you should include this finding in the report and recommend that the audited entity take corrective action.
 နောက်ဆုံးအနေဖြင့်၊ သင် အကဲဖြတ်သည့် အချက်အလက်သည် လုံလောက်သော ယုံကြည်စိတ်ချရမှု မရှိပါက ၊ ဒီတွေ့ရှိချက်ကို အစီရင်ခံစာတွင် ထည့်သွင်းသင့်ပြီး စာရင်းစစ်အဖွဲ့မှ မှန်ကန်သောအရေးယူဆောင်ရွက်မှုများ ပြုလုပ်ရန် အကြံပြုအပ်ပါတယ်။
@@ -219,7 +217,7 @@ C-R functions may also be estimated with or without explicit thresholds.
 
 1354
 The concept of the teachable moment, although only a conceptualization at this time, provides part of the seminal interest in doing alcohol interventions in the ED.
-သင်ကြားနိုင်သောအခိုက်အတန့် သဘောတရားဟာ အခုအချိန်တွင် စိတ်ကူးပုံဖော်ခြင်းမျှသာဖြစ်သော်လည်း အီးဒီ တွင် ကြားဝင်ရောက်စွက်ဖက်မှုများပြုလုပ်ရန် ဟောပြောမှုဆိုင်ရာစိတ်ဝင်စားမှုတစ်စိတ်တစ်ပိုင်းကို ထောက်ပံ့ပေးသည်။
+သင်ကြားနိုင်သော အခိုက်အတန့် သဘောတရားဟာ ၊ အခုအချိန်တွင် စိတ်ကူးပုံဖော်ခြင်း တစ်ခု မျှသာဖြစ်သော်လည်း ၊ အီးဒီ တွင် အရက်ဖြတ်ခြင်းများ ပြုလုပ်ရာတွင် ဟောပြောမှုဆိုင်ရာ စိတ်ဝင်စားမှု ၏ တစ်စိတ်တစ်ပိုင်းကို ထောက်ပံ့ပေးသည်။
 
 1355
 Postal Service more vulnerable than other postal administrations to cream skimming.
@@ -236,7 +234,7 @@ In addition, few postal administrations pay their employees as large a wage prem
 
 1358
 Including emergency room visits in a benefits analysis that already considers hospital admissions, for example, will result in double counting of some benefits if the category hospital admissions includes emergency room visits.
-စိစစ်ချက်အကျိုးကျေးဇူးက အရေးပေါ်ခန်းလည်ပတ်မှုများ ထည့်သွင်းစဉ်းစားထားတဲ့ ဆေးရုံဝင်ခွင့်များ အပါအဝင်၊ ဥပမာ၊ ဆေးရုံဝင်ခွင့်အမျိုးအစားတွင် အရေးပေါ်ခန်းလည်ပတ်မှုများ ပါဝင်ရင် အချို့သောအကျိုးခံစားခွင့်များကို နှစ်ဆရေတွက်ခြင်းတွေကို ဖြစ်ပေါ်စေမယ်။
+အကျိုးအမြတ် ခွဲခြမ်းစိတ်ဖြာမှု၌ ဆေးရုံ ဝင်ခွင့်များကို ထည့်သွင်းစဉ်းစားထားပြီးသားဖြစ်သော အရေးပေါ် အခန်း လည်ပတ်မှုများ အပါအဝင် ၊  ဥပမာ ၊ ဆေးရုံ ဝင်ခွင့် အမျိုးအစားတွင် အရေးပေါ် အခန်း လည်ပတ်မှုများ ပါဝင်မည်ဆိုလျှင် အချို့သော အကျိုးအမြတ်များကို နှစ်ဆရေတွက်ခြင်းတွေကို ဖြစ်ပေါ်စေမယ်။
 
 1359
 A growing body of evidence demonstrates that interventions in the emergency department are effective and that treatment referral can work.
@@ -252,7 +250,7 @@ Protection of transportation, energy, emergency services, financial services, an
 
 1362
 According to the utility's central information security group, this process increases security awareness among business managers, develops support for needed controls, and helps integrate information security considerations into the organization's business operations.
-ဗဟိုသတင်းအချက်အလက်လုံခြုံရေးအဖွဲ့၏အသုံးဝင်မှုအဆိုအရ၊ ဒီလုပ်ငန်းဟာ လုပ်ငန်းမန်နေဂျာများကြားမှာ လုံခြုံရေးအသိဥာဏ်ကို တိုးမြင့်စေပြီး၊ လိုအပ်သောထိန်းချုပ်မှုများကို ပံ့ပိုးပေးကာ၊ အဖွဲ့အစည်း၏ လုပ်ငန်းလည်ပတ်မှုများတွင် သတင်းအချက်အလက်လုံခြုံရေးထည့်သွင်းစဉ်းစားမှုများကို ပေါင်းစပ်ကူညီပေးတယ်။
+အများသုံး ဗဟို သတင်းအချက်အလက် လုံခြုံရေး အဖွဲ့၏ အဆိုအရ၊ ဒီလုပ်ငန်းဟာ လုပ်ငန်း မန်နေဂျာများ ကြားမှာ လုံခြုံရေး အသိဥာဏ်ကို တိုးမြင့်စေပြီး၊ လိုအပ်သော ထိန်းချုပ်မှုများအတွက် ပံ့ပိုးပေးမှုကို တိုးတတ်စေ ပြီး ၊ အဖွဲ့အစည်း၏ လုပ်ငန်း လည်ပတ်မှုများ ဆီသို့ သတင်းအချက်အလက် လုံခြုံရေး ထည့်သွင်းစဉ်းစားမှုများကို ပေါင်းစပ် ကူညီပေးတယ်။
 
 1363
 We have already come a long way, and much is left to do.
@@ -260,15 +258,15 @@ We have already come a long way, and much is left to do.
 
 1364
 The program's educational feedback encourages compliance and can act as a deterrent to future wrongdoing, as practitioners are aware that HIC tracks what is claimed for reimbursement on an annual basis.
-ပရိုဂရမ်၏ ပညာရေးဆိုင်ရာ အကြံပြုချက်က လိုက်နာမှုကို အားပေးပြီး၊ အိပ်ချ်အိုင်စီ က နှစ်စဉ်ပြန်အမ်းငွေအတွက် တောင်းဆိုထားတာများကို ခြေရာခံသောကြောင့် အနာဂတ်တွင် အမှားအယွင်းများကို အဟန့်အတားဖြစ်စေနိုင်တယ်။
+အဆိုပါ အစီအစဉ် ၏ ပညာရေးဆိုင်ရာ အကြံပြုချက်က လိုက်နာမှုကို အားပေး ပြီး၊ အိပ်ချ်အိုင်စီ က နှစ်အလိုက် ပြန်လည်ပေးဆပ်ရန် တောင်းဆိုထားတာများကို ပညာရှင်တွေက သိရှိသည်ကို ခြေရာခံပေးသောကြောင့် ၊ အနာဂတ်တွင် အမှားအယွင်းများကို အဟန့်အတားတစ်ခု အဖြစ် လုပ်ဆောင်ပေးနိုင်သည်။
 
 1365
 The use of new technologies for individualizing brief intervention materials and feedback may help to fill gaps in the system of care for patients with at-risk and problem drinking patterns.
-အတိုချုံးဝင်ရောက်စွက်ဖက်မှု ပစ္စည်းများနှင့် တုံ့ပြန်ချက်တို့ကို  တစ်ဦးချင်းပြုလုပ်ရန်အတွက် နည်းပညာအသစ်များကို အသုံးပြုခြင်းဟာ အန္တရာယ်၊ သောက်သုံးမှုပုံစံနှင့် ပြသနာရှိသော လူနာများအတွက် စောင့်ရှောက်မှုစနစ်တွင် ကွာဟမှုများကို ဖြည့်ဆည်းရန် ကူညီပေးနိုင်တယ်။
+အတိုချုံး ကြားဝင်ဖြေရှင်းပေးသည့် ပစ္စည်းများ နှင့် တုံ့ပြန်ချက်တို့ကို  တစ်ဦးချင်းစီသတ်မှတ်ခြင်း အတွက် နည်းပညာအသစ်များကို အသုံးပြုခြင်းဟာ အန္တရာယ် နှင့် ပြသနာရှိသော သောက်သုံးမှု ပုံစံ နှင့်အတူ လူနာများ အတွက် စောင့်ရှောက်မှုစနစ်တွင် ကွာဟမှုများကို ဖြည့်ဆည်းရန် ကူညီပေးနိုင်တယ်။
 
 1366
 The time from placing the order from placing the order to completion of commissioning activitiesis 46 weeks for both units.
-အမိန့်ချခြင်းမှ ခန့်အပ်ခြင်းလုပ်ငန်းများ ပြီးမြောက်သည်အထိ အချိန်ဟာ ယူနစ်နှစ်ခုလုံးအတွက် ၄၆ ပတ်ဖြစ်တယ်။
+ခန့်အပ်ခြင်း လုပ်ငန်းများ ပြီးမြောက်ရန် အမိန့်ထုတ်ခြင်းသည် ဌာန နှစ်ခုလုံးအတွက် အချိန် ၄၆ ပတ် ဖြစ်ပါတယ် 
 
 1367
 Dr. Gentilello recommends the development of an ED alcohol research center.
@@ -276,11 +274,11 @@ Dr. Gentilello recommends the development of an ED alcohol research center.
 
 1368
 They stressed that constant vigilance was needed to ensure that controls remained appropriate--addressing current risks and not unnecessarily hindering operations--and that individuals who used and maintained information systems complied with organizational policies.
-ထိန်းချုပ်မှုများကို သေချာစေရန်အတွက် စဉ်ဆက်မပြတ် အမြဲသတိရှိရန် လိုအပ်ကြောင်း အလေးပေးပြောခဲ့ပြီး - လက်ရှိအန္တရာယ်များကို ဖြေရှင်းပြီး မလိုအပ်တဲ့ လုပ်ငန်းများကို အဟန့်အတားဖြစ်စေတဲ့ သတင်းအချက်အလက်စနစ်များကို အသုံးပြုပြီး ထိန်းသိမ်းထားသူများက အဖွဲ့အစည်းဆိုင်ရာ မူဝါဒများ လိုက်နာတယ်။
+ထိန်းချုပ်မှုများ သင့်လျော်စွာ ဆက်လက်တည်ရှိနေကြောင်း သေချာစေရန် အမြဲမပြတ် သတိရှိရန် လိုအပ်ကြောင်း --လက်ရှိဖြစ်ပေါ်နေသော အန္တရာယ်များကို ကိုင်တွယ်ဖြေရှင်း ပြီး မလိုအပ်ဘဲ လုပ်ငန်းများကို အဟန့်အတားဖြစ်စေသည်-- နှင့် သတင်းအချက်အလက် စနစ်များကို အသုံးပြုပြီး ထိန်းသိမ်းထားသူများသည် အဖွဲ့အစည်းဆိုင်ရာ မူဝါဒများနှင့်အတူ  လိုက်နာကြကြောင်း သူတို့က အလေးပေးပြောကြားခဲ့သည်။
 
 1369
 The United States Bureau of the CensGentilellous has grouped the 1990 Census of Population and Housing data using 5-Digit ZIP Codes.
-ဆန့်စ်ကြမ်းထေလဲယိုစ်ရဲ့ အမေရိကန် ဗျူရို ဟာ ဂဏန်း ၅ လုံးစာတိုက်ကုဒ်များကို အသုံးပြုပြီး ၁၉၉၀ ခုနှစ် သန်းခေါင်စာရင်းရဲ့ လူဦးရေနှင့် အိမ်အကြောင်းအရာ အချက်အလက်ကို အုပ်စုဖွဲ့ထားတယ်။
+ဆန့်စ်ကြမ်းထေလဲယိုစ်ရဲ့ အမေရိကန် ဗျူရို ဟာ ဂဏန်း ၅ လုံး စာတိုက်ကုဒ်များကို အသုံးပြုပြီး ၁၉၉၀ ခုနှစ် သန်းခေါင်စာရင်းရဲ့ လူဦးရေ နှင့် အိမ်ထောင်စုအကြောင်းအရာ အချက်အလက်ကို အုပ်စုဖွဲ့ထားတယ်။
 
 1370
 Similarly, the CFO Act, GMRA, and GPRA have placed new demands on federal finance organizations.
@@ -296,7 +294,7 @@ Significant differences were noted, however, as
 
 1373
 Even if withdrawal were allowed, this may not protect the attorney from ethical obligations to vigorously represent the client, or from claims of malpractice.
-နုတ်ထွက်ခွင့်ပြုရင်တောင်၊ ရှေ့နေသည် ကျင့်ဝတ်ဆိုင်ရာ တာဝန်ဝတ္တရားများမှ အမှုသည်အား အားကြိုးမာန်တက် ကိုယ်စားပြုခြင်း၊ သို့မဟုတ် အကျင့်ပျက်တောင်းဆိုမှုများမှ ကာကွယ်ပေးမှာမဟုတ်ပါ။
+နုတ်ထွက်ခြင်းကို ခွင့်ပြုရင်တောင်၊ ရှေ့နေသည် ကျင့်ဝတ်ဆိုင်ရာ တာဝန်ဝတ္တရားများမှ အမှုသည်အား အားကြိုးမာန်တက် ကိုယ်စားပြုခြင်း၊ သို့မဟုတ် အကျင့်ပျက်တောင်းဆိုမှုများမှ ကာကွယ်ပေးမှာမဟုတ်ပါ။
 
 1374
 SCR connection can occur in a three to five week outage period.
@@ -312,7 +310,7 @@ For affected EGUs for 2010 and each year thereafter, the Administrator shall all
 
 1377
 We look forward to your continued support and working even more closely with you and your staff this year and in fiscal year 2002.
-သင့်အား ဆက်လက်ပံ့ပိုးကူညီရန်နှင့် ၂၀၀၂ ဘဏ္ဍာရေးနှစ်တွင် သင်နှင့် သင့်ဝန်ထမ်းများနှင့် ပိုပြီး လုပ်ဆောင်နိုင်ရန် မျှော်လင့်ပါတယ်။
+၂၀၀၂ ဘဏ္ဍာရေးနှစ် နှင့် ဒီနှစ် မှာ သင်နှင့် သင့်ဝန်ထမ်းများနှင့်အတူ ပိုပြီး ရင်းနှီးစွာ လုပ်ဆောင်နိုင်ရန်တောင် နှင့် သင့်အား ဆက်လက်ပံ့ပိုးကူညီရန် ကျွန်တော်တို့ မျှော်လင့်ပါတယ်။
 
 1378
 Requiring attorneys to monitor the movements of eligible aliens at all times of the year would impose monumental burdens on LSC grantees.
