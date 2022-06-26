@@ -331,11 +331,11 @@ two 900 MWe, 8-corner, T-fired combustion engineering units that burn approx 1.5
 
 1382
 Some of the concentration-response functions used in this benefits analysis were derived from such short-term studies.
-ဒီအကျိုးကျေးဇူးများ ခွဲခြမ်းစိတ်ဖြာခြင်းဟာ အသုံးပြုတဲ့ အာရုံစူးစိုက်မှု-တုံ့ပြန်မှုလုပ်ဆောင်ချက်အချို့က ရေတိုလေ့လာမှုများမှ ဆင်းသက်လာခြင်းဖြစ်တယ်။
+ဤ အကျိုးအမြတ် ခွဲခြမ်းစိတ်ဖြာမှု၌ အသုံးပြုတဲ့ အာရုံစူးစိုက်မှု-တုံ့ပြန်မှု လုပ်ဆောင်ချက် အချို့က ရေတိုလေ့လာမှုများမှ ဆင်းသက်လာခြင်းဖြစ်တယ်။
 
 1383
 As the state contracts out more of its information technology and management functions, it is also essential that it have good contract management expertise.
-နိုင်ငံတော်က သူ့ရဲ့ သတင်းအချက်အလက်နည်းပညာကို စာချုပ်ချုပ်လိုက်တာနဲ့ စာချုပ်စီမံခန့်ခွဲမှု ကျွမ်းကျင်မှုရှိဖို့လည်း လိုအပ်တယ်။
+နိုင်ငံတော်သည် ၎င်း၏ သတင်းအချက်အလက်နည်းပညာနှင့် စီမံခန့်ခွဲမှုဆိုင်ရာ လုပ်ငန်းဆောင်တာများကို ပို၍ သဘောတူစာချုပ်ချုပ်ဆိုထားသောကြောင့် ၊စာချုပ် စီမံခန့်ခွဲမှု ကျွမ်းကျင်မှု ကောင်းကောင်း ရှိရန် လည်း မရှိမဖြစ်လိုပါသည်။
 
 1384
 24 These features would also be appropriate for GMRA accountability reports.
@@ -347,11 +347,11 @@ This is a demand curve, conditional on the constraint that the discount remains 
 
 1386
 The following figure illustrates traditional centralized and decentralized organizational structures, in comparison with the hybrid combination used by leading organizations today.
-အောက်ဖော်ပြပါပုံက ယနေ့ခေတ် ဦးဆောင်အဖွဲ့အစည်းများအသုံးပြုသော ပေါင်းစပ်မှုနှင့်အတူ ရိုးရာဗဟိုချုပ်ကိုင်မှုနှင့် ဗဟိုချုပ်ကိုင်မှုလျှော့ချထားသော အဖွဲ့အစည်းဖွဲ့စည်းပုံများကို သရုပ်ဖော်ထားသည်။
+အောက်ဖော်ပြပါ ပုံ က ယနေ့ခေတ် ဦးဆောင် အဖွဲ့အစည်းများက အသုံးပြုသော ပေါင်းစပ်မှု နှင့်အတူ နှိုင်းယှဉ်ရာတွင် ၊ ပုံမှန် ဗဟိုချုပ်ကိုင်မှုနှင့် ဗဟိုချုပ်ကိုင်မှုလျှော့ချထားသော အဖွဲ့အစည်းဖွဲ့စည်းပုံများကို သရုပ်ဖော်ထားသည်။
 
 1387
 Following public comment, the Title V operating permit is not made final until compliance testing on the control device is completed.
-သူများတွေ မှတ်ချက်ပေးပြီးနောက်၊ ထိန်းချုပ်ကိရိယာပေါ်တွင် လိုက်လျောညီထွေစမ်းသပ်ခြင်း မပြီးမချင်း ခေါင်းစီ ဗီ လည်ပတ်ခွင့်ကို အပြီးသတ်မပြုလုပ်ပါ။
+အများဆိုင်ရာ မှတ်ချက်ပေးပြီးနောက် ၊ ထိန်းချုပ် ကိရိယာပေါ်တွင် လိုက်လျောညီထွေ စမ်းသပ်ခြင်း မပြီးမချင်း ခေါင်းစီ ဗီ သည် လည်ပတ်ခွင့်ကို အပြီးသတ်မပြုလုပ်ပါ။
 
 1388
 In all cases, significant steps would have to be taken to avoid prejudicing the client's claims.
@@ -359,7 +359,7 @@ In all cases, significant steps would have to be taken to avoid prejudicing the 
 
 1389
 If the product included more new content or invention, fully integrated prototypes were frequently used to demonstrate that the design met requirements.
-ထုတ်ကုန်တွေ နောက်ထပ်အကြောင်းအရာအသစ် သို့မဟုတ် တီထွင်မှုပါ၀င်ရင်၊ ဒီဇိုင်းလိုအပ်ချက်များနှင့် ကိုက်ညီကြောင်း သက်သေပြရန်အတွက် အပြည့်အဝပေါင်းစပ်ထားတဲ့ မူရင်းပုံစံများကို မကြာခဏအသုံးပြုကြတယ်။
+ထုတ်ကုန်တွေ နောက်ထပ် အကြောင်းအရာအသစ် သို့မဟုတ် တီထွင်မှုပါ၀င်ရင် ၊ ဒီဇိုင်းလိုအပ်ချက်များနှင့် ကိုက်ညီကြောင်း သက်သေပြရန်အတွက် အပြည့်အဝ ပေါင်းစပ်ထားတဲ့ မူရင်းပုံစံများကို မကြာခဏ အသုံးပြုကြတယ်။
 
 1390
 Employer entity contributions to social insurance programs.
