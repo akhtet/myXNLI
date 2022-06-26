@@ -36,7 +36,7 @@ But her work on the bench affects the lives of the underprivileged, as Zelon put
 
 1310
 Leading organizations decide, as part of a sourcing strategy, whether to provide specific information technology and management services with in-house staff or external providers.
-အိမ်တွင်းဝန်ထမ်းများ သို့မဟုတ် ပြင်ပဝန်ဆောင်မှုပေးသူများနှင့် သီးခြားသတင်းအချက်အလက်နည်းပညာ ပေးဆောင်ခြင်းနှင့် စီမံခန့်ခွဲမှုဝန်ဆောင်မှုများကို ဦးဆောင်အဖွဲ့အစည်းတွေက ဆုံးဖြတ်တယ်။
+တိကျသော သတင်းအချက်အလက် နည်းပညာ နှင့် စီမံခန့်ခွဲမှု ဝန်ဆောင်မှုများကို ထောက်ပံ့မှုပေးမပေးကို ၊ အဖွဲ့အစည်းထဲရှိ ဝန်ထမ်းများ သို့မဟုတ် ပြင်ပမှ ထောက်ပံ့သူများနှင့်အတူ အခြေခံကျသော နည်းဗျူဟာ တစ်ခု အဖြစ် ၊ အဓိကဖြစ်တဲ့ အဖွဲ့အစည်းတွေက ဆုံးဖြတ်တယ်။
 
 1311
 Ultimately, the CEO controls the assignment of information technology and management functions to the CIO, the CIO organization, and other organizational units.
@@ -80,15 +80,21 @@ Absent a formal motion to withdraw, an attorney of record in federal court remai
 
 1321
 G. Burdens of Requiring LSC Funded Attorneys to Withdraw from Cases When the Client Leaves the United States
-အမှုသည်တစ်ယောက် အမေရိကန်ပြည်ထောင်စုမှ ထွက်ခွာသောအခါ အမှုတွဲများမှ နုတ်ထွက်ရန် အယ်အက်စ်စီ ရန်ပုံငွေ ရှေ့နေများ လိုအပ်သည့် ဂျီ ဝန်ထုပ်ဝန်ပိုးများ
+အမှုသည်တစ်ယောက်သည် အမေရိကန်ပြည်ထောင်စုမှ ထွက်ခွာသောအခါ အမှုတွဲများမှ နုတ်ထွက်ရန် 
+အယ်အက်စ်စီမှ 
+ရှေ့နေများ လိုအပ်သည့် 
+ရန်ပုံငွေ ရှေ့နေများ လိုအပ်သည့် ဂျီ ဝန်ထုပ်ဝန်ပိုးများ
+ဂျီ ဘာဒန်းသည် 
+# REVIEW 
 
 1322
 An organizationas sourcing strategy is part of a larger human capital development strategy, which is discussed in principle VI.
-အဖွဲ့အစည်းများ၏ အရင်းအမြစ်ရှာဖွေခြင်းမဟာဗျူဟာသည် မူအရ ဗီအိုင် တွင် ဆွေးနွေးထားတဲ့ ကြီးမားသောလူ့စွမ်းအား အရင်းအနှီးဖွံ့ဖြိုးတိုးတက်ရေး မဟာဗျူဟာ၏ တစ်စိတ်တစ်ပိုင်းဖြစ်သည်။
+အခြေခံကျသော နည်းဗျူဟာ အဖြစ် အဖွဲ့အစည်း တစ်ခုသည် နိယာမ VI တွင် ဆွေးနွေးထားတဲ့ ၊ ပိုမိုကြီးမားသော လူသား မြို့တော် ဖွံ့ဖြိုးတိုးတက်ရေး မဟာဗျူဟာ ၏ တစ်စိတ်တစ်ပိုင်းဖြစ်သည်။
+
 
 1323
 Second, the ED is a fast-paced environment in which providers cannot easily find time to conduct brief alcohol interventions, even if they have the training, skills, and desire to do so.
-ဒုတိယအချက်အနေဖြင့်၊ အီးဒီက ဝန်ဆောင်မှုပေးသူများရဲ့ လေ့ကျင့်မှု၊ ကျွမ်းကျင်မှုနှင့် အရက်ခဏဖျော်ဖြေရန် ဆန္ဒရှိရင် အချိန်ကို အလွယ်တကူမရှာဖွေနိုင်တဲ့ လျင်မြန်သောပတ်ဝန်းကျင်တစ်ခု ဖြစ်တယ်။
+ဒုတိယအချက်အနေဖြင့် ၊ အီးဒီသည် ဝန်ဆောင်မှုပေးသူများက လေ့ကျင့်မှု ၊ ကျွမ်းကျင်မှု နှင့် ထိုကဲ့သို့ လုပ်ဆောင်ရန် ဆန္ဒရှိလျှင်တောင်မှ  အရက်သောက်ခြင်းဆိုင်ရာ အချက်အလက်များကို စီမံရန် အချိန်ကို အလွယ်တကူ မရရှိနိုင်တဲ့ အမြန်ဆုံး ပတ်ဝန်းကျင် တစ်ခု ဖြစ်ပါတယ်။
 
 1324
 This is a large challenge and a large expectation for any one system of intervention.
@@ -96,7 +102,7 @@ This is a large challenge and a large expectation for any one system of interven
 
 1325
 When the travel voucher is being processed, the automated system could compare the information on the actual charges processed by the charge card company with those claimed on the voucher.
-ခရီးသွားဘောက်ချာကို လုပ်ဆောင်နေချိန်မှာ၊ ကတ်ကုမ္ပဏီမှ လုပ်တဲ့ တကယ်ကျသင့်ငွေအချက်အလက်များကို အလိုအလျောက်စနစ်ဘောက်ချာတွင် တောင်းဆိုထားသူများနှဲ့ နှိုင်းယှဉ်နိုင်တယ်။
+ခရီးသွားဘောက်ချာကို စနစ်တကျလုပ်ဆောင်နေချိန်မှာ ၊ အလိုအလျောက်လုပ်ဆောင်ပေးသော စနစ်သည် ဘောက်ချာတွင် တောင်းဆိုထားသူများ နှင့်အတူ  အမှန်တကယ် ကျသင့်ငွေ အပေါ် သတင်းအချက်အလက်များကို ကတ် ကုမ္ပဏီ က ကျသင့်ငွေဖြင့် နှိုင်းယှဉ်နိုင်တယ်။
 
 1326
 Temporarily suspending legal representation during a client's absence by seeking a continuance is not a viable alternative to formally withdrawing from the case.
@@ -108,7 +114,7 @@ Fiscal year 2000 was a tremendous year of accomplishment and achievement for GAO
 
 1328
 When no threshold is assumed, as is often the case in epidemiological studies, any exposure level is assumed to pose a non-zero risk of response to at least one segment of the population.
-ကူးစက်မှုဆိုင်ရာလေ့လာမှုများတွင် မကြာခဏဖြစ်တဲ့၊ ဘယ်အဆင့်ကိုမှ မယူဆသော၊ ထိတွေ့မှုအဆင့်ဟာ လူဦးရေရဲ့ အနည်းဆုံးအပိုင်းတစ်ပိုင်းကို တုံ့ပြန်ရန် အန္တရာယ်မရှိလို့ ယူဆတယ်။
+ကူးစက်မှုဆိုင်ရာ လေ့လာမှုများရှိ ကိစ္စရပ်တွင် မကြာခဏ ဖြစ်သော ၊ ဘယ်အဆင့်ကိုမှ မယူဆသော၊ မည်သည် ထိတွေ့မှု အဆင့်မဆို လူဦးရေရဲ့ အနည်းဆုံး အပိုင်း တစ်ပိုင်း ကို တုံ့ပြန်ရန် အန္တရာယ်မရှိလို့ ယူဆတယ်။
 
 1329
 IT skills are in great demand which made hiring by the state difficult, so this CIO looked for alternatives to in-house software development and management.
@@ -132,7 +138,7 @@ In addition, given GAO's impressive results and return on investment, it only ma
 
 1334
 Finally, postal density appears to be a more important driver of unit street delivery costs than volume over the actual ranges in France and the U.S.
-နောက်ဆုံးမှာတော့၊ စာတိုက်သိပ်သည်းမှုသည် ပြင်သစ်နှင့် အမေရိကန်ပြည်ထောင်စုရှိ အတိုင်းအတာများနှင့်ထုထည်ပမာဏထက် ယူနစ်လမ်းပို့ဆောင်ခအတွက် ပိုအရေးကြီးသော တွန်းအားတစ်ခုဖြစ်ပုံရတယ်။
+နောက်ဆုံးမှာတော့၊ စာတိုက်သိပ်သည်းမှုသည် ပြင်သစ်နှင့် အမေရိကန်ပြည်ထောင်စုရှိ အမှန်တကယ်ရှိသော ဧရိယာအတွင်းထက် ကျော်လွန်ပြီး ပမာဏ ထက် လမ်း ဌာန ပို့ဆောင်ခ အတွက် ပိုအရေးကြီးသော တွန်းအားတစ်ခုဖြစ်ပုံရတယ်။
 
 1335
 To be a Value Creating, Customer Focused Partner in Business Results
@@ -153,11 +159,11 @@ In addition, make the limitations of the data clear, so that incorrect or uninte
 
 1339
 Finally, if the data you assessed are not sufficiently reliable, you should include this finding in the report and recommend that the audited entity take corrective action.
-နောက်ဆုံးအနေဖြင့်၊ သင်အကဲဖြတ်သည့်ဒေတာသည် လုံလောက်သောယုံကြည်စိတ်ချရမှု မရှိပါက၊ ဒီတွေ့ရှိချက်ကို အစီရင်ခံစာတွင် ထည့်သွင်းသင့်ပြီး စာရင်းစစ်အဖွဲ့မှ မှန်ကန်သောအရေးယူဆောင်ရွက်မှုများ ပြုလုပ်ရန် အကြံပြုအပ်ပါတယ်။
+နောက်ဆုံးအနေဖြင့်၊ သင် အကဲဖြတ်သည့် အချက်အလက်သည် လုံလောက်သော ယုံကြည်စိတ်ချရမှု မရှိပါက ၊ ဒီတွေ့ရှိချက်ကို အစီရင်ခံစာတွင် ထည့်သွင်းသင့်ပြီး စာရင်းစစ်အဖွဲ့မှ မှန်ကန်သောအရေးယူဆောင်ရွက်မှုများ ပြုလုပ်ရန် အကြံပြုအပ်ပါတယ်။
 
 1340
 With planning assistance funds from LSC, the Bar Foundation has hired a consultant to help the Coordinating Council develop a reconfiguration plan to be submitted to LSC this March.
-အယ်အက်စ်စီ မှ ပံ့ပိုးကူညီမှုရန်ပုံငွေများနှင့်အတူ၊ ဘားဖောင်ဒေးရှင်းက ဒီမတ်လတွင် အယ်အက်စ်စီ သို့တင်ပြမယ့် ပြန်လည်ဖွဲ့စည်းမှုအစီအစဥ်ကို ညှိနှိုင်းရေးကောင်စီတွင် ကူညီရန် အတိုင်ပင်ခံတစ်ဦးကို ငှားရမ်းထားတယ်။
+အယ်အက်စ်စီ မှ ပံ့ပိုးကူညီမှု ရန်ပုံငွေများနှင့်အတူ ၊ ဘားဖောင်ဒေးရှင်းက ဒီမတ်လတွင် အယ်အက်စ်စီ သို့ တင်ပြရန် ပြန်လည်ဖွဲ့စည်းမှု အစီအစဥ် တစ်ခု ကို ညှိနှိုင်းရေးကောင်စီ ဖွံ့ဖြိုးရေးကို ကူညီရန် အတိုင်ပင်ခံတစ်ဦးကို ငှားရမ်းထားတယ်။
 
 1341
 The resources we are requesting for fiscal year 2002 are critical to sustaining our high-level of performance and service to the Congress.
@@ -177,7 +183,7 @@ Businesses use the device to create a wholly owned subsidiary, said Mr. Delaney,
 
 1345
 Chavez's case mirrors the findings of the survey by Colorado Legal Services, which reports that migrant workers at farms statewide are regularly exposed to hazardous pesticides in violation of federal laws.
-ဗေ့စ်၏ဖြစ်ရပ်သည် ပြည်နယ်တစ်ဝှမ်းရှိ လယ်ယာမြေများမှ ရွှေ့ပြောင်းအလုပ်သမားများသည် ပြည်ထောင်စုဥပဒေများကို ချိုးဖောက်ရာတွင် အန္တရာယ်ရှိသော ပိုးသတ်ဆေးများကို ပုံမှန်ထိတွေ့နေရကြောင်း ကော်လိုရာဒို ဥပဒေရေးရာဝန်ဆောင်မှုများ စစ်တမ်း၏ တွေ့ရှိချက်များကို ထင်ဟပ်စေသည်။
+ချာ့ဗေ့စ် ၏ ဖြစ်ရပ်သည် ပြည်နယ်တစ်ဝှမ်းရှိ လယ်ယာမြေများမှ ရွှေ့ပြောင်းအလုပ်သမားများသည် ပြည်ထောင်စုဥပဒေများကို ချိုးဖောက်ရာတွင် အန္တရာယ်ရှိသော ပိုးသတ်ဆေးများကို ပုံမှန်ထိတွေ့နေရကြောင်း ကော်လိုရာဒို ဥပဒေရေးရာဝန်ဆောင်မှုများ စစ်တမ်း၏ တွေ့ရှိချက်များကို ထင်ဟပ်စေသည်။
  
 1346
 Social insurance does not include programs established solely or primarily for Federal employees, such as pension and other retirement plans.
@@ -185,11 +191,11 @@ Social insurance does not include programs established solely or primarily for F
 
 1347
 Such a list provides the official administratively approving the voucher (usually the traveler's supervisor) and the certifying officer additional evidence for determining the reasonableness of the claims.
-ထိုစာရင်းသည် တရားဝင် စီမံခန့်ခွဲရေး ဘောက်ချာ (များသောအားဖြင့် ခရီးသွားကြီးကြပ်ရေးမှူး) နှင့် တောင်းဆိုချက်များ၏ အကျိုးသင့်အကြောင်းသင့်ဖြစ်မှုကို ဆုံးဖြတ်ရန်အတွက် အသိအမှတ်ပြုအရာရှိ၏ အထောက်အထားများကို ပေးဆောင်ပါသည်။
+ထို စာရင်း တစ်ခု သည် တရားဝင် စီမံခန့်ခွဲရေး အသိအမှတ်ပြုသော ဘောက်ချာ (များသောအားဖြင့် ခရီးသွားကြီးကြပ်ရေးမှူး) နှင့် တောင်းဆိုချက်များ၏ အကျိုးသင့်အကြောင်းသင့်ဖြစ်မှုကို ဆုံးဖြတ်ရန်အတွက် လက်မှတ်ရ အရာရှိ၏ အထောက်အထားများကို ပေးဆောင်ပါသည်။
 
 1348
 When that occurs, the lending fund sacrifices interest from Treasury securities on its invested balances and instead receives interest from the borrowing fund on the amount of the loan.
-အဲဒါဖြစ်လာသောအခါ၊ ချေးငွေရန်ပုံငွေက ရင်းနှီးမြုပ်နှံထားတဲ့ လက်ကျန်များပေါ်တွင် ဘဏ် မှအတိုးကိုစတေးပြီး ချေးငွေပမာဏပေါ်မူတည်၍ ချေးရန်ရန်ပုံငွေမှအတိုးကိုရရှိတယ်။
+အဲဒါဖြစ်လာသောအခါ၊ ချေးငွေရန်ပုံငွေက ရင်းနှီးမြုပ်နှံထားတဲ့ လက်ကျန်များပေါ်တွင် ငွေတိုက် လုံခြုံရေးမှ အတိုးကို စတေးပြီး ချေးငွေပမာဏပေါ်မူတည်၍ ချေးရန်ရန်ပုံငွေမှအတိုးကိုရရှိတယ်။
 
 1349
 This time period is shown in Exhibit A-3 in Appendix A. However, depending upon the specifics of the project, the time needed could vary by a couple of months.
@@ -201,7 +207,7 @@ Figure 3 shows the basic results for the two models.
 
 1351
 In this hybrid, the CEO assigns central control to a corporate CIO and supporting CIO organization, while delegating specific authority to each business unit for managing its own unique information management requirements.
-ဒီပေါင်းစပ်မှုတွင် စီအီးအို က စီအိုင်အိုအသင်းအဖွဲ့ ထံသို့ ဗဟိုထိန်းချုပ်မှုကို ပေးပြီး စီအိုင်အို အဖွဲ့အစည်းအား ပံ့ပိုးပေးသည့် လုပ်ငန်းယူနစ်တစ်ခုစီအား ထူးခြားတဲ့ အချက်အလက်စီမံခန့်ခွဲမှုလိုအပ်ချက်များကို စီမံခန့်ခွဲရန်အတွက် သီးခြားလုပ်ပိုင်ခွင့်အာဏာများကို လွှဲအပ်တယ်။
+ဒီပေါင်းစပ်မှုတွင် ၊ စီအီးအို က ၎င်းတို့၏ ကိုယ်ပိုင် ထူးခြားသော သတင်းအချက်အလက်ဆိုင်ရာ စီမံခန့်ခွဲမှု လိုအပ်ချက်များကို စီမံပေးနိုင်ရန် အတွက် လုပ်ငန်း ဌာန တစ်ခုစီအား သီးခြားလုပ်ပိုင်ခွင့်အာဏာများကို လွှဲအပ်စဉ်အတွင်း ၊  စီအိုင်အို အဖွဲ့အစည်းအား ပံ့ပိုးပေးခြင်း နှင့်  စီအိုင်အို အသင်းအဖွဲ့ တစ်ခု ထံသို့ ဗဟိုထိန်းချုပ်မှု ကို တာဝန်ချထားသည်။
 
 1352
 But the Commission isn't free to make just any old recommendations so long as the numbers add up.
