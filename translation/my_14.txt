@@ -221,8 +221,8 @@ The concept of the teachable moment, although only a conceptualization at this t
 
 1355
 Postal Service more vulnerable than other postal administrations to cream skimming.
-စာတိုက်ဝန်ဆောင်မှုသည် အခြားသော စာတိုက်အုပ်ချုပ်ရေးအဖွဲ့များထက် မုန့်ထုပ်လုပ်ဖို့ရန် ပိုပြီးထိခိုက်လွယ်တယ်။
-#REVIEW
+စာတိုက်ဝန်ဆောင်မှုသည် အခြားသော စာတိုက် အုပ်ချုပ်ရေးအဖွဲ့များထက် လွယ်ကူချောမွေ့မှု အကောင်းဆုံးဖြစ်ရန် ပိုမိုအားနည်းချက်ရှိသည်။
+
 
 1356
 Our initial observations suggest that GPRA performance reports are likely to be more useful if they
@@ -322,12 +322,11 @@ Accordingly, federal agencies need to reassess their human capital practices to 
 
 1380
 issues of alcohol use among injured patients are not in the purview of the trauma team
-#REVIEW(ဒဏ်ရာရလူနာများကြားတွင် အရက်သောက်သုံးမှု ပြဿနာများသည် ဒဏ်ရာအဖွဲ့၏ ကြီးကြပ်မှုအောက်တွင်မရှိပါ။)
+ဒဏ်ရာရ လူနာများ ကြားတွင် အရက်သောက်သုံးမှု ပြဿနာများသည် စိတ်ရောဂါဆိုင်ရာ အဖွဲ့အစည်း၏ ကြီးကြပ်မှုအောက်တွင်မရှိပါ။
 
 1381
 two 900 MWe, 8-corner, T-fired combustion engineering units that burn approx 1.5 percent sulfur bituminous coal.
-၉၀၀ အမ်ဒဘလူအီး နှစ်ခု၊ ၈ ထောင့် T-fired လောင်ကျွမ်းမှုအင်ဂျင်နီယာယူနစ် ၁.၅ ရာခိုင်နှုန်းခန့် ဆာလဖာဘစ်တူမင်နွတ်ကျောက်မီးသွေးကို လောင်ကျွမ်းစေပါတယ်။
-#REVIEW(T-fired)
+၁.၅ ရာခိုင်နှုန်းခန့် ဆာလဖာ ဘစ်တူမင်နွတ် ကျောက်မီးသွေးသည် 900 အမ်ဒဘလူအီး နှစ်ခု၊ 8-ကော်နာ T-fired လောင်ကျွမ်းမှုဆိုင်ရာ အင်ဂျင်နီယာ ဌာနများကို  လောင်ကျွမ်းစေပါတယ်။
 
 1382
 Some of the concentration-response functions used in this benefits analysis were derived from such short-term studies.
@@ -343,7 +342,7 @@ As the state contracts out more of its information technology and management fun
 
 1385
 This is a demand curve, conditional on the constraint that the discount remains the same, under which condition no mailers will shift to workshared.
-#REVIEW(ဒါက ဝယ်လိုအားမျဉ်းကွေးဖြစ်ပြီး၊ လျှော့စျေးက ကန့်သတ်ချက်များအခြေအနေပေါ် တူညီပြီး၊ ဘယ်အခြေအနေမျိုးမှာမှ စာပို့သူမရှိတော့ရင် အလုပ်ပြောင်းလိမ့်မယ်။))
+ဒါက ဝယ်လိုအား မျဉ်းကွေးပြဂရပ် တစ်ခု ၊ စာပို့သူမရှိတော့ရင် အလုပ်ဝေခွဲမှုတွေက ပြောင်းလဲမယ့် အခြေအနေဖြစ်သော ၊ လျှော့စျေးက အတူတူ ရှိနေမယ့် ကန့်သတ်ချက်များပေါ် အခြေအနေ ဖြစ်သည်။
 
 1386
 The following figure illustrates traditional centralized and decentralized organizational structures, in comparison with the hybrid combination used by leading organizations today.
