@@ -1,6 +1,6 @@
 801
 At the head of the companion, Ogle found his progress barred by Blood, who confronted him, a sudden sternness in his face and in every line of him.
-သွေးသောက်ရောင်းရင်းရဲ့ ခေါင်းဆောင်၊ အိုဂယ်က သူ့ရဲ့ တိုးတက်မှုကို သူ ရင်ဆိုင်နေရတဲ့ ဘလက်ဒ်က တားဆီးပိတ်ဆို့ထားတာ တွေ့ခဲ့ပြီး၊ သူ့ရဲ့ မျက်နှာမှာ ရုတ်တရတ် ခက်ထန်တင်းမာမှု တစ်ခုကို တွေ့ခဲ့တယ်။
+သွေးသောက်ရောင်းရင်းရဲ့ ခေါင်းဆောင်၊ အိုဂယ်က သူ့ရဲ့ တိုးတက်မှုကို သူ ရင်ဆိုင်နေရတဲ့ ဘလက်ဒ်က တားဆီးပိတ်ဆို့ထားတာ တွေ့ခဲ့ပြီး၊ သူ့ရဲ့ မျက်နှာ နှင့် သူ့စာကြောင်းတွေ မှာ ရုတ်တရတ် ခက်ထန်တင်းမာမှု တစ်ခုကို တွေ့ခဲ့တယ်။
 
 802
 Don't think I accept it willingly.
@@ -16,11 +16,11 @@ I've been hunting him this year past.
 
 805
 At that moment a lane was opened in the ranks of the men, and through this came Miss Bishop followed by her octoroon woman.
-အဲဒီအချိန်မှာ အမျိုးသားထုကြီးရဲ့ ကြားထဲမှဦ လမ်းကျဉ်းလေးတစ်ခုဖြစ်သွားပြီး၊ အဲကနေတဆင့် မစ် ဘစ်ရှော့ဟာ ကပ္ပလီသွေး ရှစ်ပုံတစ်ပုံပါတဲ့ လူဖြူကပြား အမျိုးသမီးနောက်ကနေ ကပ်လိုက်လာတယ်။
+အဲဒီအချိန်မှာ အမျိုးသားထုကြီးရဲ့ ကြားထဲမှာ လမ်းကျဉ်းလေးတစ်ခုဖြစ်သွားပြီး၊ အဲကနေတဆင့် မစ် ဘစ်ရှော့ဟာ ကပ္ပလီသွေး ရှစ်ပုံတစ်ပုံပါတဲ့ လူဖြူကပြား အမျိုးသမီးနောက်ကနေ ကပ်လိုက်လာတယ်။
 
 806
 They are ships of the Jamaica fleet,  his lordship answered her.
-သူတို့တွေက ဂျမေကာ ရေတပ်ရဲ့ သင်္ဘောတေလေလို့၊ သူ့ ခေါင်းဆောင်က သူမကို ပြန်ဖြေခဲ့တယ်။
+သူတို့တွေက ဂျမေကာ ရေတပ်ရဲ့ သင်္ဘောတွေလေလို့၊ သူ့ ခေါင်းဆောင်က သူမကို ပြန်ဖြေခဲ့တယ်။
 
 807
 And for what had he placed himself in this position? For the sake of a girl who avoided him so persistently and intentionally that he must assume that she still regarded him with aversion.
@@ -36,7 +36,7 @@ You have granted, I am told, the King's commission to this man.  His very tone b
 
 810
 She was very white, and she kept her eyes upon her folded hands.
-သူမက အရမ်း ဖြူစင်တယ်၊ ပြီးတော့ သူမဟာ လက်ပိုက်ထားတဲ့ လက်တေကို စိုက်ကြည့်နေခဲ့တယ်။
+သူမက အရမ်း ဖြူစင်တယ်၊ ပြီးတော့ သူမဟာ လက်ပိုက်ထားတဲ့ လက်တွေကို စိုက်ကြည့်နေခဲ့တယ်။
 
 811
 So they've told you about that!
@@ -56,7 +56,7 @@ Not for his niece, not for his daughter, not for his own mother, would he forgo 
 
 815
 Abeam with the Arabella, across the harbour, were the flat-fronted white buildings of that imposing city that came down to the very water's edge.
-အာဘင်းမ် နဲ့ အာရာဘယ်လာတို့ဟာ၊ ဆိပ်ကမ်းကို ဖြတ်ပြီးတော့၊ ခမ်းနားထည်ဝါသော မျက်နှာကြပ်ဖြူ အဆောက်အဦးကနေ ရေစပ်နားကို ဆင်းလာကြတယ်။
+အာဘင်းမ် နှင့်အတူ အာရာဘယ်လာတို့ဟာ၊ ဆိပ်ကမ်းကို ဖြတ်ပြီးတော့၊ ခမ်းနားထည်ဝါသော မျက်နှာကြပ်ဖြူ အဆောက်အဦးကနေ ရေစပ်နားကို ဆင်းလာကြတယ်။
 
 816
 In my own I've done nothing at all that I am ashamed of, considering the provocation I received.   Her glance faltered, and fell away before his own that was so intent.
@@ -76,7 +76,7 @@ Thoughtfully he stroked his golden beard.
 
 820
 It was she now who was on her defence, her voice quivering with indignation.
-ခုချိန်မှာ သူမဟာ ဒေါသတကြီး တုန်ယင်နေတဲ့ အသံနဲ့ ကာကွယ်ချေပခဲ့တယ်။
+ခုချိန်မှာ သူမဟာ ဒေါသတကြီး တုန်ယင်နေတဲ့ သူမ၏ အသံနဲ့ ကာကွယ်ချေပသူ ဖြစ်ခဲ့တယ်။
 
 821
 Captain Blood bared his head and bowed silently in a greeting which she returned composedly and formally.
@@ -122,7 +122,7 @@ He did not trouble to rise, not even when Lord Julian, obeying the instincts of 
 
 831
 I'll not be detaining you any longer, ma'am.
-ငါ မင်းကို ဆွဲမထားတော့ပါဘူး၊ ma'ma။
+ငါ မင်းကို ဆွဲမထားတော့ပါဘူး၊ မဒမ်။
 
 832
 Life can be infernally complex,  he sighed.
@@ -146,19 +146,19 @@ I... I believe that he has,  said Calverley, between doubt and suspicion.
 
 837
 And though he should dare attempt it, be sure that his own officers will not dare to do other than oppose him.
-ရဲရဲဝံ့ဝံ့ ကြိုးပမ်းသင့်တယ်လို့ သူထင်ပေမဲ့လည်း၊ သူ့ရဲ့ အရာရှိတွေကတော့ သူ့ကို အတိုက်အခံလုပ်ပြီး အခြား မလုပ်ဝင့်ကြောင်း သေချာတယ်။
+ရဲရဲဝံ့ဝံ့ ကြိုးပမ်းသင့်တယ်လို့ သူထင်ပေမဲ့လည်း၊ သူ့ရဲ့ အရာရှိတွေကတော့ သူ့ကို အတိုက်အခံလုပ်ပြီး အခြား မလုပ်ဝံ့ကြောင်း သေချာတယ်။
 
 838
 Your resolve delivered me from a horrible danger,  she admitted.
-မင်းရဲ့ ဖြေရှင်းချက်က ငါ့ကို ကြောက်ရွံ့စရာကောင်းတဲ့ အန္တရာယ်ကနေ လွတ်မြောက်စေခဲ့တယ် လို့၊ သူမ ဝန်ခံခဲ့တယ်။
+မင်းရဲ့ ဖြေရှင်းချက်က ငါ့ကို ကြောက်ရွံ့စရာကောင်းတဲ့ အန္တရာယ် တစ်ခု ကနေ လွတ်မြောက်စေခဲ့တယ် လို့၊ သူမ ဝန်ခံခဲ့တယ်။
 
 839
 It is an honourable service.
-အဲဒါက ဂုဏ်ရှိတဲ့ ဝန်ဆောင်မှု တစ်ခု ဖြစ်တယ်။
+အဲဒါက ဂုဏ်ပြုအပ်သော ဝန်ဆောင်မှု တစ်ခု ဖြစ်တယ်။
 
 840
 He observed her pale and tense, with parted lips and startled eyes that were fixed upon him, an anxious witness of this deciding of her fate.
-သူမရဲ့ ဖြူရော်နေမှာနဲ့ တင်းမာမှုကို တွေ့ခဲ့ပြီး၊ ခွဲာခွာနေသော နှုတ်ခမ်းတွေနဲ့ ထိတ်လန့်တုန်လှုပ်အံ့အားသင့်နေတဲ့ မျက်လုံးတွေက သူ့ အပေါ် တစ်သမတ်တည်း ဖြစ်နေတယ်၊ သူမရဲ့ ကံကြမ္မာကို ဆုံးဖြတ်ပေးနေတဲ့ စိုးရိမ်ဖွယ်ရာ သက်သေခံအတည်ပြုချက် တစ်ခု ဖြစ်သည်။ 
+သူမရဲ့ ဖြူရော်နေမှု နဲ့ တင်းမာမှုကို တွေ့ခဲ့ပြီး၊ ခွဲခွာနေသော နှုတ်ခမ်းတွေနဲ့ ထိတ်လန့်တုန်လှုပ်အံ့အားသင့်နေတဲ့ မျက်လုံးတွေက သူ့ အပေါ် တစ်သမတ်တည်း ဖြစ်နေတယ်၊ သူမရဲ့ ကံကြမ္မာကို ဆုံးဖြတ်ပေးနေတဲ့ စိုးရိမ်ဖွယ်ရာ သက်သေခံအတည်ပြုချက် တစ်ခု ဖြစ်သည်။ 
 
 841
 And she shivered at the memory of it.
@@ -170,8 +170,7 @@ Aye!  roared in chorus the buccaneers below, and one or two of them elaborated t
 
 843
 You're not very civil, sir, as I have already noticed.
-မင်းက သိပ်‌တော့ မယဉ်ကျေးဘူး လူကြီးမင်း၊ ငါ သတိထားမိပြီးသားပါ။
-# ငါ သိထားပြီးသား မင်းက အရမ်း ယဉ်ကျေးရည်မွန်တဲ့ သူ မဟုတ်ဘူး။
+ငါ သိထားပြီးသား မင်းက အရမ်း ယဉ်ကျေးရည်မွန်တဲ့ သူ မဟုတ်ဘူး။
 
 844
 Wait!  He swung back to face the Captain, who had placed a hand on is shoulder and was smiling, a trifle wistfully.
@@ -199,11 +198,11 @@ That'll cool Colonel Bishop's heat, maybe.
 
 850
 Your station is on the gun-deck.
-မင်းရဲ့ ဘူတာရုံက ‌သေနတ်ကုန်းပေါ်မှာ။
+မင်းရဲ့ ရုံးက ‌သေနတ်ကုန်းပေါ်မှာ။
 
 851
 But Pitt, although he shared it, was prompt to obey.
-ဒါပေမဲ့ ပစ်က၊ သူ အဲတာကို မျှဝေခဲ့ပေမဲ့လည်း၊ လိုက်နာဖို့ နှိုးဆွခဲ့တယ်။
+ဒါပေမဲ့ ပစ်က၊ သူ အဲတာကို မျှဝေခဲ့ပေမဲ့လည်း၊ လိုက်နာဖို့ လှုံ့ဆော်ခဲ့တယ်။
 
 852
 He had been a fortnight in Port Royal, his ship virtually a unit now in the Jamaica squadron.
@@ -219,7 +218,7 @@ If you will go below, and get your gear and your woman, you shall presently be s
 
 855
 There's a thorn or two left on me.  And with a laugh Blood departed to his cabin.
-ငါ့မှာ ဆူး တစ်ချောင်း သို့မဟုတ် နှစ်ချောင်း ကျန်နေသေးတယ်။ ရယ်မောရင်းနဲ့ သွေးက သူ့ အခန်းငယ်လေးထဲကို ထွက်ခွာသွားခဲ့တယ်။
+ငါ့မှာ ဆူး တစ်ချောင်း သို့မဟုတ် နှစ်ချောင်း ကျန်နေသေးတယ်။ ရယ်မောရင်းနဲ့ ဘလတ်က သူ့ အခန်းငယ်လေးထဲကို ထွက်ခွာသွားခဲ့တယ်။
 
 856
 But laugh though he might, he knew as well as Pitt that in going ashore that morning he carried his life in his hands.
@@ -227,7 +226,7 @@ But laugh though he might, he knew as well as Pitt that in going ashore that mor
 
 857
 I... I had not dreamed....
-ငါ။ ငါ အိမ်မက်မမက်ခဲ့ဘူး။
+ငါ.... ငါ အိမ်မက်မမက်ခဲ့ဘူး.....
 
 858
 Believe me, I am very grateful.
@@ -235,7 +234,7 @@ Believe me, I am very grateful.
 
 859
 But there is no hope for him in that!  she cried.
-ဒါပေမယ့် သူ့အတွက် မျှော်လင့်ချက် မရှိတော့ဘူး! သူမ ငိုခဲ့တယ်။
+ဒါပေမယ့် ထိုအရာမှာ သူ့အတွက် မျှော်လင့်ချက် မရှိတော့ဘူး! သူမ ငိုခဲ့တယ်။
 
 860
 We went about, and it's been a race ever since.
@@ -243,7 +242,7 @@ We went about, and it's been a race ever since.
 
 861
 That was in Bridgetown on the night of the Spanish raid.
-စပိန် ရုတ်တရတ် ဝင်တိုက်တဲ့ညက ဗရစ်ဂျတောင်းမြို့ထဲကို ဖြစ်တယ်။
+စပိန် စီးနင်းဝင်ရောက်တဲ့ညက ဗရစ်ဂျတောင်းမြို့ တွင် ဖြစ်ခဲ့တယ်။
 
 862
 Blood broke the seal, and read.
