@@ -116,9 +116,7 @@ I realize fully what you did, and I realize that partly, at least, you may have 
 
 830
 He did not trouble to rise, not even when Lord Julian, obeying the instincts of finer breeding, set him the example.
-သခင်ဂျူလီယန်က အမျိုးကောင်းသား ပီသစွာ နမူနာလုပ်ပြနေခဲ့တာတောင် သူက အရေးတယူ မထခဲ့ဘူး။
-# ခေါင်းဆောင် ဂျူလီယန်တောင်မှ မမြှင့်တင်နိုင်ခဲ့ဘူး၊ ပိုကောင်းတဲ့ မွေးမြူရေး ဗီဇကို လိုက်နာရင်း၊ သူ့ကို စံနမူနာသာဓက ပြတယ်။
-# REVIEW
+ပိုမိုကောင်းမွန်သော မွေးမြူခြင်း၏ ဗီဇကို နာခံခြင်းဖြင့် ၊ သူ့ကို နမူနာ ထား၍ ၊ သခင်ဂျူလီယန်တောင်မှ နိုးထဖို့ အခက်အခဲမဖြစ်ခဲ့ဘူး။
 
 831
 I'll not be detaining you any longer, ma'am.
@@ -282,13 +280,11 @@ But Blood's mind was now made up.
 
 871
 Why, as I was just telling his lordship here, who thought like you that having Miss Bishop aboard would make us safe, not for his mother would that filthy slaver forgo what's due to him.
-ဘာလို့လဲ၊ ကျွန်ုပ်က သခင်ကြီးကို ဒီမှာပြောနေတာ၊ သင်စဉ်းစားနေသလိုပဲ မစ်စ် ဘစ်ရှော့ပ် ကိုခေါ်လာခြင်းက ကျွန်ုပ်တို့အတွက် ဘေးကင်းစေတယ်လို့၊ သူ့အမေကြောင့်သာမဟုတ်ရင် ဒီညစ်ပတ်တဲ့ ကျွန်ကုန်သည်က သူ့ကိုပေးစရာရှိတာ ပေးမှာမဟုတ်ဘူး။ 
-#REVIEW
+ဘာလို့လဲ၊ မစ်စ် ဘစ်ရှော့ပ် ရှိနေခြင်းက ကျွန်ုပ်တို့အတွက် ဘေးကင်းစေတယ် ၊ သူ့အမေကြောင့်သာမဟုတ်ပဲ ဒီညစ်ပတ်တဲ့ ကျွန်ကုန်သည်က သူ့ကြောင့်ဖြစ်ရတယ်ဆိုတာကို သင်စဉ်းစားနေသလိုပဲ ၊ ကျွန်ုပ်က သူ၏ သခင်ကြီးကို ဒီမှာ ပြောနေတာ၊ 
 
 872
 In his cabin on the starboard side Lord Julian, disturbed by the same sounds, was already astir and hurriedly dressing.
-သင်္ဘောညာဘက်က သူ့ရဲ့အခန်းထဲတွင် သခင်ဂျူလီယန်သည် ထိုအသံများကြောင့် အနှောင့်အယှက်ဖြစ်သွားပြီး နိုးကြားနေကာ မြန်မြန်အဝတ်လဲနေသည်။ 
-#REVIEW
+ထို တူညီသော အသံများကြောင့် အနှောင့်အယှက်ဖြစ်ခဲ့သော ၊ ရေယဉ်လကျ်ာဘက်က သူ့ရဲ့အခန်းထဲတွင် ရှိသော သခင်ဂျူလီယန်သည် ၊ နိုးကြားနေခဲ့ပြီး မြန်မြန်အဝတ်လဲနေသည်။ 
 
 873
 And who the devil may you be?  he exploded at last.
@@ -296,19 +292,19 @@ And who the devil may you be?  he exploded at last.
 
 874
 Colder still and more distant than ever grew his lordship's voice.
-အရင်ကထက် သူ့သခင်ရဲ့ အသံက ပိုပီး အေးစက်လာပြီး ကြီးထွားလာခဲ့တယ်။
+သူ့သခင်ရဲ့ အသံက အမြဲ ကြီးထွားတာမျိုးထက် အေးစက်စက်ဖြစ်လာပြီး ပို၍ ဝေးကွာခဲ့တယ်။
 
 875
 Let me present Captain Blood.   Perforce Bishop must put on the best face he could command.
-ကပ္ပတိန် ဘလက်ဒ်ကို တင်ပြပါရစေ။ ဘစ်ရှော့ကို မလွှဲမရှောင်သာပဲ အတတ်နိုင်ဆုံး ရင်ဆိုင်ဖို့ရန် အမိန့်ပေးနိုင်ပါတယ်။
+ကပ္ပတိန် ဘလက်ဒ်ကို တင်ပြပါရစေ။ ပါဖောင့် ဘစ်ရှော့သည် အမိန့်ပေးနိုင်တဲ့ အကောင်းဆုံးအနေအထား ပြင်ဆင်ရမည်။
 
 876
 Steady, Old Wolf! Steady!  Captain Blood admonished him.
-တည်ငြိမ်၊ ဝံပုလွေဟောင်း! တည်ငြိမ်! ကပ္ပတိန် ဘလက်ဒ်က သူ့ကို သတိပေးခဲ့တယ်။
+တည်ငြိမ်တယ် ၊ အိုး ဝုဖ်သည် တည်ငြိမ်တယ်! လို့ ကပ္ပတိန် ဘလက်ဒ်က သူ့ကို သတိပေးခဲ့တယ်။
 
 877
 Out of the tail of his single eye he had espied a trim figure in grey silk that was ascending the companion.
-သူ့မျက်လုံးတစ်ဖက်ရဲ့ အစွန်းကနေ အဖော်ဆီတက်နေတဲ့ မီးခိုးရောင်ပိုးသားနဲ့ အနားကွပ်ရုပ်ပုံတစ်ပုံကို လှမ်းမြင်ခဲ့တယ်။
+သူ့မျက်လုံးတစ်ဖက်ရဲ့ အစွန်းကနေ သူသည် တွဲဖက်ပါဝင်နေတဲ့ မီးခိုးရောင်ပိုးသားနဲ့ အနားကွပ်ရုပ်ပုံတစ်ပုံကို လှမ်းမြင်ခဲ့တယ်။
 
 878
 No.  Blood closed his telescope.
@@ -328,7 +324,7 @@ Pitt, at his post beside the helmsman, turned intrepidly to face the excited gun
 
 882
 Blood leaned over the rail to speak to the fair young man immediately below him by the helmsman at the whipstaff.
-ဘလတ်ဒ်သည် သူ့အောက်တည့်တည့်ရှိ ပဲ့တိုင်ဘက် ပဲ့ထိန်းဘေးနားက အသားခပ်ဖြူဖြူငယ်တစ်ယောက်ကို စကားပြောရန် လက်ရန်းပေါ်မှီတက်လိုက်သည်။
+ဘလတ်သည် သူ့အောက်တည့်တည့်ရှိ ပဲ့တိုင်ဘက်က ပဲ့နင်းဖြင့် ဘလတ်သည် ချောမောလှပသော လူငယ်နှင့် စကားပြောရန် ရထားလမ်းအကျော်မှာ ကြိုးပမ်းအားထုတ်ခဲ့တယ်။
 
 883
 The country is all, sir; the sovereign naught.
@@ -356,7 +352,7 @@ There's no heaving to for such a matter as that unless you wants to make quite s
 
 889
 And for all that he lost nothing of his outward stern composure, fear invaded his heart.
-သူ့ရဲ့ အပြင်ပန်း တင်းမာသော စိတ်တည်ငြိမ်ခြင်း သမာဓိကို ဆုံးရှုံးသွားသမျှအတွက်၊ သူ့ရဲ့ နှလုံးသားထဲကို အကြောက်တရားက ဝင်ရောက်လာတယ်။
+သူ၏ အပြင်ပန်း တင်းမာသော သမာဓိကို ဆုံးရှုံးသွားသမျှ အားလုံးအတွက် ၊ အကြောက်တရားက သူ့နှလုံးသားကို လွှမ်းမိုးသွားတယ်။
 
 890
 But Wolverstone would not stop.
@@ -364,7 +360,7 @@ But Wolverstone would not stop.
 
 891
 He beheld himself to be as the dog in the fable that had dropped the substance to snatch at a delusive shadow.
-သူ့ကိုယ်သူ ထင်ယောင်ထင်မှားဖြစ်နေသော အရိပ်ထဲက အလစ်သုတ်ခံရတဲ့ အရာဝတ္ထုကို ပြုတ်ကျစေတဲ့ ဒဏ္ဍာရီပုံပြင်ထဲက ခွေးလို့ မြင်နေခဲ့တယ်။
+ထင်ယောင်ထင်မှားဖြစ်နေသော အရိပ် တစ်ခု တွင် အလစ်သုတ်ရန် အရာဝတ္ထုကို ပြုတ်ကျစေတဲ့ ဒဏ္ဍာရီပုံပြင်ထဲက ခွေးအဖြစ် သူ့ကိုယ်သူ မြင်နေခဲ့တယ်။
 
 892
 If it is a mistake to grant Captain Blood a commission, the mistake is not mine.
@@ -392,7 +388,7 @@ How?  she asked him with a sudden startled interest.
 
 898
 ‘Twill be a kindness, so it will.   For a moment she stood before him with quickened breathing, the colour ebbing and flowing in her cheeks.
-ထွီက ကြင်နာတတ်တယ်။ အသက်ရှူမြန်နေတဲ့ သူ့ရဲ့ ရှေ့မှာ သူမ ရပ်လိုက်တဲ့ အခိုက်အတန့်မှာ၊ သူမရဲ့ ပါးပြင်ပေါ်မှာ အရောင်ကွဲပြီး စီးကျနေတယ်။
+ထွီက ကြင်နာတတ်သူ ဖြစ်လိမ့်မယ် ။ သူမက အသက်ပြင်းပြင်းရှူရင်း သူ့ရှေ့မှာ ရပ်လိုက်တဲ့ အခိုက်အတန့်မှာ ၊ သူမရဲ့ ပါးပြင်ပေါ်မှာ အရောင်ကွဲပြီး စီးကျလာတယ်။
 
 899
 He was moved to raise his voice above its usual languid level.
