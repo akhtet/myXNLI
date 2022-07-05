@@ -56,7 +56,7 @@ In 1847, a savage uprising known as the Caste War saw Mayan rebels massacre whit
 
 1215
 Leaf monkeys and long-tailed macaques are among the wildlife.
-သစ်ရွက်မျောက်များနှင့် အမြီးရှည်မျောက်များသည် တောရိုင်းတိရစ္ဆာန်များတွင် ပါဝင်ပါသည်။
+သစ်ရွက်စားမျောက်များနှင့် အမြီးရှည်မျောက်များသည် တောရိုင်းတိရစ္ဆာန်များတွင် ပါဝင်ပါသည်။
 
 1216
 You'll find these in various sizes and with different decoration.
@@ -104,7 +104,7 @@ Underneath the bridges in the harbor is a small island called Potter's Cay.
 
 1227
 s great historic moment came in 1864, when its capital, Charlottetown, hosted a meeting of Maritime leaders with delegates from Ontario and Quebec to chart the path to Canada's federal status as a united dominion.
-၁၈၆၄ခုနှစ်တွင် ၎င်း၏ မြို့တော် Charlottetown၌ ကနေဒါနိုင်ငံ၏ ဗဟိုအစိုးရနှင့်ဆိုင်သော အဆင့်အတန်းကို စည်းလုံးသော အုပ်ချုပ်မှု တစ်ခုအဖြစ် လမ်းကြောင်းဖောက်ရန် Ontarioနှင့် Quebecမှ ပင်လယ်ခရီးသွား အာမခံ၏ ခေါင်းဆောင်များ၏ အစည်းအဝေး တစ်ခုကို လက်ခံကျင်းပခဲ့သောအခါ မဟာသမိုင်းတွင်သော ကာလတစ်ခု ရောက်ရှိခဲ့သည်။
+၁၈၆၄ခုနှစ်တွင် ၎င်း၏ မြို့တော် Charlottetown၌ ကနေဒါနိုင်ငံ၏ ဗဟိုအစိုးရနှင့်ဆိုင်သော အဆင့်အတန်းကို စည်းလုံးသော အုပ်ချုပ်မှု တစ်ခု အဖြစ် လမ်းကြောင်းမှတ်သားရန် Ontarioနှင့် Quebecမှ ကိုယ်စားလှယ်များနှင့်အတူ ပင်လယ်ရေကြောင်းခေါင်းဆောင်များ၏ အစည်းအဝေးတစ်ခုကို လက်ခံကျင်းပခဲ့ချိန်သည် မဟာသမိုင်းတွင်သော ကာလတစ်ခုသို့ ရောက်ရှိခဲ့သည်။
 
 1228
 Amsterdam has many facets, almost as many as the diamonds for which the city is famous.
@@ -128,16 +128,15 @@ There are also plenty of venues for more  risque  or avant-garde performances.
 
 1233
 The heart of ancient Athens was centered around the dome of the Acropolis, with sacred temples built atop the rock and the town built on its undulating flanks.
-ရှေးဟောင်း အေသင်မြို့၏ နှလုံးသားကို ကျောက်တုံးများပေါ်တွင် တည်ဆောက်ထားသော အထွတ်အမြတ်ထားရာ ဘုရားကျောင်းများနှင့် မြို့၏ နံပါး အခရိုပေါလစ်၏ အမိုးခုံးနားတွင် အလယ်၌ထားရှိခဲ့သည်။
+ရှေးဟောင်း အေသင်မြို့၏ နှလုံးသားကို ကျောက်တုံးများပေါ်တွင် တည်ဆောက်ထားသော အထွတ်အမြတ်ထားရာ ဘုရားကျောင်းများနှင့် လှိုင်းတံပိုးများပေါ်တွင် တည်သောမြို့ နှင့်အတူ ၊ အခရိုပေါလစ်၏ အမိုးခုံးနားတွင် အလယ်၌ထားရှိခဲ့သည်။
 
 1234
 Under the altar, a silver disc surrounds a hole marking the place where, tradition says, Jesus's cross was raised alongside those of the two thieves on either side.
-ယဇ်ပလ္လင်အောင်တွင်၊
-#REVIEW
+ယဇ်ပလ္လင်အောင်တွင်၊ ငွေရောင် အပြား တစ်ခုသည် ထိုနေရာကို အမှတ်အသားပြုသော အပေါက်တစ်ခုကို ဝန်းရံထားပြီး ၊ ထိုနေရာကို ၊ ပုံမှန်အားဖြင့် ယေရှု၏လက်ဝါးကပ်တိုင်သည် တစ်ဖက်တစ်ချက်စီတွင် သူခိုးနှစ်ဦးနှင့်အတူ မြှောက်ကိုင်ထားသည်ဟု ပြောကြသည်။
 
 1235
 Open spaces discovered since the 1960s are now believed to be used for  ball games,  which had an important though as yet only poorly understood ceremonial purpose in Indian culture.
-၁၉၆၀ခုနှစ်ကတည်းက ရှာဖွေတွေ့ရှိခဲ့သော လူသိများသော နေရာများကို ယခုအချိန်တွင် အိန္ဒိယ ယဉ်ကျေးမှုတွင် နားလည်မှု အားနည်းသော အခမ်းအနား လုပ်ထုံးလုပ်နည်း ရည်ရွယ်ချက်အနေဖြင့် အရေးကြီးမှု တစ်ခုရှိသော်လည်း ဘောလုံးပွဲများအတွက် အသုံးပြုရန်လို့ ယုံကြည်နေကြသည်။
+၁၉၆၀ခုနှစ်ကတည်းက ရှာဖွေတွေ့ရှိခဲ့သော ပွင့်လင်းသော နေရာများသည် ယခုအချိန်တွင် အိန္ဒိယ ယဉ်ကျေးမှုတွင် နားမလည်နိုင်လောက်အောင် အရေးကြီးသည့် အခမ်းအနားရည်ရွယ်ချက်တစ်ခုရှိသော်လည်း ဘောလုံးပွဲများအတွက် အသုံးပြုသည်ဟု ယုံကြည်ရသည်။
 
 1236
 Away from the coast, the terrain slopes through pines, mimosa, eucalyptus, and heather to an altitude of nearly 915 m (3,000 ft).
@@ -161,7 +160,7 @@ Back in town, a waterfront stroll takes you through Chinatown on Jalan Bandar.
 
 1241
 The nearest facilities can be found at Mount Parnassus (from December-March), a two-hour drive from the city.
-မြို့ကနေ နှစ်နာရီကြာ ကောင်းမောင်းသွားရင် Mount Parnassus(ဒီဇင်ဘာလမှ မတ်လအတွင်း)မှာ အနီးဆုံး အဆောက်အအုံတွေကို တွေ့ရနိုင်တယ်။
+မြို့ကနေ နှစ်နာရီကြာ ကားမောင်းသွားရင် Mount Parnassus(ဒီဇင်ဘာလမှ မတ်လအတွင်း)မှာ အနီးဆုံး အဆောက်အအုံတွေကို တွေ့ရနိုင်တယ်။
 
 1242
 You'll be able to play alongside the  high rollers  at the roulette or craps tables or put a few coins in the slot machines.
@@ -169,7 +168,7 @@ You'll be able to play alongside the  high rollers  at the roulette or craps tab
 
 1243
 Museums are superbly laid out, and most provide leaflets (usually in German, but often in English and French) with detailed information about the exhibits; you will find honesty boxes for payment freely dotted about.
-ပြတိုက်များသည် အလွန်ကောင်းမွန်စွာ ခင်းကျင်းပြသထားပါပြီးတော့ အများစုသည် ပြပွဲပစ္စည်းများနှင့် ပတ်သက်သော အသေးစိတ် အချက်အလက်များနှင့် စာရွတ်စာတမ်းများကို (များသောအားဖြင့် ဂျာမန်ဘာသာနဲ့ ဆိုပေမယ့် မကြာခဏတော့ အင်္ဂလိပ်နှင့် ပြင်သစ်လိုပါ) စီစဉ်ထားပါသည်၊ လွတ်လပ်စွာ ငွေပေးချေမှုအတွက် မှန်ကန်စွာလုပ်ပေးသည့် သေတ္တာများကိုလည်း တွေ့ရပါလိမ့်မည်။
+ပြတိုက်များသည် အလွန်ကောင်းမွန်စွာ ခင်းကျင်းပြသထား ပြီးတော့ အများစုသည် ပြပွဲပစ္စည်းများနှင့် ပတ်သက်သော အသေးစိတ် အချက်အလက်များနှင့် စာရွတ်စာတမ်းများကို (များသောအားဖြင့် ဂျာမန်ဘာသာနဲ့ ဆိုပေမယ့် မကြာခဏတော့ အင်္ဂလိပ်နှင့် ပြင်သစ်လိုပါ) စီစဉ်ထားပါသည်၊ လွတ်လပ်စွာ ငွေပေးချေမှုအတွက် မှန်ကန်စွာလုပ်ပေးသည့် သေတ္တာများကိုလည်း တွေ့ရပါလိမ့်မည်။
 
 1244
 This is a newcomer to Hungary, and you will have to drive some way out of town if you want to play.
@@ -265,7 +264,7 @@ Other efforts currently under way or planned include the
 
 1267
 Include such factors as short time frames, the deletion of original computer files, and the lack of access to needed documents.
-အချိန်တိုဘောင်ခတ်ခြင်းများ၊ မူရင်းကွန်ပြူတာဖိုင်များကို ဖျက်ပစ်ခြင်းနှင့် လိုအပ်သောစာရွက်စာတမ်းများကို ဝင်ရောက်ခွင့်မှာ အားနည်းခြင်း စသည့်အချက်များ ပါဝင်သည်။
+အချိန်တို သတ်မှတ်ခြင်းများ၊ မူရင်းကွန်ပြူတာဖိုင်များကို ဖျက်ပစ်ခြင်းနှင့် လိုအပ်သောစာရွက်စာတမ်းများကို ဝင်ရောက်ခွင့် အားနည်းခြင်း စသည့်အချက်များ ပါဝင်သည်။
 
 1268
 Figure 4 shows the supply curve of workshare services.
@@ -277,11 +276,11 @@ For example, in GGD, a design study was done as a separate job, culminating
 
 1270
 Then, the same representative who made the initial visit revisits the new provider to answer questions and discuss any problems noted in the claims sample.
-ထို့နောက်၊ ကနဦးလည်ပတ်မှုပြုလုပ်ခဲ့သော တူညီသော ကိုယ်စားလှယ်သည် မေးခွန်းများဖြေကြားရန်နှင့် တောင်းဆိုမှုနမူနာတွင် ဖော်ပြထားသည့် ပြဿနာများကို ဆွေးနွေးရန် ပံ့ပိုးပေးသူအသစ်ထံ သွားရောက်ကြည့်ရှုပါသည်။
+ထို့နောက်၊ ကနဦးလည်ပတ်မှုပြုလုပ်ခဲ့သော အဆိုပါ ကိုယ်စားလှယ်ကပင် မေးခွန်းများဖြေကြားရန်နှင့် တောင်းဆိုမှုနမူနာတွင် ဖော်ပြထားသည့် ပြဿနာများကို ဆွေးနွေးရန် ပံ့ပိုးပေးသူအသစ်ထံ သွားရောက်ကြည့်ရှုပါသည်။
 
 1271
 Not only does saving affect the stock of wealth, but wealth in turn influences the choice to save.
-သိမ်းဆည်းခြင်းသည် ချမ်းသာကြွယ်ဝမှုကို အကျိုးသက်ရောက်ရုံသာမက၊ ဒါပေမယ့် ချမ်းသာကြွယ်ဝမှုသည် သိမ်းဆည်းရန် ရွေးချယ်မှုကို လွှမ်းမိုးမှုအဖြစ် ပြောင်းလဲသွားသည်။
+စုဆောင်းခြင်းသည် ချမ်းသာကြွယ်ဝမှု လက်ကျန်ကို အကျိုးသက်ရောက်ရုံသာမက၊ ချမ်းသာကြွယ်ဝမှုသည် စုဆောင်းရန် ရွေးချယ်မှုကို လွှမ်းမိုးမှုအဖြစ် ပြောင်းလဲသွားသည်။
 
 1272
 All nine responding agencies report participation in a
@@ -301,7 +300,7 @@ subclass ချဉ်းကပ်နည်းတွင်၊ အခြေခံ�
 
 1276
 It is the duty of a CIO to manage expectations and help ensure that all members of a CIO organization have a clear understanding of their responsibilities.
-စီအိုင်အို အဖွဲ့အစည်းတစ်ခု၏ အဖွဲ့ဝင်များအားလုံး သူတို့၏တာဝန်များကို ရှင်းလင်းစွာ နားလည်သဘောပေါက်မှုရရှိစေရန်အတွက် ကူညီပေးရန်နှင့် မျှောလင့်ချက်များကို စီမံခန့်ခွဲပေးရန်သည် စီအိုင်အိုတစ်ယောက်၏ တာဝန်ဖြစ်ပါသည်။
+စီအိုင်အို အဖွဲ့အစည်းတစ်ခု၏ အဖွဲ့ဝင်များအားလုံးသည် သူတို့၏တာဝန်များကို ရှင်းလင်းစွာ နားလည်သဘောပေါက်မှုရရှိစေရန်အတွက် ကူညီပေးရန်နှင့် မျှော်မှန်းထားသည်များကို စီမံခန့်ခွဲပေးရန်သည် စီအိုင်အိုတစ်ယောက်၏ တာဝန်ဖြစ်ပါသည်။
 
 1277
 the design, we were concerned that payment would be authorized before verifying that the travel actually took place.
