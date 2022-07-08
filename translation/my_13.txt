@@ -308,7 +308,7 @@ the design, we were concerned that payment would be authorized before verifying 
 
 1278
 19 Assuming four months of work prior to contract award, a total elapsed time of 13 months would have been necessary to retrofit this 675 MWe boiler.
-၁၉ စာချုပ်ချုပ်ဆိုရန် လေးလကြာ အလုပ်လုပ်ကိုင်နိုင်သည်ဟု ယူဆပါက၊ ဤ ၆၇၅ အမ်ဒဗလျူ ဘွိုင်လာကို ပြန်လည်ပြင်ဆင်ရန် စုစုပေါင်း ကြာမြင့်ချိန် ၁၃ လ လိုအပ်မည်ဖြစ်ပါသည်။
+၁၉ ကြိုတင် စာချုပ်ချုပ်ဆိုရန် အလုပ်ချိန် လေးလကြာမည်ဟု ယူဆပါက ၊ ဤ ၆၇၅ အမ်ဒဗလျူအီး ဘွိုင်လာကို ပြန်လည်ပြင်ဆင်ရန် စုစုပေါင်း ကြာမြင့်ချိန် ၁၃ လ လိုအပ်မည်ဖြစ်ပါသည်။
 
 1279
 Technology is highly integrated with the business processes in these organizations because technology is viewed as an enabler for the business, not just a tool.
@@ -332,7 +332,7 @@ Two concepts that appear often in the literature may be useful in informing futu
 
 1284
 It is not possible to know the extent or direction of the bias in the total incidence change based on the general application of a single C-R function everywhere.
-နေရာတိုင်းတွင် စီ-အာ ဖန်ရှင်တစ်ခုတည်း၏ ယေဘုယျအသုံးချမှုအပေါ် အခြေခံ၍ စုစုပေါင်းဖြစ်ပွားမှုပြောင်းလဲမှုတွင် ဘက်လိုက်မှု၏ဦးတည်ရာလမ်းကြောင်း သို့မဟုတ် ပမာဏကို သိရှိရန် မဖြစ်နိုင်ပါ။
+နေရာတိုင်းတွင် စီ-အာ ဖန်ရှင်တစ်ခုတည်း၏ ယေဘုယျအသုံးချမှုအပေါ် အခြေခံ၍ စုစုပေါင်း ဖြစ်ပွားမှုပမာဏ ပြောင်းလဲမှုတွင် ဘက်လိုက်မှု၏ဦးတည်ရာလမ်းကြောင်း သို့မဟုတ် ပမာဏကို သိရှိရန် မဖြစ်နိုင်ပါ။
 
 1285
 The lines composed of boxes show the welfare level of all mailers combined and the lines composed of diamonds show the technical losses (if negative) of shifting the work to another party.
@@ -340,7 +340,7 @@ The lines composed of boxes show the welfare level of all mailers combined and t
 
 1286
 Based on this risk assessment, Centrelink developed a range of specific prevention strategies aimed at educating beneficiaries and employers on income reporting requirements.
-ဤအန္တရာယ်အကဲဖြတ်မှုအပေါ်အခြေခံ၍၊ စန်တာလင့်ဒ်သည် ဝင်ငွေအစီရင်ခံခြင်းဆိုင်ရာ လိုအပ်ချက်များအပေါ် အလုပ်သမားများနှင့် အကျိုးခံစားခွင့်ရှိသူများနှင့် ပညာရေးပိုင်းဆိုင်ရာ အကျိုးခံစားခွင့်ရှိသူများအတွက် ရည်ရွယ်ထားသည့် တိတိကျကျသတ်မှတ်ထားသော ကာကွယ်တားဆီးခြင်းမဟာဗျူဟာများကို တီထွင်ခဲ့သည်။
+ဤအန္တရာယ်အကဲဖြတ်မှုအပေါ်အခြေခံ၍၊ စန်တာလင့်ဒ်သည် ဝင်ငွေအစီရင်ခံခြင်းဆိုင်ရာ လိုအပ်ချက်များအပေါ် အလုပ်သမားများနှင့် ပညာရေးပိုင်းဆိုင်ရာ အကျိုးခံစားခွင့်ရှိသူများအတွက် ရည်ရွယ်ထားသည့် တိတိကျကျသတ်မှတ်ထားသော ကာကွယ်တားဆီးခြင်းမဟာဗျူဟာများကို တီထွင်ခဲ့သည်။
 
 1287
 This allowed demonstrations of the design before the companies made more costly investments in manufacturing equipment and tooling to build production representative prototypes for the demonstration phase.
@@ -348,15 +348,15 @@ This allowed demonstrations of the design before the companies made more costly 
 
 1288
 The technical cost effects, due to the work being done by a party that may do it at a higher cost, are also calculated in the same way as before.
-ကုန်ကျစရိတ်ပိုမိုမြင့်မားသော ပါတီတစ်ခုမှလုပ်ဆောင်ခဲ့သော အလုပ်ကြောင့် နည်းပညာပိုင်းဆိုင်ရာ ကုန်ကျစရိတ်သက်ရောက်မှုများကို အရင်တုန်းကအတိုင်း တူညီသောနည်းလမ်းနှင့် တွက်ချက်ခဲ့ပါသည်။
+ပါတီ တစ်ခု က ပိုမိုမြင့်မားသော ကုန်ကျစရိတ် တစ်ခု ဖြင့် ထိုအရာကို ပြုလုပ်ခဲ့သည့် အလုပ်ကြောင့် ၊ နည်းပညာပိုင်းဆိုင်ရာ ကုန်ကျစရိတ် အကျိုးသက်ရောက်မှုသည် ၊ အရင်တုန်းကလို တူညီသောနည်းလမ်းနှင့် လည်း တွက်ချက်ခဲ့ပါသည်။
 
 1289
 To do otherwise would send a troubling message to GAO's employees, the press, and the public.
-ဒီလိုမှ မဟုတ်ရင် ဂျီအေအိုရဲ့ အလုပ်သမားတွေနဲ့ အများပြည်သူဆီကို စိတ်အနှောင့်အယှက်ဖြစ်စေမယ့် မက်ဆေ့ချ် တစ်ခု ပို့လိမ့်မယ်။
+ဒီလိုမှ မဟုတ်ရင် ဂျီအေအိုရဲ့ အလုပ်သမားများ ၊ စာနယ်ဇင်းများ နှင့် အများပြည်သူဆီကို စိတ်အနှောင့်အယှက်ဖြစ်စေမယ့် မက်ဆေ့ချ် တစ်ခု ပို့လိမ့်မယ်။
 
 1290
 Practice 4: Manage Risk on a Continuing Basis
-လက်တွေ့ ၄။ ဆက်လက်ဖြစ်ပွားနေသော အခြေခံအကြောင်းရင်းပေါ်တွင် စွန့်စားမှုကို စီမံခန့်ခွဲပါ။
+လက်တွေ့ ၄။ ဆက်လက်ဖြစ်ပွားနေသော အခြေခံအကြောင်းရင်း တစ်ခု ပေါ်တွင် အခက်အခဲကို စီမံခန့်ခွဲပါ။
 
 1291
 South Carolina's collaborative efforts produced another success the following year.
@@ -364,12 +364,11 @@ South Carolina's collaborative efforts produced another success the following ye
 
 1292
 A county employee will be on hand to assist litigants with their research as well.
-တိုင်းသူပြည်သား တစ်ဦးက သုတေသနပြုနေတဲ့ အမှုသည်တွေကို ကောင်းကောင်း ကူညီဆောင်ရွက်ပေးလိမ့်မယ်။
+ခရိုင် ဝန်ထမ်း တစ်ဦးသည် တရားလိုများကို ၎င်းတို့၏ သုတေသနပြုရာတွင်လည်း ကူညီပေးလိမ့်မည်။
 
 1293
 , the Regional Haze RIA and the NOx SIP Call RIA), the low-end estimate of benefits assumed a threshold in PM health effects at 15 :g/m3.
-the Regional Haze RIA and the NOx SIP Call RIA)၊ အကျိုးကျေးဇူးများ၏ အနိမ့်ဆုံးခန့်မှန်းချက်သည် ပီအမ် ကျန်းမာရေးအကျိုးသက်ရောက်မှုများတွင် ၁၅ ။ဂျီ/အမ်၃ တွင် အနိမ့်ဆုံး တုန့်ပြန်သည့် အကန့်အသတ်တစ်ခုဟု ယူဆပါသည်။
-#REVIEW
+the Regional Haze RIA and the NOx SIP Call RIA)၊ အကျိုးအမြတ်၏ အနိမ့်ဆုံး ခန့်မှန်းချက်သည် ပီအမ် ကျန်းမာရေး အကျိုးသက်ရောက်မှုများကို ၁၅ :ဂျီ/အမ်၃ တွင် အကန့်အသတ်တစ်ခုဟု ယူဆပါသည်။
 
 1294
 Some facility owners have been innovative in their construction plans to minimize down time.
@@ -393,7 +392,7 @@ When a match occurs for hotel and certain other charges, a verification of the a
 
 1299
 49 A wage premium allows cream skimmers to obtain an efficiency/cost advantage simply by paying the prevailing wage.
-၄၉ အာမခံသွင်းထားတဲ့ လုပ်အားခက ခရမ် စကင်မာတွေအတွက် အချိန်တိုတိုနဲ့ အကျိုးများစွာ ရရှိဖို့/ ပျံ့နှံ့နေတဲ့ လုပ်အားခကို ပေးခြင်းအားဖြင့် ကုန်ကျစရိတ် သက်သာစေဖို့ ခွင့်ပြုပေးတယ်။
+၄၉ အာမခံသွင်းထားတဲ့ လုပ်အားခသည် ခရင်မ် စကင်မာတွေကို လက်ရှိ လုပ်အားခကို ပေးခြင်းအားဖြင့် ကုန်ကျစရိတ် သက်သာစေဖို့ /အချိန်တိုတိုနဲ့ အကျိုးများစွာ ရရှိဖို့ကို ခွင့်ပြုပေးတယ်။
 
 1300
 For example, employees could be required to use the agencydesignated charge card for hotel and certain other costs.
