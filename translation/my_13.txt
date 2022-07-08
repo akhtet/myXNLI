@@ -236,11 +236,11 @@ Since Title 7 requires the validity of travel claims to be established prior to 
 
 1260
 Our examination of the original studies used in this analysis finds that the health endpoints that are potentially affected by the GAM issues  reduced hospital admissions in both the Base and Alternative Estimates
-ဒီစိစစ်ချက်အတွက် အသုံးပြုထားသော မူလလေ့လာမှုများ၏ စာမေးပွဲများသည် GAM ပြဿနာများကြောင့် ထိခိုက်နိုင်ချေရှိသော ကျန်းမာရေးဆိုင်ရာ အဆုံးအဖြတ်များကို Base နှင့် Alternative Estimates နှစ်ခုလုံးတွင် ဆေးရုံဝင်ခွင့်များကို လျော့နည်းစေကြောင်း တွေ့ရှိရပါသည်။
+အဆိုပါ စိစစ်ချက်တွင် အသုံးပြုထားသော မူလလေ့လာမှုများ၏ စာမေးပွဲများသည် ဂျီအေအမ် ပြဿနာများကြောင့် ထိခိုက်နိုင်ချေရှိသော ကျန်းမာရေးဆိုင်ရာ အဆုံးအဖြတ်များက အခြေခံ နှင့် အလှည့်ကျဆိုင်ရာ ခန့်မှန်းချက် နှစ်ခုလုံးတွင် ဆေးရုံဝင်ခွင့်များကို လျော့နည်းစေကြောင်း တွေ့ရှိရပါသည်။
 
 1261
 Consequently, government decisionmakers and managers are adopting new ways of thinking, considering different ways of achieving goals, and using new information to guide decisions.
-ထို့ကြောင့်၊ အစိုးရ၏ ဆုံးဖြတ်ချက်ချမှတ်သူများနှင့် မန်နေဂျာများသည် တွေးခေါ်ပုံနည်းလမ်းသစ်များကို လက်ခံကျင့်သုံးကြပြီး ပန်းတိုင်များ ရရှိစေရန် မတူညီသော နည်းလမ်းများကို ထည့်သွင်းစဉ်းစားကြပြီး ဆုံးဖြတ်ချက်များကို လမ်းညွှန်ရန်အတွက် အချက်အလက်အသစ်များကို အသုံးပြုကြသည်။
+အကျိုးဆက်အားဖြင့် ၊ အစိုးရ၏ ဆုံးဖြတ်ချက်ချသူများနှင့် စီမံခန့်ခွဲသူများသည် ဆန်းသစ်သော တွေးခေါ်နည်းများ ၊ အောင်မြင်မှု ပန်းတိုင်သို့ မတူညီသော စဉ်းစားပုံ နည်းလမ်းများ ၊ နှင့် ဆုံးဖြတ်ချက်များကို ဉီးဆောင်ရန် အချက်အလက် အသစ်များ အသုံးပြုခြင်းတို့ကို အတည်ပြုနေကြသည်။
 
 1262
 Case files may need to be translated for those clients who read a language other than English.
@@ -304,8 +304,7 @@ It is the duty of a CIO to manage expectations and help ensure that all members 
 
 1277
 the design, we were concerned that payment would be authorized before verifying that the travel actually took place.
-ဒီဇိုင်း၊ အမှန်တကယ် ခရီးသွားဖြစ်ခဲ့ကြောင်း မစစ်ဆေးမီ ငွေပေးချေမှုကို တရားဝင်ခွင့်ပြုလိုက်မည်ကို ကျွန်ုပ်တို့ စိုးရိမ်ပူပန်ခဲ့ရပါသည်။
-#REVIEW
+အဆိုပါ ဒီဇိုင်း သည် ၊ အမှန်တကယ် ခရီးသွားဖြစ်ခဲ့ကြောင်း မစစ်ဆေးမီ ငွေပေးချေမှုကို တရားဝင်ခွင့်ပြုလိုက်မည်ကို ကျွန်ုပ်တို့ စိုးရိမ်ပူပန်ခဲ့ရပါသည်။
 
 1278
 19 Assuming four months of work prior to contract award, a total elapsed time of 13 months would have been necessary to retrofit this 675 MWe boiler.
