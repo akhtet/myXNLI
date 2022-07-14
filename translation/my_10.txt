@@ -1,10 +1,10 @@
 901
 I see, sir, that you do not yet quite apprehend the circumstances.
-ဆရာ၊ မင်းဒီအခြေအနေကို လုံးလုံးလျားလျား နားမလည်သေးဘူးလို့ငါထင်တယ်။
-
+ဆရာ၊ ဒီအခြေအနေတွေကို လုံးလုံးလျားလျား နားမလည်သေးဘူးဆိုတာ ကျွန်တော် သိပါတယ်။ 
+ 
 902
 I am pressed,  she informed him
-ငါပြောတယ် သူမကသူကိုသတင်းပေးဖို့ကို။
+ကျွန်တော်ကို ဖိအားပေးခဲ့တယ်လို့ ၊ သူမက သူ့ကို သတင်းပေးခဲ့တယ်။
 
 903
 As for me,  said Lord Julian, with intent to make Miss Bishop's departure free from all interference on the part of the buccaneers,  I shall remain aboard the Arabella until we reach Port Royal.
@@ -12,19 +12,19 @@ As for me,  said Lord Julian, with intent to make Miss Bishop's departure free f
 
 904
 Besides, how could their staying have helped me?  And as Pitt did not answer him:  Ye see?  he said, and shrugged.
-ဒါအပြင်၊ သူတို့ရဲ့နေထိုင်မှုက ငါ့ကိုဘယ်လိုကူညီမှာလဲ။ ထို့နောက် ပစ်တ်ကသူကိုမဖြေခဲ့ဘူးမင်းမြင်လား။ ပခုံးတွန့်ပြီး သူပြောခဲ့တယ်။
+ဒါအပြင်၊ သူတို့ရဲ့ နေထိုင်မှုက ငါ့ကိုဘယ်လိုကူညီမှာလဲ။ ပြီးတော့ ပစ်တ်က သူကိုမဖြေခဲ့ဘူး ဆိုတာ မင်းမြင်လားလို့ ပခုံးတွန့်ပြီး သူပြောခဲ့တယ်။
 
 905
 Then:   You ordered it?  he said in accents of unbelief, whilst Lord Julian raised his eyebrows.
-ထို့နောက် ဒါမင်းအစီအစဉ်လား။ လော့ဒ်ဂျူလီယန်က သူ၏မျက်ခုံးများကိုမြှင့်တင်းပြီးမယုံကြည်သောလေသံဖြင့်ပြောခဲ့သည်။
+ထို့နောက် : ဒါ မင်း မှာထားတာလား လို့ လော့ဒ်ဂျူလီယန်က သူ၏မျက်ခုံးများကို မြှင့်တင်ပြီး ၊ မယုံကြည်သော လေသံဖြင့် ပြောခဲ့သည်။
 
 906
 Expressly.   His lordship waited a moment for a reply.
-သီးသီးသန့်သန့်။သူခေါင်းဆောင်ကအကြောင်းပြန်စာကိုခဏစောင့်ခဲ့တယ်။
+သီးသီးသန့်သန့်။ သူ့ ခေါင်းဆောင်က အကြောင်းပြန်စာ တစ်စောင်ကို ခဏ စောင့်ခဲ့တယ်။
 
 907
 But it'll be about the Old Wolf that he wants to see you.
-ဒါပေမယ့် သူမင်းကိုတွေ့ချင်တာအိုမင်းနေတဲ့ဝံပုလွေအကြောင်းပဲဖြစ်လိမ့်မယ်။
+ဒါပေမယ့် သူ မင်းကို တွေ့ချင်တာက ဝံပုလွေအို အကြောင်းပဲ ဖြစ်လိမ့်မယ်။
 
 908
 I can't think that it would make the least difference if he did,  said his lordship gravely.
@@ -32,11 +32,11 @@ I can't think that it would make the least difference if he did,  said his lords
 
 909
 You know, Peter, that it is Lord Julian alone has stood between Bishop and his hate of you.
-မင်းသိလားပီတာ လော့ဒ်ဂျူလီယန်တယောက်တည်းကသာဘစ်ရှော့နှင့်မင်းကိုမုန်းတဲ့သူကြားတွင်ရပ်နေခဲ့သည်။
+မင်းသိလား ၊ ပီတာ ၊ လော့ဒ်ဂျူလီယန် တယောက်တည်းကသာ ဘစ်ရှော့ နှင့် မင်းကိုမုန်းတဲ့သူကြားမှာ ရပ်နေခဲ့တာ။ 
 
 910
 But many could not resolve one way or the other until they were satisfied upon several questions, and chiefly upon one which was voiced by Ogle.
-ဒါပေမယ့်များစွာသောလူများသည် မေးခွန်းများစွာကိုကျေနပ်သည်အထိ တနည်းမဟုတ်တနည်းဖြေရှင်းနိုင်ခြင်းမရှိဘဲအဓိကအိုဂယ်မှအသံထွက်သည်အပေါ်။
+ဒါပေမယ့် သူတို့သည် မေးခွန်းများစွာအတွက် ကျေနပ်ကြ ပြီး အဓိကအားဖြင့် အိုဂယ်မှ အသံထွက်သည့်အပေါ်တွင် အများစုသည် တနည်းမဟုတ်တနည်းဖြေရှင်းနိုင်ခြင်းမရှိခဲ့ပါ။
 
 911
 Ye're going to deliver yourself into Bishop's hands,  Pitt warned him.
@@ -44,7 +44,7 @@ Ye're going to deliver yourself into Bishop's hands,  Pitt warned him.
 
 912
 Standing beside Captain Blood, he looked astern, following the indication of the Captain's hand, and cried out in his amazement.
-သူခြောက်ချားစွာကြည့်နေပြီး ခေါင်းဆောင်သွေးဘေးမှာရပ်နေတဲ့ ခေါင်းဆောင်၏လက်ကိုညွှန်ပြပြီး သူတအံ့တဩနှင့်အော်ဟစ်လိုက်သည်။
+သူ ခြောက်ချားစွာ ကြည့်နေပြီး ခေါင်းဆောင် ဘလတ် ဘေးမှာရပ်နေတဲ့ ခေါင်းဆောင်၏လက်ကိုညွှန်ပြပြီး သူတအံ့တဩနှင့်အော်ဟစ်လိုက်သည်။
 
 913
 He may be right, and he may be wrong.
@@ -52,11 +52,11 @@ He may be right, and he may be wrong.
 
 914
 Your words have rankled with him.
-မင်းရဲ့စကားလုံးတေကသူအတွက်တစိမ့်စိမ့်နာကျည်းစေသည်။
+မင်းရဲ့စကားလုံးတွေက သူအတွက် တစိမ့်စိမ့်နာကျည်းစေသည်။
 
 915
 But if she resented his tone and his words, she stifled her resentment.
-ဒါပေမယ့် သူမကိုသူရဲ့အသံနဲ့သူရဲ့စကားလုံးတေကနာကြည်းစေတယ်ဆိုရင်၊ သူမရဲ့နာကြည်မှုကသူမကိုချုပ်နှောင်ခဲ့တယ်။
+ဒါပေမယ့် သူမကို သူရဲ့အသံနဲ့ သူရဲ့စကားလုံးတွေက နာကြည်းစေတယ်ဆိုရင်၊ သူမရဲ့နာကြည်မှုကသူမကိုချုပ်နှောင်ခဲ့တယ်။
 
 916
 I am informed that yesterday evening a frigate left the harbour having on board your associate Wolverstone and a hundred men of the hundred and fifty that were serving under you.
@@ -64,27 +64,27 @@ I am informed that yesterday evening a frigate left the harbour having on board 
 
 917
 England's,  she corrected him in reproof.
-အင်္ဂလန်၏ဆုံးမစာဖြင့်သူမကသူ့ကိုပြုပြင်ခဲ့တယ်။
+အင်္ဂလန်၏ ၊ သူမသည် ဆုံမစာတွင် သူ့ကို ပြုပြင်ခဲ့တယ်။ 
 
 918
 But I suspect this gravity for a mask under which Lord Julian was secretly amused.
-ဒါပေမယ့်လော့ဒ်ဂျူလီယန်တတိတ်တိတ်လေးရယ်နေတဲ့မျက်နှာဖုံးအတွက်ဒီဆွဲငင်အားကိုငါသံသယဖြစ်မိတယ်။
+ဒါပေမဲ့လည်း လော့ဒ်ဂျူလီယန်သည် တိတ်တိတ်လေး ပြုံးရယ်နေတဲ့ ဒီ မျက်နှာဖုံးအောက်က ဒီ ဆွဲဆောင်မှုကို ငါ သံသယဖြစ်မိတယ်။ 
 
 919
 And instantly would have recalled the words had she been able.
-ပြီးတော့သူမတက်နိုင်ရင်စကားလုံးတေကိုချက်ချင်းသတိရသွားလိမ့်မယ်။
+ပြီးတော့ သူမ တက်နိုင်တဲ့ စကားလုံးတွေကို ချက်ချင်းသတိရသွားလိမ့်မယ်။
 
 920
 But that it was no more than a mask for his fury and his venom was plain to all.
-ဒါပေမယ့်ဒါဟာသူ‌ဒေါသအတွက်မျက်နှာဖုံးထက်မပိုဘဲပြီးတော့သူအဆိပ်အားလုံးကရှင်းလင်းခဲ့တယ်။
+ဒါပေမယ့် ဒါဟာ သူ့ ဒေါသ အတွက် မျက်နှာဖုံးတစ်ခုထက်မပိုပါဘူး ပြီးတော့ သူ့ အဆိပ်သည် အားလုံးကို ရှင်းလင်းခဲ့တယ်။
 
 921
 Levasseur?  He smiled a little.
-စာရင်းကိုင်။ သူအနည်းငယ်ပြုံးခဲ့တယ်။
+လဲဗက်ဆာ။ သူ အနည်းငယ်ပြုံးခဲ့တယ်။
 
 922
 I hope your lordship begins at last to perceive the folly of granting the King's commission to such a man as this against all my counsels.
-ငါရဲ့အကြံဉာဏ်များကိုဆန့်ကျင်သောသူအား ဘုရင်၏တာဝန်ကို မိုက်မဲစွာပေးခြင်းကို မင်းရဲ့သခင် ရိပ်မိမယ်လို့ ငါမျှော်လင့်တယ်။
+ငါရဲ့ အကြံဉာဏ်များကို ဆန့်ကျင်သောသူအား ဘုရင်၏ တာဝန်ကို မိုက်မဲစွာပေးခြင်းကို နောက်ဆုံးမှာ မင်းရဲ့သခင် ရိပ်မိမယ်လို့ ငါမျှော်လင့်တယ်။
 
 923
 HOSTILITIES   In the great harbour of Port Royal, spacious enough to have given moorings to all the ships of all the navies of the world, the Arabella rode at anchor.
@@ -97,11 +97,11 @@ He swung to Lord Julian.
 
 925
 Good-morning to you,  he said, and added  I've blundered badly, so I have.
-မင်္ဂလာနံနက်ခင်းပါလို့ပြောပြီး ငါဆိုးဆိုးရွားရွားလွဲမှားခဲ့လို့ထပ်ပြောပါရစေ။
+မင်္ဂလာနံနက်ခင်းပါလို့ သူက ပြောခဲ့ ပြီး ၊ ငါ ဆိုးဆိုးရွားရွား အမှားလုပ်မိလို့ပါလို့ ထပ်မံပြောခဲ့တယ်။
 
 926
 He stepped back, a baffled, impotent man.
-တုန်လှုပ်ချောက်ချား၍အားမပြည့်သောအမျိုးသား သူနှောက်ပြန်ဆုတ်သွားသည်။
+အံ့အားသင့်ပြီး ၊ မသန်စွမ်းသော ယောက်ျားတစ်ယောက် သည် နောက်ပြန်ဆုတ်ခဲ့တယ်။
 
 927
 Ah, now, can't ye, indeed?  he cried.
@@ -109,7 +109,7 @@ Ah, now, can't ye, indeed?  he cried.
 
 928
 Although even some o' they should know better, for there's still a few was on Barbados with us, and are acquainted like me and you with Colonel Bishop.
-တချို့ကသူတို့ထက်ပိုသိသင့်ပေမယ် ဘာဘေးဒိုးစ်မှာငါတို့နင့်အတူရှိသေးသည်အတွက် မင်းနဲ့ငါဗိုလ်မှူကြီးဘစ်ရှော့ နှင့်သိကျွမ်းခဲ့တယ်။
+တချို့က သူတို့ထက်ပိုသိသင့်ပေမယ် ၊ ဘာဘေးဒိုးစ်မှာ ငါတို့နင့်အတူ ရှိသေးသည့် အတွက် ၊ မင်းနဲ့ငါက ဗိုလ်မှူကြီးဘစ်ရှော့ နှင့်သိကျွမ်းခဲ့တယ်။
 
 929
 Pitt, loosely clad in shirt and breeches, leaned against the rail the while and watched him, unmistakable concern imprinted on his fair, frank countenance.
@@ -129,7 +129,7 @@ And a couple of miles this side of it, bearing after them, came speeding three g
 
 933
 It's our only chance, I've said, and we must take it.   The better way that was in Captain Blood's mind was the way that already he had proposed to Wolverstone.
-ဒါငါတို့ရဲ့တစ်ခုတည်းသောအခွင့်အရေးပဲငါတို့ယူရမယ်လို့ပြောခဲ့တယ်။ ခေါင်းဆောင်သွေး၏စိတ်ထဲမှာရှိနေတဲ့ပိုကောင်းတဲ့နည်းလမ်းကို ဝိုးလ်ဗာစတုန်းဆီသို့သူအဆိုပြုပြီ။
+ဒါငါတို့ရဲ့တစ်ခုတည်းသောအခွင့်အရေးပဲ ၊ ငါတို့ ဒါကို ယူရမယ်လို့ ငါ ပြောခဲ့တယ်။ ခေါင်းဆောင် ဘလတ် ၏ စိတ်ထဲမှာ ရှိနေတဲ့ ပိုကောင်းတဲ့ နည်းလမ်းသည် ဝိုးလ်ဗာစတုန်းဆီသို့သူအဆိုပြုပြီးသော နည်းလမ်း ဖြစ်ခဲ့သည်။
 
 934
 Some o' them dawcocks may believe that tale.  He jerked a contemptuous thumb towards the men in the waist, whose ranks were steadily being increased by the advent of others from the forecastle.
@@ -137,7 +137,7 @@ Some o' them dawcocks may believe that tale.  He jerked a contemptuous thumb tow
 
 935
 The young master's grey eyes skimmed it.
-သခင်ငယ်၏မီးခိုးရောင်မျက်လုံးများက၎င်းကိုမှုန်ဝါးစေတယ်။
+သခင်လေး၏မီးခိုးရောင်မျက်လုံးများက၎င်းကိုမှုန်ဝါးစေတယ်။
 
 936
 Whether the men in the panic Ogle had aroused among them would take a different view from Wolverstone's he did not know.
@@ -161,7 +161,7 @@ I accept it as the only way to save us all from the certain destruction into whi
 
 941
 Good-day to you, sir,  Blood hailed him pleasantly.
-ကောင်းသောနေ့ပါဆရာ၊ သွေးကသူ့ကိုသဘောကျစွာချီးကျူးလိုက်တယ်။ 
+ကောင်းသောနေ့ပါဆရာ၊ ဘလတ် က သူ့ကိုသဘောကျစွာချီးကျူးလိုက်တယ်။ 
 
 942
 I... I can't think why you should speak to me like this,  she said, with less than her earlier assurance.
@@ -185,19 +185,19 @@ So that ye can be charitable in some ways!  He laughed softly.
 
 947
 Hark to the gentleman!  he mocked.
-လူကြီးလူကောင်းကနားထောင်တယ်! သူလှောင်ပြောင်သည်။
+လူကြီးလူကောင်းကနားထောင်တယ်!လို့ သူက လှောင်ပြောင်ခဲ့သည်။
 
 948
 So ye've come,  the Deputy-Governor hailed him, and followed the greeting by a series of grunts of vague but apparently ill-humoured import.
-မင်းရောက်လာပြီ၊ ဒုတိယအုပ်ချုပ်ရေးမှူးက သူ့ကိုချီးကျူးတယ်၊ ဝိုးတဝါးအော်ဟစ်သံများဖြင့် နှုတ်ခွန်းဆက်စကားဆက်တိုက်ထွက်ပေါ်လာပြီးနောက် ရယ်စရာဟာသများထွက်ပေါ်လာသည်။
+မင်းရောက်လာပြီ၊ ဒုတိယအုပ်ချုပ်ရေးမှူးက သူ့ကိုချီးကျူးတယ်၊ ပြီးတော့ ဝိုးတဝါးအော်ဟစ်သံများဖြင့် နှုတ်ခွန်းဆက်စကားဆက်တိုက်ထွက်ပေါ်လာပြီးနောက် ရယ်စရာဟာသများထွက်ပေါ်လာသည်။
 
 949
 Threats will not serve, Captain.
-ခေါင်းဆောင်အစေခံတေခြိမ်းခြောက်ခြင်းခံရမည်မဟုတ်ပါ။
+ခေါင်းဆောင်သည် ၊ ခြိမ်းခြောက်မှုတွေ လုပ်မှာမဟုတ်ဘူး။
 
 950
 Captain Blood's glance raked the ranks of those resolute, fierce-eyed fellows, then it came to rest again on Ogle.
-ခေါင်းဆောင်သွေး၏ပြင်းထန်သော မျက်လုံးအကြည်များသည် အပေါင်းအသင်းများ၏အဆင့်အတန်းကိုမြှင့်တင်လိုက်သည်၊ ထို့နောက်အိုဂယ်တွင် တစ်ဖန်အနားယူလိုက်သည်။
+ခေါင်းဆောင် ဘလတ် ၏ အကြည့်သည် ပြတ်သားသောသူတို့၏အဆင့်များ ၊ ပြင်းထန်စူးရှသော-မျက်လုံး ပုံစံများကို ဖော်ပြခဲ့ပြီးနောက် ၊ ၎င်းသည် အိုဂယ်တွင် တစ်ဖန်အနားယူရန် လာခဲ့တယ်။
 
 951
 That girl, there.  He flung out a bare arm to point to her.
