@@ -217,7 +217,7 @@ The Smithsonian Natural History Web (page down two or three times)
 
 2155
 The conventional wisdom in Washington this week is that young writers such as Glass who crack up deserve sympathy because the system pressures them into becoming stars before they are journeymen.
-ယခုအပတ်တွင် ဝါရှင်တန်ရှိ သမားရိုးကျ ဉာဏ်ပညာမှာ အလုပ်သင်အလုပ်သမားများ မဖြစ်မီ ကြယ်ပွင့်များ ဖြစ်လာစေရန် သူတို့ကို ဆက်စပ်သည့်အရာများက ဖိအားများပေးသောကြောင့် စာနာမှု ခံထိုက်သော ဂလပ်စ် ကဲ့သို့သော လူငယ် စာရေးဆရာများ ဖြစ်ကြပေသည်။
+ယခုအပတ်တွင် ဝါရှင်တန်ရှိ သမားရိုးကျ ပညာမှာ အဆိုပါ စနစ်က သူတို့ကို ခရီးသွားသမားတွေမဖြစ်ခင် လူသိများသူတွေ ဖြစ်လာအောင် ဖိအားပေး သောကြောင့် စိတ်ပိုင်းဆိုင်ရာခံစားခဲ့ရသူ Glass ကဲ့သို့သော အဆိုပါ လူငယ်စာရေးဆရာများကို ထိုက်တန်သော ကိုယ်ချင်းစာမှု ဖြစ်ပါတယ်။
 
 2156
 Others answered the question, but Keyes stuffed it.
@@ -229,7 +229,7 @@ To sing good fortune to come to those I fear for,
 
 2158
 Talk-show guests these days often have had formal training in how to avoid answering questions, and every 3-year-old knows how to deliver a prepackaged sound bite.
-ယခုခေတ် ဟောပြောပွဲမှ ဧည့်သည်များသည် မေးခွန်းများကို ဖြေဆိုခြင်းကို မည်ကဲ့သို့ရှောင်ရှားရမည်ကို တရားဝင်လေ့ကျင့်မှုများ ပြုလုပ်လေ့ရှိကြပြီး အသက် ၃ နှစ်သားတိုင်းသည် ကြိုတင်ထုပ်ပိုးထားသော အင်တာဗျူးမှ အနှစ်သာရ ကောက်နုတ်ချက်ကို မည်ကဲ့သို့ ပေးပို့ရမည်ကို သိရှိကြသည်။
+ယခုခေတ် ဟောပြောပွဲမှ ဧည့်သည်များသည် မေးခွန်းများ ဖြေဆိုခြင်းကို မည်ကဲ့သို့ရှောင်ရှားရမည်ကို တရားဝင်လေ့ကျင့်မှုများ ပြုလုပ်လေ့ရှိကြပြီး အသက် ၃ နှစ်သားတိုင်းသည် ကြိုတင်ထုပ်ပိုးထားသော အင်တာဗျူးမှ အနှစ်သာရ ကောက်နုတ်ချက်ကို မည်ကဲ့သို့ ပေးပို့ရမည်ကို သိရှိကြသည်။
 
 2159
 John Horgan's review of Richard Dawkins' Climbing Mount Impossible (The Mystery of Life) is interesting.
@@ -241,7 +241,7 @@ Soderbergh is one of those rare filmmakers who learn on the job.
 
 2161
 Which aspect of our foreign policy does Richard Clarke most fear will be abandoned--standing around while civilians are slaughtered in Rwanda or standing around while civilians are slaughtered in Kosovo?
-ကျွန်ုပ်တို့၏ နိုင်ငံခြားရေးပေါ်လစီ၏ မည်သည့်ရှုထောင့်ကို စွန့်ပစ်ခံရမည်ကို ရစ်ချက်ကလပ်က အကြောက်ဆုံးဖြစ်သနည်း-- ရဝမ်ဒါတွင် အရပ်သားများကို သတ်ဖြတ်နေစဉ် သို့မဟုတ် ကိုဆိုဗိုတွင် အရပ်သားများကို သတ်ဖြတ်နေချိန်တွင်  ရပ်ကြည့်နေခြင်းလား။
+ကျွန်ုပ်တို့၏ နိုင်ငံခြားရေးပေါ်လစီ၏ မည်သည့် အခန်းကဏ္ဍ ကို စွန့်ပစ်ခံရမည်ကို ရစ်ချက်ကလပ်က အကြောက်ဆုံးဖြစ်သနည်း-- ရဝမ်ဒါတွင် အရပ်သားများကို သတ်ဖြတ်နေစဉ် သို့မဟုတ် ကိုဆိုဗိုတွင် အရပ်သားများကို သတ်ဖြတ်နေချိန်တွင်  ရပ်ကြည့်နေခြင်းလား။
 
 2162
 The same can't be said for the New York Times. In its editorial on the cocaine controversy, the Times advised Bush to be honest, and to let the country take his measure.
@@ -257,7 +257,7 @@ Many of the young donors' parents are longtime political activists who know the 
 
 2165
 Tuesday, Bush warned, Too often, on social issues, my party has painted an image of America slouching toward Gomorrah.
-အင်္ဂါနေ့၊ ဘော့ရှ်သတိပေးခဲ့သည်မှာ၊ လူမှုရေးကိစ္စများတွင်၊ ကျွန်ုပ်၏ပါတီသည် ဂိုမောရမြို့ဆီသို့ အမေရိကန်ရုပ်ပုံတစ်ပုံကို မကြာခဏ ရေးဆွဲခဲ့သည်။
+အင်္ဂါနေ့က လူမှုရေး ငြင်းချက်များတွင် ၊ ဘော့ရှ်က တူးကို မကြာခဏ သတိပေးခဲ့သည်မှာ ၊ ကျွန်ုပ်၏ အဖွဲ့သည် ဂိုမောရမြို့ ဆီသို့ စူးစူးစိုက်စိုက်ကြည့်နေသော အမေရိက၏ ပုံ တစ်ပုံ ကို ရေးဆွဲခဲ့သည်။
 
 2166
 This man was born in Germany, is wealthy, educated, well-traveled...
@@ -265,7 +265,7 @@ This man was born in Germany, is wealthy, educated, well-traveled...
 
 2167
 The second level of falsity is that Brock defends Hillary only to elevate his own, proprietary scandal.
-လိမ်လည်မှု၏ဒုတိယအဆင့်မှာ ဘရော့ခ် သည် ဟီလာရီအား သူ့ရဲ့ကိုယ်ပိုင်အရှုပ်တော်ပုံအား မြှင့်တင်ရန်အတွက်သာ ကာကွယ်ခြင်းဖြစ်သည်။
+လိမ်ညာမှု ၏ ဒုတိယ အဆင့်မှာ ဘရော့ခ် သည် ဟီလာရီအား သူရဲ့ ကိုယ်တိုင် ရှုတ်ချပြောဆိုခြင်းကို မြှင့်တင်ရန်အတွက်သာ ကာကွယ်ခြင်းဖြစ်သည်။
 
 2168
 Steven E. Landsburg exhibited a rather alarming disregard for common sense in his recent article Tax the Knickers Off Your Grandchildren.
@@ -273,7 +273,7 @@ Steven E. Landsburg သည် သူ၏လတ်တလော ဆောင်း�
 
 2169
 Just regarding the complaint about reliance on girlfriends, though, Prudie suggests you have a loooong and serious heart-to-heart with your wife, outlining your disturbance with her choices.
-ကောင်မလေးများကို မှီခိုအားထားရသည့်အကြောင်း တိုင်ကြားချက်နှင့်ပတ်သက်၍၊ ပရူဒီ သည် သင့်တွင် သူမ၏ရွေးချယ်မှုများကြောင့် အေးချမ်းသာယာမှုကို ပျက်ပြားခြင်း အကြမ်းဖျင်းဖော်ပြကာ သင့်ဇနီးသည်နှင့် ကြာရှည်စွာ အလေးအနက်ထားရှိပြီး ရင်းရင်းနှီးနှီး ပွင့်ပွင့်လင်းလင်းပြောဆိုသင့်ကြောင်း ရှိစေရန် အကြံပြုထားသည်။
+ကောင်မလေးများကို မှီခိုအားထားရသည့်အကြောင်း တိုင်ကြားချက်နှင့်ပတ်သက်၍၊  ပရူဒီ က သင့်တွင် သင့်ဇနီးသည်နှင့် ကြာရှည်ပြီး လေးနက်သောဆက်သွယ်မှုတစ်ခု ရှိထားဖို့ နှင့် သူမ၏ရွေးချယ်မှုများက သင့်အားစိတ်အနှောက်အယှက်ဖြစ်မှုကို အကြမ်းဖျင်းဖော်ပြဖို့ အကြံပြုသည်။
 
 2170
 Obviously, being fairly arbitrary, many of the AFI choices may not lend themselves to sound cultural interpretation.
