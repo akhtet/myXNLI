@@ -217,7 +217,7 @@ Aye,  said Ogle,  that is true.   But there were some who were still in open and
 
 955
 He threw them at me again and again.
-သူကငါတို့ကိုအကြိမ်ကြိမ် ပစ်ချတယ်။
+သူက ငါ့ဆီ ဒါတွေကို အကြိမ်ကြိမ် ပစ်ချတယ်။
 
 956
 That is: that he has been notified of the coming of Lord Julian Wade.
@@ -225,7 +225,7 @@ That is: that he has been notified of the coming of Lord Julian Wade.
 
 957
 Oh, please.  There was real alarm in her voice.
-အေး ကျေးဇူးပါ။ အဲဒီမှာသူမရဲ့အသံက တကယ်နှိုးစက်ပဲ။
+အိုးရ် ကျေးဇူးပါ ။ သူမရဲ့အသံတွင် အမှန်တကယ် နှိုးထနေသောအသံ ရှိနေခဲ့တယ်။
 
 958
 Fearing to betray the latter, she took refuge in the former.
@@ -241,15 +241,15 @@ You may have heard of me.   Captain Calverley stared hard.
 
 961
 What I think of you can be a very little matter to you, sir.   This was a disarming stroke.
-ငါအထင်မင်းအတွက်အလွန်သေးငယ်သောကိစ္စဖြစ်နိုင်တယ် ဆရာ။ ဒါဟာ ရုတ်တရက် ချစ်စဖွယ်ကောင်းတယ်။
+ငါအထင်မင်းအတွက်အလွန်သေးငယ်သောကိစ္စဖြစ်နိုင်တယ် ဆရာ။ ဒါဟာ ချစ်စဖွယ်ကောင်းတဲ့ ရုတ်ချက်တစ်ခု ဖြစ်ခဲ့တယ်။
 
 962
 It isn't that.   But they were fated to misunderstand each other.
-အဲဒါ မဟုတ်ဘူး။ ဒါပေမယ့် သူတို့ဟာတယောက်နဲ့တယောက်နားလည်မှုလွဲတဲ့ ကံကြမ္မာပဲ။
+အဲဒါ မဟုတ်ဘူး။ ဒါပေမယ့် သူတို့ဟာတယောက်နဲ့တယောက် နားလည်မှုလွဲတာက ကံစီမံရာဖြစ်ခဲ့တယ်။
 
 963
 I'll not be bubbled by what Wolverstone has said.
-ဝိုးလ်ဗာစတုန်းကြောင့် ငါဗလုံစီနေမှာမဟုတ်ဘူး။
+ဝိုးလ်ဗာစတုန်း ပြောခဲ့တာတွေကြောင့်တော့ ငါ ဆူလောင်နေမှာမဟုတ်ဘူး။
 
 964
 If anything should happen to you, Peter,  he said, as Blood was going over the side,  Colonel Bishop had better look to himself.
@@ -261,19 +261,19 @@ About him in the waist, where all last night had been so peaceful, there was a f
 
 966
 I cannot think why you should trouble to put yourself on your defence,   she discouraged him.
-ကိုယ့်ကိုကိုယ်ကာကွယ်ဖို့ မင်းဘာကြောင့်ဒုက္ခရောက်လဲလို့မင်းမတွေးနဲ့၊ သူမကသူ့ကိုစိတ်ပျက်အားလျော့စေတယ်။
+မင်းရဲ့ ချေပချက်က မင်းကိုယ်တိုင်ကို ဘာကြောင့် ပြဿနာဖြစ်သင့်တယ်ဆိုတာ ငါက မစဉ်းစားနိုင်ဘူး လို့ ၊ သူမက သူ့ကို စိတ်ပျက်အားလျော့စေတယ်။
 
 967
 I'll be getting my hat and cane and sword, and go ashore in the cock-boat.
-ငါ့ရဲ့ဦးထုတ်၊ ကြံနှင့် ဓါးယူလာ၍ ကြက်လှေကမ်းပေါ်တက်။
+ငါ့ရဲ့ဦးထုတ် နှင့် ကြိမ်တံ နှင့် ဓါးရှည် ယူလာ ပြီး ကွတ်-ဘုတ် ရှိ ကမ်းပေါ်တက်တယ်။
 
 968
 I must return to Colonel Bishop for my orders,  he informed them.
-ငါအမိန့်ကြောင့် ဗိုလ်မှုးကြီးဘစ်ရှော့ထံ ငါပြန်ရမယ် သူကသူတို့ကိုအသိပေးတယ်။
+ငါအမိန့်ကြောင့် ဗိုလ်မှုးကြီးဘစ်ရှော့ထံ ငါပြန်ရမယ် လို့ သူကသူတို့ကိုအသိပေးတယ်။
 
 969
 In a flash Captain Blood saw what was in their minds.
-သူတို့စိတ်ထဲဘာရှိလဲဆိုတာ ခေါင်းဆောင်သွေးကဖျစ်ခနဲ့မြင်လိုက်တယ်။
+သူတို့စိတ်ထဲဘာရှိလဲဆိုတာ ခေါင်းဆောင် ဘလတ် က ချက်ချင်း သိမြင်လိုက်တယ်။
 
 970
 I do my best,  said she.
@@ -285,7 +285,7 @@ Oh, but--by your leave--surely there is nothing to be apprehended from Colonel B
 
 972
 I wonder, now,  he said presently,  if the mischief is of your working.
-အခုငါအံ့ဩနေတယ်၊ မင်းအလုပ်ကလောလောဆယ်ဒုက္ခပေးနေတယ်လို့သူကပြောတယ်။
+မင်း အလုပ်က ဒုက္ခပေးနေတယ်ဆိုတာကို အခုငါအံ့ဩနေတယ် လို့ သူက လောလောဆယ် ပြောခဲ့တယ်။
 
 973
 Shrewd advocacy,  he approved it.
@@ -293,15 +293,15 @@ Shrewd advocacy,  he approved it.
 
 974
 Bid them take in sail, Jeremy,  he said quietly.
-ဂျရမီ သုတို့ကိုလေလံတင်ခိုင်းလိုက် သူကတိတ်တိတ်လေးပြောခဲ့သည်။
+ဂျရမီ သူတို့ကို ရွက်လွှင့်ခိုင်းပါ လို့ သူကတိတ်တိတ်လေးပြောခဲ့သည်။
 
 975
 I have something to show you.   Wondering, Lord Julian mounted the companion as he was bidden.
-ငါ့မှာမင်းကိုပြဖိုရန် တစ်ခုခုရှိတယ်။ အံ့ဩစရာပါပဲ၊ သူလေလံဆွဲသောကြောင့် လော့ဒ်ဂျူလီယန်ကအဖော်လိုက်သွားတယ်။
+ငါ့မှာ မင်းကိုပြဖိုရန် တစ်ခုခုရှိတယ်။ အံ့ဩစရာပါပဲ၊ လော့ဒ်ဂျူလီယန်က သူ လေလံဆွဲခဲ့ တဲ့ တွဲဖက်အဖြစ် ခင်းကျင်းပြသခဲ့သည်။
 
 976
 Before we've run another half-mile we shall be within range.   Wolverstone swore elaborately, then suddenly checked.
-ငါတို့နောက်ထပ်မိုင်ဝက် မပြေးခင် ငါတို့အကွာအဝေးအတွင်းမှာရှိရလိမ့်မည်။ ဝိုးလ်ဗာစတုန်းကဖွဲ့ဖွဲ့နွဲ့နွဲ့ ကျိန်ဆိုပြီးနောက် ရုတ်တရက်စစ်ဆေးခဲ့သည်။
+ငါတို့နောက်ထပ်မိုင်ဝက် မပြေးခင် ငါတို့ အကွာအဝေးအတွင်းမှာ ရှိရလိမ့်မည်။ ဝိုးလ်ဗာစတုန်းက ဖွဲ့ဖွဲ့နွဲ့နွဲ့ ကျိန်ဆိုပြီးနောက် ရုတ်တရက်စစ်ဆေးခဲ့သည်။
 
 977
 He's chivalrous to the point of idiocy.
@@ -309,23 +309,23 @@ He's chivalrous to the point of idiocy.
 
 978
 He levelled his telescope upon that figure.
-အဲ့ဒီပုံပေါ်မှာ သူ၏မှန်ပြောင်းကအဆင့်သက်မှတ်ထားသည်။
+သူက အဲ့ဒီပုံပေါ်မှာ သူ၏မှန်ပြောင်းကို အဆင့်သက်မှတ်ထားသည်။
 
 979
 Miss Bishop was aboard the Royal Mary also, and I rescued her together with his lordship.
-မစ်ဘစ်ရှော့က ရိုန်ရယ်မာရီပေါ်မှာ သူ့သခင်နှင့်အတူသူမကို ကယ်တင်ခဲ့သည်။
+မစ်ဘစ်ရှော့က ရိုန်ရယ်မာရီပေါ်မှာ လည်း လိုက်ပါခဲ့ ပြီး၊ ကျွန်တော်က သူ့သခင် နှင့်အတူ သူမကို အတူတူ ကယ်တင်ခဲ့သည်။
 
 980
 What if he can?  Blood interrupted carelessly.
-သူလုပ်နိုင်ရင်ဘာလုပ်မလဲ။ သွေးကဂရုမစိုက်ဘဲ အဆက်ပြတ်သွားသည်။
+သူလုပ်နိုင်ရင်ဘာလုပ်မလဲ။ ဘလတ်က ဂရုမစိုက်ဘဲ ပြတ်သွားခဲ့တယ်။
 
 981
 I'll rot in hell or ever I serves the King,  he bawled in a great rage.
-ငါငရဲမှာကျပါစေ ဒါမှမဟုတ် ငါအမြဲတမ်းဘုရင်ထံဆောင်ရွက်ပေးတယ်လို့ သူဒေါသတကြီးအော်ဟစ်ပြောဆိုလေသည်။
+ငါငရဲမှာကျလလိမ့်မယ် ဒါမှမဟုတ် ငါအမြဲတမ်း ဘုရင်ထံ အမှုထမ်းရလိမ့်မယ်လို့ ၊ သူဒေါသတကြီးအော်ဟစ်ပြောဆိုလေသည်။
 
 982
 Ye're surely daft even to think of it, Peter!
-ပီတာ မင်းအဲ့ဒါကိုသေချာစဉ်းစားဖို့ လိုတယ်!
+ပီတာ မင်းအဲ့ဒါကို သေချာပေါက် တွေးတောင် မတွေးရဲဘူး။
 
 983
 Standing now at the rail, with Lord Julian beside him, Captain Blood explained himself.
@@ -349,11 +349,11 @@ Faith, you explain yourself after a fashion,  said he.
 
 988
 A drinker of blood, he is.
-သူသွေးသောက်သမားဖြစ်သည်။
+သူသွေးသောက်သမား တစ်ယောက် ဖြစ်သည်။
 
 989
 It's the truth, you fool.
-ဒါအမှန်တရားပဲ၊ မင်းအရူး။
+ဒါအမှန်တရားပဲ၊ မင်းက လူမိုက်ပဲ။
 
 990
 Heave to, Captain, and signal them to send a boat, and assure themselves that Miss is here.
@@ -366,7 +366,7 @@ He sought comfort in a line on the open page before him:     levius fit patienti
 
 992
 For myself, I am entirely of Wolverstone's opinion.
-ငါအတွက်ကတော့ ဝိုးလ်ဗာစတုန်း၏ထင်မြင်ချက်ကို လုံးဝ။
+ငါအတွက်ကတော့ ၊ ဝိုးလ်ဗာစတုန်း၏ထင်မြင်ချက်ကို ကျွန်တော် လုံးဝ သဘောကျပါတယ်။
 
 993
 And if ye' weren't a fool, Ogle, you wouldn't need me to tell you this.
@@ -374,7 +374,7 @@ And if ye' weren't a fool, Ogle, you wouldn't need me to tell you this.
 
 994
 See it manned for me.
-ငါ့အတွက် လူများကိုကြည့်။
+ငါ့အတွက် သင့်တော်တာကို ကြည့်ပါ။
 
 995
 And what should be happening to me, Jeremy? Sure, now, I'll be back for dinner, so I will.   Blood climbed down into the waiting boat.
