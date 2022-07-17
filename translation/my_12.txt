@@ -40,8 +40,7 @@ Some Athenians even urged the Assembly to declare war on the Macedonian King.
 
 1111
 The acoustics inside the tomb are very precise, exaggerating the sound of your approaching fellow visitors.
-သင်္ချိုင်းတွင်းရှိ အသံပိုင်းဆိုင်ရာ အသံများဟာ အလွန်တိကျပြီး သင်နဲ့ချဉ်းကပ်လာသော ဧည့်သည်များ၏ အသံလည်း ချဲ့ကားလာသည်။
-#REVIEW
+သင်္ချိုင်းတွင်းရှိ အသံပိုင်းဆိုင်ရာစနစ်များဟာ အလွန်တိကျပြီး သင်ရဲ့ ချဉ်းကပ်လာသော ဧည့်သည်များ၏ အသံများကို ချဲ့ပေးနေသည်။
 
 1112
 These instruments played together form the basic  orchestra  for several popular musical genres.
@@ -149,8 +148,7 @@ You will find the Brehan Museum (dedicated to Art Deco and Art Nouveau) in a for
 
 1138
 The Stampede was originally conceived to show all the techniques and excitement of rounding up cattle on the prairies.
-လူအုပ်ကြီးသည် နဂိုက မြက်ခင်းပြင်ပေါ်ရှိ ကျွဲနွားများစုဆောင်းခြင်း၏ နည်းစနစ်များနှင့် စိတ်လှုပ်ရှားမှုအားလုံးကို ပြသရန် စိတ်ကူးထားသည်။
-#REVIEW
+မြက်ခင်းပြင်ပေါ်တွင် ကျွဲနွားများကိုစု‌ဝေးသော နည်းစနစ်များနှင့် စိတ်လှုပ်ရှားစရာများကို ဤနွားအုပ်ကြီးဖြင့် ပြသရန် နဂိုက စိတ်ကူးထားသည်။
 
 1139
 Almost 100,000 people a day come here to marvel at the striking architecture and explore the latest attractions in this ever-changing city.
@@ -266,9 +264,7 @@ Wander the decks and talk to the actors who play the parts of sailors and pilgri
 
 1167
 The building's most legendary feature is the grasshopper weathervane.
-အဆောက်အဦ၏ ထင်ရှားကျော်ကြားဆုံးသော အင်္ဂါရပ်မှာ ဂရက်စ်ရှော့ပါး ဝဲသားဗိန်း ဖြစ်သည်။
-# REVIEW 
-# It is a symbol of prosperity and good luck. The Faneuil Hall Grasshopper weather vane is thought to have been designed and fabricated by Shem Drowne, the metalsmith who taught Paul Revere his trade.
+ဤအဆောက်အဦး၏ ထင်ရှားကျော်ကြားဆုံးသော အင်္ဂါရပ်မှာ နှံကောင်ပုံ လေညွှန်တံ ဖြစ်သည်။
 
 1168
 For longer stays, the information office provides detailed maps of Quetico's fantastic network of interlocking waterways.
