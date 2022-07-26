@@ -186,7 +186,7 @@ The plan should also identify the acquisition method, key go/no-go points, a for
 
 1447
 It is widely known that saving from current income is the way to accumulate assets and repay past borrowing, thus increasing net worth.
-လက်ရှိ ဝင်ငွေကိုချွေတာခြင်းသည် ပိုင်ဆိုင်မှုများစွာကို စုဆောင်းထားပြီး အတိတ်ကချေးယူထားသော ချေးငွေကို ပြန်ပေးရန် နည်းလမ်းတစ်ခုဖြစ်ပြီး အသားတင်တန်ဖိုးတိုးလာကြောင်း ကျယ်ကျယ်ပြန့်ပြန့် သိရှိလာကြသည်။
+လက်ရှိ ဝင်ငွေမှ စုဆောင်းခြင်းသည် ပိုင်ဆိုင်မှုများကို စုဆောင်းထားရန် နှင့် အတိတ်က ချေးယူထားသည်ကို ပြန်ပေးရန် နည်းလမ်း တစ်ခုဖြစ်သည် ၊ ထို့ကြောင့် အသားတင်တန်ဖိုးတိုးလာကြောင်း ကျယ်ကျယ်ပြန့်ပြန့် သိရှိလာကြသည်။
 
 1448
 Figure 6 displays the average unit costs generated with the cost function for the USPS.
@@ -198,7 +198,7 @@ targets may seem abstract to the average household, increased wealth clearly inf
 
 1450
 Prototype Engineering prototypes (virtual or Production representative prototypes Initial products physical)
-ရှေ့ပြေးပုံစံ အင်ဂျင်နီယာဆိုင်ရာ ရှေ့ပြေးပုံစံများ (အတု သို့မဟုတ် ထုတ်လုပ်ရေး ကိုယ်စားလှယ် ရှေ့ပြေးပုံစံများ ကနဦးထုတ်ကုန်ပိုင်းးဆိုင်ရာ)
+ရှေ့ပြေးပုံစံ အင်ဂျင်နီယာဆိုင်ရာ ရှေ့ပြေးပုံစံများ (အတု သို့မဟုတ် ကနဦး ထုတ်ကုန်ပိုင်းဆိုင်ရာ ရှေ့ပြေးပုံစံများကို ကိုယ်စားပြုသော ထုတ်လုပ်ရေး)
 
 1451
 It made sense for the state to outsource tactical functions such as help desks and mainframe management.
@@ -206,7 +206,7 @@ It made sense for the state to outsource tactical functions such as help desks a
 
 1452
 The reforms that have been adopted so far have profound implications for what government does, how it is organized, and how it performs its services to the country and its citizens.
-ယခုထိ အစိုးရ၏ဘာလုပ်ဆောင်နေသလဲ၊ ဘယ်လိုစီစဉ်ထားသလဲ၊ တိုင်းပြည်အတွက် ဘယ်လိုဝန်ဆောင်မှုများ ပေးနေသလဲနှင့် ၎င်း၏နိုင်ငံသားများအတွက် ပြုပြင်ပြောင်းလဲမှုများ လက်ခံကျင့်သုံးခဲ့သောကြောင့် လေးနက်သော သက်‌ရောက်မှုများရှိသည်။  
+ယခုအချိန်အထိ လက်ခံကျင့်သုံးခဲ့သည့် ပြုပြင်ပြောင်းလဲမှုများသည် အစိုးရ ဘာလုပ်ဆောင်နေသလဲ၊ ဘယ်လိုစီစဉ်ထားသလဲ နှင့် ၊ တိုင်းပြည် နှင့် နိုင်ငံသားများ အတွက် ဘယ်လိုဝန်ဆောင်မှုများ ပေးနေသလဲ ဆိုတာတွေအတွက် လေးနက်သော သက်ရောက်မှုရှိသည်။
 
 1453
 Thus, the demographic data for the same 5-Digit ZIP Code could be averaged into the totals for two different quartiles.
@@ -214,19 +214,20 @@ Thus, the demographic data for the same 5-Digit ZIP Code could be averaged into 
 
 1454
 Baltimore County firefighters do not have a formal program to provide a financial boost to firefighters and paramedics who are injured and unable to work.
-ဘော်လ်တီးမိုး နိုင်ငံမီးသတ်သမားများတွင် ထိခိုက်ဒဏ်ရာရပြီး အလုပ်မလုပ်နိုင်သော မီးသတ်သမားများနှင့် ဆေးမှူးများကို ငွေရေးကြေးရေးမြှင့်တင်မှု ပေးဆောင်ရန် တရားဝင်အစီအစဉ်တစ်ခု မရှိပါ။
+ဘော်လ်တီးမိုး ကောင်တီ မီးသတ်သမားများတွင် ထိခိုက်ဒဏ်ရာရပြီး အလုပ်မလုပ်နိုင်သော မီးသတ်သမားများနှင့် ဆေးမှူးများကို ငွေရေးကြေးရေးမြှင့်တင်မှု ပေးဆောင်ရန် တရားဝင်အစီအစဉ်တစ်ခု မရှိပါ။
 
 1455
 Properly implemented, this approach provides reasonable assurance that a trip occurred.
-မှန်ကန်စွာ အကောင်အထည်ဖော်ပါက ဒီချဉ်းကပ်မှုသည် ခရီးတစ်ခုဖြစ်ပေါ်ရာတွင် ကျိုးကြောင်းဆီလျော်သော အာမခံချက်ပေးသည်။
+သင့်လျော်စွာ အကောင်အထည်ဖော်ပါက ဒီချဉ်းကပ်မှုသည် ခရီးတစ်ခုဖြစ်ပေါ်ရာတွင် ကျိုးကြောင်းဆီလျော်သော အာမခံချက်ပေးသည်။
+
 
 1456
 28 In some cases longer outages are needed.
-၂၈ အချို့ကိစ္စများတွင် ပြတ်တောက်မှုပိုရှည်ရန် လိုအပ်သည်။
+၂၈ အချို့ကိစ္စများတွင် ပိုမိုကြာရှည်သော ပြတ်တောက်မှုများကို လိုအပ်သည်။
 
 1457
 Although the C-R relationship may, in fact, vary from one location to another (for example, due to differences in population susceptibilities or differences in the composition of PM), locationspecific C-R functions are generally not available.
-တကယ်တော့ စီ-အာ ဆက်ဆံရေးသည် တစ်နေရာမှတစ်နေရာ ကွဲပြားနိုင်သော်လည်း (ဥပမာ လူဦး‌ရေကွဲပြားမှုတို့ကြောင် သို့မဟုတ် ပီအမ်၏ဖွဲ့စည်းပုံ ကွဲပြားမှုတို့ကြောင့်) တည်နေရာအတိအကျ စီ-အာ လုပ်ဆောင်ချက်များကို ယေဘုယျအားဖြင့် မရရှိနိုင်ပါ။
+တကယ်တော့ စီ-အာ ဆက်ဆံရေးသည် တစ်နေရာမှတစ်နေရာ ကွဲပြားနိုင်သော်လည်း (ဥပမာ လူဦး‌ရေကွဲပြားမှုတို့တွင် မတူညီခြင်း သို့မဟုတ် ပီအမ်၏ဖွဲ့စည်းပုံ ကွဲပြားမှုတို့ကြောင့်) တည်နေရာအတိအကျ စီ-အာ လုပ်ဆောင်ချက်များကို ယေဘုယျအားဖြင့် မရရှိနိုင်ပါ။
 
 1458
 This project, called Partners for Justice is a cooperative venture among the five LSC programs, LATIS, the Appleseed Justice Center, the South Carolina Bar Pro Bono Program, and 46 human services agencies.
@@ -235,7 +236,7 @@ Partners for Justice ဟုခေါ်သော ဒီပရောဂျက်�
 
 1459
 Finally, I would like to address the issue of funding.
-နောက်ဆုံးတော့ ရန်ပုံငွေ ပြဏနာကိုဖြေရှင်းရလိမ့်မယ်။
+နောက်ဆုံးတော့ ကျွန်တော် ရန်ပုံငွေ ပြဿနာကို ဖြေရှင်းရလိမ့်မယ်။
 
 1460
 Nonexchange transactions-- gains and losses
@@ -243,7 +244,7 @@ Nonexchange transactions-- gains and losses
 
 1461
 Air pollution levels below the threshold for each health effect studied are assumed not to cause the effect.
-ကျန်းမာရေး အကျိုးသတ်ရောက်မှုတစ်ခုစီအတွက် လေ့လာထားသော လေထုညစ်ညမ်းမှုအဆင့် သတ်မှတ်ချက်အောက် အကျိုးသတ်ရောက်မှုမရှိဟု ယူဆသည်။
+လေ့လာထားသော ကျန်းမာရေး အကျိုးသတ်ရောက်မှုတစ်ခုစီအတွက် သတ်မှတ်ချက်အောက်ရှိ လေထုညစ်ညမ်းမှုအဆင့်များသည် အကျိုးသတ်ရောက်မှုမရှိဟု ယူဆသည်။
 
 1462
 Retirement of debt securities prior to  trust funds and special funds (except trust revolving funds).
@@ -259,7 +260,7 @@ Even if preliminary engineering and contract negotiation took as long as six to 
 
 1465
 First, the ED potentially provides an ideal teachable moment for patients who have problems with alcohol use.
-ပထမ အီးဒီသည် အရက်သောက်သုံးမှုပြဿနာ ရှိသောလူနာအတွက် သင်ကြားနိုင်သော အခိုက်အတန့်တစ်ခု ဖြစ်နိုင်ချေရှိသည်။
+ပထမဉီးစွာ ၊ အီးဒီသည် အရက်သောက်သုံးမှုပြဿနာ ရှိသောလူနာအတွက် အကောင်းဆုံး သင်ကြားနိုင်သည့် အခိုက်အတန့်တစ်ခုကို ထောက်ပံ့ပေးနိုင်ချေရှိသည်။
 
 1466
 A key tool used by each company to ensure that a product's design was stable by the end of the product integration phase was a demonstration that the design would meet requirements.
@@ -275,7 +276,7 @@ On the other hand, there are responsibilities such as IT planning and oversight 
 
 1469
 While his idea of highlighting this area of research holds great merit, operationalization is problematic.
-ဤသုတေသနနယ်ပယ်ကို မီးမောင်းထိုးပြခြင်းဖြင့် သူ၏အစီအစဉ်သည် ကြီးမြတ်သောကုသိုလ်ကို ကိုင်ဆောင်ထားစဉ်တွင် လုပ်ငန်းလည်ပတ်မှုက ပြဿနာရှိနေသည်။
+ဤသုတေသနနယ်ပယ်ကို မီးမောင်းထိုးပြခြင်း၏ သူရဲ့ အကြံဥာဏ် သည် ကြီးမြတ်သောကုသိုလ်ကို ကိုင်ဆောင်ထားစဉ်တွင် ၊ လုပ်ငန်းလည်ပတ်မှုက ပြဿနာရှိနေသည်။
 
 1470
 The crosshatched trapezoid is the welfare loss to these mailers as a market, given that they cannot shift.
@@ -288,11 +289,11 @@ Bexar County အဖွဲ့၏ အမှုဆောင်ဒါရိုက်
 
 1472
 Freedom from error in the data.
-ဒေတာ အမှားမှကင်းလွတ်ခွင့်။
+အချက်အလက်များတွင် အမှားမှကင်းလွတ်ခွင့်။
 
 1473
 The 1989 National Mail Count was conducted for 24 delivery days from September 5 to October 2, 1989, and included 44,775 rural routes out of a total of 46,197.
-၁၉၈၉ ခုနှစ် National Mail Count ကို ၁၉၈၉ ခုနှစ် စက်တင်ဘာလ ၅ ရက်နေ့မှ ၁၉၈၉ ခုနှစ် အောက်တိုဘာလ ၂ ရက်နေ့အထိ ၂၄ ရက်ကြာ ပေးပို့ခဲ့ပြီး စုစုပေါင်း ၄၆၁၉၇ ခုရှိသည့်အနက် ကျေးလက်လမ်းကြောင်း ၄၄၇၇၅ ခု ပါဝင်ပါသည်။
+၁၉၈၉ ခုနှစ် National Mail Count ကို ၁၉၈၉ ခုနှစ် စက်တင်ဘာလ ၅ ရက်နေ့မှ အောက်တိုဘာလ ၂ ရက်နေ့အထိ ၂၄ ရက်ကြာ ပေးပို့ခဲ့ပြီး စုစုပေါင်း ၄၆၁၉၇ ခုရှိသည့်အနက် ကျေးလက်လမ်းကြောင်း ၄၄၇၇၅ ခု ပါဝင်ပါသည်။
 
 1474
 The statistics in Table A1 show that, on average, routes in the more profitable quartiles reside in ZIP Codes with higher income households and more educated adults.
@@ -300,7 +301,7 @@ The statistics in Table A1 show that, on average, routes in the more profitable 
 
 1475
 In this case, the rate difference is 9a, which is equal to the cost difference of 6a inflated by the 50% markup.
-ဒီကိစ္စမှာ နှုန်းကွာခြားချက်မှာ ၉အေ ဖြစ်ပြီး၊ ၅၀ ရာခိုင်နှုန်း စျေးတက်ခြင်းဖြင့် ဖောင်းပွနေသော ၆အေ ၏ ကုန်ကျစရိတ်ကွာခြားချက်နှင့် ညီမျှသည်။
+ဒီကိစ္စမှာ နှုန်းကွာခြားချက်မှာ ၉အေ ဖြစ်ပြီး၊ မိတ်ကပ် ၅၀ ရာခိုင်နှုန်းသည် ဖောင်းပွနေသော ၆အေ ၏ ကုန်ကျစရိတ်ကွာခြားချက်နှင့် ညီမျှသည်။
 
 1476
 Several witnesses testified about terminating representation once the alien left the country.
@@ -316,7 +317,7 @@ Faced with this choice, clients likely would preserve their right to leave the c
 
 1479
 If households' existing assets lose value, people have to save more to attain their wealth-income target.
-အိမ်ထောင်စုများ၏ လက်ရှိပိုင်ဆိုင်မှုတန်ဖိုးများ ဆုံးရှုံးသွားပါက၊ လူများသည် သူတို့၏ စည်းစိမ်ဥစ္စာ ပန်းတိုင်သို့ ရောက်ရန် ပိုမိုစုဆောင်းရမည်ဖြစ်သည်။
+အိမ်ထောင်စုများ၏ လက်ရှိပိုင်ဆိုင်မှုတန်ဖိုးများ ဆုံးရှုံးသွားပါက၊ လူများသည် သူတို့၏ ကြွယ်ဝမှု-ဝင်ငွေ ပန်းတိုင်သို့ ရောက်ရန် ပိုမိုစုဆောင်းရမည်ဖြစ်သည်။
 
 1480
 About 2,100 general practitioners accessed their feedback reports on-line during 1999, and HIC implemented further enhancements to include feedback to other medical practitioners.
@@ -352,7 +353,7 @@ Just as there is a spectrum of alcohol use problems, there may be a family of so
 
 1488
 or visit GAO's World Wide Web home page at
-သို့မဟုတ် ဂျီအေအို၏ World Wide Web မူလစာမျက်နှာတွင်လည်ပတ်နိုင်သည်
+သို့မဟုတ် ဂျီအေအို၏ World Wide Web home page ကို သွားကြည့်ပါ
 
 1489
 Based on the estimated time periods needed to complete each of the four phases described above, the estimated time period to complete the implementation of SCR on one combustion unit is about 21 months.
@@ -368,7 +369,7 @@ Notices to opposing counsel and the court or administrative agency would have to
 
 1492
 The gain or loss should be accounted for as a nonexchange gain or loss
-အမြတ် သို့မဟုတ် အရှုံး ဖလှယ်ခြင်းမဟုတ်သော အမြတ် သို့မဟုတ် အရှုံး စာရင်းသွင်းသည်
+အမြတ် သို့မဟုတ် အရှုံး ကို ဖလှယ်ခြင်းမဟုတ်သော အမြတ် သို့မဟုတ် အရှုံး တစ်ခု အဖြစ် စာရင်းသွင်းသည်
 
 1493
 23Financial  Continued Momentum Essential to Achieve CFO Act Goals
