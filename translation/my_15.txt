@@ -16,7 +16,7 @@ Looking to the future, about onethird of the responding agencies reported that t
 
 1405
 In contrast, the impact of volume is greater in the U.S. than in France because the U.S. has lower postal densities and a greater variation in volumes.
-မတူတာကတော့ယူအက်စ်သည်  စာတိုက်သိပ်သည်းဆနည်းပါးပြီးပမာဏ ပြောင်းလဲမှုပိုကြီးမားသောကြောင့် ထုထည်၏သက်ရောက်မှုသည် ပြင်သစ်မှာထက် ယူအက်စ်မှာပိုကြီးမားသည်။
+ဆန့်ကျင်ဘက်အားဖြင့် ယူအက်စ်သည်  စာတိုက် သိပ်သည်းဆ နည်းပါးပြီး ပမာဏ ပြောင်းလဲမှု ပိုကြီးမားသောကြောင့် ထုထည်၏သက်ရောက်မှုသည် ပြင်သစ်မှာထက် ယူအက်စ်မှာပိုကြီးမားသည်။
 
 1406
 Texas considers the various forms of education to be costbeneficial in its Medicaid program.
@@ -48,8 +48,7 @@ Incremental purchasing may limit risks by identifying problems earlier, which al
 
 1413
 Besides LNL and Allenbrand-Drews, the suit names as defendants Gary Allenbrand and Loren Drews, principals of Allenbrand-Drews; and developers or contractors R.L.
-အယ်လ်အမ်အယ်လ်နှင့် Allenbrand-Drews အပြင်၊ Allenbrand-Drews ၏ အဓိကတရားခံများဖြစ်သည့် တရားခံလို့ အမည်ပေးတဲ့ Gary Allenbrand နှင့် Loren Drews ၊ နှင့် ကွန်ပျူတာ ပရိုဂရမ်ရေးသူ  သို့မဟုတ် ကန်ထရိုက်တာ အာ.အယ်လ်.
-#REVIEW
+အယ်လ်အန်အယ်လ်နှင့် အယ်လန်ဘရန်း-ဒရူးအပြင် ၊ အယ်လန်ဘရန်း-ဒရူး ၏ အဓိကတရားခံများဖြစ်သည့် ၊ တရားခံလို့ အမည်ပေးတဲ့ ဂရေး အယ်လန်ဘရန်း နှင့် လိုရမ် ဒရူး ၊ နှင့် ဒပလော်ပါ သို့မဟုတ် ကန်ထရိုက်တာ အာ.အယ်လ်.
 
 1414
 It should be noted that the impact of postal density on cost is greater in France than in the
@@ -194,7 +193,7 @@ Figure 6 displays the average unit costs generated with the cost function for th
 
 1449
 targets may seem abstract to the average household, increased wealth clearly influences personal saving through traditional defined-benefit pension plans.
-ပစ်မှတ်များသည် ပျှမ်းမျှအိမ်သူအိမ်သားဆီသို့ စိတ်ကူးယဉ်ဆန်ပုံရနိုင်ပြီး ကြွယ်ဝချမ်းသာမှုသည် သမားရိုးကျ သတ်မှတ်ထားသော အကျိုးခံစားခွင့်ပင်စင်အစီအစဉ်များမှတဆင့် ပုဂ္ဂိုလ်ရေးအရ သိမ်းဆည်းခြင်းအပေါ် လွှမ်းမိုးနိုင်သည်။
+ပစ်မှတ်များသည် ပျှမ်းမျှဖြစ်သော အိမ်ထောင်စုတွေကို ယေဘုယျဆန်ပုံပေါက်နိုင်ပြီး ၊ ကြွယ်ဝချမ်းသာမှုသည် သမားရိုးကျ သတ်မှတ်ထားသော အကျိုးခံစားခွင့် ပင်စင် အစီအစဉ်များ မှတဆင့် ပုဂ္ဂိုလ်ရေးစုဆောင်းငွေကို ထင်ရှားစွာ လွှမ်းမိုးသည်။
 
 1450
 Prototype Engineering prototypes (virtual or Production representative prototypes Initial products physical)
@@ -202,7 +201,7 @@ Prototype Engineering prototypes (virtual or Production representative prototype
 
 1451
 It made sense for the state to outsource tactical functions such as help desks and mainframe management.
-အကူအညီစားပွဲများ နှင့် ပင်မဘောင်စီမံခန့်ခွဲမှု ကဲ့သို့သော နည်းဗျူဟာပိုင်းဆိုင်ရာ လုပ်‌ငန်းဆောင်တာများကိုထုတ်ယူသုံးစွဲရန် နိုင်ငံတော်အတွက် အဓိပ္ပာယ်ရှိသည်။
+ပြင်ပဝန်ဆောင်မှုလုပ်ငန်းများ နှင့် မိန်းဖရိန် စီမံခန့်ခွဲမှု ကဲ့သို့သော နည်းဗျူဟာပိုင်းဆိုင်ရာ လုပ်‌ငန်းဆောင်တာများကို ထုတ်ယူသုံးစွဲရန် နိုင်ငံတော်အတွက် အဓိပ္ပာယ်ရှိသည်။
 
 1452
 The reforms that have been adopted so far have profound implications for what government does, how it is organized, and how it performs its services to the country and its citizens.
@@ -232,7 +231,6 @@ Although the C-R relationship may, in fact, vary from one location to another (f
 1458
 This project, called Partners for Justice is a cooperative venture among the five LSC programs, LATIS, the Appleseed Justice Center, the South Carolina Bar Pro Bono Program, and 46 human services agencies.
 Partners for Justice ဟုခေါ်သော ဒီပရောဂျက်သည် အယ်လ်အက်စ်စီ  ပရိုဂရမ်ငါးခုဖြစ်သည့် LATIS၊ Appleseed Justice Center၊ South Carolina Bar Pro Bono Program နှင့် လူသားဝန်ဆောင်မှုအေဂျင်စီ ၄၆ ခုတို့တွင် ပူးပေါင်းလုပ်ဆောင်သည့် အကျိုးတူလုပ်ငန်းတစ်ခုဖြစ်သည်။
-#REVIEW 
 
 1459
 Finally, I would like to address the issue of funding.
@@ -248,7 +246,7 @@ Air pollution levels below the threshold for each health effect studied are assu
 
 1462
 Retirement of debt securities prior to  trust funds and special funds (except trust revolving funds).
-အငြိမ်းစားယူ၍ အကြွေးငွေချေးခြင်း ယုံကြည်မှုရန်ပုံငွေများနှင့် အထူးရန်ပုံငွေများ (ယုံကြည်မှု လည်ပတ်နေသော ရန်ပုံငွေမှ လွဲ၍)။
+ယုံကြည်မှု ရန်ပုံငွေများနှင့် အထူးရန်ပုံငွေများ မတိုင်မီ အကြွေးငွေချေးခြင်း အငြိမ်းစားယူခြင်း။ (ယုံကြည်ရသော လည်ပတ်နေသည့် ရန်ပုံငွေမှ လွဲ၍)။
 
 1463
 The company remains prepared to restructure to meet ever-changing business requirements.
@@ -256,7 +254,7 @@ The company remains prepared to restructure to meet ever-changing business requi
 
 1464
 Even if preliminary engineering and contract negotiation took as long as six to eight months, the total time for completing two 900 MWe units would be about 17 to 19 months.
-ပဏာမအင်ဂျင်နီယာ နှင့် စာချုပ်ညှိနှိုင်းခြင်း ခြောက်လမှ ရှစ်လအထိ ကြာလျှင် ၉၀၀ အမ်ဒဗလျှူယူနစ်နှစ်ခု ပြီးစီးရန် စုစုပေါင်းအချိန်သည် ၁၇ လမှ ၁၉ လခန့် အထိဖြစ်သည်။ 
+ပဏာမအင်ဂျင်နီယာပညာ နှင့် စာချုပ်ညှိနှိုင်းခြင်းသည် ခြောက်လမှ ရှစ်လအထိတောင် ကြာလျှင် ၊ ၉၀၀ အမ်ဒဗလျှူအီး ယူနစ်နှစ်ခု ပြီးစီးရန် စုစုပေါင်းအချိန်သည် ၁၇ လမှ ၁၉ လခန့် အထိဖြစ်သည်။ 
 
 1465
 First, the ED potentially provides an ideal teachable moment for patients who have problems with alcohol use.
@@ -341,7 +339,7 @@ We have made significant progress in addressing many of the areas in need of imp
 
 1485
 An example of disruptions that could occur is provided by recent denialofservice attacks on popular websites.
-လူကြိုက်များသောဝဘ်ဆိုက်များပေါ်တွင် မကြာသေးမီက ငြင်းဆိုခြင်းဆိုင်ရာ တိုက်ခိုက်မှုများကြောင့် ဖြစ်ပေါ်လာနိုင်သည့် အနှောင့်အယှက်များ ဥပမာတစ်ခုကို ပံ့ပိုးပေးပါသည်။
+လူကြိုက်များသောဝဘ်ဆိုက်များပေါ်တွင် မကြာသေးမီက ငြင်းဆိုခြင်းဆိုင်ရာ တိုက်ခိုက်မှုများကြောင့် ဖြစ်ပေါ်လာနိုင်သည့် အနှောင့်အယှက်များ ၏ ဥပမာတစ်ခုကို ပေးထားသည်။
 
 1486
 The least cited reason was to maintain inhouse core
@@ -389,7 +387,7 @@ For example, gains on existing assets reduce the amount of an employer's contrib
 
 1497
 However, it may also be anticipated that using the ED visit as a teachable moment may be effective for non-injured persons who drink at risk excessively.
-သို့သော်လည်း၊ အီးဒီ လည်ပတ်မှုကို သင်ကြားရလွယ်ကူသောအခိုက်အတန့်အဖြစ် အသုံးပြုခြင်းသည် ဒဏ်ရာအနာတရမရှိသူများအတွက် အလွန်အကျွံအရက်သောက်ခြင်းအတွက် ထိရောက်မှုရှိနိုင်သည်ဟုလည်း ခန့်မှန်းနိုင်ပါသည်။
+သို့သော်လည်း၊ အီးဒီ လည်ပတ်မှုကို သင်ကြားရလွယ်ကူသောအခိုက်အတန့် တစ်ခု အဖြစ် အသုံးပြုခြင်းသည် အလွန်အကျွံအရက်သောက်သုံးသော ဒဏ်ရာအနာတရမရှိသူများအတွက် ထိရောက်မှုရှိနိုင်သည်ဟုလည်း မျှော်လင့်ထားသည်။
 
 1498
 Clearly, the AICPA's value-enhancement and trade-oriented efforts have dominated its agenda in recent years.
@@ -397,9 +395,8 @@ Clearly, the AICPA's value-enhancement and trade-oriented efforts have dominated
 
 1499
 In leading organizations, evolving business processes play a key role in determining how these information management responsibilities are structured and adapted to meet changing needs.
-ထိပ်တန်းအဖွဲ့အစည်းများတွင်၊ တိုးတက်ပြောင်းလဲလာသော စီးပွားရေးလုပ်ငန်းစဉ်များကို ဒီသတင်းအချက်အလက် စီမံခန့်ခွဲမှုတာဝန်များကို မည်ကဲ့သို့ဖွဲ့စည်းပုံနှင့် ပြောင်းလဲနေသောလိုအပ်ချက်များနှင့် လိုက်လျောညီထွေဖြစ်အောင် ဆုံးဖြတ်ရာတွင် အဓိကအခန်းကဏ္ဍမှ ပါဝင်ပါသည်။
+ဦးဆောင်အဖွဲ့အစည်းတွေမှာ ၊ တိုးတက်ပြောင်းလဲလာသော စီးပွားရေးလုပ်ငန်းစဉ်များကို ဒီသတင်းအချက်အလက် စီမံခန့်ခွဲမှုတာဝန်များကို မည်ကဲ့သို့ဖွဲ့စည်းပုံနှင့် ပြောင်းလဲနေသောလိုအပ်ချက်များနှင့် လိုက်လျောညီထွေဖြစ်အောင် ဆုံးဖြတ်ရာတွင် အဓိကအခန်းကဏ္ဍမှ ပါဝင်ပါသည်။
 
 1500
 A group at the Association of the Bar of the City of New York, meanwhile, has been discussing student debt for six months.
-ထိုအချိန်တွင် နယူးယော့ခ်မြို့ဘား၏ အသင်းအဖွဲ့တစ်ဖွဲ့မှာ ကျောင်းသားအကြွေးများကို ခြောက်လကြာဆွေးနွေးခဲ့သည်။
-
+ထိုအချိန်တွင် နယူးယော့ခ်မြို့ဘား၏ အသင်းအဖွဲ့တစ်ဖွဲ့သည် ကျောင်းသားကြွေးမြီများကို ခြောက်လကြာ ဆွေးနွေးနေခဲ့သည်။
