@@ -84,8 +84,9 @@ This welcome package is hand delivered during a site visit by one of Texas' 19 M
 
 1422
 When Babcock &amp; Wilcox retrofitted the 675 MWe AES Somerset boiler, the outage began on May 14, and the boiler was returned to service on June 26 - about a six-week outage.
-Babcock &amp; Wilcox သည် ၆၇၅ အမ်ဒဗလျူအီး အေအီးအက်စ် ကွက်ကျား ဘွိုင်လာကို ပြန်လည်ပြင်ဆင်ထားသည်၊ ပြတ်တောက်မှုသည် မေ၁၄ တွင်စတင်ခဲ့ပြီး ဇွန်၂၆တွင် ဘွိုင်လာအား ဝန်ဆောင်မှုသို့ပြန်လည်ရောက်ရှိခဲ့ပြီး ခြောင်ပတ်လောက်ပြတ်တောက်သွားခဲ့သည်။
+Babcock &amp; Wilcox သည် ၆၇၅ အမ်ဒဗလျူအီး အေအီးအက်စ် ကွက်ကျား ဘွိုင်လာကို ပြန်လည်ပြင်ဆင်ချိန်တွင် ၊ ပြတ်တောက်မှုသည် မေ ၁၄ တွင် စတင်ခဲ့ပြီး ၊ ခြောက်ပတ်ခန့် ပြတ်တောက်မှု တစ်ခု - ဇွန်၂၆တွင် ဘွိုင်လာအား ဝန်ဆောင်မှု ပြန်လည်ပေးမည်။
 #REVIEW
+# When Babcock &amp; 
 
 1423
 First, we use volume per capita for each country to approximate pieces per possible stop.
@@ -133,7 +134,7 @@ Therefore, the total estimated time to modify the Title V operating permit is ab
 
 1434
 U.S. since France has a wider range of postal densities and lower volumes.
-ယူအက်စ် ပြင်သစ်တွင် စာတိုက်မှပေးပို့သော သိပ်သည်းခြင်းများနှင့် ပမာဏနည်းပါးသော ပိုမိုကျယ်ပြန့်လာသောကြောင့်ဖြစ်သည်။
+# Review
 
 1435
 For further details, see //www.healtheffects.org/Pubs/NMMAPSletter.pdf.
@@ -141,7 +142,7 @@ For further details, see //www.healtheffects.org/Pubs/NMMAPSletter.pdf.
 
 1436
 when we do not have an adequate on-the-shelf set of designs and measures, an exploratory case study can save time and money in implementation as well as improving the confidence we have in our results.
-ကျွန်ုပ်တို့၏ စင်ပေါ်တွင် လုံလောက်သော ဒီဇိုင်းနှင့်အတိုင်းအတာများမရှိပါက၊ စူးစမ်းလေ့လာမှုတစ်ခုကို လက်တွေ့အကောင်အထည်ဖော်ရာတွင် အချိန်နှင့်ငွေကို သက်သာစေသည့်အပြင် ကျွန်ုပ်တို့၏ ရလဒ်များတွင် ကျွန်ုပ်တို့၏ယုံကြည်မှုကို တိုးတက်လာစေနိုင်သည်။
+ကျွန်ုပ်တို့တွင် လုံလောက်သည့် အသုံးမပြုရသေးသော ဒီဇိုင်း နှင့် အတိုင်းအတာများ မရှိပါက ၊ စူးစမ်းလေ့လာမှု တစ်ခုကို လက်တွေ့အကောင်အထည်ဖော်ရာတွင် အချိန်နှင့်ငွေကို သက်သာစေသည့်အပြင် ကျွန်ုပ်တို့၏ ရလဒ်များတွင် ကျွန်ုပ်တို့၏ယုံကြည်မှုကို တိုးတက်လာစေနိုင်သည်။
 
 1437
 As shown in Exhibit A-3 in Appendix A, this process can occur simultaneously with the processing of the construction permit application.
@@ -173,7 +174,7 @@ The group meets monthly to discuss the status of previously discussed and/or imp
 
 1444
 61--Federal employees may be covered by social insurance programs such as Social Security62 and Medicare under the same terms and conditions as the rest of the covered population.
-၆၁--ဖက်ဒရယ်ဝန်ထမ်းများအား လူမှုဖူလုံရေး၆၂ နှင့် ဆေးဝါးစောင့်ရှောက်မှု  ကဲ့သို့သော လွှမ်းခြုံထားသော လူဦးရေအခြေအနေများနှင့် တူညီသော အသုံးအနှူန်းများအောက်တွင် လူမှုဖူလုံရေးအာမခံပရိုဂရမ်များမှ အကျုံးဝင်သည်။
+ကျန်ရှိသော လူဦးရေအဖြစ် ၆၁--ဖက်ဒရယ်ဝန်ထမ်းများအား တူညီသော စည်းကမ်းသတ်မှတ်ချက်များ နှင့် အခြေအနေများအရ လူမှုဖူလုံရေး၆၂ နှင့် ဆေးဝါးစောင့်ရှောက်မှု ကဲ့သို့သော လူမှုဖူလုံရေးအာမခံ အစီအစဉ်များက အကျုံးဝင်နိုင်ပါသည်။
 
 1445
 The data presented in this appendix are based on the demographic data for the 5-Digit ZIP Code for each route in a quartile.
@@ -181,7 +182,7 @@ The data presented in this appendix are based on the demographic data for the 5-
 
 1446
 The plan should also identify the acquisition method, key go/no-go points, a formal training plan, and a contingency plan to minimize losses.
-အစီအစဉ်သည် ခွဲခြားသတ်မှတ်သင့်သော ရယူခြင်းနည်းလမ်း၊ အဓိက သွား/မသွားရန် အမှတ်များ၊ တရားဝင်လေ့ကျင့်ရေးအစီအစဉ် နှင့်ဆုံးရှုံမှု အနည်းဆုံးဖြစ်အောင်အရေးပေါ်အခြေအနေကိုစီစဉ်သည်။ 
+အစီအစဉ်သည် တတ်မြောက်မှု နည်းလမ်း ၊ ဆက်လုပ်သင့်/မသင့် အဓိက အမှတ်များ ၊ ပုံမှန် လေ့ကျင့်ရေး အစီအစဉ် တစ်ခု နှင့် ဆုံးရှုံမှု အနည်းဆုံးဖြစ်အောင်အရေးပေါ်အခြေအနေ တစ်ခုတို့ကို ခွဲခြားသတ်မှတ်သင့်ပါသည်။
 
 1447
 It is widely known that saving from current income is the way to accumulate assets and repay past borrowing, thus increasing net worth.
@@ -218,7 +219,6 @@ Baltimore County firefighters do not have a formal program to provide a financia
 1455
 Properly implemented, this approach provides reasonable assurance that a trip occurred.
 သင့်လျော်စွာ အကောင်အထည်ဖော်ပါက ဒီချဉ်းကပ်မှုသည် ခရီးတစ်ခုဖြစ်ပေါ်ရာတွင် ကျိုးကြောင်းဆီလျော်သော အာမခံချက်ပေးသည်။
-
 
 1456
 28 In some cases longer outages are needed.
@@ -262,11 +262,11 @@ First, the ED potentially provides an ideal teachable moment for patients who ha
 
 1466
 A key tool used by each company to ensure that a product's design was stable by the end of the product integration phase was a demonstration that the design would meet requirements.
-ထုတ်ကုန်တစ်ခု၏ ဒီဇိုင်းသည် ထုတ်ကုန်ပေါင်းစည်းခြင်းအဆုံးတွင် ကုမ္ပဏီတစ်ခုစီမှ အသုံးပြုသော သော့ချက်ကိရိယာတစ်ခုဖြစ်သည့် တည်ငြိမ်မှုရှိစေရန် ဒီဇိုင်းလိုအပ်ချက်များနှင့် ကိုက်ညီသည်သရုပ်ပြမှုတစ်ခုဖြစ်သည်။
+ထုတ်ကုန် ပေါင်းစည်းခြင်း အဆင့် ၏ အဆုံးတွင် ထုတ်ကုန်တစ်ခု၏ ဒီဇိုင်း အခြေကျစေရန် ကုမ္ပဏီတစ်ခုစီမှ အသုံးပြုသော သော့ချက်ကိရိယာတစ်ခုသည် ဒီဇိုင်းလိုအပ်ချက်များနှင့် ကိုက်ညီသည်သရုပ်ပြမှုတစ်ခုဖြစ်သည်။
 
 1467
 Three months after enrollment, the field representatives evaluate a sample of each new provider's claims to see if there are any issues that should be discussed.
-စာရင်းသွင်းပြီးနောက် သုံးလအကြာတွင် နယ်ပယ်ကိုယ်စားလှယ်များသည် ဝန်ဆောင်မှုပေးသူအသစ်တစ်ခုစီ၏ တောင်းဆိုမှုနမူနာကို ကြည့်ရှုရန် ဆွေးနွေးသင့်သည့်ပြဿနာတစ်ခုခု ရှိလာလျှင် အကဲဖြတ်နိုင်သည်။
+စာရင်းသွင်းပြီးနောက် သုံးလအကြာတွင် ပညာရပ်ဆိုင်ရာနယ်ပယ် ကိုယ်စားလှယ်များသည် ဆွေးနွေးသင့်သည့်ပြဿနာတစ်ခုခု ရှိလာလျှင် ဝန်ဆောင်မှုပေးသူ အသစ် တစ်ခုစီ၏ တောင်းဆိုမှု နမူနာ တစ်ခုကို ကြည့်ရှုရန် အကဲဖြတ်နိုင်သည်။
 
 1468
 On the other hand, there are responsibilities such as IT planning and oversight that must remain in-house.
@@ -278,8 +278,7 @@ While his idea of highlighting this area of research holds great merit, operatio
 
 1470
 The crosshatched trapezoid is the welfare loss to these mailers as a market, given that they cannot shift.
-crosshatched trapezoid သည် ဒီစာတိုက်များကိုဈေးကွက်တစ်ခုအဖြစ် သူတို့မပြောင်းနိုင်သောကြောင့် သက်သာချောင်ချိရေးဆုံးရှုံးမှုဖြစ်သည်။
-#REVIEW
+crosshatched trapezoid ဆိုသည်မှာ မရွှေ့ပြောင်းနိုင်သည့် ပေးလိုက်ရသည့် ၊ ဈေးကွက် တစ်ခု အဖြစ် ဤစာပို့သမားများအတွက် သက်သာချောင်ချိရေး ဆုံးရှုံးမှု ဖြစ်သည်။
 
 1471
 Brendan Gill, the former executive director of the Bexar County group, said he has since come to see the merger as a positive move for South Texas.
@@ -295,7 +294,7 @@ The 1989 National Mail Count was conducted for 24 delivery days from September 5
 
 1474
 The statistics in Table A1 show that, on average, routes in the more profitable quartiles reside in ZIP Codes with higher income households and more educated adults.
-ဇယား အေ၁ ရှိ စာရင်းဇယားများအရ၊ ပျမ်းမျှအားဖြင့်၊ အမြတ်အစွန်းပိုရှိသော လေးပုံတစ်ပုံတွင် လမ်းကြောင်းများသည် ဝင်ငွေပိုများသော အိမ်ထောင်စုများနှင့် ပညာတတ်လူကြီးများနှင့်အတူ စာပို့ကုဒ်များတွင် နေထိုင်ကြောင်း ပြသပါသည်။
+ဇယား အေ၁ ရှိ စာရင်းဇယားများအရ၊ ပျမ်းမျှအားဖြင့်၊ အမြတ်အစွန်းပိုရှိသော ရပ်ကွက်များရှိ လမ်းကြောင်းများသည် ဝင်ငွေပိုများသော အိမ်ထောင်စုများနှင့် ပိုမို ပညာတတ်သော လူကြီးများ နှင့်အတူ စာပို့ကုဒ်များတွင် နေထိုင်ကြောင်း ပြသပါသည်။
 
 1475
 In this case, the rate difference is 9a, which is equal to the cost difference of 6a inflated by the 50% markup.
@@ -359,7 +358,7 @@ Based on the estimated time periods needed to complete each of the four phases d
 
 1490
 An interpretation that legal services recipients can represent aliens only during the times that they are physically present in the United States would present LSC providers with two options.
-တရား၀င်ဝန်ဆောင်မှုလက်ခံရရှိသူများသည် အမေရိကန်ပြည်ထောင်စုတွင် နိုင်ငံခြားသားများကို သူတို့ရုပ်ပိုင်းဆိုင်ရာရှိနေချိန်အတွင်းသာ ကိုယ်စားပြုနိုင်သည်ဟူသော အဓိပ္ပာယ်ကောက်ယူခြင်း  အယ်လ်အက်စ်စီ  ဝန်ဆောင်မှုပေးသူများကို ရွေးချယ်စရာနှစ်ခုဖြင့် တင်ပြမည်ဖြစ်သည်။
+တရား၀င်သော ဝန်ဆောင်မှုကို လက်ခံရရှိသူများက အမေရိကန်ပြည်ထောင်စုတွင် နိုင်ငံခြားသားများကို သူတို့ရုပ်ပိုင်းဆိုင်ရာရှိနေချိန်အတွင်းသာ ကိုယ်စားပြုနိုင်သည်ဟူသော အနက်အဓိပ္ပာယ် တစ်ခုသည် အယ်လ်အက်စ်စီ  ဝန်ဆောင်မှုပေးသူများကို ရွေးချယ်စရာနှစ်ခုဖြင့် တင်ပြလိမ့်မည်။
 
 1491
 Notices to opposing counsel and the court or administrative agency would have to be sent.
