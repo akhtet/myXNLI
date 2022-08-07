@@ -28,18 +28,15 @@ Highlighting the map has value.
 
 6908
 The crosshatched pentagon has helped the mailer market boost profits.
-#ခြယ်ထားသောပဉ္စဂံသည် မေးလ်ပို့တဲ့ဈေးကွက် ကို အမြတ်အစွန်းများ မြှင့်တင်ရန် ကူညီပေးခဲ့ပါသည်။
-# REVIEW
+ခြယ်ထားသောပဉ္စဂံသည် မေးလ်ပို့တဲ့ဈေးကွက် ကို အမြတ်အစွန်းများ မြှင့်တင်ရန် ကူညီပေးခဲ့ပါသည်။
 
 6909
 The mailers are unable to recover the losses from the crosshatched trapezoid.
-စာတိုက်များသည် #ခြယ်ထားသောအနားမပြိုင်စတုဂံမှ ဆုံးရှုံးသွားသော ဆုံးရှုံးမှုများကို ပြန်လည်မရရှိနိုင်ပါ။
-# REVIEW
+စာတိုက်များသည် ခြယ်ထားသောစတုဂံမှ ဆုံးရှုံးသွားသော ဆုံးရှုံးမှုများကို ပြန်လည်မရရှိနိုင်ပါ။
 
 6910
 The market loss comes from the crosshatched trapezoid being unable to shift.
-စျေးကွက်ဆုံးရှုံးမှုသည် #ခြယ်ထားသောအနားမပြိုင်စတုဂံကို မပြောင်းနိုင်ခြင်းကြောင့်ဖြစ်သည်။
-# REVIEW
+စျေးကွက်ဆုံးရှုံးမှုသည် ခြယ်ထားသောစတုဂံကို မပြောင်းနိုင်ခြင်းကြောင့်ဖြစ်သည်။
 
 6911
 Brendan Gill dislikes the merger.
