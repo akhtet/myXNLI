@@ -281,7 +281,7 @@ In this way, the spelling of a word often relates to that of other words belongi
 
 2371
 In response to Richard Lederer's call for submissions in a  most graceful and coherent eleven-word supersentence  contest [ The Glamour of Grammar,  XVI,4], I offer the
-Richard Lederer ၏ တောင်းဆိုမှုကို တတင်ပြချက်များအတွက် အမွန်မြတ်ဆုံးနှင့် အဆက်အစပ်အရှိဆုံး စကားလုံး ၁၁ လုံးပါ အကြမ်းဖျင်းပြိုင်ပွဲ [The Glamour of Grammar, အိတ်ဗွီအိုင်,၄ ] ကို ကျွန်ုပ်ကမ်းလှမ်းသည်
+တင်သွင်းခြင်းများ အတွက် Richard Lederer ၏ တောင်းဆိုမှုကို တုန့်ပြန်ရာတွင် ၊ အမွန်မြတ်ဆုံးနှင့် အဆက်အစပ်အရှိဆုံး စကားလုံး ၁၁ လုံးပါ အကြမ်းဖျင်းပြိုင်ပွဲ [The Glamour of Grammar, အိတ်ဗွီအိုင်,၄ ] ကို ကျွန်ုပ်ကမ်းလှမ်းသည်
 #REVIEW
 
 2372
@@ -290,7 +290,7 @@ The equally whimsical nature of the  definitions' defies description.
 
 2373
 The  an inadvertent omission of a hyphen from the computer's mass of coded mathematical ascent guidance instructions.
-ကွန်ပျူတာ၏ တောင်တက်လမ်းညွှန်ကြားချက်သင်္ချာ ကုဒ်နံပါတ်ဒြပ်ထုကို  တုံးတိုတစ်ခုအဖြစ်  အမှတ်မထင် ချန်လှပ်ထားသည်။
+သင်္ချာ တိုးတတ်မှု လမ်းညွှန် ညွှန်ကြားချက်များကို ကွန်ပျူတာဖြင့် လျှို့ဝှက်ရေးထားသည်များမှ hyphen တစ်ခုကို အမှတ်မထင် ချန်လှပ်ထားသည်။
 
 2374
 In a sense, it seems illogical that we have retained the historic spellings for Spenser's works yet use modern spellings for the titles of plays by his contemporary, William Shakespeare.
@@ -298,7 +298,7 @@ In a sense, it seems illogical that we have retained the historic spellings for 
 
 2375
 Two reference librarians were at a loss as to how to begin a search.
-ရှာဖွေမှုစတင်ပုံနှင့်ပတ်သက်၍ အကိုးအကား စာကြည့်တိုက်မှူးနှစ်ဦး ဆုံးရှုံးခဲ့ရသည်။
+ရှာဖွေမှု စတင်ပုံ နှင့်ပတ်သက်၍ ထောက်ခံသူ စာကြည့်တိုက်မှူး နှစ်ဦး ဆုံးရှုံးမှု ဖြစ်ခဲ့သည်။
 
 2376
 Nothing comes from nothing, Lucretius argued two thousand years ago, and tautologists have proved him right.
@@ -326,7 +326,7 @@ When Alice objected,  But that's a different kind of fastness,  he replied,  It 
 
 2382
 Here along Oil Creek, Indians skimmed the surface oil off the water for domestic uses, and white settlers bottled it for medicinal purposes and called it Seneca Oil.
-ဒီနေရာက ရေနံချောင်းတစ်လျှောက်တွင် အိန္ဒိယလူမျိုးများသည် ပြည်တွင်းအသုံးပြုရန်အတွက် ရေမျက်နှာပြင်မှဆီမျာကို ဖယ်ထုတ်ကြပြီး အဖြူရောင်နယ်သစ်တွင် အခြေချနေထိုင်သူများသည် ဆေးဘက်ဆိုင်ရာရည်ညွှန်းချက်များအတွက် ပုလင်းကို ဆီနီကာဆီဟုခေါ်သည်။
+ဒီနေရာ ရေနံချောင်းတစ်လျှောက်တွင် ၊ အိန္ဒိယလူမျိုးများသည် အိမ်တွင်း  အသုံးပြုရန် အတွက် ရေမျက်နှာပြင်မှဆီမျာကို ဖယ်ထုတ်ကြပြီး အဖြူရောင်နယ်သစ်တွင် အခြေချနေထိုင်သူများသည် ဆေးဘက်ဆိုင်ရာ ရည်ညွှန်းချက်များအတွက် ၎င်းကို ပုလင်းထဲထည့် ပြီး ၎င်းကို ဆီနီကာဆီဟုခေါ်သည်။
 
 2383
 Of course, not every typographical error should be ascribed to a hidden unconscious motive on the part of the typesetter (or typist).
@@ -346,7 +346,8 @@ As we all know, there is an enormous number of publications dealing with highly 
 
 2387
 What are you doing becomes  Watch a dune.
-မင်းဘာလုပ်နေတာလဲ သဲသောင်ပို့ကို ကြည့်ပါ။
+မင်းဘာလုပ်နေတာလဲ သဲသောင်ပို့ တစ်ခုကို ကြည့်ပါ။
+# REVIEW
 
 2388
 The linguists who write books seem invariably to be scholars who are touting their own points of view, some of which are recondite, to say the least.
@@ -394,7 +395,7 @@ For example, a program chairman prepared in longhand a few laudatory introductor
 
 2399
 Deborah Cameron and Deborah Hills (`Listening in': negotiating relationships between listeners and presenters on radio phone-in programmes ) have studied the output of LBC Radio, London's  all-talk  station, which I have listened to with interest.
-ဒဲဘိုရာ ကင်မရွန်  နှင့် ဒဲဘိုရာ ဟေးလ်စ်  (နားဆင်ခြင်း ရေဒီယို ဖုန်းဖြင့်ပရိုပရမ်များတွင် နားထောင်သူများနှင့် တင်ဆက်သူများကြား ဆက်ဆံရေးညှိနှိုင်းခြင်း)သည် ကျွန်တော်စိတ်ဝင်တစား နားထောင်ခဲ့သည့် လန်ဒန်၏ စကားပြောဌာနအားလုံး  အယ်လ်ဘီစီ ရေဒီယို၏ ထွက်ရှိမှုကို လေ့လာခဲ့သည်။ 
+ဒဲဘိုရာ ကင်မရွန်  နှင့် ဒဲဘိုရာ ဟေးလ်စ်  (နားဆင်ခြင်း : ရေဒီယို ဖုန်းဖြင့်ပရိုပရမ်များတွင် နားထောင်သူများနှင့် တင်ဆက်သူများကြား ဆက်ဆံရေးညှိနှိုင်းခြင်း)သည် ကျွန်တော်စိတ်ဝင်တစား နားထောင်ခဲ့သည့် လန်ဒန်၏ စကားပြောဌာနအားလုံး  အယ်လ်ဘီစီ ရေဒီယို၏ ထွက်ရှိမှုကို လေ့လာခဲ့သည်။ 
 
 2400
 Such a composition would no doubt leave the impression that the string section had suddenly caught fire.
