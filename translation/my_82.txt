@@ -17,20 +17,14 @@ Your contributions only support the snack fund and aren't matched.
 8105
 The Board of Trustees has no Chairman.
 ယုံကြည်အပ်နှံခံရသူများ ၏ ဘုတ်အဖွဲ့တွင် ဥက္ကဋ္ဌ မရှိပါ။
-# Trustees
-# Review 
 
 8106
 The Chairperson of the Board of Trustees.
 ယုံကြည်အပ်နှံခံရသူများ ၏ ဘုတ်အဖွဲ့ ရဲ့ ဥက္ကဋ္ဌ။
-# Trustees
-# Review 
 
 8107
 The long-serving Chairman of the Board or Trustees.
 ဘုတ်အဖွဲ့ သို့မဟုတ် ယုံကြည်အပ်နှံခံရသူများ၏ နှစ်ရှည်လများ ဥက္ကဋ္ဌ။
-# Trustees
-# Review 
 
 8108
 It's time for last call because we're closing at 2 a.m.
