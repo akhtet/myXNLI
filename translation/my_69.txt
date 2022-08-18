@@ -332,22 +332,15 @@ There is a threshold in each study that determines the effect of air pollution.
 
 6884
 Some trusts have revolving funds.
-အချို့သော ယုံကြည်မှုတွင် လည်ပတ်နေသော ရန်ပုံငွေများ ရှိသည်။
-# Trusts
-# REVIEW
-# A trust is a contract that gives an individual or an institution
+အချို့သော ယုံကြည်အပ်နှံသူများတွင် လည်ပတ်နေသော ရန်ပုံငွေများ ရှိသည်။
 
 6885
 Trusts never have revolving funds.
-ယုံကြည်မှုများတွင် လှည့်ပတ် ရန်ပုံငွေများ ဘယ်သောအခါမှ မရှိပါ။
-# Trusts
-# REVIEW
+ယုံကြည်အပ်နှံသူများတွင် လည်ပတ်နေသော ရန်ပုံငွေများ ဘယ်တုန်းကမှ မရှိပါ။
 
 6886
 Trusts with revolving funds make it easy to get your money.
-လည်ပတ်နေသော ရန်ပုံငွေများဖြင့် ယုံကြည်ခြင်းသည် သင့်ငွေကို လွယ်ကူစေသည်။
-# Trusts
-# REVIEW
+လည်ပတ်နေသော ရန်ပုံငွေများဖြင့် ယုံကြည်အပ်နှံသူများက သင့်ငွေကို အလွယ်တကူရစေသည်။
 
 6887
 The company is on the breaking edge of research.
