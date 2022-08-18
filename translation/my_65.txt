@@ -144,21 +144,15 @@ They don't know how to calculate welfare effects.
 
 6437
 The trust fund borrowed money because it was running at a huge deficit.
-ယုံကြည်စိတ်ချရသော ရန်ပုံငွေသည် ကြီးမားတဲ့ လိုငွေပြမှု တစ်ခု ဖြင့် လည်ပတ်နေသောကြောင့် ပိုက်ဆံကို ချေးယူခဲ့ပါသည်။
-# trust fund
-# REVIEW
+trust ရန်ပုံငွေသည် များပြားတဲ့ လိုငွေပြမှု တစ်ခု ဖြင့် လည်ပတ်နေသောကြောင့် ပိုက်ဆံကို ချေးယူခဲ့ပါသည်။
 
 6438
 The trust fund has never needed to borrow.
-ယုံကြည်စိတ်ချရသော ရန်ပုံငွေသည် မည်သည့်အခါမျှ ချေးငှားရန် မလိုအပ်ခဲ့ပါ။
-# trust fund
-# REVIEW
+trust ရန်ပုံငွေသည် မည်သည့်အခါမျှ ချေးငှားရန် မလိုအပ်ခဲ့ပါ။
 
 6439
 The trust fund needed to borrow money.
-ယုံကြည်စိတ်ချရသော ရန်ပုံငွေသည် ပိုက်ဆံ ချေးငှား ရန် လိုအပ်ခဲ့သည်။
-# trust fund
-# REVIEW
+trust ရန်ပုံငွေသည် ပိုက်ဆံ ချေးငှား ရန် လိုအပ်ခဲ့သည်။
 
 6440
 Alternate communication makes up 60% of communication now.
