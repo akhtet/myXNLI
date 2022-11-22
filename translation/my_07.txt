@@ -40,7 +40,7 @@ Thus, I am assuming that P is an allosteric enhancer of the reaction.
 
 611
 The rabbis were not impressed by these signs.
-ဂျူးဘာသာရေးခေါင်းဆောင်များ သည် ဤ လက္ခဏာများ ကြောင့် အထင်ကြီးမခံကြပါ ။
+ဂျူးဘာသာရေးခေါင်းဆောင်များသည် ဤလက္ခဏာများကို အထင်မကြီးကြပါ။
 
 612
 The late eighteenth century was indeed a marvelously simplistic time.
@@ -72,7 +72,8 @@ Sitting alone as a circuit judge, Chief Justice Taney interpreted the constituti
 
 619
 Dominant Mendelian gene, you see, easily selected once the right environmental conditions arose.
-အင်အားကြီးသော မန်ဒါလီယန် ဗီဇရင်းမြစ် သည် ၊ သင် မြင်ရသော ၊ မှန်ကန်သော ပတ်ဝန်းကျင် အခြေအနေများ ပေါ်ပေါက်လာသည် နှင့် တစ်ချိန်တည်း အလွယ်တကူ ရွေးချယ်နိုင်သည် ။
+အင်အားကြီးသော မန်ဒါလီယန် ဗီဇရင်းမြစ်သည်၊  မှန်ကန်သော ပတ်ဝန်းကျင် အခြေအနေများ ပေါ်ပေါက်လာသည် နှင့် တစ်ချိန်တည်း အလွယ်တကူ ရွေးချယ်နိုင်သည် ။
+# Dropped "you see" in translation
 
 620
 The vaquero or buckaroo is a westerner and the cowboy is a southerner.
