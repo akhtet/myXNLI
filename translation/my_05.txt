@@ -269,6 +269,7 @@ um hum yeah so so so you got a sign up there that says you got this alarm system
 468
 so i don't know wish i did
 ငါမသိဘူး သိရင်ကောင်းမှာ။
+# DROP: The second occurance of pronoun I was dropped in the translation.
 
 469
 uh-huh well then you just pay it off at the end of the month
@@ -277,6 +278,7 @@ uh-huh well then you just pay it off at the end of the month
 470
 yeah we have between the spouse and myself we have six
 ငါနဲ့ ငါ့အိမ်ထောင်ဖက်ကြားမှာ ၆ခုရှိတယ်။
+# DROP: The second occurance of pronoun We was dropped in the translation.
 
 471
 well i don't have kids so it's kind of hard to say
