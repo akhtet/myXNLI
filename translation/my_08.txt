@@ -168,6 +168,7 @@ They also show a decline in self-confidence and motivation, expressing doubts ab
 742
 Should I help her with her homework, and if so, how should I do so?
 သူ့အိမ်စာတွေကို ငါကူညီရမလား၊ အဲဒါဆိုရင် ဘယ်လိုလုပ်ရမလဲ။
+# သူ့အိမ်စာတွေကို ငါကူညီရမလား၊ အဲဒါဆိုရင် ငါဘယ်လိုလုပ်ရမလဲ။
 # DROP: Second pronoun "I" dropped in translation
 
 743
@@ -205,6 +206,7 @@ What we see are details.
 751
 I assure you, sir, that I was fully informed of all.
 ကျွန်တော် အလုံးစုံ သိထားပြီးဖြစ်ကြောင်း အာမခံပါတယ် လူကြီးမင်း။
+# ကျွန်တော် အလုံးစုံ သိထားပြီးဖြစ်ကြောင်း  ကျွန်တော် အာမခံပါတယ် လူကြီးမင်း။
 # DROP: Second pronoun "I" dropped in translation
 
 752

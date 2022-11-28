@@ -268,7 +268,8 @@ um hum yeah so so so you got a sign up there that says you got this alarm system
 
 468
 so i don't know wish i did
-ငါမသိဘူး သိရင်ကောင်းမှာ။
+ငါမသိဘူး သိရင်ကောင်းမှာ
+# ငါမသိဘူး ငါသိရင်ကောင်းမှာ။
 # DROP: The second occurance of pronoun I was dropped in the translation.
 
 469
@@ -277,8 +278,9 @@ uh-huh well then you just pay it off at the end of the month
 
 470
 yeah we have between the spouse and myself we have six
-ငါနဲ့ ငါ့အိမ်ထောင်ဖက်ကြားမှာ ၆ခုရှိတယ်။
-# DROP: The second occurance of pronoun We was dropped in the translation.
+အေး ရှိတယ် အိမ်ထောင်ဖက်နဲ့ ငါနဲ့ကြားမှာ ၆ခုရှိတယ်။
+# အေး ရှိတယ် အိမ်ထောင်ဖက်နဲ့ ငါနဲ့ကြားမှာ ငါတို့မှာ ၆ခုရှိတယ်။
+# DROP: The second occurance of pronoun We was dropped in the translation. Drop is required for proper Burmese translation.
 
 471
 well i don't have kids so it's kind of hard to say
@@ -311,6 +313,8 @@ oh and then if you try to get it outside of your uh corporation you're gonna pay
 478
 i'm looking forward to it
 ငါမျှော်နေမယ်နော်။
+# ငါ ဒါကို မျှော်နေမယ်နော်။
+# DROP: The pronoun it was dropped in the translation. Drop is required for proper Burmese translation.
 
 479
 um well i sort of own a computer we have two PCs at home but neither one do we really own um both are no both of them are sort of work related and
