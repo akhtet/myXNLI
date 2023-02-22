@@ -33,7 +33,7 @@ def postprocess_line(line):
 
     for col in line.split('\t'):
         if col.lower() == 'n/a': 
-            col = 'NA'
+            col = 'not applicable'
         else:
             col = col.replace('&#39;', "'")
             col = col.replace('&quot;', "'")
