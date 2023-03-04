@@ -7,7 +7,7 @@ import sys
 test_sets = {
     'my': {
         'input': 'output/myxnli.test.tsv',
-        'output': 'output/myxnli.trans.test.raw.tsv',
+        'output': 'output/raw.myxnli.trans.test.tsv',
         'lang_index': -1,
         'label_index': 0,
         'sentence1_index': 3,
@@ -15,7 +15,7 @@ test_sets = {
     },
     'sw': {
         'input': 'xnli-original/xnli.test.tsv',
-        'output': 'output/swxnli.trans.test.raw.tsv',
+        'output': 'output/raw.swxnli.trans.test.tsv',
         'lang_index': 0,
         'label_index': 1,
         'sentence1_index': 6,
@@ -23,7 +23,7 @@ test_sets = {
     },
     'ur': {
         'input': 'xnli-original/xnli.test.tsv',
-        'output': 'output/urxnli.trans.test.raw.tsv',
+        'output': 'output/raw.urxnli.trans.test.tsv',
         'lang_index': 0,
         'label_index': 1,
         'sentence1_index': 6,
@@ -106,7 +106,7 @@ if __name__ == '__main__':
         
             for line in infile.readlines():
 
-                cols = line.split('\t')
+                cols = line.strip().split('\t')
 
                 if lang_index >= 0 and cols[lang_index] != lang:
                     continue
@@ -141,6 +141,6 @@ if __name__ == '__main__':
                 outfile.write('\t'.join(out_cols_clean) + '\n')
 
                 counter += 1           
-                if counter % 1000 == 0:
+                if counter % 500 == 0:
                     print ('Line %d, Translations: %d' % (counter, len(translation_mem)))
             outfile.close()
