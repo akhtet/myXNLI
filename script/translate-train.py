@@ -1,4 +1,3 @@
-import six
 from google.cloud import translate_v2 as translate
 
 import sys
@@ -7,26 +6,7 @@ import sys
 
 input_train_file = 'xnli-original/multinli_1.0_train.txt'
 output_train_file = 'output/myxnli.train.tsv'
-
-translation_mem = {}
-translate_client = translate.Client()
-
-
-def translate_to_my(text):
-    """Translates text into the target language.
-    Keeps a memory of previous sentences translated.
-    """
-    global translation_mem
-
-    if text not in translation_mem:
-
-        if isinstance(text, six.binary_type):
-            text = text.decode("utf-8")
-
-        result = translate_client.translate(text, target_language='my')
-        translation_mem[text] = result['translatedText']
-
-    return translation_mem[text]
+post_output_file = 'output/myxnli.train.post.tsv'
 
 
 def translate_all_to_my(sentences):
@@ -45,58 +25,89 @@ def translate_all_to_my(sentences):
     return [translation_mem[source] for source in sentences]
 
 
+def postprocess_line(line):
+    """
+    Cleans certain tokens in the output file that creates parsing issues
+    """
+    out_cols_clean = []
+
+    for col in line.split('\t'):
+        if col.lower() == 'n/a': 
+            col = 'not applicable'
+        else:
+            col = col.replace('&#39;', "'")
+            col = col.replace('&quot;', "'")
+        out_cols_clean.append(col)
+   
+    return '\t'.join(out_cols_clean)
+
+
 if __name__ == '__main__':
    
-    skip = 0
-    counter = 0
 
-    with open(input_train_file, encoding='utf-8') as infile:
-        
-        if sys.argv[1] == 'resume':
-            outfile = open(output_train_file, 'rt', encoding='utf-8')
-            skip = len(outfile.readlines()) - 1
-            outfile.close()
-            outfile = open(output_train_file, 'at', encoding='utf-8')
-        else:
-            outfile = open(output_train_file, 'wt', encoding='utf-8')
-            outfile.write('\t'.join(['label', 'sentence1_en', 'sentence2_en', 'sentence1_my', 'sentence2_my']) + '\n')
-        
-        infile.readline()  # Skip header
-       
-        for line in infile.readlines():
-            if skip > 0:
-                skip -= 1
-                counter += 1
-                if counter % 1000 == 0 or skip == 0:
-                    print ('Skipped: %d, Remaining: %d ' % (counter, skip))
-                continue
+    if sys.argv[1] == 'post':
+         
+         with open(output_train_file, encoding='utf-8') as infile:
+            with open(post_output_file, 'wt', encoding='utf-8') as outfile:
+                for line in infile.readlines():
+                    outfile.write(postprocess_line(line.strip()) + '\n')
+                outfile.close()
 
-            cols = line.split('\t')
+    else:
+
+        translation_mem = {}
+        translate_client = translate.Client()
+
+        skip = 0
+        counter = 0
+
+        with open(input_train_file, encoding='utf-8') as infile:
             
-            # in MultiNLI source file, column 6 and 7 are the unparsed English sentences
-            gold_label = cols[0]
-            sentence1_en = cols[5]
-            sentence2_en = cols[6]
-            sentence1_my, sentence2_my = translate_all_to_my([sentence1_en, sentence2_en])
+            if sys.argv[1] == 'resume':
+                outfile = open(output_train_file, 'rt', encoding='utf-8')
+                skip = len(outfile.readlines()) - 1
+                outfile.close()
+                outfile = open(output_train_file, 'at', encoding='utf-8')
+            else:
+                outfile = open(output_train_file, 'wt', encoding='utf-8')
+                outfile.write('\t'.join(['label', 'sentence1_en', 'sentence2_en', 'sentence1_my', 'sentence2_my']) + '\n')
+            
+            infile.readline()  # Skip header
+        
+            for line in infile.readlines():
+                if skip > 0:
+                    skip -= 1
+                    counter += 1
+                    if counter % 1000 == 0 or skip == 0:
+                        print ('Skipped: %d, Remaining: %d ' % (counter, skip))
+                    continue
 
-            out_cols = [
-                gold_label,
-                sentence1_en,
-                sentence2_en,
-                sentence1_my,
-                sentence2_my
-            ]
+                cols = line.split('\t')
+                
+                # in MultiNLI source file, column 6 and 7 are the unparsed English sentences
+                gold_label = cols[0]
+                sentence1_en = cols[5]
+                sentence2_en = cols[6]
+                sentence1_my, sentence2_my = translate_all_to_my([sentence1_en, sentence2_en])
 
-            # Clean characters that will corrput the TSV format
-            out_cols_clean = []
-            for col in out_cols:
-                col = col.replace('\t', '')
-                col = col.replace('"', '')
-                out_cols_clean.append(col)
+                out_cols = [
+                    gold_label,
+                    sentence1_en,
+                    sentence2_en,
+                    sentence1_my,
+                    sentence2_my
+                ]
 
-            outfile.write('\t'.join(out_cols_clean) + '\n')
+                # Clean characters that will corrput the TSV format
+                out_cols_clean = []
+                for col in out_cols:
+                    col = col.replace('\t', '')
+                    col = col.replace('"', '')
+                    out_cols_clean.append(col)
 
-            counter += 1           
-            if counter % 1000 == 0:
-                print ('Line %d, Translations: %d' % (counter, len(translation_mem)))
-        outfile.close()
+                outfile.write('\t'.join(out_cols_clean) + '\n')
+
+                counter += 1           
+                if counter % 1000 == 0:
+                    print ('Line %d, Translations: %d' % (counter, len(translation_mem)))
+            outfile.close()
