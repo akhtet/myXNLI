@@ -1,22 +1,27 @@
 9801
 That person is being discharged honorably.
 အဆိုပါ ပုဂ္ဂိုလ်အား သိက္ခာရှိရှိ ထွက်ခွာခွင့်ပြုလိုက်သည်။
+# 4/5
 
 9802
 That person is being discharged.
 အဆိုပါ ပုဂ္ဂိုလ်အား ထုတ်ပယ်လိုက်သည်။
+# 4/5
 
 9803
 Al of the words are easy to understand.
-အေအိုင်စကားလုံးများသည် နားလည်ရလွယ်ကူသည်။
+စကားလုံးများသည် နားလည်ရလွယ်ကူသည်။
+# 4/5
 
 9804
 There are lots of silly words that decribe the government.
-အစိုးရကို ရည်ညွှန်းဖော်ပြထားသည့် မသင့်လျော်သော စကားလုံးများစွာပါရှိသည်။
+အစိုးရကို ရည်ညွှန်းဖော်ပြရန် မကောင်းသော စကားလုံးများစွာ ရှိသည်။
+# 5/5
 
 9805
 We were handed a long list of strange terms.
-ထူးဆန်းသော အသုံးအနှုန်းဝေါဟာရများ စာရင်းရှည်ကြီး တစ်ခုကို ကျွန်တော်တို့ကို ပေးခဲ့ကြတယ်။
+ထူးဆန်းသော အသုံးအနှုန်းများပါသော စာရင်းရှည်ကြီး တစ်ခုကို ကျွန်တော်တို့လက်ခံရခဲ့သည်။
+# 4/5
 
 9806
 Cross-talk changes depending on the audience.
@@ -28,15 +33,18 @@ Cross-talk isn't acceptable for some audiences.
 
 9808
 Cross-talk never occurs.
-ပေါ့ပေါ့ပါးပါးအပြန်အလှန်ကျပန်းစကားပြောဆိုမှုသည် တစ်ခါမှ မဖြစ်မြောက်ခဲ့ပါ။
+ပေါ့ပေါ့ပါးပါးအပြန်အလှန်ကျပန်းစကားပြောဆိုမှုသည် တစ်ခါမှ မဖြစ်ခဲ့ပါ။
+# 4/5
 
 9809
 The meaning could not be understood by any of us.
-ဆိုလိုရင်းအဓိပ္ပာယ်ကို ကျွန်တော်တို့တစ်ယောက်မှ နားမလည်နိုင်ပါဘူး။
+ဆိုလိုရင်းအဓိပ္ပာယ်ကို ကျွန်တော် တို့တစ်ယောက်မှ နားမလည်နိုင်ပါဘူး။
+# 5/5
 
 9810
 The meaning was perfectly clear to us.
 ဆိုလိုရင်းအဓိပ္ပာယ်က ကျွန်တော်တို့အတွက် လုံးဝရှင်းလင်းပါတယ်။
+# 5/5
 
 9811
 We had no further questions about it.
@@ -72,23 +80,28 @@ The Greek word for competition has come to mean pain in English because of the a
 
 9819
 The word agon originally meant competition in Greek.
-အေဂွန် ဟူသော စကားလုံးသည် ဂရိလို ပြိုင်ဆိုင်ခြင်းဟု မူရင်းအဓိပ္ပယ်ရသသည်။
+အေဂွန် ဟူသော စကားလုံးသည် ဂရိလို ပြိုင်ဆိုင်ခြင်းဟု မူရင်းအဓိပ္ပါယ်ရသည်။
+# 5/5
 
 9820
 The word agon originally meant pain and suffering in Greek
-အေဂွန် ဟူသော စကားလုံးသည် ဂရိလို နာကျင်မှုနှင့် ဒုက္ခဟု မူရင်းအဓိပ္ပယ်ရသသည်။
+အေဂွန် ဟူသော စကားလုံးသည် ဂရိလို နာကျင်မှုနှင့် ဒုက္ခဟု မူရင်းအဓိပ္ပါယ်ရသည်။
+# 5/5
 
 9821
 The flashes of wisdom are of  no importance.
 အသိဉာဏ်ပညာအလင်းသည် အရေးမကြီးပါ။
+# 3/5
 
 9822
 The flashes of wisdom are of great significance.
 အသိဉာဏ်ပညာအလင်းသည် ကြီးကျယ်သောအရေးပါမှု ဖြစ်သည်။
+# 3/5
 
 9823
 The flashes of wisdom should always be considered.
 အသိဉာဏ်ပညာအလင်းကို အမြဲဆင်ခြင်သင့်သည်။
+# 3/5
 
 9824
 A reporter for The Economist was in Tokyo and noticed a particular T-shirt.
@@ -373,28 +386,34 @@ A king that sets up an order of succession is always accused of showing signs of
 9894
 A president has a vice-president, but a king does not have a vice-king.
 သမ္မတတစ်ဦးတွင် ဒုသမ္မတတစ်ဦးရှိသော်လည်း၊ ဘုရင်တစ်ပါးမှာ ဒုတိယဘုရင်တစ်ပါးမရှိပါ။
+# 5/5
 
 9895
 It is never obvious who will take over for a king in the event of his death, but it is obvious for a president.
-ဘုရင်တစ်ပါးနတ်ရွာစံသွားလျှင် မည်သူ ထီးနန်းဆက်ခံမည်ကို မည်သည့်အခါမျှ သိသာထင်ရှားမှုမရှိပါ၊ သို့သော်လည်း သမ္မတတစ်ဦး အဖြစ်အတွက် သိသာထင်ရှားပါသည်။
+ဘုရင်တစ်ပါးနတ်ရွာစံသွားလျှင် မည်သူ ထီးနန်းဆက်ခံမည်ကို မည်သည့်အခါမျှ သိသာထင်ရှားမှုမရှိပါ၊ သို့သော်လည်း သမ္မတတစ်ဦး အတွက်တော့ သိသာထင်ရှားပါသည်။
+# 4/5
 
 9896
 I was born in Iceland and grew up there, where there are no trains.
-ကျွန်တော်က ရထားတွေမရှိတဲ့၊ ရေခဲပြင်ဒေသမှာမွေးပြီး အဲဒီဒေသမှာပဲ ကြီးပြင်းခဲ့တာပါ။
+ကျွန်တော်က အိုင်စ်လန်းမှာမွေးပြီး ကြီးပြင်းခဲ့တာပါ၊ အဲဒီဒေသမှာ ရထားတွေမရှိဘူး.
+# 5/5
 
 9897
 In the South, train stations are referred to as the depot, and pronounced DEE-po.
-တောင်ပိုင်းမှာ၊ ရထားဘူတာရုံတွေဆိုတာ ယာဉ်ရပ်နားစခန်းလို့ခေါ်တာ၊ ပြီးတော့ ဒီးပိုလို့ အသံထွက်တယ်။
+တောင်ပိုင်းမှာ၊ ရထားဘူတာရုံတွေကို ယာဉ်ရပ်နားစခန်းလို့ခေါ်တာ၊ ပြီးတော့ ဒီးပိုလို့ အသံထွက်တယ်။
+# 5/5
 
 9898
 There were miles of train tracks near my parent's home in the South.
-တောင်ပိုင်းက ကျွန်တော်မိဘအိမ်နားမှာ မီးရထားသံလမ်းရှည်ကြီးတွေရှိတယ်။
+တောင်ပိုင်းက ကျွန်တော်မိဘအိမ်နားမှာ မီးရထားသံလမ်းရှည်ကြီးတွေ ရှိခဲ့တယ်။
+# 5/5
 
 9899
 All words fit.
-စကားလုံးအားလုံးအံဝင်ခွင်ကျအဆင်ပြေပါတယ်။
+စကားလုံးအားလုံး အံဝင်ခွင်ကျ အဆင်ပြေပါတယ်။
+# 5/5
 
 9900
 Some words do not fit in the puzzle.
-အချို့စကားလုံးများသည် ပဟေဠိတွင် မကိုက်ညီပါ။
-
+အချို့စကားလုံးများသည် ဤပဟေဠိနှင့် မသင့်တော်ပါ။
+# 5/5
