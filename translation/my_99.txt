@@ -25,58 +25,68 @@ We were handed a long list of strange terms.
 
 9806
 Cross-talk changes depending on the audience.
-ပရိတ်သတ်အခြေအနေကြည့်ပြီး ပေါ့ပေါ့ပါးပါးအပြန်အလှန်ကျပန်းစကားပြောဆိုမှုသည် ပြောင်းလဲသည်။
+စကားစမည်ပြောဆိုမှုသည် ပရိတ်သတ်ပေါ် မူတည်ပြီး ပြောင်းလဲသည်။
+# 5/5
 
 9807
 Cross-talk isn't acceptable for some audiences.
-ပေါ့ပေါ့ပါးပါးအပြန်အလှန်ကျပန်းစကားပြောဆိုမှုသည် အချို့သော ပရိသတ်များအတွက် လက်မခံနိုင်စရာဖြစ်သည်။
+စကားစမည်ပြောဆိုမှုသည် အချို့သော ပရိသတ်များအတွက် လက်မခံနိုင်စရာဖြစ်သည်။
+# 5/5
 
 9808
 Cross-talk never occurs.
-ပေါ့ပေါ့ပါးပါးအပြန်အလှန်ကျပန်းစကားပြောဆိုမှုသည် တစ်ခါမှ မဖြစ်ခဲ့ပါ။
-# 4/5
+စကားစမည်ပြောဆိုမှု တစ်ခါမှ မဖြစ်ခဲ့ပါ။
+# 5/5
 
 9809
 The meaning could not be understood by any of us.
-ဆိုလိုရင်းအဓိပ္ပာယ်ကို ကျွန်တော် တို့တစ်ယောက်မှ နားမလည်နိုင်ပါဘူး။
+ဆိုလိုရင်းအဓိပ္ပာယ်ကို ကျွန်ုပ်တို့တစ်ယောက်မှ နားမလည်နိုင်ပါဘူး။
 # 5/5
 
 9810
 The meaning was perfectly clear to us.
-ဆိုလိုရင်းအဓိပ္ပာယ်က ကျွန်တော်တို့အတွက် လုံးဝရှင်းလင်းပါတယ်။
+ဆိုလိုရင်းအဓိပ္ပာယ်က ကျွန်ုပ်တို့အတွက် လုံးဝရှင်းလင်းပါတယ်။
 # 5/5
 
 9811
 We had no further questions about it.
-ဒါနဲ့ပတ်သက်ပြီး ကျွန်တော်တို့မှာ နောက်ထပ် မေးခွန်းတွေ မရှိတော့ပါဘူး။
+ဒါနဲ့ပတ်သက်ပြီး ကျွန်ုပ်တို့မှာ နောက်ထပ်မေးခွန်းတွေ မရှိတော့ပါဘူး။
+# 5/5
 
 9812
 She explained the theory of evolution to her audience.
 သူမသည် သူမ၏ ပရိတ်သတ်အား ဆင့်ကဲဖြစ်စဉ်သဘောတရားသီအိုရီကို ရှင်းပြခဲ့သည်။
+# 5/5
 
 9813
 The teacher deliberately tried to give her lecture using obscure words.
-နားလည်ရခက်တဲ့စကားလုံးတွေကို သုံးပြီး ဆရာမက သူမရဲ့ ပို့ချချက်ကို ပို့ချဖို့ ဂရုတစိုက်နဲ့ ကြိုးပမ်းခဲ့တယ်။
+ဆရာမက သူမရဲ့ ပို့ချချက်မှာ နားလည်ရခက်တဲ့စကားလုံးတွေကို တမင်သုံးခဲ့သည်။
+# 5/5
 
 9814
 The teacher tried to explain in audience-appropriate terms.
 ဆရာက ပရိတ်သတ်တွေနဲ့ သင့်တော်ပြီးလိုက်လျော်ညီထွေဖြစ်တဲ့ စကားလုံးဝေါဟာရတွေနဲ့ ရှင်းပြဖို့ ကြိုးစားတယ်။
+# 5/5
 
 9815
 Mr Levitt was childless.
 မစ္စတာ လတ်ဗစ်တ် မှာ ကလေးမရှိဘူး။
+# 5/5
 
 9816
 Mr. Levitt had a daughter.
 မစ္စတာ လတ်ဗစ်တ် မှာ သမီးတစ်ယောက်ရှိတယ်။
+# 5/5
 
 9817
 Mr. Levitt's daughter was 17.
 မစ္စတာ လတ်ဗစ်တ် ရဲ့ သမီး က ၁၇ နှစ် ရှိပြီ။
+# 5/5
 
 9818
 The Greek word for competition has come to mean pain in English because of the agony that took place during the competitions.
-ပြိုင်ဆိုင်မှုများအတွင်း ဖြစ်ပေါ်သောနာကျင်မှုဝေဒနာများကို အကြောင်းပြု၍ ပြိုင်ဆိုင်ခြင်းဟူသော ဂရိစကားလုံးသည် အင်္ဂလိပ်လို နာကျင်ခြင်းဟု အဓိပ္ပာယ်ရလာသည်။
+ပြိုင်ဆိုင်ခြင်းဟူသော ဂရိစကားလုံးသည် အင်္ဂလိပ်လို နာကျင်ခြင်းဟု အဓိပ္ပာယ်ရလာခြင်းမှာ ပြိုင်ပွဲများအတွင်း ဖြစ်ပေါ်သောနာကျင်မှုဝေဒနာများ ကြောင့်ဖြစ်သည်။ 
+# 5/5
 
 9819
 The word agon originally meant competition in Greek.
@@ -90,7 +100,7 @@ The word agon originally meant pain and suffering in Greek
 
 9821
 The flashes of wisdom are of  no importance.
-အသိဉာဏ်ပညာအလင်းသည် အရေးမကြီးပါ။
+အသိဉာဏ်ပညာအလင်းသည် လုံးဝအရေးမကြီးပါ။
 # 3/5
 
 9822
@@ -106,74 +116,92 @@ The flashes of wisdom should always be considered.
 9824
 A reporter for The Economist was in Tokyo and noticed a particular T-shirt.
 သည်အီကိုနိုးမစ် မှ သတင်းထောက်တစ်ယောက်သည် တိုကျိုတွင်ရှိနေပြီး ထူးထူးခြားခြားတီရှပ်တထည်ကို သတိပြုမိခဲ့သည်။
+# 4/5
 
 9825
 The T-shirt that said  O D on Bourgeoisie Milk Boy Milk seemed out of place and confusing in Tokyo.
 OD on Bourgeoisie Milk Boy Milk ဟုဖော်ပြထားသော တီရှပ်အင်္ကျီသည် တိုကျိုတွင် နေရာလွဲနေပြီး ဘာကိုဆိုလိုချင်မှန်းမသိ ဖြစ်နေပုံရသည်။
+# 4/5
 
 9826
 The correspondent for The Economist in Tokyo couldn't read the T-shirt he saw.
 တိုကျိုရှိ သည်အီကိုနိုးမစ်မှ သတင်းထောက်သည် သူမြင်သည့် တီရှပ်မှစာကို မဖတ်တက်ပါ။
+# 4/5
 
 9827
 The subjective satisfactory is a person.
 ပုဂ္ဂလ စိတ်ကျေနပ်ဖွယ်ရာသည် လူသားတစ်ယောက်ဖြစ်သည်။
+# 4/5
 
 9828
 The subjective satisfactory is not trouble.
 ပုဂ္ဂလ စိတ်ကျေနပ်မှုသည် ဒုက္ခမဟုတ်ပါ။
+# 4/5
 
 9829
 The subjective satisfactory is trouble.
 ပုဂ္ဂလ စိတ်ကျေနပ်မှုသည် ဒုက္ခဖြစ်သည်။
+# 4/5
 
 9830
 Esperanto is a real language that already has all of the weaknesses of other languages.
-အက်စ်ပရန်တိုဟာ အခြားဘာသာစကားတွေရဲ့ အားနည်းချက်တွေအားလုံးရှိနေတဲ့ တကယ့်ဘာသာစကားတစ်ခုပဲ။
+အက်စ်ပရန်တိုဟာ အခြားဘာသာစကားတွေရဲ့ အားနည်းချက်တွေအားလုံးရှိနေတဲ့ ဘာသာစကားအစစ်တစ်ခုဖြစ်သည်။
+# 4/5
 
 9831
 Esperanto is spoken by less than one percent of the world's population.
-အက်စ်ပရန်တိုဘာသာစကားကို ကမ္ဘာ့လူဦးရေရဲ့ တစ်ရာခိုင်နှုန်းအောက်ဟာ ပြောဆိုကြတယ်။
+အက်စ်ပရန်တိုဘာသာစကားကို ကမ္ဘာ့လူဦးရေရဲ့ တစ်ရာခိုင်နှုန်းအောက်က ပြောဆိုကြသည်။
+# 4/5
 
 9832
 Polysemy is one problem that natural languages have.
 ဆိုလိုရင်းများစွာအဓိပ္ပာယ်ရခြင်းသည် ဘာသာစကားများတွင်ရှိသော ပြဿနာတစ်ရပ်ဖြစ်သည်။
+# 5/5
 
 9833
 Honey can speak several accents.
 ဟန်နီက လေယူလေသိမ်း အမျိုးမျိုးနဲ့ ပြောတတ်တယ်။
+# 5/5
 
 9834
 Honey's treatment needs an explanation.
 ဟန်နီ၏ ကုသမှုသည် ရှင်းလင်းချက်တစ်ခု လိုအပ်သည်။
+# 4/5
 
 9835
 Honey's treatment needs no explanation.
 ဟန်နီ၏ ကုသမှုသည် ရှင်းလင်းချက်မလိုအပ်ပါ။
+# 4/5
 
 9836
 Jack Brooks is a plumber.
 ဂျက်ဘရွတ်ခ်စ်သည် ရေပိုက်ပြင်သမားတစ်ယောက်ဖြစ်သည်။
+# 5/5
 
 9837
 Jack Brooks is a politician from Nebraska.
 ဂျက်ဘရွတ်ခ်စ်သည် နယ့်ဘရာ့စကာမှ နိုင်ငံရေးသမားတစ်ဦးဖြစ်သည်။
+# 5/5
 
 9838
 Jack Brooks is a politician.
 ဂျက်ဘရွတ်ခ်စ်သည် နိုင်ငံရေးသမားတစ်ဦးဖြစ်သည်။
+# 5/5
 
 9839
 Peter C. Newman and Pierre Berton are popular writers of Canadian history.
 ပီတာစီနယူးမန် နှင့် ပိဖ်ရာဘာတွန်တို့သည် ကနေဒါသမိုင်းတွင် ထင်ရှားသောနာမည်ကြီးစာရေးဆရာများဖြစ်ကြသည်။
+# 5/5
 
 9840
 There have been exactly two books written on the history of Canada's North, and these were by popular writers Newman and Berton.
 ကနေဒါမြောက်ပိုင်းသမိုင်းကြောင်း ရေးသားထားတဲ့ စာအုပ်နှစ်အုပ်တိတိရှိတယ်၊ နာမည်ကြီးစာရေးဆရာတွေ နယူးမန်နဲ့ ဘာတွန်တို့ ရေးထားတာလေ။
+# 5/5
 
 9841
 Though they wrote many popular modern songs, Peter C. Newman and Pierre Berton never wrote books about history.
 နာမည်ကြီးထင်ရှားသော ခေတ်ပေါ်မော်ဒန်သီချင်းများစွာ ရေးသားခဲ့ကြသော်လည်း၊ ပီတာ စီ. နယူးမန်နှင့် ပိဖ်ရာ ဘာတွန် တို့သည် သမိုင်းနှင့်ပတ်သက်သည့် စာအုပ်များကို တခါမျှ မရေးခဲ့ကြပါ။
+# 5/5
 
 9842
 Hogwash is defined as that which is nonsensical and worthless.
