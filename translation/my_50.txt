@@ -16,7 +16,7 @@ I accept it willingly.
 
 4905
 I am not willing to accept it, but I could be convinced.
-ငါ ဒါကို လက်ခံ ရန် ဆန္ဒ မရှိ ပေမယ့် ၊ ငါ ယုံကြည် နိုင်ပါတယ်။
+ငါ ဒါကို လက်ခံ ရန် ဆန္ဒ မရှိ ပေမယ့် ၊ ငါ့ကိုယုံကြည်အောင်လုပ် နိုင်ပါတယ်။
 
 4906
 I don't accept it willingly.
@@ -25,6 +25,7 @@ I don't accept it willingly.
 4907
 After a pause he said a murderer, I.
 ခေတ္တနားပြီးနောက် သူက လူသတ်သမား တစ်ယောက် ၊ ငါ ဆိုတာပြောခဲ့တယ်။
+# 4/5
 
 4908
 He hadn't murdered anyone.
@@ -33,18 +34,19 @@ He hadn't murdered anyone.
 4909
 Immediately he said, A murderer, I.
 ချက်ချင်းပင် လူသတ်သမား တစ်ယောက် ၊ ငါ လို့ သူက ပြောခဲ့တယ်။
+#4/5
 
 4910
 I have been following him closely for a year without him knowing.
-ငါ သူ့ကို မသိပဲနဲ့ တစ်နှစ်ကြာတောင် ရင်းရင်းနီးနီး သူ့နောက်ကို လိုက်နေခဲ့တယ်။
+ငါ သူ့ကို သူမသိပဲတစ်နှစ်ကြာတောင် နီးနီးကပ်ကပ် သူ့နောက်ကို လိုက်နေခဲ့တယ်။
 
 4911
 I have only been following him for close to a week.
-ငါ ရင်းနှီးဖို့ အတွက် သူ့နောက် လိုက်နေတာ တစ်ပတ် သာလျှင် ရှိသေးတယ်။
+ငါ  သူ့နောက် လိုက်နေတာ တစ်ပတ်နီးပါး သာလျှင် ရှိသေးတယ်။
 
 4912
 Over the course of the past year I have been stalking him.
-ပြီးခဲ့သော တစ်နှစ်တာကာလ အတွင်း ငါ သူ့ကို လိုက်ရှာနေခဲ့တယ်။
+ပြီးခဲ့သော တစ်နှစ်တာကာလ အတွင်း ငါ သူ့ကိုနောက်‌‌‌ယောင်ခံလိုက်နေခဲ့တယ်။
 
 4913
 Miss Bishop walked through a group of men.
