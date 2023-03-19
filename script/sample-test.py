@@ -15,6 +15,7 @@ test_sets = {
 }
 
 if __name__ == '__main__':
+
     USAGE = """
     python script/sample-test.py sample_size
     """
