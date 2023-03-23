@@ -1,98 +1,124 @@
 5001
 There are plenty of alternatives to solve this problem other than to hand over the girl as a hostage.
 မိန်းကလေးကို ဓားစာခံ တစ်ယောက် အဖြစ် လွှဲပြောင်းပေးခြင်းမှလွဲ၍ ဤ ပြဿနာကို ဖြေရှင်းရန် အခြားနည်းလမ်း များစွာ ရှိပါသည်။
+#5/5
 
 5002
 To surrender the hostage would mean certain death for her.
-အညံ့ခံရန် ဓားစာခံသည် သူမအတွက် သေဆုံးခြင်း လို့ လုံးဝ အဓိပ္ပာယ်ရသည်။
+ဓားစာခံကိုအညံ့ခံခြင်းသည် သူမအတွက် သေဆုံးခြင်း လို့ လုံးဝ အဓိပ္ပာယ်ရသည်။
 
 5003
 Everything is included in the bargain.
 လျှော့ဈေးမှာ အားလုံး ပါဝင်တယ်။
+#/5/5
 
 5004
 That is not in the bargain because it wouldn't be fair.
 ဒါက လျှော့ဈေးမှာ မပါဘူး ဘာကြောင့်လည်းဆို ဒါက မမျှတလို့။
+#5/5
 
 5005
 That isn't included in the agreement.
 အဆိုပါ သဘောတူညီချက်ထဲမှာ ဒါ မပါဝင်ဘူး။
+#5/5
 
 5006
 Calverly responded in a way that made him seem like he was on-the-fence about something.
-သူက တစ်စုံတစ်ခု နဲ့ပတ်သက်ပြီး သူ့ကို ဆုံးဖြတ်ချက်မချနိုင် ဖြစ်ခဲ့ပုံပေါ်စေသည့် နည်းလမ်း တစ်ခုကို ကယ်လ်ဗာလေ က တုံ့ပြန်ခဲ့တယ်။
+သူက တစ်စုံတစ်ခု နဲ့ပတ်သက်ပြီး ဇဝေဇဝါဖြစ်နေသည့်ပုံဖြင့် ကယ်လ်ဗာလေ က တုံ့ပြန်ခဲ့တယ်။ 
+
+
 
 5007
 Calverly was only indecisive in his answer because he did not know all of the facts.
-ကယ်လ်ဗာလေသည် သူက အချက်အလက်များ အားလုံးကို မသိခဲ့ သောကြောင့် သူ၏ အဖြေတွင် ပြတ်သားနေခဲ့သည်။
+ကယ်လ်ဗာလေသည် သူက အချက်အလက်များ အားလုံးကို မသိခဲ့ သောကြောင့် သူ၏ အဖြေတွင် မပြတ်သားပဲဖြစ်နေခဲ့သည်။
 
 5008
 Cleverly spoke with clear decisiveness, knowing that he has with certainty.
 ကယ်လ်ဗာလေက သူ့မှာ အသေအချာ ရှိတယ် ဆိုတာကို သိရှိခြင်းအားဖြင့် ၊ ရှင်းလင်းသော ဆုံးဖြတ်ချက်ခိုင်မာပြတ်သားမှု နှင့်အတူ ပြောဆိုခဲ့သည်။
+#4/5
 
 5009
 He has his own officers.
 သူ့မှာ သူ၏ ကိုယ်ပိုင် အရာရှိတွေ ရှိတယ်။
+#5/5
 
 5010
 He is alone and has no officers.
 သူက တစ်ယောက်တည်း ဖြစ် ပြီး အရာရှိတွေ မရှိဘူး။
+5/5
 
 5011
 His officers respect him.
 သူ့ အရာရှိတွေက သူ့ကို လေးစားတယ်။
+#5/5
+
 
 5012
 She did not want him to help her, though was grateful anyway.
-သူ့မကို ကူညီရန် သူ့ကို သူမက ဆန္ဒမရှိခဲ့ သော်လည်း ၊ ဘာပဲဖြစ်ဖြစ် ကျေးဇူးတင်ခဲ့တယ်။
-
+သူ့မကို သူကကူညီပေးရန်  သူမက ဆန္ဒမရှိခဲ့ သော်လည်း ၊ ဘာပဲဖြစ်ဖြစ် ကျေးဇူးတင်ခဲ့တယ်။
+ 
 5013
 She had told him that resolve was what it took to keep her away from peril.
 ဒီ ဆုံးဖြတ်ချက်သည် အန္တရာယ်မှ သူမကို ကင်းဝေးစေရန် လုပ်ဆောင်ခဲ့တာဟု သူမ က သူ့ကို ပြောခဲ့တယ်။
+#4/5
 
 5014
 The resolve did not protect her at all from any dangers.
 အဆိုပါ ဆုံးဖြတ်ချက်သည် သူမအား ဘေးအန္တရာယ်တွေဆီမှ လုံးဝ ကာကွယ်မပေးနိုင်ခဲ့ဘူး။
+#5/5
 
 5015
 It is a distinguished and eminent service.
 ဒါက သိသာ ပြီး ထင်ရှားကျော်ကြားသော ဝန်ဆောင်မှု တစ်ခု ဖြစ်သည်။
+#5/5
 
 5016
 It is an honorable service because it's about saving lives.
 ဒါဟာ လူ့အသက်များကို ကယ်တင်ခြင်း ဖြစ်တဲ့ အတွက်ကြောင့် ဂုဏ်ယူဖွယ် ဝန်ဆောင်မှု တစ်ခု ဖြစ်သည်။
+#5/5
 
 5017
 It isn't an honorable service at all, it's very embarrassing!
 ဒါဟာ ဂုဏ်ယူစရာကောင်းတဲ့ ဝန်ဆောင်မှု တစ်ခု လုံးဝ မဟုတ်ပါ ၊ ဒါဟာ အလွန် ရှက်စရာကောင်းပါတယ်!
+#5/5
 
 5018
 She refused to even look at him.
 သူ့ကို ကြည့်ဖို့တောင် သူမက ငြင်းဆန်ခဲ့သည်။
+#5/5
+
 
 5019
 She was afraid he would kill her.
 သူက သူမကို သတ်လိုက်မှာ သူမ က ကြောက်ခဲ့သည်။
+#5/5
 
 5020
 She was looking at him.
 သူမက သူ့ကို ကြည့်ခဲ့တယ်။
+#5/5
 
 5021
 She exclaimed with delight at just the thought of it!
 သူမ ထိုအရာကို တွေးရင်းနဲ့ ဝမ်းသာအားရ နဲ့ အံ့အားသင့်ခဲ့တယ်!
+#2/5
+ထိုအရာကို တွေးကြည့်ရုံနဲ့ပင်သူမက ဝမ်းသာအားရ နဲ့ အံ့အားသင့်ခဲ့တယ်!
+
 
 5022
 She was trying not to think of the event that took place.
 ဖြစ်ပျက်ခဲ့တဲ့ အဖြစ်အပျက်ကို မတွေးဖို့ သူမ ကြိုးစားနေတယ်။
+#5/5
 
 5023
 Thinking about the event made her shudder.
 အဖြစ်အပျက် အကြောင်း တွေးတောခြင်းက သူ့မကို တုန်လှုပ်စေတယ်။
+#5/5
 
 5024
 All Buccaneers in most ships are loud when yelling in unison.
 သင်္ဘောအများစုတွင် ပင်လယ်ဓါးပြများ အားလုံးက တစ်ညီတစ်ညွတ်တည်း အော်ဟစ်နေချိန်တွင် ကျယ်လောင်တယ်။
+
 
 5025
 The Buccaneers were loud when giving a yes.
@@ -101,98 +127,124 @@ The Buccaneers were loud when giving a yes.
 5026
 There was no sign of the buccaneers below as they were presumed silent.
 သူတို့ တိတ်ဆိတ်နေသည်ဟု ယူဆခဲ့ သလို အောက်တွင် ပင်လယ်ဓါးပြ များ၏ အရိပ်အယောင် မရှိခဲ့ဘူး။
+#3/5
 
 5027
 The man is acting uncivilized.
 အဆိုပါ အမျိုးသားက မယဉ်မကျေး ပြုမူတယ်။
+#4/5
 
 5028
 The man is calm and reasonable.
 အဆိုပါ အမျိုးသားသည် တည်ငြိမ် ပြီး ကျိုးကြောင်းဆီလျော်တယ်။
+#/5/5
 
 5029
 They are having a conversation.
 သူတို့မှာ စကားဝိုင်း တစ်ခု ရှိနေခြင်း ဖြစ်တယ်။
+#4/5
+
 
 5030
 He had heard some exciting news.
 သူ က စိတ်လှုပ်ရှားစရာကောင်းတဲ့ သတင်း အချို့ကို ကြားခဲ့တယ်။
+#5/5
 
 5031
 He was looking away from the Captain and then turned around to see him.
 သူသည် ကပ္ပတိန် ဆီမှ ဝေးရာသို့ ကြည့်နေခဲ့ ပြီးနောက် သူ့ကို ကြည့်ရန် လှည့်ခဲ့လိုက်သည်။
+#5/5
 
 5032
 The Captain was angry.
 ကပ္ပတိန်က ဒေါသထွက်ခဲ့တယ်။
+#5/5
 
 5033
 He kept his eyes down looking at the ground.
-သူက သူ၏ မျက်လုံးကို မြေပြင်ကို ငုံ့ကြည့်ရင်း ထိန်းထားခဲ့တယ်။
+သူက သူ၏ မျက်လုံးများကို မြေပြင်ကို ငုံ့ကြည့်ရင်း နေနေခဲ့တယ်။
+
 
 5034
 He was surprised by her.
 သူ့ကို သူမက အံ့အားသင့်စေသည်။
+#5/5
 
 5035
 She was braver than he expected.
 သူမက သူ မျှော်လင့်ထားတာ ထက် ပိုပြီးသတ္တိ ရှိခဲ့သည်။
+#5/5
 
 5036
 He sat in a chair in the cabin.
 သူက သင်္ဘောပေါ်အခန်းငယ်ထဲ က ကုလားထိုင် တစ်လုံး ပေါ်တွင် ထိုင်ခဲ့တယ်။
+#5/5
 
 5037
 He sat in a green chair in the cabin.
 သူက သင်္ဘောပေါ်ကအခန်းငယ်ထဲ အစိမ်းရောင်ရှိသော ကုလားထိုင်တစ်လုံးပေါ်တွင် ထိုင်ခဲ့တယ်။
+#5/5
 
 5038
 He sat on the floor of the cabin because there weren't any chairs available.
 ကုလားထိုင်တစ်လုံးမှ မရရှိနိုင် သောကြောင့် သူက သင်္ဘောပေါ်ကအခန်းငယ်ထဲ ကြမ်းပြင်ပေါ်တွင် ထိုင်ခဲ့တယ်။
+#5/5
 
 5039
 A man was killed.
-အမျိုးသား တစ်ဉီး သေဆုံးခဲ့တယ်။
+အမျိုးသား တစ်ဉီး အသတ်ခံခဲ့ရတယ်။
 
 5040
 He was killed with a sword.
 သူက ဓားနှင့် ထိုးသတ်ခံရတယ်။
+#5/5
 
 5041
 The man's life was spared.
 ထို အမျိုးသား ၏ အသက်ကို နှမြောတယ်။
+#0/5
+အမျိုးသားရဲ့အသက်ကိုလွတ်ပေးခဲ့တယ်။ 
+
 
 5042
 Colonel Bishop was angry because the captain had stolen something.
 ကပ္ပတိန်က တစ်ခုခုကို ခိုးယူသွား သောကြောင့် ကိုလိုနယ် ဘစ်လျှော့  ဒေါသထွက်ခဲ့တယ်။
+#5/5
 
 5043
 The ships behind them belonged to friends.
 သူတို့ နောက်က သင်္ဘောတွေက သူငယ်ချင်းတွေ ပိုင်ဆိုင်တာပါ။
+#5/5
 
 5044
 There were ships chasing after them.
-သူတို့ နောက်က သင်္ဘောတွေကို လိုက်နေတယ်။
+သူတို့ နောက်က သင်္ဘောတွေသူတို့ကို လိုက်နေတယ်။
+
 
 5045
 Colonel Bishop has heard some bad news.
 ကိုလိုနယ် ဘစ်လျှော့ က မကောင်းတဲ့ သတင်း အချို့ကို ကြားခဲ့ပြီးပြီ။
+#5/5
 
 5046
 Colonel Bishop is already cool.
 ကိုလိုနယ် ဘစ်လျှော့ အေးနေပြီ။
+#4/5
 
 5047
 Colonel Bishop is heated.
 ကိုလိုနယ် ဘစ်လျှော့ က ပူလာသည်။
+#4/5
 
 5048
 You are not assigned to the gun deck.
 မင်းက သေနတ်တွေထားတဲ့အခန်း မှာ တာဝန်မကျဘူး။
+#5/5
 
 5049
 You are stationed on the gun deck.
-မင်းက သေနတ်တွေထားတဲ့အခန်းမှာ တပ်စွဲထားသည်။
+မင်းကို သေနတ်တွေထားတဲ့အခန်းမှာ နေရာချထားသည်
+။
 
 5050
 You will only be stationed today on the gun deck.
