@@ -244,79 +244,96 @@ You are not assigned to the gun deck.
 5049
 You are stationed on the gun deck.
 မင်းကို သေနတ်တွေထားတဲ့အခန်းမှာ နေရာချထားသည်
-။
+#5/5
 
 5050
 You will only be stationed today on the gun deck.
 ဒီနေ့ မင်း သေနတ်တွေထားတဲ့အခန်း မှာ တပ်စွဲရလိမ့်မယ်။
+#5/5
 
 5051
 Pitt completely ignored what was asked of him.
 ပစ်ဒ် က သူ့ကို မေးတာကို လုံးဝ လျစ်လျူရှူ့ခဲ့တယ်။
+#5/5
 
 5052
 Pitt is the name of a dog that is very obedient.
 ပစ်ဒ် ဆိုတာ အရမ်း နာခံတတ်တဲ့ ခွေး တစ်ကောင်ရဲ့ နာမည် ဖြစ်ပါတယ်။
+#5/5
 
 5053
 Pitt quickly followed the order.
 ပစ်ဒ် က အမိန့်ကို မြန်မြန် လိုက်နာခဲ့တယ်။
+#5/5
 
 5054
 He had never been to Port Royal.
 ပေါ့ ရိုင်ရယ် ကို သူ တစ်ခါမှ မရောက်ဖူးဘူး။
+#5/5
 
 5055
 He spent 2 weeks in Port Royal.
 သူ က ပေါ့ ရိုင်ရယ် မှာ သီတင်းပတ် ၂ ပတ် အချိန်ကုန်ခဲ့တယ်။
+#5/5
 
 5056
 He was doing repairs on his ship.
-သူက သူ့သင်္ဘောမှာ ပြင်ဆင်မှုတွေကို ပြုလုပ်နေတယ်။
+သူက သူ့သင်္ဘောပေါ်မှာ ပြင်ဆင်မှုတွေကို ပြုလုပ်နေတယ်။
+
 
 5057
 Her voice was loud and booming.
 သူမ အသံက ကျယ်လောင် ပြီး မြည်ဟည်းနေတယ်။
+#5/5
 
 5058
 She had heard something.
 သူမ တစ်ခုခု ကြားခဲ့ပြီးပြီ။
+#5/5
 
 5059
 She spoke quietly because she was afraid.
 သူမ ကြောက်နေခဲ့ သောကြောင့် တိတ်တိတ်လေး ပြန်ပြောခဲ့သည်။
+#5/5
 
 5060
 The man was the captain of one of the ships.
 အဆိုပါ အမျိုးသားသည် သင်္ဘောတွေထဲက တစ်ခု ၏ ကပ္ပတိန် ဖြစ်ခဲ့သည်။
+#5/5
 
 5061
 There was a fleet of ships.
 သင်္ဘောများ ၏ ရေတပ်သင်္ဘောအစု တစ်ခု ရှိခဲ့တယ်။
+#3/5
 
 5062
 There were no ships in sight.
 အမြင်မှာတော့ သင်္ဘောတွေ မရှိခဲ့ဘူး။
+#4/5
 
 5063
 Blood had been inside his cabin.
 ဘလတ်သည် သူ၏ သင်္ဘောပေါ်ကအခန်းငယ် အတွင်းမှာ ရှိခဲ့တယ်။
+#5/5
 
 5064
 Blood was laughing because he was joyful.
 ဘလတ်က သူ ပျော်နေတာကြောင့် ရယ်မောခဲ့တယ်။
+#5/5
 
 5065
 Blood was scowling.
 ဘလတ်က မျက်မှောင်ကြုတ်ခဲ့တယ်။
+#5/5
 
 5066
 He knew he would be completely safe if he went ashore.
 သူ ကမ်းပေါ်ကို သွားခဲ့လျှင် သူ လုံးဝ ဘေးကင်းလိမ့်မယ်ဆိုတာကို သူက သိခဲ့တယ်။
+#5/5
 
 5067
 It was dangerous for him to go to shore.
-ကမ်းကို သွား ရန် သူ့အတွက် အန္တရာယ် ရှိခဲ့တယ်။
+ကမ်းပေါ်ကိုတက်ခြင်းဟာ သူ့အတွက် အန္တရာယ် ရှိခဲ့တယ်။
 
 5068
 There were people on shore who wanted to kill him.
@@ -325,127 +342,155 @@ There were people on shore who wanted to kill him.
 5069
 I did not dream last Friday.
 ပြီးခဲ့တဲ့ သောကြာနေ့က ငါ အိမ်မက်မမက်ခဲ့ဘူး။
+#5/5
 
 5070
 I did not dream.
 ငါ အိမ်မက်မမက်ခဲ့ဘူး။
+#5/5
 
 5071
 I had three dreams.
 ငါ အိမ်မက် သုံးခု ရှိခဲ့တယ်။
+#4/5
 
 5072
 I am definitely ungrateful to you.
 ငါ မင်းကို လုံးဝ ကျေးဇူးမတင်ဘူး။
+#5/5
 
 5073
 I am grateful because you had done a lot for me.
 မင်း ငါ့အတွက် အများကြီး လုပ်ပေးခဲ့ပြီးပြီမလို့  ငါ မင်းကို ကျေးဇူးတင်တယ်။
+#5/5
 
 5074
 One is certainly grateful.
 တစ်ခုကတော့ သေချာပေါက် ကျေးဇူးတင်ပါတယ်။
+#3/5
 
 5075
 He had heard her shout from afar.
 သူ က အဝေးက သူမ အော်သံကို ကြားခဲ့တယ်။
+#5/5
 
 5076
 She shouted that there was no hope for him.
 သူ့အတွက် မျှော်လင့်ချက်တွေ မရှိတော့ဘူး ဆိုတာကို သူမက အော်ပြောခဲ့တယ်။
+#5/5
 
 5077
 There was certainly still hope for him.
-သူ့အတွက် အသေအချော မျှော်လင့်နေဆဲ ဖြစ်တယ်။
+သူ့အတွက် မျှော်လင့်ချက်ရှိနေေသေးတာ သေချာပေါက်ဖြစ်တယ်။
 
 5078
 It has always been a contest ever since we went about.
 ကျွန်တော်တို့ သွား ကတည်းက ပြိုင်ပွဲ တစ်ပွဲ အမြဲ ရှိခဲ့တယ်။
+#3/5
 
 5079
 The race had begun ever since we were four.
 ကျွန်တော်တို့ လေးနှစ်သား ကတည်းက အပြေးပြိုင်ပွဲကို အမြဲစတင်ခဲ့ကြတာပါ။
+#5/5
 
 5080
 There was never any race to begin with.
 ဘယ်ပြိုင်ပွဲမှ ဘယ်တော့မှ စတင်ဖို့ မရှိခဲ့ဘူး။
+#5/5
 
 5081
 People were killed in the Spanish raid.
 စပိန် စီးနင်းမှုတွင် လူတွေ အသတ်ခံခဲ့ရတယ်။
+#5/5
 
 5082
 The Spanish raid was done at night.
 စပိန် စီးနင်းမှု သည် ညဖက်မှာ ဖြစ်ပွားခဲ့တာပါ။
+#4/5
 
 5083
 There was never a raid on Bridgetown.
 ဘရစ်ချ်တောင်း မှာ စီးနင်းမှု တစ်ခု ဘယ်တုန်းကမှ မဖြစ်ဖူးဖူး။
+#5/5
 
 5084
 Blood is a man.
 ဘလတ် က အမျိုးသား တစ်ယောက် ဖြစ်တယ်။
+#5/5
 
 5085
 The seal remained unbroken.
 အဆိုပါ ပင်လယ်ဖျံသည် မကျိုးမပဲ့ ဘဲ ကျန်ရစ်ခဲ့သည်။
+#0/5
+ချိတ်တံဆိပ်သည် မကျိုးမပဲ့ပဲရှိနေသည်။
 
 5086
 The seal was broken.
 အဆိုပါ ပင်လယ်ဖျံသည် ကျိုးပဲ့သွားခဲ့တယ်။
+#0/5 wtf?
+ထိုချိတ်တံဆိပ်သည် ဖွင့်ထားပီးဖြစ်သည်။
+
 
 5087
 Miss Bishop was alone in the garden.
 မစ် ဘစ်လျှော့ သည် ပန်းခြံထဲမှာ တစ်ယောက်တည်း ရှိခဲ့တယ်။
+#5/5
 
 5088
 Miss Bishop went to the garden in order to contemplate her life.
-မစ် ဘစ်လျှော့ သည် သူမ ၏ ဘဝအကြောင်း ဆင်ခြင် ဖို့ရန် ပန်းခြံသို့ သွားခဲ့သည်။
+မစ် ဘစ်လျှော့ သည် သူမ ၏ ဘဝအကြောင်း သုံးသပ်ဆင်ခြင် ဖို့ရန် ပန်းခြံသို့ သွားခဲ့သည်။
 
 5089
 There was absolutely no one at the garden whatsoever.
 ပန်းခြံထဲမှာ ဘာပဲဖြစ်ဖြစ် လူတစ်ယောက်မှ လုံးဝ မရှိပါ။
+#3/5
 
 5090
 His lordship spoke sharply.
-သူ၏ သခင်က ပြတ်ပြတ်သားသား ပြောခဲ့တယ်။
+သခင်ကြီးက ပြတ်ပြတ်သားသား ပြောခဲ့တယ်။
 
 5091
 His lordship was a mute.
-သူ့ သခင်သည် ဆွံ့အသူ တစ်ယောက် ဖြစ်ခဲ့တယ်။
+သခင်ကြီးသည် ဆွံ့အသူ တစ်ယောက် ဖြစ်ခဲ့တယ်။
 
 5092
 His lordship was angry because I had neglected my duties.
-ကျွန်တော် က ကျွန်တော့် တာဝန်ကို လျစ်လျူရှူ့ခဲ့သောကြောင့် သူ့ သခင်က ဒေါသထွက်ခဲ့တယ်။
+ကျွန်တော် က ကျွန်တော့် တာဝန်ကို လျစ်လျူရှူ့ခဲ့သောကြောင့်  သခင်ကြီးက ဒေါသထွက်ခဲ့တယ်။
 
 5093
 He did not understand the threat that laid before him.
-သူ မတိုင်ခင်က ရှိခဲ့တဲ့ ခြိမ်းခြောက်မှု ကို သူ နားမလည်ခဲ့ဘူး။
+သူ အရှေ့မှာ ရှိခဲ့တဲ့ ခြိမ်းခြောက်မှု ကို သူ နားမလည်ခဲ့ဘူး။
 
 5094
 He understood very clearly, the threat that was before him.
-အဆိုပါ ခြိမ်းခြောက်မှုသည် သူ မတိုင်ခင်က ဖြစ်ခဲ့တယ် ဆိုတာကို ၊ သူ ရှင်းရှင်းလင်းလင်း သဘောပေါက်ခဲ့သည်။
+အဆိုပါ ခြိမ်းခြောက်မှုသည် သူ့ရှေ့တွင်ရှိနေသည် ဆိုတာကို ၊ သူ ရှင်းရှင်းလင်းလင်း သဘောပေါက်ခဲ့သည်။
 
 5095
 The threat was vague because the area was covered in fog.
 ဒီ ဧရိယာက မြူများနှင့် ဖုံးလွှမ်းနေသောကြောင့် အဆိုပါ ခြိမ်းခြောက်မှုမှာ မရေရာခဲ့ပါ။
+#5/5
 
 5096
 Jeremey had forgotten why he was so angry.
 ဂျယ်ရမီက သူ ဘာကြောင့် ဒေါသ အရမ်းထွက်ခဲ့တယ်ဆိုတာကို မေ့လျော့ခဲ့တယ်။
+#5/5
 
 5097
 Jeremy opened his hand, revealing his palms.
 ဂျယ်ရမီက သူ့လက်ကို ဖွင့်လိုက် ပြီး ၊ လက်ဖဝါးတွေကို ပြလိုက်တယ်။
+#5/5
 
 5098
 Jeremy tightened his fists.
 ဂျယ်ရမီ က သူ ၏ လက်သီးတွေကို တင်းတင်းဆုပ်ထားတယ်။
+#5/5
 
 5099
 My way is the most difficult.
 ငါ့ နည်းလမ်းက အခက်ဆုံး ပဲ။
+#5/5
 
 5100
 Someone else's way is difficult.
 တခြားသူရဲ့ နည်းလမ်းက ခက်ခဲတယ်။
+#5/5
