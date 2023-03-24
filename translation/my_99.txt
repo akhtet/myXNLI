@@ -445,19 +445,23 @@ The Swede Church and the Swedish church are pretty much different.
 
 9890
 She gestured toward another, bushier shrub.
-သူမသည် အခြား ချုံထူသည့်ချုံပုတ်ဘက်ဆီကို၊ လက်ပြလိုက်သည်။
+သူမသည် အခြား၊ ချုံထူသည့် ချုံပုတ်တစ်ခုဘက်ဆီကို လက်ဟန်ပြလိုက်သည်။
+# 5/5
 
 9891
 She gestured towards a bush that was somewhat depressing.
-တော်တော်လေးစိတ်ပျက်စရာကောင်းတဲ့ ချုံပုတ်တစ်ခုဘက်ဆီကို သူမ လက်ပြလိုက်တယ်။
+သူမသည် နိမ့်ကျနေသည့် ချုံပုတ်တစ်ခုဘက်ဆီကို လက်ဟန်ပြလိုက်သည်။
+# 5/5
 
 9892
 That bush is less bushy than the other.
-ဒီချုံက အခြားချုံတွေလောက် ချုံမထူထပ်ဘူး။
+ဒီချုံက အခြားချုံတွေလောက် မထူထပ်ဘူး။
+# 5/5
 
 9893
 A king that sets up an order of succession is always accused of showing signs of weakness.
-ထီးနန်းဆက်ခံသည့် အမိန့်တစ်ခု ထုတ်ပြန်သည့် ဘုရင်တစ်ပါးသည် ပျော့ညံ့မှုလက္ခဏာများကို ထုတ်ဖော်ပြသနေသည်ဟု အမြဲစွပ်စွဲခံရသည်။
+အစဥ်အဆက် အရိုက်အရာဆက်ခံနိုင်ရန် စီစဥ်ထားသည့် ဘုရင်တစ်ပါးသည် ပျော့ညံ့မှုလက္ခဏာများကို ပြသနေသည်ဟု အမြဲစွပ်စွဲခံရသည်။
+# 4/5
 
 9894
 A president has a vice-president, but a king does not have a vice-king.
