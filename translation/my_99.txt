@@ -5,7 +5,7 @@ That person is being discharged honorably.
 
 9802
 That person is being discharged.
-အဆိုပါ ပုဂ္ဂိုလ်အား ထုတ်ပယ်လိုက်သည်။
+အဆိုပါ ပုဂ္ဂိုလ်အား ထွက်ခွာခွင့်ပြုလိုက်သည်။
 # 4/5
 
 9803
@@ -26,16 +26,16 @@ We were handed a long list of strange terms.
 9806
 Cross-talk changes depending on the audience.
 စကားစမည်ပြောဆိုမှုသည် ပရိတ်သတ်ပေါ် မူတည်ပြီး ပြောင်းလဲသည်။
-# 5/5
+# 4/5
 
 9807
 Cross-talk isn't acceptable for some audiences.
 စကားစမည်ပြောဆိုမှုသည် အချို့သော ပရိသတ်များအတွက် လက်မခံနိုင်စရာဖြစ်သည်။
-# 5/5
+# 4/5
 
 9808
 Cross-talk never occurs.
-စကားစမည်ပြောဆိုမှု တစ်ခါမှ မဖြစ်ခဲ့ပါ။
+စကားစမည်ပြောဆိုမှု တစ်ခါမှမဖြစ်ခဲ့ပါ။
 # 5/5
 
 9809
@@ -70,23 +70,23 @@ The teacher tried to explain in audience-appropriate terms.
 
 9815
 Mr Levitt was childless.
-မစ္စတာ လတ်ဗစ်တ် မှာ ကလေးမရှိဘူး။
+မစ္စတာလတ်ဗစ်တ်မှာ ကလေးမရှိဘူး။
 # 5/5
 
 9816
 Mr. Levitt had a daughter.
-မစ္စတာ လတ်ဗစ်တ် မှာ သမီးတစ်ယောက်ရှိတယ်။
+မစ္စတာလတ်ဗစ်တ်မှာ သမီးတစ်ယောက်ရှိတယ်။
 # 5/5
 
 9817
 Mr. Levitt's daughter was 17.
-မစ္စတာ လတ်ဗစ်တ် ရဲ့ သမီး က ၁၇ နှစ် ရှိပြီ။
+မစ္စတာလတ်ဗစ်တ်ရဲ့ သမီးက ၁၇ နှစ် ရှိပြီ။
 # 5/5
 
 9818
 The Greek word for competition has come to mean pain in English because of the agony that took place during the competitions.
 ပြိုင်ဆိုင်ခြင်းဟူသော ဂရိစကားလုံးသည် အင်္ဂလိပ်လို နာကျင်ခြင်းဟု အဓိပ္ပာယ်ရလာခြင်းမှာ ပြိုင်ပွဲများအတွင်း ဖြစ်ပေါ်သောနာကျင်မှုဝေဒနာများ ကြောင့်ဖြစ်သည်။ 
-# 5/5
+# 4/5
 
 9819
 The word agon originally meant competition in Greek.
@@ -295,44 +295,53 @@ He is not worried because he doesn't try.
 
 9860
 Men only refers to males.
-အမျိုးသားများသည် အဖိုများကိုသာ ရည်ညွှန်းသည်။
-# 5/5
+အမျိုးသားများဆိုသည်မှာ အဖိုများကိုသာ ရည်ညွှန်းသည်။
+# 4/5
 
 9861
 Women are included in the label of man now that feminism has progressed.
 ယနေ့အချိန်တွင် ဣတ္ထိယဝါဒ ထွန်းကားလာသောကြောင့် အမျိုးသားဆိုသော အသုံးအနှုန်းတွင် အမျိုးသမီးများပါ ပါဝင်လာကြသည်။
+# 5/5
 
 9862
 Women are included in the label of man.
 အမျိုးသားဆိုသော အသုံးအနှုန်းတွင် အမျိုးသမီးများပါ ပါဝင်လာကြသည်။
+# 5/5
 
 9863
 The list of pronunciation didn't help me at all.
-အသံထွက်စာရင်းက ငါ့ကို လုံးဝ အကူအညီမဖြစ်ဘူး။
+အသံထွက်စာရင်းက ငါ့ကို လုံးဝအထောက်အကူ မပြုဘူး။
+# 5/5
 
 9864
 The pronunciation list helped everyone.
 အသံထွက်စာရင်းသည် လူတိုင်းကို အထောက်အကူပြုသည်။
+# 5/5
 
 9865
 The pronunciation list only included the most basic things.
 အသံထွက်စာရင်းတွင် အခြေခံအကျဆုံးအရာများသာပါဝင်သည်။
+# 5/5
 
 9866
 The Omni Gazetteer of the United States is a first step.
 အမေရိကန်ပြည်ထောင်စု အောမ်နိ ဂဇတ်တီရာသည် ပထမခြေလှမ်းဖြစ်သည်။
+# 5/5
 
 9867
 The Omni Gazetteer of the United States is about animals.
 အမေရိကန်ပြည်ထောင်စု အောမ်နိ ဂဇတ်တီရာသည် တိရစ္ဆာန်များအကြောင်းဖြစ်သည်။
+# 4/5
 
 9868
 The Omni Gazetteer of the United States is comprehensive.
 အမေရိကန်ပြည်ထောင်စု အောမ်နိ ပထဝီနေရာဒေသအညွှန်းသည် ပြည့်စုံကျယ်ပြန့်သည်။
+# 4/5
 
 9869
 Typewriters require electric assistance to form words.
 လက်နှိပ်စက်များတွင် စကားလုံးများ ရိုက်နိုင်ရန် လျှပ်စစ်အကူအညီလိုအပ်သည်။
+# 5/5
 
 9870
 Typewriters require the user to push the buttons with adequate force to form the letters.
