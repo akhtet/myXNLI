@@ -150,79 +150,98 @@ They just call them all dents.
 
 9731
 someone did nothing wrong
-တစ်ယောက်ယောက် က ဘာအမှားမှ မလုပ်ဘူး
+တစ်ယောက်ယောက် က ဘာအမှားမှ မလုပ်ခဲ့ဘူး
+# 5/5
 
 9732
 someone was raped
 တစ်ယောက်ယောက် သည် အဓမ္မပြုကျင့်ခံခဲ့ရတယ်
+# 5/5
 
 9733
 something was dong wrong
 တစ်စုံတစ်ခု မှားနေပြီလား
+# 5/5
 
 9734
 Cliches are a certain type of expression.
-လက်သုံးစကားများ သည် အချို့သော အမျိုးအစား စကားအသုံးအနှုန်း တစ်ခု ဖြစ်သည် ။
+Cliches များသည် စကားအသုံးအနှုန်း အမျိုးအစား တစ်ခု ဖြစ်သည် ။
+# 5/5
 
 9735
 Cliches are delicious foods.
-လက်သုံးစကားများ သည် အရသာရှိသော အစားအစာများ ဖြစ်သည်။
+Cliches များ သည် အရသာရှိသော အစားအစာများ ဖြစ်သည်။
+# 5/5
 
 9736
 Cliches are only used by old folks.
-လက်သုံးစကားများ သည် ရှေးလူကြီးများ သာ အသုံးပြုကြသည် ။
+Cliches များကို ရှေးလူကြီးများကသာ အသုံးပြုကြသည် ။
+# 5/5
 
 9737
 I'm in total agreement with Hendrickson.
 ကျွန်တော် သည် ဟန်ဒရစ်ဆန် နဲ့ လုံးဝ သဘောတူပါတယ် ။
+# 4/5
 
 9738
 I'm not in agreement with Hendrickson about the origin of the horse latitudes.
 ဟော့စ် လတ္တီတွဒ် ၏ မူလအစ နှင့်ပတ်သက်၍ ဟန်ဒရစ်ဆန် နှင့် ကျွန်တော် သဘောမတူပါ ။
+# 4/5
 
 9739
 I'm pretty sure that Hendrickson didn't have much to base his ideas on.
 ဟန်ဒရစ်ဆန် သည် သူ့ရဲ့ စိတ်ကူးများ ကို အခြေခံရန် အများကြီး မရှိတာ ကျွန်တော် သေချာပါသည် ။
+# 4/5
 
 9740
 Grammar has changed but not too much.
-သဒ္ဒါ က ပြောင်းလဲသွား ပေမယ့် သိပ် မများပါဘူး ။
+သဒ္ဒါ က ပြောင်းလဲသွားခဲ့ ပေမယ့် အများကြီး မဟုတ်ပါဘူး။
+# 5/5
 
 9741
 Grammar has changed so much that nobody can understand.
 သဒ္ဒါ က ဘယ်သူမှ နားမလည်နိုင်အောင် အများကြီး ပြောင်းလဲသွားတယ် ။
+# 5/5
 
 9742
 People who have trouble with grammar could certainly have trouble understanding.
 သဒ္ဒါ နဲ့ပတ်သက်တဲ့ ပြဿနာရှိတဲ့ လူတွေဟာ သေချာပေါက် နားလည်မှု အခက်အခဲရှိနိုင်ပါတယ် ။
+# 5/5
 
 9743
 I am bored.
-ကျွန်တော် သည် ပျင်းသည် ။
+ကျွန်တော် ငြီး‌ငွေ့သည် ။
+# 5/5
 
 9744
 I find nothing worth my time.
 ကျွန်တော့် အချိန်နဲ့ ထိုက်တန်တာ ကျွန်တော် ဘာမှ မတွေ့ပါဘူး ။
+# 4/5
 
 9745
 I find some of the things worth my time.
-ကျွန်တော့် အချိန်နဲ့ ထိုက်တန်တာ ကျွန်တော် ရှာတွေ့တယ် ။
+ကျွန်တော့် အချိန်နဲ့ ထိုက်တန်တာ တစ်ချို့ ရှာတွေ့တယ် ။
+# 4/5
 
 9746
 No other language has this kind of ambiguity.
-တခြား ဘာသာစကား မှာ ဒီလို မပြတ်သားသည့် အမျိုးအစား မရှိပါဘူး ။
+တခြား ဘာသာစကားတွေ မှာ ဒီလို မပြတ်သားတာမျိုး မရှိပါဘူး ။
+# 5/5
 
 9747
 This ambiguity is true about most languages.
 ဤ မပြတ်သားခြင်း သည် ဘာသာစကား အများစု နှင့်ပတ်သက်ပြီး မှန်ကန်ပါသည် ။
+# 4/5
 
 9748
 This makes learning the language more difficult.
-၎င်း သည် ဘာသာစကား ကို သင်ယူရာ မှာ ပိုခက်ခဲစေအောင် ပြုလုပ်ပါသည် ။
+၎င်း သည် ထိုဘာသာစကား ကို သင်ယူရာတွင် ပိုခက်ခဲစေပါသည် ။
+# 5/5
 
 9749
 That's just the normal way of things with money.
 ထိုအရာ သည် ပိုက်ဆံ နဲ့ ပုံမှန် နည်းလမ်း သာ ဖြစ်သည် ။
+# 3/5
 
 9750
 That's just what happens with money.
