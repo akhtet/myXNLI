@@ -246,106 +246,132 @@ That's just the normal way of things with money.
 9750
 That's just what happens with money.
 ထိုအရာ သည် ပိုက်ဆံ နဲ့ ဖြစ်စဥ် သာ ဖြစ်သည် ။
+# 3/5
 
 9751
 You could never know what happens with money.
 ပိုက်ဆံ ကြောင့် ဘာဖြစ်သွားမှန်း သင် ဘယ်တော့မှ မသိနိုင်ပါ ။
+# 3/5
 
 9752
 Just clearing up the the details will make the question more understandable.
 အသေးစိတ် ကို ရှင်းလင်းခြင်းဖြင့် မေးခွန်း ကို ပိုမို နားလည်နိုင်အောင် ပြုလုပ်လိမ့်မည် ။
+# 3/5
 
 9753
 The question should be answerable even with the mislaid details.
-မှားယွင်းသော အသေးစိတ်အချက်များ ဖြင့်ပင် မေးခွန်း ကို ပြန်ဖြေနိုင်ရမည် ။
+မှားယွင်းသော အသေးစိတ်အချက်များ ဖော်ပြထားသော်လည်း မေးခွန်း ကို ပြန်ဖြေနိုင်ရမည် ။
+# 3/5
 
 9754
 You can't answer the question when the details are not laid out properly.
 အသေးစိတ်အချက်များ ကို မှန်ကန်စွာ မဖော်ပြထား သောအခါ မေးခွန်း ကို သင် မဖြေနိုင်ပါ ။
+# 3/5
 
 9755
 Kermit is the name for a certain type of telecommunications protocol.
-ကားမစ် သည် အချို့သော တယ်လီဖုန်းဆက်သွယ်ရေး ပရိုတိုကော အမျိုးအစား တစ်ခု အတွက် နာမည် ဖြစ်သည် ။
+Kermit သည် တယ်လီဖုန်းဆက်သွယ်ရေး ပရိုတိုကော အမျိုးအစား တစ်ခု အတွက် နာမည် ဖြစ်သည် ။
+# 4/5
 
 9756
 The Kermit telecommunications protocol refers to a way of talking between Facebook Messenger and WhatsApp.
-ကားမစ် တယ်လီဖုန်းဆက်သွယ်ရေး ပရိုတိုကော သည် ဖေ့စ်ဘုတ် မက်ဆေ့ဂျာ နှင့် ဝှက်စ်အပ် အကြား စကားပြော နည်း တစ်ခု ကို ရည်ညွှန်းသည် ။
+Kermit တယ်လီဖုန်းဆက်သွယ်ရေး ပရိုတိုကော သည် ဖေ့စ်ဘုတ် မက်ဆေ့ဂျာ နှင့် WhatsApp အကြား စကားပြော နည်း တစ်ခု ကို ရည်ညွှန်းသည် ။
+# 4/5
 
 9757
 The Kermit telecommunications protocol was named after a frog.
-ကားမစ် တယ်လီဖုန်းဆက်သွယ်ရေး ပရိုတိုကော ကို ဖား တစ်ကောင် ဟု အမည်ပေးထားသည်။
+Kermit တယ်လီဖုန်းဆက်သွယ်ရေး ပရိုတိုကော သည် ဖား တစ်ကောင်၏  အမည်ကိုလိုက်၍ ပေးထားသည်။
+# 3/5
 
 9758
 The book is nonfiction.
 စာအုပ် သည် သုတစာပေ ဖြစ်သည် ။
+# 3/5
 
 9759
 The book might need a second pitching.
 စာအုပ် သည် ဒုတိယအကြိမ် ထုတ်ဝေရန် လိုအပ်လိမ့်မည် ။
+# 3/5
 
 9760
 The book will only need one pitching no matter what.
 စာအုပ်သည် ဘာပဲဖြစ်ဖြစ် တစ်ကြိမ် တည်းသာလျှင် လိုအပ်လိမ့်မည် ။
+# 3/5
 
 9761
 The reference I have is outdated.
-ကျွန်တော့် တွင် ရှိသော အညွှန်း သည် ခေတ်မမီတော့ပါ ။
+ကျွန်တော့် တွင် ရှိသော အညွှန်း သည် ခေတ်မမှီတော့ပါ ။
+# 4/5
 
 9762
 The reference I have is sketchy.
 ကျွန်တော့် တွင် ရှိသော အညွှန်း သည် အပေါ်ယံ ဖြစ်သည် ။
+# 4/5
 
 9763
 The reference i have is complete.
 ကျွန်တော့် တွင် ရှိသော အညွှန်း သည် ပြည့်စုံသည် ။
+# 5/5
 
 9764
 Everyone in Santa Fe has an American name.
-ဆန်တာဖေးလ် ရှိ လူတိုင်း တွင် အမေရိကန် အမည် တစ်ခု ရှိသည် ။
+Santa Fe ရှိ လူတိုင်း တွင် အမေရိကန် အမည် တစ်ခုစီ ရှိသည် ။
+# 5/5
 
 9765
 Most of the people in Santa Fe have Hispanic names.
-ဆန်တာဖေးလ် ရှိ လူ အများစု တွင် ဟစ်စပန်နစ် အမည်များ ရှိသည် ။
+Santa Fe ရှိ လူ အများစု တွင် Hispanic အမည်များ ရှိသည် ။
+# 5/5
 
 9766
 There are a lot of Spanish names in Santa Fe.
-ဆန်တာဖေးလ် တွင် စပိန် နာမည် များစွာ ရှိသည် ။
+Santa Fe တွင် စပိန် နာမည် များစွာ ရှိသည် ။
+# 4/5
 
 9767
 Children's words allay crashes, bombs and aborts on computers.
 ကလေးများ ရဲ့ စကားလုံးတွေ သည် ကွန်ပျူတာ ပေါ်တွင် ပျက်ကျခြင်းများ ၊ ဗုံးများ နဲ့ ဖျက်သိမ်းခြင်းများ ကို ပြေလျော့စေသည် ။
+# 2/5
 
 9768
 Children's words are soft and warm which allays our fears about computers that crash and bomb and abort.
 ကလေးများ ရဲ့ စကားလုံးတွေ သည် နူးညံ့ ပြီး နွေးထွေးသောကြောင့် ပျက်ကျခြင်း ၊ ဗုံးခွဲခြင်း နဲ့ ဖျက်သိမ်းခြင်း ကွန်ပြူတာများ နဲ့ ပတ်သက်ပြီး ကျွန်တော်တို့ ကြောက်စိတ်တွေ ကို ပြေလျော့စေသည် ။
+# 2/5
 
 9769
 Soft and warm words from children allow us to not fear that computers that crash, bomb and abort.
 ကလေးငယ်များ ထံမှ နူးညံ့ ပြီး နွေးထွေးသော စကားလုံးများ သည် ပျက်ကျခြင်း ၊ ဗုံးခွဲခြင်းနှင့် ဖျက်သိမ်းခြင်း တို့ကို ဖြစ်စေသော ကွန်ပျူတာများ ကို ကျွန်တော်တို့ အား မကြောက်ဖို့ ခွင့်ပြုပါသည် ။
+# 2/5
 
 9770
 Freud is blamed for the change.
-ဖရွိုက် သည် အပြောင်းအလဲ အတွက် အပြစ်တင်သည် ။
+Freud သည် ထိုအပြောင်းအလဲ အတွက် အပြစ်တင်ခံရသည် ။
+# 4/5
 
 9771
 Freud is somewhat at fault.
-ဖရွိုက် သည် အနည်းငယ် မှားယွင်းနေသည် ။
+Freud မှာ အမှားနည်းနည်းတော့ ရှိသည်။
+# 4/5
 
 9772
 Freud is totally blameless.
-ဖရွိုက် သည် လုံးဝ အပြစ်ကင်းသည် ။
+Freud သည် လုံးဝ အပြစ်ကင်းသည် ။
+# 4/5
 
 9773
 Publishers are always happy to give tapes of their work out to anyone.
 ထုတ်ဝေသူများ သည် သူတို့၏ ဖြေရှင်းချက်များကို မည်သူ့ကိုမဆို တိပ်ခွေများ ထုတ်ပေးရန် အမြဲ ပျော်ရွှင်နေပါသည် ။
+# 2/5
 
 9774
 Publishers don't want to give researchers the tapes of the text because it might get released too early.
-ထုတ်ဝေသူများ သည် သုတေသီများ ကို ၎င်း သည် ထုတ်ဝေရန် သိပ်စောလွန်း သောကြောင့် စာသား ၏ တိပ်ခွေများ ကို မပေးချင်ကြပါ ။
+ထုတ်ဝေသူများ သည် သုတေသီများကို  စာသား၏ တိပ်ခွေများကို ထုတ်ဝေရန် သိပ်စောသွားမည်စိုး သောကြောင့် မပေးချင်ကြပါ ။
+# 4/5
 
 9775
 Publishers don't want to give researchers the tapes of the text.
 ထုတ်ဝေသူများ သည် သုတေသီများ အား စာသား ၏ တိပ်ခွေများ ကို မပေးချင်ကြပါ ။
+# 4/5
 
 9776
 Money got its name from animals.
