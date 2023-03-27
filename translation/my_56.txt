@@ -1,44 +1,54 @@
 5501
 The museum does not like being labelled.
-ပြတိုက်မှာ တံဆိပ်ကပ်ထားတာကို မကြိုက်ဘူး။
+ပြတိုက်မှ ၄င်းတို့ အမည်တံဆိပ်တပ်ခံရခြင်းကို မကြိုက်ပေ။
+#4/5
+#REVIEW
 
 5502
 The museum is not a fan of brochures.
-ပြတိုက်ဆိုတာ လမ်းကမ်းစာဆောင်တွေရဲ့ ဝါသနာအိုး တစ်ခု မဟုတ်ဘူး။
-# 
+ပြတိုက်သည် လမ်းကမ်းစာဆောင်တွေကို မကြိုက်ပါဘူး။
+# 4/5
+#REVIEW
 
 5503
 The strong point of the museum is the catalogues.
-ပြတိုက်၏ ခိုင်မာသော အချက် မှာ ကတ်တလောက်များ ဖြစ်ပါသည်။
-# 
+ပြတိုက်၏ ခိုင်မာသော အားသာချက် မှာ ကတ်တလောက်များ ဖြစ်ပါသည်။
+# 5/5
 
 5504
 Polar bears are attracted to changing leaves.
 သစ်ရွက်များ ပြောင်းလဲခြင်းက ပိုလာ ဝက်ဝံများကို ဆွဲဆောင်နေသည်။
+#4/5
 
 5505
 You can see polar bears in the autumn.
 မင်း ဆောင်းဦးရာသီတွင် ပိုလာ ဝက်ဝံများကို တွေ့နိုင်တယ်။
+#5/5
 
 5506
 You will not see polar bears in the autumn.
 မင်း ဆောင်းဦးရာသီမှာ ပိုလာ ဝက်ဝံများကို တွေ့ရလိမ့်မည်မဟုတ်။
+#5/5
 
 5507
 All of the Canal Motorboats BV dealers in this city have closed up shop.
 ဒီ မြို့ တွင် ကန်နယ် မော်တော်ဘုတ် ဘီဗီ အရောင်းကိုယ်စားလှယ်များ အားလုံးသည် ဆိုင်ကို ပိတ်ထားပါပြီ။
+#5/5
 
 5508
 There are two dealerships for Canal Motorboats BV in this city.
 ဒီ မြို့ မှာ ကန်နယ် မော်တော်ဘုတ် ဘီဗီ အတွက် အရောင်းကိုယ်စားလှယ် နှစ်ယောက် ရှိပါတယ်။
+#5/5
 
 5509
 There used to be only one Canal Motorboats BV location, but increased business warranted an expansion.
-ကန်နယ် မော်တော်ဘုတ် ဘီဗီ နေရာ တစ်ခု သာလျှင် ရှိခဲ့ဖူး ပေမယ့် ၊ တိုးတတ်လာသော စီးပွားရေးလုပ်ငန်းတွေက တိုးချဲ့မှု တစ်ခု ကို အာမခံထားသည်။
+ကန်နယ် မော်တော်ဘုတ် ဘီဗီ နေရာ တစ်ခု သာလျှင် ရှိခဲ့ဖူး ပေမယ့် ၊ တိုးတတ်လာသော စီးပွားရေးလုပ်ငန်းတွေက တိုးချဲ့မှု ဖြစ်ဖို့သေခြာဖို့ဖြစ်လာစေသည်။
+#5/5
 
 5510
 Beijing has open-air markets that include very interesting shops.
-ပေကျင်းတွင် အလွန် စိတ်ဝင်စားစရာကောင်းသော ဈေးဆိုင်များ ပါရှိသော အမိုးဖွင့် ဈေးများ ရှိသည်။
+ပေကျင်းတွင် ရှိသော အမိုးဖွင့် ဈေးမျာတွင် အလွန် စိတ်ဝင်စားစရာကောင်းသော ဈေးဆိုင်များ ပါ ရှိသည်။
+#5/5
 
 5511
 The open-air markets in Beijing are the most interesting in the world.
