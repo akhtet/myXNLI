@@ -10,7 +10,7 @@ Before going forth, the reader may wish to attempt this challenge.
 
 9603
 The reader may want to try this challenge before proceeding.
-စာဖတ်သူ သည် ရှေ့မဆက်ခင် ဤစိန်ခေါ်မှု ကို စမ်းကြည့်ချင်လို့ ရပါသည်။
+စာဖတ်သူသည် ရှေ့မဆက်ခင် ဤစိန်ခေါ်မှု ကို စမ်းကြည့်ချင်လို့ ရပါသည်။
 
 9604
 The reader should proceed without attempting the pointless feat.
@@ -139,35 +139,43 @@ Lecretius မှ ပြုလုပ်သော အငြင်းပွား�
 
 9629
 Feels like old fashioned preference, does it not.
-ရှေးပုံစံဟောင်းကို နှစ်ခြိုက် သလို ခံစားရတယ် ၊ မဟုတ်ဘူးလား ။
+ရှေးပုံစံဟောင်းကို ပိုကြိုက်တယ်လို့ ခံစားရတယ် ၊ မဟုတ်ဘူးလား ။
+# 5/5
 
 9630
 Seems somewhat like the ideas of reformation and change making, does it not?
 ပြုပြင်ပြောင်းလဲရေး နှင့် ပြောင်းလဲမှုပြုလုပ်ရေးဆိုင်ရာ အယူအဆများ နှင့် ဆင်တယ် ၊ မဟုတ်ဘူးလား ။
+# 3/5
 
 9631
 Sounds like the ideas of a predecessor, does it not?
-အရင်လူတစ်ယောက်ရဲ့ အယူအဆများ နှင့် တူပုံရတယ် ၊ မဟုတ်ဘူးလား ။
+အရင်ကလူ တစ်ယောက်ရဲ့ အယူအဆများ နှင့် တူပုံရတယ် ၊ မဟုတ်ဘူးလား ။
+# 5/5
 
 9632
 Being resolute, relentless, and resourceful are skills that can be taught.
 ပြတ်သားခြင်း ၊ မဆုတ်မနစ်ရှိခြင်း နှင့် ကြံရည်ဖန်ရည်ရှိခြင်း တို့သည် သင်ကြားနိုင်သော အရည်အချင်းများ ဖြစ်သည် ။
+# 5/5
 
 9633
 Being resolute, relentless, and resourceful are skills that cannot be taught, but are simply instinctual.
 ပြတ်သားခြင်း ၊ မဆုတ်မနစ်ရှိခြင်း နှင့် ကြံရည်ဖန်ရည်ရှိခြင်း တို့သည် သင်ကြား၍ ရနိုင်သော အရည်အချင်းများ မဟုတ်၊ ရှင်းရှင်းလေး ဉာဏ်ရည်ဉာဏ်သွေး ဖြစ်သည် ။
+# 4/5
 
 9634
 Learning to be resolute, relentless, and resourceful is challenging and difficult, but they teach it skillfully.
-ပြတ်သားရန် ၊ မဆုတ်မနစ်ရှိရန် နှင့် ကြံရည်ဖန်ရည်ရှိရန် သင်ယူခြင်း သည် စိန်ခေါ်မှု နှင့် ခက်ခဲ သော်လည်း သူတို့သည် ၎င်းကို ကျွမ်းကျင်စွာ သင်ကြားပေးပါသည် ။
+ပြတ်သားရန် ၊ မဆုတ်မနစ်ရှိရန် နှင့် ကြံရည်ဖန်ရည်ရှိရန် သင်ယူခြင်း သည် စိန်ခေါ်မှုများစွာ နှင့် ခက်ခဲသော်လည်း သူတို့သည် ၎င်းကို ကျွမ်းကျင်စွာ သင်ကြားပေးပါသည် ။
+# 4/5
 
 9635
 I had lived my whole life on the Continent.
-ကျွန်တော် သည် ကျွန်တော့် ဘဝ တစ်လျှောက်လုံး ဒီတိုက်ကြီး ပေါ်မှာ နေခဲ့သည် ။
+ကျွန်တော် သည် ကျွန်တော့် ဘဝ တစ်လျှောက်လုံး ဒီကုန်းမြေကြီး ပေါ်မှာ နေခဲ့သည် ။
+# 4/5
 
 9636
 I had only been on the Continent for six months.
-ကျွန်တော် တိုက်ကြီး ပေါ်မှာ ခြောက်လ လောက် ပဲ နေခဲ့ရသေးသည် ။
+ကျွန်တော် ဒီကုန်းမြေကြီးပေါ်မှာ နေခဲ့ရတာ ခြောက်လရှိပြီ ။
+# 4/5
 
 9637
 I wanted to buy some things for my girlfriend.
@@ -191,7 +199,7 @@ Vespasian သည် ဧကရာဇ် တစ်ပါး ဖြစ်ခဲ့ 
 
 9641
 Alice agreed with all of it.
-အဲလစ် သည် အားလုံး ကို သဘောတူသည် ။
+အဲလစ် သည် ဒါတွေ အားလုံး ကို သဘောတူသည် ။
 
 9642
 Alice said no.
