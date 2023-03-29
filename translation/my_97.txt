@@ -220,7 +220,7 @@ Indian လူမျိုးများ နှင့် လူဖြူ အခ�
 9645
 Nobody ever used the oil from Oil Creek.
 Oil Creek မှ ဆီ ကို မည်သူမျှ မသုံးဖူးပါ ။
-# ၅/5
+# 5/5
 
 9646
 The oil was an effective medicine for the white settlers.
@@ -249,11 +249,13 @@ Clear verbal communication is the only way to gain information
 
 9651
 Even in a noisy environment, you can learn the most important information by looking at facial expressions, gestures, and contextual signs.
-ဆူညံသော ပတ်ဝန်းကျင် တွင်ပင် ၊ မျက်နှာအမူအရာများ ၊ လက်ဟန်ခြေဟန်များ ၊ နှင့် ဆက်စပ် လက္ခဏာများ ကို ကြည့်ရှုခြင်း ဖြင့် အရေးကြီးဆုံး အချက်အလက်များ ကို သင် သည် လေ့လာနိုင်သည် ။
+ဆူညံသော ပတ်ဝန်းကျင် တွင်ပင် ၊ သင်သည် မျက်နှာအမူအရာများ ၊ လက်ဟန်ခြေဟန်များ ၊ နှင့် ဆက်စပ် လက္ခဏာများ ကို ကြည့်ရှုခြင်း ဖြင့် အရေးကြီးဆုံး အချက်အလက်များ ကို  လေ့လာနိုင်သည် ။
+# 5/5
 
 9652
 You can understand what is being communicated by facial expressions and hand gestures even when you can't hear what is being said.
-သင် သည် ဘာကို ပြောနေသည် ကို မကြားနိုင် တောင်မှ မျက်နှာအမူအရာများ နှင့် လက်ဟန်ခြေဟန်များများ ဖြင့် ဘာကို ဆက်သွယ်ပြောဆိုသည် ကို သင် သည် နားလည်နိုင်သည် ။
+သင် သည် ဘာကို ပြောနေသည် ကို မကြားနိုင်လျှင်တောင်မှ မျက်နှာအမူအရာများနှင့် လက်ဟန်ခြေဟန်များဖြင့် ဘာကို ပြောချင်နေသည် ကို သင်သည် နားလည်နိုင်သည် ။
+# 5/4
 
 9653
 The birds and bees are mentioned in this Latin poem, but no people are described.
@@ -266,26 +268,32 @@ The love story depicted in the Latin poem explains the reason for the distance b
 9655
 This romantic Latin poem references a man and a woman in the first line.
 ဤ ကြည်နူးဖွယ်ရာ လက်တင်ကဗျာ သည် ပထမ စာကြောင်း တွင် အမျိုးသား တစ်ဦး နှင့် အမျိုးသမီး တစ်ဦး ကို ရည်ညွှန်းသည် ။
+# 4/5
 
 9656
 There are a lot of journals about the scientific studies.
 သိပ္ပံ ပညာ နဲ့ ပတ်သက်တဲ့ ဂျာနယ်များ အများကြီး ရှိသည် ။
+# 5/5
 
 9657
 There are a lot of journals.
-ဂျာနယ်များ အများကြီး ရှိသည် ။
+ဂျာနယ်တွေ အများကြီး ရှိသည် ။
+# 5/5
 
 9658
 There are only 2 journals.
 ဂျာနယ် ၂ စောင် ပဲ ရှိသည် ။
+# 5/5
 
 9659
 They change the phrases to confuse people.
 သူတို့ သည် လူများ ကို ရှုပ်ထွေးစေရန် စကားစုများ ကို ပြောင်းလဲသည် ။
+# 4/5
 
 9660
 They say it just as they always have.
-သူတို့ သည် သူတို့ အမြဲတမ်း ပြောနေသလိုပဲ ။
+သူတို့ သည် အမြဲတမ်း ပြောနေကြအတိုင်းပဲ ပြောသည် ။
+# 5/5
 
 9661
 they change the words up.
