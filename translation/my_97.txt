@@ -215,7 +215,7 @@ Alice said she wouldn't go.
 9644
 Both Indians and white settlers used the oil from Oil Creek.
 Indian လူမျိုးများ နှင့် လူဖြူ အခြေချနေထိုင်သူများ သည် Oil Creek မှ ဆီ ကို သုံးခဲ့ကြသည် ။
-# ၅/5
+# 5/5
 
 9645
 Nobody ever used the oil from Oil Creek.
@@ -225,7 +225,7 @@ Oil Creek မှ ဆီ ကို မည်သူမျှ မသုံးဖူ
 9646
 The oil was an effective medicine for the white settlers.
 ထို ဆီ သည် လူဖြူ အခြေချနေထိုင်သူများ အတွက် ထိရောက်သော ဆေး တစ်မျိုး ဖြစ်သည် ။
-# ၅/5
+# 5/5
 
 9647
 Some typographical errors are not the result of a hidden unconscious motive by the typesetter.
@@ -259,11 +259,13 @@ You can understand what is being communicated by facial expressions and hand ges
 
 9653
 The birds and bees are mentioned in this Latin poem, but no people are described.
-ငှက်များ နှင့် ပျားများ သည် ဤ လက်တင် ကဗျာ တွင် ဖော်ပြထား ၊ သော်လည်း လူများ ကို ဖော်ပြထားခြင်း မရှိပါ ။
+ငှက်များ နှင့် ပျားများကို ဤ လက်တင်ကဗျာတွင် ဖော်ပြထား သော်လည်း လူတွေ ကို ဖော်ပြထားခြင်း မရှိပါ ။
+# 5/5
 
 9654
 The love story depicted in the Latin poem explains the reason for the distance between the man and the women in the middle of the first sentence.
-လက်တင် ကဗျာ တွင် ဖော်ပြထားသော အချစ် ဇာတ်လမ်း သည် ပထမ ဝါကျ ၏ အလယ် တွင် ယောက်ျား နှင့် မိန်းမ ကြား အကွာအဝေး ဖြစ်ရသည့် အကြောင်းရင်း ကို ရှင်းပြထားသည် ။
+ဤလက်တင်ကဗျာ တွင် ဖော်ပြထားသော အချစ်ဇာတ်လမ်း သည် ပထမ ဝါကျ ၏ အလယ် တွင် ထိုယောက်ျား နှင့် မိန်းမ အကြား ဝေးကွာရသည့် အကြောင်းရင်း ကို ရှင်းပြထားသည် ။
+# 5/5
 
 9655
 This romantic Latin poem references a man and a woman in the first line.
@@ -272,7 +274,7 @@ This romantic Latin poem references a man and a woman in the first line.
 
 9656
 There are a lot of journals about the scientific studies.
-သိပ္ပံ ပညာ နဲ့ ပတ်သက်တဲ့ ဂျာနယ်များ အများကြီး ရှိသည် ။
+သိပ္ပံပညာ နဲ့ ပတ်သက်တဲ့ ဂျာနယ်များ အများကြီး ရှိသည် ။
 # 5/5
 
 9657
