@@ -199,43 +199,53 @@ Vespasian သည် ဧကရာဇ် တစ်ပါး ဖြစ်ခဲ့ 
 
 9641
 Alice agreed with all of it.
-အဲလစ် သည် ဒါတွေ အားလုံး ကို သဘောတူသည် ။
+အဲလစ် သည် ဒါတွေ အားလုံး ကို သဘောတူခဲ့သည် ။
+# 5/5
 
 9642
 Alice said no.
-အဲလစ် က မဟုတ်ဘူး လို့ ပြောသည် ။
+အဲလစ် က မဟုတ်ဘူး လို့ ပြောခဲ့သည် ။
+# 5/5
 
 9643
 Alice said she wouldn't go.
 အဲလစ် က သူမ မသွားဘူးလို့ ပြောခဲ့သည် ။
+# 5/5
 
 9644
 Both Indians and white settlers used the oil from Oil Creek.
-အိန္ဒိယ လူမျိုးများ နှင့် လူဖြူ အခြေချနေထိုင်သူများ သည် ရေနံ ချောင်းငယ် မှ ရေနံ ကို အသုံးပြုခဲ့ကြသည် ။
+Indian လူမျိုးများ နှင့် လူဖြူ အခြေချနေထိုင်သူများ သည် Oil Creek မှ ဆီ ကို သုံးခဲ့ကြသည် ။
+# ၅/5
 
 9645
 Nobody ever used the oil from Oil Creek.
-ရေနံ ချောင်းငယ် မှ ရေနံ ကို မည်သူမျှ မသုံးဖူးပါ ။
+Oil Creek မှ ဆီ ကို မည်သူမျှ မသုံးဖူးပါ ။
+# ၅/5
 
 9646
 The oil was an effective medicine for the white settlers.
-အဆီ သည် လူဖြူ အခြေချနေထိုင်သူများ အတွက် ထိရောက်သော ဆေး တစ်မျိုး ဖြစ်သည် ။
+ထို ဆီ သည် လူဖြူ အခြေချနေထိုင်သူများ အတွက် ထိရောက်သော ဆေး တစ်မျိုး ဖြစ်သည် ။
+# ၅/5
 
 9647
 Some typographical errors are not the result of a hidden unconscious motive by the typesetter.
-အချို့သော စာစီစာရိုက် အမှားများ သည် စာရိုက်သူ ၏ လျှို့ဝှက် မသိစိတ် စေ့ဆော်မှု တစ်ခု ၏ ရလဒ် မဟုတ်ပါ ။
+အချို့သော စာစီစာရိုက် အမှားများ သည် စာရိုက်သူ ၏ ဖုံးကွယ်ထားသော မသိစိတ် စေ့ဆော်မှု တစ်ခု ၏ ရလဒ် မဟုတ်ပါ ။
+# 4/5
 
 9648
 Typesetters and typists never make typographical errors.
 စာရိုက်သူများ နှင့် လက်နှိပ်စာရေးများ သည် စာစီစာရိုက် အမှားများ ကို ဘယ်သောအခါမှ မပြုလုပ်ကြပါ ။
+# 5/5
 
 9649
 Upon further investigation of typographical errors, the unconscious motives of typesetters can be uncovered.
-စာစီစာရိုက် အမှားများ ကို ထပ်မံ စုံစမ်း သောအခါ ၊ စာရိုက်သူများ ၏ မသိစိတ် စေ့ဆော်မှုများ ကို ဖော်ထုတ်နိုင်သည် ။
+စာစီစာရိုက် အမှားများ ကို ထပ်မံ စစ်ဆေး သောအခါ ၊ စာရိုက်သူများ ၏ မသိစိတ်က စေ့ဆော်မှုများ ကို ဖော်ထုတ်နိုင်သည် ။
+# 4/5
 
 9650
 Clear verbal communication is the only way to gain information
-နှုတ် ဖြင့် ရှင်းလင်း ပြောဆိုခြင်း သည် သတင်းအချက်အလက် ရရှိရန် တစ်ခုတည်းသော နည်းလမ်း ဖြစ်သည်
+နှုတ် ဖြင့် ရှင်းရှင်းလင်းလင် ပြောဆိုခြင်း သည် သတင်းအချက်အလက် ရရှိရန် တစ်ခုတည်းသော နည်းလမ်း ဖြစ်သည်
+# 4/5
 
 9651
 Even in a noisy environment, you can learn the most important information by looking at facial expressions, gestures, and contextual signs.
