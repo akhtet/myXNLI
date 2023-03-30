@@ -350,42 +350,52 @@ Broadway တွင် သိုးထိန်း အနည်းငယ် ရ�
 9671
 The Construction Batallion is an independent organization not associated with the armed forces.
 ဆောက်လုပ်ရေး တပ်ရင်း သည် လက်နက်ကိုင် တပ်ဖွဲ့များ နှင့် မသက်ဆိုင်သော သီးခြား အဖွဲ့အစည်း တစ်ခု ဖြစ်သည် ။
+# 5/5
 
 9672
 The Construction Batallion is one of the most important branches of the armed forces.
-ဆောက်လုပ်ရေး တပ်ရင်း သည် လက်နက်ကိုင် တပ်ဖွဲ့များ ၏ အရေးကြီးဆုံးသော ပင်မခွဲများ ထဲမှ တစ်ခု ဖြစ်သည် ။
+ဆောက်လုပ်ရေး တပ်ရင်း သည် လက်နက်ကိုင် တပ်ဖွဲ့များ ၏ အရေးကြီးဆုံးသော ပင်မခွဲ တစ်ခု ဖြစ်သည် ။
+# 5/5
 
 9673
 The abbreviation of the Construction Batallion of the armed forces is C.B.
 လက်နက်ကိုင် တပ်ဖွဲ့များ ၏ ဆောက်လုပ်ရေး တပ်ရင်း ၏ အတိုကောက် မှာ စီ၊ ဘီ ဖြစ်သည် ။
+# 5/5
 
 9674
 Skeat is going to pay attention to the note.
-စကိတ် က မှတ်စု ကို အာရုံစိုက်တော့မည် ဖြစ်သည် ။
+Skeat က ဤမှတ်စု ကို အာရုံစိုက်တော့မည် ဖြစ်သည် ။
+# 5/5
 
 9675
 Skeat isn't going to pay any attention to the note.
-စကိတ် သည် မှတ်စု ကို ဂရုမစိုက်ပါ ။
+Skeat သည် ဤမှတ်စု ကို အာရုံမစိုက်ပါ ။
+5/5
 
 9676
 Skeat will study the note every day.
-စကိတ် က မှတ်စု ကို နေ့တိုင်း လေ့လာလိမ့်မည် ။
+Skeat က ဤမှတ်စု ကို နေ့တိုင်း လေ့လာလိမ့်မည် ။
+5/5
 
 9677
 There are no laws or regulations surrounding trademarks.
-ကုန်အမှတ်တံဆိပ် ပတ်၀န်းကျင် တွင် ဥပဒေ သို့မဟုတ် စည်းမျဉ်းများ မရှိပါ ။
+ကုန်အမှတ်တံဆိပ်များ နှင့်ပတ်သတ်သော ဥပဒေ သို့မဟုတ် စည်းမျဉ်းများ မရှိပါ ။
+5/5
 
 9678
 There are two volumes of laws concerning trademarks.
-ကုန်အမှတ်တံဆိပ် နှင့်ပတ်သက်သော ဥပဒေ နှစ်ခု ရှိသည် ။
+ကုန်အမှတ်တံဆိပ် နှင့်ပတ်သက်သော ဥပဒေတွဲ နှစ်ခု ရှိသည် ။
+5/5
 
 9679
 Trademark law is very complicated and requires frequent references to the two volumes of the Annotated U.S.
-ကုန်အမှတ်တံဆိပ် ဥပဒေ သည် အလွန် ရှုပ်ထွေး ပြီး ယူအက်စ် မှတ်ချက်ပြုခြင်း ၏ အတွဲနှစ်တွဲ ကို မကြာခဏ ကိုးကားရန် လိုအပ်ပါသည် ။
+ကုန်အမှတ်တံဆိပ် ဥပဒေ သည် အလွန် ရှုပ်ထွေး ပြီး Annotated U.S. ၏ အတွဲနှစ်တွဲ ကို မကြာခဏ ကိုးကားရန် လိုအပ်ပါသည် ။
+5/5
 
 9680
 Their written declaration was printed in the newspaper this morning.
-သူတို့ ရေးသားထားသော ကြေငြာချက် ကို ဒီ မနက် သတင်းစာ မှာ ပုံနှိပ်ထားပါသည် ။
+သူတို့၏ ရေးသားထားသော ကြေငြာချက် ကို ဒီ မနက် သတင်းစာ မှာ ပုံနှိပ်ထားပါသည် ။
+5/5
 
 9681
 They would like to voice an opinion, but are prevented from making any declarations at this time.
