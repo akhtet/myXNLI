@@ -17,9 +17,10 @@ en_sentence_file = 'translation/english.txt'
 
 # Create DEV and TEST files from the Originals
 
-# BASIC: 'label', 'sentence1', 'sentence2'
-# STANDARD: 
-OUTPUT_FORMAT = 'BASIC' 
+BASIC_HEADER = ['label', 'sentence1_en', 'sentence2_en', 'sentence1_my', 'sentence2_my']
+GENRE_HEADER = ['label', 'genre', 'sentence1_en', 'sentence2_en', 'sentence1_my', 'sentence2_my']
+
+OUTPUT_FORMAT = 'GENRE' 
 
 
 def build_dict():
@@ -29,6 +30,7 @@ def build_dict():
     """
     my_dict = {}
     file_stats = {}
+    debug_list = [] # Add file name to debug
 
     for fname in os.listdir(trans_dir):
         if not fname.startswith('my_'):
@@ -36,22 +38,43 @@ def build_dict():
 
         print ('Processing', fname)   
         state = 0
+        counter = 0
 
         with open(os.path.join(trans_dir, fname), encoding='utf-8') as infile:            
             for line in infile.readlines():
+                counter += 1
                 line = line.strip()
                 if line.startswith('#'):
                     state = 0
-                elif re.match('\d+', line):     # Found the beginning of next block
+                    if fname in debug_list: print (counter, state, line) 
+                    
+                elif re.match('[0-9]+$', line):     # Found the beginning of next block
                     state = 1
+                    if fname in debug_list: print (counter, state, line)
+
                 elif state == 1:                # Get English Source Sentence
                     en_source = line
                     state = 2
+                    if fname in debug_list: print (counter, state, line)
+
                 elif state == 2:                # Get Burmese Source Sentence
                     if line != '<MYANMAR UNICODE TRANSLATION HERE>':
+                        
+                        # if en_source in my_dict:
+                        #    print (fname, counter, state, line)
+                        #    raise Exception
+                        
                         my_dict[en_source] = line
                         file_stats[fname] = file_stats.get(fname, 0) + 1
+                    else:
+                        raise Exception
+                    state = 3
+                    if fname in debug_list:  print (counter, state)
+
+                else:
                     state = 0
+                    if fname in debug_list:  print (counter, state) 
+#        break
     
     print ('%d entries loaded to the dictionary' % len(my_dict.keys()))
     return my_dict, file_stats
@@ -259,7 +282,9 @@ def write_dataset(my_dict):
             outfile = open(outfn, 'wt', encoding='utf-8')
 
             if OUTPUT_FORMAT == 'BASIC':
-                outfile.write('\t'.join(['label', 'sentence1_en', 'sentence2_en', 'sentence1_my', 'sentence2_my']) + '\n')
+                outfile.write('\t'.join(BASIC_HEADER) + '\n')
+            elif OUTPUT_FORMAT == 'GENRE':
+                outfile.write('\t'.join(GENRE_HEADER) + '\n')
             else:
                 outfile.write(infile.readline())
 
@@ -268,32 +293,45 @@ def write_dataset(my_dict):
                     cols = line.split('\t')
 
                     # Column 7 and 8 are the unparsed English sentences
+                    label = cols[1]
+                    genre = cols[10]
                     sentence1 = cols[6]
                     sentence2 = cols[7]
 
                     if OUTPUT_FORMAT == 'BASIC':
                         out_cols = [
-                                cols[1], # label
-                                sentence1,
-                                sentence2,
-                                my_dict.get(sentence1, sentence1),
-                                my_dict.get(sentence2, sentence2)
-                                ]
+                            label,
+                            sentence1,
+                            sentence2,
+                            my_dict.get(sentence1, sentence1),
+                            my_dict.get(sentence2, sentence2)
+                        ]
 
-                        # Clean characters that will corrput the TSV format
-                        out_cols_clean = []
-                        for col in out_cols:
-                            col = col.replace('\t', '')
-                            col = col.replace('"', '')
-                            out_cols_clean.append(col)
-
-                        outfile.write('\t'.join(out_cols_clean) + '\n')
+                    elif OUTPUT_FORMAT == 'GENRE':
+                        out_cols = [
+                            label,
+                            genre,
+                            sentence1,
+                            sentence2,
+                            my_dict.get(sentence1, sentence1),
+                            my_dict.get(sentence2, sentence2)
+                        ]
 
                     else:
                         cols[0] = 'my' # language code
                         cols[6] = my_dict.get(sentence1, sentence1)
                         cols[7] = my_dict.get(sentence2, sentence2)
-                        outfile.write('\t'.join(cols))
+                        cols[-1] = cols[-1].strip()
+                        out_cols = cols
+
+                    # Clean characters that will corrput the TSV format
+                    out_cols_clean = []
+                    for col in out_cols:
+                        col = col.replace('\t', '')
+                        col = col.replace('"', '')
+                        out_cols_clean.append(col)
+
+                    outfile.write('\t'.join(out_cols_clean) + '\n')
 
             outfile.close()
 
@@ -302,16 +340,19 @@ def write_dataset(my_dict):
 
 if __name__ == '__main__':
 
-    if len(sys.argv) == 1:
+    if len(sys.argv) > 1:
+        # Analyze files only
+        for fname in sys.argv[1:]:
+            blocks, orphans = analyze_file(fname)
+            summarize_errors(blocks, orphans)   
+
+    else:
+        # Build output files
         mydict, stats = build_dict()
         print(stats)
         write_dataset(mydict)
         write_source_sentences(mydict)
-    else:
-
-        for fname in sys.argv[1:]:
-            blocks, orphans = analyze_file(fname)
-            summarize_errors(blocks, orphans)
+        
            
 
         
