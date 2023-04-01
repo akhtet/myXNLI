@@ -18,7 +18,7 @@ en_sentence_file = 'translation/english.txt'
 # Create DEV and TEST files from the Originals
 
 BASIC_HEADER = ['label', 'sentence1_en', 'sentence2_en', 'sentence1_my', 'sentence2_my']
-GENRE_HEADER = ['label', 'genre', 'sentence1_en', 'sentence2_en', 'sentence1_my', 'sentence2_my']
+GENRE_HEADER = ['genre', 'label', 'sentence1_en', 'sentence2_en', 'sentence1_my', 'sentence2_my']
 
 OUTPUT_FORMAT = 'GENRE' 
 
@@ -309,8 +309,8 @@ def write_dataset(my_dict):
 
                     elif OUTPUT_FORMAT == 'GENRE':
                         out_cols = [
-                            label,
                             genre,
+                            label,                         
                             sentence1,
                             sentence2,
                             my_dict.get(sentence1, sentence1),
