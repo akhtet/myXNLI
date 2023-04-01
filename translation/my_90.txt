@@ -1,400 +1,500 @@
 8901
 It's hard for college freshman to keep a diary.
-ကောလိပ် ပထမနှစ် ကျောင်းသားလေးများအတွက် ဒိုင်ယာရီ ရေးမှတ်ရန် ခက်ခဲတယ်။
+ပထမနှစ် ကောလိပ် ကျောင်းသားလေးများအတွက် ဒိုင်ယာရီ ရေးမှတ်ရန် ခက်ခဲတယ်။
+#4/5
 
 8902
 It's hard for college freshmen to write about a campus they don't know well.
-ကောလိပ် ပထမနှစ် ကျောင်းသားလေးများအတွက် သူတို့ကောင်းကောင်းမသိတဲ့ ကျောင်းဝင်းအကြောင်းရေးဖို့ ခက်ခဲတယ်။
+ပထမနှစ် ကောလိပ် ကျောင်းသားလေးများအတွက် သူတို့ကောင်းကောင်းမသိတဲ့ ကျောင်းဝင်းအကြောင်းရေးဖို့ ခက်ခဲတယ်။
+#4/5
 
 8903
 The FAA can say whatever they want.
-အက်ဖ်အေအေ က သူတို့လိုချင်တာမှန်သမျှ ပြောနိုင်တယ်။
+အက်ဖ်အေအေ က သူတို့ပြောချင်တာ ပြောနိုင်တယ်။
+#5/5
 
 8904
 The FAA can't discuss staffing information.
-အက်ဖ်အေအေ က ဝန်ထမ်းအချက်အလက်များကို မဆွေးနွေးနိုင်ဘူး။
+အက်ဖ်အေအေ က ဝန်ထမ်းရေးရာအချက်အလက်များကို မဆွေးနွေးနိုင်ဘူး။
+#5/5
 
 8905
 The FAA can't share some info about what they're doing.
 အက်ဖ်အေအေ က သူတို့ဘာလုပ်နေတဲ့အကြောင်း တချို့အချက်အလက်များကို မမျှဝေနိုင်ဘူး။
+#5/5
 
 8906
 I am quite certain that the residents are strongly against anything that would bring them into the modern world.
 ဒေသခံတွေက သူတို့ကို ခေတ်မီကမ္ဘာထဲကို ပို့ဆောင်ပေးမယ့် ဘယ်အရာကိုမဆို ပြင်းပြင်းထန်ထန် ဆန့်ကျင်မှာ သေချာပါတယ်။
+#5/5
 
 8907
 Secretly the residents of Madrid and Atlanta practice their customs at home.
 မက်ဒရစ် နဲ့ အက်လန်တာ ဒေသခံတွေက သူတို့ရဲ့ ဓလေ့ထုံးတမ်းများကို အိမ်တွင် တိတ်တဆိတ် ကျင့်သုံးကြတယ်။
+#5/5
 
 8908
 Though they may have some remorse over the loss of their customs they tend to like newer changes.
 သူတို့ရဲ့ ဓလေ့ထုံးတမ်းများ ဆုံးရှုံးခြင်းအတွက် နောင်တရမှုအချို့ ရှိနိုင်သော်လည်း သူတို့က အသစ်အသစ်သော အပြောင်းအလဲများကို နှစ်သက်လာကြတယ်။
+#5/5
 
 8909
 He has not seen daylight in years.
 သူ နေ့အလင်းရောင်ကို မမြင်ရသည်မှာ နှစ်အတော်ကြာခဲ့ပြီ။
+#5/5
 
 8910
 Mark Twain cannot stop him.
-မက်ခ်တွင်းန် က သူ့ကို မတားနိုင်ဘူး။
+Mark Twain က သူ့ကို မတားနိုင်ဘူး။
+#5/5
 
 8911
 Mark Twain stands between the daylight and him.
-မက်ခ်တွင်းန် သည် နေ့အလင်းရောင်နှင့် သူ့အကြားတွင် တည်ရှိသည်။
+Mark Twain သည် နေ့အလင်းရောင်နှင့် သူ့အကြားတွင် ရပ်နေသည်။
+#4/5
 
 8912
 Armey is all we are left with
-အာမီ က ငါတို့အားလုံးနဲ့ ကျန်ခဲ့တယ်
+Armey ပဲ ငါတို့အားလုံးနဲ့ ကျန်ခဲ့တယ်
+#5/5
 
 8913
 Armey is no where to be found
-အာမီ ကို ဘယ်မှာမှ ရှာမတွေ့ဘူး
+Armey ကို ဘယ်မှာမှ ရှာတွေ့မှာ မဟုတ်ဘူး
+#5/5
 
 8914
 We are left with Armey
-ကျွန်တော်တို့ အာမီ နဲ့ ကျန်ရစ်ခဲ့တယ်
+ကျွန်တော်တို့ Armey နဲ့ ကျန်ရစ်ခဲ့တယ်
+#5/5
 
 8915
 It would be humane to inform the president.
 သမ္မတကို အသိပေးတာက လူသားဆန်သောစိတ်ရှိတယ်။
+#4/5
 
 8916
 Telling the president would be considered insensitive.
 သမ္မတကို ပြောခြင်းက စာနာစိတ်ကင်းမဲ့တယ် လို့ ယူဆပါလိမ့်မယ်။
+#4/5
 
 8917
 The president will be surprised and upset by this news.
 ဒီသတင်းကြောင့် သမ္မတကြီး အံ့အားသင့်ပြီး စိတ်မကောင်းဖြစ်ရပါလိမ့်မယ်။
+#5/5
 
 8918
 All ivory-tower libertarians would have an emotional reaction to these ideas.
-ဆင်စွယ်မျှော်စင် လွတ်လပ်သော အတွေးအခေါ်သမား အားလုံးသည် ဤယူဆချက်များ အပေါ် စိတ်ပိုင်းဆိုင်ရာ တုံ့ပြန်မှု ရှိကြပေမည်။
+ဆင်စွယ်မျှော်စင် လွတ်လပ်သော အတွေးအခေါ်သမား အားလုံးသည် ဤယူဆချက်များ အပေါ် စိတ်ခံစားမှု့အရ တုံ့ပြန်မှု ရှိကြပေမည်။
+#4/5
 
 8919
 Ivory-tower libertarians would be interested in these issues.
 ဆင်စွယ်မျှော်စင် လွတ်လပ်သော အတွေးအခေါ်သမားများသည် ဤပြဿနာများကို စိတ်ဝင်စားကြလိမ့်မည်။
+#4/5
 
 8920
 These issues would not cause ivory-tower libertarians to think twice about them.
-ဒီပြဿနာများသည် ဆင်စွယ်မျှော်စင် လွတ်လပ်သော အတွေးအခေါ်သမားများကို နှစ်ခါ စဉ်းစားစေမည် မဟုတ်ပါ။
+ဒီပြဿနာများသည် ဆင်စွယ်မျှော်စင် လွတ်လပ်သော အတွေးအခေါ်သမားများကို နှစ်ခါပြန် စဉ်းစားစေမည် မဟုတ်ပါ။
+#4/5
 
 8921
 The candidates are all high tech
 ကိုယ်စားလှယ်လောင်းများဟာ အားလုံး နည်းပညာမြင့်ကြတယ်။
+#4/5
 
 8922
 The tech community is growing.
 နည်းပညာ အသိုင်းအဝန်းက ကြီးထွားလာနေတယ်။
+#4/5
 
 8923
 There has been a lot of effort in the technology side of the platform.
 နည်းပညာနယ်ပယ်ဘက်တွင် အားထုတ်မှုများစွာ ရှိလာခဲ့သည်။
+#5/5
 
 8924
 People didn't respond at all.
 လူတွေက လုံးဝမတုံ့ပြန်ဘူး။
+#5/5
 
 8925
 People who responded didn't read books.
-ဖြေကြားသူများသည် စာအုပ် မဖတ်ကြဘူး။
+တုန့်ပြန်ဖြေကြားသူများသည် စာအုပ် မဖတ်ခဲ့ကြဘူး။
+#5/5
 
 8926
 People who responded talked about their favorite authors.
-ဖြေကြားသူတွေက သူတို့အကြိုက်ဆုံး စာရေးဆရာတွေအကြောင်း ပြောကြတယ်။
+တုန့်ပြန်ဖြေကြားသူတွေက သူတို့အကြိုက်ဆုံး စာရေးဆရာတွေအကြောင်း ပြောခဲ့ကြတယ်။
+#5/5
 
 8927
 1mg at night is a better dosage.
-၁ မီလီဂရမ်က ညဘက်မှာ ပိုမိုကောင်းမွန်သော ဆေးညွှန်းဖြစ်တယ်။
+၁ မီလီဂရမ် ညဘက်က ပိုမိုကောင်းမွန်သော ဆေးညွှန်းဖြစ်တယ်။
+#4/5
 
 8928
 3 mg is too much to take at night.
 ၃ မီလီဂရမ်က ညဘက် သောက်ဖို့ အရမ်းများတယ်။
+#5/5
 
 8929
 The doc should prescribe 10 milligrams at night.
 ဆရာဝန်က ညဘက်မှာ ၁၀ မီလီဂရမ် ပေးသင့်တယ်။
+#5/5
 
 8930
 Prudie says you should take this very seriously.
 မင်း ဒါကို အလေးအနက်ထားသင့်တယ်လို့ ပရူဒီ က ပြောပါတယ်။
+#5/5
 
 8931
 Prudie thinks life is better when you laugh at everything.
 အရာရာကို ရယ်မောလိုက်တဲ့အခါ ဘဝက ပိုကောင်းလာတယ်လို့ ပရူဒီ က ထင်ပါတယ်။
+#5/5
 
 8932
 Prudie wants you to laugh.
 ပရူဒီ က မင်းကို ရယ်မောစေချင်တာ။
+#5/5
 
 8933
 Linux is a better operating system.
 လင်းနစ်စ် သည် ပိုမိုကောင်းမွန်သော အော်ပရေးတင်း စစ်စတမ် တစ်ခုဖြစ်သည်။
+#4/5
 
 8934
 Should you change your operating system to Linux?
 မင်းရဲ့ အော်ပရေးတင်း စစ်စတမ် ကို လင်းနစ်စ် သို့ ပြောင်းသင့်ပါသလား။
+#4/5
 
 8935
 Should you keep using Linux?
 လင်းနစ်စ် ကို ဆက်သုံးသင့်ပါသလား။
+#5/5
 
 8936
 Bradley drank alcohol.
 ဘရက်ဒ်လီ က အရက်သောက်ခဲ့တယ်။
+#5/5
 
 8937
 Bradley opposed a subsidy.
-ဘရက်ဒ်လီ က ထောက်ပံ့ငွေကို ကန့်ကွက်ခဲ့တယ်။
+ဘရက်ဒ်လီ က ထောက်ပံ့ကြေးပံ့ပိုးမှု့ ကို ကန့်ကွက်ခဲ့တယ်။
+#4/5
 
 8938
 Bradley supported a subsidy.
-ဘရက်ဒ်လီ က ထောက်ပံ့ကြေးကို ပံ့ပိုးခဲ့သည်။
+ဘရက်ဒ်လီ က ထောက်ပံ့ကြေးပံ့ပိုးမှု့ ကို  ထောက်ခံခဲ့သည်။
+#4/5
 
 8939
 Life on earth emerged only once.
-ကမ္ဘာပေါ်ရှိ သက်ရှိများက တစ်ကြိမ်သာ ပေါ်ပေါက်ခဲ့တယ်။
+ကမ္ဘာပေါ်တွင် သက်ရှိများက တစ်ကြိမ်သာ ပေါ်ပေါက်ခဲ့တယ်။
+#4/5
 
 8940
 Life on earth may have emerged more than once.
-ကမ္ဘာပေါ်ရှိ သက်ရှိများက တစ်ကြိမ်ထက်မက ပေါ်ပေါက်လာနိုင်တယ်။
+ကမ္ဘာပေါ်တွင် သက်ရှိများက တစ်ကြိမ်ထက်မက ပေါ်ပေါက်လာနိုင်တယ်။
+#4/5
 
 8941
 Life on earth never emerged.
-ကမ္ဘာပေါ်ရှိ သက်ရှိများ ဘယ်တော့မှ ပေါ်ထွက်မလာပါ။
+ကမ္ဘာပေါ်တွင် သက်ရှိများ ဘယ်တော့မှ ပေါ်ထွက်မလာခဲ့ပါ။
+#4/5
 
 8942
 I was 12 when I went to see the living nativity.
 ကျွန်တော် အသက် ၁၂ နှစ်မှာ ရှင်သန်သော ခရစ်တော်ဖွားမြင်တော်မူခန်း ကို သွားရောက်ကြည့်ရှုခဲ့တယ်။
+#5/5
 
 8943
-I wente to the christmas pagent to see the living nativity.
+I went to the christmas pagent to see the living nativity.
 ရှင်သန်သော ခရစ်တော်ဖွားမြင်တော်မူခန်း ကို ကြည့်ဖို့ ခရစ္စမတ်ပွဲကို သွားခဲ့တယ်။
+#5/5
 
 8944
 I've never been to Radio City Music Hall.
 ရေဒီယိုမြို့တော် ဂီတခန်းမ ကို တစ်ခါမှ မရောက်ဖူးဘူး။
+#5/5
 
 8945
 Everyone should have Laibson-style preferences.
 လူတိုင်းက လေ့ဘ်ဆန် စတိုင်လ် လိုလားမှု ရှိသင့်တယ်။
+#4/5
 
 8946
 I don't know why humans would have Laibson style preferences.
 ဘာကြောင့် လူသားများက လေ့ဘ်ဆန် စတိုင်လ်ကို နှစ်သက်ကြမည်ကို ကျွန်ုပ်မသိပါ။
+#4/5
 
 8947
 Laibson style preferences are the norm.
 လေ့ဘ်ဆန် စတိုင်လ် လိုလားမှု သည် စံသတ်မှတ်ချက် ဖြစ်သည်။
+#4/5
 
 8948
 Clinton's administration supports freedom on the web.
 ကလင်တန် ၏ အစိုးရသည် ဝက်ဘ်ပေါ်ရှိ လွတ်လပ်မှုကို ထောက်ခံသည်။
+#5/5
 
 8949
 The Clinton administration does not support lowering taxes.
 ကလင်တန် အစိုးရသည် အခွန်လျှော့ချခြင်းကို မထောက်ခံပေ။
+#4/5
 
 8950
 The Clinton administration has no opinion on Internet regulation.
-ကလင်တန် အစိုးရသည် အင်တာနက် စည်းမျဥ်းစည်းကမ်းနှင့် ပတ်သက်၍ ရွေးချယ်ပိုင်ခွင့် မရှိပေ။
+ကလင်တန် အစိုးရသည် အင်တာနက် စည်းမျဥ်းစည်းကမ်းနှင့် ပတ်သက်၍ ပြောဆိုစရာထင်မြင်ယူဆချက် မရှိပါ။
+#4/5
 
 8951
 Everybody should irradiate their food because it is dangerous to eat any kind of food otherwise.
 အခြားမည်သည့်အစားအစာကိုမဆို စားမိပါက အန္တရာယ်ရှိသောကြောင့် လူတိုင်း မိမိတို့၏အစားအစာများကို ဓာတ်ရောင်ခြည်တစ်ခုခု ပေးသင့်တယ်။
+#4/5
 
 8952
 Irradiating food is extremely expensive and not all that useful.
 ဓာတ်ရောင်ခြည်ပေးသည့် အစားအစာသည် အလွန်ဈေးကြီးပြီး အလုံးစုံ အသုံးမဝင်ပါ။
+#5/5
 
 8953
 Irradiating food seems useful.
-ဓာတ်ရောင်ခြည်ပေးသည့် အစားအစာသည် အသုံးဝင်ပုံရသည်။
+ဓာတ်ရောင်ခြည်ပေးသည့် အစားအစာသည် အသုံးကျပုံရသည်။
+#5/5
 
 8954
 Canny skepticism and dumbbell skepticism are not exactly the same.
 ထက်မြက်သော ယုံကြည်မှုကင်းခြင်း နှင့် မိုက်မဲသော ယုံကြည်မှုကင်းခြင်းဟာ အတိအကျ မတူပါဘူး။
+#4/5
 
 8955
 Canny skepticism and dumbbell skepticism are one in the same.
 ထက်မြက်သော ယုံကြည်မှုကင်းခြင်း နှင့် မိုက်မဲသော ယုံကြည်မှုကင်းခြင်းတို့သည် အတူတူပင် ဖြစ်သည်။
+#4/5
 
 8956
 Canny skepticism is more common than dumbbell skepticism.
 ထက်မြက်သော ယုံကြည်မှုကင်းခြင်း သည် မိုက်မဲသော သံသယစိတ် ထက် ပို၍ အဖြစ်များသည်။
+#4/5
 
 8957
 Bugsy Siegel and Kid Twist are a part of our history and that means we're tough.
 ဘက်ဂ်ဇီ ဆီးဂဲလ် နှင့် ကစ်ဒ် တွစ်စ် တို့က ကျွန်ုပ်တို့သမိုင်းရဲ့ အစိတ်အပိုင်းတစ်ခုဖြစ်ပြီး ဆိုလိုတာက ကျွန်ုပ်တို့က လူရမ်းကား ဖြစ်တယ်။
+#4/5
 
 8958
 Just because Bugsy Siegel and Kid Twist are a part of our history doesn't mean we're automatically tough.
 ဘက်ဂ်ဇီ ဆီးဂဲလ် နဲ့ ကစ်ဒ် တွစ်စ် တို့က ကျွန်ုပ်တို့သမိုင်းရဲ့ အစိတ်အပိုင်း တစ်ခု ဖြစ်တာကြောင့် ကျွန်ုပ်တို့က အလိုအလျောက် လူမိုက်ဖြစ်တယ်လို့ မဆိုလိုပါ။
+#4/5
 
 8959
 The presence of these rappers in our history doesn't guarantee we are tough.
 ကျွန်ုပ်တို့သမိုင်းမှာ ဒီလို ရက်ပ်ပါများရှိနေခြင်းဟာ ကျွန်ုပ်တို့အတွက် ခက်ခဲသည်ဟု အာမမခံနိုင်ပါ။
+#3/5
 
 8960
 The Smithsonian is not digitized in any way.
 စမစ်သ်ဆိုနီယန် သည် မည်သည့်နည်းဖြင့်မျှ ဒစ်ဂျစ်တယ်ပုံစံမဟုတ်ပေ။
+#4/5
 
 8961
 The Smithsonian is represented on the Internet.
-စမစ်သ်ဆိုနီယန် ကို အင်တာနက် ပေါ်မှာ ကိုယ်စားပြုသည်။
+စမစ်သ်ဆိုနီယန် ကို အင်တာနက် ပေါ်မှာ ပြသထားသည်။
+#4/5
 
 8962
 The Smithsonian's webpage was created in 2001.
 စမစ်သ်ဆိုနီယန် ၏ ဝက်ဘ် စာမျက်နှာကို ၂၀၀၁ ခုနှစ်တွင် ဖန်တီးခဲ့သည်။
+#4/5
 
 8963
 Glass is a painter.
 ဂလက်စ် သည် ပန်းချီဆရာတစ်ယောက် ဖြစ်သည်။
+#5/5
 
 8964
 Glass is a writer for the Times.
 ဂလက်စ် သည် တိုင်းမ်စ် အတွက် စာရေးဆရာ တစ်ယောက် ဖြစ်သည်။
+#5/5
 
 8965
 Glass is a writer.
 ဂလက်စ် သည် စာရေးဆရာတစ်ယောက် ဖြစ်သည်။
+#5/5
 
 8966
 Keyes didn't answer the question.
-ကီးစ် က မေးခွန်းကို မဖြေပါ။
+ကီးစ် က မေးခွန်းကို မဖြေခဲ့ပါ။
+#5/5
 
 8967
 Keyes gave more information than other people.
 ကီးစ် က တခြားသူတွေထက် အချက်အလက် ပိုပေးခဲ့တယ်။
+#4/5
 
 8968
 Keyes stuffed the question even though other people had answered it.
 ကီးစ် က တခြားသူတွေ ဖြေခဲ့ပေမယ့် မေးခွန်းကို တင်းကျပ်ခဲ့ပါတယ်။
+#4/5
 
 8969
 For those people I am afraid for I hope they have good fortune.
 ငါ စိုးရိမ်နေတဲ့ လူတွေအတွက် သူတို့ ကံကောင်းမယ်လို့ ငါမျှော်လင့်ပါတယ်။
+#4/5
 
 8970
 I am afraid for some people because of the current climate.
-အခုလက်ရှိ ရာသီဥတုကြောင့် လူတချို့ကို စိုးရိမ်တယ်။
+အခုလက်ရှိ ရာသီဥတုကြောင့် လူတချို့အတွက် စိုးရိမ်တယ်။
+#5/5
 
 8971
 I am not afraid for anyone.
 ငါ ဘယ်သူ့ကိုမှ မကြောက်ဘူး။
+#5/5
 
 8972
 3-year olds are often on talk-shows.
-၃ နှစ်သားလေးများ မကြာခဏ ဟောပြောပွဲများ ပြုလုပ်လေ့ရှိသည်။
+၃ နှစ်သားလေးများ မကြာခဏ ဟောပြောပွဲများ တွင်တွေ့ရလေ့ရှိသည်။
+#5/5
 
 8973
 Talk-show guests don't know how to avoid answering questions.
-ဟောပြောပွဲ ဧည့်သည်များက မေးခွန်းများ ဖြေဆိုခြင်းကို ဘယ်လို ရှောင်ရှားရမည်ကို မသိပါ။
+ဟောပြောပွဲ တက်ရောက်သူများက မေးခွန်းများ ဖြေဆိုခြင်းကို ဘယ်လို ရှောင်ရှားရမည်ကို မသိပါ။
+#5/5
 
 8974
 Talk-show guests know how to not answer questions.
-ဟောပြောပွဲ ဧည့်သည်များက မေးခွန်းများကို ဘယ်လိုမဖြေရဘူးဆိုတာ သိတယ်။
+ဟောပြောပွဲ တက်ရောက်သူများက မေးခွန်းများကို ဘယ်လိုမဖြေရဘူးဆိုတာ သိတယ်။
+#4/5
 
 8975
 It is obvious John Horgan never read the book, Climbing Mount Impossible (The Mystery of Life).
 ဂျွန်ဟော်ဂန် က မဖြစ်နိုင်သော တောင်ကို တက်ခြင်း (ဘဝ၏ နက်နဲသော အရာ) စာအုပ်ကို တစ်ခါမျှ မဖတ်ဖူးတာ ထင်ရှားပါတယ်။
+#5/5
 
 8976
 John Horgan gave a glowing, five star review of Richard Dawkins' book.
 ဂျွန်ဟော်ဂန် က ရစ်ချက် ဒေါ့ကင် ရဲ့ စာအုပ်ကို ခမ်းခမ်းနားနား ကြယ်ငါးပွင့် သုံးသပ်ချက် ပေးခဲ့သည်။
+#5/5
 
 8977
 Richard Dawkins wrote a book called Climbing Mount Impossible (The Mystery of Life).
 ရစ်ချက် ဒေါ့ကင် က မဖြစ်နိုင်သော တောင်ကို တက်ခြင်း (ဘဝ၏ နက်နဲသော အရာ) စာအုပ်ကို ရေးသားခဲ့တယ်။
+#5/5
 
 8978
 It is very common for filmmakers to learn on the job.
-ရုပ်ရှင်ရိုက်ကူးရေးသမားများအတွက် အလုပ်မှ သင်ယူရန်မှာ ဖြစ်နေကျ ဖြစ်သည်။
+ရုပ်ရှင်ရိုက်ကူးရေးသမားများအတွက် အလုပ်လုပ်ရင်း သင်ယူခြင်းမှာ ဖြစ်နေကြ ဖြစ်သည်။
+#5/5
 
 8979
 Rob Soderbergh is an award winning filmmaker.
 ရော့ဘ် ဆိုဒါဘက်ဂ် သည် ဆုရ ရုပ်ရှင်ဒါရိုက်တာ တစ်ဦး ဖြစ်သည်။
+#5/5
 
 8980
 Soderbergh is a filmmaker with the skill of learning on the job.
-ဆိုဒါဘက်ဂ် က အလုပ်မှ သင်ယူတတ်မြောက်ထားတဲ့ ရုပ်ရှင်ရိုက်ကူးရေးသမား တစ်ဦး ဖြစ်တယ်။
+ဆိုဒါဘက်ဂ် က အလုပ်လုပ်ရင်း သင်ယူတတ်မြောက်ထားတဲ့ ရုပ်ရှင်ရိုက်ကူးရေးသမား တစ်ဦး ဖြစ်တယ်။
+#5/5
 
 8981
 Clarke has worries about how we will respond to the recent violence.
 မကြာသေးမီက အကြမ်းဖက်မှုများကို ကျွန်ုပ်တို့ မည်သို့တုံ့ပြန်မည်ကို ကလက်ခ် က စိုးရိမ်ပူပန်လျက်ရှိတယ်။
+#4/5
 
 8982
 Clarke has worries about our foreign policy.
-ကလက်ခ် က ကျွန်ုပ်တို့ရဲ့ နိုင်ငံခြားရေးမူဝါဒနှင့် ပတ်သက်ပြီး စိုးရိမ်ပူပန်နေပါတယ်။
+ကလက်ခ် က ကျွန်ုပ်တို့ရဲ့ နိုင်ငံခြားရေးမူဝါဒနှင့် ပတ်သက်ပြီး စိုးရိမ်ပူပန်မှု့များရှိသည်။
+#4/5
 
 8983
 Clarke knows everything will be fine.
 ကလက်ခ် က အရာအားလုံး အဆင်ပြေသွားမယ်ဆိုတာ သိတယ်။
+#5/5
 
 8984
 The Times said Bush had lied previously.
 ဘုရှ်က ယခင်က လိမ်ညာခဲ့ကြောင်း တိုင်းမ်စ် က ပြောကြားခဲ့တယ်။
+#5/5
 
 8985
 The Times said Bush needed to show honesty.
 ဘုရှ် က ရိုးသားမှုကို ပြသရန် လိုအပ်ကြောင်း တိုင်းမ်စ် က ပြောကြားခဲ့တယ်။
+#5/5
 
 8986
 The Times said Bush should just lie to everone.
-ဘုရှ် က လူတိုင်းကို လိမ်ညာသင့်တယ်လို့ တိုင်းမ်စ် က ဆိုပါတယ်။
+ဘုရှ် က လူတိုင်းကို လိမ်ညာသင့်တယ်လို့ တိုင်းမ်စ် က ဆိုခဲ့ပါတယ်။
+#5/5
+
 
 8987
 Bruce apologizes very often.
 ဘရုစ်က မကြာခဏ တောင်းပန်တယ်။
+#5/5
 
 8988
 Bruce apologizes.
 ဘရုစ်က တောင်းပန်တယ်။
+#5/5
 
 8989
 Bruce never apologizes.
 ဘရုစ်က ဘယ်တော့မှ မတောင်းပန်ဘူး။
+#5/5
 
 8990
 Parents are not involved with politics.
 မိဘတွေက နိုင်ငံရေးနဲ့ မပတ်သက်ဘူး။
+#5/5
 
 8991
 Parents are political activists.
 မိဘများက နိုင်ငံရေးတက်ကြွလှုပ်ရှားသူများဖြစ်တယ်။
+#5/5
 
 8992
 Parents support Republicans.
-မိဘများက သမ္မတစနစ် လိုလားသူများကို ထောက်ခံတယ်။
+မိဘများက ရီပါပလစ်ကန်များ ကို ထောက်ခံတယ်။
+#5/5
 
 8993
 Bush doesn't agree with the way his party paints a picture.
-ဘုရှ် က သူ့ပါတီ ပုံတစ်ပုံ ပန်းချီဆွဲပုံ နည်းလမ်းကို သဘောမတူဘူး။
+ဘုရှ် က သူ့ပါတီ ရဲ့ ဖော်ညွှန်းပုံ ပုံစံကို သဘောမကျဘူး။
+#4/5
 
 8994
 Bush warned on a weekday that his party often painted an image on social issues.
-သူ့ပါတီက လူမှုရေးကိစ္စတွေမှာ ပုံတစ်ပုံကို မကြာခဏ ပန်းချီဆွဲတယ်လို့ ကြားရက်တစ်နေ့မှာ ဘုရှ်က သတိပေးခဲ့ပါတယ်။
+သူ့ပါတီက လူမှု့ ရေးကိစ္စတွေ အပေါ်  ပုံဖော်တာနဲ့ပတ်သက်ပြီး ကြားရက်တစ်နေ့မှာ ဘုရှ်က သတိပေးခဲ့ပါတယ်။
+#4/5
 
 8995
 On Thursday Bush complimented his party on painting a picture of America heading towards sunshine.
-ဘုရှ် က နေရောင်ခြည်ဆီသို့ ဦးတည်သွားနေတဲ့ အမေရိကရဲ့ ပုံကို ပန်းချီဆွဲကာ ၎င်း၏ပါတီကို ကြာသပတေးနေ့က ချီးကျူးခဲ့တယ်။
+ဘုရှ် က တောက်ပတဲ့ အနာဂတ်ဆီကိုသွားနေတဲ့ အမေရိက အကြောင်း ပုံဖော်တဲ့ ၎င်း၏ပါတီကို ကြာသပတေးနေ့က ချီးကျူးခဲ့တယ်။
+#4/5
 
 8996
 The man moved from Germany after he was born.
 သူ မွေးပြီးနောက် ဒီလူက ဂျာမနီမှ ပြောင်းရွှေ့လာခဲ့တယ်။
+#4/5
 
 8997
 The rich, schooled, traveled man was born in Germany.
 ချမ်းသာပြီး ၊ ပညာတတ်၊ ခရီးသွားလာသူ က ဂျာမနီမှာ မွေးဖွားခဲ့ပါတယ်။
+#4/5
 
 8998
 This man was born in Arkansas and was poor, uneducated and never traveled.
 ဒီလူက အာကန်ဆောစ် မှာမွေးဖွားခဲ့ပါတယ်၊ သူက ဆင်းရဲနွမ်းပါးပြီး ပညာမတတ်ဘဲ ဘယ်တုန်းကမှ ခရီးမသွားဖူးပါဘူး။
+#5/5
 
 8999
 Brock does not defend Hillary.
 ဘရော့ခ် က ဟီလာရီကို မကာကွယ်ပါဘူး။
+#5/5
 
 9000
 Some people believe it is false that Brock defends Hillary to elevate himself.
-သူ့ကိုယ်သူ စိတ်ဓာတ်ရေးရာ မြှင့်တင်ဖို့ ဘရော့ခ် က ဟီလာရီကို အကာအကွယ်ပေးတယ် ဆိုတာ မှားတယ်လို့ လူတချို့က ယူဆကြပါတယ်။
-
+သူ့ကိုယ်သူ တင်ဖို့ ဘရော့ခ် က ဟီလာရီကို အကာအကွယ်ပေးတာ မဟုတ်ဘူးလို့ လူတချို့က ယူဆကြပါတယ်။
+#4/5
