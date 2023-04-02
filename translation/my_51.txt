@@ -420,16 +420,13 @@ Blood is a man.
 
 5085
 The seal remained unbroken.
-အဆိုပါ ပင်လယ်ဖျံသည် မကျိုးမပဲ့ ဘဲ ကျန်ရစ်ခဲ့သည်။
-#0/5
 ချိတ်တံဆိပ်သည် မကျိုးမပဲ့ပဲရှိနေသည်။
+#4/5
 
 5086
 The seal was broken.
-အဆိုပါ ပင်လယ်ဖျံသည် ကျိုးပဲ့သွားခဲ့တယ်။
-#0/5 wtf?
 ထိုချိတ်တံဆိပ်သည် ဖွင့်ထားပီးဖြစ်သည်။
-
+#4/5
 
 5087
 Miss Bishop was alone in the garden.
@@ -439,6 +436,7 @@ Miss Bishop was alone in the garden.
 5088
 Miss Bishop went to the garden in order to contemplate her life.
 မစ် ဘစ်လျှော့ သည် သူမ ၏ ဘဝအကြောင်း သုံးသပ်ဆင်ခြင် ဖို့ရန် ပန်းခြံသို့ သွားခဲ့သည်။
+#5/5
 
 5089
 There was absolutely no one at the garden whatsoever.
@@ -448,22 +446,27 @@ There was absolutely no one at the garden whatsoever.
 5090
 His lordship spoke sharply.
 သခင်ကြီးက ပြတ်ပြတ်သားသား ပြောခဲ့တယ်။
+#4/5
 
 5091
 His lordship was a mute.
 သခင်ကြီးသည် ဆွံ့အသူ တစ်ယောက် ဖြစ်ခဲ့တယ်။
+#3/5
 
 5092
 His lordship was angry because I had neglected my duties.
 ကျွန်တော် က ကျွန်တော့် တာဝန်ကို လျစ်လျူရှူ့ခဲ့သောကြောင့်  သခင်ကြီးက ဒေါသထွက်ခဲ့တယ်။
+#5/5
 
 5093
 He did not understand the threat that laid before him.
 သူ အရှေ့မှာ ရှိခဲ့တဲ့ ခြိမ်းခြောက်မှု ကို သူ နားမလည်ခဲ့ဘူး။
+#5/5
 
 5094
 He understood very clearly, the threat that was before him.
 အဆိုပါ ခြိမ်းခြောက်မှုသည် သူ့ရှေ့တွင်ရှိနေသည် ဆိုတာကို ၊ သူ ရှင်းရှင်းလင်းလင်း သဘောပေါက်ခဲ့သည်။
+#4/5
 
 5095
 The threat was vague because the area was covered in fog.
