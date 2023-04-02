@@ -1,86 +1,107 @@
 5101
 There is a way that is safe and easy.
 ဘေးကင်း ပြီး လွယ်ကူတဲ့ နည်းလမ်း တစ်ခု ရှိပါတယ်။
+#5/5
 
 5102
 She quickly fled the scene in order to avoid further scrutiny.
 သူမသည် နောက်ထပ် စစ်ဆေးမှုကို ရှောင်ရှား ရန် အတွက် အခင်းဖြစ်ပွားရာနေရာ မှ အမြန် ထွက်ပြေးခဲ့သည်။
+#5/5
 
 5103
 The fact that she was here after the fight with Wolverstone was considered an embarrassment.
-သူမ က ဝူဗာစတုန်း နဲ့ တိုက်ခိုက် ပြီးနောက် ဒီနေရာမှာ ရှိနေခဲ့တယ် ဆိုတဲ့ အချက်က အရှက်ရစရာ တစ်ခု ဟု ယူဆခဲ့ပါတယ်။
+သူမ က ဝူဗာစတုန်း နဲ့ ရန်ဖြစ် ပြီးနောက် ဒီနေရာမှာ ရှိနေခဲ့တယ် ဆိုတဲ့ အချက်က အရှက်ရစရာ တစ်ခု ဟု ယူဆခဲ့ပါတယ်။
+#5/5
 
 5104
 Wolverstone never got into a dispute with her.
 ဝူဗာစတုန်းဟာ သူမနဲ့ ဘယ်တုန်းကမှ အငြင်းပွားမှု တစ်ခု မဖြစ်ခဲ့ပါဘူး။
+#5/5
 
 5105
 It had completely halted the gunner's intent to do anything.
-သေနတ်သမား၏ တစ်ခုခု ပြုလုပ်ရန် ရည်ရွယ်ချက်ကို လုံးဝ ရပ်တန့်စေခဲ့သည်။
+သေနတ်သမား၏ တစ်ခုခု ပြုလုပ်ရန် ရည်ရွယ်ချက်ကို အဲတာက လုံးဝ ရပ်တန့်စေခဲ့သည်။
+#4/5
 
 5106
 The gunner had an intent to do something.
 သေနတ်သမားသည် တစ်ခုခု လုပ် ရန် ရည်ရွယ်ချက် တစ်ခု ရှိခဲ့တယ်။
+#5/5
 
 5107
 The gunner had intended to fire his weapon.
 သေနတ်သမားသည် သူ၏ လက်နက်ကို ပစ်ခတ်ရန် ကြံရွယ်ခဲ့သည်။
+#4/5
 
 5108
 As he tried to think, Blood remained indecisive.
 သူက တွေးတောရန် ကြိုးစားသလို ၊ ဘလတ်က အဆုံးအဖြတ်မပေးပဲ ကျန်နေသည်။
+#3/5
 
 5109
 Blood had decided that he wanted eggs for breakfast.
 မနက်စာအတွက် သူက ကြက်ဥ ကို အလိုရှိခဲ့တယ်လို့ ဘလတ်က ဆုံးဖြတ်ခဲ့တယ်။
+#4/5
 
 5110
 Blood had quickly come to a conclusion about his situation.
 ဘလတ်က သူ၏ အခြေအနေ နဲ့ပတ်သက်ပြီး ကောက်ချက် တစ်ခုကို မြန်မြန် ချလိုက်တယ်။
+#5/5
 
 5111
 I haven't spoken to his lordship in ages.
-ငါ သူ့သခင်ကို အတော်ကြာကြာ စကားမပြောခဲ့ဖူး။
+ငါ သခင်ကြီးကို အတော်ကြာကြာ စကားမပြောခဲ့ဖူး။
+#4/5
 
 5112
 I spoke to his lordship just now.
-ငါ အခုလေးတင် သူ့သခင်နဲ့ စကားပြောခဲ့တယ်။
+ငါ အခုလေးတင် သခင်ကြီးနဲ့စကားပြောခဲ့တယ်။
+#5/5
 
 5113
 I was in love with Miss Bishop as well.
-မစ် ဘစ်လျှော့ ကို လည်း ငါ ကောင်းကောင်း ချစ်ခဲ့ပါတယ်။
+မစ် ဘစ်လျှော့ ကို ငါလည်း ချစ်ခဲ့ပါတယ်။
+#5/5
 
 5114
 Lord Julian dressed hurriedly in his cabin.
 သခင် ဂျူလီယန် က သူ၏ သင်္ဘောပေါ်ကအခန်းငယ်ထဲ မှာ ကမန်းကတန်း ဝတ်ဆင်ခဲ့သည်။
+#4/5
 
 5115
 Lord Julian put on a clown suit in his cabin.
 သခင် ဂျူလီယန် က သူ၏ သင်္ဘောပေါ်ကအခန်းငယ်ထဲ မှာ လူရွှင်တော် ဝတ်စုံ တစ်စုံ ကို ဝတ်ဆင်ခဲ့သည်။
+#5/5
 
 5116
 Lord Julian stayed naked in bed in his cabin.
 သခင် ဂျူလီယန် က သူ၏ သင်္ဘောပေါ်ကအခန်းငယ်ထဲရှိ အိပ်ရာပေါ်တွင် အဝတ်ဗလာ နေခဲ့သည်။
+#5/5
 
 5117
 He had suddenly asked a question as to who you may be.
 သင် ဘယ်သူ ဖြစ်နိုင်လဲဆိုတဲ့ မေးခွန်း တစ်ခု ကို သူက ရုတ်တရက် မေးခဲ့ပါတယ်။
+#5/5
 
 5118
 He quietly murmured to himself the whole time.
 သူက တစ်ချိန်လုံး သူ့ကိုယ်သူ တိတ်တိတ်လေး ညည်းညူနေတယ်။
+#5/5
 
 5119
 The person was actually the devil himself.
 အဲဒီလူဟာ အမှန်တော့ သူ့ဟာသူ နတ်ဆိုး ဖြစ်နေခဲ့တာ။
+#5/5
 
 5120
 As the lordship, he showed no mercy to his subjects.
-အကြီးအကဲအနေဖြင့် ၊ သူက သူ၏ အကြောင်းအရာများကို ညှာတာမှု မပြခဲ့ဘူး။
+အကြီးအကဲအနေဖြင့် ၊ သူက သူ၏ လက်အောက်ငယ်သားများကို ညှာတာမှု မပြခဲ့ဘူး။
+#5/5
 
 5121
 His lordship spoke calmly to all giving the impression of a warm and gentle person.
 နွေးထွေး ပြီး နူးညံ့တဲ့ လူ တစ်ယောက် ၏ အထင်ကြီးမှုကို အားလုံး ပေးပြီး သူ၏ သခင် က အေးအေးဆေးဆေး ပြောခဲ့သည်။
+
 
 5122
 The Lord's voice felt both distant and chilling
