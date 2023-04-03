@@ -1,82 +1,102 @@
 7901
 Only one person worked on the costume.
 ဝတ်စုံကို ဖန်တီးသူ တစ်ဦးတည်းသာ ရှိသည်။
+#5/5
 
 7902
 The people who helped make the costume are all women.
 ဝတ်စုံဖန်တီးရာတွင် ကူညီပေးသူများမှာ အမျိုးသမီးများအားလုံးဖြစ်သည်။
+#4/5
 
 7903
 Three people contributed to the costume's making.
 ဝတ်စုံဖန်တီးမှုတွင် လူသုံးဦး ပါဝင်ခဲ့သည်။
+#5/5
 
 7904
 Making a charitable contribution will benefit you directly.
 အလှူဒါနပြုခြင်းသည် သင့်အား တိုက်ရိုက်အကျိုးရှိစေမည်ဖြစ်သည်။
+#5/5
 
 7905
 The code is not readable.
 ကုဒ်ကို ဖတ်၍မရပါ။
+#5/5
 
 7906
 There is some advantage to making a charitable contribution.
 အလှူဒါနပြုခြင်းအတွက် အကျိုးကျေးဇူးအချို့ရှိပါသည်။
+#5/5
 
 7907
 Law schools don't care about the caliber of students, they just want money.
 ဥပဒေကျောင်းများသည် ကျောင်းသားများ၏ အရည်အချင်းကို ဂရုမစိုက်ဘဲ ၊ ငွေကိုသာ လိုချင်ကြသည်။
+#5/5
 
 7908
 Law schools want students with GPAs over 3.9.
 ဥပဒေကျောင်းများသည် ဂျီပီအေ ၃ဒသမ၉ အထက်ရှိသော ကျောင်းသားများကို အလိုရှိသည်။
+#5/5
 
 7909
 Law schools want the best students.
 ဥပဒေကျောင်းတွေက အကောင်းဆုံး ကျောင်းသားတွေကို လိုချင်တယ်။
+#5/5
 
 7910
 The educators all have Master's Degrees.
 သင်ကြားရေးဆရာတိုင်းတွင် မဟာဘွဲ့များ ရှိသည်။
+#5/5
 
 7911
 The educators have graduated from some coursework.
 သင်ကြားရေးဆရာများသည် စာသင်နှစ်များမှ ဘွဲ့ရရှိကြသည်။
+#4/5
 
 7912
 The educators never got past a high school education.
 သင်ကြားရေးဆရာများသည် အထက်တန်းပညာရေးကို ဘယ်တော့မှ မကျော်ခဲ့ကြဘူး။
+#3/5
 
 7913
 Creating the homes was completely free of charge.
 အိမ်များဖန်တီးခြင်းသည် လုံးဝအခမဲ့ဖြစ်သည်။
+#3/5
 
 7914
 The homes required resources to be created.
 အိမ်များဖန်တီးရန် အရင်းအနှီးများ လိုအပ်သည်။
+#4/5
 
 7915
 The homes were more expensive to create than expected.
 အိမ်တွေ ဖန်တီးဖို့က မျှော်လင့်ထားတာထက် ပိုစျေးကြီးတယ်။
+#4/5
 
 7916
 Less than a quarter of the Museum's operating budget last year came from donations.
 ယမန်နှစ်က ပြတိုက်၏ လုပ်ငန်းလည်ပတ်မှုဘတ်ဂျက်မှ လေးပုံတစ်ပုံအောက်သာ လှူဒါန်းမှုမှ ရရှိခဲ့သည်။
+#5/5
 
 7917
 Over half of the Museum's operating budget comes from donations every year.
 ပြတိုက်၏ လုပ်ငန်းလည်ပတ်မှုဘတ်ဂျက်မှ ထက်ဝက်ကျော်သည် နှစ်စဉ် လှူဒါန်းမှုများမှ ရရှိသည်။
+#5/5
 
 7918
 The Museum had a total operating budget of $10 million last year.
 ပြတိုက်သည် ယမန်နှစ်တွင် စုစုပေါင်း လုပ်ငန်းလည်ပတ်ရန် ဘတ်ဂျက် ဒေါ်လာ ၁၀ သန်း ရှိခဲ့သည်။
+#4/5
 
 7919
 Every single student is being reached through school.
 ကျောင်းသားတစ်ဦးစီသည် ကျောင်းမှတစ်ဆင့် ရောက်ရှိနေပါသည်။
+#3/5
 
 7920
 Not all students are being reached through school and other community institutions.
 ကျောင်းသားအားလုံးသည် ကျောင်းနှင့် အခြားအသိုက်အဝန်း အဖွဲ့အစည်းများမှတဆင့် မရောက်ပါ။
+#3/5
 
 7921
 The students that will be reached will be eternally grateful.
