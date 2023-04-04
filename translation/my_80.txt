@@ -91,52 +91,64 @@ The Museum had a total operating budget of $10 million last year.
 7919
 Every single student is being reached through school.
 ကျောင်းသားတစ်ဦးစီသည် ကျောင်းမှတစ်ဆင့် ရောက်ရှိနေပါသည်။
-#3/5
+#2/5
 
 7920
 Not all students are being reached through school and other community institutions.
 ကျောင်းသားအားလုံးသည် ကျောင်းနှင့် အခြားအသိုက်အဝန်း အဖွဲ့အစည်းများမှတဆင့် မရောက်ပါ။
-#3/5
+#2/5
 
 7921
 The students that will be reached will be eternally grateful.
 ရောက်လာမယ့် ကျောင်းသားကျောင်းသူတွေကို ထာဝရကျေးဇူးတင်ရှိမှာပါ ။
+#2/5
 
 7922
 Becky doesn't care about it at all.
 ဘက်ကီက ဒါကို လုံးဝ ဂရုမစိုက်ပါဘူး။
+#5/5
 
 7923
 Becky is a 8th grade student.
 ဘက်ကီသည် ၈ တန်းကျောင်းသား တစ်ယောက် ဖြစ်သည်။
+ဘက်ကီသည် ၈တန်း ကျောင်းသူ တစ်ယောက် ဖြစ်သည်။
+#3/5
 
 7924
 Becky is a student.
 ဘက်ကီသည် ကျောင်းသား တစ်ယောက် ဖြစ်သည်။
+ဘက်ကီသည် ကျောင်းသူတစ်ယောက်ဖြစ်သည်
+#3/5
 
 7925
 Investments do not affect the Museum in any way.
 ရင်းနှီးမြှုပ်နှံမှုများသည် ပြတိုက်ကို မည်သည့်နည်းနှင့်မျှ မထိခိုက်စေပါ။
+#5/5
 
 7926
 Larger investments are more helpful for the Museum.
 ကြီးမားသောရင်းနှီးမြှုပ်နှံမှုများသည် ပြတိုက်အတွက် ပိုမိုအထောက်အကူဖြစ်စေပါသည်။
+#5/5
 
 7927
 The Museum is impacted by investments.
 ပြတိုက်သည် ရင်းနှီးမြှုပ်နှံမှုများကြောင့် သက်ရောက်မှုရှိသည်။
+#4/5
 
 7928
 Gourmet food and champagne will be served at the reception.
 ဧည့်ခံပွဲတွင် အဆင့်မြင့်သော အစားအစာနှင့် ရှန်ပိန်တို့ကို ကျွေးမွေးမည်ဖြစ်ပါသည်။
+#4/5
 
 7929
 You and a guest will be invited to attend a special reception if you donate $100 or more to the campaign.
 ကမ်ပိန်းအတွက်  ဒေါ်လာ ၁၀၀ သို့မဟုတ် ထို့ထက်ပို၍လှူဒါန်းပါက သင်နှင့်ဧည့်သည်တစ်ဦးအား အထူးဧည့်ခံပွဲသို့ တက်ရောက်ရန် ဖိတ်ကြားမည်ဖြစ်ပါသည်။
+#4/5
 
 7930
 You must donate at least $10,000 to be invited to attend the reception.
 ဧည့်ခံပွဲသို့ တက်ရောက်ရန် အနည်းဆုံး ဒေါ်လာ ၁၀၀၀၀ လှူဒါန်းရပါမည်။
+#4/5
 
 7931
 We will fall way short of the goal.
