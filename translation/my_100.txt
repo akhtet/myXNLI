@@ -101,42 +101,52 @@ Niceness is not solely owned by Western tradition.
 9921
 People in the west are far more nice than others.
 အနောက်က လူတွေက တခြားသူတွေထက် ပိုချိုသာတယ်။
+# 5/5
 
 9922
 Western tradition has a monopoly on ugliness.
-အနောက်တိုင်း အစဉ်အလာက အကျည်းတန်မှုအပေါ် တစ်ဦး တည်း ချုပ်ကိုင်မှုစနစ် ရှိသည်။
+အနောက်တိုင်း အစဉ်အလာက အကျည်းတန်မှုအပေါ် တစ်ဦး တည်း ချုပ်ကိုင်မှု ရှိသည်။
+# 4/5
 
 9923
 Most people would not know the origin of the word quark and that it referenced the noise made by a frog.
-လူအများစုသည် ဖားတစ်ကောင်ပြုလုပ်သော ဆူညံသံကို ရည်ညွှန်းသည့် ကွက်ခ် ဟူသော စကားလုံး၏ မူလဇစ်မြစ်ကို မသိကြဘူး။
+လူအများစုသည် ဖားတစ်ကောင်ကထွက်သော အသံကို ရည်ညွှန်းသည့် quark ဟူသော စကားလုံး၏ မူလဇစ်မြစ်ကို မသိကြချေ။
+# 4/5
 
 9924
 The word quark has been listed in dictionaries as a verb defined as the croaking sound made by frogs.
-ကွက်ခ် ဟူသော စကားလုံးကို ဖားများပြုလုပ်သော ဖားအော်သံဟု သတ်မှတ်သော ကြိယာတစ်ခုအဖြစ် အဘိဓာန်များတွင် စာရင်းသွင်းထားသည်။
+quark ဟူသော စကားလုံးကို ဖားတွေအော်သော အသံအက်အက် ဟု သတ်မှတ်သော ကြိယာတစ်ခုအဖြစ် အဘိဓာန်များတွင် စာရင်းသွင်းထားသည်။
+# 4/5
 
 9925
 The word quark is a modern word first invented by scientists in the 1960s.
-ကွက်ခ် ဟူသောစကားလုံးသည် တစ်ထောင်ကိုးရာခြောက်ဆယ် ခုနှစ်များတွင် သိပ္ပံပညာရှင်များ ပထမဆုံးတီထွင်ခဲ့သော ခေတ်မီစကားလုံးတစ်လုံးဖြစ်သည်။
+quark ဟူသောစကားလုံးသည် ၁၉၆၀ ခုနှစ်ပိုင်းတွင် သိပ္ပံပညာရှင်များ ပထမဆုံးတီထွင်ခဲ့သော ခေတ်မီစကားလုံးတစ်လုံးဖြစ်သည်။
+# 5/5
 
 9926
 Banquets and parquet mean the same thing.
 ဂုဏ်ပြုထမင်းစားပွဲနှင့် ပါကေးသည် တူညီသောအရာဟု ဆိုလိုသည်။
+# 4/5
 
 9927
 The dinner party is on linoleum.
 ညစာမိတ်ဆုံစားပွဲက ဖယောင်းပုဆိုးပေါ်မှာ ဖြစ်သည်။
+# 5/5
 
 9928
 The party is not held on hardwoods.
-ပါတီပွဲကို သစ်မာပေါ်မှာ မကျင်းပဘူး။
+ပါတီပွဲကို သစ်သားကြမ်းပြင်ပေါ်မှာ မကျင်းပဘူး။
+# 5/5
 
 9929
 A forest that has never been marred by man's presence is called a virgin forest.
 လူ တစ်ခါမှမရောက်သေးသော သစ်တောတစ်ခုကို အပျိုစင် သစ်တောတစ်ခုဟု ခေါ်သည်။
+# 5/5
 
 9930
 Due to our population, there are few virgin forests still left in the United States.
-ငါတို့ရဲ့လူဦးရေများလာသောကြောင့်၊ အမေရိကန်ပြည်ထောင်စုတွင် အပျိုစင် သစ်တောအနည်းငယ်သာ ကျန်ရှိတော့သည်။
+ကျွန်ုပ်တို့ရဲ့ လူဦးရေများလာသောကြောင့်၊ အမေရိကန်ပြည်ထောင်စုတွင် အပျိုစင် သစ်တောအနည်းငယ်သာ ကျန်ရှိတော့သည်။
+# 5/5
 
 9931
 The newest condo development in the center of the forest won't impact its virgin forest status.
