@@ -201,43 +201,53 @@ Six more scotches on the rocks will do just fine.
 
 9941
 The building does not have a nickname.
-အဆောက်အဦတွင် ချစ်စနိုးခေါ်သော နာမည် တစ်ခု မရှိပါ။
+အဆိုပါ အဆောက်အဦးတွင် ချစ်စနိုးနာမည် တစ်ခု မရှိပါ။
+# 5/5
 
 9942
 The building is haunted.
-အဆောက်အဦက သရဲခြောက်တယ်။
+အဆိုပါ အဆောက်အဦးမှာ သရဲခြောက်တယ်။
+# 5/5
 
 9943
 The building is nicknamed Il Colossea Quadrato.
-အဆောက်အအုံကို အီလာ ခိုလိုစီးယား ကွာဒရာတို ဟု ချစ်စနိုးခေါ်သည်။
+အဆောက်အအုံကို Il Colossea Quadrato ဟု ချစ်စနိုးခေါ်သည်။
+# 5/5
 
 9944
 No one answered the caller.
-ဖုန်းခေါ်ဆိုသူကို မည်သူမှ ဖြေကြားခြင်းမရှိဘူး။
+ဖုန်းခေါ်ဆိုသူကို မည်သူမှ ဖြေကြားခြင်းမရှိပါ။
+# 5/5
 
 9945
 The caller was so glad someone was there to listen.
-ဖုန်းခေါ်ဆိုသူသည် အဲဒီမှာ နားထောင်ရန် တစ်စုံတစ်ဦးရှိ၍ ဝမ်းမြောက်မိသည်။
+ဖုန်းခေါ်ဆိုသူသည် နားထောင်ရန် တစ်စုံတစ်ဦး  အဲဒီမှာရှိနေ၍ ဝမ်းမြောက်မိသည်။
+# 5/5
 
 9946
 The caller was thankful.
-ဖုန်းခေါ်ဆိုသူသည် ကျေးဇူးတင်သည်။
+ဖုန်းခေါ်ဆိုသူက ကျေးဇူးတင်သည်။
+# 5/5
 
 9947
 We are continuously surprised by Dr. Richards.
-ဒေါက်တာ ရစ်ချက်ထ် က ငါတို့ကို ဆက်တိုက် အငိုက်ဖမ်းတယ်။
+ဒေါက်တာ Richards က ငါတို့ကို ဆက်တိုက် အငိုက်ဖမ်းတယ်။
+# 5/5
 
 9948
 We howled with laughter when we heard Dr. Richards' latest news.
-ဒေါက်တာ ရစ်ချက်ထ် ၏ နောက်ဆုံးသတင်းကို ငါတို့ ကြားရသောအခါ ငါတို့ ရယ်ရယ်မောမော အော်ဟစ်လိုက်ကြသည်။
+ဒေါက်တာ Richards ၏ နောက်ဆုံးသတင်းကို ကြားလိုက်ရသောအခါ ငါတို့ အော်ဟစ် ရယ်မောလိုက်ကြသည်။
+# 5/5
 
 9949
 We've never heard of Dr. Richards or his ideas.
-ဒေါက်တာ ရစ်ချက်ထ် သို့မဟုတ် သူ့ရဲ့အကြံဉာဏ်များကို ငါတို့ ဘယ်တော့မှ မကြားဖူးဘူး။
+ဒေါက်တာ Richards သို့မဟုတ် သူ့ရဲ့အကြံဉာဏ်များကို ငါတို့ ဘယ်တော့မှ မကြားဖူးဘူး။
+# 4/5
 
 9950
 A slow and painful urine stream was the precursor.
 နှေးကွေးပြီး နာကျင်သော ဆီးစီးကြောင်းတစ်ခုသည် ရှေ့ပြေးနိမိတ်ဖြစ်သည်။
+# 4/5
 
 9951
 Only after the relevant strangury did urination become free and flowing.
