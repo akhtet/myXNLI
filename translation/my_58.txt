@@ -1,42 +1,52 @@
 5701
 The Spartans killed many of the Persian army at Thermopylae.
 စပါတာတို့သည် သာမောပလီး တွင် ပါရှား စစ်တပ် အများအပြားကို သတ်ခဲ့သည်။
+5/5
 
 5702
 Otto Frank got captured on the second day.
 ဒုတိယနေ့တွင် အော်တိုဖရန့်ကို ဖမ်းဆီးရရှိခဲ့သည်။
+5/5
 
 5703
 Otto Frank hid for more than 25 months.
 အော်တိုဖရန့်သည် ၂၅ လကျော် ပုန်းအောင်းနေခဲ့သည်။
+5/5
 
 5704
 Otto Frank hid until the Nazis found him.
 အော်တိုဖရန့်က သူ့ကို နာဇီတွေ ရှာမတွေ့ခင်အထိ ပုန်းနေခဲ့တယ်။
+5/5
 
 5705
 The tea kettles are ugly and it's so boring to learn about them.
-လက်ဖက်ရည်အိုးတွေက မလှမပဖြစ် ပြီး ဒါတွေ အကြောင်း လေ့လာဖို့ အလွန် ပျင်းဖို့ကောင်းတယ်။
+လက်ဖက်ရည်အိုးတွေက မလှမပကြကာ ၄င်းတို့အကြောင်း လေ့လာဖို့ အလွန် ပျင်းဖို့ကောင်းတယ်။
+5/5
 
 5706
 You will like the tea kettles that are hundreds of years old.
 နှစ်ရာနဲ့ချီ သက်တမ်းရှိတဲ့ လက်ဖက်ရည်ခွက်တွေကို မင်း ကြိုက်လိမ့်မယ်။
+5/5
 
 5707
 You'll like the tea kettles because they are colorful and pretty.
 အရောင်စုံ ပြီး လှပသောကြောင့် ဒီ လက်ဖက်ရည်ခွက်တွေကို မင်း ကြိုက်လိမ့်မယ်။
+5/5
 
 5708
 Fairly popular sifhts include the new lion exhibit, snow leopard and cheetah exhibits, and an African tropical rain forest.
-အတော်အတန် လူကြိုက်များသော ရူထောင့်များတွင် ခြင်္သေ့ အသစ် ပြပွဲ ၊  နှင်း ကျားသစ် နှင့် တောလိုက်ကျားသစ် ပြပွဲများ နှင့် ၊ အာဖရိက အပူပိုင်း မိုး သစ်တောတို့ ပါဝင်သည်။
+အတော်အတန် လူကြိုက်များသော ပြပွဲများတွင် ခြင်္သေ့ အသစ် ပြပွဲ ၊ ကျားသစ်ဖြူ နှင့် တောလိုက်ကျားသစ် ပြပွဲများ နှင့် ၊ အာဖရိက အပူပိုင်း မိုး သစ်တောတို့ ပါဝင်သည်။
+5/5
 
 5709
 The best things to check out are the new lion exhibit, snow leopard and cheetah exhibits, and an African tropical rain forest.
 ကြည့်ရှုစစ်ဆေးရန် အကောင်းဆုံး အရာများမှာ ခြင်္သေ့ အသစ် ပြပွဲ ၊  နှင်း ကျားသစ် နှင့် တောလိုက်ကျားသစ် ပြပွဲများ နှင့် ၊ အာဖရိက အပူပိုင်း မိုး သစ်တောတို့ ဖြစ်ကြသည်။
+5/5
 
 5710
 There is no new lion exhibit, snow leopard and cheetah exhibits, or African tropical rain forest at the facility.
 အဆိုပါ အဆောက်အဦတွင် ခြင်္သေ့ အသစ် ပြပွဲ ၊  နှင်း ကျားသစ် နှင့် တောလိုက်ကျားသစ် ပြပွဲများ ၊ သို့မဟုတ် အာဖရိက အပူပိုင်း မိုး သစ်တောများ မရှိပါ။
+5/5
 
 5711
 The building is very old and basic.
