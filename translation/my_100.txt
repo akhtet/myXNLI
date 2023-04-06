@@ -302,82 +302,102 @@ I reedit speeches for my job.
 9961
 I reedit speeches.
 ငါ မိန့်ခွန်းတွေကို ပြန်လည်တည်းဖြတ်တယ်။
+# 5/5
 
 9962
 Schools use Webster's COllege because it is the best.
-ကျောင်းများသည် ဝက်ဘ်စတား ကောလိပ်ကို အကောင်းဆုံးဖြစ်သောကြောင့် အသုံးပြုသည်။
+ကျောင်းများသည် Webster's COllege ကို အကောင်းဆုံးဖြစ်သောကြောင့် အသုံးပြုသည်။
+# 5/5
 
 9963
 There is more information in the Webster's College than New World.
-နယူးဝေါ်လ် ထက် ဝက်ဘ်စတား ကောလိပ် မှာ သတင်း အချက်အလက်များ ပိုများသည်။
+New World ထက် Webster's College မှာ သတင်း အချက်အလက်များ ပိုများသည်။
+# 5/5
 
 9964
 Webster's College is missing way more information than the other books.
-ဝက်ဘ်စတား ကောလိပ် သည် အခြားစာအုပ်များထက် သတင်း အချက်အလက်များ ပိုမိုပျောက်ဆုံးနေသည်။
+Webster's College သည် အခြားစာအုပ်များထက် သတင်း အချက်အလက်များ ပိုမိုပျောက်ဆုံးနေသည်။
+# 5/5
 
 9965
 Our vocabulary does not have a linguistic process.
 ငါတို့၏ ဝေါဟာရမှာ ဘာသာစကားဆိုင်ရာ လုပ်ငန်းစဉ် တစ်ခု မရှိဘူး။
+# 4/5
 
 9966
 Our vocabulary has a linguistic process.
-ငါတို့၏ဝေါဟာရမှာ ဘာသာစကားဆိုင်ရာ လုပ်ငန်းစဉ်တစ်ခု ရှိသည်။
+ငါတို့၏ ဝေါဟာရမှာ ဘာသာစကားဆိုင်ရာ လုပ်ငန်းစဉ်တစ်ခု ရှိသည်။
+# 4/5
 
 9967
 Our vocabulary is expanding.
-ငါတို့၏ ဝေါဟာရသည် ကျယ်ပြန့်လာသည်။
+ငါတို့၏ ဝေါဟာရသည် ကျယ်ပြန့်နေသည်။
+# 4/5
 
 9968
 Prisoners created stories.
 အကျဉ်းသားတွေက ဇာတ်လမ်းတွေကို ဖန်တီးတယ်။
+# 5/5
 
 9969
 Prisoners created them.
 အကျဉ်းသားတွေက သူတို့ကို ဖန်တီးတယ်။
+# 5/5
 
 9970
 Prisoners did not create them.
 အကျဉ်းသားတွေက သူတို့ကို မဖန်တီးဘူး။
+# 5/5
 
 9971
 My sister is a nun and has never dated a man.
 ငါ့ အစ်မက သီလရှင်တစ်ပါးဖြစ်ပြီး ယောက်ျားတစ်ယောက် နဲ့ ဘယ်တော့မှ မချိန်းတွေ့ဖူးဘူး။
+# 5/5
 
 9972
 My sister used to date a fan of the University of Iowa sports teams, which are called the Hawkeyes.
-ကျွန်တော့်ညီမသည် ဟောကိုင်း ဟုခေါ်သော အိုင်အိုဝါတက္ကသိုလ်၏ အားကစားအသင်းပရိသတ်တစ်ဦးနှင့် ချိန်းတွေ့ဖူးသည်။
+ကျွန်တော့်ညီမသည်  Hawkeyes ဟုခေါ်သော Iowa တက္ကသိုလ်၏ အားကစားအသင်း ပရိသတ်တစ်ဦးနှင့် ချိန်းတွေ့ဖူးသည်။
+# 5/5
 
 9973
 The young man my sister was dating felt obligated to be a Hawkeyes fan because he worked for the University of Iowa.
-ကျွန်တော့်ညီမနှင့်ချိန်းတွေ့နေသည့် လူငယ်သည် သူက အိုင်အိုဝါတက္ကသိုလ်မှာ အလုပ်လုပ်သောကြောင့် ဟောကိုင်း ပရိသတ်တစ်ဦးဖြစ်ရန် တာဝန်ရှိသည်ဟု ခံစားခဲ့ရသည်။
+ကျွန်တော့်ညီမနှင့်ချိန်းတွေ့နေသည့် လူငယ်သည် Iowa တက္ကသိုလ်မှာ အလုပ်လုပ်ခဲ့သောကြောင့် Hawkeyes ကို အားပေးရန် တာဝန်ရှိသည်ဟု ခံစားခဲ့ရသည်။
+# 5/5
 
 9974
 English is badly in need of additional exotic words.
-အင်္ဂလိပ်စာသည် ထူးခြားဆန်းပြားသော အပိုစကားလုံးများ ဆိုးရွားစွာ လိုအပ်နေပါသည်။
+အင်္ဂလိပ်စာသည် ထူးခြားဆန်းပြားသော အပိုစကားလုံးများ အလွန်အမင်း လိုအပ်နေပါသည်။
+# 4/5
 
 9975
 Experts have identified fifty different words that should not be part of the language.
-ကျွမ်းကျင်သူများသည် ဘာသာစကား၏အစိတ်အပိုင်းမဖြစ်သင့်သော မတူညီသည့် စကားလုံးငါးဆယ်ကို ဖော်ထုတ်ကြသည်။
+ကျွမ်းကျင်သူများသည် ဤဘာသာစကား တွင် မပါဝင်သင့်သော မတူညီသည့် စကားလုံးငါးဆယ်ကို ဖော်ထုတ်ခဲ့ကြသည်။
+# 5/5
 
 9976
 There are many English words that should be removed from the language.
-ဘာသာစကားမှ ဖယ်ရှားသင့်သော အင်္ဂလိပ်စကားလုံးများစွာ ရှိပါသည်။
+ဤဘာသာစကားမှ ဖယ်ရှားသင့်သော အင်္ဂလိပ်စကားလုံးများစွာ ရှိပါသည်။
+# 4/5
 
 9977
 John Burke dislikes Boswell.
-ဂျွန် ဘာ့ခ် သည် ဘာ့စ်ဝဲလ် ကိုမကြိုက်ပါ။
+John Burke သည် Boswell ကို သဘောမကျပါ။
+# 5/5
 
 9978
 John Burke ignores accounts.
-ဂျွန် ဘာ့ခ် သည် ငွေစာရင်းများကို လျစ်လျူရှုသည်။
+John Burke သည် ငွေစာရင်းများကို လျစ်လျူရှုသည်။
+# 5/5
 
 9979
 John Burke reviews accounts.
-ဂျွန် ဘာ့ခ် သည် ငွေစာရင်းများကို ပြန်လည်သုံးသပ်သည်။
+John Burke သည် ငွေစာရင်းများကို ပြန်လည်သုံးသပ်သည်။
+# 5/5
 
 9980
 Inglish is different from English.
-အင်္ဂလိပ်သည် အင်္ဂလိပ်စာနှင့် ကွဲပြားသည်။
+Inglish သည် English နှင့် ကွဲပြားသည်။
+# 5/5
 
 9981
 Inglish is harder than English.
