@@ -185,7 +185,8 @@ People mostly have Apple phones in New York.
 
 9038
 New York state has its own government representatives.
-နယူးယောက် ပြည်နယ်မှာ ကိုယ်ပိုင် အစိုးရ ကိုယ်စားလှယ်တွေ ရှိပါတယ်။
+နယူးယောက် ပြည်နယ်မှာ အစိုးရ ကိုယ်စားလှယ်တွေ ကိုယ်စီ  ရှိပါတယ်။
+#4/5
 
 9039
 New York state has no senators.
