@@ -191,38 +191,46 @@ New York state has its own government representatives.
 9039
 New York state has no senators.
 နယူးယောက်ပြည်နယ်တွင် ဥပဒေပြုအထက်လွှတ်တော်အမတ် မရှိပါ။
+#5/5
 
 9040
 New York state has the more senators than other states.
-နယူးယောက်ပြည်နယ်သည် အခြားပြည်နယ်များထက် ဥပဒေပြုအထက်လွှတ်တော်အမတ်များ ပိုများသည်။
+နယူးယောက်ပြည်နယ်တွင် အခြားပြည်နယ်များထက် ဥပဒေပြုအထက်လွှတ်တော်အမတ်များ ပိုများသည်။
+#5/5
 
 9041
 Asians are not represented in history textbooks.
-အာရှသားများက သမိုင်းဖတ်စာအုပ်များတွင် ကိုယ်စားပြုခြင်းမခံရပါ။
+အာရှသားများက သမိုင်းဖတ်စာအုပ်များတွင် ပါဝင်ခြင်းမခံရပါ။
+#4/5
 
 9042
 Some Asians crossed the Bering Strait.
-အာရှသားအချို့က ဘာရင်း ရေလက်ကြားကို ဖြတ်ကျော်ခဲ့ကြတယ်။
+အာရှသားအချို့သည် ဘာရင်း ရေလက်ကြားကို ဖြတ်ကျော်ခဲ့ကြတယ်။
+#5/5
 
 9043
 White people primarily represented North America since its discovery.
 လူဖြူများသည် မြောက်အမေရိကကို ရှာဖွေတွေ့ရှိကတည်းက အဓိကအားဖြင့် ကိုယ်စားပြုသည်။
+#4/5
 
 9044
 Stepping on toes causes pain.
-ခြေချောင်းတွေကို နင်းလိုက်တာက နာကျင်မှုကို ဖြစ်စေတယ်။
+သူတပါးကိစ္စများကို ဝင်ရောက်စွက်ဖက်ခြင်းသည် စိတ်အနှောက်အယှက်ဖြစ်ပေါ်စေသည်။
+#4/5
 
 9045
 The toes are considered to be small.
 ခြေချောင်းများ သေးငယ်တယ်လို့ ယူဆကြတယ်။
+#4/5
 
 9046
 The toes are large.
-ခြေချောင်းတွေက ကြီးတယ်။
+ခြေချောင်းတွေ ကြီးတယ်။
+#4/5
 
 9047
 Prudie dislikes the term lover under all circumstances.
-ပရူဒီ က အခြေအနေတိုင်းမှာ ချစ်သူဟူသော အသုံးအနှုန်းကို မကြိုက်ပါ။
+Prudie က အခြေအနေတိုင်းမှာ ချစ်သူဟူသော အသုံးအနှုန်းကို မကြိုက်ပါ။
 
 9048
 Prudie doesn't always hate the term lover.
