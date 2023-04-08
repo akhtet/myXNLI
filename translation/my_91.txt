@@ -231,46 +231,52 @@ The toes are large.
 9047
 Prudie dislikes the term lover under all circumstances.
 Prudie က အခြေအနေတိုင်းမှာ ချစ်သူဟူသော အသုံးအနှုန်းကို မကြိုက်ပါ။
+#4/5
 
 9048
 Prudie doesn't always hate the term lover.
-ပရူဒီ က ချစ်သူဟူသော အသုံးအနှုန်းကို အမြဲတမ်း မုန်းတီးနေမည် မဟုတ်ပါ။
+Prudie က ချစ်သူဟူသော အသုံးအနှုန်းကို အမြဲတမ်း မုန်းတီးနေမည် မဟုတ်ပါ။
+#4/5
 
 9049
 Prudie enjoys being around European women.
-ပရူဒီ က ဥရောပအမျိုးသမီးများ အနီးတွင် ရှိခြင်းကို နှစ်သက်တယ်။
+Prudie က ဥရောပအမျိုးသမီးများ အနီးတွင် ရှိနေ ခြင်းကို နှစ်သက်တယ်။
+#4/5
 
 9050
 Harvard University gave The Boston Globe permission to write about them.
-ဟားဗတ်တက္ကသိုလ်က ဘော့စတွန် ဂလုပ်ဘ် ကို သူတို့အကြောင်း ရေးဖို့ ခွင့်ပြုချက် ပေးခဲ့တယ်။
+ဟားဗတ်တက္ကသိုလ်က Boston Globe ကို သူတို့အကြောင်း ရေးဖို့ ခွင့်ပြုချက် ပေးခဲ့တယ်။
+#4/5
 
 9051
 The Boston Globe has never written about a university.
-ဘော့စတွန် ဂလုပ်ဘ် က တက္ကသိုလ်တစ်ခုအကြောင်းကို တစ်ခါမျှ မရေးခဲ့ဖူးပါ။
+Boston Globe က တက္ကသိုလ်အကြောင်းကို တစ်ခါမျှ မရေးခဲ့ဖူးပါ။
+#4/5
 
 9052
 The Boston Globe has written about Harvard University.
-ဘော့စတွန် ဂလုပ်ဘ် က ဟားဗတ်တက္ကသိုလ်အကြောင်း ရေးသားထားတယ်။
+Boston Globe က ဟားဗတ်တက္ကသိုလ်အကြောင်း ရေးသားခဲ့တယ်။
+#4/5
 
 9053
 Greenlee County has a public library.
-ဂရင်းလီး ကောင်တီ တွင် အများသူငှာ စာကြည့်တိုက် ရှိသည်။
+Greenlee ကောင်တီ တွင် ပြည်သူ့ စာကြည့်တိုက် ရှိသည်။
 
 9054
 Greenlee County has multiple public libraries.
-ဂရင်းလီး ကောင်တီ တွင် အများသူငှာ စာကြည့်တိုက် များစွာ ရှိသည်။
+Greenlee ကောင်တီ တွင် ပြည်သူ့ စာကြည့်တိုက် များစွာ ရှိသည်။
 
 9055
 Greenlee County is not located in the state of Arizona.
-ဂရင်းလီး ကောင်တီ သည် အရီဇိုးနား ပြည်နယ်တွင် မတည်ရှိပါ။
+Greenlee ကောင်တီ သည် အရီဇိုးနား ပြည်နယ်တွင် မတည်ရှိပါ။
 
 9056
 The sign lit up in Times Square.
-ဆိုင်းဘုတ် ကို တိုင်းမ် စကွဲ မှာ ထွန်းထားသည်။
+ဆိုင်းဘုတ် ကို Times Square မှာ ထွန်းထားသည်။
 
 9057
 The sign lit up.
-ဆိုင်းဘုတ်က လင်းထိန်သွားတယ်။
+ဆိုင်းဘုတ် ထွန်းထားသည်။
 
 9058
 The sign stayed black.
@@ -286,7 +292,7 @@ I was expected to sign up.
 
 9061
 I would not sign up.
-ကျွန်တော် မှတ်ပုံမတင်ခဲ့ရဘူး။
+ကျွန်တော် မှတ်ပုံမတင်ဘူး။
 
 9062
 Do you know who won't understand?
@@ -298,7 +304,7 @@ I think you know who would understand.
 
 9064
 There is someone who would understand.
-နားလည်ပေးမယ့်သူရှိတယ်။
+နားလည်မယ့်သူရှိလိမ့်တယ်။
 
 9065
 Some files cannot be deleted while Windows is running.
