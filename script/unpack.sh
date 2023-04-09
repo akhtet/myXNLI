@@ -1,1 +1,1 @@
-gzip -d myXNLI/output/my/my.train.tsv.gz && wc -l myXNLI/output/my/my.train.tsv
+gzip -d myXNLI/output/my/my.train.tsv.gz && wc -l myXNLI/output/my/my.genre.train.tsv
