@@ -260,7 +260,7 @@ The use of new technologies for individualizing brief intervention materials and
 အတိုချုံး ကြားဝင်ဖြေရှင်းပေးသည့် ပစ္စည်းများ နှင့် တုံ့ပြန်ချက်တို့ကို  တစ်ဦးချင်းစီသတ်မှတ်ခြင်း အတွက် နည်းပညာအသစ်များကို အသုံးပြုခြင်းဟာ အန္တရာယ် နှင့် ပြသနာရှိသော သောက်သုံးမှု ပုံစံ နှင့်အတူ လူနာများ အတွက် စောင့်ရှောက်မှုစနစ်တွင် ကွာဟမှုများကို ဖြည့်ဆည်းရန် ကူညီပေးနိုင်တယ်။
 
 1366
-The time from placing the order from placing the order to completion of commissioning activitiesis 46 weeks for both units.
+The time from placing the order to completion of commissioning activities is 46 weeks for both units.
 ခန့်အပ်ခြင်း လုပ်ငန်းများ ပြီးမြောက်ရန် အမိန့်ထုတ်ခြင်းသည် ဌာန နှစ်ခုလုံးအတွက် အချိန် ၄၆ ပတ် ဖြစ်ပါတယ် 
 
 1367
