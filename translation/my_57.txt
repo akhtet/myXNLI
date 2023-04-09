@@ -15,7 +15,7 @@ Sea temperatures are always at one fixed point all year-round.
 ပင်လယ်ရေ အပူချိန်သည် တစ်နှစ်ပတ်လုံး သတ်မှတ်ထားသော အမှတ် တစ်ခု တွင် အမြဲ ရှိနေပါသည်။
 
 5605
-Sea temperatures are higher during the day, when it is warmer.
+See temperatures are higher during the day, when it is warmer.
 ပိုပြီးနွေးလာ သောအခါတွင် ၊ ပင်လယ်ရေ အပူချိန်သည် နေ့ဖက် အတွင်းတွင်  ပိုမြင့်သည်။
 
 5606
