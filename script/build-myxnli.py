@@ -9,8 +9,8 @@ test_file = 'xnli-original/xnli.test.tsv'
 parallel_file = 'xnli-origin/xnli.15way.orig.tsv'
 
 trans_dir = 'translation'
-my_dev_file = 'output/myxnli.dev.tsv'
-my_test_file = 'output/myxnli.test.tsv'
+my_dev_file = 'output/my/my.genre.dev.tsv'
+my_test_file = 'output/my/my.genre.test.tsv'
 
 keyword_file = 'translation/keywords.csv'
 en_sentence_file = 'translation/english.txt'
