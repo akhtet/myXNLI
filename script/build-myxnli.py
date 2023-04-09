@@ -169,14 +169,14 @@ def analyze_file(fname):
                     orphans[line_num] = line
 
             elif state == 1:              # Start new block
-                if is_English(line):
+                if is_English(line.strip()):
                     blocks[seq_num]['source'] = line
                 else:
                     blocks[seq_num]['errors'].append('Missing Source Sentence')
                 state = 2
             
             elif state == 2:
-                if is_Burmese(line):
+                if is_Burmese(line.strip()):
                     blocks[seq_num]['target'] = line
                     if is_invalid(line):
                         blocks[seq_num]['errors'].append('Invalid characters found in translation')
@@ -288,6 +288,8 @@ def write_dataset(my_dict):
             else:
                 outfile.write(infile.readline())
 
+            no_translation = []
+
             for line in infile.readlines():
                 if line.startswith('en'):
                     cols = line.split('\t')
@@ -317,6 +319,12 @@ def write_dataset(my_dict):
                             my_dict.get(sentence2, sentence2)
                         ]
 
+                        if sentence1 not in my_dict.keys():
+                            no_translation.append(sentence1)
+                        
+                        if sentence2 not in my_dict.keys():
+                            no_translation.append(sentence2)                     
+
                     else:
                         cols[0] = 'my' # language code
                         cols[6] = my_dict.get(sentence1, sentence1)
@@ -334,6 +342,7 @@ def write_dataset(my_dict):
                     outfile.write('\t'.join(out_cols_clean) + '\n')
 
             outfile.close()
+            print ('\n'.join(set(no_translation)))
 
     # TODO: Add a new column to the parallel corpus
 

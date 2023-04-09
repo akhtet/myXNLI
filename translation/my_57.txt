@@ -267,7 +267,7 @@ You can swim with dolphins who can do crazy tricks.
 မင်းက အရူးအမူး လှည့်ကွက်တွေ လုပ်နိုင်တဲ့ လင်းပိုင်တွေနဲ့ ရေကူးနိုင်ပါတယ်။
 
 5668
-You can swim with the dolphins at the resort.
+You can swim with the dophins at the resort.
 မင်း အပန်းဖြေစခန်းမှာ လင်းပိုင်တွေနဲ့ ရေကူးနိုင်ပါတယ်။
 
 5669
