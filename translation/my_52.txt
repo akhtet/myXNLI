@@ -101,107 +101,136 @@ As the lordship, he showed no mercy to his subjects.
 5121
 His lordship spoke calmly to all giving the impression of a warm and gentle person.
 နွေးထွေး ပြီး နူးညံ့တဲ့ လူ တစ်ယောက် ၏ အထင်ကြီးမှုကို အားလုံး ပေးပြီး သူ၏ သခင် က အေးအေးဆေးဆေး ပြောခဲ့သည်။
+#3/5
 
 
 5122
 The Lord's voice felt both distant and chilling
 လူကြီးမင်း၏ အသံသည် ဝေးကွာ ပြီး အေးစက်သွားသလို ခံစားရသည်။
+#4/5
 
 5123
 Captain Blood was recently promoted to his position because of the work he had done.
 ကပ္ပတိန် ဘလတ် သည် မကြာသေးမီက သူ လုပ်ခဲ့သော အလုပ် ကြောင့် သူ၏ ရာထူး တိုးခဲ့သည်။
+#5/5
 
 5124
 Perforce Bishop did not put on a strong appearance.
 ပါဖို့စ် ဘစ်လျှော့ မှာ သန်မာတဲ့ အသွင်အပြင် မရှိဘူး။
+#4/5
 
 5125
 Perforce Bishop was to command alongside the Captain.
-ပါဖို့စ် ဘစ်လျှော့ သည် ကပ္ပတိန် ကို အမိန့်ပေး ရန် ဘေးနား ရှိခဲ့တယ်။
+ပါဖို့စ် ဘစ်လျှော့ သည် ကပ္ပတိန် နှင့်အတူ အမိန့်ပေး ရန် ဘေးနား ရှိခဲ့တယ်။
+#5/5
+
 
 5126
 As he is experienced, Captain Blood helped boost morale amongst his crew members.
-သူသည် တွေ့ကြုံဖူးသောကြောင့် ၊ ကပ္ပတိန် ဘလတ်သည် သူ၏ သင်္ဘော အမှုထမ်းများ အကြား စိတ်ဓာတ်ကို မြှင့်တင် ကူညီပေးခဲ့သည်။
+သူသည် အတွေ့အကြုံရှိဖူးးသောကြောင့် ၊ ကပ္ပတိန် ဘလတ်သည် သူ၏ သင်္ဘော အမှုထမ်းများ အကြား စိတ်ဓာတ်ကို မြှင့်တင် ကူညီပေးခဲ့သည်။
+#5/5
+
 
 5127
 Captain Blood yelled to Old Wolf.
 ကပ္ပတိန် ဘလတ် က အိုး ဝု့ဖ် ကို စူးစူးဝါးဝါးအော်ခဲ့သည်။
+#5/5
 
 5128
 Let go! Captain Blood yelled to Old Wolf.
 သွားစို့! လို့ ကပ္ပတိန် ဘလတ် က အိုး ဝု့ဖ် ကို စူးစူးဝါးဝါးအော်ခဲ့သည်။
+#5/5
 
 5129
 He has only one eye.
 သူ့မှာ မျက်လုံး တစ်လုံး သာလျှင် ရှိတယ်။
+#5/5
 
 5130
 He has three eyes.
 သူ့မှာ မျက်လုံး သုံးလုံး ရှိတယ်။
+#5/5
 
 5131
 He only has a left eye.
 သူ့မှာ ဘယ်ဖက် မျက်လုံး တစ်လုံး သာလျှင် ရှိတယ်။
+#5/5
 
 5132
 The blood came from a person's eye as they had looked into the telescope.
 သူတို့က တယ်လီစကုတ် ကို ကြည့်ခဲ့ သောကြောင့် သွေးတွေက လူ ၏ မျက်လုံး တစ်လုံး ဆီမှ စီးလာတယ်။
+#4/5
 
 5133
 There was blood around the telescope.
 တယ်လီစကုတ် ဝန်းကျင်မှာ သွေးတွေ ရှိနေခဲ့တယ်။
+#5/5
 
 5134
 There was no sign of blood anywhere near the telescope.
 တယ်လီစကုတ် အနီး ဘယ်နေရာမှာမှ သွေးတွေ ၏ အရိပ်အယောင်ကို မတွေ့ရပါ။
+#5/5
 
 5135
 The matter had been resolved.
 ဒီ ကိစ္စက ပြေလည်သွားပြီ။
+#5/5
 
 5136
 The matter remains unresolved.
 ဒီ ကိစ္စက မဖြေရှင်းနိုင်ပဲ ကျန်ရှိတယ်။
+#5/5
 
 5137
 The solution to the matter was more or less there.
 ထိုကိစ္စအတွက် ဖြေရှင်းချက်မှာ အနည်းနှင့်အများ ရှိခဲ့ပါသည်။
+#5/5
 
 5138
 I want you to explain yourself! I know you know where Wolverstone is.
 ငါ မင်းကိုယ်တိုင် ရှင်းပြတာကို လိုချင်တယ်! ဝူဗာစတုန်း ဘယ်ကဆိုတာကို မင်းသိတာ ကို ငါ သိတယ်။
+#5/5
 
 5139
 Wolverstone is right here. No explanation needed.
 ဒီမှာတော့ ဝူဗာစတုန်း မှန်တယ်။ ရှင်းပြရန် မလိုအပ်ဘူး။
+#5/5
 
 5140
 You should explain yourself! What happened to Wolverstone?
 မင်း မင်းဘာသာ ရှင်းပြသင့်တယ်! ဝူဗာစတုန်း ဘာဖြစ်သွားတာလည်း။
+#5/5
 
 5141
 Pitt and the gunner were both excited because they had just made a huge success.
 ပစ်ဒ် နဲ့ သေနတ်သမား နှစ်ယောက်လုံးသည် ကြီးမားသော အောင်မြင်မှု တစ်ခု ကို ရရှိထား သောကြောင့် စိတ်လှုပ်ရှားနေကြသည်။
+#5/5
 
 5142
 The gunner was feeling giddy as Pitt went beside him.
 ပစ်ဒ် သည် သူ့ ဘေးကို လာခဲ့ စဉ် သေနတ်သမားသည် မူးမူးနောက်နောက် ဖြစ်နေသည်။
+#4/5
 
 5143
 The gunner was feeling grim as Pitt approached him.
 သေနတ်သမားသည် ပစ်ဒ်က သူ့ကို ချဉ်းကပ်လာစဉ် သိပ်မဝေးတော့တာကို သိခဲ့တယ်။
+#3/5
 
 5144
 Blood had walked right past the helmsman, ignoring him entirely.
 ဘလတ်က သူ့ကို လုံးဝ လျစ်လျူရှူရင်း ၊ ပဲ့နင်းကို ဖြတ်ပြီး လမ်းလျှောက်ခဲ့တယ်။
+#5/5
+
 
 5145
 Blood wanted to talk to the helmsman to figure out when they would eat together.
 ဘလတ်က သူတို့ ဘယ်အချိန် အတူတူ စားမယ်ဆိုတာ တွက်ဆ ရန်  ပဲ့နင်းမှာ ပြောချင်ခဲ့တယ်။
+#5/5
 
 5146
 There was a fair young man who happened to be the helmsman.
 ပဲ့နင်း မှာ ဖြစ်စေရန် ဖြစ်ပွားခဲ့သူ မျှတသော ကောင်လေး တစ်ယောက် ရှိခဲ့တယ်
+
 
 5147
 The country is merely a part of the whole, sir.
