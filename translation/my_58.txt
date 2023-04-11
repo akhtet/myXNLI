@@ -50,163 +50,214 @@ There is no new lion exhibit, snow leopard and cheetah exhibits, or African trop
 
 5711
 The building is very old and basic.
-အဆောက်အဦသည် အလွန် ဟောင်း ပြီး အခြေခံကျသည်။
+အဆောက်အဦသည် အလွန် ဟောင်း ပြီး ရိုးသည်။
+5/5
 
 5712
 The building uses a lot of engineering technology to keep it from sliding into the ocean.
 အဆောက်အအုံသည် သမုဒ္ဒရာ ထဲသို့ လျှောကျခြင်းမှ ၎င်းကို ထိန်းသိမ်းရန် အင်ဂျင်နီယာ နည်းပညာ များစွာကို အသုံးပြုထားသည်။
+5/5
 
 5713
 The building's location is really interesting.
 အဆောက်အဦရဲ့ တည်နေရာက တကယ်ကို စိတ်ဝင်စားဖို့ကောင်းပါတယ်။
+5/5
 
 5714
 Some of the antiques are shown.
 ရှေးဟောင်းပစ္စည်း အချို့ ကို ပြသထားသည်။
+5/5
 
 5715
 You can touch some of the imperial armor.
 မင်း ရှေးရိုးဗြိတိသျှသုံး သံချပ်ကာ အချို့ကို ထိတွေ့နိုင်သည်။
+5/5
 
 5716
 You can't see anything old on display.
 သင်သည် ပြပွဲတွင် ဟောင်းနွမ်းနေသည့် မည်သည့်အရာကိုမှ မတွေနိုင်ဘူး။
+5/5
 
 5717
 Weltkugelbrunnen is made of aluminum.
-ဝက်ခ်ခရူးဂျဲဘန်းနန်း ကို အလူမီနီယမ်နဲ့ ပြုလုပ်ထားပါတယ်။
+Weltkugelbrunnen ကို အလူမီနီယမ်နဲ့ ပြုလုပ်ထားပါတယ်။
+5/5
 
 5718
 Weltkugelbrunnen is made of granite that is very black and shiny.
-ဝက်ခ်ခရူးဂျဲဘန်းနန်းသည် အလွန် နက်မှောင် ပြီး တောက်ပြောင်သော အလွန်မာသည့်ကျောက်တုံးများဖြင့် ပြုလုပ်ထားသည်။
+Weltkugelbrunnenသည် အလွန် နက်မှောင် ပြီး တောက်ပြောင်သော နှမ်းဖတ်ကျောက်တုံးများဖြင့် ပြုလုပ်ထားသည်။
+5/5
 
 5719
 Weltkugelbrunnen is made of granite.
-ဝက်ခ်ခရူးဂျဲဘန်းနန်းသည် အလွန်မာသည့်ကျောက်တုံးများဖြင့် ပြုလုပ်ထားသည်။
+Weltkugelbrunnenသည် နှမ်းဖတ်ကျောက်တုံးများဖြင့် ပြုလုပ်ထားသည်။
+5/5
 
 5720
 The Zenith hosts 1000 concerts a year.
 ဇဲနတ်သည် တစ်နှစ်လျှင် ဖျော်ဖြေပွဲ ၁၀၀၀ ကို လက်ခံကျင်းပသည်။
+5/5
 
 5721
 The Zenith is a big concert hall.
-ဇဲနတ်သည် ကြီးမားသော ဖျော်ဖြေပွဲ ခန်းမ တစ်ခု ဖြစ်သည်။
+Zenithသည် ကြီးမားသော ဖျော်ဖြေပွဲ ခန်းမ တစ်ခု ဖြစ်သည်။
+5/5
 
 5722
 The Zenith is a train station.
-ဇဲနတ်သည် ရထားဘူတာတစ်ခုဖြစ်သည်။
+Zenithသည် ရထားဘူတာတစ်ခုဖြစ်သည်။
+5/5
 
 5723
 The protests all ended in the 50's.
 ဆန္ဒပြပွဲများ သည် ၅၀ ခုနှစ်များတွင် အဆုံးသတ်ခဲ့သည်။
+5/5
 
 5724
 There were protests in the 70's.
 ၇၀ ခုနှစ်များတွင် ဆန္ဒပြမှုများ ရှိခဲ့သည်။
+5/5
 
 5725
 There were racial protests in the 70's.
 ၇၀ ခုနှစ်များတွင် လူမျိုးရေး ဆန္ဒပြမှုများ ရှိခဲ့သည်။
+5/5
 
 5726
 Sqamish has never had a log-rolling contest.
-စကွေးမစ်ရှ်တွင် သစ်လုံးလှိမ့် ပြိုင်ပွဲ တစ်ခုကို တစ်ခါမှ မပြုလုပ်ဖူးပါ။
+Sqamishတွင် သစ်လုံးလှိမ့် ပြိုင်ပွဲ တစ်ခုကို တစ်ခါမှ မပြုလုပ်ဖူးပါ။
+5/5
 
 5727
 Squamish is famous for log-rolling contests.
-စကွေးမစ်ရှ်သည် သစ်လုံးလှိမ့် ပြိုင်ပွဲများ ကြောင့် ကျော်ကြားသည်။
+Sqamishသည် သစ်လုံးလှိမ့် ပြိုင်ပွဲများ ကြောင့် ကျော်ကြားသည်။
+5/5
 
 5728
-Squamish is were log-rolling contests started.
-စကွေးမစ်ရှ်တွင် သစ်လုံးလှိမ့် ပြိုင်ပွဲများကို စတင်ခဲ့သည်။ 
+Squamish is where log-rolling contests started.
+Sqamishတွင် သစ်လုံးလှိမ့် ပြိုင်ပွဲများကို စတင်ခဲ့သည်။ 
+5/5
 
 5729
 The Loyal Senate building is beautiful.
-ရွိုင်ရယ် ဆီးနိတ် အဆောက်အဦသည် လှပသည်။
+The Loyal Senate အဆောက်အဦသည် လှပသည်။
+5/5
 
 5730
 The Loyal Senate building is modern architecture.
-ရွိုင်ရယ် ဆီးနိတ် အဆောက်အဦသည် ခေတ်မီ ဗိသုကာလက်ရာ ဖြစ်သည်။
+The Loyal Senate အဆောက်အဦသည် ခေတ်မီ ဗိသုကာလက်ရာ ဖြစ်သည်။
+5/5
 
 5731
 The Loyal Senate building is very tall and white.
-ရွိုင်ရယ် ဆီးနိတ် အဆောက်အဦသည် အလွန် မြင့်မား ပြီး အဖြူရောင် ဖြစ်သည်။
+The Loyal Senate အဆောက်အဦသည် အလွန် မြင့်မား ပြီး အဖြူရောင် ဖြစ်သည်။
+5/5
 
 5732
 It happens again in mid-August.
 ၎င်းသည် ဩဂုတ်လ အလယ်တွင် ထပ်မံ ဖြစ်ပွားသည်။
+5/5
 
 5733
 It happens again on Tuesday, August 15.
 ၎င်းသည် သြဂုတ် ၁၅ ရက် ၊ အင်္ဂါနေ့တွင် ထပ်မံ ဖြစ်ပွားသည်။
+5/5
 
 5734
 It never happens again.
 ၎င်းသည် ဘယ်တော့မှ ထပ်မံ မဖြစ်ပွားတော့ဘူး။
+5/5
 
 5735
 Coniera is 3 square miles.
 ကိုနီရာသည် ၃ စတုရန်းမိုင် ရှိသည်။
+5/5
 
 5736
 Coniera is in the Atlantic Ocean.
 ကိုနီရာသည် အတ္တလန္တိတ် သမုဒ္ဒရာထဲတွင် ရှိသည်။
+5/5
 
 5737
 Coniera is in the Sant Antoni Bay.
 ကိုနီရာသည် ဆန့် အန်တိုနီ ပင်လယ်အော်တွင် ရှိသည်။
+5/5
 
 5738
 All of the beaches are private.
-ကမ်းခြေ အားလုံးသည် သီးသန့် ဖြစ်သည်။
+ကမ်းခြေ အားလုံးသည် ပုဂ္ဂလိကပိုင်များ ဖြစ်သည်။
+5/5
 
 5739
 Some beaches are public.
 အချို့သော ကမ်းခြေများသည် အများနှင့်ဆိုင်သည်။
+5/5
 
 5740
 The public beaches for $5.
 အများပိုင် ကမ်းခြေများက ၅ ဒေါ်လာ
+4/5
+
 
 5741
 The emperor got Jerusalem for $1million.
 ဧကရာဇ်မင်းသည် ဂျေရုဆလင်ကို ဒေါ်လာ ၁ သန်းဖြင့် ရရှိခဲ့သည်။
+5/5
+
 
 5742
 The emperor got Jerusalem in a trade.
 ဧကရာဇ်မင်းသည် ဂျေရုဆလင်ကို ကုန်သွယ်မှု တစ်ခု တွင် ရရှိခဲ့သည်။
+5/5
+
 
 5743
 The emperor traded for Persia.
 ဧကရာဇ်မင်းသည် ပါးရှား အတွက် ရောင်းဝယ်ခဲ့သည်။
+5/5
+
 
 5744
 Hawthorne lived on Main Street.
 ဟောသရုန်းသည် မိန်း လမ်း တွင် နေထိုင်ခဲ့သည်။
+5/5
+
 
 5745
 Hawthorne lived on Pinckney Street for 7 years.
 ဟောသရုန်းသည် ပင့်ခ်နေ လမ်း တွင် ၇ နှစ် ကြာ နေထိုင်ခဲ့သည်။
+5/5
+
 
 5746
 Hawthorne lived on Pinckney Street.
 ဟောသရုန်းသည် ပင့်ခ်နေ လမ်း တွင် နေထိုင်ခဲ့သည်။
+5/5
+
 
 5747
 Boot is a small city.
 ဘုသည် သေးငယ်သော မြို့ တစ်မြို့ ဖြစ်သည်။
+5/5
+
 
 5748
 Boot is near the La'al Ratty.
 ဘုသည် လာရယ် ရက်တီ အနီး ရှိသည်။
+5/5
+
 
 5749
 Boot is very far from all of the railways.
 ဘုသည် မီးရထားလမ်း အားလုံးနှင့် အလွန် ဝေးသည်။
+5/5
+
 
 5750
 The gate was built so they could charge people.
 သူတို့သည် လူတွေကို ငွေကောက်ခံဖို့ ဂိတ်ဝင်ပေါက်ကို တည်ဆောက်ခဲ့သည်။
+5/5
+
 
 5751
 The gate was for people to charge $10 to go through.
