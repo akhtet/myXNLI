@@ -258,83 +258,111 @@ We have a lot of things we want to get done.
 
 7951
 We want to raise our sales numbers by 50%.
-ကျွန်ုပ်တို့သည် ကျွန်ုပ်တို့၏ရောင်းအားကို ၅၀% မြှင့်တင်လိုပါသည်။	
+ကျွန်ုပ်တို့သည် ကျွန်ုပ်တို့၏ရောင်းအားကို ၅၀% မြှင့်တင်လိုပါသည်။
+#5/5	
 
 7952
 Every play can related to what students learn at school.
 ပြဇာတ်တိုင်းက ကျောင်းသားတွေ ကျောင်းမှာ သင်ယူရတဲ့ အရာတွေနဲ့ ဆက်စပ်နိုင်ပါတယ်။
+#5/5
 
 7953
 Every play is related to what the art students learn in class.
 ပြဇာတ်တိုင်းသည် အတန်းထဲတွင် ပန်းချီကျောင်းသားများ သင်ယူသည့်အရာနှင့် ဆက်စပ်နေသည်။
+#5/5
 
 7954
 Plays stand alone and have no application in school.
 ပြဇာတ်တွေက တခြားစစ်စတမ်ကနေ ထိန်းချုပ်မှုမရှိဘဲ လည်ပတ်နိုင်ပြီး ကျောင်းတွင် လျှောက်လွှာတင်ခြင်း မရှိပါ။
+#2/5
+#ပြဇာတ်များသည် စာသင်ခန်းအတွက် အသုံးဝင်မှုမရှိဘဲ တစ်ကွဲတပြား ရှိသည်။
 
 7955
 Bepko was elected by the popular vote.
 ဘက်ကိုကို ပေါ်ပြူလာမဲဖြင့် ရွေးချယ်ခဲ့သည်။
+#4/5
+#ဘက်ကိုကို လူကြိုက်များမှုနဲ့ ရွေးချယ်ခဲ့သည်
 
 7956
 Bepko was the head of the campaign in 1995.
 ဘက်ကိုသည် ၁၉၉၅ ခုနှစ်တွင် မဲဆွယ်စည်းရုံးရေးခေါင်းဆောင်ဖြစ်ခဲ့သည်။
+#5/5
 
 7957
 Bepko was the head of the ways and means committee.
 ဘက်ကိုသည် ဝေးအန်မီး ကော်မတီ၏ အကြီးအကဲ ဖြစ်ခဲ့သည်။
+#3/5
+#ဘက်ကိုသည် ပြီးမြောက်အောင်ဆောင်ရွက်သောကော်မတီ၏‌ေခါင်း‌ေဆာင်ဖြစ်သည်။
 
 7958
 All of his students said he was the best teacher they'd ever had.
 သူ့တပည့်အားလုံးက သူသည် သူတို့တွေ့ဖူးသမျှတွင် အကောင်းဆုံးဆရာဟု ဆိုကြသည်။
+#5/5
 
 7959
 He had no family or students.
 သူ့မှာ မိသားစုတွေ သို့မဟုတ် ကျောင်းသားတွေ မရှိဘူး။	
+#5/5
 
 7960
 He was very helpful for his students.
 သူက သူ့တပည့်တွေအတွက် အရမ်းအထောက်အကူဖြစ်ခဲ့တယ်။
+#4/5
 
 7961
 We do a better job at matching you with a date if we know a lot about you.
 မင်းအကြောင်းအများကြီးကို ငါတို့ သိရင် မင်းကို ရက်ချိန်းနဲ့ကိုက်ညီတဲ့ ပိုကောင်းတဲ့အလုပ်တစ်ခုကို ငါတို့လုပ်မယ်။
+#3/5
+# မင်း‌အကြောင်း ငါတို့ များများသိရင် မင်းနဲ့ လိုက်တဲ့ ကောင်မလေးနဲ့တွေ့ဖို့ ငါတို့ ပိုစီစဉ်ပေးမယ်။
+
 
 7962
 We do better when we know more about you.
 မင်းအကြောင်း ပိုသိလာတဲ့အခါ ငါတို့ ပိုကောင်းလာမယ်။
+#4/5
+#မင်းအကြောင်း ပိုသိရင် ငါတို့ ပိုအဆင်ပြေအောင်လုပ်ပေးမယ်။
 
 7963
 We don't need to know anything about you.
 ငါတို့ မင်းအကြောင်း ဘာမှ သိစရာ မလိုဘူး။
+#5/5
 
 7964
 The Society cares for animals that are almost extinct in Africa.
 လူ့အဖွဲ့အစည်းသည် အာဖရိကတွင် မျိုးသုဉ်းလုနီးပါးဖြစ်နေသော တိရစ္ဆာန်များကို ပြုစုစောင့်ရှောက်ပေးသည်။
+#4/5
+
 
 7965
 The Society cares for animals.
 လူ့အဖွဲ့အစည်းသည် တိရစ္ဆာန်များကို စောင့်ရှောက်သည်။
+#4/5
+
 
 7966
 The Society cares for little kids.
 လူ့အဖွဲ့အစည်းက ကလေးငယ်တွေကို ပြုစုစောင့်ရှောက်တယ်။
+#4/5
 
 7967
 There are only two lockers in the whole building.
 အဆောက်အဦတစ်ခုလုံးတွင် လော့ကာနှစ်ခုသာရှိသည်။
+#4/5
 
 7968
 There are way more lockers than the students would ever need.
 ကျောင်းသားတွေ လိုအပ်တာထက် လော့ကာတွေက  ပိုများတယ်။
+#4/5
 
 7969
 There is a lack of lockers for students.
 ကျောင်းသားများအတွက် လော့ကာများ မရှိပါ။
+#4/5
 
 7970
 The Clinton Birthplace Foundation is for-profit.
 ကလင်တန်မွေးရပ်မြေဖောင်ဒေးရှင်းသည် အကျိုးအမြတ်အတွက်ဖြစ်သည်။
+#4/5
 
 7971
 The Clinton Birthplace Foundation operates on donations.
