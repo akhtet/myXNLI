@@ -116,7 +116,7 @@ Catholics and Christians have some things in common.
 9024
 Catholics and Christians never partake in the same activities.
 ကက်သလစ်နှင့် ခရစ်ယာန်များက တူညီသောလုပ်ဆောင်မှုများတွင် ဘယ်သောအခါမှ ပါဝင်ဆင်နွှဲခြင်းမရှိပါ။
-#3/5
+#4/5
 
 9025
 There are some exclusively Catholic traditions.
@@ -125,32 +125,32 @@ There are some exclusively Catholic traditions.
 
 9026
 Changes in military traditions are evident as fewer scapegoats are used to explain problems with discipline and command.
-စည်းကမ်းနှင့် အမိန့်ပေးမှုဆိုင်ရာ ပြဿနာများကို ရှင်းပြရန် ခုတုံးလုပ်ကြားခံရမှုများ နည်းပါးလာမှုကြောင့် စစ်ဘက်ဆိုင်ရာ ထုံးတမ်းစဉ်လာများ ပြောင်းလဲလာသည်မှာ ထင်ရှားသည်။
-#3/5
+စည်းကမ်းနှင့်အမိန့်ပေးမှု့ဆိုင်ရာပြဿနာများကို ရှင်းပြရာတွင် scapegoat များ အသုံးပြုမှု့နည်းပါးလာသောကြောင့် စစ်ဘက်ဆိုင်ရာ ထုံးတမ်းစဉ်လာများ ပြောင်းလဲလာသည်မှာ ထင်ရှားသည်။
+#4/5
 
 9027
 The military has a history of using a scapegoat.
-စစ်တပ်က ခုတုံးလုပ်ထားတဲ့ ရာဇဝင် တစ်ခု ရှိတယ်။
-#3/5
+စစ်တပ်က scapegoat သုံးတဲ့ သမိုင်းတစ်ခု ရှိတယ်။
+#4/5
 
 9028
 There is no evidence of the military using scapegoats in the past.
-အရင်တုန်းကတော့ စစ်တပ်က ခုတုံးလုပ်ထားတဲ့ သက်သေ မရှိဘူး။
-#3/5
+အရင်တုန်းကတော့ စစ်တပ်က scapegoats သုံးတဲ့ အထောက်အထား မရှိဘူး။
+#4/5
 
 9029
 Michael Lewis gave over 50 interviews about his book, Trail Fever.
-မိုက်ကယ်လူးဝစ် က သူ့ရဲ့စာအုပ် Trail Fever အကြောင်း အင်တာဗျူးပေါင်း ၅၀ ကျော်ကို ဖြေဆိုခဲ့တယ်။
+Michael Lewis က သူ့ရဲ့စာအုပ် Trail Fever အကြောင်း အင်တာဗျူးပေါင်း ၅၀ ကျော်ကို ဖြေဆိုခဲ့တယ်။
 #4/5
 
 9030
 Michael Lewis wrote a book called Trail Fever.
-မိုက်ကယ်လူးဝစ် က Trial Fever လို့ ခေါ်တဲ့ စာအုပ်တစ်အုပ် ကို ရေးခဲ့တယ်။
+Michael Lewis က Trial Fever လို့ ခေါ်တဲ့ စာအုပ်တစ်အုပ် ကို ရေးခဲ့တယ်။
 #4/5
 
 9031
 There are no known interviews with Michael Lewis where he discusses Alexander.
-အလက်ဇန်းဒါးနှင့် ဆွေးနွေးသည့် မိုက်ကယ်လူးဝစ်နှင့် အင်တာဗျူးများ မရှိပါ။
+Alexander နှင့် ဆွေးနွေးသည့် Michael Lewis ရဲ့ အင်တာဗျူးများ မရှိပါ။
 #4/5
 
 9032
@@ -165,17 +165,17 @@ The main subject of this story is about my gender and revealing this to those cl
 
 9034
 The story covers subject matter not based entirely on gender.
-ဇာတ်လမ်းသည် ယောကျ်ားမိန်းမ ဖြစ်တည်မှု အပေါ် လုံးလုံးလျားလျားအခြေခံတာမဟုတ်ဘူးတဲ့ အကြောင်းအရာကို အကျုံးဝင်သည်။
-#3/5
+ဇာတ်လမ်းက ယောကျ်ားမိန်းမ ဖြစ်တည်မှု အပေါ် ကြီး အခြေမခံ တဲ့ ကိစ္စ တွေအကြောင်း ဖြစ်တယ်။
+#4/5
 
 9035
 Donald Trump cannot dance.
-ဒေါ်နယ် ထရန့် က မကတတ်ဘူး။
+Donald Trump မကတတ်ဘူး။
 #4/5
 
 9036
 People have cell phones in New York.
-နယူးယောက်မှာ လူတွေက ဆဲလ်ဖုန်းတွေရှိကြတယ်။
+နယူးယောက် က လူတွေမှာ  ဆဲလ်ဖုန်းတွေရှိကြတယ်။
 #4/5
 
 9037
@@ -210,12 +210,12 @@ Some Asians crossed the Bering Strait.
 
 9043
 White people primarily represented North America since its discovery.
-လူဖြူများသည် မြောက်အမေရိကကို ရှာဖွေတွေ့ရှိကတည်းက အဓိကအားဖြင့် ကိုယ်စားပြုသည်။
+မြောက်အမေရိကကို ရှာဖွေတွေ့ရှိကတည်းက လူဖြူများသည် မြောက်အမေရိက ကို အဓိကအားဖြင့် ကိုယ်စားပြုသည်။
 #4/5
 
 9044
 Stepping on toes causes pain.
-သူတပါးကိစ္စများကို ဝင်ရောက်စွက်ဖက်ခြင်းသည် စိတ်အနှောက်အယှက်ဖြစ်ပေါ်စေသည်။
+သူတပါးကိစ္စများကို ဝင်ရောက်စွက်ဖက်ခြင်းသည် စိတ်အနှောက်အယှက်ဖြစ်စေသည်။
 #4/5
 
 9045
@@ -261,54 +261,67 @@ Boston Globe က ဟားဗတ်တက္ကသိုလ်အကြောင
 9053
 Greenlee County has a public library.
 Greenlee ကောင်တီ တွင် ပြည်သူ့ စာကြည့်တိုက် ရှိသည်။
+#4/5
 
 9054
 Greenlee County has multiple public libraries.
 Greenlee ကောင်တီ တွင် ပြည်သူ့ စာကြည့်တိုက် များစွာ ရှိသည်။
+#4/5
 
 9055
 Greenlee County is not located in the state of Arizona.
 Greenlee ကောင်တီ သည် အရီဇိုးနား ပြည်နယ်တွင် မတည်ရှိပါ။
+#4/5
 
 9056
 The sign lit up in Times Square.
 ဆိုင်းဘုတ် ကို Times Square မှာ ထွန်းထားသည်။
+#4/5
 
 9057
 The sign lit up.
 ဆိုင်းဘုတ် ထွန်းထားသည်။
+#4/5
 
 9058
 The sign stayed black.
 ဆိုင်းဘုတ်က မည်းနေခဲ့တယ်။
+#4/5
 
 9059
 I was definitely signing up.
 ကျွန်တော် ကျိန်းသေ မှတ်ပုံတင်ခဲ့တယ်။
+#4/5
 
 9060
 I was expected to sign up.
 ကျွန်တော် မှတ်ပုံတင်ဖို့ မျှော်လင့်ခဲ့တယ်။
+#4/5
 
 9061
 I would not sign up.
 ကျွန်တော် မှတ်ပုံမတင်ဘူး။
+#4/5
 
 9062
 Do you know who won't understand?
 ဘယ်သူက နားမလည်လဲ မင်း သိလား။
+#4/5
 
 9063
 I think you know who would understand.
 ဘယ်သူနားလည်မယ်ဆိုတာ မင်းသိမယ် လို့ ကျွန်တော်ထင်တယ်။
+#4/5
 
 9064
 There is someone who would understand.
 နားလည်မယ့်သူရှိလိမ့်တယ်။
+#4/5
 
 9065
 Some files cannot be deleted while Windows is running.
 ဝင်းဒိုးစ် လုပ်ဆောင်နေချိန်တွင် အချို့ဖိုင်များကို ဖျက်၍မရပါ။
+#4/5
 
 9066
 The .dll files have no impact on the Windows operating system and can be deleted whenever you want.
