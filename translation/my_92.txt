@@ -457,19 +457,23 @@ I am writing you while on a two-week vacation in the United States.
 
 9193
 I'm usually in the United States, but I'm not writing to you from there right now.
-ငါက အမြဲလိုလို အမေရိကန်ပြည်ထောင်စုမှာ ရှိနေပေမဲ့ ငါ အခု အဲဒီကနေမှ မင်းဆီ စာမရေးတော့ဘူး။
+ငါက များသောအားဖြင့် အမေရိကန်ပြည်ထောင်စုမှာ ရှိနေပေမဲ့ ငငါအခု အဲ့ဒီက နေ စာရေးနေတာမဟုတ်ဘူး။
+#4/5
 
 9194
 Hernstein and Murray used educated and intelligence to determine IQ.
-ဟဲရင်စတင်း နှင့် မာရေး တို့သည် အိုင်ကျူ ကိုဆုံးဖြတ်ရန် ပညာတတ်နှင့် ဉာဏ်ရည်ကို အသုံးပြုသည်။
+Hernstein နှင့် Murray တို့သည် အိုင်ကျူ ကိုဆုံးဖြတ်ရန် ပညာတတ်နှင့် ဉာဏ်ရည်ကို အသုံးပြုသည်။
+#3/5
 
 9195
 The only things Herstein and Murray use to determine IQ is age and gender.
-အိုင်ကျူ ကို ဆုံးဖြတ်ရန် ဟဲရင်စတင်း နှင့် မာရေး တို့ သုံးတဲ့ တစ်ခုတည်းသော အရာမှာ အသက်နှင့် လိင် ဖြစ်သည်။
+အိုင်ကျူ ကို ဆုံးဖြတ်ရန် Herstein နှင့် Murray တို့ သုံးတဲ့ တစ်ခုတည်းသော အရာမှာ အသက်နှင့် လိင် ဖြစ်သည်။
+#4/5
 
 9196
 To determine the IQ of the children, Hernstein and Murray used educated and intelligence.
-ကလေးတွေရဲ့ အိုင်ကျူ ကို ဆုံးဖြတ်ရန် ဟဲရင်စတင်း နှင့် မာရေး တို့သည် ပညာတတ်နှင့် ဉာဏ်ရည်ကို အသုံးပြုခဲ့သည်။
+ကလေးတွေရဲ့ အိုင်ကျူ ကို ဆုံးဖြတ်ရန် Hernstein နှင့် Murray တို့သည် ပညာတတ်နှင့် ဉာဏ်ရည်ကို အသုံးပြုခဲ့သည်။
+#3/5
 
 9197
 Simple facts about brain chemistry aren't taken into account in the study.
