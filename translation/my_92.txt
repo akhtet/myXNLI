@@ -228,75 +228,93 @@ Our only option is to follow whatever directions we are given from our superiors
 
 9147
 We have earned the respect and the right to be proud leaders on this subject.
-ငါတို့က ဒီအ​ကြောင်းအရာပေါ်မှာ ခေါင်းဆောင်တွေလို့ ဂုဏ်ယူလောက်စရာ လေးစားမှု နဲ့ အခွင့်အရေး ရကြတယ်။
+ငါတို့က ဒီအကြောင်းအရာပေါ်မှာ ခေါင်းဆောင်တွေလို့ ဂုဏ်ယူလောက်စရာ လေးစားမှု တွေ ရကြတယ်။
+#4/5
 
 9148
 We owe no one any apologizes for our leadership in this matter.
 ဒီကိစ္စမှာ ကျွန်ုပ်တို့ရဲ့ခေါင်းဆောင်မှုအတွက် ဘယ်သူ့ကိုမှ တောင်းပန်စရာမရှိပါဘူး။
+#4/5
 
 9149
 Large yachts are very expensive to maintain as they need regular maintenance and use large amounts of fuel.
 ရွက်လှေကြီးများသည် ပုံမှန်ပြုပြင်ထိန်းသိမ်းရန် လိုအပ်ပြီး လောင်စာဆီအမြောက်အမြားအသုံးပြုသောကြောင့် ထိန်းသိမ်းရန် အလွန်စျေးကြီးပါသည်။
+#4/5
 
 9150
 Very few elegant or flirtatious scenes take place on yachts.
-ရွက်လှေပေါ်တွင် ကျက်သရေရှိသော သို့မဟုတ် ပရောပရည်လုပ်သည့် မြင်ကွင်း အလွန်နည်းပါးသည်။
+ရွက်လှေပေါ်တွင် နှစ်လိုဖွယ်ကောင်းသော သို့မဟုတ် စွဲမက်ဖွယ်သောအပြုအမူ မြင်ကွင်း အလွန်နည်းပါးသည်။
+#4/5
 
 9151
 Yachts are used as the setting for many elegant scenes.
 ရွက်လှေများကို ကျက်သရေရှိသော မြင်ကွင်းများစွာအတွက် နောက်ခံရှုခင်း အဖြစ် အသုံးပြုကြသည်။
+#4/5
 
 9152
 Scholastic is a well known company.
-စကိုလပ်စတစ်စ် သည် လူသိများသော ကုမ္ပဏီတစ်ခုဖြစ်သည်။
+Scholastic သည် လူသိများသော ကုမ္ပဏီတစ်ခုဖြစ်သည်။
+#4/5
 
 9153
 School children have no teachers.
 ကျောင်းသားသူငယ်တွေမှာ ဆရာတွေ မရှိဘူး။
+#4/5
 
 9154
 The Teacher of the Year award is a huge honor.
-တစ်နှစ်တာအကောင်းဆုံးဆရာဆုသည် ကြီးမားသော ဂုဏ်တစ်ခုဖြစ်သည်။
+တစ်နှစ်တာအကောင်းဆုံးဆရာဆုသည် ကြီးမားသော ဂုဏ်ယူစရာတစ်ခုဖြစ်သည်။
+#4/5
 
 9155
 The MCI Web site has guidelines that are easy to understand regarding measuring home runs.
-အမ်စီအိုင် ဝဘ်ဆိုက်တွင် ဘေ့စ်ဘောကစားရာတွင် ဘောလုံး ရိုက်သူက သတ်မှတ်ကွင်းကို တစ်ပတ်ပြေးခြင်းကို တိုင်းတာခြင်းနှင့်ပတ်သက်၍ နားလည်ရလွယ်ကူသော လမ်းညွှန်ချက်များရှိသည်။
+MCI ဝဘ်ဆိုက်တွင် ဘေ့စ်ဘောကစားရာတွင် home runs ကို တိုင်းတာခြင်းနှင့်ပတ်သက်၍ နားလည်ရလွယ်ကူသော လမ်းညွှန်ချက်များရှိသည်။
+#4/5
 
 9156
 There are established guidelines on the MCI Web site that explain how to measure home runs.
-အမ်စီအိုင် ဝဘ်ဆိုက်ပေါ်မှာ ဘေ့စ်ဘောကစားရာတွင် ဘောလုံး ရိုက်သူက သတ်မှတ်ကွင်းကို တစ်ပတ်ပြေးခြင်းအား ဘယ်လို တိုင်းတာရမည်ကို ရှင်းပြသည့် သတ်မှတ်ထားသော လမ်းညွှန်ချက်များ ရှိပါသည်။
+MCI ဝဘ်ဆိုက်ပေါ်မှာ ဘေ့စ်ဘောကစားရာတွင် home runs အား ဘယ်လို တိုင်းတာရမည်ကို ရှင်းပြသည့် သတ်မှတ်ထားသော လမ်းညွှန်ချက်များ ရှိသည်။
+#4/5
 
 9157
 There is no mention of home runs on the MCI Web site at this time.
-အမ်စီအိုင် ဝဘ်ဆိုက်ပေါ်တွင် ဘေ့စ်ဘောကစားရာမှာ ဘောလုံး ရိုက်သူက သတ်မှတ်ကွင်းကို တစ်ပတ်ပြေးခြင်းအကြောင်းအား ဒီအချိန်မှာ ဖော်ပြထားခြင်းမရှိပါ။
+MCI ဝဘ်ဆိုက်ပေါ်တွင် home runs အကြောင်းအား ယခုအချိန်မှာ ဖော်ပြထားခြင်းမရှိပါ။
+#4/5
 
 9158
 Clinton and Birch are homosexuals.
-ကလင်တန် နှင့် ဘာ့ခ်ျ တို့သည် လိင်တူဆက်ဆံသူများဖြစ်ကြသည်။
+Clinton နှင့် Birch တို့သည် လိင်တူဆက်ဆံသူများဖြစ်ကြသည်။
+#4/5
 
 9159
 Clinton and Birch are trying to suppress homosexuality.
-ကလင်တန် နှင့် ဘာ့ခ်ျ တို့သည် လိင်တူဆက်ဆံမှုကို ဖိနှိပ်ဖို့ ကြိုးစားနေကြပါသည်။
+Clinton နှင့် Birch တို့သည် လိင်တူဆက်ဆံမှုကို ဖိနှိပ်ဖို့ ကြိုးစားနေကြပါသည်။
+#4/5
 
 9160
 Homosexuality is seen as a vice.
 လိင်တူဆက်ဆံခြင်းကို မကောင်းမှုဒုစရိုက်အဖြစ် မြင်သည်။
+#4/5
 
 9161
 Men would not lift it because they are afraid.
-သူတို့တွေက ကြောက်သောကြောင့် ယောက်ျားတွေက ဒါကို မလွှင့်ပစ်ဘူး။
+ယောက်ျားတွေက ကြောက်သောကြောင့် ဒါကို ဖယ်ရှားမှာမဟုတ်ဘူး။
+#4/5
 
 9162
 Your actions anger a lot of people.
 မင်းရဲ့ လုပ်ဆောင်ချက်တွေက လူတွေကို ဒေါသဖြစ်စေတယ်။
+#4/5
 
 9163
 Your actions are outright illegal.
 မင်းရဲ့လုပ်ဆောင်ချက်တွေက လုံးဝ တရားမ၀င်ဘူး။
+#5/5
 
 9164
 Most people see this personal process, which is mirrored in today's culture, as decay rather than maturity.
-လူအများစုက ယနေ့ခေတ်ယဉ်ကျေးမှုမှာ ထင်ဟပ်နေသည့် ၊ ဒီပုဂ္ဂိုလ်ရေးလုပ်ငန်းစဉ်ကို ရင့်ကျက်မှုထက် ပျက်စီးယိုယွင်းမှုအဖြစ် မြင်ကြသည်။
+လူအများစုက ယနေ့ခေတ်ယဉ်ကျေးမှုမှာ ထင်ဟပ်နေသည့် ၊ ဒီ personal process ကို ရင့်ကျက်မှုထက် ပျက်စီးယိုယွင်းမှုအဖြစ် မြင်ကြသည်။
+#4/5
 
 9165
 Nothing that's happening in the culture today supports this personal process, whatever you choose to call it.
