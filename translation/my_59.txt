@@ -51,62 +51,77 @@
 5801
 The cross is just 200 pounds.
 လက်ဝါးကပ်တိုင်က ပေါင် ၂၀၀ ပဲရှိတယ်။
+5/5
 
 5802
 The cross is made out of solid stone.
 လက်ဝါးကပ်တိုင်ကို ကျောက်တုံး အစိုင်အခဲ ဖြင့် ပြုလုပ်ထားသည်။
+5/5
 
 5803
 The cross weighs almost 200,000 tons.
 လက်ဝါးကပ်တိုင်သည် တန်ချိန် ၂၀၀,၀၀၀ နီးပါး အလေးချိန်ရှိသည်။
+5/5
 
 5804
 Noske wanted the movement to stop before he lost power.
-နိုစ်ကီက သူသည် အာဏာ မဆုံးရှုံးခင်မှာ လှုပ်ရှားမှုကို ရပ်တန့်ချင်ခဲ့တယ်။
+Noske က သူအာဏာ မဆုံးရှုံးခင်မှာ လှုပ်ရှားမှုကို ရပ်တန့်ချင်ခဲ့တယ်။
+5/5
 
 5805
 Noske wanted things to continue right away.
-နိုစ်ကီက အကြောင်းအရာတွေကို ချက်ချင်း ဆက်လက် လုပ်စေချင်ခဲ့တယ်။
+Noske က အကြောင်းအရာတွေကို ချက်ချင်း ဆက်လက် လုပ်စေချင်ခဲ့တယ်။
+5/5
 
 5806
 Noske wanted to stop what was happening.
-နိုစ်ကီက ဖြစ်ပျက်နေတာကို ရပ်တန့်ချင်ခဲ့တယ်။
+Noske က ဖြစ်ပျက်နေတာကို ရပ်တန့်ချင်ခဲ့တယ်။
+5/5
 
 5807
 No one ever visits Bali.
-ဘာလီကို ဘယ်သူမှ မရောက်ဖူးဘူး။
+ဘာလီကို ဘယ်သူမှ မသွားကြဘူး။
+5/5
 
 5808
 Tour groups go to Bali a lot.
 ခရီးသွား အဖွဲ့တွေသည် ဘာလီကို အရမ်း သွားကြတယ်။
+5/5
 
 5809
 Tour groups go to see the temples in Bali.
 ခရီးသွား အဖွဲ့များသည် ဘာလီရှိ ဘုရားကျောင်းများကို သွားကြည့်ကြသည်။
+5/5
 
 5810
 There are no temples in the areas.
 ဒီ ဒေသတွေမှာ ဘုရားကျောင်းတွေ မရှိဘူး။
+5/5
 
 5811
 There are some little temples.
 သေးငယ်သော ဘုရားကျောင်း အချို့ ရှိသည်။
+5/5
 
 5812
 There are some tiny temples only one person can fit in.
 လူတစ်ဦးတည်းသာ ဝင်ဆံ့နိုင်သော သေးငယ်သော ဘုရားကျောင်း အချို့ ရှိသည်။
+5/5
 
 5813
 The land was hard.
-ဒီကုန်းမြေက ကြမ်းတယ်။
+ဒီကုန်းမြေက မာတယ်။
+5/5
 
 5814
 The land was soft.
 ဒီကုန်းမြေက ပျော့တယ်။
+5/5
 
 5815
 They could have tried harder.
-သူတို့ ပိုပြီးခက်ခက်ခဲခဲ ကြိုးစားနိုင်ခဲ့တယ်။
+သူတို့ ပိုပြီးခက်ခက်ခဲခဲ ကြိုးစားနိုင်ခွင့်ရှိခဲ့တယ်။
+5/5
 
 5816
 The chimney is not an indicator that the village used to be part of a hacienda.
