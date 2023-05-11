@@ -125,143 +125,178 @@ They could have tried harder.
 
 5816
 The chimney is not an indicator that the village used to be part of a hacienda.
-မီးခိုးခေါင်းတိုင်က ရွာသည် ခြံဝင်းအကျယ်ကြီးရှိသောအိမ် ၏ အစိတ်အပိုင်း ဖြစ်ခဲ့ဖူးတာကို ညွှန်းသောကိရိယာ တစ်ခု မဟုတ်ပါ။
+မီးခိုးခေါင်းတိုင်က ရွာသည် ခြံဝင်းအကျယ်ကြီးရှိသောအိမ် ၏ အစိတ်အပိုင်း ဖြစ်ခဲ့ဖူးတာကို ညွှန်းသော သင်္ကေတ တစ်ခု မဟုတ်ပါ။
+5/5
 
 5817
 The chimney, among other things, indicate the village used to be part of a hacienda.
 အခြား အရာတွေ အများထဲမှ ၊ မီးခိုးခေါင်းတိုင်က ၊ ရွာသည် ခြံဝင်းအကျယ်ကြီးရှိသောအိမ် ၏ အစိတ်အပိုင်း ဖြစ်ခဲ့တာကို ညွှန်ပြနေသည်။
+5/5
 
 5818
 The chimneys indicate the village was part of a hacienda.
 မီးခိုးခေါင်းတိုင်က ရွာသည် ခြံဝင်းအကျယ်ကြီးရှိသောအိမ် ၏ အစိတ်အပိုင်း ဖြစ်ခဲ့တာကို ညွှန်ပြနေသည်။
+5/5
 
 5819
 The walls have 100000 tiles on them.
-နံရံများသည် ၎င်းတို့ပေါ်မှာ ကြွေပြားပေါင်း ၁၀၀၀၀၀ ပါပါတယ်။
+နံရံများတွင် ကြွေပြားပေါင်း ၁၀၀၀၀၀ ပါပါတယ်။
+5/5
 
 5820
 There are a ton of little tiles there.
 အဲဒီမှာ သေးငယ်သော ကြွေပြား အများအပြား ရှိသည်။
+5/5
 
 5821
 There is nothing decorative there.
 အဲဒီမှာ အလှဆင်ထားတာ ဘာမှမရှိဘူး။
+5/5
 
 5822
 The painting aspires to turn the church into a Gothic cathedral.
 အဆိုပါ ပန်းချီကားသည် ဘုရားကျောင်းကို ဂေါ့သစ် ဘုရားရှိခိုးကျောင်းအဖြစ် ပြောင်းလဲရန် ဆန္ဒပြင်းပြသည်။
+#review
 
 5823
 The painting was created by an artist who was drunk at the time.
 အဆိုပါ ပန်းချီကားကို ထိုအချိန်က အရက်မူးနေသော ပန်းချီဆရာ တစ်ယောက် က ဖန်တီးခဲ့သည်။
+5/5
 
 5824
 The painting would turn the church into a harem.
 ပန်းချီကားက ဘုရားကျောင်းကို ဟာရမ် တစ်ခု အဖြစ် ပြောင်းလဲစေတယ်။
+#review
 
 5825
 The a5 coin is incredibly rare.
 a5 ဒင်္ဂါးပြားသည် အလွန် ရှားပါးသည်။
+5/5
 
 5826
 The a5 coin was British.
 a5 ဒင်္ဂါးပြားသည် ဗြိတိန်နှင့်ဆိုင်သည်။
+5/5
 
 5827
 The a5 coin was from China.
 a5 ဒင်္ဂါးပြားသည် တရုတ်နိုင်ငံမှ ဖြစ်ခဲ့သည်။
+5/5
 
 5828
 All the Athenians wanted to stop the war.
 အေသင်မြို့သားအားလုံးသည် စစ်ပွဲကို ရပ်တန့်ချင်ခဲ့ကြသည်။
+5/5
 
 5829
 Some Athenians wanted to declare war.
 အေသင်မြို့သား အချို့က စစ်ကို ကြေညာချင်ခဲ့ကြသည်။
+5/5
 
 5830
 Some Athenians wanted to start a war against the new king of macedonia.
 အေသင်မြို့သား အချို့သည် မက်ဆီဒိုးနီးယား ဘုရင် သစ် ကို ဆန့်ကျင်သည့် စစ်ပွဲ တစ်ပွဲ စတင်ချင်ခဲ့ကြသည်။
+5/5
 
 5831
 The acoustics are great for singing.
 ဒီ အသံထွက်သည် သီချင်းဆိုရန် အလွန်ကောင်းသည်။
+5/5
 
 5832
 The acoustics are just a mess in that place.
-ဒီ အသံထွက်သည် ထိုနေရာတွင် ရောထွေးမှု တစ်ခု ဖြစ်နေသည်။
+ဒီ အသံထွက်သည် ထိုနေရာတွင် အလွန်ရောထွေးမှု တစ်ခု ဖြစ်နေသည်။
+5/5
 
 5833
 The acoustics make things loud.
 ဒီ အသံထွက်သည် အရာဝတ္တုတွေကို ကျယ်လောင်စေသည်။
+#review
 
 5834
 The instruments are violin, bass, and saxophone.
 တူရိယာများမှာ တယော၊ ဘေ့စ်နှင့် ၊ ဆာဆိုဖုန်းတို့ ဖြစ်ကြသည်။
+5/5
 
 5835
 The orchestra consists of the instruments mentioned before.
 သံစုံတီးဝိုင်းတွင် ယခင် ဖော်ပြထားသော တူရိယာများ ပါဝင်သည်။
+5/5
 
 5836
 The orchestra does not use instruments at all.
 သံစုံတီးဝိုင်းသည် တူရိယာများကို လုံးဝ မသုံးပါ။
+5/5
 
 5837
 Fishermen have a permit to catch the fish.
-တံငါသည်များတွင် ငါးဖမ်းရန် ခွင့်ပြုချက် တစ်ခု ရှိသည်။
+တံငါသည်များတွင် ငါးဖမ်းရန် ခွင့်ပြုချက် ရှိသည်။
+5/5
 
 5838
 You can just catch whatever you want, whenever you want.
-သင် အလိုရှိသော အချိန်တိုင်း ၊  သင် အလိုရှိသော အရာကို သာ ဖမ်းနိုင်သည်။
+သင် အလိုရှိသော အချိန်တိုင်း ၊  သင် အလိုရှိသော အရာကို ဖမ်းနိုင်သည်။
+5/5
 
 5839
 You have to have a permit to catch fish that are bigger than 6 inches.
-၆ လက်မ ထက် ပို၍ကြီးသော ငါးတွေကို ဖမ်းရန် ခွင့်ပြုချက် တစ်ခု မင်းမှာ ရှိရမယ်။
+၆ လက်မ ထက် ပို၍ကြီးသော ငါးတွေကို ဖမ်းရန် ခွင့်ပြုချက် မင်းမှာ ရှိရမယ်။
+5/5
 
 5840
 The facade was in King Tut's tomb.
-မျက်နှာစာသည် ဘုရင် တတ်၏ အုတ်ဂူ တွင် ရှိခဲ့သည်။
+မျက်နှာစာသည် ဘုရင် Tut ၏ အုတ်ဂူ တွင် ရှိခဲ့သည်။
+5/5
 
 5841
 The facade was in the Temple of Ramses II and is made of solid gold.
-မျက်နှာစာသည် ရမ်စိစ်သည်တူး ဘုရားကျောင်းတွင် ရှိခဲ့ ပြီး ရွှေ အစိုင်အခဲထု ဖြင့် ပြုလုပ်ထားသည်။
+မျက်နှာစာသည် Ramses II ဘုရားကျောင်းတွင် ရှိခဲ့ ပြီး ရွှေ အစိုင်အခဲထု ဖြင့် ပြုလုပ်ထားသည်။
+5/5
 
 5842
 The facade was in the Temple of Ramses II.
-မျက်နှာစာသည် ရမ်စိစ်သည်တူး ဘုရားကျောင်းတွင် ရှိခဲ့သည်။
+မျက်နှာစာသည် Ramses II ဘုရားကျောင်းတွင် ရှိခဲ့သည်။
+5/5
 
 5843
 Do not visit villages.
-ရွာတွေကို မလည်ပတ်ကြဘူး။
+ရွာတွေကို မလည်ပတ်ကြပါနှင့်။
+5/5
 
 5844
 Visit all of the villages.
-ရွာတွေ အားလုံးကို သွားလည်တယ်။
+ရွာတွေ အားလုံးကို သွားလည်ပါ။
+5/5
 
 5845
 Visit some villages.
-တချို့ရွာတွေကို သွားလည်တယ်။
+တချို့ရွာတွေကို သွားလည်ပါ။
+5/5
 
 5846
 Fire if you think that you need to at any time.
 ဘယ်အချိန်ဖြစ်ဖြစ် မင်း လိုတယ် လို့ မင်း ထင်တယ် ဆိုလျှင် ပစ်လိုက်ပါ။
+5/5
 
 5847
 Only shoot if someone near you has a gun and fires a shot at your head.
-မင်း အနီးမှာရှိတဲ့ တစ်စုံတစ်ယောက်မှာ သေနတ် တစ်လက် ရှိ ပြီး မင်းရဲ့ ခေါင်းကို ပစ်မည် ဆိုလျှင် ပစ်လိုက်ရုံပါပဲ။
+မင်း အနီးမှာရှိတဲ့ တစ်စုံတစ်ယောက်မှာ သေနတ် တစ်လက် ရှိ ပြီး မင်းရဲ့ ခေါင်းကို ပစ်မည် ဆိုမှသာလျှင် ပြန်ပစ်လိုက်ပါ။
+5/5
 
 5848
 Only shoot if you have to.
-မင်း လုပ်ဖို့ရှိတယ် ဆိုလျှင် ပစ်လိုက်ရုံပါပဲ။
+မင်း လိုအပ်တယ် ဆိုမှသာလျှင် ပစ်လိုက်ပါ။
+5/5
 
 5849
 You can hike alone any time.
 မင်းက ဘယ်အချိန်ဖြစ်ဖြစ် တစ်ယောက်တည်း တောင်တတ်နိုင်ပါတယ်။
+5/5
 
 5850
 You should only hike with a guide because there are dangerous animals.
 အန္တရာယ်ရှိသော တိရစ္ဆာန်များ ရှိနေ သောကြောင့် လမ်းပြ တစ်ယောက် နှင့်သာ မင်း ခရီးထွက်သင့်သည်။
+5/5
 
 5851
 You should probably only hike with a guide.
