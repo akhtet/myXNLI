@@ -300,119 +300,148 @@ You should only hike with a guide because there are dangerous animals.
 
 5851
 You should probably only hike with a guide.
-မင်း လမ်းပြ တစ်ဦး နှင့်သာ ခရီးထွက်သင့်သည်။
+မင်း လမ်းပြ တစ်ဦး နှင့်သာ တောတောင်ခရီးထွက်သင့်သည်။
+5/5
 
 5852
 PEople like to party after the fish.
 ငါးမျှား ပြီးနောက် လူတွေက ပွဲတော်ကို နှစ်သက်ကြသည်။
+5/5
 
 5853
 People go fishing and then go right to sleep.
 လူတွေက ငါးမျှားထွက် ပြီးနောက် အိပ်ယာဝင်ကြတယ်။
+5/5
 
 5854
 People like to drink a lot of beer at the bars after they go fishing.
 လူတွေက ငါးမျှားသွား ပြီးနောက် အရက်ဆိုင်တွေမှာ ဘီယာ များစွာ သောက်လေ့ရှိကြသည်။
+5/5
 
 5855
 People think the islands should be left alone.
-လူတွေက ကျွန်းတွေကို သီးသန့် ထားသင့်တယ်လို့ ထင်နေကြတယ်။
+လူတွေက ကျွန်းတွေကို မနှောင့်ရှက်ပဲ ထားသင့်တယ်လို့ ထင်နေကြတယ်။
+5/5
 
 5856
 The islands are caught in the middle of a war.
-စစ်ပွဲ အလယ်မှာ ကျွန်းတွေကို သိမ်းပိုက်ခဲ့တယ်။
+စစ်ပွဲ အလယ်မှာ ကျွန်းတွေကို ပိတ်မိခဲ့တယ်။
+5/5
 
 5857
 We should keep the islands involved.
-ကျွန်တော်တို့က ကျွန်းတွေကို ပါဝင် စောင့်ရှောက်သင့်တယ်။
+ကျွန်တော်တို့က ကျွန်းတွေကို ဆက်လက်ပါဝင် စေသင့်တယ်။
+5/5
 
 5858
 The National Historical Museum has a lot of artifacts from post-Classical times.
 အမျိုးသား သမိုင်း ပြတိုက်တွင် ရှေးခေတ်လွန်ခေတ်က ရှေးဟောင်းပစ္စည်းအများအပြားရှိသည်။
+5/5
 
 5859
 The National Historical Museum has some old farm equipment.
 အမျိုးသား သမိုင်း ပြတိုက်တွင် လယ်ယာသုံး စက်ကိရိယာ အဟောင်း အချို့ ရှိသည်။
+5/5
 
 5860
 The National Historical Museum only has recent things.
 အမျိုးသား သမိုင်း ပြတိုက်တွင် လတ်တလော အကြောင်းအရာများ သာ ရှိသည်။
+5/5
 
 5861
 Everyone agreed the food was terrible.
-အစားအသောက်က ကြောက်စရာကောင်းတယ်လို့ လူတိုင်းက လက်ခံထားကြတယ်။
+အစားအသောက်က စားမကောင်းဘူးလို့ လူတိုင်းက လက်ခံထားကြတယ်။
+5/5
 
 5862
 One guy in jail said he liked the jail food a lot.
 ထောင်ထဲက လူ တစ်ယောက်က သူသည် ထောင်ထမင်းကို အရမ်းကြိုက်တယ် လို့ ပြောခဲ့တယ်။
+5/5
 
 5863
 One prisoner said he would eat the food every day if he could.
 တတ်နိုင်လျှင် သူသည် နေ့တိုင်း အစာ စားမယ်လို့ အကျဉ်းသား တစ်ယောက် က ပြောခဲ့ပါတယ်။
+5/5
 
 5864
 The gods always talked to the oracle about every legal matter.
-နတ်ဘုရားများသည် တရားစီရင်ရေး ကိစ္စ တိုင်း နှင့်ပတ်သက်၍ ကြိုတင်ခန့်မှန်းချက်ကို အမြဲပြောနေပါသည်။
+နတ်ဘုရားများသည် တရားစီရင်ရေး ကိစ္စ တိုင်း နှင့်ပတ်သက်၍ ဗျာဒိတ်ပေးနိုင်သူကို အမြဲပြောနေပါသည်။
+4/5
 
 5865
 The gods and the oracle never spoke or worked together.
-နတ်ဘုရားများ နှင့် ကြိုတင်ခန့်မှန်းချက်သည် တညီတညွတ်တည်း ပြောဆိုခြင်း သို့မဟုတ် လုပ်ဆောင်ခြင်း မရှိခဲ့ပါ။
+နတ်ဘုရားများ နှင့် နတ်အပူးခံနိုင်သူနှင့် တညီတညွတ်တည်း ပြောဆိုခြင်း သို့မဟုတ် လုပ်ဆောင်ခြင်း မရှိခဲ့ပါ။
+4/5
 
 5866
 The gods talked to the oracle.
-နတ်ဘုရားများသည် ကြိုတင်ခန့်မှန်းချက်ကို ပြောဆိုကြ၏။
+နတ်ဘုရားများသည် နတ်အပူးခံနိုင်သူနှင့် ပြောဆိုကြ၏။
+4/5
 
 5867
 CArrer dels Banys Nous is named for a forest.
-ကာရာ ဒဲလ် ဘန်းန် နှောက်စ်ကို သစ်တော တစ်ခု အတွက် အမည်ပေးထားသည်။
+CArrer dels Banys Nousကို သစ်တော တစ်ခု အတွက် အမည်ပေးထားသည်။
+5/5
 
 5868
 Carrer dels Banys Nous has a hot springs.
-ကာရာ ဒဲလ် ဘန်းန် နှောက်စ်တွင် ရေပူစမ်း တစ်ခု ရှိသည်။
+CArrer dels Banys Nousတွင် ရေပူစမ်း တစ်ခု ရှိသည်။
+5/5
 
 5869
 Carrer dels Banys Nous is named for baths.
-ကာရာ ဒဲလ် ဘန်းန် နှောက်စ် ကို ရေချိုးရန်အတွက် အမည်ပေးထားသည်။
+CArrer dels Banys Nousကို ရေချိုးခန်းများအတွက် အမည်ပေးထားသည်။
+5/5
 
 5870
 Albuferia is bustling and crazy!
-အလ်ဗူးဖီးရီးယားသည် ရှုပ်ပွနေ ပြီး စိတ်အနှောင့်အယှက်ဖြစ်ဖို့ကောင်းတယ်!
+Albuferiaသည် ရွထနေ ပြီး စိတ်အနှောင့်အယှက်ဖြစ်ဖို့ကောင်းတယ်!
+5/5
 
 5871
 Albuferia is quaint because cars aren't allowed there.
-အလ်ဗူးဖီးရီးယားသည် အဲဒီမှာ ကားတွေကို ခွင့်မပြုတဲ့အတွက် ထူးခြားပါတယ်။
+Albuferiaသည် အဲဒီမှာ ကားတွေကို ခွင့်မပြုတဲ့အတွက် ထူးခြားပါတယ်။
+5/5
 
 5872
 Albuferia is quaint.
-အလ်ဗူးဖီးရီးယားသည် ထူးခြားသည်။
+Albuferiaသည် ထူးခြားသည်။
+5/5
 
 5873
 Whitehorse used mainly horse carriages for transportation.
-ဝှိုက်ဟော့စ်သည် သယ်ယူပို့ဆောင်ရေး အတွက် မြင်းရထားများကို အဓိက အသုံးပြုခဲ့သည်။
+Whitehorseသည် သယ်ယူပို့ဆောင်ရေး အတွက် မြင်းရထားများကို အဓိက အသုံးပြုခဲ့သည်။
+5/5
 
 5874
 Whitehorse was territorial capital.
-ဝှိုက်ဟော့စ်သည် ပိုင်နက် မြို့တော် ဖြစ်ခဲ့သည်။
+Whitehorseသည် ပိုင်နက် မြို့တော် ဖြစ်ခဲ့သည်။
+5/5
 
 5875
 Whitehorse was the name of a potent alcoholic beverage.
-ဝှိုက်ဟော့စ်သည် အစွမ်းထက်သော အရက် အဖျော်ယမကာ တစ်ခု ၏ အမည် ဖြစ်ခဲ့သည်။
+Whitehorseသည် အစွမ်းထက်သော အရက် အဖျော်ယမကာ တစ်ခု ၏ အမည် ဖြစ်ခဲ့သည်။
+5/5
 
 5876
 Errol Flynn bought an island.
-အယ်ရို ဖလင်းသည် ကျွန်း တစ်ကျွန်းကို ဝယ်ယူခဲ့သည်။
+Errol Flynnးသည် ကျွန်း တစ်ကျွန်းကို ဝယ်ယူခဲ့သည်။
+5/5
 
 5877
 Errol Flynn did not buy an island.
-အယ်ရို ဖလင်းသည် ကျွန်း တစ်ကျွန်းကို မဝယ်ခဲ့ပါ။
+Errol Flynnသည် ကျွန်း တစ်ကျွန်းကို မဝယ်ခဲ့ပါ။
+5/5
 
 5878
 Errol Flynn was rich.
-အယ်ရို ဖလင်းသည် ချမ်းသာခဲ့သည်။
+Errol Flynnသည် ချမ်းသာခဲ့သည်။
+5/5
 
 5879
 Canada has never welcomed refugees.
-ကနေဒါက ဒုက္ခသည်တွေကို ဘယ်တော့မှ ကြိုဆိုမှာမဟုတ်ဘူး။
+ကနေဒါက ဒုက္ခသည်တွေကို ဘယ်တော့မှ ကြိုဆိုခဲ့ဘူး။
+5/5
 
 5880
 Canada was known for welcoming immigrants and refugees.
