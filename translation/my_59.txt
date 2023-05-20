@@ -446,83 +446,104 @@ Canada has never welcomed refugees.
 5880
 Canada was known for welcoming immigrants and refugees.
 ကနေဒါသည် ရွှေ့ပြောင်းအခြေချသူများ နှင့် ဒုက္ခသည်များကို ကြိုဆိုသောကြောင့် လူသိများသည်။
+5/5
 
 5881
 Canada welcomed refugees from African countries the most.
 ကနေဒါသည် အာဖရိကနိုင်ငံများမှ ဒုက္ခသည်များကို အများဆုံး ကြိုဆိုခဲ့သည်။
+5/5
 
 5882
 Computer CIty is not located in the Star House.
 ကွန်ပျူတာ စီးတီးသည် စတား ဟောက်စ်တွင် မတည်ရှိပါ။
+5/5
 
 5883
 Computer City is located in the Star House.
 ကွန်ပျူတာ စီးတီးသည် စတား ဟောက်စ်တွင် တည်ရှိသည်။
+5/5
 
 5884
 Computer City is the most impressive thing in the Star House.
 ကွန်ပျူတာ စီးတီးသည် စတား ဟောက်စ်တွင် အထင်ကြီးစရာ အကောင်းဆုံးအရာဖြစ်သည်။
+5/5
 
 5885
 Cala Mondrage is developed.
-ကာလာ မွန်ဒရေချ်သည် ဖွံ့ဖြိုးသည်။
+Cala Mondrageသည် ဖွံ့ဖြိုးလာခဲ့ပြီးဖြစ်သည်။
+5/5
 
 5886
 Cala Mondrage is not developed.
-ကာလာ မွန်ဒရေချ်သည် မဖွံ့ဖြိုးပါ။
+Cala Mondrageသည် မဖွံ့ဖြိုးပါ။
+5/5
 
 5887
 Cala Mondrage lacks sewers.
-ကာလာ မွန်ဒရေချ်တွင် ရေဆိုးမြောင်းများ ကင်းမဲ့နေသည်။
+Cala Mondrageတွင် ရေဆိုးမြောင်းများ ကင်းမဲ့နေသည်။
+5/5
 
 5888
 A church, chapel, and hexagonal tower represent the city's post-war rebirth.
 ခရစ်ယာန်ဘုရားကျောင်းတစ်ခု ၊ ဘုရားကျောင်းနှင့် ၊ ဆဋ္ဌဂံမျှော်စင်တို့သည် စစ်ပြီးခေတ် မြို့တော်၏ ပြန်လည်မွေးဖွားခြင်းကို ကိုယ်စားပြုသည်။
+5/5
 
 5889
 The marketplace represents the city's post-war rebirth.
 ဈေးသည် စစ်ပြီးခေတ် မြို့တော်၏ ပြန်လည်မွေးဖွားခြင်းကို ကိုယ်စားပြုသည်။
+5/5
 
 5890
 These structures were built by the greatest architect in the world.
 ဒီ အဆောက်အဦတွေကို ကမ္ဘာ့ အကြီးကျယ်ဆုံး ဗိသုကာပညာရှင်က တည်ဆောက်ခဲ့တာပါ။
+5/5
 
 5891
 Pierre was appointed but had to arrest himself for selling to the Americans.
-ပိဖ်ရာကို ခန့်အပ်ခဲ့ ပေမယ့် အမေရိကန်တွေဆီ ရောင်းစားလို့ သူ့ကိုယ်သူ အဖမ်းခံခဲ့ရပါတယ်။
+Pierreကို ခန့်အပ်ခဲ့ ပေမယ့် အမေရိကန်တွေဆီ ရောင်းစားလို့ သူ့ကိုယ်သူ အဖမ်းခံခဲ့ရပါတယ်။
+5/5
 
 5892
 Pierre was arrested for selling to the Americans among other things.
-ပိဖ်ရာသည် အခြားအရာများကြားတွင် အမေရိကန်လူမျိုးများကို ရောင်းစားခြင်းကြောင့် ဖမ်းဆီးခံခဲ့ရသည်။
+Pierreသည် အမေရိကန်လူမျိုးများကို ရောင်းစားခြင်း အပြင်အခြားအရာများကြား ကြောင့် ဖမ်းဆီးခံခဲ့ရသည်။
+5/5
 
 5893
 Pierre was never arrested.
-ပိဖ်ရာကို ဘယ်တုန်းကမှ ဖမ်းမမိခဲ့ဘူး။
+Pierreကို ဘယ်တုန်းကမှ ဖမ်းမမိခဲ့ဘူး။
+5/5
 
 5894
 The shops all serve some of the best food in the city.
-ဆိုင်များ အားလုံးသည် မြို့၏ အကောင်းဆုံး အစားအစာ အချို့ကို ဆောင်ရွက်ပေးပါသည်။
+ဆိုင်များ အားလုံးသည် မြို့၏ အကောင်းဆုံး အစားအစာ အချို့ကို တည့်ခင်းဧည့်ခံပါသည်။
+၅/၅
 
 5895
 The shops in the nearby streets are interesting.
 အနီးနားမှာရှိတဲ့ လမ်းတွေက စျေးဆိုင်တွေသည် စိတ်ဝင်စားဖို့ကောင်းတယ်။
+5/5
 
 5896
 The shops nearby are duller than any others around.
 အနီးနားရှိ ဆိုင်များသည် အခြားဆိုင်များထက် မှောင်နေပါသည်။
+5/5
 
 5897
 The collection is growing, but not as fast as it did last year.
 စုဆောင်းမှုသည် ကြီးထွားလာ သော်လည်း ၊ မနှစ်ကကဲ့သို့ မြန်ဆန်ခြင်း မရှိပါ။
+5/5
 
 5898
 The collection of clubs is dull and looks the same as all the others.
-ကလပ်အသင်းများ၏ စုစည်းမှုသည် မှုန်ဝါးနေ ပြီး အခြားအားလုံးနှင့် တူညီသည်။
+ကလပ် ပေါင်းစုံသည် မှုန်ဝါးနေ ပြီး အားလုံး ဆင်တူညီသည်။
+4/5
 
 5899
 The growing collection of clubs are unique and have a more urban edge.
-ကြီးထွားလာသော ကလပ်အသင်းများ၏ စုစည်းမှုသည် ထူးခြားပြီး မြို့ပြ အစွန်းအထင်း ပို ရှိသည်။
+ကြီးထွားလာသော ကလပ်အသင်းပေါင်းစုံသည် ထူးခြားပြီး မြို့ပြ ပုံစံ ပို ရှိသည်။
+5/5
 
 5900
 McKim Mead designed the mansion.
-မက်ကင် မဒ်သည် အိမ်ကြီးရခိုင်ကို ဒီဇိုင်းဆွဲခဲ့သည်။
+McKim Meadသည် အိမ်ကြီးရခိုင်ကို ဒီဇိုင်းဆွဲခဲ့သည်။
+5/5
