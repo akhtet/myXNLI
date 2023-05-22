@@ -528,16 +528,19 @@ To determine the IQ of the children, Hernstein and Murray used educated and inte
 9197
 Simple facts about brain chemistry aren't taken into account in the study.
 ဦးနှောက်ဓာတုဗေဒဆိုင်ရာ ရိုးရှင်းသော အချက်အလက်များကို လေ့လာမှုမှာ ထည့်သွင်းစဉ်းစားမည်မဟုတ်ပါ။
+#4/5
 
 9198
 The study takes into account facts about brain chemistry.
-လေ့လာမှုသည် ဦးနှောက်ဓာတုဗေဒဆိုင်ရာ အချက်အလက်များကို ထည့်သွင်းစဉ်းစားသည်။
+ဒီလေ့လာမှုသည် ဦးနှောက်ဓာတုဗေဒဆိုင်ရာ အချက်အလက်များကို ထည့်သွင်းစဉ်းစားသည်။
+#4/5
 
 9199
 Truths about brain chemistry are obvious.
 ဦးနှောက်ဓာတုဗေဒဆိုင်ရာ အမှန်တရားများသည် ထင်ရှားသည်။
+#4/5
 
 9200
 Millions of people took a diet drug that made them lost 20 pounds each.
-လူသန်းပေါင်းများစွာသည် သူတို့အား တစ်ဦးလျှင် နှစ်ဆယ် ပေါင် ကျစေသည့် အစားအစာနှင့်ဆိုင်သော ဆေးတစ်မျိုးကို သောက်ခဲ့ကြသည်။
-
+လူသန်းပေါင်းများစွာသည် သူတို့အား ပေါင်နှစ်ဆယ် စီလောက် ကျစေသည့် ပိန်ဆေးတစ်မျိုးကို သောက်ခဲ့ကြသည်။
+#4/5
