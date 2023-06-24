@@ -1,1 +1,7 @@
-for f in ../myTxQA/*/*.txt; do echo ../myTxQA/ysdsoe/my_44.txt; cp ../myTxQA/ysdsoe/my_44.txt translation/; done
+# !/bin/bash
+# This script should be run from the myXNLI directory
+
+for f in `ls ../myTxQA/*/*.txt`; do
+    echo $f; 
+    cp $f translation/; 
+done
