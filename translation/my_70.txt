@@ -93,7 +93,7 @@ Brendan Gill dislikes the merger.
 ဘရန်းဒန်ဂျေး သည် ပေါင်းစည်းခြင်းကို မကြိုက်ပါ။
 
 6912
-Brendan Gill likes the merger.
+Brendan Gill likes the merger
 ဘရန်းဒန်ဂျေးသည် ပေါင်းစည်းခြင်းကို ကြိုက်သည်။
 
 6913

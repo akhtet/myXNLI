@@ -205,7 +205,7 @@ Our complete season needs more to finance it then just ticket sales and subscrip
 ကျွန်ုပ်တို့၏ရာသီပြီးဆုံးဖို့က လက်မှတ်ရောင်းချမှုနှင့် ပုံမှန်ရသည့်ငွေများထက် ငွေကြေးထောက်ပံ့ရန် ပိုမိုလိုအပ်ပါသည်။
 
 7840
-Ticket sales and subscriptions only cover 70% of the financing costs for our complete season.
+TIcket sales and subscriptions only cover 70% of the financing costs for our complete season.
 လက်မှတ်ရောင်းချမှုနှင့် ပုံမှန်ရသည့်ငွေများသည် ကျွန်ုပ်တို့၏ပြီးပြည့်စုံသောရာသီအတွက် ငွေကြေးကုန်ကျစရိတ်၏၇၀% ကိုသာ အကျုံးဝင်ပါသည်။
 
 7841

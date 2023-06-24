@@ -221,7 +221,7 @@ If completed the investigation might have revealed the location of three fugitiv
 စုံစမ်းစစ်ဆေးမှု ပြီးစီးပါက တရားခံပြေး သုံးဦး၏ တည်နေရာကို ဖော်ထုတ်နိုင်မည်ဖြစ်သည်။
 
 7044
-The German government might have had difficulty performing a quick and thorough investigation.
+The German government might have had difficultly performing a quick and thorough investigation.
 ဂျာမန်အစိုးရသည် လျင်မြန်ပြီး စေ့စေ့စပ်စပ် စုံစမ်းစစ်ဆေးရန် ခက်ခဲနေပေမည်။
 
 7045
@@ -245,7 +245,7 @@ All passengers just get to walk through without an issue.
 ခရီးသည်အားလုံး ပြဿနာတစုံတရာ မရှိဘဲ လမ်းဖြတ်လျှောက်သွားရုံပါပဲ။
 
 7050
-Some passengers get full-body scans.
+Soem passengers get full-body scans.
 အချို့ခရီးသည်များကို တစ်ကိုယ်လုံး စကင်န်ဖတ်သည်။
 
 7051

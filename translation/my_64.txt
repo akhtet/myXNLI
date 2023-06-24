@@ -121,7 +121,7 @@ Households have been losing a lot of wealth.
 အိမ်ထောင်စုများသည် စည်းစိမ်ဥစ္စာ များစွာ ဆုံးရှုံးခဲ့ရသည်။
 
 6319
-Households have gotten a lot more wealth income ratio.
+Households have gotten a lot more wealthincome ratio.
 အိမ်ထောင်စုများသည် ကြွယ်ဝသော ၀င်ငွေ အချိုးအစား အများအပြားကို ပိုမို ရရှိလာကြသည်။
 
 6320

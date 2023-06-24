@@ -133,7 +133,7 @@ This welcome package is hand delivered during a site visit by one of Texas' 19 M
 ဝဲကမ်း ပက်ကေ့ချ်အား တက္ကဆက်၏ ၁၉ကြိမ်မြောက် ဆင်းရဲသားများအတွက်ဆေးဝါးအကူအညီပေးမှုစီမံကိန်း နယ်ပယ်ကိုယ်စားလှယ်များထဲမှ တစ်ခုက  တည်နေရာလည်ပတ်မှုအတွင်း လိုက်လံပို့ဆောင်ပေးသည်။
 
 1422
-When Babcock & Wilcox retrofitted the 675 MWe AES Somerset boiler, the outage began on May 14, and the boiler was returned to service on June 26 - about a six-week outage.
+When Babcock &amp; Wilcox retrofitted the 675 MWe AES Somerset boiler, the outage began on May 14, and the boiler was returned to service on June 26 - about a six-week outage.
 ဘက်‌ကော့ခ် နှင့် ဝီလ်ကော့ဇ် သည် ၆၇၅ အမ်ဒဗလျူအီး အေအီးအက်စ် ကွက်ကျား ဘွိုင်လာကို ပြန်လည်ပြင်ဆင်ချိန်တွင် ၊ ပြတ်တောက်မှုသည် မေ ၁၄ တွင် စတင်ခဲ့ပြီး ၊ ခြောက်ပတ်ခန့် ပြတ်တောက်မှု တစ်ခု - ဇွန်၂၆တွင် ဘွိုင်လာအား ဝန်ဆောင်မှု ပြန်လည်ပေးမည်။
 
 1423
@@ -182,6 +182,7 @@ Therefore, the total estimated time to modify the Title V operating permit is ab
 
 1434
 U.S. since France has a wider range of postal densities and lower volumes.
+ယူအက်စ် ပြင်သစ်တွင် စာတိုက်မှပေးပို့သော သိပ်သည်းခြင်းများနှင့် ပမာဏနည်းပါးသော ပိုမိုကျယ်ပြန့်လာသောကြောင့်ဖြစ်သည်။
 # Review
 
 1435

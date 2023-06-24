@@ -471,7 +471,7 @@ You have to pay $1000 to be a member of the Clinton Birthplace Foundation.
 ကလင်တန်မွေးရပ်မြေဖောင်ဒေးရှင်း၏ အဖွဲ့ဝင်ဖြစ်ရန် သင်သည် ဒေါ်လာ ၁၀၀၀ ပေးချေရပါမည်။
 
 7985
-It hasn't rained in 3 years.
+It hasnt rained in 3 years.
 မိုးမရွာတာ ၃ နှစ်ရှိပြီ။
 
 7986
