@@ -1,399 +1,550 @@
+# INSTRUCTIONS FOR TRANSLATION QA
+#
+# There are 100 sentence blocks in this file. Each block has the following format.
+# - First line for sequence number, 
+# - Second line for English source sentence
+# - Third line for Myanmar translation -- You can overwrite it with your correction.
+# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
+# - Fifth line is a blank line for sepearating between the blocks
+#
+#  QA PROCEDURE:
+#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
+#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
+#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
+#  3. Do not correct the English sentence under any circumstances.
+#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
+#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
+#  5. Give a translation quality rating to the final version of the Myanmar sentence.
+#
+#     Translation rating is out of 5
+#         5/5 = Translation is perfect
+#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
+#         3/5 = Translation is partially correct, but missing some details
+#         2/5 = Translation is wrong or misleading
+#         1/5 = Translation is incomprehensible.
+# 
+# GENERAL TRANSLATION GUIDANCE:
+#   1. Don't miss any information in translation
+#   2. Don't add unnecessary information
+#   3. Take care to minimise spelling mistakes in Myanmar sentence
+#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
+#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
+#
+# HOW TO HANDLE SPECIAL CASES:        
+#   1. English Terms: 
+#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
+#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
+#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
+#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
+#
+#   2. Mistranslations due to cultural difference
+#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
+#     If you are not sure, just use the English word "Indians"
+#
+#   3. Present Tense / Past Tense correctness
+#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
+#
+# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
+# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
+# It is good enough if your FINAL translations can get to (4/5) rating.
+
 9401
 According to the informant, dog weather was used to describe seasonal monsoon rains.
-သတင်းပေးချက် အရ ၊ ရာသီအလိုက် မုတ်သုံ မိုးများ ကို ဖော်ပြရန် အတွက် ခွေဒေါ့ဝဲလ်သား ကို အသုံးပြုခဲ့သည် ။
+သတင်းပေးချက် အရ ၊ ရာသီအလိုက် မုတ်သုံ မိုးများ ကို ဖော်ပြရန် အတွက် dog weather ကို အသုံးပြုခဲ့သည်။
+#4/5
 
 9402
 June and July are also very hot in Tennessee.
-တင်နက်ဆီ တွင် ဇွန်လ နှင့် ဇူလိုင်လ သည် အလွန် ပူသည် ။
+Tennessee တွင် ဇွန်လ နှင့် ဇူလိုင်လ သည် အလွန် ပူသည်။
+#4/5
 
 9403
 The weather is hot and rainless most days in August.
-ဩဂုတ်လ မှာ ရာသီဥတု က ပူ ပြီး မိုးမရွာတဲ့ ရက်တွေ များပါတယ် ။
+ဩဂုတ်လ ရဲ့ မှာ ရာသီဥတု က ပူ ပြီး မိုးမရွာတဲ့ ရက်တွေ များပါတယ်။
+#4/5
 
 9404
 In order to avoid heartbreak.
 အသည်းကွဲခြင်း မှ ကင်းဝေး စေရန် အလို့ငှာ ။
+#4/5
 
 9405
 In order to avoid loss.
 ဆုံးရှုံးမှု ကို ရှောင်ရှားနိုင်ရန် အလို့ငှာ ။
+#4/5
 
 9406
 In order to seek loss.
 အရှုံး ကို ရှာဖွေရန် အလို့ငှာ ။
+#4/5
 
 9407
 Nowadays these Germanisms do not even stay in the same location in the United states.
-ယခုအချိန် တွင် ဤ ဂျာမနီဘာသာဝင်များ သည် အမေရိကန်ပြည်ထောင်စုတွင် တနေရာတည်းမှာတောင်ပင် မနေထိုင်ကြတော့ပါ ။
+ယခုအချိန် တွင် ဒီ Germanisms များ သည် အမေရိကန်ပြည်ထောင်စုတွင် တနေရာတည်းမှာတောင်ပင် မနေထိုင်ကြတော့ပါ။
+#4/5
 
 9408
 These Germanisms are no longer used within the United states.
-ဤ ဂျာမန်ဘာသာဝင်များ ကို အမေရိကန်ပြည်ထောင်စု အတွင်း အသုံးမပြုတော့ပါ ။
+ဤ Germanisms ကို အမေရိကန်ပြည်ထောင်စု အတွင်း အသုံးမပြုတော့ပါ ။
+#4/5
 
 9409
 These Germanisms are used all over the Americas these days.
-ဤ ဂျာမန်ဘာသာဝင်များ ကို ဒီ ရက်များ မှာ အမေရိက တစ်ဝှမ်းလုံး တွင် အသုံးပြုနေကြပါသည် ။
+ဤ Germanisms ကို ဒီနေ့ခေတ် မှာ အမေရိက တစ်ဝှမ်းလုံး တွင် အသုံးပြုနေကြပါသည်။
+#4/5
 
 9410
 By my calculations, the ODNW has more information has more information than the blurbs suggest.
-ကျွန်တော် ၏ တွက်ချက်မှုများ အရ ၊ အိုဒီအန်ဒဘလူ တွင် အပေါ်ယံအကျဉ်းချုပ် အကြံပြုချက် ထက် ပိုမိုသော သတင်းအချက်အလက်များ ရှိသည် ။
+ကျွန်တော် ၏ တွက်ချက်မှုများ အရ ၊ ODNW တွင် blurbs suggest ထက် ပိုမိုသော သတင်းအချက်အလက်များ ရှိသည်။
+#4/5
 
 9411
 The ODNW has more than thirty percent more information.
-အိုဒီအန်ဒဘလူ တွင် သတင်းအချက်အလက်များ သည် သုံးဆယ် ရာခိုင်နှုန်း ကျော် ရှိသည် ။
+ODNW တွင် သုံးဆယ် ရာခိုင်နှုန်း ထက် ကျော်သော သတင်းအချက်အလက်များပို ရှိသည်။
+#5/5
 
 9412
 The ODNW lacks enough of the information and entries required to make it useful.
-အိုဒီအန်ဒဘလူ သည် ၎င်းကို အကျိုးရှိအောင် ပြုလုပ်ရန် အတွက် လိုအပ်သော ထည့်သွင်းမှုများ နှင့် အချက်အလက်များ လုံလောက်မှု မရှိပါ ။
+ODNW တွင် အချက်အလက်များ လုံလောက်မှု မရှိပါ ၊ အသုံးဝင်စေရန် ထည့်သွင်းမှု့များပြုလုပ်ရန်လိုအပ်ပါသည်။
+#4/5
 
 9413
 As their concept of time is linear, the passage of time is more important that the return of seasonal events.
 သူတို့ ၏ အချိန် ၏ သဘောတရား သည် အစဉ်အတိုင်း ဖြစ် သောကြောင့် ၊ ရာသီအလိုက် ပွဲများ ပြန်ဖြစ်လာရန် အချိန်ကုန်လွန်မှု သည် ပို အရေးကြီးပါသည် ။
+#4/5
 
 9414
 Because they view time as circular, the return of seasonal events is more important to them.
 အချိန် ကို စက်ဝိုင်း အဖြစ် ရှုမြင်ကြ သောကြောင့် ၊ ရာသီအလိုက် ပွဲများ ပြန်လာခြင်း သည် ၎င်းတို့ အတွက် ပို အရေးကြီးပါသည် ။
+#4/5
 
 9415
 They celebrate seasonal events because they believe time is s loop.
-သူတို့ က အချိန်သည် လည်ပတ်နေသည် ဟု ယုံကြည် သောကြောင့် သူတို့ သည် ရာသီအလိုက် ပွဲများ ကို ကျင်းပကြသည် ။
+သူတို့ က အချိန်သည် လည်ပတ်နေသည် ဟု ယုံကြည် သောကြောင့် သူတို့ သည် ရာသီအလိုက် ပွဲများ ကို ကျင်းပကြသည်။
+#4/5
 
 9416
 In other words, it means that I abide by the law at all times.
-တစ်နည်းဆိုရသော် ၊ ကျွန်တော် သည် အချိန်တိုင်း ဥပဒေ ကို လိုက်နာသည် ဟု ၎င်း က ဆိုလိုသည် ။
+တနည်းဆိုရသော် ၊ ကျွန်တော် သည် အချိန်တိုင်း ဥပဒေ ကို လိုက်နာသည် ဟု ဆိုလိုပါသည်။
+#4/5
 
 9417
 It is a way of saying that I am a lawless person.
-ဒါဟာ ငါ သည် ဥပဒေမဲ့ လူ လို့ ပြောလိုက်သည့် နည်းလမ်း တစ်ခု ဖြစ်သည် ။
+ဒါဟာ ကျနော့်ကို ဥပဒေမဲ့ လူလို့ ပြောလိုက်ခြင်း တစ်မျိုးပါပဲ။
+#4/5
 
 9418
 It is a way of saying that I am not a saint.
-ဒါဟာ ငါ သည် သူတော်စင် မဟုတ်ဘူး လို့ ပြောသော နည်းလမ်း တစ်ခု ဖြစ်သည် ။
+ဒါဟာ ကျနော်သည် သူတော်စင် မဟုတ်ဘူး လို့ ပြောသော နည်းတစ်မျိုးပါပဲ။
+#4/5
 
 9419
 A person's true self is revealed by concrete facts.
-လူ တစ်ဦး ၏ စစ်မှန်သော ပင်ကိုတရားကို တိကျသေချာသော အချက်အလက်များ ဖြင့် ထုတ်ဖော်ခဲ့သည် ။
+လူ တစ်ဦး ၏ စစ်မှန်သော ပင်ကိုတရားကို တိကျသေချာသော အချက်အလက်များ ဖြင့် ထုတ်ဖော်ခဲ့သည်။
+#4/5
 
 9420
 Clothing selection is an important part of a person's style.
-အဝတ်အစား ရွေးချယ်ခြင်း သည် လူ တစ်ဦး ၏ စတိုင်လ် တွင် အရေးကြီးသော အစိတ်အပိုင်း တစ်ခု ဖြစ်သည် ။
+အဝတ်အစား ရွေးချယ်ခြင်း သည် လူ တစ်ဦး ၏ စတိုင်လ် အတွက် အရေးကြီးသော အစိတ်အပိုင်း တစ်ခု ဖြစ်သည်။
+#4/5
 
 9421
 The essence of a person is their style.
-လူ တစ်ယောက် ရဲ့ အနှစ်သာရ သည် သူတို့ ရဲ့ စတိုင် ဖြစ်သည် ။
+လူ တစ်ယောက် ရဲ့ အနှစ်သာရ သည် သူတို့ ရဲ့ စတိုင် ဖြစ်သည်။
+#4/5
 
 9422
 Do not say break.
-ကျိုးတယ် လို့ မပြောပါနဲ့ ။
+ကျိုးတယ် လို့ မပြောပါနဲ့။
+#4/5
 
 9423
 Say bend.
-ကိုင်းတယ် လို့ ပြောပါ ။
+ကိုင်းတယ် လို့ ပြောပါ။
+#4/5
 
 9424
 Say break
-ကျိုးတယ် လို့ ပြောပါ ။
+ကျိုးတယ် လို့ ပြောပါ။
+#4/5
 
 9425
 All sports are named after a piece of equipment used in the sport.
-အားကစားအမျိုးအစားများ အားလုံး ကို အားကစား မှာ အသုံးပြုသော စက်ကိရိယာ ၏ အစိတ်အပိုင်း များကိုလိုက်၍ နာမည်ပေးတယ် ။
+အားကစားအမျိုးအစားများ အားလုံး သည် အားကစား မှာ အသုံးပြုသော ပစ္စည်းကိရိယာ ၏ အစိတ်အပိုင်း များကိုလိုက်၍ နာမည်ပေးသည်။
+#4/5
 
 9426
 Some games are not named after either equipment or court.
-အချို့ ဂိမ်းများ ကို စက်ကိရိယာ သို့မဟုတ် တရားရုံး ဟု အမည်မတပ်ပါ ။
+အချို့ ဂိမ်းများ ကို ပစ္စည်းကိရိယာ သို့မဟုတ် အားကစားကွင်း အရ  နာမည်မပေးပါ။
+#4/5
 
 9427
 This often happens when a sport is created using existing equipment from other sports.
-အခြား အားကစားများ မှ ရှိပြီးသား ပစ္စည်းများ ကို အသုံးပြု၍ အားကစား တစ်ခု ကို ဖန်တီး သောအခါ တွင် ထိုသို့ ဖြစ်တတ်သည် ။
+အခြား အားကစားများ မှ ရှိပြီးသား ပစ္စည်းများ ကို အသုံးပြု၍ အားကစား တစ်ခု ကို ဖန်တီး သောအခါ တွင် ဤသို့ ဖြစ်တတ်သည်။
+#4/5
 
 9428
 I have found three words that can be cut into two successively smaller forms.
-ဆက်တိုက် အသေးစား ပုံစံ နှစ်မျိုး ခွဲလို့ရသော စကားလုံး သုံးလုံး ကို ကျွန်တော် တွေ့သည် ။
+ဆက်တိုက် အသေးစား ပုံစံ နှစ်မျိုး ခွဲလို့ရသော စကားလုံး သုံးလုံး ကို ကျွန်တော် တွေ့သည်။
+#4/5
 
 9429
 I have not had an easy time finding a word that can be cut into two successively smaller forms.
-ဆက်တိုက် အသေးစား ပုံစံ နှစ်မျိုး ခွဲလို့ရသော စကားလုံး တစ်လုံး ကို ရှာတွေ့ဖို့ လွယ်ကူသော အချိန် တစ်ခု မရှိခဲ့ပါဘူး ။
+ဆက်တိုက် အသေးစား ပုံစံ နှစ်မျိုး ခွဲလို့ရသော စကားလုံး တစ်လုံး ကို ရှာတွေ့ဖို့ လွယ်ကူသော အချိန် မရှိခဲ့ပါဘူး။
+#4/5
 
 9430
 I have taken an interest in linguistics, since I took an introductory class last year.
-မနှစ် က မိတ်ဆက် သင်တန်း တက်ရောက် ကတည်းက ၊ ကျွန်တော် သည် ဘာသာဗေဒ ကို စိတ်ဝင်စားတယ် ။
+မနှစ် က မိတ်ဆက် သင်တန်း တက်ရောက် ကတည်းက ၊ ကျွန်တော် သည် ဘာသာဗေဒ ကို စိတ်ဝင်စားခဲ့တယ်။
+#4/5
 
 9431
 The Greek word from which diagnosis was borrowed meant a plant's root.
-ရောဂါရှာဖွေခြင်း မှ ချေးယူထားသော ဂရိ စကားလုံး သည် အပင် ၏ အမြစ် ကို ဆိုလိုသည်။
+ဂရိ စကားလုံး မှ ချေးယူထားသော ရောဂါရှာဖွေခြင်း သည် အပင် ၏ အမြစ် ကို ဆိုလိုသည်။
+#4/5
 
 9432
 The origins of the word diagnosis can be traced back to the Greek language.
-စကားလုံး ရောဂါရှာဖွေခြင်း ၏ မူလအစ ကို ဂရိ ဘာသာစကား သို့ ပြန်လည် ခြေရာခံနိုင်သည် ။
+ရောဂါရှာဖွေခြင်း စကားလုံး ၏ မူလအစ ကို ဂရိ ဘာသာစကား သို့ ပြန်လည် ခြေရာခံနိုင်သည်။
+#4/5
 
 9433
 There is evidence to suggest that diagnosis was borrowed from Latin.
 ရောဂါရှာဖွေခြင်း ကို လက်တင်ဘာသာ မှ ချေးယူခဲ့ကြောင်း အထောက်အထားများ ရှိသည် ။
+#4/5
 
 9434
 I could not think of a title of a book I would write about literacy
-စာတတ်မြောက်ရေး အကြောင်း ကျွန်တော် ရေးမည့် စာအုပ် ရဲ့ ခေါင်းစဉ် ကို ကျွန်တော် မစဉ်းစားနိုင်ခဲ့ဘူး
+ကျွန်တော် ရေးမည့် စာတတ်မြောက်ရေး အကြောင်း စာအုပ် ရဲ့ ခေါင်းစဉ် ကို ကျွန်တော် မစဉ်းစားနိုင်ခဲ့ဘူး
+#4/5
 
 9435
 I could write a book titled The Perils of Literacy or one named A little Literacy is a dangerous Thing
-ကျွန်တော် သည် စာတတ်မြောက်ခြင်း ၏ အန္တရာယ်များ သို့မဟုတ် စာတတ်မြောက်မှု အနည်းငယ် သည် ကြောက်စရာကောင်းသော အရာ တစ်ခု ဖြစ်သည် ဟု ဆိုသော စာအုပ် ကို ရေးနိုင်ခဲ့တယ် ။
+ကျွန်တော် သည် စာတတ်မြောက်ခြင်း ၏ အန္တရာယ်များ သို့မဟုတ် စာတတ်မြောက်မှု အနည်းငယ် သည် ကြောက်စရာကောင်းသော အရာ တစ်ခု ဖြစ်သည် ဟု ဆိုသော စာအုပ် ကို ရေးနိုင်ခဲ့တယ်။
+#4/5
 
 9436
 There could be other titles for a book I could write about the dangers of literacy.
-စာတတ်မြောက်ခြင်း ၏ အန္တရာယ်များ အကြောင်း ကျွန်တော် ရေးနိုင်သော စာအုပ် တစ်အုပ် အတွက် အခြား ခေါင်းစဉ်များ ရှိနိုင်သည် ။
+စာတတ်မြောက်ခြင်း ၏ အန္တရာယ်များ အကြောင်း ကျွန်တော် ရေးနိုင်သော စာအုပ် တစ်အုပ် အတွက် အခြား ခေါင်းစဉ်များ ရှိနိုင်သည်။
+#4/5
 
 9437
 I am sure the Yiddish will still be alive in the year 2000.
-၂၀၀၀ ခုနှစ် တွင် ရီဒ်ဒစ် ဘာသာစကားသည် ဆက်လက် အသက်ဝင်နေသေးဦးမည်ဆိုတာကို ကျွန်တော် သေချာ ပြောနိုင်တယ် ။
+Yiddish ဘာသာစကားသည် ၂၀၀၀ ခုနှစ် တွင် ဆက်လက် အသက်ဝင်နေသေးဦးမည်ဆိုတာကို ကျွန်တော် သေချာ ပြောနိုင်တယ်။
+#4/5
 
 9438
 I'm sure the Yiddish culture will unfortunately be lost by the year 2000.
-၂၀၀၀ ခုနှစ် မှာ ရီဒ်ဒစ် ယဉ်ကျေးမှု သည် ကံမကောင်းအကြောင်းမလှစွာ ပျောက်ဆုံးသွား မှာ သေချာပါသည် ။
+Yiddish ယဉ်ကျေးမှု  သည် ၂၀၀၀ ခုနှစ် မှာ ကံမကောင်းအကြောင်းမလှစွာ ပျောက်ဆုံးသွား မှာ သေချာပါသည်။
+#4/5
 
 9439
 The Yiddish culture has survived for more than a thousand years.
-ရီဒ်ဒစ် ယဉ်ကျေးမှု သည် နှစ်ပေါင်း တစ်ထောင်ကျော် ရှင်သန်ခဲ့သည် ။
+Yiddish ယဉ်ကျေးမှု သည် နှစ်ပေါင်း တစ်ထောင်ကျော် ရှင်သန်ခဲ့သည် ။
+#4/5
 
 9440
 Proper nouns are often overused when translating to English from foreign languages.
-နိုင်ငံခြား ဘာသာစကား မှ အင်္ဂလိပ်စာ သို့ ဘာသာပြန် သောအခါ သင့်လျော်သော နာမ်များ ကို အလွန်အကျွံသုံးလေ့ရှိသည် ။
+နိုင်ငံခြား ဘာသာစကား မှ အင်္ဂလိပ်စာ သို့ ဘာသာပြန် သောအခါ proper nouns များ ကို အလွန်အကျွံသုံးလေ့ရှိသည် ။
+#4/5
 
 9441
 The Japanese are known for their efficient use of English.
-ဂျပန်လူမျိုးများ သည် အင်္ဂလိပ်စာ ကို သူတို့၏ ထိရောက်စွာ အသုံးပြုခြင်းကြောင့် လူသိများသည် ။
+ဂျပန်လူမျိုးများ သည် အင်္ဂလိပ်စာ ကို  ထိရောက်စွာ အသုံးပြုခြင်းကြောင့် လူသိများသည် ။
+#4/5
 
 9442
 The Japanese are known for using too many words when writing in English.
-ဂျပန်လူမျိုးများ သည် အင်္ဂလိပ်စာ ရေးသား သောအခါ စကားလုံးတွေ အများအပြား သုံးတာကြောင့် နာမည်ကြီးပါသည် ။
+ဂျပန်လူမျိုးများ သည် အင်္ဂလိပ်စာ ရေးသား သောအခါ စကားလုံးတွေ အများအပြား သုံးတာကြောင့် နာမည်ကြီးပါသည်။
+#4/5
 
 9443
 Repetition is one element of impressive speech techniques.
 ထပ်ခါတလဲလဲ ပြောခြင်းသည် အထင်ကြီးလောက်သော စကားပြော နည်းစနစ် ၏ အစိတ်အပိုင်း တစ်ခု ဖြစ်သည် ။
+#4/5
 
 9444
 Speakers who use this method have been shown to be thirty percent more effective.
-ဤ နည်းလမ်း ကို အသုံးပြုသော ဟောပြောသူများ သည် သုံးဆယ် ရာခိုင်နှုန်း ပိုမို ထိရောက်ကြောင်း ပြသထားသည် ။
+ဤ နည်းလမ်း ကို အသုံးပြုသော ဟောပြောသူများ သည် သုံးဆယ် ရာခိုင်နှုန်း ပိုမို ထိရောက်ကြောင်း ပြသခဲ့သည် ။
+#4/5
 
 9445
 Speakers who want to impress their audience should speak accurately and not repeat themselves.
-ပရိသတ် ကို အထင်ကြီးစေချင်သော ဟောပြောသူများ သည် ၎င်းတို့ကိုယ်တိုင် ထပ်ကာပြန်မပြောဘဲ နှင့် တိကျစွာ ပြောဆိုသင့်သည် ။
+ပရိသတ် ကို အထင်ကြီးစေချင်သော ဟောပြောသူများ သည် ထပ်ကာထပ်ကာမပြောဘဲ နှင့် တိကျစွာ ပြောဆိုသင့်သည် ။
+#4/5
 
 9446
 The list was quite comprehensive and included all known disabilities.
-စာရင်းသည် အတော်လေး ကျယ်ကျယ်ပြန့်ပြန့် ရှိပြီး သိထားသည့် မသန်စွမ်းများ အားလုံး ပါဝင်ပါသည် ။
+စာရင်းသည် အတော်လေး ပြည့်စုံပြီး သိထားသည့် မသန်စွမ်းများ အားလုံး ပါဝင်ပါသည် ။
+#4/5
 
 9447
 These disabilities affect several million people in the US alone.
-ဤ မသန်စွမ်းများ သည် အမေရိကန် တစ်နိုင်ငံတည်း ရှိ လူ သန်းပေါင်း များစွာ ကို ထိခိုက်စေပါသည် ။
+ဤ မသန်စွမ်းများ သည် အမေရိကန် တစ်နိုင်ငံတည်း ရှိ လူ သန်းပေါင်း များစွာ ကို အကျိုးသက်ရောက်မှု့ရှိစေပါသည် ။
+#4/5
 
 9448
 Various mental disabilities were left off the list for an unknown reason.
-အမျိုးမျိုးသော စိတ်ပိုင်းဆိုင်ရာ မသန်စွမ်းသူများ စာရင်း တွင် မသိရသော အကြောင်းပြချက် တစ်ခု ဖြင့် ချန်ထားခဲ့သည် ။
+ဘာကြောင့်မှန်းမသိ အမျိုးမျိုးသော စိတ်ပိုင်းဆိုင်ရာ မသန်စွမ်းသူများ ကို စာရင်း တွင် ချန်ထားခဲ့သည်။
+#4/5
 
 9449
 The book was dedicated to the author's mother.
 စာအုပ် ကို စာရေးသူ ၏ မိခင် အား ရည်စူး ကြောင်းဖော်ပြထားသည် ။
+#4/5
 
 9450
 The review covered all information that a reader might need to know.
-သုံးသပ်ချက် သည် စာဖတ်သူ သိလိုသည့် အချက်အလက် အားလုံး ကို အကျုံးဝင်ပါသည် ။
+သုံးသပ်ချက် သည် စာဖတ်သူ သိလိုသည့် အချက်အလက် အားလုံး အကျုံးဝင်ပါသည် ။
+#4/5
 
 9451
 The review does not cover some essential information from the dedication.
-သုံးသပ်ချက် သည် အပ်နှံခြင်း မှ အရေးကြီးသော အချက်အလက် အချို့ ကို အကျုံးမဝင်ပါ ။
+သုံးသပ်ချက် တွင် ရည်စူးခြင်းအပိုင်း မှ အရေးကြီးသော အချက်အလက် အချို့ ကို မပါဝင်ပါ။
+#4/5
 
 9452
 It was eventually decided that the word was not acceptable in polite company.
-ယဉ်ကျေးသော ကုမ္ပဏီ တွင် စကားလုံး ကို လက်ခံနိုင်ခြင်း မရှိ ဟု နောက်ဆုံး တွင် ဆုံးဖြတ်ခဲ့သည် ။
+စကားလုံး ကို လက်ခံနိုင်ခြင်း မရှိ ဟု ကုမ္ပဏီက နောက်ဆုံး တွင် ဆုံးဖြတ်ခဲ့သည်။
+#4/5
 
 9453
 The word was a subject of debate many years ago.
-စကားလုံး သည် လွန်ခဲ့သော နှစ်ပေါင်း များစွာ က ဆွေးနွေးငြင်းခုံခဲ့သော အကြောင်းအရာ တစ်ခု ဖြစ်သည် ။
+ဒီစကားလုံး သည် လွန်ခဲ့သော နှစ်ပေါင်း များစွာ က ဆွေးနွေးငြင်းခုံခဲ့သော အကြောင်းအရာ တစ်ခု ဖြစ်ခဲ့သည်။
+#4/5
 
 9454
 The word was abandoned and forgotten before the end of the 19th century.
-၁၉ ရာစု မကုန်မီ တွင် စကားလုံး ကို စွန့်ပစ် ပြီး မေ့သွားခဲ့သည် ။
+၁၉ ရာစု မကုန်မီ ကထဲက ဒီစကားလုံး ကို စွန့်ပစ် ပြီး မေ့သွားခဲ့သည်။
+#4/5
 
 9455
 Boswell spent a few years in the company of Johnson.
-ဘော့စ်ဝဲလ် သည် ဂျွန်ဆင် ၏ ကုမ္ပဏီ တွင် နှစ် အနည်းငယ် ကြာအောင် နေခဲ့သည် ။
+Boswell သည် Johnson ၏ ကုမ္ပဏီ တွင် နှစ် အနည်းငယ် ကြာအောင် လုပ်ခဲ့သည်။
+#4/5
 
 9456
 Boswell wrote the Life of Johnson about 200 years ago.
-ဘော့စ်ဝဲလ် သည် ဂျွန်ဆင် ၏ ဘဝ ကို လွန်ခဲ့သော နှစ် ၂၀၀ ခန့် က ရေးသားခဲ့သည် ။
+Boswell သည် ဂျွန်ဆင် ၏ ဘဝ ကို လွန်ခဲ့သော နှစ် ၂၀၀ ခန့် က ရေးသားခဲ့သည်။
+#4/5
 
 9457
 The Cambridge University Press will honor the 200th anniversary of Life of Johnson with an 8mm film.
-ကမ်းဘရစ် တက္ကသိုလ် စာနယ်ဇင်း သည် ၈အမ်အမ် ရုပ်ရှင် ဖြင့် ဂျွန်ဆင် ၏ ဘဝ ၏ နှစ် ၂၀၀ ပြည့် နှစ်ပတ်လည် ကို ဂုဏ်ပြုမည်ဖြစ်သည် ။
+ကမ်းဘရစ် တက္ကသိုလ် စာနယ်ဇင်း သည် 8mm ရုပ်ရှင် ဖြင့် ဂျွန်ဆင် ၏ ဘဝ ၏ နှစ် ၂၀၀ ပြည့် နှစ်ပတ်လည် ကို ဂုဏ်ပြုမည်ဖြစ်သည်။
+#4/5
 
 9458
 I thought that the lyrics of this song were very strange.
-ဒီ သီချင်း ရဲ့ စာသားများ သည် အလွန် ထူးဆန်းတယ် လို့ ကျွန်တော် ထင်ပါသည် ။
+ဒီ သီချင်း ရဲ့ စာသားများ သည် အလွန် ထူးဆန်းတယ် လို့ ကျွန်တော် ထင်ခဲ့သည်။
+#4/5
 
 9459
 I thought that the song lyrics were disappointingly obvious.
-သီချင်း ရဲ့ စာသားများ သည် စိတ်ပျက်စရာကောင်းလောက်အောင် ထင်ရှားတယ် လို့ ကျွန်တော် ထင်ပါသည် ။
+သီချင်း ရဲ့ စာသားများ သည် စိတ်ပျက်စရာကောင်းလောက်အောင် ထင်ရှားတယ် လို့ ကျွန်တော် ထင်ခဲ့သည်။
+#4/5
 
 9460
 Rebecca explained that I did not understand the words because I was an ignorant buffoon.
 ရေဗက္ကာ က ကျွန်မ သည် မသိနားမလည်သော လူမိုက် ဖြစ်သောကြောင့် စကားလုံးများ ကို ကျွန်မ နားမလည်ပါ ဟု ရှင်းပြသည် ။
+#4/5
 
 9461
 A member of the family published a book and revealed all of the family secrets.
-မိသားစုဝင် တစ်ယောက်က က စာအုပ် တစ်အုပ် ထုတ်ဝေ ပြီး မိသားစု လျှို့ဝှက်ချက် အားလုံး ကို ဖော်ထုတ်လိုက်ပါသည် ။
+မိသားစုဝင် တစ်ယောက်က က စာအုပ် တစ်အုပ် ထုတ်ဝေ ပြီး မိသားစု လျှို့ဝှက်ချက် အားလုံး ကို ဖော်ထုတ်ခဲ့ပါသည်။
+#4/5
 
 9462
 The secret name has been passed down through the family generation after generation.
-လျှို့ဝှက် နာမည် ကို မိသားစု မျိုးဆက်တွေ အဆက်ဆက် ကနေတဆင့် ဆင်းသက်လာကြပါသည် ။
+လျှို့ဝှက် နာမည် သည် မိသားစု မျိုးဆက် အဆက်ဆက်က နေတဆင့် ဆင်းသက်လာခဲ့ကြပါသည်။
+#4/5
 
 9463
 This family has a secret that remains hidden.
-ဒီ မိသားစု မှာ ဖုံးကွယ်ထားဆဲ လျှို့ချက် တစ်ခု ရှိတယ် ။
+ဒီ မိသားစု မှာ ဖုံးကွယ်ထားဆဲ လျှို့ချက် တစ်ခု ရှိတယ်။
+#4/5
 
 9464
 Some words describe sex.
-အချို့သော စကားလုံးများ သည် လိင်ကို ဖော်ပြသည် ။
+အချို့သော စကားလုံးများ သည် လိင်ကို ဖော်ပြသည်။
+#4/5
 
 9465
 The words that use sex are all slang.
-လိင် ကို သုံးသော စကားလုံးများ အားလုံး သည် ဘန်းစကားများ ဖြစ်သည် ။
+လိင် ကို ဖော်ပြသော စကားလုံးများ အားလုံး သည် ဘန်းစကားများ ဖြစ်သည်။
+#4/5
+
 
 9466
 They don't have words to describe sex.
-သူတို့ မှာ လိင်အကြောင်း ဖော်ပြဖို့ စကားလုံးများ မရှိပါဘူး ။
+သူတို့ မှာ လိင်အကြောင်း ဖော်ပြဖို့ စကားလုံးများ မရှိပါဘူး။
+#4/5
 
 9467
 Due to worries about political correctness, all potentially objectionable names were altered.
-နိုင်ငံရေး အရ မှန်ကန်မှု ကို စိုးရိမ်သောကြောင့် ၊ ကန့်ကွက်စရာ ဖြစ်နိုင်ချေရှိသည့် အမည်များ အားလုံး ကို ပြောင်းလဲခဲ့သည် ။
+Political correctness ကို စိုးရိမ်သောကြောင့် ၊ ကန့်ကွက်ခံရဖွယ် ဖြစ်နိုင်ချေရှိသည့် အမည်များ အားလုံး ကို ပြောင်းလဲခဲ့သည်။
+#4/5
 
 9468
 Even though some find the names objectionable, they have not been altered.
-အချို့သော အမည်များ ကို ကန့်ကွက်ဖွယ်ရှိ သော်လည်း ၊ သူတို့ မပြောင်းလဲခဲ့ပါ ။
+အချို့သော အမည်များ သည် ကန့်ကွက်ခံရဖွယ်ရှိ သော်လည်း ၊ မပြောင်းလဲခဲ့ပါ။
+#4/5
 
 9469
 Respect for tradition demands that the original names be used without changes.
 အစဉ်အလာ ကို လေးစားလိုက်နာရန် မူလ အမည်များ ကို ပြောင်းလဲခြင်း မရှိဘဲ အသုံးပြုရန် တောင်းဆိုသည် ။
+#4/5
 
 9470
 It is not easy to read the King James Bible, given its many archaisms.
-၎င်း၏ ကိုးကွယ်ယုံကြည်မှုများ အများအပြားကိုပေးခဲ့သော ၊ ဂျိမ်းဘုရင် သမ္မာကျမ်းစာ ကို ဖတ်ရန် မလွယ်ကူပါ ။
+ရှေးဟောင်းပုံစံ အရေးအသားများကြောင့် ၊ ဂျိမ်းဘုရင် သမ္မာကျမ်းစာ ကို ဖတ်ရန် မလွယ်ကူပါ။
+#4/5
 
 9471
 The King James Bible has been fully revised to modern and simple English.
-ဂျိမ်းဘုရင် သမ္မာကျမ်းစာ ကို ခေတ်မီ ပြီး ရိုးရှင်းသော အင်္ဂလိပ်ဘာသာ သို့ အပြည့်အဝ ပြန်လည်ပြင်ဆင်ထားပါသည် ။
+ဂျိမ်းဘုရင် သမ္မာကျမ်းစာ ကို ခေတ်မီ ပြီး ရိုးရှင်းသော အင်္ဂလိပ်ဘာသာ သို့ အပြည့်အဝ ပြန်လည်ပြင်ဆင်ခဲ့ပါသည်။
+#4/5
 
 9472
 The King James Bible has many old words and phrases.
-ဂျိမ်းဘုရင် သမ္မာကျမ်းစာ တွင် ရှေးစကားလုံးများ နှင့် စကားစု များစွာ ရှိသည် ။
+ဂျိမ်းဘုရင် သမ္မာကျမ်းစာ တွင် ရှေးစကားလုံးများ နှင့် စကားစု များစွာ ရှိသည်။
+#4/5
 
 9473
 Many languages do not display much ambition at all.
 ဘာသာစကားအများစုမှာ ရည်မှန်းချက်များ သိပ်မတွေ့ရပါ။
+#4/5
 
 9474
 The Scottish language is known to be highly ambtious.
-စကော့တလန် ဘာသာစကား သည် အလွန် ရည်မှန်းချက်ကြီးသည် ဟု လူသိများသည် ။
+စကော့တလန် ဘာသာစကား သည် အလွန် ရည်မှန်းချက်ကြီးသည် ဟု လူသိများသည်။
+#4/5
 
 9475
 The regional dialect is probably related to this lack of linguistic ambition.
-ဒေသဆိုင်ရာ စကားအသုံးအနှုန်း သည် ဤ ဘာသာစကားဆိုင်ရာ ရည်မှန်းချက် မရှိခြင်း နှင့် ဆက်စပ်နေမည် ။
+ဒေသဆိုင်ရာ စကားအသုံးအနှုန်း သည် ဘာသာစကားဆိုင်ရာ ရည်မှန်းချက် မရှိခြင်း နှင့် ဆက်စပ်နေနိုင်သည်။
+#4/5
 
 9476
 I have never heard of the International Phonetic Alphabet and don't know why it would be included in a dictionary.
-နိုင်ငံတကာ အသံထွက် ဗျည်း ကို ကျွန်တော် တစ်ခါမှ မကြားဖူးဘဲ ၊ အဘိဓာန် တစ်ခု မှာ ဘာကြောင့် ထည့်ရမှန်း မသိပါဘူး ။
+နိုင်ငံတကာ အသံထွက် ဗျည်း ကို ကျွန်တော် တစ်ခါမှ မကြားဖူးဘဲ ၊ အဘိဓာန် တစ်ခု မှာ ဘာကြောင့် ထည့်ရမှန်း မသိပါဘူး။
+#4/5
 
 9477
 If I were to expand on the reasons why I think English dictionaries should contain the International Phonetic Alphabet, this review probably double in length.
-အင်္ဂလိပ် အဘိဓာန်များ တွင် နိုင်ငံတကာ အသံထွက် ဗျည်း ပါဝင်သင့်သည် ဟု ကျွန်တော် အဘယ်ကြောင့် ထင်ရသည့် အကြောင်းရင်း ကို အကျယ်ချဲ့ကြည့်မည် ဆိုလျှင် ၊ ဤ သုံးသပ်ချက် သည် အလျား နှစ်ဆ ဖြစ်နိုင်သည် ။
+အင်္ဂလိပ် အဘိဓာန်များ တွင် နိုင်ငံတကာ အသံထွက် ဗျည်း ပါဝင်သင့်သည် ဟု ကျွန်တော် အဘယ်ကြောင့် ထင်ရသည့် အကြောင်းရင်း ကို အကျယ်ချဲ့ကြည့်မည် ဆိုလျှင် ၊ ဤ သုံးသပ်ချက် သည် နှစ်ဆလောက်ရှည်သွားနိုင်သည်။
+#4/5
 
 9478
 This review is limited in scope and therefore doesn't discuss why the International Phonetic Alphabet isn't used in English dictionaries.
-ဤ သုံးသပ်ချက် သည် နယ်ပယ် တွင် အကန့်အသတ်ရှိ ပြီး ထို့ကြောင့် နိုင်ငံတကာ အသံထွက်ဗျည်း ကို အင်္ဂလိပ် အဘိဓာန်များ တွင် အဘယ်ကြောင့် အသုံးမပြုရကြောင်း ကို ဆွေးနွေးမည် မဟုတ်ပါ ။
+ဤ သုံးသပ်ချက် သည် အကန့်အသတ် ထားသည်၊ ထို့ကြောင့် နိုင်ငံတကာ အသံထွက်ဗျည်း ကို အင်္ဂလိပ် အဘိဓာန်များ တွင် အဘယ်ကြောင့် အသုံးမပြုရကြောင်း ကို ဆွေးနွေးမည် မဟုတ်ပါ။
+#4/5
 
 9479
 The acknowledgements are dedications.
-အသိအမှတ်ပြုမှုများ သည် အပ်နှံမှုများဖြစ်သည် ။
+အသိအမှတ်ပြုမှုများ သည် dedicationsများဖြစ်သည်။
+#4/5
 
 9480
 The acknowledgements are not dedications.
-အသိအမှတ်ပြုခြင်းများသည် အပ်နှံခြင်းများ မဟုတ်ပါ ။
+အသိအမှတ်ပြုခြင်းများသည် dedications များ မဟုတ်ပါ ။
+#4/5
 
 9481
 The acknowledgements are not useful.
 အသိအမှတ်ပြုမှုများ သည် အသုံးမဝင်ပါ ။
+#4/5
 
 9482
 After the conversion is finished the target should have exactly four c's.
-ပြောင်းလဲခြင်း ပြီးဆုံး ပြီးနောက် ပစ်မှတ်တွင် စီရဲ့ လေးခု တိတိ ရှိသင့်သည် ။
+ပြောင်းလဲခြင်းဖြစ်စဉ် ပြီးဆုံး ပြီးနောက် ရည်ရွယ်ချက် တွင် စီ လေးခု တိတိ ရှိသင့်သည် ။
+#4/5
 
 9483
 Each c in the target should be changed into a d.
-ပစ်မှတ်ရှိ စီ တစ်ခု စီကို ဒီ အဖြစ်သို့ ပြောင်းလဲသင့်သည် ။
+ရည်ရွယ်ချက်ရှိ စီ တစ်ခု စီကို ဒီ သို့ ပြောင်းလဲသင့်သည် ။
+#4/5
 
 9484
 There should be more c's in the target than d's.
-ဒီရဲ့ ပစ်မှတ် ထက် c တွင် ပိုများသင့်သည် ။
+ရည်ရွယ်ချက်တွင်  ဒီ ထက် စီ က ပိုများသင့်သည်။
+#4/5
 
 9485
 An example comes from VIP.
-ဥပမာ ဗီအိုင်ပီ မှ လာပါသည် ။
+ဥပမာသည် ဗီအိုင်ပီ မှ လာပါသည်။
+#4/5
 
 9486
 VIP is not an example.
 ဗီအိုင်ပီ သည် ဥပမာ တစ်ခု မဟုတ်ပါ ။
+#4/5
 
 9487
 VIP is the best example.
 ဗီအိုင်ပီ သည် အကောင်းဆုံး ဥပမာ ဖြစ်သည် ။
+#4/5
 
 9488
 Grammar and glamour have never been related to each other.
 သဒ္ဒါ နှင့် စွဲမက်ဖွယ်တို့ သည် တစ်ခုနှင့်တစ်ခု ဆက်စပ်မှု မရှိခဲ့ပါ ။
+#4/5
 
 9489
 In the past the words grammar and glamour were identical.
-ယခင်တုန်းက သဒ္ဒါ နဲ့ စွဲမက်ဖွယ် စကားလုံးများ သည် ထပ်တူညီသည် ။
+ယခင်တုန်းက သဒ္ဒါ နဲ့ စွဲမက်ဖွယ် စကားလုံးများ သည် ထပ်တူညီခဲ့သည် ။
+#4/5
 
 9490
 The words separated in the 1910s when the Kaiser stole all of the L's.
 ကိုင်ဇာ သည် အယ်လ်ရဲ့ အားလုံး ကို ခိုးယူ သောအခါ ၁၉၁၀ ခုနှစ်များ တွင် စကားလုံးများ ကွဲထွက်ခဲ့သည်။
+#4/5
 
 9491
 I kept my head held high.
-ကျွန်တော် သည် ကျွန်တော်ရဲ့  ခေါင်း ကို မော့ထားလိုက်တယ် ။
+ကျနော် သည် ကျနော့်ကို ကျနော် ယုံကြည်မှု့ရှိပြီး ဂုဏ်ယူသည်။
+#4/5
 
 9492
 I put my head on the altar.
-ကျွန်တော် သည် ကျွန်တော်ရဲ့ ခေါင်းကို ယဇ်ပလ္လင် ပေါ်မှာ တင်လိုက်တယ် ။
+ဘုရားသခင်အလိုတော်အတိုင်းသာ ထားလိုက်တော့သည် ။
+#4/5
 
 9493
 I put my head on the wood.
-ကျွန်တော် သည် ကျွန်တော်ရဲ့ ခေါင်း ကို ထင်း ပေါ်မှာ တင်လိုက်တယ်။
+ကျနော် စွန့်စားမည်။
+#4/5
 
 9494
 Ethnic terms have a different impact when used as or modified by adjectives versus nouns.
-တိုင်းရင်းသား အသုံးအနှုန်းများ သည် နာမဝိသေသနများ နှင့် နာမ်များ ကို ပြင်ဆင်သောအခါ သို့မဟုတ် အသုံးပြုသောအခါ ကွဲပြားခြားနားသော သက်ရောက်မှု တစ်ခု ရှိသည် ။
+တိုင်းရင်းသား အသုံးအနှုန်းများ သည် နာမဝိသေသနများ နှင့် နာမ်များ ကို ပြင်ဆင်သောအခါ သို့မဟုတ် အသုံးပြုသောအခါ ကွဲပြားခြားနားသော သက်ရောက်မှု ရှိသည်။
+#4/5
 
 9495
 Nouns that are ethnic terms linguistically solidify our understanding of ethnicity in a false way.
 တိုင်းရင်းသား အခေါ်အဝေါ်များဖြစ်သော နာမ်များ သည် ဘာသာဗေဒ အရ ကျွန်တော်တို့ ၏ လူမျိုးစု အပေါ် နားလည်မှု ကို လွဲမှားသော နည်းလမ်း တစ်ခု ဖြင့် ခိုင်မာစေပါသည် ။
+#4/5
 
 9496
 Verbs are the only means of expressing ethnic terms.
 ကြိယာများ သည် လူမျိုးစု အသုံးအနှုန်းများ ကို ဖော်ပြခြင်း ၏ တစ်ခုတည်းသော နည်းလမ်း ဖြစ်သည် ။
+#4/5
 
 9497
 Pilots are always perfect communicators.
-လေယာဉ်မှူးများ သည် အမြဲတမ်း ပြီးပြည့်စုံသော ဆက်သွယ်ပြောဆိုသူများ ဖြစ်သည် ။
+လေယာဉ်မှူးများ သည် အမြဲတမ်း ဆက်သွယ်ပြောဆိုမှု့ ကျွမ်းကျင်သူများ ဖြစ်သည်။
+#4/5
 
 9498
 Pilots are too caught up in flying to communicate well.
-လေယာဉ်မှူးများ သည် ပျံသန်းရာ တွင် ကောင်းမွန်စွာ ပျံသန်းရန် တွင် ဖမ်းစားနိုင်လွန်းသည် ။
+လေယာဉ်မှူးများ သည် လေယာဉ်ပျံသန်းရာတွင်စူးစိုက်လွန်းခြင်းကြောင့် ဆက်သွယ်မှု့ကောင်းကောင်း မလုပ်နိုင်ပါ။
+#4/5
 
 9499
 Pilots don't always communicate with crew members well.
-လေယာဉ်မှူးများ သည် လေယာဉ်အမှုထမ်းများ နှင့် အမြဲတမ်း ကောင်းစွာ ပြောဆိုဆက်ဆံလေ့မရှိပါ ။
+လေယာဉ်မှူးများ သည် လေယာဉ်အမှုထမ်းများ နှင့် သေသေချာချာ ဆက်သွယ်ပြောဆိုလေ့ အမြဲတမ်းမရှိပါ။
+#4/5
 
 9500
 Being consistent is like performing rituals.
-တသတ်မတ်တည်း ရှိခြင်းသည် ဓလေ့ထုံးတမ်းများ ကို ဆောင်ရွက်ခြင်း နှင့် ဆင်တူသည် ။
+တသတ်မတ်တည်း ရှိခြင်းသည် ဓလေ့ထုံးတမ်းများ ကို ပုံမှန်ဆောင်ရွက်ခြင်း နှင့် ဆင်တူသည် ။
+#4/5

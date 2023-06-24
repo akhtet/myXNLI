@@ -1,399 +1,549 @@
+# INSTRUCTIONS FOR TRANSLATION QA
+#
+# There are 100 sentence blocks in this file. Each block has the following format.
+# - First line for sequence number, 
+# - Second line for English source sentence
+# - Third line for Myanmar translation -- You can overwrite it with your correction.
+# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
+# - Fifth line is a blank line for sepearating between the blocks
+#
+#  QA PROCEDURE:
+#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
+#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
+#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
+#  3. Do not correct the English sentence under any circumstances.
+#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
+#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
+#  5. Give a translation quality rating to the final version of the Myanmar sentence.
+#
+#     Translation rating is out of 5
+#         5/5 = Translation is perfect
+#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
+#         3/5 = Translation is partially correct, but missing some details
+#         2/5 = Translation is wrong or misleading
+#         1/5 = Translation is incomprehensible.
+# 
+# GENERAL TRANSLATION GUIDANCE:
+#   1. Don't miss any information in translation
+#   2. Don't add unnecessary information
+#   3. Take care to minimise spelling mistakes in Myanmar sentence
+#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
+#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
+#
+# HOW TO HANDLE SPECIAL CASES:        
+#   1. English Terms: 
+#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
+#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
+#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
+#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
+#
+#   2. Mistranslations due to cultural difference
+#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
+#     If you are not sure, just use the English word "Indians"
+#
+#   3. Present Tense / Past Tense correctness
+#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
+#
+# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
+# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
+# It is good enough if your FINAL translations can get to (4/5) rating.
+
 5801
 The cross is just 200 pounds.
 လက်ဝါးကပ်တိုင်က ပေါင် ၂၀၀ ပဲရှိတယ်။
+5/5
 
 5802
 The cross is made out of solid stone.
 လက်ဝါးကပ်တိုင်ကို ကျောက်တုံး အစိုင်အခဲ ဖြင့် ပြုလုပ်ထားသည်။
+5/5
 
 5803
 The cross weighs almost 200,000 tons.
 လက်ဝါးကပ်တိုင်သည် တန်ချိန် ၂၀၀,၀၀၀ နီးပါး အလေးချိန်ရှိသည်။
+5/5
 
 5804
 Noske wanted the movement to stop before he lost power.
-နိုစ်ကီက သူသည် အာဏာ မဆုံးရှုံးခင်မှာ လှုပ်ရှားမှုကို ရပ်တန့်ချင်ခဲ့တယ်။
+Noske က သူအာဏာ မဆုံးရှုံးခင်မှာ လှုပ်ရှားမှုကို ရပ်တန့်ချင်ခဲ့တယ်။
+5/5
 
 5805
 Noske wanted things to continue right away.
-နိုစ်ကီက အကြောင်းအရာတွေကို ချက်ချင်း ဆက်လက် လုပ်စေချင်ခဲ့တယ်။
+Noske က အကြောင်းအရာတွေကို ချက်ချင်း ဆက်လက် လုပ်စေချင်ခဲ့တယ်။
+5/5
 
 5806
 Noske wanted to stop what was happening.
-နိုစ်ကီက ဖြစ်ပျက်နေတာကို ရပ်တန့်ချင်ခဲ့တယ်။
+Noske က ဖြစ်ပျက်နေတာကို ရပ်တန့်ချင်ခဲ့တယ်။
+5/5
 
 5807
 No one ever visits Bali.
-ဘာလီကို ဘယ်သူမှ မရောက်ဖူးဘူး။
+ဘာလီကို ဘယ်သူမှ မသွားကြဘူး။
+5/5
 
 5808
 Tour groups go to Bali a lot.
 ခရီးသွား အဖွဲ့တွေသည် ဘာလီကို အရမ်း သွားကြတယ်။
+5/5
 
 5809
 Tour groups go to see the temples in Bali.
 ခရီးသွား အဖွဲ့များသည် ဘာလီရှိ ဘုရားကျောင်းများကို သွားကြည့်ကြသည်။
+5/5
 
 5810
 There are no temples in the areas.
 ဒီ ဒေသတွေမှာ ဘုရားကျောင်းတွေ မရှိဘူး။
+5/5
 
 5811
 There are some little temples.
 သေးငယ်သော ဘုရားကျောင်း အချို့ ရှိသည်။
+5/5
 
 5812
 There are some tiny temples only one person can fit in.
 လူတစ်ဦးတည်းသာ ဝင်ဆံ့နိုင်သော သေးငယ်သော ဘုရားကျောင်း အချို့ ရှိသည်။
+5/5
 
 5813
 The land was hard.
-ဒီကုန်းမြေက ကြမ်းတယ်။
+ဒီကုန်းမြေက မာတယ်။
+5/5
 
 5814
 The land was soft.
 ဒီကုန်းမြေက ပျော့တယ်။
+5/5
 
 5815
 They could have tried harder.
-သူတို့ ပိုပြီးခက်ခက်ခဲခဲ ကြိုးစားနိုင်ခဲ့တယ်။
+သူတို့ ပိုပြီးခက်ခက်ခဲခဲ ကြိုးစားနိုင်ခွင့်ရှိခဲ့တယ်။
+5/5
 
 5816
 The chimney is not an indicator that the village used to be part of a hacienda.
-မီးခိုးခေါင်းတိုင်က ရွာသည် ခြံဝင်းအကျယ်ကြီးရှိသောအိမ် ၏ အစိတ်အပိုင်း ဖြစ်ခဲ့ဖူးတာကို ညွှန်းသောကိရိယာ တစ်ခု မဟုတ်ပါ။
+မီးခိုးခေါင်းတိုင်က ရွာသည် ခြံဝင်းအကျယ်ကြီးရှိသောအိမ် ၏ အစိတ်အပိုင်း ဖြစ်ခဲ့ဖူးတာကို ညွှန်းသော သင်္ကေတ တစ်ခု မဟုတ်ပါ။
+5/5
 
 5817
 The chimney, among other things, indicate the village used to be part of a hacienda.
 အခြား အရာတွေ အများထဲမှ ၊ မီးခိုးခေါင်းတိုင်က ၊ ရွာသည် ခြံဝင်းအကျယ်ကြီးရှိသောအိမ် ၏ အစိတ်အပိုင်း ဖြစ်ခဲ့တာကို ညွှန်ပြနေသည်။
+5/5
 
 5818
 The chimneys indicate the village was part of a hacienda.
 မီးခိုးခေါင်းတိုင်က ရွာသည် ခြံဝင်းအကျယ်ကြီးရှိသောအိမ် ၏ အစိတ်အပိုင်း ဖြစ်ခဲ့တာကို ညွှန်ပြနေသည်။
+5/5
 
 5819
 The walls have 100000 tiles on them.
-နံရံများသည် ၎င်းတို့ပေါ်မှာ ကြွေပြားပေါင်း ၁၀၀၀၀၀ ပါပါတယ်။
+နံရံများတွင် ကြွေပြားပေါင်း ၁၀၀၀၀၀ ပါပါတယ်။
+5/5
 
 5820
 There are a ton of little tiles there.
 အဲဒီမှာ သေးငယ်သော ကြွေပြား အများအပြား ရှိသည်။
+5/5
 
 5821
 There is nothing decorative there.
 အဲဒီမှာ အလှဆင်ထားတာ ဘာမှမရှိဘူး။
+5/5
 
 5822
 The painting aspires to turn the church into a Gothic cathedral.
 အဆိုပါ ပန်းချီကားသည် ဘုရားကျောင်းကို ဂေါ့သစ် ဘုရားရှိခိုးကျောင်းအဖြစ် ပြောင်းလဲရန် ဆန္ဒပြင်းပြသည်။
+#review
 
 5823
 The painting was created by an artist who was drunk at the time.
 အဆိုပါ ပန်းချီကားကို ထိုအချိန်က အရက်မူးနေသော ပန်းချီဆရာ တစ်ယောက် က ဖန်တီးခဲ့သည်။
+5/5
 
 5824
 The painting would turn the church into a harem.
 ပန်းချီကားက ဘုရားကျောင်းကို ဟာရမ် တစ်ခု အဖြစ် ပြောင်းလဲစေတယ်။
+#review
 
 5825
 The a5 coin is incredibly rare.
 a5 ဒင်္ဂါးပြားသည် အလွန် ရှားပါးသည်။
+5/5
 
 5826
 The a5 coin was British.
 a5 ဒင်္ဂါးပြားသည် ဗြိတိန်နှင့်ဆိုင်သည်။
+5/5
 
 5827
 The a5 coin was from China.
 a5 ဒင်္ဂါးပြားသည် တရုတ်နိုင်ငံမှ ဖြစ်ခဲ့သည်။
+5/5
 
 5828
 All the Athenians wanted to stop the war.
 အေသင်မြို့သားအားလုံးသည် စစ်ပွဲကို ရပ်တန့်ချင်ခဲ့ကြသည်။
+5/5
 
 5829
 Some Athenians wanted to declare war.
 အေသင်မြို့သား အချို့က စစ်ကို ကြေညာချင်ခဲ့ကြသည်။
+5/5
 
 5830
 Some Athenians wanted to start a war against the new king of macedonia.
 အေသင်မြို့သား အချို့သည် မက်ဆီဒိုးနီးယား ဘုရင် သစ် ကို ဆန့်ကျင်သည့် စစ်ပွဲ တစ်ပွဲ စတင်ချင်ခဲ့ကြသည်။
+5/5
 
 5831
 The acoustics are great for singing.
 ဒီ အသံထွက်သည် သီချင်းဆိုရန် အလွန်ကောင်းသည်။
+5/5
 
 5832
 The acoustics are just a mess in that place.
-ဒီ အသံထွက်သည် ထိုနေရာတွင် ရောထွေးမှု တစ်ခု ဖြစ်နေသည်။
+ဒီ အသံထွက်သည် ထိုနေရာတွင် အလွန်ရောထွေးမှု တစ်ခု ဖြစ်နေသည်။
+5/5
 
 5833
 The acoustics make things loud.
 ဒီ အသံထွက်သည် အရာဝတ္တုတွေကို ကျယ်လောင်စေသည်။
+#review
 
 5834
 The instruments are violin, bass, and saxophone.
 တူရိယာများမှာ တယော၊ ဘေ့စ်နှင့် ၊ ဆာဆိုဖုန်းတို့ ဖြစ်ကြသည်။
+5/5
 
 5835
 The orchestra consists of the instruments mentioned before.
 သံစုံတီးဝိုင်းတွင် ယခင် ဖော်ပြထားသော တူရိယာများ ပါဝင်သည်။
+5/5
 
 5836
 The orchestra does not use instruments at all.
 သံစုံတီးဝိုင်းသည် တူရိယာများကို လုံးဝ မသုံးပါ။
+5/5
 
 5837
 Fishermen have a permit to catch the fish.
-တံငါသည်များတွင် ငါးဖမ်းရန် ခွင့်ပြုချက် တစ်ခု ရှိသည်။
+တံငါသည်များတွင် ငါးဖမ်းရန် ခွင့်ပြုချက် ရှိသည်။
+5/5
 
 5838
 You can just catch whatever you want, whenever you want.
-သင် အလိုရှိသော အချိန်တိုင်း ၊  သင် အလိုရှိသော အရာကို သာ ဖမ်းနိုင်သည်။
+သင် အလိုရှိသော အချိန်တိုင်း ၊  သင် အလိုရှိသော အရာကို ဖမ်းနိုင်သည်။
+5/5
 
 5839
 You have to have a permit to catch fish that are bigger than 6 inches.
-၆ လက်မ ထက် ပို၍ကြီးသော ငါးတွေကို ဖမ်းရန် ခွင့်ပြုချက် တစ်ခု မင်းမှာ ရှိရမယ်။
+၆ လက်မ ထက် ပို၍ကြီးသော ငါးတွေကို ဖမ်းရန် ခွင့်ပြုချက် မင်းမှာ ရှိရမယ်။
+5/5
 
 5840
-The faaade was in King Tut's tomb.
-မျက်နှာစာသည် ဘုရင် တတ်၏ အုတ်ဂူ တွင် ရှိခဲ့သည်။
+The facade was in King Tut's tomb.
+မျက်နှာစာသည် ဘုရင် Tut ၏ အုတ်ဂူ တွင် ရှိခဲ့သည်။
+5/5
 
 5841
-The faaade was in the Temple of Ramses II and is made of solid gold.
-မျက်နှာစာသည် ရမ်စိစ်သည်တူး ဘုရားကျောင်းတွင် ရှိခဲ့ ပြီး ရွှေ အစိုင်အခဲထု ဖြင့် ပြုလုပ်ထားသည်။
+The facade was in the Temple of Ramses II and is made of solid gold.
+မျက်နှာစာသည် Ramses II ဘုရားကျောင်းတွင် ရှိခဲ့ ပြီး ရွှေ အစိုင်အခဲထု ဖြင့် ပြုလုပ်ထားသည်။
+5/5
 
 5842
-The faaade was in the Temple of Ramses II.
-မျက်နှာစာသည် ရမ်စိစ်သည်တူး ဘုရားကျောင်းတွင် ရှိခဲ့သည်။
+The facade was in the Temple of Ramses II.
+မျက်နှာစာသည် Ramses II ဘုရားကျောင်းတွင် ရှိခဲ့သည်။
+5/5
 
 5843
 Do not visit villages.
-ရွာတွေကို မလည်ပတ်ကြဘူး။
+ရွာတွေကို မလည်ပတ်ကြပါနှင့်။
+5/5
 
 5844
 Visit all of the villages.
-ရွာတွေ အားလုံးကို သွားလည်တယ်။
+ရွာတွေ အားလုံးကို သွားလည်ပါ။
+5/5
 
 5845
 Visit some villages.
-တချို့ရွာတွေကို သွားလည်တယ်။
+တချို့ရွာတွေကို သွားလည်ပါ။
+5/5
 
 5846
 Fire if you think that you need to at any time.
 ဘယ်အချိန်ဖြစ်ဖြစ် မင်း လိုတယ် လို့ မင်း ထင်တယ် ဆိုလျှင် ပစ်လိုက်ပါ။
+5/5
 
 5847
 Only shoot if someone near you has a gun and fires a shot at your head.
-မင်း အနီးမှာရှိတဲ့ တစ်စုံတစ်ယောက်မှာ သေနတ် တစ်လက် ရှိ ပြီး မင်းရဲ့ ခေါင်းကို ပစ်မည် ဆိုလျှင် ပစ်လိုက်ရုံပါပဲ။
+မင်း အနီးမှာရှိတဲ့ တစ်စုံတစ်ယောက်မှာ သေနတ် တစ်လက် ရှိ ပြီး မင်းရဲ့ ခေါင်းကို ပစ်မည် ဆိုမှသာလျှင် ပြန်ပစ်လိုက်ပါ။
+5/5
 
 5848
 Only shoot if you have to.
-မင်း လုပ်ဖို့ရှိတယ် ဆိုလျှင် ပစ်လိုက်ရုံပါပဲ။
+မင်း လိုအပ်တယ် ဆိုမှသာလျှင် ပစ်လိုက်ပါ။
+5/5
 
 5849
 You can hike alone any time.
 မင်းက ဘယ်အချိန်ဖြစ်ဖြစ် တစ်ယောက်တည်း တောင်တတ်နိုင်ပါတယ်။
+5/5
 
 5850
 You should only hike with a guide because there are dangerous animals.
 အန္တရာယ်ရှိသော တိရစ္ဆာန်များ ရှိနေ သောကြောင့် လမ်းပြ တစ်ယောက် နှင့်သာ မင်း ခရီးထွက်သင့်သည်။
+5/5
 
 5851
 You should probably only hike with a guide.
-မင်း လမ်းပြ တစ်ဦး နှင့်သာ ခရီးထွက်သင့်သည်။
+မင်း လမ်းပြ တစ်ဦး နှင့်သာ တောတောင်ခရီးထွက်သင့်သည်။
+5/5
 
 5852
 PEople like to party after the fish.
 ငါးမျှား ပြီးနောက် လူတွေက ပွဲတော်ကို နှစ်သက်ကြသည်။
+5/5
 
 5853
 People go fishing and then go right to sleep.
 လူတွေက ငါးမျှားထွက် ပြီးနောက် အိပ်ယာဝင်ကြတယ်။
+5/5
 
 5854
 People like to drink a lot of beer at the bars after they go fishing.
 လူတွေက ငါးမျှားသွား ပြီးနောက် အရက်ဆိုင်တွေမှာ ဘီယာ များစွာ သောက်လေ့ရှိကြသည်။
+5/5
 
 5855
 People think the islands should be left alone.
-လူတွေက ကျွန်းတွေကို သီးသန့် ထားသင့်တယ်လို့ ထင်နေကြတယ်။
+လူတွေက ကျွန်းတွေကို မနှောင့်ရှက်ပဲ ထားသင့်တယ်လို့ ထင်နေကြတယ်။
+5/5
 
 5856
 The islands are caught in the middle of a war.
-စစ်ပွဲ အလယ်မှာ ကျွန်းတွေကို သိမ်းပိုက်ခဲ့တယ်။
+စစ်ပွဲ အလယ်မှာ ကျွန်းတွေကို ပိတ်မိခဲ့တယ်။
+5/5
 
 5857
 We should keep the islands involved.
-ကျွန်တော်တို့က ကျွန်းတွေကို ပါဝင် စောင့်ရှောက်သင့်တယ်။
+ကျွန်တော်တို့က ကျွန်းတွေကို ဆက်လက်ပါဝင် စေသင့်တယ်။
+5/5
 
 5858
 The National Historical Museum has a lot of artifacts from post-Classical times.
 အမျိုးသား သမိုင်း ပြတိုက်တွင် ရှေးခေတ်လွန်ခေတ်က ရှေးဟောင်းပစ္စည်းအများအပြားရှိသည်။
+5/5
 
 5859
 The National Historical Museum has some old farm equipment.
 အမျိုးသား သမိုင်း ပြတိုက်တွင် လယ်ယာသုံး စက်ကိရိယာ အဟောင်း အချို့ ရှိသည်။
+5/5
 
 5860
 The National Historical Museum only has recent things.
 အမျိုးသား သမိုင်း ပြတိုက်တွင် လတ်တလော အကြောင်းအရာများ သာ ရှိသည်။
+5/5
 
 5861
 Everyone agreed the food was terrible.
-အစားအသောက်က ကြောက်စရာကောင်းတယ်လို့ လူတိုင်းက လက်ခံထားကြတယ်။
+အစားအသောက်က စားမကောင်းဘူးလို့ လူတိုင်းက လက်ခံထားကြတယ်။
+5/5
 
 5862
 One guy in jail said he liked the jail food a lot.
 ထောင်ထဲက လူ တစ်ယောက်က သူသည် ထောင်ထမင်းကို အရမ်းကြိုက်တယ် လို့ ပြောခဲ့တယ်။
+5/5
 
 5863
 One prisoner said he would eat the food every day if he could.
 တတ်နိုင်လျှင် သူသည် နေ့တိုင်း အစာ စားမယ်လို့ အကျဉ်းသား တစ်ယောက် က ပြောခဲ့ပါတယ်။
+5/5
 
 5864
 The gods always talked to the oracle about every legal matter.
-နတ်ဘုရားများသည် တရားစီရင်ရေး ကိစ္စ တိုင်း နှင့်ပတ်သက်၍ ကြိုတင်ခန့်မှန်းချက်ကို အမြဲပြောနေပါသည်။
+နတ်ဘုရားများသည် တရားစီရင်ရေး ကိစ္စ တိုင်း နှင့်ပတ်သက်၍ ဗျာဒိတ်ပေးနိုင်သူကို အမြဲပြောနေပါသည်။
+4/5
 
 5865
 The gods and the oracle never spoke or worked together.
-နတ်ဘုရားများ နှင့် ကြိုတင်ခန့်မှန်းချက်သည် တညီတညွတ်တည်း ပြောဆိုခြင်း သို့မဟုတ် လုပ်ဆောင်ခြင်း မရှိခဲ့ပါ။
+နတ်ဘုရားများ နှင့် နတ်အပူးခံနိုင်သူနှင့် တညီတညွတ်တည်း ပြောဆိုခြင်း သို့မဟုတ် လုပ်ဆောင်ခြင်း မရှိခဲ့ပါ။
+4/5
 
 5866
 The gods talked to the oracle.
-နတ်ဘုရားများသည် ကြိုတင်ခန့်မှန်းချက်ကို ပြောဆိုကြ၏။
+နတ်ဘုရားများသည် နတ်အပူးခံနိုင်သူနှင့် ပြောဆိုကြ၏။
+4/5
 
 5867
 CArrer dels Banys Nous is named for a forest.
-ကာရာ ဒဲလ် ဘန်းန် နှောက်စ်ကို သစ်တော တစ်ခု အတွက် အမည်ပေးထားသည်။
+CArrer dels Banys Nousကို သစ်တော တစ်ခု အတွက် အမည်ပေးထားသည်။
+5/5
 
 5868
 Carrer dels Banys Nous has a hot springs.
-ကာရာ ဒဲလ် ဘန်းန် နှောက်စ်တွင် ရေပူစမ်း တစ်ခု ရှိသည်။
+CArrer dels Banys Nousတွင် ရေပူစမ်း တစ်ခု ရှိသည်။
+5/5
 
 5869
 Carrer dels Banys Nous is named for baths.
-ကာရာ ဒဲလ် ဘန်းန် နှောက်စ် ကို ရေချိုးရန်အတွက် အမည်ပေးထားသည်။
+CArrer dels Banys Nousကို ရေချိုးခန်းများအတွက် အမည်ပေးထားသည်။
+5/5
 
 5870
 Albuferia is bustling and crazy!
-အလ်ဗူးဖီးရီးယားသည် ရှုပ်ပွနေ ပြီး စိတ်အနှောင့်အယှက်ဖြစ်ဖို့ကောင်းတယ်!
+Albuferiaသည် ရွထနေ ပြီး စိတ်အနှောင့်အယှက်ဖြစ်ဖို့ကောင်းတယ်!
+5/5
 
 5871
 Albuferia is quaint because cars aren't allowed there.
-အလ်ဗူးဖီးရီးယားသည် အဲဒီမှာ ကားတွေကို ခွင့်မပြုတဲ့အတွက် ထူးခြားပါတယ်။
+Albuferiaသည် အဲဒီမှာ ကားတွေကို ခွင့်မပြုတဲ့အတွက် ထူးခြားပါတယ်။
+5/5
 
 5872
 Albuferia is quaint.
-အလ်ဗူးဖီးရီးယားသည် ထူးခြားသည်။
+Albuferiaသည် ထူးခြားသည်။
+5/5
 
 5873
 Whitehorse used mainly horse carriages for transportation.
-ဝှိုက်ဟော့စ်သည် သယ်ယူပို့ဆောင်ရေး အတွက် မြင်းရထားများကို အဓိက အသုံးပြုခဲ့သည်။
+Whitehorseသည် သယ်ယူပို့ဆောင်ရေး အတွက် မြင်းရထားများကို အဓိက အသုံးပြုခဲ့သည်။
+5/5
 
 5874
 Whitehorse was territorial capital.
-ဝှိုက်ဟော့စ်သည် ပိုင်နက် မြို့တော် ဖြစ်ခဲ့သည်။
+Whitehorseသည် ပိုင်နက် မြို့တော် ဖြစ်ခဲ့သည်။
+5/5
 
 5875
 Whitehorse was the name of a potent alcoholic beverage.
-ဝှိုက်ဟော့စ်သည် အစွမ်းထက်သော အရက် အဖျော်ယမကာ တစ်ခု ၏ အမည် ဖြစ်ခဲ့သည်။
+Whitehorseသည် အစွမ်းထက်သော အရက် အဖျော်ယမကာ တစ်ခု ၏ အမည် ဖြစ်ခဲ့သည်။
+5/5
 
 5876
 Errol Flynn bought an island.
-အယ်ရို ဖလင်းသည် ကျွန်း တစ်ကျွန်းကို ဝယ်ယူခဲ့သည်။
+Errol Flynnးသည် ကျွန်း တစ်ကျွန်းကို ဝယ်ယူခဲ့သည်။
+5/5
 
 5877
 Errol Flynn did not buy an island.
-အယ်ရို ဖလင်းသည် ကျွန်း တစ်ကျွန်းကို မဝယ်ခဲ့ပါ။
+Errol Flynnသည် ကျွန်း တစ်ကျွန်းကို မဝယ်ခဲ့ပါ။
+5/5
 
 5878
 Errol Flynn was rich.
-အယ်ရို ဖလင်းသည် ချမ်းသာခဲ့သည်။
+Errol Flynnသည် ချမ်းသာခဲ့သည်။
+5/5
 
 5879
 Canada has never welcomed refugees.
-ကနေဒါက ဒုက္ခသည်တွေကို ဘယ်တော့မှ ကြိုဆိုမှာမဟုတ်ဘူး။
+ကနေဒါက ဒုက္ခသည်တွေကို ဘယ်တော့မှ ကြိုဆိုခဲ့ဘူး။
+5/5
 
 5880
 Canada was known for welcoming immigrants and refugees.
 ကနေဒါသည် ရွှေ့ပြောင်းအခြေချသူများ နှင့် ဒုက္ခသည်များကို ကြိုဆိုသောကြောင့် လူသိများသည်။
+5/5
 
 5881
 Canada welcomed refugees from African countries the most.
 ကနေဒါသည် အာဖရိကနိုင်ငံများမှ ဒုက္ခသည်များကို အများဆုံး ကြိုဆိုခဲ့သည်။
+5/5
 
 5882
 Computer CIty is not located in the Star House.
 ကွန်ပျူတာ စီးတီးသည် စတား ဟောက်စ်တွင် မတည်ရှိပါ။
+5/5
 
 5883
 Computer City is located in the Star House.
 ကွန်ပျူတာ စီးတီးသည် စတား ဟောက်စ်တွင် တည်ရှိသည်။
+5/5
 
 5884
 Computer City is the most impressive thing in the Star House.
 ကွန်ပျူတာ စီးတီးသည် စတား ဟောက်စ်တွင် အထင်ကြီးစရာ အကောင်းဆုံးအရာဖြစ်သည်။
+5/5
 
 5885
 Cala Mondrage is developed.
-ကာလာ မွန်ဒရေချ်သည် ဖွံ့ဖြိုးသည်။
+Cala Mondrageသည် ဖွံ့ဖြိုးလာခဲ့ပြီးဖြစ်သည်။
+5/5
 
 5886
 Cala Mondrage is not developed.
-ကာလာ မွန်ဒရေချ်သည် မဖွံ့ဖြိုးပါ။
+Cala Mondrageသည် မဖွံ့ဖြိုးပါ။
+5/5
 
 5887
 Cala Mondrage lacks sewers.
-ကာလာ မွန်ဒရေချ်တွင် ရေဆိုးမြောင်းများ ကင်းမဲ့နေသည်။
+Cala Mondrageတွင် ရေဆိုးမြောင်းများ ကင်းမဲ့နေသည်။
+5/5
 
 5888
 A church, chapel, and hexagonal tower represent the city's post-war rebirth.
 ခရစ်ယာန်ဘုရားကျောင်းတစ်ခု ၊ ဘုရားကျောင်းနှင့် ၊ ဆဋ္ဌဂံမျှော်စင်တို့သည် စစ်ပြီးခေတ် မြို့တော်၏ ပြန်လည်မွေးဖွားခြင်းကို ကိုယ်စားပြုသည်။
+5/5
 
 5889
 The marketplace represents the city's post-war rebirth.
 ဈေးသည် စစ်ပြီးခေတ် မြို့တော်၏ ပြန်လည်မွေးဖွားခြင်းကို ကိုယ်စားပြုသည်။
+5/5
 
 5890
 These structures were built by the greatest architect in the world.
 ဒီ အဆောက်အဦတွေကို ကမ္ဘာ့ အကြီးကျယ်ဆုံး ဗိသုကာပညာရှင်က တည်ဆောက်ခဲ့တာပါ။
+5/5
 
 5891
 Pierre was appointed but had to arrest himself for selling to the Americans.
-ပိဖ်ရာကို ခန့်အပ်ခဲ့ ပေမယ့် အမေရိကန်တွေဆီ ရောင်းစားလို့ သူ့ကိုယ်သူ အဖမ်းခံခဲ့ရပါတယ်။
+Pierreကို ခန့်အပ်ခဲ့ ပေမယ့် အမေရိကန်တွေဆီ ရောင်းစားလို့ သူ့ကိုယ်သူ အဖမ်းခံခဲ့ရပါတယ်။
+5/5
 
 5892
 Pierre was arrested for selling to the Americans among other things.
-ပိဖ်ရာသည် အခြားအရာများကြားတွင် အမေရိကန်လူမျိုးများကို ရောင်းစားခြင်းကြောင့် ဖမ်းဆီးခံခဲ့ရသည်။
+Pierreသည် အမေရိကန်လူမျိုးများကို ရောင်းစားခြင်း အပြင်အခြားအရာများကြား ကြောင့် ဖမ်းဆီးခံခဲ့ရသည်။
+5/5
 
 5893
 Pierre was never arrested.
-ပိဖ်ရာကို ဘယ်တုန်းကမှ ဖမ်းမမိခဲ့ဘူး။
+Pierreကို ဘယ်တုန်းကမှ ဖမ်းမမိခဲ့ဘူး။
+5/5
 
 5894
 The shops all serve some of the best food in the city.
-ဆိုင်များ အားလုံးသည် မြို့၏ အကောင်းဆုံး အစားအစာ အချို့ကို ဆောင်ရွက်ပေးပါသည်။
+ဆိုင်များ အားလုံးသည် မြို့၏ အကောင်းဆုံး အစားအစာ အချို့ကို တည့်ခင်းဧည့်ခံပါသည်။
+၅/၅
 
 5895
 The shops in the nearby streets are interesting.
 အနီးနားမှာရှိတဲ့ လမ်းတွေက စျေးဆိုင်တွေသည် စိတ်ဝင်စားဖို့ကောင်းတယ်။
+5/5
 
 5896
 The shops nearby are duller than any others around.
 အနီးနားရှိ ဆိုင်များသည် အခြားဆိုင်များထက် မှောင်နေပါသည်။
+5/5
 
 5897
 The collection is growing, but not as fast as it did last year.
 စုဆောင်းမှုသည် ကြီးထွားလာ သော်လည်း ၊ မနှစ်ကကဲ့သို့ မြန်ဆန်ခြင်း မရှိပါ။
+5/5
 
 5898
 The collection of clubs is dull and looks the same as all the others.
-ကလပ်အသင်းများ၏ စုစည်းမှုသည် မှုန်ဝါးနေ ပြီး အခြားအားလုံးနှင့် တူညီသည်။
+ကလပ် ပေါင်းစုံသည် မှုန်ဝါးနေ ပြီး အားလုံး ဆင်တူညီသည်။
+4/5
 
 5899
 The growing collection of clubs are unique and have a more urban edge.
-ကြီးထွားလာသော ကလပ်အသင်းများ၏ စုစည်းမှုသည် ထူးခြားပြီး မြို့ပြ အစွန်းအထင်း ပို ရှိသည်။
+ကြီးထွားလာသော ကလပ်အသင်းပေါင်းစုံသည် ထူးခြားပြီး မြို့ပြ ပုံစံ ပို ရှိသည်။
+5/5
 
 5900
 McKim Mead designed the mansion.
-မက်ကင် မဒ်သည် အိမ်ကြီးရခိုင်ကို ဒီဇိုင်းဆွဲခဲ့သည်။
+McKim Meadသည် အိမ်ကြီးရခိုင်ကို ဒီဇိုင်းဆွဲခဲ့သည်။
+5/5

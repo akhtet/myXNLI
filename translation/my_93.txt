@@ -1,334 +1,468 @@
+# INSTRUCTIONS FOR TRANSLATION QA
+#
+# There are 100 sentence blocks in this file. Each block has the following format.
+# - First line for sequence number, 
+# - Second line for English source sentence
+# - Third line for Myanmar translation -- You can overwrite it with your correction.
+# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
+# - Fifth line is a blank line for sepearating between the blocks
+#
+#  QA PROCEDURE:
+#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
+#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
+#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
+#  3. Do not correct the English sentence under any circumstances.
+#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
+#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
+#  5. Give a translation quality rating to the final version of the Myanmar sentence.
+#
+#     Translation rating is out of 5
+#         5/5 = Translation is perfect
+#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
+#         3/5 = Translation is partially correct, but missing some details
+#         2/5 = Translation is wrong or misleading
+#         1/5 = Translation is incomprehensible.
+# 
+# GENERAL TRANSLATION GUIDANCE:
+#   1. Don't miss any information in translation
+#   2. Don't add unnecessary information
+#   3. Take care to minimise spelling mistakes in Myanmar sentence
+#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
+#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
+#
+# HOW TO HANDLE SPECIAL CASES:        
+#   1. English Terms: 
+#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
+#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
+#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
+#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
+#
+#   2. Mistranslations due to cultural difference
+#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
+#     If you are not sure, just use the English word "Indians"
+#
+#   3. Present Tense / Past Tense correctness
+#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
+#
+# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
+# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
+# It is good enough if your FINAL translations can get to (4/5) rating.
+
 9201
 Millions of people took fen-phen.
-သန်းပေါင်းများစွာသော လူတို့ သည် ဖန်-ပန် ကို ယူသည် ။
+သန်းပေါင်းများစွာသော လူတို့ သည် fen-phen ကို ယူသည် ။
+#4/5
 
 9202
 No one took fen-phen in the US.
-ယူအက်စ် မှာ ဘယ်သူကမှ ဖန်-ပန် မယူဘူး။
+ယူအက်စ် မှာ ဘယ်သူကမှ fen-phen မယူဘူး။
+#4/5
 
 9203
 It's beneficial to look average because people leave you alone.
-လူများသည် သင့်ကို တစ်ယောက်တည်း ထားခဲ့ သောကြောင့် သာမန် ကြည့်ရတာ အကျိုးရှိသည် ။
+သာမန်ပုံ ပေါက်တာ အကျိုးများတယ် ဘာလို့လဲ ဆိုတော့ လူတွေက မင်းကိုချန်လှပ်ထားခဲ့ ကြလို့။ ။
+#4/5
 
 9204
 It's best to look very fancy.
-၎င်း သည် အရမ်း ထူးခြားဖို့ အကောင်းဆုံးပါပဲ ။
+ဖန်စီ အရမ်းဖြစ်ပုံပေါက်တာ အကောင်းဆုံးပါပဲ။ ။
+#4/5
 
 9205
 It's ok to look average.
-၎င်း သည် သာမန် ကြည့်ရတာ အဆင်ပြေတယ် ။
+သာမန်ပုံ ပေါက်တာ အဆင်ပြေပါတယ်။
+#4/5
 
 9206
 The ABM Treaty has nothing to do with weaponry.
-အေဘီအမ် သဘောတူစာချုပ် သည် လက်နက် နှင့် မသက်ဆိုင်ပါ ။
+ABM သဘောတူစာချုပ် သည် လက်နက် နှင့် မသက်ဆိုင်ပါ။
+#4/5
 
 9207
 The ABM Treaty has saved billions of dollars.
-အေဘီအမ် သဘောတူစာချုပ် သည် ဒေါ်လာ ဘီလီယံပေါင်းများစွာ ကို သက်သာစေခဲ့သည် ။
+ABM သဘောတူစာချုပ် သည် ဒေါ်လာ ဘီလီယံပေါင်းများစွာ ကို သက်သာစေခဲ့သည်။
+#4/5
 
 9208
 The ABM Treaty involves missile defense.
-အေဘီအမ် သဘောတူစာချုပ် တွင် ဒုံးကျည် ကာကွယ်ရေး ပါဝင်သည် ။
+ABM သဘောတူစာချုပ် တွင် ဒုံးကျည် ကာကွယ်ရေး ပါဝင်သည်။
+#4/5
 
 9209
 Foreign competition will destroy U.S. companies.
-နိုင်ငံခြား ပြိုင်ဆိုင်မှု က ယူအက်စ် ကုမ္ပဏီများ ကို ဖျက်ဆီးလိမ့်မည် ။
+နိုင်ငံခြား ပြိုင်ဆိုင်မှု က ယူအက်စ် ကုမ္ပဏီများ ကို ဖျက်ဆီးလိမ့်မည်။
+#4/5
 
 9210
 U.S. companies react favorably to foreign competition.
-ယူအက်စ် ကုမ္ပဏီများ သည် နိုင်ငံခြား ပြိုင်ဆိုင်မှု အပေါ် သဘောထားကြီးစွာ တုံ့ပြန်ကြသည် ။
+ယူအက်စ် ကုမ္ပဏီများ သည် နိုင်ငံခြား ပြိုင်ဆိုင်မှု အပေါ် လိုလားစွာ တုံ့ပြန်ကြသည်။
+#4/5
 
 9211
 U.S. companies respond to foreign competition.
-ယူအက်စ် ကုမ္ပဏီများ သည် နိုင်ငံခြား ပြိုင်ဆိုင်မှု ကို တုံ့ပြန်သည် ။
+ယူအက်စ် ကုမ္ပဏီများ သည် နိုင်ငံခြား ပြိုင်ဆိုင်မှု ကို တုံ့ပြန်ကြသည်။
+#4/5
 
 9212
 Making too much of this will render it useless.
-၎င်း ကို အလွန်အကျွံ ပြုလုပ်ရင် ထိုအရာသည်အသုံးမဝင်တော့ဘူး ။
+အလွန်အကျွံ ပြုလုပ်ရင် အသုံးမဝင် ဖြစ်စေလိမ့်မယ်။
+#4/5
 
 9213
 You are creating something.
-သင် သည် တစ်စုံတစ်ခု ကို ဖန်တီးနေတာလား ။
+သင် သည် တစ်စုံတစ်ခု ကို ဖန်တီးနေတယ်။
+#4/5
 
 9214
 You aren't making enough.
-သင် သည် လုံလောက်အောင် မပြုလုပ်နိုင်ဘူး ။
+မင်း လုပ်နေတာ မလုံလောက်သေးဘူး။
+#4/5
 
 9215
 Dowd has never and will never write anything that could be construed as boomer self-castigation.
-ဒွတ် သည် ဘူမာ မိမိကိုယ်ကို အပြစ်ရှာခြင်း အဖြစ် အဓိပ္ပါယ်ဖွင့်ဆိုနိုင်သည့် ဘာကိုမှ ဘယ်တုန်းကမှ နှင့် ဘယ်တော့မှ ရေးမည်မဟုတ်ပါ ။
+Dowd သည် boomer self-castigation အဖြစ် အဓိပ္ပါယ်ဖွင့်ဆိုနိုင်သည့် အကြောင်းအရာကို ဘယ်တုန်းကမှ နှင့် ဘယ်တော့မှ ရေးမည်မဟုတ်ပါ။
+#4/5
 
 9216
 For brilliant examples of boomer self-castigation, look no further than Dowd's Pulitzer-winning Flytrap pieces, and, actually, most of her work as a columnist.
-ဘူမာ-မိမိကိုယ်ကို အပြစ်ရှာခြင်း ၏ ပြောင်မြောက်သော ဥပမာများ အတွက် ၊ ဒွတ် ၏ ပူလစ်ဇာ-အနိုင်ရ အပိုင်းများထက် မပိုပါနှင့် ၊ အမှန်တကယ်တွင် သူမ ၏ အလုပ် အများစု မှာ ပင်တိုင်ရေးသားသူ ဖြစ်သည် ။
+boomer self-castigation ၏ ပြောင်မြောက်သော ဥပမာများ အတွက် ၊ Dowd ၏ ပူလစ်ဇာ-အနိုင်ရ အပိုင်းများထက် မပိုပါနှင့် ၊ အမှန်တကယ်တွင် သူမ ၏ အလုပ် အများစု မှာ ပင်တိုင်ရေးသားသူ ဖြစ်သည်။
+#3/5
 
 9217
 In addition to one of the most brilliant examples of boomer self-castigation, Dowd's body of work includes many columns about the prosecution of radical environmentalists.
-ဘူမာ-မိမိကိုယ်ကို အပြစ်ရှာခြင်း ၏ အတောက်ပဆုံးသော ဥပမာများ အပြင် ၊ ဒွတ် ၏ အလုပ် ကိုယ်ထည် တွင် အစွန်းရောက် သဘာဝပတ်ဝန်းကျင်ထိန်းသိမ်းရေးသမားများ ကို တရားစွဲဆိုခြင်းဆိုင်ရာ ကော်လံများစွာပါဝင်သည် ။
+Boomer self-castigation ၏ အတောက်ပဆုံးသော ဥပမာများ အပြင် ၊ ဒွတ် ၏ အလုပ် ကိုယ်ထည် တွင် အစွန်းရောက် သဘာဝပတ်ဝန်းကျင်ထိန်းသိမ်းရေးသမားများ ကို တရားစွဲဆိုခြင်းဆိုင်ရာ ကော်လံများစွာပါဝင်သည် ။
+#3/5
 
 9218
 BT offered 20 billion for MCT.
-ဘီတီ သည် အမ်စီတီ အတွက် ဘီလီယံ ၂၀ ကမ်းလှမ်းခဲ့သည် ။
+BT သည် MCT အတွက် ဘီလီယံ ၂၀ ကမ်းလှမ်းခဲ့သည်။
+#4/5
 
 9219
 WorldCom never bid against BT.
-ဝေါလ်ကွန် က ဘီတီ ကို ဘယ်တော့မှ စျေးမတင်ဘူး ။
+WorldCom က BT ကို ဘယ်တုန်းကမှ စျေးမကမ်းလှမ်းခဲ့ဘူး။
+#4/5
 
 9220
 WorldCom was in a bidding war against BT.
-ဝေါလ်ကွန် သည် ဘီတီ နှင့် ဈေးပြိုင် ယှဉ်ပြိုင်နေပါသည် ။
+WorldCom သည် BT နှင့် ဈေးယှဉ်ပြိုင် ကမ်းလှမ်းနေပါသည်။
+#4/5
 
 9221
 Facts contribute more to protests.
-ဖြစ်ရပ်မှန်များ သည် ဆန္ဒပြပွဲများ တွင် ပိုမို ပါဝင်ပါသည် ။
+ဖြစ်ရပ်မှန်များ သည် ဆန္ဒပြပွဲများ တွင် ပိုမို ဖြစ်ပေါ်စေသည်။
+#4/5
 
 9222
 The combination of facts and speculation is grounds for protests.
-ဖြစ်ရပ်မှန်များ နှင့် ထင်ကြေးပေးမှုများ ပေါင်းစပ်ခြင်း သည် ဆန္ဒပြပွဲများ အတွက် အကြောင်းရင်း ဖြစ်သည် ။
+ဖြစ်ရပ်မှန်များ နှင့် ထင်ကြေးပေးမှုများ ပေါင်းစပ်မှု သည် ဆန္ဒပြပွဲများ အတွက် အကြောင်းရင်း ဖြစ်သည်။
+#4/5
 
 9223
 There exist both facts and speculation.
-အဖြစ်မှန်များ နှင့် ထင်ကြေးပေးမှု နှစ်မျိုးလုံး ရှိပါသည် ။
+အဖြစ်မှန်များ နှင့် ထင်ကြေးပေးမှု နှစ်မျိုးလုံး ရှိပါသည်။
+#4/5
 
 9224
 Media conglomeration involves multiple steps.
-မီဒီယာ အစုအဝေး တွင် အဆင့် များစွာ ပါဝင်ပါသည် ။
+မီဒီယာ များအဖွဲ့အစည်း ဖွဲ့စည်းခြင်း တွင် အဆင့် များစွာ ပါဝင်ပါသည်။
+#4/5
 
 9225
 Media conglomeration is linear.
-မီဒီယာ အစုအဝေးသည် တစ်ပြေးညီ ဖြစ်သည် ။
+မီဒီယာ များအဖွဲ့အစည်း ဖွဲ့စည်းခြင်းသည် တဆင့် ပြီးတဆင့် သွားသည်။
+#4/5
 
 9226
 Media kings welcome fish into their bellies.
-မီဒီယာ ဘုရင်များ သည် သူတို့၏ ဝမ်းခေါင်း ထဲသို့ ငါးများ ကို ကြိုဆိုကြသည် ။
+မီဒီယာ ဘုရင်များ သည် သူတို့၏ ဝမ်းခေါင်း ထဲသို့ ငါးများ ကို ကြိုဆိုကြသည်။
+#3/5
 
 9227
 The White House has made a decision.
-အိမ်ဖြူတော် က ဆုံးဖြတ်ချက် တစ်ခု ချလိုက်ပါသည် ။
+အိမ်ဖြူတော် က ဆုံးဖြတ်ချက် တစ်ခု ချလိုက်ပါသည်။
+#4/5
 
 9228
 The White House is confused on how to act.
-အိမ်ဖြူတော် သည် မည်သို့ လုပ်ဆောင်ရမည် ကို ရှုပ်ထွေးနေပါသည် ။
+အိမ်ဖြူတော် သည် မည်သို့ လုပ်ဆောင်ရမည် ကို ရှုပ်ထွေးနေပါသည်။
+#4/5
 
 9229
 Will the White House Change Its Mind?
-အိမ်ဖြူတော် က စိတ်ပြောင်းမှာလား ။
+အိမ်ဖြူတော် က စိတ်ပြောင်းမှာလား။
+#4/5
 
 9230
 Russia is facing diminishing challenges due to the Chechen war.
-ရုရှား သည် ချေချင်း စစ်ပွဲ ကြောင့် စိန်ခေါ်မှုများ ဆုတ်ယုတ်လာခြင်းကို ရင်ဆိုင်နေရသည် ။
+ရုရှား သည် ချေချင်း စစ်ပွဲ ကြောင့် စိန်ခေါ်မှုများ ဆုတ်ယုတ်လာခြင်းကို ရင်ဆိုင်နေရသည်။
+#4/5
 
 9231
 Russia isn't sure of how to act.
-ရုရှား က ဘယ်လို လုပ်ဆောင်ရမယ် ဆိုတာ မသေချာဘူး ။
+ရုရှား က ဘယ်လို လုပ်ဆောင်ရမယ် ဆိုတာ မသေချာဘူး။
+#4/5
 
 9232
 The Chechen war has given Russia more obstacles.
-ချေချင်း စစ်ပွဲ က ရုရှား ကို အတားအဆီး တွေ ပိုမို ပေးခဲ့သည် ။
+ချေချင်း စစ်ပွဲ က ရုရှား ကို အတားအဆီး တွေ ပိုမို ပေးခဲ့သည်။
+#4/5
 
 9233
 FDA regulations have made it almost impossible for adults to buy cigarettes.
-အက်ဖ်ဒီအေ ၏ စည်းမျဉ်းများ သည် အရွယ်ရောက်ပြီးသူများ အတွက် ဆေးလိပ် ဝယ်ယူရန် မဖြစ်နိုင် လုနီးပါး ဖြစ်စေခဲ့သည် ။
+FDA စည်းမျဉ်းများ သည် အရွယ်ရောက်ပြီးသူများ အတွက် ဆေးလိပ် ဝယ်ယူရန် မဖြစ်နိုင် လုနီးပါး ဖြစ်စေခဲ့သည်။
+#4/5
 
 9234
 FDA regulations were put in place to make it harder to buy cigarettes.
-စီးကရက် ဝယ်ယူရန် ခက်ခဲအောင် အက်ဖ်ဒီအေ က စည်းမျဉ်းတွေ ချမှတ်ထားပါသည် ။
+စီးကရက် ဝယ်ယူရန် ခက်ခဲအောင် အက်ဖ်ဒီအေ က စည်းမျဉ်းတွေ ချမှတ်ထားခဲ့သည်။
+#4/5
 
 9235
 It isn't hard for adults to buy cigarettes even with FDA regulations.
-အက်ဖ်ဒီအေ က စည်းမျဉ်းများ နဲ့တောင် စီးကရက် ဝယ်ယူရန် လူကြီးများ အတွက် မခက်ပါဘူး ။
+အက်ဖ်ဒီအေ စည်းမျဉ်းများ က လူကြီးများ အတွက် စီးကရက် ဝယ်ယူရန်  မခက်ပါစေဘူး။
+#4/5
 
 9236
 The theories identify ages with features of the faces.
-သီအိုရီများ သည် မျက်နှာများ ရဲ့ အသွင်အပြင်များ ဖြင့် အသက်အရွယ်များ ကို ခွဲခြားသတ်မှတ်သည် ။
+သီအိုရီများ သည် မျက်နှာများ ရဲ့ အသွင်အပြင်များ ဖြင့် အသက်အရွယ်များ ကို ခွဲခြားသတ်မှတ်သည်။
+#4/5
 
 9237
 The theories identify ages with features.
-သီအိုရီများ သည် အသွင်အပြင်များ ဖြင့် အသက်များ ကို ခွဲခြားသတ်မှတ်သည် ။
+သီအိုရီများ သည် အသွင်အပြင်များ ဖြင့် အသက်များ ကို ခွဲခြားသတ်မှတ်သည်။
+#4/5
 
 9238
 There are no theories.
-သီအိုရီများ မရှိဘူး ။
+ဘာ သီအိုရီများ မှ မရှိဘူး။
+#4/5
+
 
 9239
 Culture cannot relate to feminism.
-ယဉ်ကျေးမှု သည် အမျိုးသမီးဝါဒ နှင့် မသက်ဆိုင်ပါ ။
+ယဉ်ကျေးမှု သည် အမျိုးသမီးဝါဒ နှင့် မသက်ဆိုင်ပါ။
+#4/5
 
 9240
 Culture was feminized.
-ယဉ်ကျေးမှု သည် မိန်းမဆန်သည် ။
+ယဉ်ကျေးမှု တွင် အမျိုးသမီး ဝါဒ သွပ်သွင်းထားသည်။
+#4/5
 
 9241
 There is only one answer tot he feminization of culture.
-မိန်းမဆန်ခြင်း ယဉ်ကျေးမှု အတွက် အဖြေ တစ်ခု ပဲ ရှိတယ် ။
+အမျိုးသမီး ဝါဒ ယဉ်ကျေးမှု အတွက် အဖြေ တစ်ခု ပဲ ရှိတယ်။
+#4/5
 
 9242
 Debrah Eappen did not like giving an interview to Time.
-ဒေဘရာ အက်ပ်ပန် သည် တိုင်းလ် အား အင်တာဗျူး တစ်ခု ပြုလုပ်ပေးခြင်းကို မကြိုက်ပါ ။
+Debrah Eappen သည် Time အား အင်တာဗျူး ပေးခြင်းကို မကြိုက်ခဲ့ပါ။
+#4/5
 
 9243
 Debrah Eappen gave an interview to Time.
-ဒေဘရာ အက်ပ်ပန် က တိုင်းလ် အား အင်တာဗျူး တစ်ခု ပြုလုပ်ပေးခဲ့သည်။
+Debrah Eappen သည် Time အား အင်တာဗျူး တစ်ခု လုပ်ပေးခဲ့သည်။
+#4/5
 
 9244
 Time interviews John Handcock.
-ဂျွန် ဟက်ကွတ် သည် တိုင်းလ် ကို အင်တာဗျူးသည် ။
+Time သည် John Handcock ကို အင်တာဗျူးသည်။
+#5/5
 
 9245
 The national parks are always empty.
-အမျိုးသား ဥယျာဉ်များ သည် အမြဲတမ်း အလွတ် ဖြစ်နေသည် ။
+အမျိုးသား ဥယျာဉ်များ တွင် အမြဲတမ်း လူမရှိပါ။
+#4/5
 
 9246
 The national parks are so crowded the deer are extinct.
-အမျိုးသား ဥယျာဉ်များ စည်ကား လွန်းလို့ သမင်များ မျိုးသုဉ်းသွားပြီ ဖြစ်သည် ။
+အမျိုးသား ဥယျာဉ်များ စည်ကား လွန်းလို့ သမင်များ မျိုးသုဉ်းသွားပြီ ဖြစ်သည်။
+#4/5
 
 9247
 The national parks are too crowded.
-အမျိုးသား ဥယျာဉ်များ သည် စည်ကားလွန်းလှသည် ။
+အမျိုးသား ဥယျာဉ်များ သည် စည်ကားလွန်းလှသည်။
+#4/5
 
 9248
 Decter is so young!
-ဒက်တာ သည် အရမ်းငယ်သည် ။
+Decter သည် အရမ်းငယ်သည်။
+#5/5
 
 9249
 Decter is 85 years old.
-ဒက်တာ သည် အသက် ၈၅ နှစ် ရှိပြီ ဖြစ်သည် ။
+Decter သည် အသက် ၈၅ နှစ် ရှိပြီ ဖြစ်သည်။
+#5/5
 
 9250
 Decter is old.
-ဒက်တာ သည် အသက်ကြီးသည် ။
+Decter သည် အသက်ကြီးသည်။
+#4/5
 
 9251
 It is not proper to use alternative to mean alternate.
-တစ်လှည့်စီ ကို ဆိုလိုသည်ထက် အစားထိုးသုံးရန် မသင့်လျော်ပါ ။
+alternative ကို alternate အဓိပ္ပါယ် အနေနဲ့ သုံးရန် မသင့်လျော်ပါ။
+#4/5
 
 9252
 It is permitted to substitute alternate for alternative.
-အခြားရွေးချယ်စရာ အတွက် အလှည့်ကျ အစားထိုးရန် ၎င်း ကို ခွင့်ပြုထားသည် ။
+alternative အတွက် alternate အစားထိုးသုံး ခွင့်ပြုထားသည်။
+#4/5
 
 9253
 Lots of people do not know how to correctly use alternative and alternate.
-လူ အတော်များများ သည် အခြားရွေးချယ်စရာ နှင့် အလှည့်ကျ ကို မည်ကဲ့သို့ မှန်ကန်စွာ အသုံးပြုရမည် ကို မသိကြပါ ။
+လူ အတော်များများ သည် အခြားရွေးချယ်စရာ နှင့် အလှည့်ကျ ကို မည်ကဲ့သို့ မှန်ကန်စွာ အသုံးပြုရမည် ကို မသိကြပါ။
+#4/5
 
 9254
 Cars are not just left in random places, when people return to base.
-လူများ စခန်း သို့ ပြန်သွား သောအခါ ၊ ကားများ သည် ကြုံရာ နေရာများ တွင်သာ ကျန်ရစ်သည် မဟုတ်ပါ ။
+လူများ စခန်း သို့ ပြန်သွား သောအခါ ၊ ကားများ သည် ကြုံရာ နေရာများ တွင်ထားရစ်ခဲ့သည် မဟုတ်ပါ။
+#4/5
 
 9255
 Motor homes shelter cars from the sun and from snow.
-မော်တော်ယာဥ်အိမ်များ သည် ကားများ ကို နေရောင် နှင့် နှင်းများ မှ အကာအကွယ်ပေးသည် ။
+မော်တော်ယာဥ်အိမ်များ သည် ကားများ ကို နေရောင် နှင့် နှင်းများ မှ အကာအကွယ်ပေးသည်။
+#4/5
 
 9256
 Once one leaves the base, they are never allowed to return again.
-စခန်း က ထွက်သွားတာ နဲ့ ၊ သူတို့ ကို ဘယ်တော့မှ နောက်ထပ် ပြန်ခွင့် မပြုတော့ဘူး ။
+စခန်း က ထွက်သွားတာ နဲ့ ၊ သူတို့ ကို ဘယ်တော့မှ နောက်ထပ် ပြန်လာခွင့် မပြုတော့ဘူး။
+#4/5
 
 9257
 You can imagine a bulldozer operator starting a bulldozer.
-မြေထိုးစက် တစ်ခု ကို စတင်သည့် မြေထိုးစက် မောင်းသူ တစ်ဦး ကို သင် စိတ်ကူးကြည့်နိုင်ပါတယ် ။
+မြေထိုးစက် မောင်းသူ တစ်ဦး မြေထိုးစက် တစ်ခု ကို စတင်မောင်းနှင်တာ ကို သင် စိတ်ကူးကြည့်နိုင်ပါတယ်။
+#4/5
 
 9258
 You can imagine a bulldozer operator.
 မြေထိုးစက် မောင်းသူ တစ်ဦး ကို သင် စိတ်ကူးကြည့်နိုင်ပါတယ်။
+#4/5
 
 9259
 You cannot imagine a bulldozer operator.
-မြေထိုးစက် မောင်းသူ တစ်ဦး ကို သင် စိတ်ကူးကြည့်လို့ မရဘူး ။
+မြေထိုးစက် မောင်းသူ တစ်ဦး ကို သင် စိတ်ကူးကြည့်လို့ မရဘူး။
+#4/5
 
 9260
 I am certain that the doctor received the letter I sent him.
-ကျွန်တော် ပေးလိုက်တဲ့ စာ ကို ဆရာဝန် က လက်ခံခဲ့တာ ကျွန်တော် သေချာပါတယ် ။
+ကျွန်တော် ပေးလိုက်တဲ့ စာ ကို ဆရာဝန် က လက်ခံရရှိခဲ့တာ သေချာပါတယ်။
+#4/5
 
 9261
 I did not eat the cake the doctor sent me that Christmas.
-အဲဒီ ခရစ္စမတ် မှာ ဆရာဝန် က ကျွန်တော့် ကို ပို့ပေးတဲ့ ကိတ်မုန့်ကို ကျွန်တော် မစားပါဘူး ။
+အဲဒီ ခရစ္စမတ်တုန်း က ဆရာဝန် က ကျွန်တော့် ဆီကို ပို့ပေးတဲ့ ကိတ်မုန့်ကို ကျွန်တော် မစားခဲ့ဘူး။
+#4/5
 
 9262
 The doctor sent me a bottle of wine that Christmas.
-အဲဒီ ခရစ္စမတ် မှာ ဆရာဝန် က ကျွန်တော့် ကို ဝိုင် တစ်ပုလင်း ပို့ပေးသည် ။
+အဲဒီ ခရစ္စမတ်တုန်း က ဆရာဝန် က ကျွန်တော့် ဆီကို ဝိုင် တစ်ပုလင်း ပို့ပေးခဲ့သည်။
+#4/5
 
 9263
 The team changed their name because it wasn't popular.
-အဖွဲ့ သည် လူကြိုက်များခြင်း မရှိ သောကြောင့် သူတို့၏ နာမည် ပြောင်းခဲ့သည် ။
+အဖွဲ့ သည် လူကြိုက်များခြင်း မရှိ သော သူတို့၏ နာမည်ကို ပြောင်းခဲ့သည်။
+#4/5
 
 9264
 The team had a name before this one that could also be thought of as an Indian nickname.
-အဖွဲ့ သည် အိန္ဒိယ အမည်ပြောင် တစ်ခု ကဲ့သို့ လည်း ယူဆနိုင်သည့် ဤ တစ်ခု ရှေ့တွင် နာမည် တစ်ခု ရှိသည် ။
+ဒီနာမည်အရှေ့မှာ အင်ဒီးယန်း နာမည် လို့ ယူဆနိုင်တဲ့ နာမည်တစ်ခု အသင်းမှာ ရှိခဲ့ ဖူးတယ်။
+#4/5
 
 9265
 The team has only ever had one name.
-အသင်း မှာ နာမည် တစ်ခု သာလျှင် ရှိသည် ။
+အသင်း မှာ နာမည် တစ်ခု သာလျှင် ရှိခဲ့သည်။
+#4/5
 
 9266
 It is assumed with good reason that Yiddish...
-အဲဒါ သည် ဂျူးဘာသာစကား လို့ အကြောင်းပြချက် ကောင်းကောင်း နဲ့ ယူဆသည်  ...
+အဲဒါ သည် Yiddish ဘာသာစကား လို့ အကြောင်းပြချက် ကောင်းကောင်း နဲ့ ယူဆသည်  ...
+#4/5
  
 9267
 It is rudely never considered that Yiddish...
-အဲဒါ သည် ဂျူးဘာသာစကား လို့ ဘယ်တော့ မှ မစဉ်းစားမိဘူး ။
+အဲဒါ သည် Yiddish ဘာသာစကား လို့ ဘယ်တော့ မှ မစဉ်းစားမိဘူး။
+#4/5
 
 9268
 There are many different assumptions about Yiddish.
-ဂျူးဘာသာစကား အကြောင်း အမျိုးမျိုးသော ယူဆချက် များစွာ ရှိသည် ။
+Yiddish ဘာသာစကား နဲ့ ပတ်သက်ပြီး အမျိုးမျိုးသော ယူဆချက် များစွာ ရှိသည်။
+#4/5
 
 9269
 It is common for writers to not pick out errors in their own texts.
-စာရေးဆရာများ သည် သူတို့၏ ကိုယ်ပိုင် စာများ တွင် အမှားအယွင်းများ ကို မရွေးချယ်မိခြင်း သည် သာမာန် ဖြစ်သည် ။
+စာရေးဆရာများ သည် သူတို့၏ စာများ တွင် အမှားအယွင်းများ ကို သတိမထားမိခြင်း သည် ဖြစ်လေ့ဖြစ်ထ ဖြစ်သည်။
+#4/5
 
 9270
 The job of the editor is to point out errors that the writer misses.
-အယ်ဒီတာ ၏ အလုပ် မှာ စာရေးဆရာ လွဲချော်နေသော အမှားများ ကို ထောက်ပြရန် ဖြစ်သည် ။
+အယ်ဒီတာ ၏ အလုပ် မှာ စာရေးဆရာ သတိမထားမိသော အမှားများ ကို ထောက်ပြရန် ဖြစ်သည်။
+#4/5
 
 9271
 Writers are very meticulous; not a single error passes unnoticed under their eyes.
-စာရေးဆရာများ သည် အလွန် စေ့စပ်သေချာသည် ၊ အမှား တစ်ခု က သူတို့ မျက်လုံး အောက်မှာ သတိမထားမိဘဲ ခွင့်ပြုမှာ မဟုတ်ပါဘူး ။
+စာရေးဆရာများ သည် အလွန် စေ့စပ်သေချာသည် ၊ ဘယ်လိုအမှား တစ်ခု ကိုမှ သူတို့ က မျက်စိရှန်းမှာမဟုတ်ဘူး။
+#4/5
 
 9272
 I found the definition in the thesaurus.
-ကျွန်တော် သည် အဘိဓာန် မှာ အဓိပ္ပါယ် ကို တွေ့သည် ။
+ကျွန်တော် သည် အဓိပ္ပါယ် ကို thesaurus မှာတွေ့သည်။
+#4/5
 
 9273
 I looked in the thesaurus and didn't find a definition.
-ကျွန်တော် အဘိဓာန် မှာ ရှာကြည့်လိုက် ပြီး အဓိပ္ပါယ် တစ်ခုကို မတွေ့ခဲ့ဘူး ။
+ကျွန်တော် thesaurus မှာ ရှာကြည့်ခဲ့တယ်  ၊ အဓိပ္ပါယ်ကို မတွေ့ခဲ့ဘူး။
+#4/5
 
 9274
 The thesaurus that I used was the standard thesaurus.
-ကျွန်တော် အသုံးပြုခဲ့သော အဘိဓာန် သည် စံပြ စာစု ဖြစ်သည် ။
+ကျွန်တော် အသုံးပြုခဲ့သော thesaurus အဘိဓာန် သည် အဆင့်မှီ thesaurus အဘိဓာန်ဖြစ်သည်။
+#4/5
 
 9275
 How can many people do nothing?
-လူ အများကြီး က ဘာလို့ ဘာမှမလုပ်နိုင်ကြတာလဲ ။
+လူ အများ က ဘာလို့ ဘာမှမလုပ်နိုင်ကြတာလဲ။
+#4/5
 
 9276
 How can one do such a bad thing?
-ထိုသို့သော မကောင်းမှု ကို ဘာလို့ ပြုနိုင်သနည်း ။
+ထိုသို့သော မကောင်းမှု ကို ဘာလို့ ပြုနိုင်သနည်း။
+#4/5
 
 9277
 How is it possible for one to do that?
-ထိုသို့ ပြုလုပ်ရန် မည်သို့ ဖြစ်နိုင်သနည်း ။
+အဲ့လို ဘယ်လိုများ လုပ်နိုင်ခဲ့သလဲ။
+#4/5
 
 9278
 As Skeat entered his sixties he gave off no indication that he was thinking about anything.
-စကိတ် သည် အသက်ခြောက်ဆယ်ကျော် ဝင်ရောက်လာသည် နှင့်အမျှ သူ သည် ဘာကိုမှ တွေးနေတယ်ဆိုသော အရိပ်အယောင်ကို မပြဘူး ။ 
+Skeat သည် အသက်ခြောက်ဆယ်ကျော် ဝင်ရောက်လာသည် နှင့်အမျှ သူ သည် ဘာကိုမှ တွေးနေတယ်ဆိုသော အရိပ်အယောင်ကို မပြဘူး။ 
+#4/5
 
 9279
 As Skeat got older he gave off the feeling that he took these matters less.
-စကိတ် သည် အသက်ကြီးလာသည် နှင့်အမျှ သူသည် ဤ ကိစ္စများ ကို လျှော့နည်းသွားသည် ဟု ခံစားချက် ကို ထုတ်ဖော်ခဲ့သည် ။
+Skeat သည် အသက်ကြီးလာသည် နှင့်အမျှ သူသည် ဘယ် ကိစ္စကို မှ အရေးတယူ လုပ်ဖို့ သိပ်စိတ်မဝင်စား တော့ ဘူး။
+#4/5
 
 9280
 Skeat started to care about different things as he got older.
-စကိတ် သည် သူ အသက်ကြီးလာသည် နှင့်အမျှ မတူညီသော အရာများ ကို စတင် အာရုံစိုက်လာခဲ့သည် ။
+Skeat သည် သူ အသက်ကြီးလာသည် နှင့်အမျှ မတူညီသော အရာများ ကို စတင် အာရုံစိုက်လာခဲ့သည်။
+#4/5
 
 9281
 The car and the fishing buoy were tiny, compared to the boulders.
-ကား နှင့် ငါးဖမ်းလှေ သည် ကျောက်တုံးများ နှင့် ယှဉ်လျှင် ၊ သေးငယ်သည် ။
+ကား နှင့် ငါးဖမ်းလှေ သည် ကျောက်တုံးများ နှင့် ယှဉ်လျှင် ၊ သေးငယ်သည်။
+#4/5
 
 9282
 The car had veered off the road and fallen onto the base of the boulder.
-ကား သည် လမ်း မှ ဖြတ်သွားပြီး ကျောက်တုံးကြီး ရဲ့ အောက်ခြေ ပေါ်သို့ ပြုတ်ကျသွားသည် ။
+ကား သည် လမ်းချော်သွားပြီး ကျောက်တုံးကြီး ရဲ့ အောက်ခြေ ပေါ်သို့ ပြုတ်ကျသွားသည်။
+#4/5
 
 9283
 The enormous size of the car made the boulder look like a small stone.
-ကား၏ ကြီးမားလှသော အရွယ်အစား သည် ကျောက်တုံး ကို သေးငယ်သော ကျောက်တုံး တစ်ခု ကဲ့သို့ ဖြစ်စေသည် ။
+ကား၏ ကြီးမားလှသော အရွယ်အစား သည် ကျောက်တုံးကြီး  ကို သေးငယ်သော ကျောက်တုံး တစ်ခု ကဲ့သို့ ဖြစ်စေသည်။
+#4/5
 
 9284
 According to the preface, it contains terms that gave rise in the twentieth century but leaves out slang that arose earlier.
@@ -340,60 +474,75 @@ It has all of the slang contained in it from the beginning of time.
 
 9286
 There is a lot of different slang from before the twentieth century.
-နှစ်ဆယ် ရာစု မတိုင်ခင်က နဲ့ ကွဲပြားသော ဘန်းစကားတွေ အများကြီး ရှိပါသည် ။
+နှစ်ဆယ် ရာစု မတိုင်ခင်က ဘန်းစကားကွဲတွေ အများကြီး ရှိပါသည်။
+#4/5
 
 9287
 Dr. Spooner left New College after serving twenty years as a scholar and administrator.
-ဒေါက်တာ စစ်အွန်နာ သည် ပညာရှင် နှင့် စီမံခန့်ခွဲသူ တစ်ဦး အဖြစ် အနှစ် နှစ်ဆယ်ကြာ အမှုထမ်း ပြီးနောက် နယူး ကောလိပ် မှ ထွက်ခွာခဲ့သည် ။
+ဒေါက်တာ Spooner သည် ပညာရှင် နှင့် စီမံခန့်ခွဲသူ တစ်ဦး အဖြစ် အနှစ် နှစ်ဆယ်ကြာ အမှုထမ်း ပြီးနောက် နယူး ကောလိပ် မှ ထွက်ခွာခဲ့သည်။
+#4/5
 
 9288
 Dr. Spooner was a part of New College for decades.
-ဒေါက်တာ စစ်အွန်နာ သည် နယူး ကောလိပ် ၏ အစိတ်အပိုင်း တစ်ခု ဖြစ်ခဲ့သည်မှာ ဆယ်စုနှစ်များစွာကြာခဲ့ပြီ ဖြစ်သည် ။
+ဒေါက်တာ Spooner သည် နယူး ကောလိပ် ၏ အစိတ်အပိုင်း တစ်ခု ဖြစ်ခဲ့သည်မှာ ဆယ်စုနှစ်များစွာကြာခဲ့ပြီ ဖြစ်သည်။
+#4/5
 
 9289
 Dr. Spooner was the longest serving member of New College.
-ဒေါက်တာ စစ်အွန်နာ သည် နယူး ကောလိပ် ၏ သက်တမ်း အကြာဆုံး အဖွဲ့ဝင် ဖြစ်သည် ။
+ဒေါက်တာ Spooner သည် နယူး ကောလိပ် ၏ သက်တမ်း အကြာဆုံး အဖွဲ့ဝင် ဖြစ်သည်။
+#4/5
 
 9290
 The 1984 edition is the best of the lot.
-၁၉၈၄ ခုနှစ် ထုတ်ဝေမှု သည် အများကြီး ထဲမှ အကောင်းဆုံး ဖြစ်သည် ။
+၁၉၈၄ ခုနှစ် ထုတ်ဝေမှု သည် အကောင်းဆုံး တကာ့ အကောင်းဆုံး ဖြစ်သည်။
+#4/5
 
 9291
 The book is not for sale.
-စာအုပ်က ရောင်းဖို့ မဟုတ်ဘူး ။
+စာအုပ်က ရောင်းဖို့ မဟုတ်ဘူး။
+#5/5
 
 9292
 The supplement is cheaper than the book.
-ဖြည့်စွက်စာ က စာအုပ် ထက် ဈေးသက်သာသည် ။
+ဖြည့်စွက်စာ က စာအုပ် ထက် ဈေးသက်သာသည်။
+#4/5
 
 9293
 Both types of words change over time, but at different rates.
-စကားလုံး ပုံစံ နှစ်မျိုးလုံး သည် အချိန် နှင့်အမျှ ပြောင်းလဲ သော်လည်း ၊ နှုန်းမှာ ကွဲပြားသည် ။
+စကားလုံး ပုံစံ နှစ်မျိုးလုံး သည် အချိန် နှင့်အမျှ ပြောင်းလဲ သော်လည်း ၊ မတူညီသော ပြောင်းလဲနှုန်းဖြင့် ဖြစ်သည်။
+#4/5
 
 9294
 Phonemes do not ever change over time.
-သံရင်းများ သည် အချိန် နှင့်အမျှ ပြောင်းလဲခြင်း မရှိပါ ။
+သံရင်းများ သည် အချိန် နှင့်အမျှ ပြောင်းလဲခြင်း မရှိပါ။
+#4/5
 
 9295
 There is a third type of word that does not change, but is rarely used.
-မပြောင်းလဲသော တတိယမြောက် စကားလုံး ပုံစံ တစ်လုံး ရှိ သော်လည်း ၊ အသုံးနည်းပါသည် ။
+မပြောင်းလဲသော တတိယစကားလုံး ပုံစံ တစ်လုံး ရှိ သော်လည်း ၊ အသုံးနည်းပါသည်။
+#4/5
 
 9296
 Split Ends is a hair salon.
-စပလစ်အန့် သည် ဆံပင်ညှပ်ဆိုင် တစ်ခု ဖြစ်သည် ။
+Split Ends သည် ဆံပင်ညှပ်ဆိုင် တစ်ခု ဖြစ်သည်။
+#4/5
 
 9297
 Split Ends is an ice cream shop.
-စပလစ်အန့် သည် ရေခဲမုန့် ဆိုင် တစ်ခု ဖြစ်သည် ။
+Split Ends သည် ရေခဲမုန့် ဆိုင် တစ်ခု ဖြစ်သည်။
+#4/5
 
 9298
 Split Ends is for edgy people.
-စပလစ်အန့် သည် တုန်လှုပ်ချောက်ချားနေသော လူများ အတွက် ဖြစ်သည် ။
+Split Ends သည် ခပ်မိုက်မိုက်ပုံစံကြိုက်သော လူများ အတွက် ဖြစ်သည်။
+#4/5
 
 9299
 Bernstein does not explain it in depth.
-ဘန်းစတိန်း သည် ၎င်း ကို လေးလေးနက်နက် မရှင်းပြတတ်ပါဘူး ။
+Bernstein က ထဲထဲဝင်ဝင် မရှင်းပြဘူး။
+#4/5
 
 9300
 Bernstein only explained it in the conclusion.
-ဘန်းစတိန်း က ၎င်း ကို နိဂုံးချုပ် မှာသာ ရှင်းပြခဲ့သည် ။
+Bernstein က နိဂုံးချုပ် မှာသာ ရှင်းပြခဲ့သည်။
+#4/5

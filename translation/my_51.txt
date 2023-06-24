@@ -1,98 +1,174 @@
+# INSTRUCTIONS FOR TRANSLATION QA
+#
+# There are 100 sentence blocks in this file. Each block has the following format.
+# - First line for sequence number, 
+# - Second line for English source sentence
+# - Third line for Myanmar translation -- You can overwrite it with your correction.
+# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
+# - Fifth line is a blank line for sepearating between the blocks
+#
+#  QA PROCEDURE:
+#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
+#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
+#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
+#  3. Do not correct the English sentence under any circumstances.
+#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
+#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
+#  5. Give a translation quality rating to the final version of the Myanmar sentence.
+#
+#     Translation rating is out of 5
+#         5/5 = Translation is perfect
+#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
+#         3/5 = Translation is partially correct, but missing some details
+#         2/5 = Translation is wrong or misleading
+#         1/5 = Translation is incomprehensible.
+# 
+# GENERAL TRANSLATION GUIDANCE:
+#   1. Don't miss any information in translation
+#   2. Don't add unnecessary information
+#   3. Take care to minimise spelling mistakes in Myanmar sentence
+#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
+#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
+#
+# HOW TO HANDLE SPECIAL CASES:        
+#   1. English Terms: 
+#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
+#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
+#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
+#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
+#
+#   2. Mistranslations due to cultural difference
+#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
+#     If you are not sure, just use the English word "Indians"
+#
+#   3. Present Tense / Past Tense correctness
+#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
+#
+# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
+# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
+# It is good enough if your FINAL translations can get to (4/5) rating.
+
 5001
 There are plenty of alternatives to solve this problem other than to hand over the girl as a hostage.
 မိန်းကလေးကို ဓားစာခံ တစ်ယောက် အဖြစ် လွှဲပြောင်းပေးခြင်းမှလွဲ၍ ဤ ပြဿနာကို ဖြေရှင်းရန် အခြားနည်းလမ်း များစွာ ရှိပါသည်။
+#5/5
 
 5002
 To surrender the hostage would mean certain death for her.
-အညံ့ခံရန် ဓားစာခံသည် သူမအတွက် သေဆုံးခြင်း လို့ လုံးဝ အဓိပ္ပာယ်ရသည်။
+ဓားစာခံကိုအညံ့ခံခြင်းသည် သူမအတွက် သေဆုံးခြင်း လို့ လုံးဝ အဓိပ္ပာယ်ရသည်။
 
 5003
 Everything is included in the bargain.
 လျှော့ဈေးမှာ အားလုံး ပါဝင်တယ်။
+#/5/5
 
 5004
 That is not in the bargain because it wouldn't be fair.
 ဒါက လျှော့ဈေးမှာ မပါဘူး ဘာကြောင့်လည်းဆို ဒါက မမျှတလို့။
+#5/5
 
 5005
 That isn't included in the agreement.
 အဆိုပါ သဘောတူညီချက်ထဲမှာ ဒါ မပါဝင်ဘူး။
+#5/5
 
 5006
 Calverly responded in a way that made him seem like he was on-the-fence about something.
-သူက တစ်စုံတစ်ခု နဲ့ပတ်သက်ပြီး သူ့ကို ဆုံးဖြတ်ချက်မချနိုင် ဖြစ်ခဲ့ပုံပေါ်စေသည့် နည်းလမ်း တစ်ခုကို ကယ်လ်ဗာလေ က တုံ့ပြန်ခဲ့တယ်။
+သူက တစ်စုံတစ်ခု နဲ့ပတ်သက်ပြီး ဇဝေဇဝါဖြစ်နေသည့်ပုံဖြင့် ကယ်လ်ဗာလေ က တုံ့ပြန်ခဲ့တယ်။ 
+
+
 
 5007
 Calverly was only indecisive in his answer because he did not know all of the facts.
-ကယ်လ်ဗာလေသည် သူက အချက်အလက်များ အားလုံးကို မသိခဲ့ သောကြောင့် သူ၏ အဖြေတွင် ပြတ်သားနေခဲ့သည်။
+ကယ်လ်ဗာလေသည် သူက အချက်အလက်များ အားလုံးကို မသိခဲ့ သောကြောင့် သူ၏ အဖြေတွင် မပြတ်သားပဲဖြစ်နေခဲ့သည်။
 
 5008
 Cleverly spoke with clear decisiveness, knowing that he has with certainty.
 ကယ်လ်ဗာလေက သူ့မှာ အသေအချာ ရှိတယ် ဆိုတာကို သိရှိခြင်းအားဖြင့် ၊ ရှင်းလင်းသော ဆုံးဖြတ်ချက်ခိုင်မာပြတ်သားမှု နှင့်အတူ ပြောဆိုခဲ့သည်။
+#4/5
 
 5009
 He has his own officers.
 သူ့မှာ သူ၏ ကိုယ်ပိုင် အရာရှိတွေ ရှိတယ်။
+#5/5
 
 5010
 He is alone and has no officers.
 သူက တစ်ယောက်တည်း ဖြစ် ပြီး အရာရှိတွေ မရှိဘူး။
+5/5
 
 5011
 His officers respect him.
 သူ့ အရာရှိတွေက သူ့ကို လေးစားတယ်။
+#5/5
+
 
 5012
 She did not want him to help her, though was grateful anyway.
-သူ့မကို ကူညီရန် သူ့ကို သူမက ဆန္ဒမရှိခဲ့ သော်လည်း ၊ ဘာပဲဖြစ်ဖြစ် ကျေးဇူးတင်ခဲ့တယ်။
-
+သူ့မကို သူကကူညီပေးရန်  သူမက ဆန္ဒမရှိခဲ့ သော်လည်း ၊ ဘာပဲဖြစ်ဖြစ် ကျေးဇူးတင်ခဲ့တယ်။
+ 
 5013
 She had told him that resolve was what it took to keep her away from peril.
 ဒီ ဆုံးဖြတ်ချက်သည် အန္တရာယ်မှ သူမကို ကင်းဝေးစေရန် လုပ်ဆောင်ခဲ့တာဟု သူမ က သူ့ကို ပြောခဲ့တယ်။
+#4/5
 
 5014
 The resolve did not protect her at all from any dangers.
 အဆိုပါ ဆုံးဖြတ်ချက်သည် သူမအား ဘေးအန္တရာယ်တွေဆီမှ လုံးဝ ကာကွယ်မပေးနိုင်ခဲ့ဘူး။
+#5/5
 
 5015
 It is a distinguished and eminent service.
 ဒါက သိသာ ပြီး ထင်ရှားကျော်ကြားသော ဝန်ဆောင်မှု တစ်ခု ဖြစ်သည်။
+#5/5
 
 5016
 It is an honorable service because it's about saving lives.
 ဒါဟာ လူ့အသက်များကို ကယ်တင်ခြင်း ဖြစ်တဲ့ အတွက်ကြောင့် ဂုဏ်ယူဖွယ် ဝန်ဆောင်မှု တစ်ခု ဖြစ်သည်။
+#5/5
 
 5017
 It isn't an honorable service at all, it's very embarrassing!
 ဒါဟာ ဂုဏ်ယူစရာကောင်းတဲ့ ဝန်ဆောင်မှု တစ်ခု လုံးဝ မဟုတ်ပါ ၊ ဒါဟာ အလွန် ရှက်စရာကောင်းပါတယ်!
+#5/5
 
 5018
 She refused to even look at him.
 သူ့ကို ကြည့်ဖို့တောင် သူမက ငြင်းဆန်ခဲ့သည်။
+#5/5
+
 
 5019
 She was afraid he would kill her.
 သူက သူမကို သတ်လိုက်မှာ သူမ က ကြောက်ခဲ့သည်။
+#5/5
 
 5020
 She was looking at him.
 သူမက သူ့ကို ကြည့်ခဲ့တယ်။
+#5/5
 
 5021
 She exclaimed with delight at just the thought of it!
 သူမ ထိုအရာကို တွေးရင်းနဲ့ ဝမ်းသာအားရ နဲ့ အံ့အားသင့်ခဲ့တယ်!
+#2/5
+ထိုအရာကို တွေးကြည့်ရုံနဲ့ပင်သူမက ဝမ်းသာအားရ နဲ့ အံ့အားသင့်ခဲ့တယ်!
+
 
 5022
 She was trying not to think of the event that took place.
 ဖြစ်ပျက်ခဲ့တဲ့ အဖြစ်အပျက်ကို မတွေးဖို့ သူမ ကြိုးစားနေတယ်။
+#5/5
 
 5023
 Thinking about the event made her shudder.
 အဖြစ်အပျက် အကြောင်း တွေးတောခြင်းက သူ့မကို တုန်လှုပ်စေတယ်။
+#5/5
 
 5024
 All Buccaneers in most ships are loud when yelling in unison.
 သင်္ဘောအများစုတွင် ပင်လယ်ဓါးပြများ အားလုံးက တစ်ညီတစ်ညွတ်တည်း အော်ဟစ်နေချိန်တွင် ကျယ်လောင်တယ်။
+
 
 5025
 The Buccaneers were loud when giving a yes.
@@ -101,170 +177,213 @@ The Buccaneers were loud when giving a yes.
 5026
 There was no sign of the buccaneers below as they were presumed silent.
 သူတို့ တိတ်ဆိတ်နေသည်ဟု ယူဆခဲ့ သလို အောက်တွင် ပင်လယ်ဓါးပြ များ၏ အရိပ်အယောင် မရှိခဲ့ဘူး။
+#3/5
 
 5027
 The man is acting uncivilized.
 အဆိုပါ အမျိုးသားက မယဉ်မကျေး ပြုမူတယ်။
+#4/5
 
 5028
 The man is calm and reasonable.
 အဆိုပါ အမျိုးသားသည် တည်ငြိမ် ပြီး ကျိုးကြောင်းဆီလျော်တယ်။
+#/5/5
 
 5029
 They are having a conversation.
 သူတို့မှာ စကားဝိုင်း တစ်ခု ရှိနေခြင်း ဖြစ်တယ်။
+#4/5
+
 
 5030
 He had heard some exciting news.
 သူ က စိတ်လှုပ်ရှားစရာကောင်းတဲ့ သတင်း အချို့ကို ကြားခဲ့တယ်။
+#5/5
 
 5031
 He was looking away from the Captain and then turned around to see him.
 သူသည် ကပ္ပတိန် ဆီမှ ဝေးရာသို့ ကြည့်နေခဲ့ ပြီးနောက် သူ့ကို ကြည့်ရန် လှည့်ခဲ့လိုက်သည်။
+#5/5
 
 5032
 The Captain was angry.
 ကပ္ပတိန်က ဒေါသထွက်ခဲ့တယ်။
+#5/5
 
 5033
 He kept his eyes down looking at the ground.
-သူက သူ၏ မျက်လုံးကို မြေပြင်ကို ငုံ့ကြည့်ရင်း ထိန်းထားခဲ့တယ်။
+သူက သူ၏ မျက်လုံးများကို မြေပြင်ကို ငုံ့ကြည့်ရင်း နေနေခဲ့တယ်။
+
 
 5034
 He was surprised by her.
 သူ့ကို သူမက အံ့အားသင့်စေသည်။
+#5/5
 
 5035
 She was braver than he expected.
 သူမက သူ မျှော်လင့်ထားတာ ထက် ပိုပြီးသတ္တိ ရှိခဲ့သည်။
+#5/5
 
 5036
 He sat in a chair in the cabin.
 သူက သင်္ဘောပေါ်အခန်းငယ်ထဲ က ကုလားထိုင် တစ်လုံး ပေါ်တွင် ထိုင်ခဲ့တယ်။
+#5/5
 
 5037
 He sat in a green chair in the cabin.
 သူက သင်္ဘောပေါ်ကအခန်းငယ်ထဲ အစိမ်းရောင်ရှိသော ကုလားထိုင်တစ်လုံးပေါ်တွင် ထိုင်ခဲ့တယ်။
+#5/5
 
 5038
 He sat on the floor of the cabin because there weren't any chairs available.
 ကုလားထိုင်တစ်လုံးမှ မရရှိနိုင် သောကြောင့် သူက သင်္ဘောပေါ်ကအခန်းငယ်ထဲ ကြမ်းပြင်ပေါ်တွင် ထိုင်ခဲ့တယ်။
+#5/5
 
 5039
 A man was killed.
-အမျိုးသား တစ်ဉီး သေဆုံးခဲ့တယ်။
+အမျိုးသား တစ်ဉီး အသတ်ခံခဲ့ရတယ်။
 
 5040
 He was killed with a sword.
 သူက ဓားနှင့် ထိုးသတ်ခံရတယ်။
+#5/5
 
 5041
 The man's life was spared.
 ထို အမျိုးသား ၏ အသက်ကို နှမြောတယ်။
+#0/5
+အမျိုးသားရဲ့အသက်ကိုလွတ်ပေးခဲ့တယ်။ 
+
 
 5042
 Colonel Bishop was angry because the captain had stolen something.
 ကပ္ပတိန်က တစ်ခုခုကို ခိုးယူသွား သောကြောင့် ကိုလိုနယ် ဘစ်လျှော့  ဒေါသထွက်ခဲ့တယ်။
+#5/5
 
 5043
 The ships behind them belonged to friends.
 သူတို့ နောက်က သင်္ဘောတွေက သူငယ်ချင်းတွေ ပိုင်ဆိုင်တာပါ။
+#5/5
 
 5044
 There were ships chasing after them.
-သူတို့ နောက်က သင်္ဘောတွေကို လိုက်နေတယ်။
+သူတို့ နောက်က သင်္ဘောတွေသူတို့ကို လိုက်နေတယ်။
+
 
 5045
 Colonel Bishop has heard some bad news.
 ကိုလိုနယ် ဘစ်လျှော့ က မကောင်းတဲ့ သတင်း အချို့ကို ကြားခဲ့ပြီးပြီ။
+#5/5
 
 5046
 Colonel Bishop is already cool.
 ကိုလိုနယ် ဘစ်လျှော့ အေးနေပြီ။
+#4/5
 
 5047
 Colonel Bishop is heated.
 ကိုလိုနယ် ဘစ်လျှော့ က ပူလာသည်။
+#4/5
 
 5048
 You are not assigned to the gun deck.
 မင်းက သေနတ်တွေထားတဲ့အခန်း မှာ တာဝန်မကျဘူး။
+#5/5
 
 5049
 You are stationed on the gun deck.
-မင်းက သေနတ်တွေထားတဲ့အခန်းမှာ တပ်စွဲထားသည်။
+မင်းကို သေနတ်တွေထားတဲ့အခန်းမှာ နေရာချထားသည်
+#5/5
 
 5050
 You will only be stationed today on the gun deck.
 ဒီနေ့ မင်း သေနတ်တွေထားတဲ့အခန်း မှာ တပ်စွဲရလိမ့်မယ်။
+#5/5
 
 5051
 Pitt completely ignored what was asked of him.
 ပစ်ဒ် က သူ့ကို မေးတာကို လုံးဝ လျစ်လျူရှူ့ခဲ့တယ်။
+#5/5
 
 5052
 Pitt is the name of a dog that is very obedient.
 ပစ်ဒ် ဆိုတာ အရမ်း နာခံတတ်တဲ့ ခွေး တစ်ကောင်ရဲ့ နာမည် ဖြစ်ပါတယ်။
+#5/5
 
 5053
 Pitt quickly followed the order.
 ပစ်ဒ် က အမိန့်ကို မြန်မြန် လိုက်နာခဲ့တယ်။
+#5/5
 
 5054
 He had never been to Port Royal.
 ပေါ့ ရိုင်ရယ် ကို သူ တစ်ခါမှ မရောက်ဖူးဘူး။
+#5/5
 
 5055
 He spent 2 weeks in Port Royal.
 သူ က ပေါ့ ရိုင်ရယ် မှာ သီတင်းပတ် ၂ ပတ် အချိန်ကုန်ခဲ့တယ်။
+#5/5
 
 5056
 He was doing repairs on his ship.
-သူက သူ့သင်္ဘောမှာ ပြင်ဆင်မှုတွေကို ပြုလုပ်နေတယ်။
+သူက သူ့သင်္ဘောပေါ်မှာ ပြင်ဆင်မှုတွေကို ပြုလုပ်နေတယ်။
+
 
 5057
 Her voice was loud and booming.
 သူမ အသံက ကျယ်လောင် ပြီး မြည်ဟည်းနေတယ်။
+#5/5
 
 5058
 She had heard something.
 သူမ တစ်ခုခု ကြားခဲ့ပြီးပြီ။
+#5/5
 
 5059
 She spoke quietly because she was afraid.
 သူမ ကြောက်နေခဲ့ သောကြောင့် တိတ်တိတ်လေး ပြန်ပြောခဲ့သည်။
+#5/5
 
 5060
 The man was the captain of one of the ships.
 အဆိုပါ အမျိုးသားသည် သင်္ဘောတွေထဲက တစ်ခု ၏ ကပ္ပတိန် ဖြစ်ခဲ့သည်။
+#5/5
 
 5061
 There was a fleet of ships.
 သင်္ဘောများ ၏ ရေတပ်သင်္ဘောအစု တစ်ခု ရှိခဲ့တယ်။
+#3/5
 
 5062
 There were no ships in sight.
 အမြင်မှာတော့ သင်္ဘောတွေ မရှိခဲ့ဘူး။
+#4/5
 
 5063
 Blood had been inside his cabin.
 ဘလတ်သည် သူ၏ သင်္ဘောပေါ်ကအခန်းငယ် အတွင်းမှာ ရှိခဲ့တယ်။
+#5/5
 
 5064
 Blood was laughing because he was joyful.
 ဘလတ်က သူ ပျော်နေတာကြောင့် ရယ်မောခဲ့တယ်။
+#5/5
 
 5065
 Blood was scowling.
 ဘလတ်က မျက်မှောင်ကြုတ်ခဲ့တယ်။
+#5/5
 
 5066
 He knew he would be completely safe if he went ashore.
 သူ ကမ်းပေါ်ကို သွားခဲ့လျှင် သူ လုံးဝ ဘေးကင်းလိမ့်မယ်ဆိုတာကို သူက သိခဲ့တယ်။
+#5/5
 
 5067
 It was dangerous for him to go to shore.
-ကမ်းကို သွား ရန် သူ့အတွက် အန္တရာယ် ရှိခဲ့တယ်။
+ကမ်းပေါ်ကိုတက်ခြင်းဟာ သူ့အတွက် အန္တရာယ် ရှိခဲ့တယ်။
 
 5068
 There were people on shore who wanted to kill him.
@@ -273,127 +392,158 @@ There were people on shore who wanted to kill him.
 5069
 I did not dream last Friday.
 ပြီးခဲ့တဲ့ သောကြာနေ့က ငါ အိမ်မက်မမက်ခဲ့ဘူး။
+#5/5
 
 5070
 I did not dream.
 ငါ အိမ်မက်မမက်ခဲ့ဘူး။
+#5/5
 
 5071
 I had three dreams.
 ငါ အိမ်မက် သုံးခု ရှိခဲ့တယ်။
+#4/5
 
 5072
 I am definitely ungrateful to you.
 ငါ မင်းကို လုံးဝ ကျေးဇူးမတင်ဘူး။
+#5/5
 
 5073
 I am grateful because you had done a lot for me.
 မင်း ငါ့အတွက် အများကြီး လုပ်ပေးခဲ့ပြီးပြီမလို့  ငါ မင်းကို ကျေးဇူးတင်တယ်။
+#5/5
 
 5074
 One is certainly grateful.
 တစ်ခုကတော့ သေချာပေါက် ကျေးဇူးတင်ပါတယ်။
+#3/5
 
 5075
 He had heard her shout from afar.
 သူ က အဝေးက သူမ အော်သံကို ကြားခဲ့တယ်။
+#5/5
 
 5076
 She shouted that there was no hope for him.
 သူ့အတွက် မျှော်လင့်ချက်တွေ မရှိတော့ဘူး ဆိုတာကို သူမက အော်ပြောခဲ့တယ်။
+#5/5
 
 5077
 There was certainly still hope for him.
-သူ့အတွက် အသေအချော မျှော်လင့်နေဆဲ ဖြစ်တယ်။
+သူ့အတွက် မျှော်လင့်ချက်ရှိနေေသေးတာ သေချာပေါက်ဖြစ်တယ်။
 
 5078
 It has always been a contest ever since we went about.
 ကျွန်တော်တို့ သွား ကတည်းက ပြိုင်ပွဲ တစ်ပွဲ အမြဲ ရှိခဲ့တယ်။
+#3/5
 
 5079
 The race had begun ever since we were four.
 ကျွန်တော်တို့ လေးနှစ်သား ကတည်းက အပြေးပြိုင်ပွဲကို အမြဲစတင်ခဲ့ကြတာပါ။
+#5/5
 
 5080
 There was never any race to begin with.
 ဘယ်ပြိုင်ပွဲမှ ဘယ်တော့မှ စတင်ဖို့ မရှိခဲ့ဘူး။
+#5/5
 
 5081
 People were killed in the Spanish raid.
 စပိန် စီးနင်းမှုတွင် လူတွေ အသတ်ခံခဲ့ရတယ်။
+#5/5
 
 5082
 The Spanish raid was done at night.
 စပိန် စီးနင်းမှု သည် ညဖက်မှာ ဖြစ်ပွားခဲ့တာပါ။
+#4/5
 
 5083
 There was never a raid on Bridgetown.
 ဘရစ်ချ်တောင်း မှာ စီးနင်းမှု တစ်ခု ဘယ်တုန်းကမှ မဖြစ်ဖူးဖူး။
+#5/5
 
 5084
 Blood is a man.
 ဘလတ် က အမျိုးသား တစ်ယောက် ဖြစ်တယ်။
+#5/5
 
 5085
 The seal remained unbroken.
-အဆိုပါ ပင်လယ်ဖျံသည် မကျိုးမပဲ့ ဘဲ ကျန်ရစ်ခဲ့သည်။
+ချိတ်တံဆိပ်သည် မကျိုးမပဲ့ပဲရှိနေသည်။
+#4/5
 
 5086
 The seal was broken.
-အဆိုပါ ပင်လယ်ဖျံသည် ကျိုးပဲ့သွားခဲ့တယ်။
+ထိုချိတ်တံဆိပ်သည် ဖွင့်ထားပီးဖြစ်သည်။
+#4/5
 
 5087
 Miss Bishop was alone in the garden.
 မစ် ဘစ်လျှော့ သည် ပန်းခြံထဲမှာ တစ်ယောက်တည်း ရှိခဲ့တယ်။
+#5/5
 
 5088
 Miss Bishop went to the garden in order to contemplate her life.
-မစ် ဘစ်လျှော့ သည် သူမ ၏ ဘဝအကြောင်း ဆင်ခြင် ဖို့ရန် ပန်းခြံသို့ သွားခဲ့သည်။
+မစ် ဘစ်လျှော့ သည် သူမ ၏ ဘဝအကြောင်း သုံးသပ်ဆင်ခြင် ဖို့ရန် ပန်းခြံသို့ သွားခဲ့သည်။
+#5/5
 
 5089
 There was absolutely no one at the garden whatsoever.
 ပန်းခြံထဲမှာ ဘာပဲဖြစ်ဖြစ် လူတစ်ယောက်မှ လုံးဝ မရှိပါ။
+#3/5
 
 5090
 His lordship spoke sharply.
-သူ၏ သခင်က ပြတ်ပြတ်သားသား ပြောခဲ့တယ်။
+သခင်ကြီးက ပြတ်ပြတ်သားသား ပြောခဲ့တယ်။
+#4/5
 
 5091
 His lordship was a mute.
-သူ့ သခင်သည် ဆွံ့အသူ တစ်ယောက် ဖြစ်ခဲ့တယ်။
+သခင်ကြီးသည် ဆွံ့အသူ တစ်ယောက် ဖြစ်ခဲ့တယ်။
+#3/5
 
 5092
 His lordship was angry because I had neglected my duties.
-ကျွန်တော် က ကျွန်တော့် တာဝန်ကို လျစ်လျူရှူ့ခဲ့သောကြောင့် သူ့ သခင်က ဒေါသထွက်ခဲ့တယ်။
+ကျွန်တော် က ကျွန်တော့် တာဝန်ကို လျစ်လျူရှူ့ခဲ့သောကြောင့်  သခင်ကြီးက ဒေါသထွက်ခဲ့တယ်။
+#5/5
 
 5093
 He did not understand the threat that laid before him.
-သူ မတိုင်ခင်က ရှိခဲ့တဲ့ ခြိမ်းခြောက်မှု ကို သူ နားမလည်ခဲ့ဘူး။
+သူ အရှေ့မှာ ရှိခဲ့တဲ့ ခြိမ်းခြောက်မှု ကို သူ နားမလည်ခဲ့ဘူး။
+#5/5
 
 5094
 He understood very clearly, the threat that was before him.
-အဆိုပါ ခြိမ်းခြောက်မှုသည် သူ မတိုင်ခင်က ဖြစ်ခဲ့တယ် ဆိုတာကို ၊ သူ ရှင်းရှင်းလင်းလင်း သဘောပေါက်ခဲ့သည်။
+အဆိုပါ ခြိမ်းခြောက်မှုသည် သူ့ရှေ့တွင်ရှိနေသည် ဆိုတာကို ၊ သူ ရှင်းရှင်းလင်းလင်း သဘောပေါက်ခဲ့သည်။
+#4/5
 
 5095
 The threat was vague because the area was covered in fog.
 ဒီ ဧရိယာက မြူများနှင့် ဖုံးလွှမ်းနေသောကြောင့် အဆိုပါ ခြိမ်းခြောက်မှုမှာ မရေရာခဲ့ပါ။
+#5/5
 
 5096
 Jeremey had forgotten why he was so angry.
 ဂျယ်ရမီက သူ ဘာကြောင့် ဒေါသ အရမ်းထွက်ခဲ့တယ်ဆိုတာကို မေ့လျော့ခဲ့တယ်။
+#5/5
 
 5097
 Jeremy opened his hand, revealing his palms.
 ဂျယ်ရမီက သူ့လက်ကို ဖွင့်လိုက် ပြီး ၊ လက်ဖဝါးတွေကို ပြလိုက်တယ်။
+#5/5
 
 5098
 Jeremy tightened his fists.
 ဂျယ်ရမီ က သူ ၏ လက်သီးတွေကို တင်းတင်းဆုပ်ထားတယ်။
+#5/5
 
 5099
 My way is the most difficult.
 ငါ့ နည်းလမ်းက အခက်ဆုံး ပဲ။
+#5/5
 
 5100
 Someone else's way is difficult.
 တခြားသူရဲ့ နည်းလမ်းက ခက်ခဲတယ်။
+#5/5

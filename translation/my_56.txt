@@ -1,401 +1,553 @@
+# INSTRUCTIONS FOR TRANSLATION QA
+#
+# There are 100 sentence blocks in this file. Each block has the following format.
+# - First line for sequence number, 
+# - Second line for English source sentence
+# - Third line for Myanmar translation -- You can overwrite it with your correction.
+# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
+# - Fifth line is a blank line for sepearating between the blocks
+#
+#  QA PROCEDURE:
+#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
+#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
+#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
+#  3. Do not correct the English sentence under any circumstances.
+#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
+#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
+#  5. Give a translation quality rating to the final version of the Myanmar sentence.
+#
+#     Translation rating is out of 5
+#         5/5 = Translation is perfect
+#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
+#         3/5 = Translation is partially correct, but missing some details
+#         2/5 = Translation is wrong or misleading
+#         1/5 = Translation is incomprehensible.
+# 
+# GENERAL TRANSLATION GUIDANCE:
+#   1. Don't miss any information in translation
+#   2. Don't add unnecessary information
+#   3. Take care to minimise spelling mistakes in Myanmar sentence
+#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
+#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
+#
+# HOW TO HANDLE SPECIAL CASES:        
+#   1. English Terms: 
+#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
+#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
+#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
+#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
+#
+#   2. Mistranslations due to cultural difference
+#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
+#     If you are not sure, just use the English word "Indians"
+#
+#   3. Present Tense / Past Tense correctness
+#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
+#
+# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
+# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
+# It is good enough if your FINAL translations can get to (4/5) rating.
+
 5501
 The museum does not like being labelled.
-ပြတိုက်မှာ တံဆိပ်ကပ်ထားတာကို မကြိုက်ဘူး။
+ပြတိုက်မှ ၄င်းတို့ အမည်တံဆိပ်တပ်ခံရခြင်းကို မကြိုက်ပေ။
+#4/5
+#REVIEW
 
 5502
 The museum is not a fan of brochures.
-ပြတိုက်ဆိုတာ လမ်းကမ်းစာဆောင်တွေရဲ့ ဝါသနာအိုး တစ်ခု မဟုတ်ဘူး။
-# 
+ပြတိုက်သည် လမ်းကမ်းစာဆောင်တွေကို မကြိုက်ပါဘူး။
+# 4/5
+#REVIEW
 
 5503
 The strong point of the museum is the catalogues.
-ပြတိုက်၏ ခိုင်မာသော အချက် မှာ ကတ်တလောက်များ ဖြစ်ပါသည်။
-# 
+ပြတိုက်၏ ခိုင်မာသော အားသာချက် မှာ ကတ်တလောက်များ ဖြစ်ပါသည်။
+# 5/5
 
 5504
 Polar bears are attracted to changing leaves.
 သစ်ရွက်များ ပြောင်းလဲခြင်းက ပိုလာ ဝက်ဝံများကို ဆွဲဆောင်နေသည်။
+#4/5
 
 5505
 You can see polar bears in the autumn.
 မင်း ဆောင်းဦးရာသီတွင် ပိုလာ ဝက်ဝံများကို တွေ့နိုင်တယ်။
+#5/5
 
 5506
 You will not see polar bears in the autumn.
 မင်း ဆောင်းဦးရာသီမှာ ပိုလာ ဝက်ဝံများကို တွေ့ရလိမ့်မည်မဟုတ်။
+#5/5
 
 5507
 All of the Canal Motorboats BV dealers in this city have closed up shop.
 ဒီ မြို့ တွင် ကန်နယ် မော်တော်ဘုတ် ဘီဗီ အရောင်းကိုယ်စားလှယ်များ အားလုံးသည် ဆိုင်ကို ပိတ်ထားပါပြီ။
+#5/5
 
 5508
 There are two dealerships for Canal Motorboats BV in this city.
 ဒီ မြို့ မှာ ကန်နယ် မော်တော်ဘုတ် ဘီဗီ အတွက် အရောင်းကိုယ်စားလှယ် နှစ်ယောက် ရှိပါတယ်။
+#5/5
 
 5509
 There used to be only one Canal Motorboats BV location, but increased business warranted an expansion.
-ကန်နယ် မော်တော်ဘုတ် ဘီဗီ နေရာ တစ်ခု သာလျှင် ရှိခဲ့ဖူး ပေမယ့် ၊ တိုးတတ်လာသော စီးပွားရေးလုပ်ငန်းတွေက တိုးချဲ့မှု တစ်ခု ကို အာမခံထားသည်။
+ကန်နယ် မော်တော်ဘုတ် ဘီဗီ နေရာ တစ်ခု သာလျှင် ရှိခဲ့ဖူး ပေမယ့် ၊ တိုးတတ်လာသော စီးပွားရေးလုပ်ငန်းတွေက တိုးချဲ့မှု ဖြစ်ဖို့သေခြာဖို့ဖြစ်လာစေသည်။
+#5/5
 
 5510
 Beijing has open-air markets that include very interesting shops.
-ပေကျင်းတွင် အလွန် စိတ်ဝင်စားစရာကောင်းသော ဈေးဆိုင်များ ပါရှိသော အမိုးဖွင့် ဈေးများ ရှိသည်။
+ပေကျင်းတွင် ရှိသော အမိုးဖွင့် ဈေးမျာတွင် အလွန် စိတ်ဝင်စားစရာကောင်းသော ဈေးဆိုင်များ ပါ ရှိသည်။
+#5/5
 
 5511
 The open-air markets in Beijing are the most interesting in the world.
 ပေကျင်းရှိ အမိုးဖွင့် ဈေးများသည် ကမ္ဘာပေါ်တွင် စိတ်ဝင်စားစရာ အကောင်းဆုံး ဖြစ်ပါသည်။
+#5/5
 
 5512
 The strict laws in Beijing prohibit open-air markets within the city limits.
-မြို့တော် အတွင်း ကန့်သတ်ထားသော အမိုးဖွင့်ဈေးများကို  ပေကျင်းရှိ တင်းကျပ်သော ဥပဒေများက တားမြစ်ထားသည်။
+ပေကျင်းရှိ တင်းကျပ်သော ဥပဒေများက မြို့တော် အတွင်း အမိုးဖွင့်ဈေးဆိုင် ဖွင့်ခွင့်းကို ကန့်သတ်တားမြစ်ထားသည်။
+#5/5
 
 5513
 New Brunswick became a province because it had enough people.
 နယူးဘန်းစ်ဝှစ်က်သည် လုံလောက်သော လူဦးရေ ရှိခဲ့သောကြောင့် ပြည်နယ် တစ်ခု ဖြစ်လာခဲ့သည်။
+#4/5
+#REVIEW
 
 5514
 New Brunswick was a province in 1784.
 နယူးဘန်းစ်ဝှစ်က်သည် ၁၇၈၄ တွင် ပြည်နယ် တစ်ခု ဖြစ်ခဲ့သည်။
+#5/5
 
 5515
 New Brunswick was not a province in 1784.
-နယူးဘန်းစ်ဝှစ်က်သည် ၁၇၈၄ တွင် ပြည်နယ် တစ်ခု မဖြစ်ခဲ့ပါ။
+နယူးဘန်းစ်ဝှစ်က်သည် ၁၇၈၄ တွင် ပြည်နယ် တစ်ခု မဟုတ်ခဲ့ပါ။
+#5/5
 
 5516
 You can see boats at the top of the hill.
-တောင်ကုန်း၏ ထိပ်တွင် လှေတွေကို မင်း မြင်နိုင်ပါသည်။
+တောင်ကုန်း၏ ထိပ်မှနေ၍ လှေတွေကို မင်း မြင်နိုင်ပါသည်။
+#5/5
 
 5517
 You can see views of the coastline at the top of the hill.
-တောင်ကုန်း၏ ထိပ်တွင် ကမ်းရိုးတန်းရှုခင်းများကို မင်း မြင်နိုင်ပါသည်။
+တောင်ကုန်း၏ ထိပ်မှ ကမ်းရိုးတန်းရှုခင်းများကို မင်း မြင်နိုင်ပါသည်။
+#5/5
 
 5518
 You cannot see the coast from the top of the hill.
 တောင်ကုန်း၏ ထိပ်မှ ကမ်းရိုးတန်းကို မင်း မမြင်နိုင်ပါ။
+#5/5
 
 5519
 The water and the beach are always clean.
 ရေ နှင့် ကမ်းခြေသည် အမြဲတမ်း သန့်ရှင်းသည်။
+#5/5
 
 5520
 The water and the beach may be dirty.
 ရေ နှင့် ကမ်းခြေသည် ညစ်ပတ်နိုင်သည်။
+#5/5
 
 5521
 The water is dirty because of pollution.
 ညစ်ညမ်းမှုကြောင့် ရေသည် ညစ်ပတ်သည်။
+#5/5
 
 5522
 In the fall and summer, the San Francisco Ballet is on break.
 ဆောင်းဦး နှင့် နွေရာသီ တွင် ၊ ဆန်ဖရန်စစ္စကို ဘဲလေးကဇာတ် ကို ခဏနားထားသည်။
+#5/5
 
 5523
 The NYC Ballet has performances in June.
 နယူယော့ခ်စီးတီး ဘဲလေးကဇာတ် သည် ဇွန်လ တွင် ဖျော်ဖြေပွဲများ ရှိသည်။
+#5/5
 
 5524
 The San Francisco Ballet has performances during more than one season.
 ဆန်ဖရန်စစ္စကို ဘဲလေးကဇာတ်သည် တစ် ရာသီ ထက် ပိုသော ဖျော်ဖြေပွဲများ ရှိသည်။
+#5/5
 
 5525
 The Perfume Factory has been in production since 1954.
 ရေမွှေးစက်ရုံသည် 1954 ခုနှစ် ကတည်းက ထုတ်လုပ် ဖြစ်ခဲ့သည်။
+#5/5
 
 5526
 The Perfume Factory is behind the South African Area.
 ရေမွှေးစက်ရုံသည် တောင်အာဖရိကဒေသ ၏ နောက်တွင် ရှိသည်။
+#5/5
 
 5527
 `The Perfume Factory is in front of the South African area.
 ရေမွှေးစက်ရုံသည် တောင်အာဖရိကဒေသ ၏ အရှေ့တွင် ရှိသည်။
+#5/5
 
 5528
 None of the skyscrapers on the Golden Mile are banks.
 ဂိုးလ်ဒန်း မိုင် ရှိ မိုးမျှော်တိုက်များသည် ဘဏ်များ မဟုတ်ပါ။
+#5/5
 
 5529
 The skyscrapers on the Golden Mile are banks.
 ဂိုးလ်ဒန်း မိုင် ရှိ မိုးမျှော်တိုက်များသည် ဘဏ်များ ဖြစ်ကြသည်။
+#5/5
 
 5530
 The skyscrapers on the Golden Mile are different types of businesses, including banks.
 ဂိုးလ်ဒန်း မိုင် ရှိ မိုးမျှော်တိုက်များသည် ဘဏ်များအပါအဝင် ၊ စီးပွားရေးလုပ်ငန်း အမျိုးအစား အမျိုးမျိုးရှိသည်။
+#5/5
 
 5531
 Kids will like the exhibits about boats.
 ကလေးများသည် လှေနဲ့ပတ်သက်တဲ့ ပြပွဲများကို ကြိုက်ကြလိမ့်မယ်။
+#5/5
 
 5532
 The kids will hate every bit of it.
-ကလေးများသည် ဒါကို အနည်းငယ် အမြဲတမ်း မုန်းလိမ့်မည်။
+ကလေးများသည် ဒါကို အလုံးစုံ မုန်းလိမ့်မည်။
+#5/5
 
 5533
 The kids will like being able to build minature boats.
-ကလေးများသည် သေးငယ်သော လှေများ တည်ဆောက်ရန် တတ်နိုင်ကြပါလိမ့်မည်။
+ကလေးများသည် သေးငယ်သော လှေများ တည်ဆောက်ခြင်းကို ကြိုက်ကြပါလိမ့်မည်။
+#5/5
 
 5534
 Canada had safer skies.
 ကနေဒါမှာ ပိုပြီးလုံခြုံတဲ့ ကောင်းကင်ယံ ရှိခဲ့တယ်။
+#5/5
 
 5535
 Canada's skies were free from missiles.
 ကနေဒါ၏ ကောင်းကင်ယံသည် ဒုံးကျည်များ ကင်းစင်ခဲ့သည်။
+#5/5
 
 5536
 Canada's skies were more dangerous.
 ကနေဒါ၏ ကောင်းကင်ယံသည် ပို၍ အန္တရာယ်များခဲ့သည်။
+#5/5
 
 5537
 Althrough the pineapples tasted great the shipping costs were too high to bring them to market.
 နာနတ်သီးများသည် အရသာ ကောင်းမွန် သော်လည်း သယ်ယူပို့ဆောင်ခ စရိတ်များသည် စျေးကွက်သို့ တင်သွင်းရန် အရမ်း မြင့်မားသည်။
+#5/5
 
 5538
 The Bahamian citrus was just a huge success, just as everyone had predicted.
-ဘဟေးမီးယား ရှောက်အမျိုးအစားအသီးသည် လူတိုင်း ကြိုတင်ခန့်မှန်းထား သည့်အတိုင်း ၊ ကြီးမားသော အောင်မြင်မှု တစ်ခု သာ ဖြစ်ခဲ့သည်။
+ဘဟေးမီးယား ရှောက်အမျိုးအစားအသီးသည် လူတိုင်း ကြိုတင်ခန့်မှန်းထား သည့်အတိုင်း ၊ ကြီးမားသော အောင်မြင်မှု တစ်ခုဖြစ်ခဲ့သည်။
+#5/5
 
 5539
 The Bahamian citrus was not as great as everyone had hoped.
-ဘဟေးမီးယား ရှောက်အမျိုးအစားအသီးသည် လူတိုင်း မျှော်လင့်ထားသလောက် ကြီးကြီးမားမား မဖြစ်ခဲ့ပါ။။
+ဘဟေးမီးယား ရှောက်အမျိုးအစားအသီးသည် လူတိုင်း မျှော်လင့်ထားသလောက် မကောင်းမွန်ပါ။
+#5/5
 
 5540
 Only twenty five people visited the Ming Tombs last year.
 ပြီးခဲ့သည့် နှစ်က လူ နှစ်ဆယ့်ငါးဦး သာလျှင် မင် ဂူဗိမာန်သို့ လာရောက်လည်ပတ်ခဲ့သည်။
+#5/5
 
 5541
 The Ming Tombs are inaccessible regions of the Egyptian pyramids.
-မင် ဂူဗိမာန်သည် အီဂျစ် ပိရမစ်များ ၏ လက်လှမ်းမမီသော ဒေသများတွင် ရှိသည်။
+မင် ဂူဗိမာန်သည် အီဂျစ် ပိရမစ်များမှ ရောက်ရှိနိုင်ရန်ခက်ခဲသော ဒေသများတွင် ရှိသည်။
+#5/5
 
 5542
 The Ming Tombs are no longer a great tourist attraction.
 မင် ဂူဗိမာန်သည် ကြီးမားသော ကမ္ဘာလှည့်ခရီးသွား ဆွဲဆောင်မှု တစ်ခု မဟုတ်တော့ပါ။
+#5/5
 
 5543
 Andrea Doria was a great admiral.
 အမ်းဒရူး ဒိုရီယာသည် ကြီးကျယ်သော ရေတပ်ဗိုလ်ချုပ်ကြီး တစ်ယောက် ဖြစ်ခဲ့သည်။
+#5/5
 
 5544
 The Mediterranean has no good ports.
 မြေထဲပင်လယ်တွင် ကောင်းမွန်သော ဆိပ်ကမ်းများ မရှိပါ။
+#5/5
 
 5545
 The summer season has the best ports.
 နွေရာသီတွင် အကောင်းဆုံး ဆိပ်ကမ်းများ ရှိသည်။
+#5/5
 
 5546
 All of these trails are located within the a one hour drive of each other.
 ဤ လမ်းများ အားလုံးသည် တစ်ခုနှင့်တစ်ခု ကားမောင်း တစ်နာရီစာ အတွင်း တည်ရှိပါသည်။
+#5/5
 
 5547
 Glasgow Lakes trail is considered to be one of the worst trails.
-ဂလပ်စဂိုး ရေကန် လမ်းကို အဆိုးဆုံး လမ်းများ ထဲမှ တစ်ခု ဟု သတ်မှတ်သည်။
+ဂလပ်စဂိုး ရေကန် လမ်းကို အဆိုးဆုံး တောင်တက် လမ်းများ ထဲမှ တစ်ခု ဟု သတ်မှတ်သည်။
+#5/5
+
 
 5548
 The John Deer Lake trail is one of the better hiking trails.
 ဂျွန် ဒီးယား ရေကန် လမ်းသည် ပိုမိုကောင်းမွန်သော တောင်တက် လမ်းများ ထဲမှ တစ်ခု ဖြစ်သည်။
+#5/5
 
 5549
 They are bitter and resentful to everyone now that they have to share the coast.
-သူတို့သည် ယခု ကမ်းခြေကို အတူဝေမျှသုံးဖို့ ရှိခဲ့သည်က လူတိုင်းကို ခါသက်စေ ပြီး နာကြည်းစေသည်။
+သူတို့သည် ယခုလို ကမ်းခြေကို အတူဝေမျှသုံစွဲရသောအခါ လူတိုင်းကို ခါသီးစွာ နှင့် ရိုင်းပြစွာဆက်ဆံလာသည်။
+#5/5
 
 5550
 They have to share the coast with other people now.
 သူတို့သည် ယခု အခြားသော လူများ နှင့်အတူ ကမ်းခြေကို ဝေမျှသုံးရမည်။
+#5/5
 
 5551
 They used to own five hundred miles of coastal frontage.
 သူတို့သည် ကမ်းရိုးတန်း မျက်နှာစာ မိုင် ငါးရာကို ပိုင်ဆိုင်ခဲ့ဖူးသည်။
+#5/5
 
 5552
 Kublai Khan erected a capital in Taiwan.
 ကူဗလိုင်ခန် သည် ထိုင်ဝမ်တွင် မြို့တော် တစ်ခု ကို တည်ထောင်ခဲ့သည်။
+#5/5
 
 5553
 Kublai Khan has treasures in Beijing.
 ကူဗလိုင်ခန်သည် ပေကျင်းတွင် ရတနာများရှိသည်။
+#5/5
 
 5554
 Kublai Khan was a well respected man.
 ကူဗလိုင်ခန်သည် လေးစားဖွယ် ကောင်းသူ အမျိုးသား တစ်ဦး ဖြစ်ခဲ့သည်။
+#5/5
 
 5555
 The Na Pali Coast can be a challenging hike
 ငပလီ ကမ်းခြေသည် ခက်ခဲသော တောင်တတ်ခရီး တစ်ခု ဖြစ်နိုင်သည်။
+#5/5
 
 5556
 The Na Pali Coast is an ugly but easy hike.
 ငပလီ ကမ်းခြေသည် မလှပ သော်လည်း လွယ်ကူသော တောင်တတ်ခရီး တစ်ခု ဖြစ်သည်။
+#5/5
 
 5557
 The Na Pali Coast is one of the hardest and most beautiful hikes in the world.
 ငပလီ ကမ်းခြေသည် ကမ္ဘာပေါ်တွင် အခက်ခဲဆုံးနှင့် အလှဆုံး တောင်တက်ခရီးများထဲမှ တစ်ခု ဖြစ်သည်။
+#5/5
 
 5558
 Eastern European Jews assimilate well with everyone.
 အရှေ့ ဥရောပရှိ ဂျူးများသည် လူတိုင်းနှင့် ကောင်းကောင်း ပြေလည်ကြသည်။
+#5/5
 
 5559
 The Jews are not wanted by the rest of the community.
 ဂျူးတွေကို ကျန်တဲ့ အသိုင်းအဝိုင်းက မလိုလားဘူး။
+#5/5
 
 5560
 The Jews assimilated easier with the Anglo community.
 ဂျူးများသည် အန်ဂလို အသိုင်းအဝိုင်းနှင့် ပိုမိုလွယ်ကူစွာ ရောနှောခဲ့သည်။
+#5/5
 
 5561
 Do not get into the plot in advance; it will spoil the fun later.
-ကြိုတင်ပြီး ကြံစည်မှု ထဲသို့ ဝင်မပါနှင့် ; နောက်ကျ ပျော်ရွှင်စရာတွေကို ဖျက်ဆီးလိမ့်မယ်။
+ကြိုတင်ပြီး ဇာတ်လမ်းအဆုံးသတ်ကို သိအောင်မလုပ်ပါနှင့် ; နောက်ကျ ပျော်ရွှင်စရာတွေကို ဖျက်ဆီခံရးလိမ့်မယ်။
+#5/5
 
 5562
 Try to understand the plot in advance, if you can.
-ကြိုတင် ကြံစည်မှုတွေကို မင်း တတ်နိုင်လျှင် ၊ နားလည် ရန် ကြိုးစားပါ။
+မင်း တတ်နိုင်လျှင် ဇာတ်လမ်းအဆုံးသတ်ကို ကြိုတင်ပြီး နားလည်ရန် ကြိုးစားပါ။
+#5/5
 
 5563
 You will find the class easier if you understand the plot of the book.
-မင်း စာအုပ်ထဲက လျှို့ဝှက်ချက်ကို နားလည်မယ် ဆိုလျှင် မင်း ပိုမိုလွယ်ကူသော အတန်းကို ရှာတွေ့လိမ့်မယ်။
+မင်း စာအုပ်ထဲက ဇာတ်လမ်းကို နားလည်မယ် ဆိုလျှင် မင်းအတွက်အတန်ဟာ ပိုမိုလွယ်ကူလာလိမ့်မယ်။
+#5/5
 
 5564
 The Seven Gables is the best sight to see.
 ဆဲဗင်း ဂလ်စ် သည် ကြည့် ရန် အကောင်းဆုံး မြင်ကွင်း ဖြစ်သည်။
+#5/5
 
 5565
 There are more sights to see.
 ကြည့် ရန် နောက်ထပ် မြင်ကွင်းတွေ ရှိတယ်။
+#5/5
 
 5566
 You must not go beyond these sights.
 မင်း ဒီမြင်ကွင်းတွေကို ကျော်လွန်မသွားရဘူး။
+#5/5
 
 5567
 The 2 mile sound could have been caused by many things, including a volcanic eruption.
 ၂ မိုင်အကွာမှ အသံသည် မီးတောင် ပေါက်ကွဲခြင်း တစ်ခု အပါအဝင် ၊ အကြောင်းအရာ များစွာ ကြောင့် ဖြစ်ခဲ့ခြင်း ဖြစ်နိုင်သည်။
+#5/5
 
 5568
 The 2 mile sound was definitely not caused by a volcanic eruption.
 ၂ မိုင်အကွာမှ အသံသည် မီးတောင် ပေါက်ကွဲခြင်း တစ်ခု ကြောင့် ဖြစ်ရတာ လုံးဝ မဟုတ်ပါ။
+#5/5
 
 5569
 The 2 mile sound was probably caused by a volcanic eruption.
 ၂ မိုင်အကွာမှ အသံသည် မီးတောင် ပေါက်ကွဲခြင်း တစ်ခု ကြောင့် ဖြစ်ပွားခြင်း ဖြစ်နိုင်သည်။
+#5/5
 
 5570
 He is buried more than 20m underground.
 သူ့ကို မြေအောက် မီတာ ၂၀ ကျော်မှာ မြှုပ်ထားတယ်။
+#5/5
 
 5571
 He was an important public figure.
 သူသည် အရေးကြီးသော လူသိများသည့် ပုဂ္ဂိုလ် တစ်ဦး ဖြစ်သည်။
+#5/5
 
 5572
 His burial vaults are made from wood.
 သူ၏ အခေါင်းကို သစ်သားဖြင့် ပြုလုပ်ထားသည်။
+#5/5
 
 5573
 It is a good idea to have a translator with you.
 မင်း နှင့်အတူ ဘာသာပြန် တစ်ယောက် ရှိဖို့က ကောင်းသော အကြံ တစ်ခု ဖြစ်တယ်။
+#5/5
 
 5574
 There is a language problem that might intimidate you.
 မင်းကို ခြိမ်းခြောက်နိုင်သည့် ဘာသာစကား ပြဿနာ တစ်ခု ရှိပါသည်။
+#5/5
 
 5575
 You do not have to worry about language issues there, since everyone speaks English.
 လူတိုင်း အင်္ဂလိပ်စကား ပြောတတ် သောကြောင့် ၊ ထိုနေရာတွင် ဘာသာစကားပြဿနာ နဲ့ပတ်သက်ပြီး စိုးရိမ် ဖို့ မလိုပါဘူး
+#5/5
 
 5576
 Napoleon spared the monastery at Montserrat because he respected sacred shrines.
-နပိုလီယံက သူသည် အထွတ်အမြတ်ထားရာ ဘုရားကျောင်းများကို လေးစားသောကြောင့် မောင့်ဆဲရတ် ရှိ ဘုန်းကြီးကျောင်းကို နှမြောခဲ့သည်။
+နပိုလီယံက သူသည် အထွတ်အမြတ်ထားရာ ဘုရားကျောင်းများကို လေးစားသောကြောင့် မောင့်ဆဲရတ် ရှိ ဘုန်းကြီးကျောင်းကို ချန်လှပ်ခဲ့သည်။
+#5/5
 
 5577
 Napoleon was responsible for the destruction of the monastery at Montserrat.
 နပိုလီယံသည် မောင့်ဆဲရတ်ရှိ ဘုန်းတော်ကြီးကျောင်း ဖျက်ဆီးခံရမှုအတွက် တာဝန်ရှိခဲ့သည်။
+#5/5
 
 5578
 The monastery at Montserrat was built using stone and mortar.
 မောင့်ဆဲရတ် ရှိ ဘုန်းကြီးကျောင်းကို ကျောက်တုံးနဲ့ အင်္ဂတေတွေသုံးပြီး တည်ဆောက်ခဲ့တာပါ။
+#5/5
 
 5579
 Hide your possessions from the monkeys.
-မျောက်တွေဆီမှ မင်း ပစ္စည်းတွေကို ဖွက်လိုက်ပါ။
+မျောက်တွေရန်မှ မင်း ပစ္စည်းတွေကို ဖွက်လိုက်ပါ။
+#5/5
 
 5580
 The monkeys are very interested in many things, including your posessions.
 မျောက်တွေက မင်းရဲ့ ပိုင်ဆိုင်မှုတွေ အပါအဝင် ၊ အရာတော်တော်များများကို အလွန် စိတ်ဝင်စားတယ်။
+#5/5
 
 5581
 You do not need to hide your possessions from the monkeys.
 မင်းရဲ့ ပိုင်ဆိုင်မှုတွေကို မျောက်တွေဆီကနေ ဖုံးကွယ်ထားဖို့ မလိုအပ်ပါဘူး။
+#5/5
 
 5582
 The Sailor's House is an ancient building found in the prince's garden.
 စေးလားဟောက်စ် သည် မင်းသားလေး၏ ဥယျာဉ်တွင် တွေ့ရသော ရှေးဟောင်း အဆောက်အဦတစ်ခု ဖြစ်သည်။
+#5/5
 
 5583
 The Sailor's House was designed by a famous Italian architect.
 စေးလားဟောက်စ် ကို နာမည်ကျော် အီတလီ ဗိသုကာပညာရှင် တစ်ဦးက ဒီဇိုင်းဆွဲခဲ့သည်။
+#5/5
 
 5584
 The prince's garden is home to the building called the Sailor's House.
-မင်းသားလေး၏ ဥယျာဉ်သည် စေးလားဟောက်စ် ဟုခေါ်သော အဆောက်အအုံ၏ နေအိမ် ဖြစ်သည်။
+မင်းသားလေး၏ ဥယျာဉ်သည် စေးလားဟောက်စ် ဟုခေါ်သော အဆောက်အအုံ၏ ပင်မတည်ရှိရာ ဖြစ်သည်။
+#5/5
 
 5585
 Milreu was 10 miles from anything.
 မေးလ်ရု သည် မည်သည့်အရာမှမဆို ၁၀ မိုင် ကွာဝေးခဲ့သည်။
+#5/5
 
 5586
 Milreu was out in the country.
-မေးလ်ရု သည် တိုင်းပြည် အပြင်တွင် ရှိခဲ့သည်။
+မေးလ်ရု သည် မြို့ အပြင်တွင် ရှိခဲ့သည်။
+#5/5
 
 5587
 Milreu was right in the heart of the city.
 မေးလ်ရု သည် မြို့၏ ဗဟိုချက်တွင် ရှိခဲ့သည်။
+#5/5
 
 5588
 Greece has never been ruled by a military dictator.
 ဂရိနိုင်ငံသည် စစ်အာဏာရှင် စနစ် ဖြင့် အုပ်ချုပ်ခြင်း မရှိခဲ့ပါ။
+#5/5
 
 5589
 Greece is one of the countries in the world that has had a dictator.
 ဂရိနိုင်ငံသည် ကမ္ဘာပေါ်တွင် အာဏာရှင်စနစ် ကျင့်သုံးသော နိုင်ငံများထဲမှ တစ်နိုင်ငံ ဖြစ်သည်။
+#5/5
 
 5590
 Greece's economy did not do so well under the military dictatorship of Metaxas.
 မက်တာဆက် ၏ စစ်အာဏာရှင်စနစ်အောက်တွင် ဂရိနိုင်ငံ ၏ စီးပွားရေးသည် ကောင်းမွန်စွာ မလုပ်ဆောင်နိုင်ခဲ့ပါ။
+#5/5
 
 5591
 Sant Pau does not have Romanesque lines.
-ဆန့်ပေါသည် ရိုမန်းနစ် ပုံသဏ္ဌာန် မရှိဘူး။
+ဆန့်ပေါသည် ရိုမန်မျိုးဆက် မရှိဘူး။
+#5/5
 
 5592
 Sant Pau has Romanesque lines.
-ဆန့်ပေါသည် ရိုမန်းနစ် ပုံသဏ္ဌာန် ရှိသည်။ 
+ဆန့်ပေါသည် ရိုမန်မျိုးဆက် ရှိသည်။ 
+#5/5
 
 5593
 Sant Pau has churches.
 ဆန့်ပေါတွင် ခရစ်ယာန်ဘုရားကျောင်းများ ရှိသည်။
+#5/5
 
 5594
 It is easily intimidated by any sudden movements.
-မည်သည့် ရုတ်တရတ် လှုပ်ရှားမှုကြောင့်မဆို အလွယ်တကူ ခြိမ်းခြောက်ခံရတတ်ပါသည်။
+၄င်းသည် မည်သည့် ရုတ်တရတ် လှုပ်ရှားမှုကြောင့်မဆို အလွယ်တကူ ခြိမ်းခြောက်ခံရတတ်ပါသည်။
+#5/5
 
 5595
 It is fearless, and will not be moved by anything.
-မကြောက်မရွံ့ ၊ နှင့် မည်သည့်အရာမှ တုန်လှုပ်လိမ့်မည် မဟုတ်ပေ။
+၄င်းသည် မကြောက်မရွံ့ ၊ နှင့် မည်သည့်အရာကိုမှ တုန်လှုပ်လိမ့်မည် မဟုတ်ပေ။
+#5/5
 
 5596
 The slightest movement and that's it; it is gone.
 အနည်းငယ် လှုပ်ရှားမှု ပြီးတော့ ဒါပါပဲ ; ခု ပြီးသွားပြီ။
+#5/5
 
 5597
 Greece population was glad that the country joined the Common Market.
-ဂရိပြည်သူများ က ကွန်မွန်း မားကတ်တွင် ထို နိုင်ငံ ပါဝင်ခဲ့သည်ကို ဝမ်းမြောက်ဝမ်းသာဖြစ်ခဲ့ကြသည်။
+ဂရိပြည်သူများ က အကျိုးတူဈေးကွက်တွင် ၄င်းတို့နိုင်ငံ ပါဝင်ခဲ့သည်ကို ဝမ်းမြောက်ဝမ်းသာဖြစ်ခဲ့ကြသည်။
+#5/5
 
 5598
 Greece's entry into the Common Market marked the downfall of its economy.
-ကွန်မွန်း မားကတ်ထဲသို့ ဂရိ ၏ ဝင်ရောက်မှုသည် ၎င်း၏ စီးပွားရေး ကျဆင်းမှုကို အမှတ်အသားပြုခဲ့သည်။
+အကျိုးတူဈေးကွက်တွင် ဂရိနိုင်ငံ ဝင်ရောက်မှုသည် ၎င်း၏ စီးပွားရေး ကျဆင်းမှုကို အစပြုခဲ့သည်။
+#5/5
 
 5599
 Greece's entry into the Common Market was good for its economic outlook.
-ကွန်မွန်း မားကတ်ထဲသို့ ဂရိ ၏ ဝင်ရောက်မှုသည် ၎င်း၏ စီးပွားရေး အလားအလာအတွက် ကောင်းမွန်ခဲ့သည်။
+အကျိုးတူဈေးကွက်တွင် ဂရိနိုင်ငံ ဝင်ရောက်မှုသည် ၎င်း၏ စီးပွားရေး အလားအလာအတွက် ကောင်းမွန်ခဲ့သည်။
+#5/5
 
 5600
 The refurbishment program will end before the year 2001 begins.
-ပြုပြင်မွမ်းမံခြင်း အစီအစဉ်သည် ၂၀၀၁ ခုနှစ် မစတင်မီ ပြီးဆုံးလိမ့်မည်။
+ပြန်လည်လျောကြေးပေးသော အစီအစဉ်သည် ၂၀၀၁ ခုနှစ် မစတင်မီ ပြီးဆုံးလိမ့်မည်။
+#5/5

@@ -1,400 +1,549 @@
+# INSTRUCTIONS FOR TRANSLATION QA
+#
+# There are 100 sentence blocks in this file. Each block has the following format.
+# - First line for sequence number, 
+# - Second line for English source sentence
+# - Third line for Myanmar translation -- You can overwrite it with your correction.
+# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
+# - Fifth line is a blank line for sepearating between the blocks
+#
+#  QA PROCEDURE:
+#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
+#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
+#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
+#  3. Do not correct the English sentence under any circumstances.
+#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
+#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
+#  5. Give a translation quality rating to the final version of the Myanmar sentence.
+#
+#     Translation rating is out of 5
+#         5/5 = Translation is perfect
+#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
+#         3/5 = Translation is partially correct, but missing some details
+#         2/5 = Translation is wrong or misleading
+#         1/5 = Translation is incomprehensible.
+# 
+# GENERAL TRANSLATION GUIDANCE:
+#   1. Don't miss any information in translation
+#   2. Don't add unnecessary information
+#   3. Take care to minimise spelling mistakes in Myanmar sentence
+#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
+#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
+#
+# HOW TO HANDLE SPECIAL CASES:        
+#   1. English Terms: 
+#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
+#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
+#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
+#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
+#
+#   2. Mistranslations due to cultural difference
+#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
+#     If you are not sure, just use the English word "Indians"
+#
+#   3. Present Tense / Past Tense correctness
+#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
+#
+# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
+# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
+# It is good enough if your FINAL translations can get to (4/5) rating.
+
 9801
 That person is being discharged honorably.
 အဆိုပါ ပုဂ္ဂိုလ်အား သိက္ခာရှိရှိ ထွက်ခွာခွင့်ပြုလိုက်သည်။
+# 4/5
 
 9802
 That person is being discharged.
-အဆိုပါ ပုဂ္ဂိုလ်အား ထုတ်ပယ်လိုက်သည်။
+အဆိုပါ ပုဂ္ဂိုလ်အား ထွက်ခွာခွင့်ပြုလိုက်သည်။
+# 4/5
 
 9803
 Al of the words are easy to understand.
-အေအိုင်စကားလုံးများသည် နားလည်ရလွယ်ကူသည်။
+စကားလုံးများသည် နားလည်ရလွယ်ကူသည်။
+# 4/5
 
 9804
 There are lots of silly words that decribe the government.
-အစိုးရကို ရည်ညွှန်းဖော်ပြထားသည့် မသင့်လျော်သော စကားလုံးများစွာပါရှိသည်။
+အစိုးရကို ရည်ညွှန်းဖော်ပြရန် မကောင်းသော စကားလုံးများစွာ ရှိသည်။
+# 5/5
 
 9805
 We were handed a long list of strange terms.
-ထူးဆန်းသော အသုံးအနှုန်းဝေါဟာရများ စာရင်းရှည်ကြီး တစ်ခုကို ကျွန်တော်တို့ကို ပေးခဲ့ကြတယ်။
+ထူးဆန်းသော အသုံးအနှုန်းများပါသော စာရင်းရှည်ကြီး တစ်ခုကို ကျွန်တော်တို့လက်ခံရခဲ့သည်။
+# 4/5
 
 9806
 Cross-talk changes depending on the audience.
-ပရိတ်သတ်အခြေအနေကြည့်ပြီး ပေါ့ပေါ့ပါးပါးအပြန်အလှန်ကျပန်းစကားပြောဆိုမှုသည် ပြောင်းလဲသည်။
+စကားစမည်ပြောဆိုမှုသည် ပရိတ်သတ်ပေါ် မူတည်ပြီး ပြောင်းလဲသည်။
+# 4/5
 
 9807
 Cross-talk isn't acceptable for some audiences.
-ပေါ့ပေါ့ပါးပါးအပြန်အလှန်ကျပန်းစကားပြောဆိုမှုသည် အချို့သော ပရိသတ်များအတွက် လက်မခံနိုင်စရာဖြစ်သည်။
+စကားစမည်ပြောဆိုမှုသည် အချို့သော ပရိသတ်များအတွက် လက်မခံနိုင်စရာဖြစ်သည်။
+# 4/5
 
 9808
 Cross-talk never occurs.
-ပေါ့ပေါ့ပါးပါးအပြန်အလှန်ကျပန်းစကားပြောဆိုမှုသည် တစ်ခါမှ မဖြစ်မြောက်ခဲ့ပါ။
+စကားစမည်ပြောဆိုမှု တစ်ခါမှမဖြစ်ခဲ့ပါ။
+# 5/5
 
 9809
 The meaning could not be understood by any of us.
-ဆိုလိုရင်းအဓိပ္ပာယ်ကို ကျွန်တော်တို့တစ်ယောက်မှ နားမလည်နိုင်ပါဘူး။
+ဆိုလိုရင်းအဓိပ္ပာယ်ကို ကျွန်ုပ်တို့တစ်ယောက်မှ နားမလည်နိုင်ပါဘူး။
+# 5/5
 
 9810
 The meaning was perfectly clear to us.
-ဆိုလိုရင်းအဓိပ္ပာယ်က ကျွန်တော်တို့အတွက် လုံးဝရှင်းလင်းပါတယ်။
+ဆိုလိုရင်းအဓိပ္ပာယ်က ကျွန်ုပ်တို့အတွက် လုံးဝရှင်းလင်းပါတယ်။
+# 5/5
 
 9811
 We had no further questions about it.
-ဒါနဲ့ပတ်သက်ပြီး ကျွန်တော်တို့မှာ နောက်ထပ် မေးခွန်းတွေ မရှိတော့ပါဘူး။
+ဒါနဲ့ပတ်သက်ပြီး ကျွန်ုပ်တို့မှာ နောက်ထပ်မေးခွန်းတွေ မရှိတော့ပါဘူး။
+# 5/5
 
 9812
 She explained the theory of evolution to her audience.
 သူမသည် သူမ၏ ပရိတ်သတ်အား ဆင့်ကဲဖြစ်စဉ်သဘောတရားသီအိုရီကို ရှင်းပြခဲ့သည်။
+# 5/5
 
 9813
 The teacher deliberately tried to give her lecture using obscure words.
-နားလည်ရခက်တဲ့စကားလုံးတွေကို သုံးပြီး ဆရာမက သူမရဲ့ ပို့ချချက်ကို ပို့ချဖို့ ဂရုတစိုက်နဲ့ ကြိုးပမ်းခဲ့တယ်။
+ဆရာမက သူမရဲ့ ပို့ချချက်မှာ နားလည်ရခက်တဲ့စကားလုံးတွေကို တမင်သုံးခဲ့သည်။
+# 5/5
 
 9814
 The teacher tried to explain in audience-appropriate terms.
 ဆရာက ပရိတ်သတ်တွေနဲ့ သင့်တော်ပြီးလိုက်လျော်ညီထွေဖြစ်တဲ့ စကားလုံးဝေါဟာရတွေနဲ့ ရှင်းပြဖို့ ကြိုးစားတယ်။
+# 5/5
 
 9815
 Mr Levitt was childless.
-မစ္စတာ လတ်ဗစ်တ် မှာ ကလေးမရှိဘူး။
+မစ္စတာလတ်ဗစ်တ်မှာ ကလေးမရှိဘူး။
+# 5/5
 
 9816
 Mr. Levitt had a daughter.
-မစ္စတာ လတ်ဗစ်တ် မှာ သမီးတစ်ယောက်ရှိတယ်။
+မစ္စတာလတ်ဗစ်တ်မှာ သမီးတစ်ယောက်ရှိတယ်။
+# 5/5
 
 9817
 Mr. Levitt's daughter was 17.
-မစ္စတာ လတ်ဗစ်တ် ရဲ့ သမီး က ၁၇ နှစ် ရှိပြီ။
+မစ္စတာလတ်ဗစ်တ်ရဲ့ သမီးက ၁၇ နှစ် ရှိပြီ။
+# 5/5
 
 9818
 The Greek word for competition has come to mean pain in English because of the agony that took place during the competitions.
-ပြိုင်ဆိုင်မှုများအတွင်း ဖြစ်ပေါ်သောနာကျင်မှုဝေဒနာများကို အကြောင်းပြု၍ ပြိုင်ဆိုင်ခြင်းဟူသော ဂရိစကားလုံးသည် အင်္ဂလိပ်လို နာကျင်ခြင်းဟု အဓိပ္ပာယ်ရလာသည်။
+ပြိုင်ဆိုင်ခြင်းဟူသော ဂရိစကားလုံးသည် အင်္ဂလိပ်လို နာကျင်ခြင်းဟု အဓိပ္ပာယ်ရလာခြင်းမှာ ပြိုင်ပွဲများအတွင်း ဖြစ်ပေါ်သောနာကျင်မှုဝေဒနာများ ကြောင့်ဖြစ်သည်။ 
+# 4/5
 
 9819
 The word agon originally meant competition in Greek.
-အေဂွန် ဟူသော စကားလုံးသည် ဂရိလို ပြိုင်ဆိုင်ခြင်းဟု မူရင်းအဓိပ္ပယ်ရသသည်။
+အေဂွန် ဟူသော စကားလုံးသည် ဂရိလို ပြိုင်ဆိုင်ခြင်းဟု မူရင်းအဓိပ္ပါယ်ရသည်။
+# 5/5
 
 9820
 The word agon originally meant pain and suffering in Greek
-အေဂွန် ဟူသော စကားလုံးသည် ဂရိလို နာကျင်မှုနှင့် ဒုက္ခဟု မူရင်းအဓိပ္ပယ်ရသသည်။
+အေဂွန် ဟူသော စကားလုံးသည် ဂရိလို နာကျင်မှုနှင့် ဒုက္ခဟု မူရင်းအဓိပ္ပါယ်ရသည်။
+# 5/5
 
 9821
 The flashes of wisdom are of  no importance.
-အသိဉာဏ်ပညာအလင်းသည် အရေးမကြီးပါ။
+အသိဉာဏ်ပညာအလင်းသည် လုံးဝအရေးမကြီးပါ။
+# 3/5
 
 9822
 The flashes of wisdom are of great significance.
 အသိဉာဏ်ပညာအလင်းသည် ကြီးကျယ်သောအရေးပါမှု ဖြစ်သည်။
+# 3/5
 
 9823
 The flashes of wisdom should always be considered.
 အသိဉာဏ်ပညာအလင်းကို အမြဲဆင်ခြင်သင့်သည်။
+# 3/5
 
 9824
 A reporter for The Economist was in Tokyo and noticed a particular T-shirt.
 သည်အီကိုနိုးမစ် မှ သတင်းထောက်တစ်ယောက်သည် တိုကျိုတွင်ရှိနေပြီး ထူးထူးခြားခြားတီရှပ်တထည်ကို သတိပြုမိခဲ့သည်။
+# 4/5
 
 9825
 The T-shirt that said  O D on Bourgeoisie Milk Boy Milk seemed out of place and confusing in Tokyo.
 OD on Bourgeoisie Milk Boy Milk ဟုဖော်ပြထားသော တီရှပ်အင်္ကျီသည် တိုကျိုတွင် နေရာလွဲနေပြီး ဘာကိုဆိုလိုချင်မှန်းမသိ ဖြစ်နေပုံရသည်။
+# 4/5
 
 9826
 The correspondent for The Economist in Tokyo couldn't read the T-shirt he saw.
 တိုကျိုရှိ သည်အီကိုနိုးမစ်မှ သတင်းထောက်သည် သူမြင်သည့် တီရှပ်မှစာကို မဖတ်တက်ပါ။
+# 4/5
 
 9827
 The subjective satisfactory is a person.
 ပုဂ္ဂလ စိတ်ကျေနပ်ဖွယ်ရာသည် လူသားတစ်ယောက်ဖြစ်သည်။
+# 4/5
 
 9828
 The subjective satisfactory is not trouble.
 ပုဂ္ဂလ စိတ်ကျေနပ်မှုသည် ဒုက္ခမဟုတ်ပါ။
+# 4/5
 
 9829
 The subjective satisfactory is trouble.
 ပုဂ္ဂလ စိတ်ကျေနပ်မှုသည် ဒုက္ခဖြစ်သည်။
+# 4/5
 
 9830
 Esperanto is a real language that already has all of the weaknesses of other languages.
-အက်စ်ပရန်တိုဟာ အခြားဘာသာစကားတွေရဲ့ အားနည်းချက်တွေအားလုံးရှိနေတဲ့ တကယ့်ဘာသာစကားတစ်ခုပဲ။
+အက်စ်ပရန်တိုဟာ အခြားဘာသာစကားတွေရဲ့ အားနည်းချက်တွေအားလုံးရှိနေတဲ့ ဘာသာစကားအစစ်တစ်ခုဖြစ်သည်။
+# 4/5
 
 9831
 Esperanto is spoken by less than one percent of the world's population.
-အက်စ်ပရန်တိုဘာသာစကားကို ကမ္ဘာ့လူဦးရေရဲ့ တစ်ရာခိုင်နှုန်းအောက်ဟာ ပြောဆိုကြတယ်။
+အက်စ်ပရန်တိုဘာသာစကားကို ကမ္ဘာ့လူဦးရေရဲ့ တစ်ရာခိုင်နှုန်းအောက်က ပြောဆိုကြသည်။
+# 4/5
 
 9832
 Polysemy is one problem that natural languages have.
 ဆိုလိုရင်းများစွာအဓိပ္ပာယ်ရခြင်းသည် ဘာသာစကားများတွင်ရှိသော ပြဿနာတစ်ရပ်ဖြစ်သည်။
+# 5/5
 
 9833
 Honey can speak several accents.
 ဟန်နီက လေယူလေသိမ်း အမျိုးမျိုးနဲ့ ပြောတတ်တယ်။
+# 5/5
 
 9834
 Honey's treatment needs an explanation.
 ဟန်နီ၏ ကုသမှုသည် ရှင်းလင်းချက်တစ်ခု လိုအပ်သည်။
+# 4/5
 
 9835
 Honey's treatment needs no explanation.
 ဟန်နီ၏ ကုသမှုသည် ရှင်းလင်းချက်မလိုအပ်ပါ။
+# 4/5
 
 9836
 Jack Brooks is a plumber.
 ဂျက်ဘရွတ်ခ်စ်သည် ရေပိုက်ပြင်သမားတစ်ယောက်ဖြစ်သည်။
+# 5/5
 
 9837
 Jack Brooks is a politician from Nebraska.
 ဂျက်ဘရွတ်ခ်စ်သည် နယ့်ဘရာ့စကာမှ နိုင်ငံရေးသမားတစ်ဦးဖြစ်သည်။
+# 5/5
 
 9838
 Jack Brooks is a politician.
 ဂျက်ဘရွတ်ခ်စ်သည် နိုင်ငံရေးသမားတစ်ဦးဖြစ်သည်။
+# 5/5
 
 9839
 Peter C. Newman and Pierre Berton are popular writers of Canadian history.
 ပီတာစီနယူးမန် နှင့် ပိဖ်ရာဘာတွန်တို့သည် ကနေဒါသမိုင်းတွင် ထင်ရှားသောနာမည်ကြီးစာရေးဆရာများဖြစ်ကြသည်။
+# 5/5
 
 9840
 There have been exactly two books written on the history of Canada's North, and these were by popular writers Newman and Berton.
 ကနေဒါမြောက်ပိုင်းသမိုင်းကြောင်း ရေးသားထားတဲ့ စာအုပ်နှစ်အုပ်တိတိရှိတယ်၊ နာမည်ကြီးစာရေးဆရာတွေ နယူးမန်နဲ့ ဘာတွန်တို့ ရေးထားတာလေ။
+# 5/5
 
 9841
 Though they wrote many popular modern songs, Peter C. Newman and Pierre Berton never wrote books about history.
 နာမည်ကြီးထင်ရှားသော ခေတ်ပေါ်မော်ဒန်သီချင်းများစွာ ရေးသားခဲ့ကြသော်လည်း၊ ပီတာ စီ. နယူးမန်နှင့် ပိဖ်ရာ ဘာတွန် တို့သည် သမိုင်းနှင့်ပတ်သက်သည့် စာအုပ်များကို တခါမျှ မရေးခဲ့ကြပါ။
+# 5/5
 
 9842
 Hogwash is defined as that which is nonsensical and worthless.
-မဟုတ်တရုတ်ပေါက်တကရစကားကို အဓိပ္ပာယ်မဲ့ပြီး တန်ဖိုးမရှိသောအရာဟု သတ်မှတ်သည်။
+Hogwash ဆိုသည်မှာ ယုတ္တိမရှိသော တန်ဖိုးမရှိသောအရာဟု အဓိပ္ပါယ်ရသည်။
+# 4/5
 
 9843
 Hogwash is most commonly used to describe the most important and sensible things.
-အရေးအကြီးဆုံးဖြစ်ပြီး အကြောင်းယုတ္တိရှိသောအရာများကို ဖော်ပြရန် မဟုတ်တရုတ်ပေါက်တကရစကားကို အသုံးအများဆုံးဖြစ်သည်။
+Hogwash ဆိုသည်မှာ အရေးအကြီးဆုံးနှင့် ယုတ္တိအရှိဆုံးအရာများကို ဖော်ပြရန် အများဆုံး အသုံးပြုကြသည်။
+# 3/5
 
 9844
 The term Hogwash is formed because of the stench that comes from washing pigs.
-ဟော့ဝါ့ချ် ဆိုသော ဝေါဟာရသည် ဝက်များကို ဆေးကြောသန့်စင်ရာမှ ထွက်ပေါ်လာသော အနံအသက်ဆိုးများကြောင့် ဖြစ်ပေါ်လာသည်။
+Hogwash ဆိုသော ဝေါဟာရသည် ဝက်များကို ဆေးကြောသန့်စင်ရာမှ ထွက်ပေါ်လာသော အနံအသက်ဆိုးများကြောင့် ဖြစ်ပေါ်လာသည်။
+# 4/5
 
 9845
 It took place in no time at all, you know.
-အချိန်မရွေးဖြစ်ပျက်ခဲ့တာ၊ မင်းသိလား။
+အချိန်ခဏလေးအတွင်းမှာ ဖြစ်ခဲ့တာ၊ မင်းသိလား။
+# 4/5
 
 9846
 It was the quickest event I had ever experiences, you know.
-ဒါဟာ ငါတွေ့ကြုံခဲ့ရမျှထဲမှာ အမြန်ဆုံ အဖြစ်အပျက်ပဲ၊ မင်းသိလား။
+ဒါဟာ ငါတွေ့ကြုံခဲ့ရမျှထဲမှာ အမြန်ဆုံး အဖြစ်အပျက်ပဲ၊ မင်းသိလား။
+# 4/5
 
 9847
 The event took ages to come to an end, you know.
 အဖြစ်အပျက်က အဆုံးသတ်ဖို့ နှစ်ပေါက်အောင်ကြာတယ်၊ သိလား။
+# 4/5
 
 9848
 It is definitely not related to polytheism and monotheism.
 ဒါဟာ နတ်ဘုရားများစွာကို ကိုးကွယ်သောဝါဒနှင့် ဘုရားတစ်ဆူကိုသာ ကိုးကွယ်သောဝါဒတို့နှင့် လုံးဝ မသက်ဆိုင်ပါ။
+# 4/5
 
 9849
 It might be a go between between polytheism and monotheism.
 ဒါဟာ နတ်ဘုရားများစွာကို ကိုးကွယ်သောဝါဒနှင့် ဘုရားတစ်ဆူကိုသာ ကိုးကွယ်သောဝါဒတို့ကြား ကြားခံ တစ်ခုဖြစ်နိုင်တယ်။
+# 4/5
 
 9850
 It's the missing link between polytheism and monotheism.
 ဒါဟာ နတ်ဘုရားများစွာကို ကိုးကွယ်သောဝါဒနှင့် ဘုရားတစ်ဆူကိုသာ ကိုးကွယ်သောဝါဒတို့ကြားက ပျောက်ဆုံးနေတဲ့ ကွင်းဆက်ဖြစ်တယ်။
+# 4/5
 
 9851
 Because my secretary spoke no English, I had to write the letters for her to type.
 ငါ့အတွင်းရေးမှူးက အင်္ဂလိပ်လို မပြောတော့၊ သူစာရိုက်ဖို့ စာတွေကိုငါရေးပေးရတယ်။
+# 5/5
 
 9852
 My secretary does not speak English or French, but I do.
 ငါ့အတွင်းရေးမှူးက အင်္ဂလိပ်လိုရော ပြင်သစ်လိုရော မပြောပေမယ့်၊ ငါတော့ပြောတယ်။
+# 5/5
 
 9853
 When I took my first job, I could either read nor write in French.
-ကျွန်တော်ရဲ့ ပထမအလုပ်ကို ကျွန်တော်လုပ်နေတုန်းက၊ ကျွန်တော် ပြင်သစ်လို ဖတ်လည်းမဖတ်တတ် ရေးလည်းမရေးတတ်ဘူး။
+ကျွန်တော်ရဲ့ ပထမအလုပ်ကို ရတုန်းက၊ ကျွန်တော် ပြင်သစ်လို ဖတ်လည်းမဖတ်တတ် ရေးလည်းမရေးတတ်ဘူး။
+# 5/5
 
 9854
 The King James Bible contains both the Old and the New Testament.
 ဂျိမ်းဘုရင် သမ္မာကျမ်းစာတွင် ဓမ္မဟောင်းရော ဓမ္မသစ်ပါ နှစ်မျိုးလုံးပါရှိသည်။
+# 5/5
 
 9855
 The King James Bible contains only the Old Testament.
 ဂျိမ်းဘုရင်သမ္မာကျမ်းစာတွင် ဓမ္မဟောင်းသမ္မာကျမ်းစာသာ ပါဝင်သည်။
+# 5/5
 
 9856
 The King James Bible is made solely for a Christian audience.
-ဂျိမ်းဘုရင် သမ္မာကျမ်းစာသည် ခရစ်ယာန်ဘာသာဝင်ပရိတ်သတ်အတွက်သာလျှင် ရည်ရွယ်ထားသည်။
+ဂျိမ်းဘုရင် သမ္မာကျမ်းစာသည် ခရစ်ယာန်ဘာသာဝင်ပရိတ်သတ်များ အတွက်သာလျှင် သီးသန့်ရည်ရွယ်ထားသည်။
+# 5/5
 
 9857
 He doesn't try because he has no motivation.
 သူ့မှာ လှုံဆော်မှုမရှိလို့ သူ မကြိုးစားဘူး။
+# 5/5
 
 9858
 He has all of the worries in the world.
-ကမ္ဘာပေါ်မှာရှိသမျှ စိုးရိမ်ပူပန်စရာတွေ သူ့မှာ အကုန်ရှိတယ်။
+ကမ္ဘာပေါ်မှာရှိသမျှ စိုးရိမ်ပူပန်စရာတွေအကုန် သူ့မှာရှိတယ်။
+# 5/5
 
 9859
 He is not worried because he doesn't try.
-သူမကြိုးစားသည့်အတွက် သူမစိုးရိမ်ဘူး။
+သူ မကြိုးစားသည့်အတွက် သူ မစိုးရိမ်ဘူး။
+# 5/5
 
 9860
 Men only refers to males.
-အမျိုးသားများသည် အဖိုများကိုသာ ရည်ညွှန်းသည်။
+အမျိုးသားများဆိုသည်မှာ အဖိုများကိုသာ ရည်ညွှန်းသည်။
+# 4/5
 
 9861
 Women are included in the label of man now that feminism has progressed.
 ယနေ့အချိန်တွင် ဣတ္ထိယဝါဒ ထွန်းကားလာသောကြောင့် အမျိုးသားဆိုသော အသုံးအနှုန်းတွင် အမျိုးသမီးများပါ ပါဝင်လာကြသည်။
+# 5/5
 
 9862
 Women are included in the label of man.
 အမျိုးသားဆိုသော အသုံးအနှုန်းတွင် အမျိုးသမီးများပါ ပါဝင်လာကြသည်။
+# 5/5
 
 9863
 The list of pronunciation didn't help me at all.
-အသံထွက်စာရင်းက ငါ့ကို လုံးဝ အကူအညီမဖြစ်ဘူး။
+အသံထွက်စာရင်းက ငါ့ကို လုံးဝအထောက်အကူ မပြုဘူး။
+# 5/5
 
 9864
 The pronunciation list helped everyone.
 အသံထွက်စာရင်းသည် လူတိုင်းကို အထောက်အကူပြုသည်။
+# 5/5
 
 9865
 The pronunciation list only included the most basic things.
 အသံထွက်စာရင်းတွင် အခြေခံအကျဆုံးအရာများသာပါဝင်သည်။
+# 5/5
 
 9866
 The Omni Gazetteer of the United States is a first step.
 အမေရိကန်ပြည်ထောင်စု အောမ်နိ ဂဇတ်တီရာသည် ပထမခြေလှမ်းဖြစ်သည်။
+# 5/5
 
 9867
 The Omni Gazetteer of the United States is about animals.
 အမေရိကန်ပြည်ထောင်စု အောမ်နိ ဂဇတ်တီရာသည် တိရစ္ဆာန်များအကြောင်းဖြစ်သည်။
+# 4/5
 
 9868
 The Omni Gazetteer of the United States is comprehensive.
 အမေရိကန်ပြည်ထောင်စု အောမ်နိ ပထဝီနေရာဒေသအညွှန်းသည် ပြည့်စုံကျယ်ပြန့်သည်။
+# 4/5
 
 9869
 Typewriters require electric assistance to form words.
 လက်နှိပ်စက်များတွင် စကားလုံးများ ရိုက်နိုင်ရန် လျှပ်စစ်အကူအညီလိုအပ်သည်။
+# 5/5
 
 9870
 Typewriters require the user to push the buttons with adequate force to form the letters.
-စာလုံးများဖြစ်ပေါ်လာရန် လက်နှိပ်စက်များတွင် အသုံးပြုသူမှ ခလုတ်များကို လုံလောက်သောအားနှင့် တွန်းရန် လိုအပ်သည်။
+လက်နှိပ်စက်များတွင် စာလုံးများဖြစ်ပေါ်လာရန် အသုံးပြုသူမှ ခလုတ်များကို လုံလောက်သောအားနှင့် ဖိရန် လိုအပ်သည်။
+# 4/5
 
 9871
 Typewriters required no electric components.
 လက်နှိပ်စက်များသည် လျှပ်စစ်အစိတ်အပိုင်းများ မလိုအပ်ပါ။
+# 4/5
 
 9872
 A dictionary has a lot to offer.
 အဘိဓာန်တစ်ခုမှာ ပေးစရာတွေအများကြီးရှိတယ်။
+# 4/5
 
 9873
 A dictionary required more than specialist skills.
 အဘိဓာန်တစ်ခုမှာ အထူးကျွမ်းကျင်မှုထက် ပိုမိုလိုအပ်သည်။
+# 4/5
 
 9874
 A dictionary requires only a specialist's skills.
-အဘိဓာန်တစ်ခုမှာ အထူးကျွမ်းကျင်သူ၏ ကျွမ်းကျင်မှုတစ်ခုသာ လိုအပ်သည်။
+အဘိဓာန်တစ်ခုမှာ အထူးကျွမ်းကျင်သူ၏ ကျွမ်းကျင်မှုသာ လိုအပ်သည်။
+# 4/5
 
 9875
 Gruyare makes the best cheese.
-ဂရိရာတ်သည် အကောင်းဆုံး ဒိန်ခဲကို ပြုလုပ်သည်။
+Gruyare က အကောင်းဆုံး ဒိန်ခဲကို ပြုလုပ်သည်။
+# 4/5
 
 9876
 Gruyare the cheese is nothing like the place.
-ဂရိရာတ်သည်ချိစ်သည် နေရာနှင့်မတူ။
+Gruyare က ဒိန်ခဲသည် ထိုနေရာနှင့်မတူပါ။
+# 4/5
 
 9877
 You cannot separate Gruyare cheese from the place.
-ခင်ဗျား ဂရိရာတ်ဒိန်ခဲနဲ့ နေရာကို ခွဲခြားပစ်လို့မရနိုင်ဘူး။
+ခင်ဗျား Gruyare ဒိန်ခဲနဲ့ နေရာကို ခွဲခြားပစ်လို့မရနိုင်ဘူး။
+# 4/5
 
 9878
 Are you able to see that curious little beast?
-ဒီလို ထူးထူးဆန်းဆန်း သားရဲတိရစ္ဆာန်ကောင်ငယ်လေးကို  မင်းမြင်နိုင်ပါ့မလား။
+ဒီလို စိတ်ဝင်စားစရာ သားရဲတိရစ္ဆာန်ကောင်ငယ်လေးကို မင်းမြင်နိုင်သလား။
+# 4/5
 
 9879
 Do you see that curious beast over there?
-ဟိုမှာ ထူးဆန်းတဲ့ သားရဲတိရစ္ဆာန် ကို မင်း မြင်လား။
+ဟိုမှာ စိတ်ဝင်စားစရာ သားရဲတိရစ္ဆာန်ကို မင်းမြင်လား။
+# 4/5
 
 9880
 I cannot see that curious little beast.
-အဲ့ဒီ ထူးထူးဆန်းဆန်း သားရဲတိရစ္ဆာန်ကောင်ငယ်လေးကို ကျွန်တော် မမြင်ရဘူး။
+အဲ့ဒီ စိတ်ဝင်စားစရာ သားရဲတိရစ္ဆာန်ကောင်ငယ်လေးကို ကျွန်တော်မမြင်ရဘူး။
+# 4/5
 
 9881
 I enjoy reading back issues.
-ကျွန်တော် စာစောင်တွေ မှန်မမှန်ကိုပြန်လည်စစ်ဆေးဖတ်ရှုတာ သဘောကျတယ်။
+ကျွန်တော်က စာစောင်အဟောင်းတွေ ပြန်ဖတ်ရတာကို သဘောကျတယ်။
+# 4/5
 
 9882
 I enjoy reading back magazine issues.
-ကျွန်တော် မဂ္ဂဇင်း စာစောင်တွေ မှန်မမှန်ကိုပြန်လည်စစ်ဆေးဖတ်ရှုတာ သဘောကျတယ်။
+ကျွန်တော်က မဂ္ဂဇင်း စာစောင်အဟောင်းတွေ ပြန်ဖတ်ရတာကို သဘောကျတယ်။
+# 4/5
 
 9883
 I only read current issues.
-ကျွန်တော် လက်ရှိစာစောင်တွေကိုပဲ ဖတ်တယ်။
+ကျွန်တော်က လက်ရှိစာစောင်တွေကိုပဲ ဖတ်တယ်။
+# 5/5
 
 9884
 Jogging up and down.
-ဖြေးဖြေးတက် ဖြေးဖြေးဆင်း။
+အပေါ်နဲ့အောက် နှေးနှေးပြေးခြင်း။။
+# 4/5
 
 9885
 Sprinting up and down.
-ပြေးတက် ပြေးဆင်း။
+အပေါ်နဲ့အောက် မြန်မြန်ပြေးခြင်း။
+# 4/5
 
 9886
 Walking up and down.
-တက်လိုက်ဆင်းလိုက်။
+အပေါ်နဲ့အောက် လမ်းလျှောက်ခြင်း။
+# 4/5
 
 9887
 One Swede church isn't the same as that Swedish church.
-ဆွီဒ်ဘုရားကျောင်းတစ်ခုသည် ထိုဆွီဒစ်ရှ်ဘုရားကျောင်းနှင့် မတူပါ။
+ဆွီဒ်ဘုရားကျောင်းတစ်ခုသည် ဆွီဒစ်ရှ်ဘုရားကျောင်းကြီးနှင့် မတူပါ။
+# 4/5
 
 9888
 THe Swede Church and the Swedish church are the same.
-ဆွီဒ်ဘုရားကျောင်းသည် ဆွီဒစ်ရှ်ဘုရားကျောင်းနှင့် အတူတူပဲ။
+ဆွီဒ်ဘုရားကျောင်းကြီးသည် ဆွီဒစ်ရှ်ဘုရားကျောင်းကြီးနှင့် အတူတူပဲ။
+# 4/5
 
 9889
 The Swede Church and the Swedish church are pretty much different.
-ဆွီဒ်ဘုရားကျောင်းသည် ဆွီဒင်ဘုရားကျောင်းနှင့် တော်တော်လေး မတူပါ။
+ဆွီဒ်ဘုရားကျောင်းသည် ဆွီဒင်ဘုရားကျောင်းကြီးနှင့် လုံးဝမတူပါ။
+# 4/5
 
 9890
 She gestured toward another, bushier shrub.
-သူမသည် အခြား ချုံထူသည့်ချုံပုတ်ဘက်ဆီကို၊ လက်ပြလိုက်သည်။
+သူမသည် အခြား၊ ချုံထူသည့် ချုံပုတ်တစ်ခုဘက်ဆီကို လက်ဟန်ပြလိုက်သည်။
+# 5/5
 
 9891
 She gestured towards a bush that was somewhat depressing.
-တော်တော်လေးစိတ်ပျက်စရာကောင်းတဲ့ ချုံပုတ်တစ်ခုဘက်ဆီကို သူမ လက်ပြလိုက်တယ်။
+သူမသည် နိမ့်ကျနေသည့် ချုံပုတ်တစ်ခုဘက်ဆီကို လက်ဟန်ပြလိုက်သည်။
+# 5/5
 
 9892
 That bush is less bushy than the other.
-ဒီချုံက အခြားချုံတွေလောက် ချုံမထူထပ်ဘူး။
+ဒီချုံက အခြားချုံတွေလောက် မထူထပ်ဘူး။
+# 5/5
 
 9893
 A king that sets up an order of succession is always accused of showing signs of weakness.
-ထီးနန်းဆက်ခံသည့် အမိန့်တစ်ခု ထုတ်ပြန်သည့် ဘုရင်တစ်ပါးသည် ပျော့ညံ့မှုလက္ခဏာများကို ထုတ်ဖော်ပြသနေသည်ဟု အမြဲစွပ်စွဲခံရသည်။
+အစဥ်အဆက် အရိုက်အရာဆက်ခံနိုင်ရန် စီစဥ်ထားသည့် ဘုရင်တစ်ပါးသည် ပျော့ညံ့မှုလက္ခဏာများကို ပြသနေသည်ဟု အမြဲစွပ်စွဲခံရသည်။
+# 4/5
 
 9894
 A president has a vice-president, but a king does not have a vice-king.
 သမ္မတတစ်ဦးတွင် ဒုသမ္မတတစ်ဦးရှိသော်လည်း၊ ဘုရင်တစ်ပါးမှာ ဒုတိယဘုရင်တစ်ပါးမရှိပါ။
+# 5/5
 
 9895
 It is never obvious who will take over for a king in the event of his death, but it is obvious for a president.
-ဘုရင်တစ်ပါးနတ်ရွာစံသွားလျှင် မည်သူ ထီးနန်းဆက်ခံမည်ကို မည်သည့်အခါမျှ သိသာထင်ရှားမှုမရှိပါ၊ သို့သော်လည်း သမ္မတတစ်ဦး အဖြစ်အတွက် သိသာထင်ရှားပါသည်။
+ဘုရင်တစ်ပါးနတ်ရွာစံသွားလျှင် မည်သူ ထီးနန်းဆက်ခံမည်ကို မည်သည့်အခါမျှ သိသာထင်ရှားမှုမရှိပါ၊ သို့သော်လည်း သမ္မတတစ်ဦး အတွက်တော့ သိသာထင်ရှားပါသည်။
+# 4/5
 
 9896
 I was born in Iceland and grew up there, where there are no trains.
-ကျွန်တော်က ရထားတွေမရှိတဲ့၊ ရေခဲပြင်ဒေသမှာမွေးပြီး အဲဒီဒေသမှာပဲ ကြီးပြင်းခဲ့တာပါ။
+ကျွန်တော်က အိုင်စ်လန်းမှာမွေးပြီး ကြီးပြင်းခဲ့တာပါ၊ အဲဒီဒေသမှာ ရထားတွေမရှိဘူး.
+# 5/5
 
 9897
 In the South, train stations are referred to as the depot, and pronounced DEE-po.
-တောင်ပိုင်းမှာ၊ ရထားဘူတာရုံတွေဆိုတာ ယာဉ်ရပ်နားစခန်းလို့ခေါ်တာ၊ ပြီးတော့ ဒီးပိုလို့ အသံထွက်တယ်။
+တောင်ပိုင်းမှာ၊ ရထားဘူတာရုံတွေကို ယာဉ်ရပ်နားစခန်းလို့ခေါ်တာ၊ ပြီးတော့ ဒီးပိုလို့ အသံထွက်တယ်။
+# 5/5
 
 9898
 There were miles of train tracks near my parent's home in the South.
-တောင်ပိုင်းက ကျွန်တော်မိဘအိမ်နားမှာ မီးရထားသံလမ်းရှည်ကြီးတွေရှိတယ်။
+တောင်ပိုင်းက ကျွန်တော်မိဘအိမ်နားမှာ မီးရထားသံလမ်းရှည်ကြီးတွေ ရှိခဲ့တယ်။
+# 5/5
 
 9899
 All words fit.
-စကားလုံးအားလုံးအံဝင်ခွင်ကျအဆင်ပြေပါတယ်။
+စကားလုံးအားလုံး အံဝင်ခွင်ကျ အဆင်ပြေပါတယ်။
+# 5/5
 
 9900
 Some words do not fit in the puzzle.
-အချို့စကားလုံးများသည် ပဟေဠိတွင် မကိုက်ညီပါ။
-
+အချို့စကားလုံးများသည် ဤပဟေဠိနှင့် မသင့်တော်ပါ။
+# 5/5

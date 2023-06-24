@@ -1,102 +1,178 @@
+# INSTRUCTIONS FOR TRANSLATION QA
+#
+# There are 100 sentence blocks in this file. Each block has the following format.
+# - First line for sequence number, 
+# - Second line for English source sentence
+# - Third line for Myanmar translation -- You can overwrite it with your correction.
+# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
+# - Fifth line is a blank line for sepearating between the blocks
+#
+#  QA PROCEDURE:
+#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
+#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
+#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
+#  3. Do not correct the English sentence under any circumstances.
+#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
+#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
+#  5. Give a translation quality rating to the final version of the Myanmar sentence.
+#
+#     Translation rating is out of 5
+#         5/5 = Translation is perfect
+#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
+#         3/5 = Translation is partially correct, but missing some details
+#         2/5 = Translation is wrong or misleading
+#         1/5 = Translation is incomprehensible.
+# 
+# GENERAL TRANSLATION GUIDANCE:
+#   1. Don't miss any information in translation
+#   2. Don't add unnecessary information
+#   3. Take care to minimise spelling mistakes in Myanmar sentence
+#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
+#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
+#
+# HOW TO HANDLE SPECIAL CASES:        
+#   1. English Terms: 
+#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
+#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
+#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
+#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
+#
+#   2. Mistranslations due to cultural difference
+#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
+#     If you are not sure, just use the English word "Indians"
+#
+#   3. Present Tense / Past Tense correctness
+#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
+#
+# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
+# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
+# It is good enough if your FINAL translations can get to (4/5) rating.
+
 1901
 We recoup 58% of that money on ticket sales, leaving 32% to be garnered from donations and gifts from friends such as yourself.
-လက်မှတ် ရောင်းရမှု တွင် ထိုငွေ၏ ၅၈% ကို ကျွန်ုပ်တို့ ပြန်လည်ရယူပြီး ၊ ၃၂% ကို သင်ကိုယ်တိုင် သူငယ်ချင်းများထံမှ အလှူငွေများ နှင့် လက်ဆောင်များမှ စုဆောင်း ချန်ရစ်ခဲ့သည်။
+ထိုငွေ၏ ၅၈% ကို လက်မှတ်ရောင်းခြင်းမှ ကျွန်ုပ်တို့ ပြန်လည်ရယူပြီး ၊ ကျန်သော ၃၂% ကို သင်ကဲ့သို့ မိတ်ဆွေ များထံမှ အလှူငွေများ နှင့် လက်ဆောင်များမှ စုဆောင်းသွားမည် ဖြစ်သည်။
+# 4/5
 
 1902
 Our teaching hospitals and research programs receive no state support.
-ကျွန်ုပ်တို့၏ သင်ကြားရေးဆိုင်ရာ ဆေးရုံများ နှင့် သုတေသန အစီအစဉ်များသည် နိုင်ငံတော်၏ ပံ့ပိုးကူညီမှုကို လက်ခံရရှိထားခြင်း မဟုတ်ပါ။
+ကျွန်ုပ်တို့၏ သင်ကြားရေးဆိုင်ရာ ဆေးရုံများ နှင့် သုတေသန အစီအစဉ်များသည် နိုင်ငံတော်၏ ပံ့ပိုးကူညီမှုကို မရရှိပါ။
+# 5/5
 
 1903
 In you have any further questions, please do not hesitate to call our Membership Services Coordinator, Chris Young, at (800) 877-6773.
-သင့်တွင် နောက်ထပ် မေးခွန်းများ ရှိပါက ၊ ကျွန်ုပ်တို့၏ အသင်းဝင် ဝန်ဆောင်မှု ညှိနှိုင်းရေးမှူး ၊ ခရစ် ယန်း ၊ (၈၀၀) ၈၇၇-၆၇၇၃ သို့ ဖုန်းခေါ်ဆိုရန် မတွန့်ဆုတ်ပါနှင့်။
+သင့်တွင် နောက်ထပ် မေးခွန်းများ ရှိပါက ၊ ကျွန်ုပ်တို့၏ အသင်းဝင် ဝန်ဆောင်မှု ညှိနှိုင်းရေးမှူး ၊  Chris Young ၊ (၈၀၀) ၈၇၇-၆၇၇၃ သို့ ဖုန်းခေါ်ဆိုရန် မတွန့်ဆုတ်ပါနှင့်။
+# 4/5
 
 1904
 Last year, only 20% of our alumni contributed to the school, up from 14% in 1990.
 လွန်ခဲ့သည့်နှစ်တွင် ၊ ကျွန်ုပ်တို့၏ ကျောင်းသားဟောင်းများ၏ ၂၀% ကသာ ၊ ၁၉၉၀ ခုနှစ်တွင် ၁၄% မှ ကျောင်းသို့ လှူဒါန်းခဲ့ပါသည်။
+# 4/5
 
 1905
-This stunnngly beautiful 3.3 -acre landmark botanical attraction combines the best of gardening ideas, plant information and inspiring landscape design.
-ဤ အံ့မခန်း လှပသော ၃.၃ ဧကရှိသော အထင်ကရဖြစ်သည့် ရုက္ခဗေဒဆိုင်ရာ ဆွဲဆောင်မှု သည် ပန်းခြံစိုက်ခြင်းနှင့်ဆိုင်သော စိတ်ကူးစိတ်သန်းများ ၊ အပင် အချက်အလက် နှင့် စိတ်လှုပ်ရှားဖွယ် ရှုခင်း ဒီဇိုင်း အကောင်းဆုံးတို့ဖြင့် ပေါင်းစပ်ထားသည်။
+This stunningly beautiful 3.3 -acre landmark botanical attraction combines the best of gardening ideas, plant information and inspiring landscape design.
+ဤ အံ့မခန်း လှပသော ၃.၃ ဧကရှိ အထင်ကရဖြစ်သည့် ရုက္ခဗေဒဆိုင်ရာ ဆွဲဆောင်မှု သည် ပန်းခြံစိုက်ခြင်းနှင့်ဆိုင်သော စိတ်ကူးစိတ်သန်းများ ၊ အပင်များအကြောင်း အချက်အလက် နှင့် စိတ်လှုပ်ရှားဖွယ် ရှုခင်း ဒီဇိုင်း အကောင်းဆုံးတို့ဖြင့် ပေါင်းစပ်ထားသည်။
+# 4/5
 
 1906
 As a member of the Citywide Friends of the Free Library you will receive a quarterly newsletter informing you of library events and legislative issues.
-စီတီးဝှိုက် မိတ်ဆွေများ အခမဲ့ စာကြည့်တိုက် ၏ အဖွဲ့ဝင် တစ်ဦး အနေဖြင့် သင်သည် စာကြည့်တိုက်နှင့်ဆိုင်သော ပြပွဲများ နှင့် ဥပဒေပြုရေးဆိုင်ရာ ပြဿနာများ ကို အသိပေးသည့် သုံးလတစ်ကြိမ် သတင်းလွှာတစ်စောင်ကို လက်ခံရရှိမည်ဖြစ်သည်။
+မြို့တော်တစ်ခုလုံးဆိုင်ရာ မိတ်ဆွေများ အခမဲ့ စာကြည့်တိုက် ၏ အဖွဲ့ဝင် တစ်ဦး အနေဖြင့် သင်သည် စာကြည့်တိုက်နှင့်ဆိုင်သော အခမ်းအနားများ နှင့် ဥပဒေပြုရေးဆိုင်ရာ ကိစ္စရပ်များ ကို အသိပေးသည့်  သတင်းလွှာတစ်စောင်ကို သုံးလတစ်ကြိမ် လက်ခံရရှိမည်ဖြစ်သည်။
+# 5/5
 
 1907
 Enclosed once again is a membership application form and a business reply envelope.
-နောက်တစ်ကြိမ် ပူးတွဲပါရှိတာက အသင်းဝင် လျှောက်လွှာ ပုံစံ တစ်ခု နှင့် လုပ်ငန်း တစ်ခု ကို အကြောင်းပြန်သော စာအိတ်ဖြစ်သည်။
+ထပ်မံ ပူးတွဲပါရှိမှာက အသင်းဝင် လျှောက်လွှာ ပုံစံ တစ်ခု နှင့် လုပ်ငန်း တစ်ခု ကို အကြောင်းပြန်သော စာအိတ်ဖြစ်သည်။
+# 5/5
 
 1908
 If The Salvation Army's Red Shield could talk, it might tell you how we recently helped a man with diabetes get the insulin he needed.
-အကယ်၍ ကယ်ဆယ်ရေး တပ်မတော် ၏ ရက်ဒ် ရှိ့ဒ် သည် စကားပြောနိုင်လျှင် ၊ မကြာသေးမီက ဆီးချိုရောဂါရှိသူ အမျိုးသား တစ်ဦးအား သူ လိုအပ်သော အင်ဆူလင် ရရှိရန် ကျွန်ုပ်တို့ မည်သို့ ကူညီပေးခဲ့သည်ကို သင့်ကို ပြောပြနိုင်မည်။
+အကယ်၍ ကယ်တင်ခြင်း တပ်မတော် ၏ အနီရောင် ဒိုင်းကာ သည် စကားပြောနိုင်လျှင် ၊ မကြာသေးမီက ဆီးချိုရောဂါရှိသူ အမျိုးသား တစ်ဦးအား သူ လိုအပ်သော အင်ဆူလင် ရရှိရန် ကျွန်ုပ်တို့ မည်သို့ ကူညီပေးခဲ့သည်ကို သင့်ကို ပြောပြနိုင်မည်။
+# 4/5
 
 1909
 That is also true of famous Hoosiers such as James Whitcomb Riley, Eugene V. Debs and Madam C.J.
-ဒါတွေသည်လည်း ဂျိမ်းစ် ဝှိုက်ကုမ်း ရီလေး ၊ ယူဂျင်း ဗွီ ဒက်ဘ်စ် နဲ့ မဒမ် စီ‌ ဂျေ တို့လို နာမည်ကြီး ဟူးဆာတွေဆိုတာ မှန်ပါတယ်။
+ဒါသည်လည်း James Whitcomb Riley၊ Eugene V. Debs နဲ့ Madam C.J တို့လို နာမည်ကြီး အင်ဒီးယားနားတိုင်းရင်းသားတွေဆိုတာ မှန်ပါတယ်။
+# 5/5
 
 1910
 Here's the results so far: 5,615 targeted to our non-donor alumni, 81 1.4 percent, largest donation was, and the $2,840 smallest was $5.
-ဤသည်မှာ ယခုအချိန်အထိ ရလဒ်များဖြစ်သည် : ကျွန်ုပ်တို့၏ အလှူရှင်မဟုတ်သော ကျောင်းသားဟောင်းများအတွက် ရည်မှန်းထားသည့် ၅,၆၁၅ ၊ ၈၁.၁၄ ရာခိုင်နှုန်းသည် ၊ အကြီးမားဆုံး လှူဒါန်းမှု ဖြစ်ခဲ့ ပြီး ၊ $၂၈၄၀ သည် အနည်းဆုံး ဖြစ်ပါတယ်။
+၎င်းမှာ ယခုအချိန်အထိ ရလဒ်များဖြစ်သည် : ကျွန်ုပ်တို့၏ အလှူရှင်မဟုတ်သော ကျောင်းသားဟောင်းများအတွက် ရည်မှန်းထားသည့် ၅,၆၁၅ ၊ ၈၁ ၁.၄ ရာခိုင်နှုန်းသည် ၊ အကြီးမားဆုံး လှူဒါန်းမှု ဖြစ်ခဲ့ ပြီး ၊ $၂၈၄၀ သည် အနည်းဆုံး ၅ $ ဖြစ်ပါတယ်။
+# 3/5
+# Incomplete data, need more information to translate better
 
 1911
 This investment has resulted in the renovation and sale of 60 homes to homebuyers of modest means, and in the rehab of more than 100 affordable, high quality apartments.
-ဤ ရင်းနှီးမြုပ်နှံမှုသည် သင့်တော်သော နည်းလမ်းဖြင့် အိမ်ဝယ်သူများအတွက် အိမ် 60 ကို ရောင်းချခြင်း နှင့် ပြုပြင်မွမ်းမံခြင်း ၊ နှင့် တတ်နိုင်သော ၊ အရည်အသွေး မြင့်မားသော တိုက်ခန်းပေါင်း ၁၀၀ ကျော်ကို ပြန်လည်ပြုပြင်မှုတွင် ဖြစ်ပေါ်စေခဲ့သည်။
+ဤ ရင်းနှီးမြုပ်နှံမှုသည် ပြုပြင်မွမ်းမံခြင်းနှင့် သာမာန်သင့်တင့်ရုံမျှ  အိမ်ဝယ်လိုသူများကို အိမ် ပေါင်း 60 ရောင်းချခြင်း၊ အရည်အသွေး မြင့်မားသော တန်ဖိုးနည်း တိုက်ခန်းပေါင်း ၁၀၀ ကျော်ကို ပြန်လည်ပြုပြင်ခြင်းတို့ကို ဖြစ်ပေါ်စေခဲ့သည်။
+# 5/5
 
 1912
 And that's the wonderful tool of the IRT Education Programs--it lets children witness stories that teach them tools for everyday living and surviving.
-အဲဒါက အိုင်အာတီ ပညာရေးနှင့်ဆိုင်သော အစီအစဉ်များ ရဲ့ အံ့သြစရာကောင်းတဲ့ ကိရိယာ ဖြစ် ပြီး -- ၎င်းက ကလေးတွေကို နေ့စဥ် အသက်ရှင် ပြီး ရှင်သန်ဖို့အတွက် သူတို့ကို သင်ကြားပေးတဲ့ ပုံပြင်တွေကို သက်သေခံနိုင်စေတယ်။
+ပြီးလျှင် ၎င်းသည် အိုင်အာတီ ပညာရေးနှင့်ဆိုင်သော အစီအစဉ်များ ရဲ့ အံ့သြစရာကောင်းတဲ့ သင်ထောက်ကူကိရိယာ ဖြစ် ပြီး ကလေးတွေကို နေ့စဥ် နေထိုင် ရှင်သန်ဖို့အတွက် သင်ကြားပေးနိုင်တဲ့ အကြောင်းအရာပုံပြင်တွေကို မျက်မြင် တွေ့ စေတယ်။
+# 5/5
 
 1913
 On behalf of President Bush, I look forward to working with you in the future.
-သမ္မတဘုရှ် ကိုယ်စား ၊ အနာဂတ်တွင် သင်နှင့်အတူ လုပ်ဆောင်ရန် ကျွန်တော် မျှော်လင့်ပါသည်။
+သမ္မတဘုရှ် ကိုယ်စား ၊ အနာဂတ်တွင် သင်နှင့်အတူ လုပ်ကိုင်ဆောင်ရွက်ရန် ကျွန်တော် မျှော်လင့်ပါသည်။
+# 5/5
 
 1914
 For several years he performed packaging and clerical work.
-နှစ်အတော်ကြာအောင် သူက  ထုပ်ပိုးခြင်းနှင့် စာရေးခြင်း လုပ်ငန်းကို လုပ်ဆောင်ခဲ့သည်။
+နှစ်အတော်ကြာအောင် သူက  ထုပ်ပိုးခြင်းနှင့် စာရေးစာချီ လုပ်ငန်းကို လုပ်ဆောင်ခဲ့သည်။
+# 5/5
 
 1915
 I made my Indianapolis debut as a stage director a month ago with Inherit the Wind, a classic of the American stage, attended by more than 5,500 junior high and high school students.
-အလယ်တန်း နှင့် အထက်တန်းကျောင်းသူ ၅၅၀၀ ကျော် တက်ရောက်ခဲ့သည့် ၊ အထူးခြားဆုံး အမေရိကန် စင်မြင့် တစ်ခု ၊ အင်ဟားရစ် သယ် ဝင်း ဖြင့် ကျွန်ုပ်၏ အင်ဒီယာနာပိုလစ် ၏ စင်မြင့် ဒါရိုက်တာ တစ်ဦး အဖြစ် လွန်ခဲ့သော တစ်လက ပွဲဦးထွက်ခဲ့သည်။
+အလယ်တန်း နှင့် အထက်တန်းကျောင်းသူကျောင်းသား ၅၅၀၀ ကျော် တက်ရောက်ခဲ့သည့် ၊ အထူးခြားဆုံး အမေရိကန် စင်မြင့် တစ်ခုတွင် Inherit the Wind ဖြင့် ကျွန်ုပ်သည် အင်ဒီယာနာပိုလစ်မြို့ ၏ စင်မြင့် ဒါရိုက်တာ တစ်ဦး အဖြစ် လွန်ခဲ့သော တစ်လက ပွဲဦးထွက်ခဲ့သည်။
+# 4/5
 
 1916
 I must therefore tell you why the Center on Philanthropy also deserves your support.
-ထို့ကြောင့် ပရဟိတ စင်တာ သည် အဘယ်ကြောင့် သင်၏ ပံ့ပိုးကူညီမှုကိုလည်း ထိုက်တန်စေတယ်ဆိုတာကို ကျွန်ုပ် သင့်ကို ပြောပြလိုပါသည်။
+ထို့ကြောင့် ပရဟိတ စင်တာ သည်လည်း အဘယ်ကြောင့် သင်၏ ပံ့ပိုးကူညီမှုနဲ့ ထိုက်တန်လဲဆိုတာကို ကျွန်ုပ် သင့်ကို ပြောပြရမည်။
+# 5/5
 
 1917
 Approximately 25% of the current Cathedral student body receives some amount of financial assistance.
 လက်ရှိ ဘုရားရှိခိုးကျောင်း ကျောင်းသား အဖွဲ့၏ ခန့်မှန်းခြေ ၂၅% သည် ငွေကြေး အကူအညီ ပမာဏ အချို့ကို ရရှိသည်။
+# 5/5
 
 1918
 And more than 30% of the kids we serve cannot afford the camp fee.
-ကျွန်ုပ်တို့ တာဝန်ယူပေးထားသော ကလေးများ၏ ၃၀% ကျော်သည် စခန်း ဝင်ကြေးကို မတတ်နိုင်ပါ။
+ပြီးလျှင် ကျွန်ုပ်တို့ တာဝန်ယူပေးထားသော ကလေးများ၏ ၃၀% ကျော်သည် စခန်း ဝင်ကြေးကို မတတ်နိုင်ပါ။
+# 5/5
 
 1919
 This letter is to let you know that we still need your help to continue our record of strong fiscal management, vibrant theatrical productions and outstanding educational programs.
-ဤ စာသည် ကျွန်ုပ်တို့၏ ခိုင်မာသော ဘဏ္ဍာရေး စီမံခန့်ခွဲမှု မှတ်တမ်း ၊ တက်ကြွသော ပြဇာတ် ထုတ်လုပ်မှုများ နှင့် ထူးချွန်သော ပညာရေးဆိုင်ရာ အစီအစဉ်များကို ဆက်လက်လုပ်ဆောင်ရန် သင်၏ အကူအညီကို လိုအပ်နေသေးသည်ကို သင့်အား အသိပေးအပ်ပါသည်။
+ဤ စာဖြင့် ကျွန်ုပ်တို့၏ ခိုင်မာသော ဘဏ္ဍာရေး စီမံခန့်ခွဲမှု မှတ်တမ်း ၊ မြူးကြွသော ပြဇာတ် ထုတ်လုပ်မှုများ နှင့် ထူးချွန်သော ပညာရေးဆိုင်ရာ အစီအစဉ်များကို ဆက်လက်လုပ်ဆောင်ရန် သင်၏ အကူအညီကို လိုအပ်နေသေးသည်ကို သင့်အား အသိပေးအပ်ပါသည်။
+# 5/5
 
 1920
 And yet within change there will be continuity.
 သို့ပေမယ့်လည်း အပြောင်းအလဲအတွင်း အဆက်မပြတ်ရှိနေမှာပါ။
+# 5/5
 
 1921
 Without your help we will lose some of this grant money.
-သင့် အကူအညီ မပါဘဲ ကျွန်ုပ်တို့သည် ဤ ထောက်ပံ့သော ငွေ အချို့ကို ဆုံးရှုံးလိမ့်မည်။
+သင့် အကူအညီ မပါလျှင် ကျွန်ုပ်တို့သည် ဤ ထောက်ပံ့ငွေ အချို့ကို ဆုံးရှုံးရလိမ့်မည်။
+# 5/5
 
 1922
 The research published in Science gives evidence of progress by documenting the first successful transplantation of functional heart cells into an animal model.
-သိပ္ပံပညာရပ် တွင် ထုတ်ဝေသည့် သုတေသနပြုချက်သည် တိရစ္ဆာန် ပုံစံသို့ နှလုံး ဆဲလ်များ၏ ပထမဆုံး အောင်မြင်သော အစားထိုးကုသမှုကို မှတ်တမ်းတင်ခြင်းဖြင့် တိုးတက်မှုကို သက်သေထူစေသည်။
+သုတေသနပြုချက်ကို သိပ္ပံပညာရပ်တွင် ထုတ်ပြန်ကြေညာလိုက်ခြင်းသည် နမူနာ တိရစ္ဆာန် ပုံစံထဲသို့  အသုံးပြုနိုင်သော နှလုံးဆဲလ်များကို အစားထိုးကုသမှု ပထမဆုံးအောင်မြင်ခြင်းကို မှတ်တမ်းတင်ခြင်းဖြင့် တိုးတက်မှုကို သက်သေအထောက်အထားဖြစ်စေသည်။ 
+# 4/5
 
 1923
 There's our art programs for junior and senior high school students which are so critical now with less and less allocated in school budgets for the arts.
-အနုပညာ အတွက် ကျောင်း ဘတ်ဂျက်မှာ ခွဲဝေရရှိမှု လျှော့နည်းလာပြီး အခု အရမ်းအရေးကြီးတဲ့ အလယ်တန်း နဲ့ အထက်တန်း ကျောင်းသားတွေ အတွက် ကျွန်တော်တို့ရဲ့ အနုပညာဆိုင်ရာ အစီအစဉ်တွေ ရှိပါတယ်။
+အနုပညာ အတွက် ကျောင်း ဘတ်ဂျက်မှာ ခွဲဝေရရှိမှု လျှော့နည်းလာမှူကြောင့် အကျပ်အတည်းဖြစ်နေတဲ့ ကျွန်တော်တို့ရဲ့ အနုပညာဆိုင်ရာ အစီအစဉ်တွေ အလယ်တန်း နဲ့ အထက်တန်း ကျောင်းသားတွေ အတွက်  ရှိပါတယ်။
+# 5/5
 
 1924
 Unlike other not-for-profit theatres in the city, our actors make their living from their craft.
-မြို့တော်ရှိ အခြားသော အကျိုးအမြတ်မယူသော ရုပ်ရှင်ရုံများနှင့် မတူဘဲ၊ ကျွန်ုပ်တို့၏ သရုပ်ဆောင်များသည် သူတို့၏ လက်မှုပညာဖြင့် သူတို့၏ အသက်မွေးဝမ်းကြောင်းကို ပြုကြသည်။
+မြို့တော်ရှိ အခြားသော အကျိုးအမြတ်မယူတဲ့ ရုပ်ရှင်ရုံများနှင့် မတူဘဲ၊ ကျွန်ုပ်တို့၏ သရုပ်ဆောင်များသည် သူတို့၏ လက်မှုပညာဖြင့် သူတို့၏ အသက်မွေးဝမ်းကြောင်းကို ပြုကြသည်။
+# 5/5
 
 1925
 Indeed, your history of support of the Lowell Nussbaum Society pays much more than your rent.
-အမှန်တကယ်ပင် ၊ မင်းရဲ့ လိုဝဲလ် နပ်စ်ဘောင်မ် အဖွဲ့အစည်း ၏ ပံ့ပိုးကူညီမှု သမိုင်းသည် မင်းရဲ့ ငှားရမ်းခထက် များစွာ ပိုပေးပါသည်။
+အမှန်တကယ်ပင် ၊ မင်းရဲ့ Lowell Nussbaum အဖွဲ့အစည်း ၏ ပံ့ပိုးကူညီမှု သမိုင်းသည် မင်းရဲ့ ငှားရမ်းခထက် များစွာ အကျိုးအမြတ်ရှိပါသည်။
+# 4/5
 
 1926
 This situation could also impact our ability to mount another festival next year.

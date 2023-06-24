@@ -1,3 +1,53 @@
+# INSTRUCTIONS FOR TRANSLATION QA
+#
+# There are 100 sentence blocks in this file. Each block has the following format.
+# - First line for sequence number, 
+# - Second line for English source sentence
+# - Third line for Myanmar translation -- You can overwrite it with your correction.
+# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
+# - Fifth line is a blank line for sepearating between the blocks
+#
+#  QA PROCEDURE:
+#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
+#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
+#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
+#  3. Do not correct the English sentence under any circumstances.
+#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
+#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
+#  5. Give a translation quality rating to the final version of the Myanmar sentence.
+#
+#     Translation rating is out of 5
+#         5/5 = Translation is perfect
+#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
+#         3/5 = Translation is partially correct, but missing some details
+#         2/5 = Translation is wrong or misleading
+#         1/5 = Translation is incomprehensible.
+# 
+# GENERAL TRANSLATION GUIDANCE:
+#   1. Don't miss any information in translation
+#   2. Don't add unnecessary information
+#   3. Take care to minimise spelling mistakes in Myanmar sentence
+#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
+#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
+#
+# HOW TO HANDLE SPECIAL CASES:        
+#   1. English Terms: 
+#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
+#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
+#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
+#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
+#
+#   2. Mistranslations due to cultural difference
+#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
+#     If you are not sure, just use the English word "Indians"
+#
+#   3. Present Tense / Past Tense correctness
+#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
+#
+# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
+# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
+# It is good enough if your FINAL translations can get to (4/5) rating.
+
 4901
 Blood was grumpy because he hadn't had anything to eat.
 သူ့မှာ စားစရာ တစ်ခုခု မရှိလို့ ဘလတ် စိတ်တိုခဲ့တယ်။
@@ -16,7 +66,7 @@ I accept it willingly.
 
 4905
 I am not willing to accept it, but I could be convinced.
-ငါ ဒါကို လက်ခံ ရန် ဆန္ဒ မရှိ ပေမယ့် ၊ ငါ ယုံကြည် နိုင်ပါတယ်။
+ငါ ဒါကို လက်ခံ ရန် ဆန္ဒ မရှိ ပေမယ့် ၊ ငါ့ကိုယုံကြည်အောင်လုပ် နိုင်ပါတယ်။
 
 4906
 I don't accept it willingly.
@@ -25,6 +75,7 @@ I don't accept it willingly.
 4907
 After a pause he said a murderer, I.
 ခေတ္တနားပြီးနောက် သူက လူသတ်သမား တစ်ယောက် ၊ ငါ ဆိုတာပြောခဲ့တယ်။
+# 4/5
 
 4908
 He hadn't murdered anyone.
@@ -33,18 +84,19 @@ He hadn't murdered anyone.
 4909
 Immediately he said, A murderer, I.
 ချက်ချင်းပင် လူသတ်သမား တစ်ယောက် ၊ ငါ လို့ သူက ပြောခဲ့တယ်။
+#4/5
 
 4910
 I have been following him closely for a year without him knowing.
-ငါ သူ့ကို မသိပဲနဲ့ တစ်နှစ်ကြာတောင် ရင်းရင်းနီးနီး သူ့နောက်ကို လိုက်နေခဲ့တယ်။
+ငါ သူ့ကို သူမသိပဲတစ်နှစ်ကြာတောင် နီးနီးကပ်ကပ် သူ့နောက်ကို လိုက်နေခဲ့တယ်။
 
 4911
 I have only been following him for close to a week.
-ငါ ရင်းနှီးဖို့ အတွက် သူ့နောက် လိုက်နေတာ တစ်ပတ် သာလျှင် ရှိသေးတယ်။
+ငါ  သူ့နောက် လိုက်နေတာ တစ်ပတ်နီးပါး သာလျှင် ရှိသေးတယ်။
 
 4912
 Over the course of the past year I have been stalking him.
-ပြီးခဲ့သော တစ်နှစ်တာကာလ အတွင်း ငါ သူ့ကို လိုက်ရှာနေခဲ့တယ်။
+ပြီးခဲ့သော တစ်နှစ်တာကာလ အတွင်း ငါ သူ့ကိုနောက်‌‌‌ယောင်ခံလိုက်နေခဲ့တယ်။
 
 4913
 Miss Bishop walked through a group of men.
@@ -61,26 +113,29 @@ Miss Bishop walked through a group of women, and there weren't any men present.
 4916
 His lordship told her that ships came from the Jamaica fleet.
 သူ၏ သခင်က သင်္ဘောများ ဂျမေကာ ရေတပ်သင်္ဘောအစု မှ ဆင်းသက်တယ်လို့ သူ့ကို ပြောခဲ့တယ်။
+#  His lordship, သခင်ကြီး ?
 
 4917
 The ships of the Jamaica fleet impressed her, that's why she asked about them.
-ဂျမေကာ ရေတပ်သင်္ဘောအစု ၏ သင်္ဘောများ က သူ့ကို အထင်ကြီးစေတယ် ၊ ဒါကြောင့် သူက ဒါတွေနဲ့ ပတ်သက်ပြီး မေးခဲ့တယ်။
+ဂျမေကာ ရေတပ်သင်္ဘောအစု ၏ သင်္ဘောများ က သူမကို အထင်ကြီးစေတယ် ၊ ဒါကြောင့် သူမက ဒါတွေနဲ့ ပတ်သက်ပြီး မေးခဲ့တယ်။
 
 4918
 They are ships of the American fleet, his lordship answered her.
 ဒါတွေက အမေရိကန် ရေတပ်သင်္ဘောအစု ၏ သင်္ဘောများ ဖြစ်ပါတယ် လို့ ၊ သူ၏ သခင်က သူ့ကို ပြန်ဖြေကြားခဲ့တယ်။
+#His lordship, သခငိကြီး ?
 
 4919
 He liked the girl so he put himself in a bad position.
 သူက ကောင်မလေးကို သဘောကျခဲ့တယ် ဒါကြောင့် သူက သူကိုယ်တိုင်တောင် ကောင်းအောင် မနေခဲ့ဘူး။
+သူက ကောင်မလေးကို သဘောကျခဲ့တာကြောင့် သူ့အတွက် အခြေအနေဆိုး သူ့ဟာသူဖြစ်စေခဲ့တယ်။ 
 
 4920
 He placed himself in a position for a girl that didn't pay attention to him.
-သူ့ကို အာရုံမရှိ တဲ့ မိန်းကလေး တစ်ယောက် အတွက် သူက သူ့ဟာသူ နေရာတစ်ခုမှာ နေခဲ့တယ်။
+သူ့ကို အာရုံမရှိ တဲ့ မိန်းကလေး တစ်ယောက် အတွက် နေရာတစ်ခုမှာသူရောက်နေခဲ့တယ်။
 
 4921
 He put himself in his current position for a girl that was obsessed with him.
-သူ စွဲလမ်းနေ တဲ့ မိန်းကလေး တစ်ယောက် အတွက် သူက သူ၏ လက်ရှိ နေရာမှာ သူ့ဟာသူ နေခဲ့တယ်။
+သူ့ကို စွဲလမ်းနေ တဲ့ မိန်းကလေး တစ်ယောက် အတွက် သူက သူ၏ လက်ရှိ နေရာမှာ သူ့ဟာသူ နေခဲ့တယ်။
 
 4922
 You are definitely wrong.
@@ -108,7 +163,7 @@ You have granted, I am told, the King's commission to the man because of his bra
 
 4928
 She was blue and she kept her eyes closed all the time.
-သူမ သည် အရမ်းဝမ်းနည်းခဲ့ ပြီးတော့ သူမက သူမ ၏ မျက်လုံးများ ကို အချိန်တိုင်း မှိတ်ထားခဲ့သည်။
+သူမ သည် အရမ်းဝမ်းနည်းခဲ့ ပြီးတော့ သူမက သူမ ၏ မျက်လုံးများ ကို တချိန်လုံး မှိတ်ထားခဲ့သည်။
 
 4929
 She was very pale and she kept her eyes on her hands.
@@ -124,11 +179,11 @@ So they didn't tell you about our situation!
 
 4932
 So they've told you about the difficult situation!
-ဒါကြောင့် သူတို့က ခက်ခဲတဲ့ အခြေအနေ နဲ့ ပတ်သက်ပြီး မင်းကို မပြောခဲ့တာ!
+ဒါကြောင့် သူတို့က ခက်ခဲတဲ့ အခြေအနေ နဲ့ ပတ်သက်ပြီး မင်းကို ပြောပီးပီပေါ့!
 
 4933
 So you were told about that!
-ဒါကြောင့် ဒါနဲ့ပတ်သက်ပြီး မင်းကို ပြောပြခဲ့တာ!
+အဲတော့ ဒါနဲ့ပတ်သက်ပြီး မင်းကို ပြောပြခဲ့တာပဲ!
 
 4934
 He was angry because she always talks too much.
@@ -136,7 +191,7 @@ He was angry because she always talks too much.
 
 4935
 He was very happy, so she wasn't worried about his anger.
-သူ အရမ်း ပျော်ခဲ့တယ် ၊ ဒါကြောင့် သူမ က သူ့ ဒေါသနဲ့ပတ်သက်ပြီး စိုးရိမ်မှု မရှိခဲ့ပါဘူး။
+သူ အရမ်း ပျော်ခဲ့တယ် ၊ ဒါကြောင့် သူမ က သူ့ရဲ့ဒေါသနဲ့ပတ်သက်ပြီး စိုးရိမ်မှု မရှိခဲ့ပါဘူး။
 
 4936
 She thought she may have provoked his anger.
@@ -168,7 +223,7 @@ He would not give up the blood he thought due to him for his daughter, mom or ni
 
 4943
 The Arabella came to a tiny city that was located on a barren land devoid of life.
-အာရာဘဲလာသည် လူသူကင်းမဲ့ ပြီး မဖြစ်ထွန်းသော ကုန်းမြေ ပေါ်တွင် တည်ရှိတဲ့ မြို့ငယ်လေး တစ်မြို့ဆီသို့ ရောက်လာခဲ့တယ်။
+အာရာဘဲလာသည် လူသူကင်းမဲ့ ပြီး အသက်မဲံ့ခြောက်ကပ်နေတဲ့ ကုန်းမြေ ပေါ်တွင် တည်ရှိတဲ့ မြို့ငယ်လေး တစ်မြို့ဆီသို့ ရောက်လာခဲ့တယ်။
 
 4944
 The Arabella was located just across the harbour's edge where the rest of the city was located.
@@ -380,7 +435,7 @@ He remained silent as he complained about the simplicity of life.
 
 4996
 Life is infernally complicated because of the many interactions one might have.
-ဘဝက တုံပြန်မှု များစွာ ရှိနေတဲ့ အတွက်ကြောင့် ဆန်းကြယ် ရှုပ်ထွေးတယ်
+ဘဝက ဆက်ရှပ်မှု့ များစွာ ရှိနေတဲ့ အတွက်ကြောင့် ဆန်းကြယ် ရှုပ်ထွေးတယ်
 
 4997
 Colonel Bishop has done something to make Wolverstone his enemy.

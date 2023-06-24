@@ -1,330 +1,473 @@
+# INSTRUCTIONS FOR TRANSLATION QA
+#
+# There are 100 sentence blocks in this file. Each block has the following format.
+# - First line for sequence number, 
+# - Second line for English source sentence
+# - Third line for Myanmar translation -- You can overwrite it with your correction.
+# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
+# - Fifth line is a blank line for sepearating between the blocks
+#
+#  QA PROCEDURE:
+#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
+#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
+#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
+#  3. Do not correct the English sentence under any circumstances.
+#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
+#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
+#  5. Give a translation quality rating to the final version of the Myanmar sentence.
+#
+#     Translation rating is out of 5
+#         5/5 = Translation is perfect
+#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
+#         3/5 = Translation is partially correct, but missing some details
+#         2/5 = Translation is wrong or misleading
+#         1/5 = Translation is incomprehensible.
+# 
+# GENERAL TRANSLATION GUIDANCE:
+#   1. Don't miss any information in translation
+#   2. Don't add unnecessary information
+#   3. Take care to minimise spelling mistakes in Myanmar sentence
+#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
+#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
+#
+# HOW TO HANDLE SPECIAL CASES:        
+#   1. English Terms: 
+#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
+#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
+#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
+#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
+#
+#   2. Mistranslations due to cultural difference
+#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
+#     If you are not sure, just use the English word "Indians"
+#
+#   3. Present Tense / Past Tense correctness
+#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
+#
+# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
+# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
+# It is good enough if your FINAL translations can get to (4/5) rating.
+
 5701
 The Spartans killed many of the Persian army at Thermopylae.
 စပါတာတို့သည် သာမောပလီး တွင် ပါရှား စစ်တပ် အများအပြားကို သတ်ခဲ့သည်။
+5/5
 
 5702
 Otto Frank got captured on the second day.
 ဒုတိယနေ့တွင် အော်တိုဖရန့်ကို ဖမ်းဆီးရရှိခဲ့သည်။
+5/5
 
 5703
 Otto Frank hid for more than 25 months.
 အော်တိုဖရန့်သည် ၂၅ လကျော် ပုန်းအောင်းနေခဲ့သည်။
+5/5
 
 5704
 Otto Frank hid until the Nazis found him.
 အော်တိုဖရန့်က သူ့ကို နာဇီတွေ ရှာမတွေ့ခင်အထိ ပုန်းနေခဲ့တယ်။
+5/5
 
 5705
 The tea kettles are ugly and it's so boring to learn about them.
-လက်ဖက်ရည်အိုးတွေက မလှမပဖြစ် ပြီး ဒါတွေ အကြောင်း လေ့လာဖို့ အလွန် ပျင်းဖို့ကောင်းတယ်။
+လက်ဖက်ရည်အိုးတွေက မလှမပကြကာ ၄င်းတို့အကြောင်း လေ့လာဖို့ အလွန် ပျင်းဖို့ကောင်းတယ်။
+5/5
 
 5706
 You will like the tea kettles that are hundreds of years old.
 နှစ်ရာနဲ့ချီ သက်တမ်းရှိတဲ့ လက်ဖက်ရည်ခွက်တွေကို မင်း ကြိုက်လိမ့်မယ်။
+5/5
 
 5707
 You'll like the tea kettles because they are colorful and pretty.
 အရောင်စုံ ပြီး လှပသောကြောင့် ဒီ လက်ဖက်ရည်ခွက်တွေကို မင်း ကြိုက်လိမ့်မယ်။
+5/5
 
 5708
 Fairly popular sifhts include the new lion exhibit, snow leopard and cheetah exhibits, and an African tropical rain forest.
-အတော်အတန် လူကြိုက်များသော ရူထောင့်များတွင် ခြင်္သေ့ အသစ် ပြပွဲ ၊  နှင်း ကျားသစ် နှင့် တောလိုက်ကျားသစ် ပြပွဲများ နှင့် ၊ အာဖရိက အပူပိုင်း မိုး သစ်တောတို့ ပါဝင်သည်။
+အတော်အတန် လူကြိုက်များသော ပြပွဲများတွင် ခြင်္သေ့ အသစ် ပြပွဲ ၊ ကျားသစ်ဖြူ နှင့် တောလိုက်ကျားသစ် ပြပွဲများ နှင့် ၊ အာဖရိက အပူပိုင်း မိုး သစ်တောတို့ ပါဝင်သည်။
+5/5
 
 5709
 The best things to check out are the new lion exhibit, snow leopard and cheetah exhibits, and an African tropical rain forest.
 ကြည့်ရှုစစ်ဆေးရန် အကောင်းဆုံး အရာများမှာ ခြင်္သေ့ အသစ် ပြပွဲ ၊  နှင်း ကျားသစ် နှင့် တောလိုက်ကျားသစ် ပြပွဲများ နှင့် ၊ အာဖရိက အပူပိုင်း မိုး သစ်တောတို့ ဖြစ်ကြသည်။
+5/5
 
 5710
 There is no new lion exhibit, snow leopard and cheetah exhibits, or African tropical rain forest at the facility.
 အဆိုပါ အဆောက်အဦတွင် ခြင်္သေ့ အသစ် ပြပွဲ ၊  နှင်း ကျားသစ် နှင့် တောလိုက်ကျားသစ် ပြပွဲများ ၊ သို့မဟုတ် အာဖရိက အပူပိုင်း မိုး သစ်တောများ မရှိပါ။
+5/5
 
 5711
 The building is very old and basic.
-အဆောက်အဦသည် အလွန် ဟောင်း ပြီး အခြေခံကျသည်။
+အဆောက်အဦသည် အလွန် ဟောင်း ပြီး ရိုးသည်။
+5/5
 
 5712
 The building uses a lot of engineering technology to keep it from sliding into the ocean.
 အဆောက်အအုံသည် သမုဒ္ဒရာ ထဲသို့ လျှောကျခြင်းမှ ၎င်းကို ထိန်းသိမ်းရန် အင်ဂျင်နီယာ နည်းပညာ များစွာကို အသုံးပြုထားသည်။
+5/5
 
 5713
 The building's location is really interesting.
 အဆောက်အဦရဲ့ တည်နေရာက တကယ်ကို စိတ်ဝင်စားဖို့ကောင်းပါတယ်။
+5/5
 
 5714
 Some of the antiques are shown.
 ရှေးဟောင်းပစ္စည်း အချို့ ကို ပြသထားသည်။
+5/5
 
 5715
 You can touch some of the imperial armor.
 မင်း ရှေးရိုးဗြိတိသျှသုံး သံချပ်ကာ အချို့ကို ထိတွေ့နိုင်သည်။
+5/5
 
 5716
 You can't see anything old on display.
 သင်သည် ပြပွဲတွင် ဟောင်းနွမ်းနေသည့် မည်သည့်အရာကိုမှ မတွေနိုင်ဘူး။
+5/5
 
 5717
 Weltkugelbrunnen is made of aluminum.
-ဝက်ခ်ခရူးဂျဲဘန်းနန်း ကို အလူမီနီယမ်နဲ့ ပြုလုပ်ထားပါတယ်။
+Weltkugelbrunnen ကို အလူမီနီယမ်နဲ့ ပြုလုပ်ထားပါတယ်။
+5/5
 
 5718
 Weltkugelbrunnen is made of granite that is very black and shiny.
-ဝက်ခ်ခရူးဂျဲဘန်းနန်းသည် အလွန် နက်မှောင် ပြီး တောက်ပြောင်သော အလွန်မာသည့်ကျောက်တုံးများဖြင့် ပြုလုပ်ထားသည်။
+Weltkugelbrunnenသည် အလွန် နက်မှောင် ပြီး တောက်ပြောင်သော နှမ်းဖတ်ကျောက်တုံးများဖြင့် ပြုလုပ်ထားသည်။
+5/5
 
 5719
 Weltkugelbrunnen is made of granite.
-ဝက်ခ်ခရူးဂျဲဘန်းနန်းသည် အလွန်မာသည့်ကျောက်တုံးများဖြင့် ပြုလုပ်ထားသည်။
+Weltkugelbrunnenသည် နှမ်းဖတ်ကျောက်တုံးများဖြင့် ပြုလုပ်ထားသည်။
+5/5
 
 5720
 The Zenith hosts 1000 concerts a year.
 ဇဲနတ်သည် တစ်နှစ်လျှင် ဖျော်ဖြေပွဲ ၁၀၀၀ ကို လက်ခံကျင်းပသည်။
+5/5
 
 5721
 The Zenith is a big concert hall.
-ဇဲနတ်သည် ကြီးမားသော ဖျော်ဖြေပွဲ ခန်းမ တစ်ခု ဖြစ်သည်။
+Zenithသည် ကြီးမားသော ဖျော်ဖြေပွဲ ခန်းမ တစ်ခု ဖြစ်သည်။
+5/5
 
 5722
 The Zenith is a train station.
-ဇဲနတ်သည် ရထားဘူတာတစ်ခုဖြစ်သည်။
+Zenithသည် ရထားဘူတာတစ်ခုဖြစ်သည်။
+5/5
 
 5723
 The protests all ended in the 50's.
 ဆန္ဒပြပွဲများ သည် ၅၀ ခုနှစ်များတွင် အဆုံးသတ်ခဲ့သည်။
+5/5
 
 5724
 There were protests in the 70's.
 ၇၀ ခုနှစ်များတွင် ဆန္ဒပြမှုများ ရှိခဲ့သည်။
+5/5
 
 5725
 There were racial protests in the 70's.
 ၇၀ ခုနှစ်များတွင် လူမျိုးရေး ဆန္ဒပြမှုများ ရှိခဲ့သည်။
+5/5
 
 5726
 Sqamish has never had a log-rolling contest.
-စကွေးမစ်ရှ်တွင် သစ်လုံးလှိမ့် ပြိုင်ပွဲ တစ်ခုကို တစ်ခါမှ မပြုလုပ်ဖူးပါ။
+Sqamishတွင် သစ်လုံးလှိမ့် ပြိုင်ပွဲ တစ်ခုကို တစ်ခါမှ မပြုလုပ်ဖူးပါ။
+5/5
 
 5727
 Squamish is famous for log-rolling contests.
-စကွေးမစ်ရှ်သည် သစ်လုံးလှိမ့် ပြိုင်ပွဲများ ကြောင့် ကျော်ကြားသည်။
+Sqamishသည် သစ်လုံးလှိမ့် ပြိုင်ပွဲများ ကြောင့် ကျော်ကြားသည်။
+5/5
 
 5728
-Squamish is were log-rolling contests started.
-စကွေးမစ်ရှ်တွင် သစ်လုံးလှိမ့် ပြိုင်ပွဲများကို စတင်ခဲ့သည်။ 
+Squamish is where log-rolling contests started.
+Sqamishတွင် သစ်လုံးလှိမ့် ပြိုင်ပွဲများကို စတင်ခဲ့သည်။ 
+5/5
 
 5729
 The Loyal Senate building is beautiful.
-ရွိုင်ရယ် ဆီးနိတ် အဆောက်အဦသည် လှပသည်။
+The Loyal Senate အဆောက်အဦသည် လှပသည်။
+5/5
 
 5730
 The Loyal Senate building is modern architecture.
-ရွိုင်ရယ် ဆီးနိတ် အဆောက်အဦသည် ခေတ်မီ ဗိသုကာလက်ရာ ဖြစ်သည်။
+The Loyal Senate အဆောက်အဦသည် ခေတ်မီ ဗိသုကာလက်ရာ ဖြစ်သည်။
+5/5
 
 5731
 The Loyal Senate building is very tall and white.
-ရွိုင်ရယ် ဆီးနိတ် အဆောက်အဦသည် အလွန် မြင့်မား ပြီး အဖြူရောင် ဖြစ်သည်။
+The Loyal Senate အဆောက်အဦသည် အလွန် မြင့်မား ပြီး အဖြူရောင် ဖြစ်သည်။
+5/5
 
 5732
 It happens again in mid-August.
 ၎င်းသည် ဩဂုတ်လ အလယ်တွင် ထပ်မံ ဖြစ်ပွားသည်။
+5/5
 
 5733
 It happens again on Tuesday, August 15.
 ၎င်းသည် သြဂုတ် ၁၅ ရက် ၊ အင်္ဂါနေ့တွင် ထပ်မံ ဖြစ်ပွားသည်။
+5/5
 
 5734
 It never happens again.
 ၎င်းသည် ဘယ်တော့မှ ထပ်မံ မဖြစ်ပွားတော့ဘူး။
+5/5
 
 5735
 Coniera is 3 square miles.
 ကိုနီရာသည် ၃ စတုရန်းမိုင် ရှိသည်။
+5/5
 
 5736
 Coniera is in the Atlantic Ocean.
 ကိုနီရာသည် အတ္တလန္တိတ် သမုဒ္ဒရာထဲတွင် ရှိသည်။
+5/5
 
 5737
 Coniera is in the Sant Antoni Bay.
 ကိုနီရာသည် ဆန့် အန်တိုနီ ပင်လယ်အော်တွင် ရှိသည်။
+5/5
 
 5738
 All of the beaches are private.
-ကမ်းခြေ အားလုံးသည် သီးသန့် ဖြစ်သည်။
+ကမ်းခြေ အားလုံးသည် ပုဂ္ဂလိကပိုင်များ ဖြစ်သည်။
+5/5
 
 5739
 Some beaches are public.
 အချို့သော ကမ်းခြေများသည် အများနှင့်ဆိုင်သည်။
+5/5
 
 5740
 The public beaches for $5.
 အများပိုင် ကမ်းခြေများက ၅ ဒေါ်လာ
+4/5
+
 
 5741
 The emperor got Jerusalem for $1million.
 ဧကရာဇ်မင်းသည် ဂျေရုဆလင်ကို ဒေါ်လာ ၁ သန်းဖြင့် ရရှိခဲ့သည်။
+5/5
+
 
 5742
 The emperor got Jerusalem in a trade.
 ဧကရာဇ်မင်းသည် ဂျေရုဆလင်ကို ကုန်သွယ်မှု တစ်ခု တွင် ရရှိခဲ့သည်။
+5/5
+
 
 5743
 The emperor traded for Persia.
 ဧကရာဇ်မင်းသည် ပါးရှား အတွက် ရောင်းဝယ်ခဲ့သည်။
+5/5
+
 
 5744
 Hawthorne lived on Main Street.
 ဟောသရုန်းသည် မိန်း လမ်း တွင် နေထိုင်ခဲ့သည်။
+5/5
+
 
 5745
 Hawthorne lived on Pinckney Street for 7 years.
 ဟောသရုန်းသည် ပင့်ခ်နေ လမ်း တွင် ၇ နှစ် ကြာ နေထိုင်ခဲ့သည်။
+5/5
+
 
 5746
 Hawthorne lived on Pinckney Street.
 ဟောသရုန်းသည် ပင့်ခ်နေ လမ်း တွင် နေထိုင်ခဲ့သည်။
+5/5
+
 
 5747
 Boot is a small city.
 ဘုသည် သေးငယ်သော မြို့ တစ်မြို့ ဖြစ်သည်။
+5/5
+
 
 5748
 Boot is near the La'al Ratty.
 ဘုသည် လာရယ် ရက်တီ အနီး ရှိသည်။
+5/5
+
 
 5749
 Boot is very far from all of the railways.
 ဘုသည် မီးရထားလမ်း အားလုံးနှင့် အလွန် ဝေးသည်။
+5/5
+
 
 5750
 The gate was built so they could charge people.
 သူတို့သည် လူတွေကို ငွေကောက်ခံဖို့ ဂိတ်ဝင်ပေါက်ကို တည်ဆောက်ခဲ့သည်။
+5/5
+
 
 5751
 The gate was for people to charge $10 to go through.
 ဂိတ်ဝင်ပေါက်ကို လူတွေ ဖြတ်သွားလျှင် ၁၀ ဒေါ်လာ ကောက်ခံဖို့ ရှိခဲ့သည်။
+5/5
 
 5752
 The gate was just a triumphal arch.
 ဂိတ်ဝင်ပေါက်သည် အောင်ပွဲခံသော ပေါင်းကူး တစ်ခုသာ ဖြစ်သည်။
+5/5
 
 5753
 A lot of the music is drums.
 ဂီတ တော်တော်များများက ဒရမ်တွေပါ။
+5/5
 
 5754
 The music is mainly flutes.
 ဂီတသည် အဓိကအားဖြင့် ပုလွေများ ဖြစ်သည်။
+5/5
 
 5755
 The snare drum is in all the music.
 စနဲ ဒရမ်သည် ဂီတ အားလုံးတွင် ရှိသည်။
+5/5
 
 5756
 Kuala Perlis was 17 miles south.
 ကွာလာပါလစ်သည် တောင်ဘက် ၁၇ မိုင် တွင် ရှိခဲ့သည်။
+5/5
 
 5757
 Kuala Perlis was straight north of Kangar.
 ကွာလာပါလစ်သည် ကန်ဂါး ၏မြောက်ဘက် တည့်တည့်တွင် ရှိခဲ့သည်။
+5/5
 
 5758
 Kuala Perlis was to the south.
 ကွာလာပါလစ်သည် တောင်ဘက်တွင် ရှိခဲ့သည်။
+5/5
 
 5759
 The two towers were built with limestone.
 မျှော်စင် နှစ်ခုကို ထုံးကျောက်ဖြင့် တည်ဆောက်ထားသည်။
+5/5
 
 5760
 There are two towers that were built in the 14th century.
 ၁၄ ရာစုတွင် တည်ဆောက်ခဲ့သော မျှော်စင် နှစ်ခု ရှိသည်။
+5/5
 
 5761
 There is only one tower and it's brand new.
 မျှော်စင် တစ်ခု သာလျှင် ရှိ ပြီး ၎င်းက အသစ်စက်စက်ပါ။
+5/5
 
 5762
 The Moors got economic help from Almohads.
-မောလ်သည် အယ်မိုဟာဒ်များ ထံမှ စီးပွားရေး အကူအညီ ရခဲ့သည်။
+မောလ်များသည် အယ်မိုဟာဒ်များ ထံမှ စီးပွားရေး အကူအညီ ရခဲ့သည်။
+5/5
 
 5763
 The Moors got help from Almohads.
-မောလ်သည် အယ်မိုဟာဒ်များ ထံမှ အကူအညီ ရခဲ့သည်။
+မောလ်များသည် အယ်မိုဟာဒ်များ ထံမှ အကူအညီ ရခဲ့သည်။
+5/5
 
 5764
 The Moors were independent and did it all alone.
-မောလ်သည် မှီခိုခြင်းကင်း ပြီး အားလုံးကို တစ်ယောက်တည်း ပြုလုပ်ခဲ့တယ်။
+မောလ်များသည် မှီခိုခြင်းကင်း ပြီး အားလုံးကို ကိုယ့်ဟာကိုယ် ပြုလုပ်ခဲ့တယ်။
+5/5
 
 5765
 One Vegas coffee house was built in 1940.
 ဝမ်း ဗီးဂတ်စ် ကော်ဖီဆိုင်ကို ၁၉၄၀ ခုနှစ်တွင် တည်ဆောက်ခဲ့သည်။
+5/5
 
 5766
 There's one coffee house in Vegas that's older than the rest.
 ဗီးဂတ်စ် တွင် ကော်ဖီဆိုင် တစ်ဆိုင် ရှိပြီး ၎င်း သည် ကျန်တာတွေထက် ပိုပြီး ဟောင်းနွမ်းသည်။
+5/5
 
 5767
 Vegas has no coffee houses.
 ဗီးဂတ်စ် တွင် ကော်ဖီဆိုင်များ မရှိပါ။
+5/5
 
 5768
 You aren't allowed to buy those for yourself.
 အဲဒါတွေကို သင်ကိုယ်တိုင် ဝယ် ရန် ခွင့်မပြုပါဘူး။
+5/5
 
 5769
 You can buy them and make a roof.
 ဒါတွေကို ဝယ် ပြီး အိမ်ခေါင်မိုး တစ်ခု ပြုလုပ်နိုင်တယ်။
+5/5
 
 5770
 You can buy those peaks for the castle roofs.
 ရဲတိုက် ခေါင်မိုးများ အတွက် ထို အချွန်အတပ်များကို သင် ဝယ်နိုင်သည်။
+5/5
 
 5771
 Bad things will happen to those people.
-မကောင်းသော အရာတွေသည် ထို လူတွေကို ဖြစ်စေလိမ့်မည်။
+မကောင်းသော အရာတွေသည် ထို လူတွေကို ဖြစ်လာလိမ့်မည်။
+5/5
 
 5772
 The pictures show what lovely things will happen to them.
-အဆိုပါ ရုပ်ပုံကားချပ်များသည် သူတို့အတွက် ချစ်စရာကောင်းတဲ့ အရာတွေ ဖြစ်လာမယ်ဆိုတာကို ပြသထားပါတယ်။
+အဆိုပါ ရုပ်ပုံကားချပ်များသည် သူတို့အတွက် မည်သို့သော ကြည်နူးစရာကောင်းတဲ့ အရာတွေ ဖြစ်လာမယ်ဆိုတာကို ပြသထားပါတယ်။
+5/5
 
 5773
 Those people will be killed immediately.
 ထို လူတွေကို ချက်ချင်း သတ်ပစ် လိမ့်မည်။
+5/5
 
 5774
 Boats aren't allowed in the Boston Harbor.
 ဘော်စတွန် ဆိပ်ကမ်းတွင် လှေများကို ခွင့်မပြုပါ။
+5/5
 
 5775
 There are cruises in the Boston Harbor.
 ဘော်စတွန် ဆိပ်ကမ်းတွင် အပျော်စီးသင်္ဘောများရှိသည်။
+5/5
 
 5776
 There are very long cruises around the Boston Harbor.
 ဘော်စတွန် ဆိပ်ကမ်း တဝိုက်တွင် အလွန် ရှည်လျားသော အပျော်စီးသင်္ဘောများ ရှိသည်။
+5/5
 
 5777
 Only huge highways go to the ocean.
 ကြီးမားသော အဝေးပြေးလမ်းမကြီးများသာ သမုဒ္ဒရာဆီသို့ သွားကြသည်။
+5/5
 
 5778
 The ocean has little paths that are 2 feet wide leading to it.
 သမုဒ္ဒရာတွင် ၎င်းကို ဦးတည်နေသည့် ၂ ပေကျယ်သော သေးငယ်သည့် လမ်းများရှိသည်။
+5/5
 
 5779
 The sea has lanes  leading to it that aren't very wide.
-ပင်လယ်တွင် ၎င်းကို ဦးတည်နေသော အလွန် မကျယ်သည့် လမ်းကျဉ်းများ ရှိသည်။
+ပင်လယ်တွင် ၎င်းကို ဦးတည်နေသော သိပ်မကျယ်သည့် လမ်းကျဉ်းများ ရှိသည်။
+5/5
 
 5780
 The Spanish people had 100 people helping.
-စပိန်လူမျိုးတွေက လူ ၁၀၀ ကို ကူညီပေးခြင်း ရှိခဲ့သည်။
+စပိန်လူမျိုးတွေကကို လူ ၁၀၀ က ကူညီပေးခြင်း ရှိခဲ့သည်။
+5/5
 
 5781
 The Spanish people had no help.
-စပိန် လူမျိုးတွေက ကူညီပေးခြင်းမရှိခဲ့ဘူး။
+စပိန် လူမျိုးတွေကို ကူညီပေးခြင်းမရှိခဲ့ဘူး။
+5/5
 
 5782
 The Spanish people made a beachhead.
 စပိန်လူမျိုးတွေက ကမ်းခြေမှာခြေကုပ်ယူထားသောတပ် တစ်ခုကို ပြုလုပ်ခဲ့ကြသည်။
+5/5
 
 5783
 It's much safer to cycle in Paris now compared to 10 years ago.
@@ -333,67 +476,84 @@ It's much safer to cycle in Paris now compared to 10 years ago.
 5784
 It's safer to cycle in Paris.
 ပါရီမှာ စက်ဘီးစီးရတာ ပိုလုံခြုံတယ်။
+5/5
 
 5785
 It's still incredibly dangerous to cycle in Paris.
 ပဲရစ်တွင် စက်ဘီးစီးရန် မယုံနိုင်လောက်အောင် အန္တရာယ်များနေသေးသည်။
+5/5
 
 5786
 The beach near Batu Hitam has beautiful white sand.
 ဘတူး ဟီတန် အနီးရှိ ကမ်းခြေတွင် လှပသော သဲဖြူများ ရှိသည်။
+5/5
 
 5787
 There are no beaches anywhere near Batu Hitam.
 ဘတူး ဟီတန် အနီး မည်သည့်နေရာတွင်မှ ကမ်းခြေတွေ မရှိပါဘူး။
+5/5
 
 5788
 There's a beach near Batu Hitam.
 ဘတူး ဟီတန် အနီးတွင် ကမ်းခြေ တစ်ခု ရှိသည်။
+5/5
 
 5789
 James Cook never went west of California.
 ဂျိမ်းစ် ကွတ်သည် ကယ်လီဖိုးနီးယား အနောက်ဘက်သို့ တစ်ခါမှ မရောက်ဖူးပါ။
+5/5
 
 5790
 James Cook traveled to Hawaii.
 ဂျိမ်းစ် ကွတ်သည် ဟာဝိုင်အီသို့ ခရီးသွားခဲ့သည်။
+5/5
 
 5791
 James Cook went to every Hawaiian island.
-ဂျိမ်းစ် ကွတ်သည် ဟာဝိုင်အီ ကျွန်းကို အမြဲ သွားခဲ့တယ်။
+ဂျိမ်းစ် ကွတ်သည် ဟာဝိုင်အီ ကျွန်းတိုင်းကို သွားခဲ့တယ်။
+5/5
 
 5792
 People in the village dress up like it's colonial times.
 ရွာကလူတွေသည် ကိုလိုနီ ခေတ်က ကဲ့သို့ ဝတ်စားကြတယ်။
+5/5
 
 5793
 There are people dressed up in the village.
 ရွာမှာ ဝတ်စားဆင်ယင်တဲ့ လူတွေ ရှိတယ်။
+5/5
 
 5794
 You don't get to go into the villages
 သင် ရွာတွေ ထဲသို့  သွားရန် မဖြစ်နိုင်။
+5/5
 
 5795
 You can only buy, not rent, boats.
 မင်း လှေတွေကို ၊ မငှားပဲ ၊ ဝယ်နိုင်ပါတယ်။
+5/5
 
 5796
 You can rent little boats.
 မင်း လှေငယ်များ ငှားနိုင်သည်။
+5/5
 
 5797
 You can rent one passenger boats.
-မင်း ခရီးသည်တင် လှေ တစ်စင်း ငှားနိုင်သည်။
+မင်း တစ်ယောက်စီးလှေများ ငှားနိုင်သည်။
+5/5
 
 5798
 Everyone is always fighting, all the time.
-လူတိုင်းဟာ အချိန်တိုင်း၊ အမြဲတမ်း အားထုတ်နေကြရတယ်။
+လူတိုင်းဟာ အချိန်တိုင်း၊ အမြဲတမ်း တိုက်ခိုက်နေကြတယ်။
+5/5
 
 5799
 People get along because they are paid to keep the peace.
 ငြိမ်းချမ်းရေးကို ထိန်းသိမ်းဖို့ သူတို့က အခကြေးငွေပေးခဲ့သောကြောင့် လူတွေက ပြေလည်သွားကြတယ်။
+5/5
 
 5800
 People get along well.
-လူတွေ ကောင်းကောင်း ရှိနေကြပါတယ်။
+လူတွေ ကောင်းမွန်တဲ့ ဆက်ဆံရေး ရှိနေကြပါတယ်။
+5/5

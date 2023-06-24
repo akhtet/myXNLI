@@ -1,330 +1,462 @@
+# INSTRUCTIONS FOR TRANSLATION QA
+#
+# There are 100 sentence blocks in this file. Each block has the following format.
+# - First line for sequence number, 
+# - Second line for English source sentence
+# - Third line for Myanmar translation -- You can overwrite it with your correction.
+# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
+# - Fifth line is a blank line for sepearating between the blocks
+#
+#  QA PROCEDURE:
+#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
+#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
+#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
+#  3. Do not correct the English sentence under any circumstances.
+#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
+#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
+#  5. Give a translation quality rating to the final version of the Myanmar sentence.
+#
+#     Translation rating is out of 5
+#         5/5 = Translation is perfect
+#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
+#         3/5 = Translation is partially correct, but missing some details
+#         2/5 = Translation is wrong or misleading
+#         1/5 = Translation is incomprehensible.
+# 
+# GENERAL TRANSLATION GUIDANCE:
+#   1. Don't miss any information in translation
+#   2. Don't add unnecessary information
+#   3. Take care to minimise spelling mistakes in Myanmar sentence
+#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
+#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
+#
+# HOW TO HANDLE SPECIAL CASES:        
+#   1. English Terms: 
+#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
+#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
+#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
+#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
+#
+#   2. Mistranslations due to cultural difference
+#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
+#     If you are not sure, just use the English word "Indians"
+#
+#   3. Present Tense / Past Tense correctness
+#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
+#
+# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
+# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
+# It is good enough if your FINAL translations can get to (4/5) rating.
+
 9901
 Some words do not fit.                                                                  
 တချို့စကားလုံးတွေက မကိုက်ညီဘူး။
+# 4/5
 
 9902
 The intricate rule books outline all possible configurations of this sport.
-ရှုပ်ထွေးသော စည်းမျဉ်းစာအုပ်များသည် ဒီအားကစား၏ ဖြစ်နိုင်ချေရှိသော ဖွဲ့စည်းမှုပုံစံများအားလုံးကို အကြမ်းဖျင်းဖော်ပြသည်။
+ဤ အသေးစိတ်စည်းမျဉ်းစာအုပ်များတွင် ဒီအားကစား၌ ဖြစ်နိုင်သော ဖွဲ့စည်းမှုပုံစံများအားလုံးကို အကြမ်းဖျင်းဖော်ပြထားသည်။
+# 4/5
 
 9903
 The rules and guidelines of these sports are still unclear.
 ဒီ အားကစားများ၏ စည်းမျဉ်းများနှင့် လမ်းညွှန်ချက်များက မရှင်းလင်းသေးဘူး။
+# 5/5
 
 9904
 There are variations of this sport that can involve a net and a ball.
-ပိုက်ကွန် တစ်ခု နဲ့ ဘောလုံး တစ်လုံး ပါ၀င်နိုင်တဲ့ ဒီအားကစားက ကွဲပြားမှုတွေ ရှိသည်။
+ဒီအားကစားတွင် ပိုက်ကွန် တစ်ခု နဲ့ ဘောလုံး တစ်လုံး ပါဝင်နိုင်တဲ့ ကွဲပြားမှုများ ရှိသည်။
+# 4/5
 
 9905
 Some groups need make up new words to address changing times.
 အချို့သောအဖွဲ့များသည် ပြောင်းလဲနေသောအချိန်များကို ဖြေရှင်းရန် စကားလုံးအသစ်တွေ ဖန်တီးဖို့ လိုအပ်သည်။
+# 4/5
 
 9906
 Some groups need make up new words.
 အချို့သောအဖွဲ့များသည် စကားလုံးအသစ်များ ဖန်တီးဖို့ လိုအပ်သည်။
+# 5/5
 
 9907
 The groups can't make up new words.
 အဖွဲ့များသည် စကားလုံးအသစ်များ မဖန်တီးနိုင်ပါ။
+# 5/5
 
 9908
 Names do not have a unique resonance.
 အမည်များတွင် ထူးခြားသော အသံသြဇာ တစ်ခု မရှိဘူး။
+# 3/5
 
 9909
 Some names have a unique resonance.
 အချို့သောအမည်များတွင် ထူးခြားသော အသံသြဇာ တစ်ခု ရှိသည်။
+# 3/5
 
 9910
 Some place names make you feel happy.
-အချို့နေရာအမည်များသည် မင်းကို ပျော်ရွှင်စေအောင် ပြုလုပ်သည်။
+အချို့နေရာအမည်များသည် မင်းကို ပျော်ရွှင်စေသည်။
+# 4/5
 
 9911
 Lots of people from England speak more than one language.
-အင်္ဂလန်ကလူတော်တော်များများဟာ ဘာသာစကားတစ်ခုထက်ပိုပြောကြတယ်။
+အင်္ဂလန်က လူတော်တော်များများဟာ ဘာသာစကားတစ်ခုထက်ပိုပြောကြတယ်။
+# 5/5
 
 9912
 No one in England can speak anything other than English.
-အင်္ဂလန်မှာ ဘယ်သူမှ အင်္ဂလိပ်ကလွဲလို့ အခြား ဘာမှ မပြောတတ်ဘူး။
+အင်္ဂလန်မှာ ဘယ်သူမှ အင်္ဂလိပ်စကား ကလွဲလို့ အခြား ဘာမှ မပြောတတ်ဘူး။
+# 5/5
 
 9913
 People in England are required to speak more than one language.
-အင်္ဂလန်ရှိလူများသည် ဘာသာစကားတစ်ခုထက်ပို၍ပြောရန်လိုအပ်သည်။
+အင်္ဂလန်ရှိ လူများသည် ဘာသာစကားတစ်ခုထက် ပို၍ပြောတတ်ရန် လိုအပ်သည်။
+# 4/5
 
 9914
 It is easy to add carvings.
-အဲဒါက ပန်းပုရုပ်တွေ ထည့်ရန် လွယ်ကူသည်။
+အဲဒါကို ပန်းပုရုပ်တွေ ထည့်လိုက်ရန် လွယ်ကူသည်။
+# 4/5
 
 9915
 It is easy to make a variation.
-အဲဒါက ကွဲပြားမှုတစ်ခုပြုလုပ်ရန် လွယ်ကူသည်။
+အဲဒါကို ပြောင်းလဲလိုက်ရန် လွယ်ကူသည်။
+# 5/5
 
 9916
 It is hard to make a variation.
-အဲဒါက ကွဲပြားမှုတစ်ခုပြုလုပ်ရန် ခက်ခဲသည်။
+အဲဒါကို ပြောင်းလဲလိုက်ရန် ခက်ခဲသည်။
+# 5/5
 
 9917
 France and Scotland share a treaty known as the Auld Alliance.
-ပြင်သစ်နှင့် စကော့တလန်တို့သည် အော့ဒ်ထ် ဟု လူသိများသော နိုင်ငံအချင်းချင်း တဦးနှင့်တဦး ကူညီထောက်ပံ့ရန်နှင့် ကာကွယ်ပေးရန် သဘောတူညီချက် သဘောတူစာချုပ်တစ်ခုကို မျှ သုံးကြသည်။
+ပြင်သစ်နှင့် စကော့တလန်တို့သည် Auld မဟာမိတ်ဖွဲ့ခြင်းဟု လူသိများသော သဘောတူစာချုပ်တစ်ခုတွင် ပါဝင်ကြသည်။
+# 5/5
 
 9918
 Japan and Sweden are members of the Auld Alliance.
-ဂျပန်နှင့် ဆွီဒင်တို့သည် နိုင်ငံအချင်းချင်း တဦးနှင့်တဦး ကူညီထောက်ပံ့ရန်နှင့် ကာကွယ်ပေးရန် သဘောတူညီချက် အော့ဒ်ထ်၏ အဖွဲ့ဝင်များဖြစ်ကြသည်။
+ဂျပန်နှင့် ဆွီဒင်တို့သည် Auld မဟာမိတ် အဖွဲ့ဝင်များဖြစ်ကြသည်။
+# 5/5
 
 9919
 The Auld Alliance between France and Scotland has been around for hundreds of years.
-ပြင်သစ်နှင့် စကော့တလန်ကြားရှိ နိုင်ငံအချင်းချင်း တဦးနှင့်တဦး ကူညီထောက်ပံ့ရန်နှင့် ကာကွယ်ပေးရန် သဘောတူညီချက် အော့ဒ်ထ် သည် နှစ်ပေါင်းရာနှင့်ချီ၍ ရှိနေပြီဖြစ်သည်။
+ပြင်သစ်နှင့် စကော့တလန်ကြားရှိ Auld မဟာမိတ်အဖွဲ့ သည် နှစ်ပေါင်းရာနှင့်ချီ၍ ရှိနေပြီဖြစ်သည်။
+# 5/5
 
 9920
 Niceness is not solely owned by Western tradition.
-အရည်အသွေးကောင်းဆိုတာ အနောက်တိုင်း အစဉ်အလာက တစ်ဦးတည်း ပိုင်ဆိုင်တာ မဟုတ်ဘူး။
+အရည်အသွေးကောင်းဆိုတာ အနောက်တိုင်း အစဉ်အလာ တစ်ခုတည်းက ပိုင်ဆိုင်တာ မဟုတ်ဘူး။
+# 4/5
 
 9921
 People in the west are far more nice than others.
 အနောက်က လူတွေက တခြားသူတွေထက် ပိုချိုသာတယ်။
+# 5/5
 
 9922
 Western tradition has a monopoly on ugliness.
-အနောက်တိုင်း အစဉ်အလာက အကျည်းတန်မှုအပေါ် တစ်ဦး တည်း ချုပ်ကိုင်မှုစနစ် ရှိသည်။
+အနောက်တိုင်း အစဉ်အလာက အကျည်းတန်မှုအပေါ် တစ်ဦး တည်း ချုပ်ကိုင်မှု ရှိသည်။
+# 4/5
 
 9923
 Most people would not know the origin of the word quark and that it referenced the noise made by a frog.
-လူအများစုသည် ဖားတစ်ကောင်ပြုလုပ်သော ဆူညံသံကို ရည်ညွှန်းသည့် ကွက်ခ် ဟူသော စကားလုံး၏ မူလဇစ်မြစ်ကို မသိကြဘူး။
+လူအများစုသည် ဖားတစ်ကောင်ကထွက်သော အသံကို ရည်ညွှန်းသည့် quark ဟူသော စကားလုံး၏ မူလဇစ်မြစ်ကို မသိကြချေ။
+# 4/5
 
 9924
 The word quark has been listed in dictionaries as a verb defined as the croaking sound made by frogs.
-ကွက်ခ် ဟူသော စကားလုံးကို ဖားများပြုလုပ်သော ဖားအော်သံဟု သတ်မှတ်သော ကြိယာတစ်ခုအဖြစ် အဘိဓာန်များတွင် စာရင်းသွင်းထားသည်။
+quark ဟူသော စကားလုံးကို ဖားတွေအော်သော အသံအက်အက် ဟု သတ်မှတ်သော ကြိယာတစ်ခုအဖြစ် အဘိဓာန်များတွင် စာရင်းသွင်းထားသည်။
+# 4/5
 
 9925
 The word quark is a modern word first invented by scientists in the 1960s.
-ကွက်ခ် ဟူသောစကားလုံးသည် တစ်ထောင်ကိုးရာခြောက်ဆယ် ခုနှစ်များတွင် သိပ္ပံပညာရှင်များ ပထမဆုံးတီထွင်ခဲ့သော ခေတ်မီစကားလုံးတစ်လုံးဖြစ်သည်။
+quark ဟူသောစကားလုံးသည် ၁၉၆၀ ခုနှစ်ပိုင်းတွင် သိပ္ပံပညာရှင်များ ပထမဆုံးတီထွင်ခဲ့သော ခေတ်မီစကားလုံးတစ်လုံးဖြစ်သည်။
+# 5/5
 
 9926
 Banquets and parquet mean the same thing.
 ဂုဏ်ပြုထမင်းစားပွဲနှင့် ပါကေးသည် တူညီသောအရာဟု ဆိုလိုသည်။
+# 4/5
 
 9927
 The dinner party is on linoleum.
 ညစာမိတ်ဆုံစားပွဲက ဖယောင်းပုဆိုးပေါ်မှာ ဖြစ်သည်။
+# 5/5
 
 9928
 The party is not held on hardwoods.
-ပါတီပွဲကို သစ်မာပေါ်မှာ မကျင်းပဘူး။
+ပါတီပွဲကို သစ်သားကြမ်းပြင်ပေါ်မှာ မကျင်းပဘူး။
+# 5/5
 
 9929
 A forest that has never been marred by man's presence is called a virgin forest.
 လူ တစ်ခါမှမရောက်သေးသော သစ်တောတစ်ခုကို အပျိုစင် သစ်တောတစ်ခုဟု ခေါ်သည်။
+# 5/5
 
 9930
 Due to our population, there are few virgin forests still left in the United States.
-ငါတို့ရဲ့လူဦးရေများလာသောကြောင့်၊ အမေရိကန်ပြည်ထောင်စုတွင် အပျိုစင် သစ်တောအနည်းငယ်သာ ကျန်ရှိတော့သည်။
+ကျွန်ုပ်တို့ရဲ့ လူဦးရေများလာသောကြောင့်၊ အမေရိကန်ပြည်ထောင်စုတွင် အပျိုစင် သစ်တောအနည်းငယ်သာ ကျန်ရှိတော့သည်။
+# 5/5
 
 9931
 The newest condo development in the center of the forest won't impact its virgin forest status.
-သစ်တော၏အလယ်ဗဟိုတွင် နောက်ဆုံးပေါ်ကွန်ဒိုတည်ဆောက်မှုကြောင့် ၎င်း၏ အပျိုစင် သစ်တောအခြေအနေအပေါ် မထိခိုက်နိုင်ပါ။
+သစ်တော၏အလယ်ဗဟိုတွင် နောက်ဆုံးပေါ် ကွန်ဒိုတည်ဆောက်မှုကြောင့် ၎င်း၏ အပျိုစင် သစ်တောအခြေအနေအပေါ် မထိခိုက်နိုင်ပါ။
+# 4/5
 
 9932
 Cables are a much more prestigious word than wires whenever in a trade.
-ကြေးနန်းကြိုးများသည် ကုန်သွယ်မှုတစ်ခုလုပ်သည့်အခါတိုင်း ဝိုင်ယာကြိုးများထက် ပို၍ ဂုဏ်သတင်းကြီးသော စကားလုံးတစ်လုံးဖြစ်သည်။
+ကြေးနန်းကြိုးများသည် ကုန်သွယ်မှုတစ်ခုတွင် ဝိုင်ယာကြိုးများထက် ပို၍ တန်ဖိုးရှိသော စကားလုံးတစ်လုံးဖြစ်သည်။
+# 4/5
 
 9933
 No cables or wires care included in the trade for these boxes.
-ဒီသေတ္တာများအတွက် ကုန်သွယ်မှုမှာ ပါဝင်ေသာ ကြေးနန်းကြိုးများ သို့မဟုတ် ဝါယာကြိုးများကို ဂရုမစိုက်ပါ။
+ဒီသေတ္တာများအတွက် ကုန်သွယ်မှု၌ ကြေးနန်းကြိုးများ သို့မဟုတ် ဝါယာကြိုးများ မပါဝင်ပါ။
+# 4/5
+# Assumed care = are
 
 9934
 These boxes can be connected together and powered by cables.
-ဒီသေတ္တာများကို ကြေးနန်းကြိုးများဖြင့် အတူ ချိတ်ဆက်ပြီး မောင်းနှင်နိုင်သည်။
+ဒီသေတ္တာများကို ကြေးနန်းကြိုးများဖြင့် အတူ ချိတ်ဆက်ပြီး ဓါတ်အားပေးနိုင်သည်။
+# 5/5
 
 9935
 The Indians disliked Sir William Johnson.
-အိန္ဒိယလူမျိုးများသည် ဆာ ဝီလျံ ဂျွန်ဆင်ကို မနှစ်သက်ပါ။
+Indian လူမျိုးများသည် ဆာ Sir William Johnson ကို မနှစ်သက်ပါ။
+# 5/5
 
 9936
 The Indians liked Sir William Johnson.
-အိန္ဒိယလူမျိုးများသည် ဆာ ဝီလျံ ဂျွန်ဆင်ကို နှစ်သက်ကြသည်။
+Indian လူမျိုးများသည် Sir William Johnson ကို နှစ်သက်ကြသည်။
+# 5/5
 
 9937
 The Indians showed Sir William Johnson how to plant a garden.
-အိန္ဒိယလူမျိုးများသည် ဆာ ဝီလျံ ဂျွန်ဆင်အား ဥယျာဉ်တစ်ခု ဘယ်လို စိုက်မလဲဆိုတာကို ပြသသည်။
+Indian လူမျိုးများသည် Sir William Johnson အား ဥယျာဉ်တစ်ခု ဘယ်လို စိုက်ရမလဲဆိုတာကို ပြသသည်။
+# 5/5
 
 9938
 I can still consume six more scotches.
-နောက်ထပ် စကော့တလန်ဝီစကီ ခြောက်ခွက် ကုန်နိုင်သေးတယ်။
+ငါ နောက်ထပ် စကော့တလန်ဝီစကီ ခြောက်ခွက် သောက်နိုင်သေးတယ်။
+# 5/5
 
 9939
 I only have room for one more glass of scotch.
-နောက်ထပ် စကော့တလန်ဝီစကီ တစ်ခွက်အတွက် ငါ့မှာ အခန်းပဲရှိတယ်။
+ငါ နောက်ထပ် စကော့တလန်ဝီစကီ တစ်ခွက်ပဲ သောက်နိုင်မယ်။
+# 5/5
 
 9940
 Six more scotches on the rocks will do just fine.
-ကျောက်တုံးကြီးများပေါ်မှ နောက်ထပ် စကော့တလန်ဝီစကီ ခြောက်ခွက် သည် ကောင်းကောင်းလုပ်ဆောင်မည်။
+နောက်ထပ် ရေမရောသော စကော့တလန်ဝီစကီ ခြောက်ခွက် အတွက် အဆင်ပြေသေးသည်။
+# 4/5
 
 9941
 The building does not have a nickname.
-အဆောက်အဦတွင် ချစ်စနိုးခေါ်သော နာမည် တစ်ခု မရှိပါ။
+အဆိုပါ အဆောက်အဦးတွင် ချစ်စနိုးနာမည် တစ်ခု မရှိပါ။
+# 5/5
 
 9942
 The building is haunted.
-အဆောက်အဦက သရဲခြောက်တယ်။
+အဆိုပါ အဆောက်အဦးမှာ သရဲခြောက်တယ်။
+# 5/5
 
 9943
 The building is nicknamed Il Colossea Quadrato.
-အဆောက်အအုံကို အီလာ ခိုလိုစီးယား ကွာဒရာတို ဟု ချစ်စနိုးခေါ်သည်။
+အဆောက်အအုံကို Il Colossea Quadrato ဟု ချစ်စနိုးခေါ်သည်။
+# 5/5
 
 9944
 No one answered the caller.
-ဖုန်းခေါ်ဆိုသူကို မည်သူမှ ဖြေကြားခြင်းမရှိဘူး။
+ဖုန်းခေါ်ဆိုသူကို မည်သူမှ ဖြေကြားခြင်းမရှိပါ။
+# 5/5
 
 9945
 The caller was so glad someone was there to listen.
-ဖုန်းခေါ်ဆိုသူသည် အဲဒီမှာ နားထောင်ရန် တစ်စုံတစ်ဦးရှိ၍ ဝမ်းမြောက်မိသည်။
+ဖုန်းခေါ်ဆိုသူသည် နားထောင်ရန် တစ်စုံတစ်ဦး  အဲဒီမှာရှိနေ၍ ဝမ်းမြောက်မိသည်။
+# 5/5
 
 9946
 The caller was thankful.
-ဖုန်းခေါ်ဆိုသူသည် ကျေးဇူးတင်သည်။
+ဖုန်းခေါ်ဆိုသူက ကျေးဇူးတင်သည်။
+# 5/5
 
 9947
 We are continuously surprised by Dr. Richards.
-ဒေါက်တာ ရစ်ချက်ထ် က ငါတို့ကို ဆက်တိုက် အငိုက်ဖမ်းတယ်။
+ဒေါက်တာ Richards က ငါတို့ကို ဆက်တိုက် အငိုက်ဖမ်းတယ်။
+# 5/5
 
 9948
 We howled with laughter when we heard Dr. Richards' latest news.
-ဒေါက်တာ ရစ်ချက်ထ် ၏ နောက်ဆုံးသတင်းကို ငါတို့ ကြားရသောအခါ ငါတို့ ရယ်ရယ်မောမော အော်ဟစ်လိုက်ကြသည်။
+ဒေါက်တာ Richards ၏ နောက်ဆုံးသတင်းကို ကြားလိုက်ရသောအခါ ငါတို့ အော်ဟစ် ရယ်မောလိုက်ကြသည်။
+# 5/5
 
 9949
 We've never heard of Dr. Richards or his ideas.
-ဒေါက်တာ ရစ်ချက်ထ် သို့မဟုတ် သူ့ရဲ့အကြံဉာဏ်များကို ငါတို့ ဘယ်တော့မှ မကြားဖူးဘူး။
+ဒေါက်တာ Richards သို့မဟုတ် သူ့ရဲ့အကြံဉာဏ်များကို ငါတို့ ဘယ်တော့မှ မကြားဖူးဘူး။
+# 4/5
 
 9950
 A slow and painful urine stream was the precursor.
 နှေးကွေးပြီး နာကျင်သော ဆီးစီးကြောင်းတစ်ခုသည် ရှေ့ပြေးနိမိတ်ဖြစ်သည်။
+# 4/5
 
 9951
 Only after the relevant strangury did urination become free and flowing.
-ဆက်စပ်သော ဆီးအောင့်ရောဂါ သည် ဆီးသွားပြီးနောက်မှသာ လွတ်လပ်ပြီး စီးဆင်းလာပါသည်။
+ဆက်စပ်သော ဆီးအောင့်ခြင်းဖြစ်ပြီးမှသာ ဆီးသွားရတာ လွတ်လပ်ပြီး စီးဆင်းလာပါသည်။
+# 4/5
 
 9952
 Strangury preceded the sexually transmitted disease.
-ဆီးအောင့်ရောဂါ သည် လိင်မှတဆင့်ကူးစက်သောရောဂါ ရှေ့ပြေးလက္ခဏာ ဖြစ်သည်။
+ဆီးအောင့်ခြင်း သည် လိင်မှတဆင့်ကူးစက်သောရောဂါ၏ ရှေ့ပြေးလက္ခဏာ ဖြစ်သည်။
+# 5/5
 
 9953
 Lover had a target on his head and thus had to hide between the rocks.
-လပ်ဗားသည် သူ့ခေါင်းပေါ်မှာ ပစ်မှတ်တစ်ခုရှိနေတယ်ဆိုတော့ ကျောက်တုံးများကြားတွင် ပုန်းနေသည်။
+Lover သည် သူ့ခေါင်းပေါ်မှာ ပစ်မှတ်တစ်ခုရှိနေတယ်ဆိုတော့ ကျောက်တုံးများကြားတွင် ပုန်းလိုက်ရသည်။
+# 4/5
 
 9954
 Lover was on the run from the law who wanted him dead.
-လပ်ဗားသည် သူ့ကိုသေစေလိုသော ဥပဒေမှ ပြေးနေသည်။
+Lover သည် သူ့ကိုသေစေလိုသော ဥပဒေမှ ပြေးနေသည်။
+# 4/5
 
 9955
 The rancher named Lover hid in a grassy area while planning his murder rampage.
-လပ်ဗား ဟု အမည်ပေးထားသည့် မွေးမြူရေးခြံရှင်သည် သူ၏လူသတ်ဆူပူရမ်းကားမှုကို စီစဉ်နေစဉ် မြက်ခင်းပြင်တွင် ပုန်းရှောင်သည်။
+Lover ဟု အမည်ရသည့် မွေးမြူရေးခြံရှင်သည် မြက်ခင်းပြင်တွင် ပုန်းနေခဲ့ရင်း လူသတ်ရမ်းကားမှုကို စီစဉ်သည်။
+# 5/5
 
 9956
 Via della Scrofa is a sculpture.
-ဗီယာ ဒယ်လာ စခရိုဖာ သည် ပန်းပုရုပ်တုတစ်ခုဖြစ်သည်။
+Via della Scrofa သည် ပန်းပုရုပ်တုတစ်ခုဖြစ်သည်။
+# 5/5
 
 9957
 Via della Scrofa is named after a town.
-ဗီယာ ဒယ်လာ စခရိုဖာ ဟု မြို့ကို အမည်ပေးထားသည်။
+Via della Scrofa ကို မြို့တစ်မြို့နှင့်ဆက်စပ်ပြီး အမည်ပေးထားသည်။
+# 5/5
 
 9958
 Via della Scrofa is named after another sculpture.
-ဗီယာ ဒယ်လာ စခရိုဖာ ဟု အခြားသော ပန်းပုရုပ်ထု ကို အမည်ပေးထားသည်။
+Via della Scrofa ကို အခြား ပန်းပုရုပ်ထု တစ်ခုနှင့်ဆက်စပ်ပြီး အမည်ပေးထားသည်။
+# 5/5
 
 9959
 I keep speeches the same.
-ငါ မိန့်ခွန်းတွေကို ဒီအတိုင်းပဲ သိမ်းထားတယ်။
+ငါ မိန့်ခွန်းတွေကို မပြောင်းလဲဘူး။
+# 5/5
 
 9960
 I reedit speeches for my job.
-ငါ မိန့်ခွန်းတွေကို င့ါအလုပ်အတွက် ပြန်လည်တည်းဖြတ်တယ်။
+ငါ့ အလုပ်အတွက် မိန့်ခွန်းတွေကို ပြန်လည်တည်းဖြတ်တယ်။
+# 5/5
 
 9961
 I reedit speeches.
 ငါ မိန့်ခွန်းတွေကို ပြန်လည်တည်းဖြတ်တယ်။
+# 5/5
 
 9962
 Schools use Webster's COllege because it is the best.
-ကျောင်းများသည် ဝက်ဘ်စတား ကောလိပ်ကို အကောင်းဆုံးဖြစ်သောကြောင့် အသုံးပြုသည်။
+ကျောင်းများသည် Webster's COllege ကို အကောင်းဆုံးဖြစ်သောကြောင့် အသုံးပြုသည်။
+# 5/5
 
 9963
 There is more information in the Webster's College than New World.
-နယူးဝေါ်လ် ထက် ဝက်ဘ်စတား ကောလိပ် မှာ သတင်း အချက်အလက်များ ပိုများသည်။
+New World ထက် Webster's College မှာ သတင်း အချက်အလက်များ ပိုများသည်။
+# 5/5
 
 9964
 Webster's College is missing way more information than the other books.
-ဝက်ဘ်စတား ကောလိပ် သည် အခြားစာအုပ်များထက် သတင်း အချက်အလက်များ ပိုမိုပျောက်ဆုံးနေသည်။
+Webster's College သည် အခြားစာအုပ်များထက် သတင်း အချက်အလက်များ ပိုမိုပျောက်ဆုံးနေသည်။
+# 5/5
 
 9965
 Our vocabulary does not have a linguistic process.
 ငါတို့၏ ဝေါဟာရမှာ ဘာသာစကားဆိုင်ရာ လုပ်ငန်းစဉ် တစ်ခု မရှိဘူး။
+# 4/5
 
 9966
 Our vocabulary has a linguistic process.
-ငါတို့၏ဝေါဟာရမှာ ဘာသာစကားဆိုင်ရာ လုပ်ငန်းစဉ်တစ်ခု ရှိသည်။
+ငါတို့၏ ဝေါဟာရမှာ ဘာသာစကားဆိုင်ရာ လုပ်ငန်းစဉ်တစ်ခု ရှိသည်။
+# 4/5
 
 9967
 Our vocabulary is expanding.
-ငါတို့၏ ဝေါဟာရသည် ကျယ်ပြန့်လာသည်။
+ငါတို့၏ ဝေါဟာရသည် ကျယ်ပြန့်နေသည်။
+# 4/5
 
 9968
 Prisoners created stories.
 အကျဉ်းသားတွေက ဇာတ်လမ်းတွေကို ဖန်တီးတယ်။
+# 5/5
 
 9969
 Prisoners created them.
 အကျဉ်းသားတွေက သူတို့ကို ဖန်တီးတယ်။
+# 5/5
 
 9970
 Prisoners did not create them.
 အကျဉ်းသားတွေက သူတို့ကို မဖန်တီးဘူး။
+# 5/5
 
 9971
 My sister is a nun and has never dated a man.
 ငါ့ အစ်မက သီလရှင်တစ်ပါးဖြစ်ပြီး ယောက်ျားတစ်ယောက် နဲ့ ဘယ်တော့မှ မချိန်းတွေ့ဖူးဘူး။
+# 5/5
 
 9972
 My sister used to date a fan of the University of Iowa sports teams, which are called the Hawkeyes.
-ကျွန်တော့်ညီမသည် ဟောကိုင်း ဟုခေါ်သော အိုင်အိုဝါတက္ကသိုလ်၏ အားကစားအသင်းပရိသတ်တစ်ဦးနှင့် ချိန်းတွေ့ဖူးသည်။
+ကျွန်တော့်ညီမသည်  Hawkeyes ဟုခေါ်သော Iowa တက္ကသိုလ်၏ အားကစားအသင်း ပရိသတ်တစ်ဦးနှင့် ချိန်းတွေ့ဖူးသည်။
+# 5/5
 
 9973
 The young man my sister was dating felt obligated to be a Hawkeyes fan because he worked for the University of Iowa.
-ကျွန်တော့်ညီမနှင့်ချိန်းတွေ့နေသည့် လူငယ်သည် သူက အိုင်အိုဝါတက္ကသိုလ်မှာ အလုပ်လုပ်သောကြောင့် ဟောကိုင်း ပရိသတ်တစ်ဦးဖြစ်ရန် တာဝန်ရှိသည်ဟု ခံစားခဲ့ရသည်။
+ကျွန်တော့်ညီမနှင့်ချိန်းတွေ့နေသည့် လူငယ်သည် Iowa တက္ကသိုလ်မှာ အလုပ်လုပ်ခဲ့သောကြောင့် Hawkeyes ကို အားပေးရန် တာဝန်ရှိသည်ဟု ခံစားခဲ့ရသည်။
+# 5/5
 
 9974
 English is badly in need of additional exotic words.
-အင်္ဂလိပ်စာသည် ထူးခြားဆန်းပြားသော အပိုစကားလုံးများ ဆိုးရွားစွာ လိုအပ်နေပါသည်။
+အင်္ဂလိပ်စာသည် ထူးခြားဆန်းပြားသော အပိုစကားလုံးများ အလွန်အမင်း လိုအပ်နေပါသည်။
+# 4/5
 
 9975
 Experts have identified fifty different words that should not be part of the language.
-ကျွမ်းကျင်သူများသည် ဘာသာစကား၏အစိတ်အပိုင်းမဖြစ်သင့်သော မတူညီသည့် စကားလုံးငါးဆယ်ကို ဖော်ထုတ်ကြသည်။
+ကျွမ်းကျင်သူများသည် ဤဘာသာစကား တွင် မပါဝင်သင့်သော မတူညီသည့် စကားလုံးငါးဆယ်ကို ဖော်ထုတ်ခဲ့ကြသည်။
+# 5/5
 
 9976
 There are many English words that should be removed from the language.
-ဘာသာစကားမှ ဖယ်ရှားသင့်သော အင်္ဂလိပ်စကားလုံးများစွာ ရှိပါသည်။
+ဤဘာသာစကားမှ ဖယ်ရှားသင့်သော အင်္ဂလိပ်စကားလုံးများစွာ ရှိပါသည်။
+# 4/5
 
 9977
 John Burke dislikes Boswell.
-ဂျွန် ဘာ့ခ် သည် ဘာ့စ်ဝဲလ် ကိုမကြိုက်ပါ။
+John Burke သည် Boswell ကို သဘောမကျပါ။
+# 5/5
 
 9978
 John Burke ignores accounts.
-ဂျွန် ဘာ့ခ် သည် ငွေစာရင်းများကို လျစ်လျူရှုသည်။
+John Burke သည် ငွေစာရင်းများကို လျစ်လျူရှုသည်။
+# 5/5
 
 9979
 John Burke reviews accounts.
-ဂျွန် ဘာ့ခ် သည် ငွေစာရင်းများကို ပြန်လည်သုံးသပ်သည်။
+John Burke သည် ငွေစာရင်းများကို ပြန်လည်သုံးသပ်သည်။
+# 5/5
 
 9980
 Inglish is different from English.
-အင်္ဂလိပ်သည် အင်္ဂလိပ်စာနှင့် ကွဲပြားသည်။
+Inglish သည် English နှင့် ကွဲပြားသည်။
+# 5/5
 
 9981
 Inglish is harder than English.
-အင်္ဂလိပ်စက အင်္ဂလိပ်စာထက် ပိုခက်သည်။
+Inglish က အင်္ဂလိပ်စာ ထက် ပိုခက်သည်။
+# 5/5
 
 9982
 Inglish is the same as English.
-အင်္ဂလိပ် သည် အင်္ဂလိပ်စာနှင့် အတူတူဖြစ်သည်။
+Inglish သည် အင်္ဂလိပ်စာနှင့် အတူတူဖြစ်သည်။
 
 9983
 New etymologies are really delicate to introduce.
@@ -332,7 +464,7 @@ New etymologies are really delicate to introduce.
 
 9984
 You can just propose a new etymology whenever youw ant.
-မင်းလိုသည့်အခါတိုင်း ဝေါဟာရသမိုင်းအသစ်တစ်ခုကိုသာ မင်း အဆိုပြုနိုင်သည်။
+မင်းလိုသည့်အခါတိုင်း ဝေါဟာရသမိုင်းအသစ်တစ်ခုကိုသ ာ မင်း အဆိုပြုနိုင်သည်။
 
 9985
 You hae to be careful when you think of a new etymology.
@@ -340,61 +472,75 @@ You hae to be careful when you think of a new etymology.
 
 9986
 It has been a month since the election.
-အဲဒါ ရွေးကောက်ပွဲကတည်းက တစ်လရှိပြီ။
+ရွေးကောက်ပွဲ လုပ်ကတည်းက တစ်လရှိပြီ။
+# 5/5
 
 9987
 It has been a month since the presidential election.
-အဲဒါ သမ္မတရွေးကောက်ပွဲကတည်းက တစ်လရှိပြီ။
+သမ္မတရွေးကောက်ပွဲ လုပ်ကတည်းက တစ်လရှိပြီ။
+# 5/5
 
 9988
 It has been only a week since the election.
-အဲဒါ ရွေးကောက်ပွဲကတည်းက တစ်ပတ်သာရှိသေးတယ်။
+ရွေးကောက်ပွဲလုပ်ကတည်းက တစ်ပတ်သာရှိသေးတယ်။
+# 5/5
 
 9989
 Fiesty began as fisten.
-စိတ်ပြင်းပြခြင်းသည် လက်သီးဆုပ် အဖြစ် စတင်သည်။
+Fiesty သည် fisten အဖြစ် စတင်ခဲ့သည်။
+# 5/5
 
 9990
 Fiesty has been around for 100 years.
-စိတ်ပြင်းပြခြင်းသည် နှစ် တစ်ရာ ဝန်းကျင်ရှိပြီဖြစ်သည်။
+Fiesty ရှိနေတာ နှစ်တစ်ရာ ဝန်းကျင်ရှိပြီဖြစ်သည်။
+# 5/5
 
 9991
 Fiesty is unrelated to fisten.
-စိတ်ပြင်းပြခြင်းသည် သည် လက်သီးဆုပ် နှင့်မသက်ဆိုင်ပါ။
+Fiesty သည် fisten နှင့်မသက်ဆိုင်ပါ။
+# 5/5
 
 9992
 Statement gives more details.
-ထုတ်ပြန်ချက်တွင် အသေးစိတ်အချက်အလက်များကို ပို၍ပေးသည်။
+ထုတ်ပြန်ချက်က အသေးစိတ်အချက်အလက်များကို ပို၍ပေးသည်။
+# 4/5
 
 9993
 Statement is not better.
 ထုတ်ပြန်ချက်က ပိုမကောင်းဘူး။
+# 5/5
 
 9994
 Statement is preferable.
 ထုတ်ပြန်ချက်က ပိုကောင်းပါတယ်။
+# 5/5
 
 9995
 Davidson does not believe scone and bone should rhyme.
-ဒေးဗစ်ဆန်န်သည် နို့ပေါင်မုန့်လုံးနှင့် အရိုးကို ကာရန်မိသင့်သည်ဟု မယုံကြည်ဘူး။
+Davidson သည် scone နှင့် bone ကို ကာရံမိသင့်သည်ဟု မထင်ဘူး။
+# 4/5
 
 9996
 Davidson shouldn't talk in a way where bone and scone sound the same.
-ဒေးဗစ်ဆန်သည် အရိုးနှင့်နို့ပေါင်မုန့်လုံးကို အသံတူညီသည့်နည်းလမ်းတစ်ခုဖြင့် စကားမပြောသင့်ဘူး။
+Davidson သည် bone နှင့် scone ကို အသံထွက်ညီ သည့်နည်းလမ်းတစ်ခုဖြင့် စကားမပြောသင့်ဘူး။
+# 4/5
 
 9997
 It would be better if Davidson rhymed the words scone and bone.
-ဒေးဗစ်ဆန်သည် နို့ပေါင်မုန့်လုံးနှင့် အရိုး ဟူသော စကားလုံးများကို ကာရန်မိလျှင် အဲဒါက ပိုကောင်းပါသည်။
+Davidson သည် scone နှင့် bone ဟူသော စကားလုံးများကို ကာရံမိလျှင် ပိုကောင်းပါသည်။
+# 4/5
 
 9998
 A 200,000 word novel at $25 is a fair price.
 စကားလုံး ၂၀၀၀၀၀ ရှိသောဝတ္ထုတစ်ပုဒ်ကို ၂၅ ဒေါ်လာဆိုသည်မှာ သင့်တင့်သောစျေးနှုန်းတစ်ခုဖြစ်သည်။
+# 5/5
 
 9999
 A 200,000 word novel for $25 is 4,000 words per dollar.
-၂၅ ဒေါ်လာရှိသော စကားလုံး၂၀၀၀၀၀ရှိသည့်ဝတ္ထုတစ်ပုဒ်သည် တစ်ဒေါ်လာလျှင် စကားလုံး ၄၀၀၀ ဖြစ်သည်။
+စကားလုံး ၂၀၀၀၀၀ ရှိသည့်ဝတ္ထုတစ်ပုဒ်သည် ၂၅ ဒေါ်လာရှိလျှင် တစ်ဒေါ်လာလျှင် စကားလုံး ၄၀၀၀ ဖြစ်သည်။
+# 4/5
 
 10000
 A 200,000 word novel for $25 is 8,000 words per dollar.
-၂၅ ဒေါ်လာရှိသော စကားလုံး၂၀၀၀၀၀ရှိသည့်ဝတ္ထုတစ်ပုဒ်သည် တစ်ဒေါ်လာလျှင် စကားလုံး ၈၀၀၀ ဖြစ်သည်။
-
+စကားလုံး ၂၀၀၀၀၀ ရှိသည့်ဝတ္ထုတစ်ပုဒ်သည် ၂၅ ဒေါ်လာရှိလျှင်  တစ်ဒေါ်လာလျှင် စကားလုံး ၈၀၀၀ ဖြစ်သည်။
+# 4/5
