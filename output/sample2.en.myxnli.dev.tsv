@@ -1,0 +1,101 @@
+label	sentence1	sentence2	new_label	
+neutral	The same is true of the sense of nationhood.	The sense of nationhood depends on how well the economy is run.	
+contradiction	The same is true of the sense of nationhood.	This is applicable everywhere else save for the sense of nationhood.	
+neutral	A renowned proponent of Mexican Spanish folklore in the Southwest and California was Charles F. Lummis (1859-1928), a self-taught photographer, ethnologist, musicologist, journalist, and the founder of the Southwest Museum in Los Angeles.	Charles F. Lummis was funny.	
+neutral	That can be our control tower,  he suggests to Vance, pointing to a corner by a bookshelf.	Kids are playing with toy planes.	
+contradiction	If the initial expansion is exponential, then slows to linear, as in the inflationary hypothesis or perhaps in this purely quantum approach, then the particle-horizon problem may disappear.	The particle-horizon problem is always there, regardless of the initial expansion model.	
+contradiction	In San Antonio the performance of Los Pastores at Our Lady of Guadalupe Church as been ongoing since 1913.	The performance never occurs in San Antonio.	
+entailment	In San Antonio the performance of Los Pastores at Our Lady of Guadalupe Church as been ongoing since 1913.	The performance stopped in 1987.	
+contradiction	Of course, if we could not solve our chosen ways to make livings, we would be dead.	Humans can always survive any situation, even when they are not making a living.	
+entailment	Economic growth is part and parcel of the creativity of the universe as a whole.	One cannot separate economic growth from the universe.	
+neutral	Limpiar means to clean and a limpia is similar to a barrida.	Although barrida and limpia are similar, there are many things that distinguish them from each other.	
+entailment	As we will see, in both cases, it appears that something profound is going on in the universe that is not finitely prestatable.	It looks as though something profound in going on in the universe.	
+entailment	On Christmas Day children went knocking on doors and visiting homes, asking for and receiving candy or small toys.	Children did not stay indoors on Christmas Day.	
+entailment	Could statistical averaging be the source of order in organisms?	It is clear that there is order in organisms.	
+neutral	Could statistical averaging be the source of order in organisms?	There is a theory that statistical averaging is the source of order in organisms.	
+entailment	Clearly today's children spend far too many hours in front of the TV set, a circumstance that restricts time available for joint parent-child activities, play, reading, and other worthwhile pursuits.	Today's children have access to TV, and they spend a lot of time watching it.	
+neutral	15 The commander wants us to do something, and has used the language of the law to move us toward action.	If it weren't for the law, we would have disobeyed the commander.	
+entailment	15 The commander wants us to do something, and has used the language of the law to move us toward action.	The commander has found a way to make us do what he wants us to do.	
+entailment	Relajo can also describe a joking relationship, a bantering back and forth, which through the laughter relieves tension and disintegrates the cause of the tension of the moment.	Relajo told jokes.	
+neutral	La Vida de un Bato Loco,  written by an informant of Linda Katz and reproduced in her work, provides a good example of the literary uses of cale.	Katz narced on the drug trade.	
+entailment	The disputes took on the tones of class struggle.	They fought about the poor vs the rich.	
+entailment	That is why we feel cheated by hollow walls, flimsy doors, and shaky balustrades.	We are not happy with hollow walls and flimsy doors.	
+neutral	He turned in appeal to Lord Julian.	He wanted to ask Lord Julian to spare his wife.	
+neutral	Jeremy Pitt answered the laugh with an oath.	Jeremy Pitt swore to fight for his country and his queen.	
+neutral	Pitt, who watched the scene from the quarter-deck rail, tells us that his lordship was as grave as a parson at a hanging.	Pitt had never seen his lordship as grave as he was then.	
+neutral	He was allowed plainly to perceive that it was the graceful, elegant young trifler from St. James's, Lord Julian Wade, to whom her every moment was devoted.	She and Lord Julian Wade shared a kiss last night.	
+contradiction	He was allowed plainly to perceive that it was the graceful, elegant young trifler from St. James's, Lord Julian Wade, to whom her every moment was devoted.	She is infatuated with Lord Julian Wade, despite his bumbling nature.	
+neutral	Mary Traill would tell you of it.	Mary Traill can tell you about the donkey.	
+neutral	There's a gallows waiting for this rascal in Port Royal.   Blood would have intervened at that, but Lord Julian forestalled him.	Lord Julian's domain includes Port Royal, a trade city that is a hub of activity in the region.	
+contradiction	Will you cease your blather of mutiny and treason and courts-martial?   Blood put on his hat, and sat down unbidden.	Blood put on his hat, and left the room without saying anything.	
+contradiction	I have sent for you, Captain Blood, because of certain news that has just reached me.	I have not heard any news, Captain Blood. Have you?	
+entailment	Why do you run, then?  she asked him coolly, standing slim and straight before him, all in white and very maidenly save in her unnatural composure.	She was dressed in white when she asked: Why do you run, then?.	
+neutral	Thoughtfully he stroked his golden beard.	He had been growing his beard for years.	
+contradiction	Thoughtfully he stroked his golden beard.	His face was clean-shaven.	
+entailment	It was she now who was on her defence, her voice quivering with indignation.	The woman was angry and defensive.	
+contradiction	It was she now who was on her defence, her voice quivering with indignation.	The woman was so delighted that she was speechless!	
+entailment	Life can be infernally complex,  he sighed.	He let out a sign of resignation.	
+contradiction	Wolverstone squared himself defiantly before his captain   I'll see Colonel Bishop in hell or ever I lies to for him.  And he spat, presumably for purposes of emphasis.	Wolverstone and Colonel Bishop were close friends.	
+contradiction	It is an honourable service.	It isn't an honorable service at all, it's very embarrassing!	
+entailment	He looked up in surprise, and then sat conning her with brooding glance.	He was surprised by her.	
+contradiction	He had been a fortnight in Port Royal, his ship virtually a unit now in the Jamaica squadron.	He had never been to Port Royal.	
+entailment	There's a thorn or two left on me.  And with a laugh Blood departed to his cabin.	Blood had been inside his cabin.	
+entailment	That was in Bridgetown on the night of the Spanish raid.	The Spanish raid was done at night.	
+contradiction	Her presence at this moment, and considering the nature of his altercation with Wolverstone, was embarrassing.	Wolverstone never got into a dispute with her.	
+entailment	Out of the tail of his single eye he had espied a trim figure in grey silk that was ascending the companion.	He has only one eye.	
+entailment	Since when have you commanded on the main deck, Ogle? I take my orders from the Captain.	Ogle had attempted to give orders as though he were the Captain.	
+neutral	Since when have you commanded on the main deck, Ogle? I take my orders from the Captain.	The Captain of the ship was feeling rather ill.	
+neutral	Besides, how could their staying have helped me?  And as Pitt did not answer him:  Ye see?  he said, and shrugged.	He told them that he could see it but it was not a big deal in the end.	
+neutral	I can't think that it would make the least difference if he did,  said his lordship gravely.	His choice was between buying 12 chickens or 3 oxen.	
+contradiction	Ah, now, can't ye, indeed?  he cried.	He never posed a question as he remained silent.	
+entailment	If anything it increased his excitement.	It made him more excited.	
+entailment	I'll not be bubbled by what Wolverstone has said.	Wolverstone had said something that did not make one feel bubbled.	
+entailment	He sought comfort in a line on the open page before him:     levius fit patientia quicquid corrigere est nefas.   Sought it, but hardly found it.	There was some foreign language in the pages before him.	
+contradiction	See it manned for me.	See that no one mans it for me.	
+neutral	Ha!  Wolverstone vented an ejaculation of sneering mirth.	Wolverstone thought that was funny.	
+neutral	Behind the South American area you'll find the Perfume Factory, where you can create your own personal fragrance.	The Perfume Factory has been in production since 1954.	
+neutral	There the scene is less relaxed and the language problem might daunt you, but at least you'll be able to catch a glimpse of Chinese consumer society.	It is a good idea to have a translator with you.	
+entailment	There the scene is less relaxed and the language problem might daunt you, but at least you'll be able to catch a glimpse of Chinese consumer society.	There is a language problem that might intimidate you.	
+contradiction	Between 1936 and 1940 Greece was under the military dictatorship of Ioannis Metaxas, remembered for the resounding echi ( no ) he gave in reply to Mussolini's ultimatum to surrender in 1940.	Greece has never been ruled by a military dictator.	
+entailment	Between 1936 and 1940 Greece was under the military dictatorship of Ioannis Metaxas, remembered for the resounding echi ( no ) he gave in reply to Mussolini's ultimatum to surrender in 1940.	Greece is one of the countries in the world that has had a dictator.	
+neutral	The simplicity of Sant Pau's Romanesque lines is an agreeable change from the extravagance of Barcelona's modernisme and the intricacies of Gothic architecture.	Sant Pau has churches.	
+contradiction	An extensive program of refurbishment is due to be finished by late 2001.	The refurbishment program will end before the year 2001 begins.	
+neutral	An extensive program of refurbishment is due to be finished by late 2001.	When the refurbishment program ends, it will have lasted five years.	
+entailment	Singel was once the outer barrier for the medieval city, but as the city expanded, Herengracht (Gentleman's Canal), Keizersgracht (Emperor's Canal), and Prinsengracht (Princes' Canal) enlarged the web.	Singel was an outer barrier.	
+contradiction	The third member of the Hindu  trinity  is Brahma, whose only task was to create the world.	Brahma is a Christian apostle.	
+neutral	The third member of the Hindu  trinity  is Brahma, whose only task was to create the world.	Brahma is the most important part of the trinity.	
+entailment	A few hundred heroic troops under Leonidas of Sparta delayed the enormous Persian army at the pass of Thermopylae long enough for the Athenians to be evacuated to the island of Salamis.	The Spartans delayed the Persian army at Thermopylae.	
+entailment	The massive courtyards and pavilions above Yongle's burial chambers have been restored, and they house some of the Ming Tombs' excavated treasures, including imperial armor.	Some of the antiques are shown.	
+entailment	In the center of the square is Joachim Schmettau's granite Weltkugelbrunnen (or Fountain of the World), which locals have gaily christened the  aquatic dumpling.	Weltkugelbrunnen is made of granite.	
+contradiction	Louisa May Alcott and Nathaniel Hawthorne resided on Pinckney Street, while Beacon Street which Oliver Wendell Holmes dubbed  the sunny street that holds the sifted few  boasted historian William Prescott.	Hawthorne lived on Main Street.	
+contradiction	A little way along from Boot you'll find the terminus of the Ravenglass and Eskdale Railway, or  La'al Ratty,  as it's affectionately known.	Boot is very far from all of the railways.	
+contradiction	Its entrance is guarded by two 14th-century towers reamainaing from the town's fortifications.	There is only one tower and it's brand new.	
+entailment	702/369-1540) the oldest coffeehouse in Las Vegas and, according to some, still the best in all its Bohemian glory.	There's one coffee house in Vegas that's older than the rest.	
+contradiction	The acoustics inside the tomb are very precise, exaggerating the sound of your approaching fellow visitors.	The acoustics are just a mess in that place.	
+entailment	The acoustics inside the tomb are very precise, exaggerating the sound of your approaching fellow visitors.	The acoustics make things loud.	
+neutral	Nearer to Syntagma, in Koloktroni Square, is the National Historical Museum with a collection of artifacts dating from post-Classical times.	The National Historical Museum has some old farm equipment.	
+contradiction	At the outbreak of war, Canada's reputation for welcoming immigrants and refugees from all over the world was tarnished by the blocking of Communists and Jews from Hitler's Germany.	Canada has never welcomed refugees.	
+contradiction	Also check out Star Computer City in the Star House near the Star Ferry terminal.	Computer CIty is not located in the Star House.	
+entailment	Just a few blocks in back of the malecen are a growing collection of unique clubs with a more urban edge.	The growing collection of clubs are unique and have a more urban edge.	
+entailment	Detour to see the mansion designed by McKim Mead	McKim Mead designed the mansion.	
+neutral	You will find the Brehan Museum (dedicated to Art Deco and Art Nouveau) in a former infantry barracks opposite the Egyptian museum.	The museum is across the street from the Egyptian museum.	
+neutral	On weekends you can join the locals in the Parque de Palapas, where the strains of rock, salsa, and folk music can blend together into a bewildering cacophony.	The Parque de Palapas is where people have barbecues all the time.	
+neutral	Henceforth, national unity always played second fiddle to ethnic, religious, and above all economic regional interests.	National unity is more important than everything else combined.	
+neutral	The jagged ridges of Montserrat rise out of the rather featureless Llobregat plain 62 kilometers (38 miles) northwest of Barcelona, in the very heart of Catalonia.	The Mountesserat mountains are the tallest in the area.	
+contradiction	Special coupons are handed out aggressively on the beaches during the day, in hopes of luring the biggest crowd that night.	Coupons are given out on the beach at night, hoping for customers the next day.	
+entailment	Special coupons are handed out aggressively on the beaches during the day, in hopes of luring the biggest crowd that night.	Coupons are given out on the beach, hoping to attract customers at night.	
+contradiction	Between the island and the mainland is Laguna Nichupte, a huge seawater lagoon bounded by mangrove swamps that are havens to numerous species of wildlife.	Lagun Nichupte is a desert.	
+contradiction	Just so long as you don't object to being shown up by the resident ten-year-old experts.	The ten year olds are idiots.	
+entailment	Continuing east, you pass the unprepossessing modern faaade of the Komische Oper, one of Berlin's most important opera companies.	The Komische Oper is in Germany.	
+entailment	At night there are many good restaurants, clubs, and theaters to enjoy, and by day there is the glorious beach, complete with an amusement pier, antique carousel, and the nearby shopping arcades.	There are a lot of place to go both day and night.	
+neutral	Beside the cruise port is Flag Hill, rising 700 ft (214 m) above sea level.	Flag Hill his very high compared to the rest of town.	
+contradiction	s great historic moment came in 1864, when its capital, Charlottetown, hosted a meeting of Maritime leaders with delegates from Ontario and Quebec to chart the path to Canada's federal status as a united dominion.	Charlottetown was most famous in 2019.	
+neutral	There are also plenty of venues for more  risque  or avant-garde performances.	There are places that have strip tease shows.	
+entailment	There are also plenty of venues for more  risque  or avant-garde performances.	There are places to that have adult performances.	
+contradiction	Ask your travel agency or the Berlin tourist office for details of upcoming programs, and book in advance where possible.	You can just book when you are there.	
+neutral	Without doubt, the initial lure of the city is its numerous historic buildings.	The city also has a university and a harbor that are interesting.	
+entailment	Without doubt, the initial lure of the city is its numerous historic buildings.	There are many historical buildings that are interesting.	
+contradiction	Executives could also receive a rating of provisional or fail for each element.	Executives can't fail.	
+neutral	A subject that is discussed during the entry interview is the household's reaction to advertising mail.	Disagreeing in the entry interview won't get you the job.	
+contradiction	189 and the user costs are estimated in the same way.	They knew the exact user costs.	
+contradiction	It is the duty of a CIO to manage expectations and help ensure that all members of a CIO organization have a clear understanding of their responsibilities.	The CIO has no idea what the responsibilities of members are and isn't responsible for informing them.	
