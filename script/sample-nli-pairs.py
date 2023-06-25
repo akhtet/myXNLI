@@ -2,7 +2,7 @@
 import sys, random
 
 USAGE = """
-python script/sample-devset.py sample_file sample_size
+python script/sample-devset.py sequence_file sample_size
 """
 
 dev_sets = {
@@ -54,16 +54,18 @@ if __name__ == '__main__':
         with open(input_filename, encoding='utf-8') as infile:
     
             outfile = open(output_filename, 'wt', encoding='utf-8')          
-            outfile.write('\t'.join(['label', 'sentence1', 'sentence2','new_label', '\n']))  # Write header
+            outfile.write('\t'.join(['seq', 'label', 'sentence1', 'sentence2','new_label', 'comments', '\n']))  # Write header
 
             lines = infile.readlines()
   
-            for seq in sample_seqs[batch*sample_size: (batch*sample_size)+sample_size]:
+            for seq in sorted(sample_seqs[batch*sample_size: (batch*sample_size)+sample_size]):
                 cols = lines[seq].strip().split('\t')
                 new_cols = [
+                    str(seq),
                     cols[dev_sets[lang]['label_index']],
                     cols[dev_sets[lang]['sentence1_index']],
                     cols[dev_sets[lang]['sentence2_index']],
+                    ''
                     '\n'
                 ]
 

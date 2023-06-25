@@ -10,5 +10,5 @@ if __name__ == '__main__':
     total_population = int(sys.argv[2])
 
     sample_seqs = random.sample(range(total_population), sample_size)
-    for seq in sorted(sample_seqs):
+    for seq in sample_seqs:
         print(seq)
