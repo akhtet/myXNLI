@@ -1,42 +1,75 @@
 
 import sys, random
 
-test_sets = {
-    'my': {
-        'input': 'output/myxnli.test.tsv',
-        'output': 'output/sample.myxnli.test.tsv',
-        'lang_index': -1,
+USAGE = """
+python script/sample-devset.py sample_file sample_size
+"""
+
+dev_sets = {
+    'en1': {
+        'input': 'output/myxnli.dev.tsv',
+        'output': 'output/sample1.en.myxnli.dev.tsv',
+        'label_index': 0,
+        'sentence1_index': 1,
+        'sentence2_index': 2     
+    },
+    'en2': {
+        'input': 'output/myxnli.dev.tsv',
+        'output': 'output/sample2.en.myxnli.dev.tsv',
+        'label_index': 0,
+        'sentence1_index': 1,
+        'sentence2_index': 2,        
+    },
+    'my1': {
+        'input': 'output/myxnli.dev.tsv',
+        'output': 'output/sample1.my.myxnli.dev.tsv',
         'label_index': 0,
         'sentence1_index': 3,
-        'sentence2_index': 4,
-        'sentence1_en_index': 1,
-        'sentence2_en_index': 2     
+        'sentence2_index': 4             
+    },    
+    'my2': {
+        'input': 'output/myxnli.dev.tsv',
+        'output': 'output/sample2.my.myxnli.dev.tsv',
+        'label_index': 0, 
+        'sentence1_index': 3,
+        'sentence2_index': 4     
     }
 }
 
 if __name__ == '__main__':
 
-    USAGE = """
-    python script/sample-test.py sample_size
-    """
-
-    sample_size = int(sys.argv[1])
-
-    input_filename = test_sets['my']['input']
-    output_filename = test_sets['my']['output']
-
-    with open(input_filename, encoding='utf-8') as infile:
+    sample_file =sys.argv[1]
+    sample_seqs = [ int(line.strip()) for line in open(sample_file).readlines()]
     
-        outfile = open(output_filename, 'wt', encoding='utf-8')          
-        outfile.write(infile.readline())  # Write header
+    sample_size = int(sys.argv[2])
 
-        lines = infile.readlines()
-        line_count = len(lines)
+    assert(len(sample_seqs)) > sample_size
+    print(sample_seqs[0:10])
 
-        sample_seqs = random.sample(range(line_count), sample_size)
+    batch = 0
+    for lang in ['en1', 'en2', 'my1', 'my2']:
+        input_filename = dev_sets[lang]['input']
+        output_filename = dev_sets[lang]['output']
 
-        for seq in sorted(sample_seqs):
-            outfile.write(lines[seq])
-            print(seq)
+        with open(input_filename, encoding='utf-8') as infile:
+    
+            outfile = open(output_filename, 'wt', encoding='utf-8')          
+            outfile.write('\t'.join(['label', 'sentence1', 'sentence2','new_label', '\n']))  # Write header
+
+            lines = infile.readlines()
+  
+            for seq in sample_seqs[batch*sample_size: (batch*sample_size)+sample_size]:
+                cols = lines[seq].strip().split('\t')
+                new_cols = [
+                    cols[dev_sets[lang]['label_index']],
+                    cols[dev_sets[lang]['sentence1_index']],
+                    cols[dev_sets[lang]['sentence2_index']],
+                    '\n'
+                ]
+
+                outfile.write('\t'.join(new_cols))
+                print(seq)
             
-        outfile.close()
+            outfile.close()
+        batch += 1
+   
