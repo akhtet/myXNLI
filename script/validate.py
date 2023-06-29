@@ -195,6 +195,8 @@ def summarize_errors(blocks, orphans):
     print('SUMMARY')
     print(yaml.dump(summary))
 
+    return len(errors)
+
 
 if __name__ == '__main__':
 
