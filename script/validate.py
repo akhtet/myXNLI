@@ -63,6 +63,7 @@ def analyze_file(file_path, trans_dict={}):
    
     blocks = {}
     orphans = {}
+    ratings = []
 
     state = 0   # Init or blank line
     line_num = 0
@@ -103,7 +104,8 @@ def analyze_file(file_path, trans_dict={}):
                     if is_invalid(line):
                         blocks[seq_num]['errors'].append('Invalid characters found in translation')
 
-                    # Check against existing dictionary entries for consistency  
+                    # Check against existing dictionary entries for consistency 
+                    # TODO: Check 
                     for word in blocks[seq_num]['source'].lower().split():
                         if word in trans_dict:
                             if not trans_dict.get(word) in line:
@@ -118,7 +120,9 @@ def analyze_file(file_path, trans_dict={}):
             elif state == 3:    # Ready for rating, comment or a blank line
             
                 if is_rating(line):
-                    blocks[seq_num]['rating'] = get_rating(line)
+                    rating = get_rating(line)
+                    blocks[seq_num]['rating'] = rating
+                    ratings.append(rating)
                 
                 elif is_comment(line):
                     blocks[seq_num]['comments'].append(line)
@@ -143,7 +147,7 @@ def analyze_file(file_path, trans_dict={}):
                 if len(blocks[seq_num]['errors']) == 0 and not is_tagged_review(blocks[seq_num]['comments']):
                     blocks[seq_num]['review'] = False
 
-    return blocks, orphans
+    return blocks, orphans, ratings
 
 
 def summarize_errors(blocks, orphans):
