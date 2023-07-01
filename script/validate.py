@@ -1,5 +1,5 @@
 
-import csv, sys, os, re, yaml
+import csv, sys, re, yaml
 
 def analyze_file(file_path, trans_dict={}):
     """
@@ -182,8 +182,9 @@ def summarize_errors(blocks, orphans):
 
         if display:
             print(b)
+            print(blocks[b]['errors'])
             #print(yaml.dump(blocks[b], encoding='utf-8'))
-            print(blocks[b])
+            #print(blocks[b])
             print('')
 
     for o in orphans:
@@ -202,5 +203,5 @@ if __name__ == '__main__':
 
     if len(sys.argv) > 1:
         for fpath in sys.argv[1:]:
-            blocks, orphans = analyze_file(fpath)
+            blocks, orphans, _ = analyze_file(fpath)
             summarize_errors(blocks, orphans)
