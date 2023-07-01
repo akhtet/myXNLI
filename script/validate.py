@@ -106,9 +106,10 @@ def analyze_file(file_path, trans_dict={}):
 
                     # Check against existing dictionary entries for consistency 
                     # TODO: Check 
+                    line_lower = line.lower()
                     for word in blocks[seq_num]['source'].lower().split():
                         if word in trans_dict:
-                            if not trans_dict.get(word) in line:
+                            if not trans_dict.get(word) in line_lower:
                                 blocks[seq_num]['errors'].append('Inconsistent translation for "%s"' % (word))
 
                 elif line == '<MYANMAR UNICODE TRANSLATION HERE>':
