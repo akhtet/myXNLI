@@ -51,400 +51,499 @@
 7401
 Terrorists always use surgical implants to conceal their identities.
 အကြမ်းဖက်သမားများသည် သူတို့၏ သရုပ်မှန်များကို ဖုံးကွယ်ရန် အစားထိုးခွဲစိတ်မှုများကို အမြဲပြုကြသည်။
+#5/5
 
 7402
 Terrorists create fake identities to avoid detection.
 အကြမ်းဖက်သမားများသည် စုံစမ်းစစ်ဆေး ထောက်လှမ်းမှုများကို ရှောင်ရှားနိုင်ရန် အထောက်အထားအတုများ ဖန်တီးကြသည်။
+#5/5
 
 7403
 The FDNY and the NYPD coordinated perfectly on September 11.
-အဖ်ဒီအန်ဝိုင် နှင့် အန်ဝိုင်ပီဒီတို့သည် စက်တင်ဘာလ ၁၁ရက်တွင် အပြည့်အဝ ညှိနှိုင်းဆောင်ရွက်ခဲ့ကြသည်။
+FDNY နှင့် NYPD တို့သည် စက်တင်ဘာလ ၁၁ရက်တွင် အပြည့်အဝ ညှိနှိုင်းဆောင်ရွက်ခဲ့ကြသည်။
+#5/5
 
 7404
 The NYPD was responsible for the lack of coordination.
-ညှိနှိုင်းဆောင်ရွက်မှုမရှိခဲ့သည့်အတွက် အန်ဝိုင်ပီဒီတွင် တာဝန်ရှိသည်။
+ညှိနှိုင်းဆောင်ရွက်မှုမရှိခဲ့သည့်အတွက် NYPD တွင် တာဝန်ရှိသည်။
+#5/5
 
 7405
 there was a lack of coordination between the FDNY and the NYPD on September 11.
-စက်တင်ဘာလ ၁၁ ရက်တွင် အဖ်ဒီအန်ဝိုင် နှင့် အန်ဝိုင်ပီဒီတို့ကြား ညှိနှိုင်းဆောင်ရွက်မှုမရှိခဲ့ပါ။
+စက်တင်ဘာလ ၁၁ ရက်တွင် FDNY နှင့် NYPD တို့ကြား ညှိနှိုင်းဆောင်ရွက်မှုမရှိခဲ့ပါ။
+#5/5
 
 7406
 According to KSM, Bin Ladin wanted to use a suicide operative.
 ကေအက်စ်အမ်၏ အဆိုအရ၊ ဘင်လာဒင်သည် အသေခံတပ်သားတစ်ယောက်ကို အသုံးချချင်ခဲ့သည်ဟု ဆိုသည်။
+#5/5
 
 7407
 KSM disagreed with Bin Ladin's suggestion to use a suicide bomber.
 အသေခံဗုံးခွဲသမား တစ်ယောက်ကို အသုံးပြုမည့် ဘင်လာဒင်၏ အကြံပေးချက်ကို ကေအက်စ်အမ်သည် သဘောမတူခဲ့ပါ။
+#5/5
 
 7408
 KSM had originally wanted to use a suicide operative, but Bin Ladin changed their minds.
 ကေအက်စ်အမ်သည် မူလက အသေခံတပ်သား တစ်ယောက်ကို အသုံးချချင်ခဲ့သော်လည်း ၊ ဘင်လာဒင်သည် သူတို့၏ သဘောထားများကို ပြောင်းလဲခဲ့သည်။
+#5/5
 
 7409
 He had plenty of free time to take several long vacations while working on these projects.
 ဤ စီမံကိန်း များကို လုပ်ဆောင်နေစဉ်အတွင်း သူသည် အားလပ်ရက်ရှည်ယူရန် အားလပ်ချိန်များစွာရှိခဲ့သည်။
+#5/5
 
 7410
 Placing new officials in office and working on a defense policy were time consuming projects.
 ရုံးတွင် အရာရှိအသစ်များခန့်အပ်ခြင်းနှင့် ကာကွယ်ရေးမူဝါဒ ရေးဆွဲခြင်းသည် အချိန်ကုန်သည့် စီမံကိန်းများဖြစ်သည်။
+#5/5
 
 7411
 The final defense policy document was over five hundred pages long.
 နောက်ဆုံး ကာကွယ်ရေး မူဝါဒ စာတမ်းသည် စာမျက်နှာ ငါးရာကျော်ရှည်လျားသည်။
+#5/5
 
 7412
 NYPD helicopters were using the SOD channel.
-အန်ဝိုင်ပီဒီ ရဟတ်ယာဉ်များသည် အက်စ်အိုဒီ ချန်နယ်ကို အသုံးပြုခဲ့သည်။
+NYPD ရဟတ်ယာဉ်များသည် အက်စ်အိုဒီ ချန်နယ်ကို အသုံးပြုခဲ့သည်
+#5/5
 
 7413
 Nobody was using the citywide SOD channel.
 တမြို့လုံးရှိ အက်စ်အိုဒီ ချန်နယ်ကို မည်သူမျှ အသုံးမပြုခဲ့ကြပါ။
+#5/5
 
 7414
 The NYPD helicopters could not use the channel that the ESU teams were using.
-အန်ဝိုင်ပီဒီ ရဟတ်ယာဉ်များသည် အီးအက်စ်ယူ အဖွဲ့များ အသုံးပြုနေသော ချန်နယ် ကို အသုံးမပြုနိုင်ပါ။
+NYPD ရဟတ်ယာဉ်များသည် ESU အဖွဲ့များ အသုံးပြုနေသော ချန်နယ် ကို အသုံးမပြုနိုင်ပါ။
+#5/5
 
 7415
 None of the Port Authority employees stayed on the upper floors to evacuate helpless civilians.
 ကူကယ်ရာမဲ့နေသောပြည်သူများကို ဘေးကင်းရာသို့ရွေ့ပြောင်းကယ်တင်ရန် မည်သည့် ဆိပ်ကမ်းအာဏာပိုင်ဝန်ထမ်းမျှ အပေါ်ထပ်များတွင် ရှိမနေခဲ့ပါ။
+#5/5
 
 7416
 Some Port Authority employees sacrificed their lives to help civilians evacuate.
 ဆိပ်ကမ်းအာဏာပိုင်ဝန်ထမ်းအချို့သည် ပြည်သူများကိုကယ်တင်ရန် ၎င်းတို့၏ အသက်ကိုစတေးခဲ့ကြသည်။
+#5/5
 
 7417
 There were civilians who were unable to escape from the upper floors.
-အပေါ်ထပ်များမှ မပြေးနိုင်သော ပြည်သူများရှိသည်။
+အပေါ်ထပ်များမှ မပြေးနိုင်သော ပြည်သူများရှိခဲ့သည်။
+#5/5
 
 7418
 Civilian interview 14 was filed at the very end of April.
 ပြည်သူ့ အင်တာဗျူး ၁၄  ကို ဧပြီလကုန်တွင် တင်ပြခဲ့သည်။
+#5/5
 
 7419
 There are aids to the evacuation on September 11 in the section called Civilian Interview 14).
 ပြည်သူနှင့်အမေးအဖြေ ၁၄ ဟုဆိုသော ကဏ္ဍတွင် စက်တင်ဘာလ ၁၁ ရက်တွင် ဘေးလွတ်ရာသို့ကယ်ဆယ်ရွေ့ပြောင်းရာ၌ အကူအညီများရှိသည်ဟု ဆိုသည်)။
+#5/5
 
 7420
 There are no aids available with regards to the September 11 evacuation.
 စက်တင်ဘာလ ၁၁ ရက် ရွေ့ပြောင်းကယ်ဆယ်ရေးလုပ်ငန်းနှင့်ပတ်သက်၍ အကူအညီများ မရနိုင်ပါ။
+#5/5
 
 7421
 Hazmi's loan request was denied.
-ဟဇ်မိ၏ ချေးငွေ တောင်းခံမှုသည် ပယ်ချခြင်းခံခဲ့ရသည်။
+Hazmi ၏ ချေးငွေ တောင်းခံမှုသည် ပယ်ချခြင်းခံခဲ့ရသည်။
+#5/5
 
 7422
 The administrator did not allow Hazmi to use his bank account at all.
-စီမံခန့်ခွဲသူသည် ဟဇ်မိ၏ ဘဏ်အကောင့်ကို လုံးဝ အသုံးပြုခွင့်မပြုပါ။
+စီမံခန့်ခွဲသူသည် Hazmi ၏ ဘဏ်အကောင့်ကို လုံးဝ အသုံးပြုခွင့်မပြုခဲ့ပါ။
+#5/5
 
 7423
 The administrator did not know what the $5000 was going to be used for.
-အုပ်ချုပ်ရေးမှူးသည် ဒေါ်လာ၅၀၀၀ကို မည်သည့်အတွက်သုံးမည်ဆိုသည်ကို မသိရှိခဲ့ပါ။
+စီမံခန့်ခွဲသူသည် ဒေါ်လာ၅၀၀၀ကို မည်သည့်အတွက်သုံးမည်ဆိုသည်ကို မသိရှိခဲ့ပါ။
+#5/5
 
 7424
 Every relevant piece of paper has been found and filed.
 သက်ဆိုင်သည့် စာရွက်စာတမ်းတိုင်းကို တွေ့ရှိထားပြီး သိမ်းဆည်း တင်ပြထားပါသည်။
+#5/5
 
 7425
 Information has not been requested from everyone who knows something.
 တစ်စုံတစ်ရာသိရှိထားသူများထံမှ သတင်းအချက်အလက်များကို တောင်းခံထားခြင်းမရှိပါ။
+#5/5
 
 7426
 There are many more knowledgeable people who have not been interviewed.
 အင်တာဗျူးမဖြေရသေးသည့် ပို၍ အသိပညာကြွယ်ဝသော လူများရှိသည်။
+#5/5
 
 7427
 Congress has never had oversight for either intelligence or counterterrorism.
 လွှတ်တော်သည် ထောက်လှမ်းရေး သို့မဟုတ် အကြမ်းဖက်မှုတိုက်ဖျက်ရေးကိုလည်း မည်သည့်အခါကမျှ ကြီးကြပ်ဆောင်ရွက်မှုမရှိခဲ့ပါ။
+#5/5
 
 7428
 Congress has oversight for counterterrorism.
 လွှတ်တော်သည် အကြမ်းဖက်တိုက်ခိုက်မှု တိုက်ဖျက်ရေး လုပ်ငန်းစဉ် အပေါ် ကြီးကြပ်ဆောင်ရွက်သည်။
+#5/5
 
 7429
 Congressional oversight for intelligence-and counterterrorism once worked effectively.
 လွှတ်တော်ဆိုင်ရာများသည် တစ်ချိန်က ထိရောက်စွာ လုပ်ဆောင်ခဲ့သည့် ထောက်လှမ်းရေး နှင့် အကြမ်းဖက်မှုတိုက်ဖျက်ရေးတို့ကို ကြီးကြပ်ဆောင်ရွက်ခဲ့သည်။
+#5/5
 
 7430
 Britain also gave money to al Qaeda.
 ဗြိတိန်သည်လည်း အယ်ကိုင်ဒါကို ငွေကြေးများပေးခဲ့သည်။
+#5/5
 
 7431
 The US definitely did not give al Qaeda any money.
 အမေရိကန်သည် အယ်ကိုင်ဒါကို မည်သည့်ငွေကြေးမျှကို လုံးဝ မပေးခဲ့ပါ။
+#5/5
 
 7432
 The United States may have given money to al Qaeda.
 အမေရိကန်ပြည်ထောင်စုသည် အယ်ကိုင်ဒါကို ငွေကြေးများပေးထားနိုင်သည်။
+#5/5
 
 7433
 Security requirements are much stricter than they previously were.
 လုံခြုံရေးဆိုင်ရာ သတ်မှတ်ချက်များသည် ယခင် ထက် များစွာပို၍ တင်းကျပ်သည်။
+#5/5
 
 7434
 Security requirements do not compartmentalize information too much.
 လုံခြုံရေးဆိုင်ရာ သတ်မှတ်ချက်များသည် အချက်အလက်များကို အလွန်အကျွံ ခွဲခြားမထားပါ။
+#5/5
 
 7435
 The security requirements that are currently in use cause information to be overclassified.
-လက်ရှိ အသုံးပြုနေသည့် လုံခြုံရေးဆိုင်ရာ လိုအပ်ချက်များသည် သတင်းအချက်အလက်များကို အတိအကျအမျိုးအစားခွဲနိုင်သည်။
+လက်ရှိ အသုံးပြုနေသည့် လုံခြုံရေးဆိုင်ရာ လိုအပ်ချက်များသည် သတင်းအချက်အလက်များကို ကျော်လွန်၍ အမျိုးအစားခွဲနိုင်သည်။
+#5/5
 
 7436
 Las Vegas has a reputation for welcoming tourists.
 လာစ်ဗီးဂတ်စ်သည် ကမ္ဘာလှည့်ခရီးသည်များကို ကြိုဆိုသည့်နေရာတွင် နာမည်ကောင်းရှိသည်။
+#5/5
 
 7437
 Las Vegas is known for not liking tourists.
 လာစ်ဗီးဂတ်စ်သည် ကမ္ဘာလှည့်ခရီးသည်များကို မနှစ်မြို့သည့်မြို့ဟု သိကြသည်။
+#5/5
 
 7438
 The operatives flew to Las Vegas many times in a short period of time.
 အချိန်တိုလေးအတွင်းတွင် သူလျှိုများသည် လာစ်ဗီးဂတ်စ်သို့ အကြိမ်များစွာ သွားရောက်ခဲ့ကြသည်။
+#5/5
 
 7439
 KSM was a terrorist associated with Ramzi Yousef.
 ကေအက်စ်အမ်သည် ရမ်ဇီရုဆဖ်နှင့် ဆက်စပ်နေသည့် အကြမ်းဖက်သမားတစ်ဦး ဖြစ်သည်။
+#5/5
 
 7440
 Ramzi Yousef had never heard of KSM before.
 ရမ်ဇီရုဆဖ်သည် ကေအက်စ်အမ်အကြောင်း ယခင်က တစ်ခါမျှမကြားဖူးခဲ့ပါ။
+#5/5
 
 7441
 Ramzi Yousef was also indicted.
 ရမ်ဇီရုဆဖ်ကိုလည်း စွဲချက်တင်ခဲ့သည်။
+#5/5
 
 7442
 There was an NYPD interview 12.
-အန်ဝိုင်ပီဒီ အင်တာဗျူး ၁၂ တစ်ခု ရှိခဲ့သည်။
+NYPD အင်တာဗျူး ၁၂ ခု ရှိခဲ့သည်။
+#5/5
 
 7443
 There was an interview with the Chief of the NYPD.
-အန်ဝိုင်ပီဒီ၏ အကြီးအကဲတစ်ဦးနှင့် အင်တာဗျူး တစ်ခုလုပ်ခဲ့သည်။
+NYPD ၏ အကြီးအကဲတစ်ဦးနှင့် အင်တာဗျူး တစ်ခုလုပ်ခဲ့သည်။
+#5/5
 
 7444
 There was no NYPD interview.
-အန်ဝိုင်ပီဒီ အင်တာဗျူး မရှိခဲ့ပါ။
+NYPD အင်တာဗျူး မရှိခဲ့ပါ။
+#5/5
 
 7445
 The Trade Center was hit by a train.
 ကုန်သွယ်ရေးစင်တာကို မီးရထားတစ်စီးမှ ဝင်တိုက်မိခဲ့သည်။
+#5/5
 
 7446
 The Trade Center was hit.
 ကုန်သွယ်မှုဗဟိုဌာနကို ထိမှန်ခဲ့သည်။
+#5/5
 
 7447
 The Trade Center was not hit.
 ကုန်သွယ်မှုဗဟိုဌာနကို မထိမှန်ခဲ့ပါ။
+#5/5
 
 7448
 Director of the DIA is the lowest position in relation to responsibilities.
 ဒီအိုင်အေ၏ ဒါရိုက်တာသည် တာဝန်များနှင့် စပ်လျဉ်း၍ အနိမ့်ဆုံး ရာထူးဖြစ်သည်။
+#5/5
 
 7449
 The Director of the DIA is not involved with defense intelligence at all.
 ဒီအိုင်အေ၏ ဒါရိုက်တာသည် ကာကွယ်ရေး ထောက်လှမ်းရေးနှင့် လုံးဝ ပါဝင်ပတ်သက်ခြင်း မရှိပါ။
+#5/5
 
 7450
 The director of the DIA is involved with defense intelligence.
 ဒီအိုင်အေ၏ ဒါရိုက်တာသည် ကာကွယ်ရေး ထောက်လှမ်းရေးနှင့် ပါဝင်ပတ်သက်သည်။
+#5/5
 
 7451
 The Hellfire missiles had technical errors.
 လေကြောင်းပစ်ဒုံးကျည်များတွင် နည်းပညာပိုင်းဆိုင်ရာ ချွတ်ယွင်းချက်များရှိခဲ့သည်။
+#5/5
 
 7452
 The Hellfire missiles worked perfectly.
 လေကြောင်းပစ်ဒုံးကျည်များသည် ချွတ်ယွင်းချက်မရှိ ပြီးပြည့်စုံစွာလုပ်ဆောင်ခဲ့သည်။
+#5/5
 
 7453
 There were also technical errors with other types of missiles.
 အခြား ဒုံးကျည်အမျိုးအစားများနှင့်ပတ်သက်၍လည်း နည်းပညာပိုင်းဆိုင်ရာ ချွတ်ယွင်းချက်များလည်းရှိခဲ့သည်။
+#5/5
 
 7454
 NYPD handled the City's emergency response.
-အန်ဝိုင်ပီဒီသည် မြို့တော်၏ အရေးပေါ်တုံ့ပြန်ချက်ကို ကိုင်တွယ်ဖြေရှင်းခဲ့သည်။
+NYPD သည် မြို့တော်၏ အရေးပေါ်တုံ့ပြန်ချက်ကို ကိုင်တွယ်ဖြေရှင်းခဲ့သည်။
+#5/5
 
 7455
 The NYPD was in full control of the emergency response of the city.
-အန်ဝိုင်ပီဒီသည် မြို့တော်၏အရေးပေါ်တုံ့ပြန်မှုကို အပြည့်အဝထိန်းချုပ်ထားခဲ့သည်။ 
+NYPD သည် မြို့တော်၏အရေးပေါ်တုံ့ပြန်မှုကို အပြည့်အဝထိန်းချုပ်ထားခဲ့သည်။ 
+#5/5
 
 7456
 The management of the City's response was handled by someone other than the FDNY.
-မြို့တော်၏အရေးပေါ်တုံ့ပြန်မှု စီမံခန့်ခွဲမှုအား အဖ်ဒီအန်ဝိုင်မှ မဟုတ်သည့် အခြားတစုံတစ်ဦးမှ ကိုင်တွယ်ဖြေရှင်းခဲ့သည်။
+မြို့တော်၏အရေးပေါ်တုံ့ပြန်မှု စီမံခန့်ခွဲမှုအား FDNYမှ မဟုတ်သည့် အခြားတစုံတစ်ဦးမှ ကိုင်တွယ်ဖြေရှင်းခဲ့သည်။
+#5/5
 
 7457
 An emergency command post was set up at the Police Academy.
 ရဲသင်တန်းကျောင်းတွင် အရေးပေါ် အမိန့်ပေးစီမံကွပ်ကဲသည့်ဌာနတစ်ခုကို တည်ထောင်ခဲ့သည်။
+#5/5
 
 7458
 More than two dozen people were eventually involved in manning the command post.
 နောက်ဆုံးတွင် အမိန့်ပေးစီမံကွပ်ကဲသည့်ဌာနဖွဲ့စည်းရာ၌ လူပေါင်း နှစ်ဒါဇင်ကျော် ပါဝင်ခဲ့သည်။
+#5/5
 
 7459
 The Mayor immediately evacuated the state on the recommendation of the OEM director.
 မြို့တော်ဝန်သည် အိုအီးအမ် ညွှန်ကြားရေးမှူး၏ ထောက်ခံချက်ဖြင့် ပြည်နယ်ကို ဘေးကင်းရာသို့ ချက်ချင်း ရွေ့ပြောင်းခဲ့သည်။
+#5/5
 
 7460
 One firefighter felt that this tower could fall.
 ဤမျှော်စင်သည် ပြိုကျနိုင်သည်ဟု မီးသတ်သမားတစ်ဦးသည် ခံစားမိခဲ့သည်။
+#5/5
 
 7461
 The firefighter sent a message to his superiors about the tower falling.
 မီးသတ်သမားသည် မျှော်စင်ပြိုကျမှုနှင့်ပတ်သက်၍ ၎င်း၏ အထက်လူကြီးများဆီသို့ သတင်းပေးပို့ခဲ့သည်။
+#5/5
 
 7462
 The firefighter was certain that the tower they were in was safe.
 မီးသတ်သမားသည် သူတို့ရှိနေသည့် မျှော်စင်သည် လုံခြုံမှုရှိသည်ဟု စိတ်ချလက်ချဖြစ်ခဲ့သည်။
+#5/5
 
 7463
 Secure Identification should never be used in the US.
 အမေရိကန်ပြည်ထောင်စုတွင် လုံခြုံသော သက်သေခံအထောက်အထားကို မည်သည့်အခါမျှ အသုံးမပြုသင့်ပါ။
+#5/5
 
 7464
 Secure id would make things safer in the US.
 လုံခြုံသော သက်သေခံအထောက်အထားသည် အမေရိကန်ပြည်ထောင်စုတွင် အရာရာကို ပို၍ လုံခြုံစေသည်။
+#5/5
 
 7465
 There should be secure id in the US.
 အမေရိကန်ပြည်ထောင်စုတွင် လုံခြုံသော သက်သေခံအထောက်အထားရှိသင့်သည်။
+#5/5
 
 7466
 Bin Laden was not involved in directing the attacks.
 တိုက်ခိုက်မှုများကို ညွှန်ကြားရာတွင် ဘင်လာဒင်သည် မပါဝင်ခဲ့ပါ။
+#5/5
 
 7467
 It was tough to prove that Bin Laden was responsible.
 ဘင်လာဒင်သည် တာဝန်ရှိသည်ဟု သက်သေပြရန် ခက်ခဲခဲ့သည်။
+#5/5
 
 7468
 There was hard evidence of Bin Laden directing the attacks.
 ဘင်လာဒင်သည် တိုက်ခိုက်မှုများကို ညွှန်ကြားနေသည့် တိကျခိုင်မာသောသက်သေ ရှိခဲ့သည်။
+#5/5
 
 7469
 Bin Ladin and al Qaeda were totally responsible for the terrorism.
 ဘင်လာဒင်နှင့် အယ်လ်ကိုင်ဒါတို့သည် အကြမ်းဖက်တိုက်ခိုက်မှု အတွက် အပြည့်အဝ တာဝန်ရှိသည်။
+#5/5
 
 7470
 It was the first time the government had faced this type of terrorism.
 အစိုးရအနေဖြင့် ဤကဲ့သို့သော အကြမ်းဖက်တိုက်ခိုက်မှုမျိုးကို ရင်ဆိုင်ကြုံတွေ့ရသည်မှာ ပထမဆုံးအကြိမ်ဖြစ်သည်။
+#5/5
 
 7471
 The government had faced terrorism like this many times before.
 အစိုးရသည် ဤကဲ့သို့သော အကြမ်းဖက်တိုက်ခိုက်မှုမျိုးကို အရင်က များစွာ ရင်ဆိုင်ကြုံတွေ့ခဲ့ဖူးသည်။
+#5/5
 
 7472
 Supplying the Taliban's enemies with covert assistance was a consideration.
 တာလီဘန်၏ ရန်သူများကို လျှို့ဝှက်အကူညီဖြင့် ထောက်ပံ့ပေးခြင်းသည် ထည့်သွင်းစဉ်းစားစရာတစ်ခု ဖြစ်ခဲ့သည်။
+#5/5
 
 7473
 The Taliban could not be moved from Kabul, so some members of the U.S. military debated assisting their opponents.
 တာလီဘန်များအား ကဘူးလ်မြို့မှ ရွေ့ပြောင်းနိုင်ခြင်း မရှိသေးသောကြောင့် ၊ အမေရိကန် စစ်တပ်မှ အဖွဲ့ဝင် အချို့သည် ၎င်းတို့၏ အတိုက်အခံများကို ကူညီရန် အခြေအတင် ဆွေးနွေးခဲ့ကြသည်။
+#5/5
 
 7474
 They refused to give up hope in moving the Taliban and were in agreement about doing it alone.
 သူတို့သည် တာလီဘန်များအား ပြောင်းရွေ့နိုင်ရေး မျှော်လင့်ချက်ကို စွန့်လွှတ်ရန် ငြင်းဆန်ခဲ့ကြပြီး တစ်ဦးတည်း ဆောင်ရွက်ရန် သဘောတူခဲ့ကြသည်။
+#5/5
 
 7475
 Dubai was a convenient transit point.
 ဒူဘိုင်းသည် အဆင်ပြေသည့် အကူးအပြောင်းနေရာတစ်ခုဖြစ်သည်။
+#5/5
 
 7476
 Dubai was the first choice as a transit point.
 ဒူဘိုင်းသည် အကူးအပြောင်းနေရာတစ်ခု အဖြစ် ပထမဆုံး ရွေးချယ်မှုဖြစ်ခဲ့သည်။
+#5/5
 
 7477
 It made no sense to use Dubai as a transit point.
 ဒူဘိုင်းကို အကူးအပြောင်းနေရာတစ်ခု အဖြစ် အသုံးပြုခြင်းသည် အဓိပ္ပာယ်မရှိပေ။
+#5/5
 
 7478
 KSM was never there at the guesthouse.
 ကေအက်စ်အမ်သည် ထိုဧည့်ဂေဟာတွင် မည်သည့်အခါကမျှ ရှိမနေခဲ့ပါ။
+#5/5
 
 7479
 Yousef was arrested.
 ရုဆဖ် သည် ဖမ်းဆီးခံခဲ့ရသည်။
+#5/5
 
 7480
 Yousef was never arrested.
 ရုဆဖ် သည် မည်သည့်အခါကမျှ ဖမ်းဆီးခြင်းမခံခဲ့ရပါ။
+#5/5
 
 7481
 The man killed himself in his truck.
 အဆိုပါ အမျိုးသားသည် ၎င်း၏ ကုန်တင်ကားထဲ၌ပင် သူ့ကိုယ်သူ အဆုံးစီရင်သွားခဲ့သည်။
+#5/5
 
 7482
 The man was attempting to use the aircraft to escape.
 အဆိုပါ အမျိုးသားသည် လေယာဉ်ပျံ ကို အသုံးပြု၍ ထွက်ပြေးလွတ်မြောက်ရန် ကြိုးစားခဲ့သည်။
+#5/5
 
 7483
 The man was on the aircraft when he died.
 သေဆုံးသွားချိန်တွင် အဆိုပါ အမျိုးသားသည် လေယာဉ်ပေါ်တွင်ဖြစ်သည်။
+#5/5
 
 7484
 Although no one realized it, KSM was always connected with al Qaeda.
 မည်သူမျှမသိရှိခဲ့ကြသော်လည်း ၊ ကေအက်စ်အမ် သည် အယ်လ်ကိုင်ဒါနှင့် အမြဲအဆက်အသွယ်ရှိခဲ့သည်။
+#5/5
 
 7485
 Everyone always equated KSM with al Qaeda.
 လူတိုင်းသည် ကေအက်စ်အမ် နှင့် အယ်လ်ကိုင်ဒါကို အမြဲ တူသည်ဟုနှိုင်းယှဉ်ခဲ့ကြသည်။
+#5/5
 
 7486
 KSM was never thought to be connected with al Qaeda before 9/11.
 ၉/၁၁ မတိုင်ခင်အထိ ကေအက်စ်အမ် ကို အယ်ကိုင်ဒါနှင့် ဆက်သွယ်မှုရှိမည် ဟု မည်သည့်အခါကမျှ မထင်ခဲ့ပါ။
+#5/5
 
 7487
 The FDNY Chief of Department saw the South Tower collapse.
-အဖ်ဒီအန်ဝိုင် ဌာနမှူးသည် တောင်ပိုင်းမျှော်စင် ပြိုကျသည်ကို မြင်ခဲ့သည်။
+FDNY ဌာနမှူးသည် တောင်ပိုင်းမျှော်စင် ပြိုကျသည်ကို မြင်ခဲ့သည်။
+#5/5
 
 7488
 The South Tower collapsed before 10:15.
-သည်ဆောက်ဖ်တာဝါသည် ၁၀နာရီ ၁၅ မိနစ် မတိုင်ခင် ပြိုကျခဲ့သည်။
+South Towerသည် ၁၀နာရီ ၁၅ မိနစ် မတိုင်ခင် ပြိုကျခဲ့သည်။
+#5/5
 
 7489
 The South Tower did not collapse.
-သည်ဆောက်ဖ်တာဝါသည် မပြိုကျခဲ့ပါ။
+South Towerသည် မပြိုကျခဲ့ပါ။
+#5/5
 
 7490
 The Taliban was a close ally with al Qaeda.
 တာလီဘန်တို့သည် အယ်လ်ကိုင်ဒါနှင့် ရင်းနှီးသော မဟာမိတ်အဖွဲ့တစ်ခု ဖြစ်ခဲ့သည်။
+#5/5
 
 7491
 The Taliban was not against al Qaeda.
 တာလီဘန်တို့သည် အယ်လ်ကိုင်ဒါကို ဆန့်ကျင်တာမဟုတ်ပါ။
+#5/5
 
 7492
 There was no focus on Pakistan or the Taliban.
 ပါကစ္စတန် သို့မဟုတ် တာလီဘန် တို့ အပေါ် အာရုံစိုက်မှု မရှိခဲ့ပါ။
+#5/5
 
 7493
 Philip Zelikow and his staff spent many hours preparing the report.
 ဖီလစ်ဇီလစ်ကောနှင့် သူ၏ ဝန်ထမ်းများသည် အစီရင်ခံစာကို ပြင်ဆင်ရာတွင် နာရီပေါင်းများစွာ အချိန်ယူခဲ့ရသည်။
+#5/5
 
 7494
 The team rushed through the data to get the report done quickly.
 အဖွဲ့သည် အစီရင်ခံစာကို လျှင်မြန်စွာ ပြီးမြောက်စေရန် အချက်အလက်များကို အလျှင်အမြန်လုပ်ဆောင်ခဲ့သည်။
+#5/5
 
 7495
 There were twenty people on Philip Zelikow's staff.
 ဖီလစ်ဇီလစ်ကော၏ ဝန်ထမ်းအဖွဲ့တွင် လူနှစ်ဆယ်ရှိသည်။
+#5/5
 
 7496
 A military plan against the Taliban was needed.
 တာလီဘန်ကို ဆန့်ကျင်သည့် စစ်ဖက်ရေးရာအစီအစဉ် တစ်ခု လိုအပ်ခဲ့သည်။
+#5/5
 
 7497
 Nobody ordered the development of a military plan.
 စစ်ဖက်ရေးရာ အစီအစဉ် တစ်ခု ဖြစ်ပေါ်လာရန် မည်သူမျှ အမိန့်မပေးခဲ့ပါ။
+#5/5
 
 7498
 Secretary Rumsfeld developed a military plan right away.
-အတွင်းရေးမှူး ရမ့်စ်ဖလ်ဒ် သည် စစ်ဖက်ဆိုင်ရာ အစီအစဉ်တစ်ခုကို ချက်ချင်း အကောင်အထည်ဖော်ဆောင်ရွက်ခဲ့သည်။
+အတွင်းရေးမှူး Rumsfeld သည် စစ်ဖက်ဆိုင်ရာ အစီအစဉ်တစ်ခုကို ချက်ချင်း အကောင်အထည်ဖော်ဆောင်ရွက်ခဲ့သည်။
+#5/5
 
 7499
 A detainee was interrogated.
 အထိန်းသိမ်းခံထားရသူ တစ်ဦးကို စစ်ဆေးမေးမြန်းခဲ့သည်။
+#5/5
 
 7500
 No detainees were interrogated.
 မည်သည့် အထိန်းသိမ်းခံထားရသူတစ်စုံတစ်ဦးမျှ စစ်ဆေးမေးမြန်းခြင်းမခံခဲ့ကြရပါ။
-
+#5/5

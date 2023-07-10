@@ -56,11 +56,12 @@ There are plenty of alternatives to solve this problem other than to hand over t
 5002
 To surrender the hostage would mean certain death for her.
 ဓားစာခံကိုအညံ့ခံခြင်းသည် သူမအတွက် သေဆုံးခြင်း လို့ လုံးဝ အဓိပ္ပာယ်ရသည်။
+#4/5
 
 5003
 Everything is included in the bargain.
 လျှော့ဈေးမှာ အားလုံး ပါဝင်တယ်။
-#/5/5
+#5/5
 
 5004
 That is not in the bargain because it wouldn't be fair.
@@ -74,17 +75,17 @@ That isn't included in the agreement.
 
 5006
 Calverly responded in a way that made him seem like he was on-the-fence about something.
-သူက တစ်စုံတစ်ခု နဲ့ပတ်သက်ပြီး ဇဝေဇဝါဖြစ်နေသည့်ပုံဖြင့် ကယ်လ်ဗာလေ က တုံ့ပြန်ခဲ့တယ်။ 
-
-
+သူက တစ်စုံတစ်ခု နဲ့ပတ်သက်ပြီး ဇဝေဇဝါဖြစ်နေသည့်ပုံဖြင့် Calverly က တုံ့ပြန်ခဲ့တယ်။ 
+#4/5
 
 5007
 Calverly was only indecisive in his answer because he did not know all of the facts.
-ကယ်လ်ဗာလေသည် သူက အချက်အလက်များ အားလုံးကို မသိခဲ့ သောကြောင့် သူ၏ အဖြေတွင် မပြတ်သားပဲဖြစ်နေခဲ့သည်။
+Calverly သည် သူက အချက်အလက်များ အားလုံးကို မသိခဲ့ သောကြောင့် သူ၏ အဖြေတွင် မပြတ်သားပဲဖြစ်နေခဲ့သည်။
+#4/5
 
 5008
 Cleverly spoke with clear decisiveness, knowing that he has with certainty.
-ကယ်လ်ဗာလေက သူ့မှာ အသေအချာ ရှိတယ် ဆိုတာကို သိရှိခြင်းအားဖြင့် ၊ ရှင်းလင်းသော ဆုံးဖြတ်ချက်ခိုင်မာပြတ်သားမှု နှင့်အတူ ပြောဆိုခဲ့သည်။
+Cleverly က သူ့မှာ အသေအချာ ရှိတယ် ဆိုတာကို သိရှိခြင်းအားဖြင့် ၊ ရှင်းလင်းသော ဆုံးဖြတ်ချက်ခိုင်မာပြတ်သားမှု နှင့်အတူ ပြောဆိုခဲ့သည်။
 #4/5
 
 5009
@@ -102,11 +103,11 @@ His officers respect him.
 သူ့ အရာရှိတွေက သူ့ကို လေးစားတယ်။
 #5/5
 
-
 5012
 She did not want him to help her, though was grateful anyway.
 သူ့မကို သူကကူညီပေးရန်  သူမက ဆန္ဒမရှိခဲ့ သော်လည်း ၊ ဘာပဲဖြစ်ဖြစ် ကျေးဇူးတင်ခဲ့တယ်။
- 
+#4/5
+
 5013
 She had told him that resolve was what it took to keep her away from peril.
 ဒီ ဆုံးဖြတ်ချက်သည် အန္တရာယ်မှ သူမကို ကင်းဝေးစေရန် လုပ်ဆောင်ခဲ့တာဟု သူမ က သူ့ကို ပြောခဲ့တယ်။
@@ -137,7 +138,6 @@ She refused to even look at him.
 သူ့ကို ကြည့်ဖို့တောင် သူမက ငြင်းဆန်ခဲ့သည်။
 #5/5
 
-
 5019
 She was afraid he would kill her.
 သူက သူမကို သတ်လိုက်မှာ သူမ က ကြောက်ခဲ့သည်။
@@ -150,10 +150,8 @@ She was looking at him.
 
 5021
 She exclaimed with delight at just the thought of it!
-သူမ ထိုအရာကို တွေးရင်းနဲ့ ဝမ်းသာအားရ နဲ့ အံ့အားသင့်ခဲ့တယ်!
+ထိုအရာကို တွေးကြည့်ရုံနဲ့ပင် သူမက ဝမ်းသာအားရ နဲ့ အံ့အားသင့်ခဲ့တယ်!
 #2/5
-ထိုအရာကို တွေးကြည့်ရုံနဲ့ပင်သူမက ဝမ်းသာအားရ နဲ့ အံ့အားသင့်ခဲ့တယ်!
-
 
 5022
 She was trying not to think of the event that took place.
@@ -168,11 +166,12 @@ Thinking about the event made her shudder.
 5024
 All Buccaneers in most ships are loud when yelling in unison.
 သင်္ဘောအများစုတွင် ပင်လယ်ဓါးပြများ အားလုံးက တစ်ညီတစ်ညွတ်တည်း အော်ဟစ်နေချိန်တွင် ကျယ်လောင်တယ်။
-
+#3/5
 
 5025
 The Buccaneers were loud when giving a yes.
 ပင်လယ်ဓါးပြ တွေက Yes လို့ ကျယ်လောင်စွာအော်ဟစ်နေကြသည်။
+#4/5
 
 5026
 There was no sign of the buccaneers below as they were presumed silent.
@@ -187,13 +186,12 @@ The man is acting uncivilized.
 5028
 The man is calm and reasonable.
 အဆိုပါ အမျိုးသားသည် တည်ငြိမ် ပြီး ကျိုးကြောင်းဆီလျော်တယ်။
-#/5/5
+#5/5
 
 5029
 They are having a conversation.
 သူတို့မှာ စကားဝိုင်း တစ်ခု ရှိနေခြင်း ဖြစ်တယ်။
 #4/5
-
 
 5030
 He had heard some exciting news.
@@ -212,8 +210,8 @@ The Captain was angry.
 
 5033
 He kept his eyes down looking at the ground.
-သူက သူ၏ မျက်လုံးများကို မြေပြင်ကို ငုံ့ကြည့်ရင်း နေနေခဲ့တယ်။
-
+သူက သူ၏ မျက်လုံးများကို မြေပြင်ကို ငုံ့ကြည့်ရင်း နေခဲ့တယ်။
+#4/5
 
 5034
 He was surprised by her.
@@ -243,6 +241,7 @@ He sat on the floor of the cabin because there weren't any chairs available.
 5039
 A man was killed.
 အမျိုးသား တစ်ဉီး အသတ်ခံခဲ့ရတယ်။
+#5/5
 
 5040
 He was killed with a sword.
@@ -251,14 +250,12 @@ He was killed with a sword.
 
 5041
 The man's life was spared.
-ထို အမျိုးသား ၏ အသက်ကို နှမြောတယ်။
-#0/5
-အမျိုးသားရဲ့အသက်ကိုလွတ်ပေးခဲ့တယ်။ 
-
+ထိုအမျိုးသားရဲ့အသက်ကို ချမ်းသာပေးခဲ့တယ်။ 
+#4/5
 
 5042
 Colonel Bishop was angry because the captain had stolen something.
-ကပ္ပတိန်က တစ်ခုခုကို ခိုးယူသွား သောကြောင့် ကိုလိုနယ် ဘစ်လျှော့  ဒေါသထွက်ခဲ့တယ်။
+ကပ္ပတိန်က တစ်ခုခုကို ခိုးယူသွား သောကြောင့် Colonel Bishop  ဒေါသထွက်ခဲ့တယ်။
 #5/5
 
 5043
@@ -268,22 +265,22 @@ The ships behind them belonged to friends.
 
 5044
 There were ships chasing after them.
-သူတို့ နောက်က သင်္ဘောတွေသူတို့ကို လိုက်နေတယ်။
-
+သူတို့ နောက်က သင်္ဘောတွေ လိုက်နေတယ်။
+#5/5
 
 5045
 Colonel Bishop has heard some bad news.
-ကိုလိုနယ် ဘစ်လျှော့ က မကောင်းတဲ့ သတင်း အချို့ကို ကြားခဲ့ပြီးပြီ။
+Colonel Bishop က မကောင်းတဲ့ သတင်း အချို့ကို ကြားခဲ့ပြီးပြီ။
 #5/5
 
 5046
 Colonel Bishop is already cool.
-ကိုလိုနယ် ဘစ်လျှော့ အေးနေပြီ။
+Colonel Bishop စိတ်အေးနေပြီ။
 #4/5
 
 5047
 Colonel Bishop is heated.
-ကိုလိုနယ် ဘစ်လျှော့ က ပူလာသည်။
+Colonel Bishop က စိတ်ပူနေသည်။
 #4/5
 
 5048
@@ -303,17 +300,17 @@ You will only be stationed today on the gun deck.
 
 5051
 Pitt completely ignored what was asked of him.
-ပစ်ဒ် က သူ့ကို မေးတာကို လုံးဝ လျစ်လျူရှူ့ခဲ့တယ်။
+Pitt က သူ့ကို မေးတာကို လုံးဝ လျစ်လျူရှူ့ခဲ့တယ်။
 #5/5
 
 5052
 Pitt is the name of a dog that is very obedient.
-ပစ်ဒ် ဆိုတာ အရမ်း နာခံတတ်တဲ့ ခွေး တစ်ကောင်ရဲ့ နာမည် ဖြစ်ပါတယ်။
+Pitt ဆိုတာ အရမ်း နာခံတတ်တဲ့ ခွေး တစ်ကောင်ရဲ့ နာမည် ဖြစ်ပါတယ်။
 #5/5
 
 5053
 Pitt quickly followed the order.
-ပစ်ဒ် က အမိန့်ကို မြန်မြန် လိုက်နာခဲ့တယ်။
+Pitt က အမိန့်ကို မြန်မြန် လိုက်နာခဲ့တယ်။
 #5/5
 
 5054
@@ -329,7 +326,7 @@ He spent 2 weeks in Port Royal.
 5056
 He was doing repairs on his ship.
 သူက သူ့သင်္ဘောပေါ်မှာ ပြင်ဆင်မှုတွေကို ပြုလုပ်နေတယ်။
-
+#5/5
 
 5057
 Her voice was loud and booming.
@@ -384,10 +381,12 @@ He knew he would be completely safe if he went ashore.
 5067
 It was dangerous for him to go to shore.
 ကမ်းပေါ်ကိုတက်ခြင်းဟာ သူ့အတွက် အန္တရာယ် ရှိခဲ့တယ်။
+#5/5
 
 5068
 There were people on shore who wanted to kill him.
 ကမ်းမှာ သူ့ကို သတ်ချင်နေတဲ့ လူတွေ ရှိခဲ့တယ်။
+#5/5
 
 5069
 I did not dream last Friday.
@@ -431,7 +430,8 @@ She shouted that there was no hope for him.
 
 5077
 There was certainly still hope for him.
-သူ့အတွက် မျှော်လင့်ချက်ရှိနေေသေးတာ သေချာပေါက်ဖြစ်တယ်။
+သူ့အတွက် မျှော်လင့်ချက် သေချာပေါက် ရှိနေခဲ့တယ်။
+#5/5
 
 5078
 It has always been a contest ever since we went about.
@@ -460,12 +460,12 @@ The Spanish raid was done at night.
 
 5083
 There was never a raid on Bridgetown.
-ဘရစ်ချ်တောင်း မှာ စီးနင်းမှု တစ်ခု ဘယ်တုန်းကမှ မဖြစ်ဖူးဖူး။
+Bridgetown မှာ စီးနင်းမှု တစ်ခု ဘယ်တုန်းကမှ မဖြစ်ဖူးဖူး။
 #5/5
 
 5084
 Blood is a man.
-ဘလတ် က အမျိုးသား တစ်ယောက် ဖြစ်တယ်။
+Blood က အမျိုးသား တစ်ယောက် ဖြစ်တယ်။
 #5/5
 
 5085
@@ -480,12 +480,12 @@ The seal was broken.
 
 5087
 Miss Bishop was alone in the garden.
-မစ် ဘစ်လျှော့ သည် ပန်းခြံထဲမှာ တစ်ယောက်တည်း ရှိခဲ့တယ်။
+Miss Bishop သည် ပန်းခြံထဲမှာ တစ်ယောက်တည်း ရှိခဲ့တယ်။
 #5/5
 
 5088
 Miss Bishop went to the garden in order to contemplate her life.
-မစ် ဘစ်လျှော့ သည် သူမ ၏ ဘဝအကြောင်း သုံးသပ်ဆင်ခြင် ဖို့ရန် ပန်းခြံသို့ သွားခဲ့သည်။
+Miss Bishop သည် သူမ ၏ ဘဝအကြောင်း သုံးသပ်ဆင်ခြင် ဖို့ရန် ပန်းခြံသို့ သွားခဲ့သည်။
 #5/5
 
 5089
@@ -525,17 +525,17 @@ The threat was vague because the area was covered in fog.
 
 5096
 Jeremey had forgotten why he was so angry.
-ဂျယ်ရမီက သူ ဘာကြောင့် ဒေါသ အရမ်းထွက်ခဲ့တယ်ဆိုတာကို မေ့လျော့ခဲ့တယ်။
+Jeremey က သူ ဘာကြောင့် ဒေါသ အရမ်းထွက်ခဲ့တယ်ဆိုတာကို မေ့လျော့ခဲ့တယ်။
 #5/5
 
 5097
 Jeremy opened his hand, revealing his palms.
-ဂျယ်ရမီက သူ့လက်ကို ဖွင့်လိုက် ပြီး ၊ လက်ဖဝါးတွေကို ပြလိုက်တယ်။
+Jeremy က သူ့လက်ကို ဖွင့်လိုက် ပြီး ၊ လက်ဖဝါးတွေကို ပြလိုက်တယ်။
 #5/5
 
 5098
 Jeremy tightened his fists.
-ဂျယ်ရမီ က သူ ၏ လက်သီးတွေကို တင်းတင်းဆုပ်ထားတယ်။
+Jeremy က သူ ၏ လက်သီးတွေကို တင်းတင်းဆုပ်ထားတယ်။
 #5/5
 
 5099

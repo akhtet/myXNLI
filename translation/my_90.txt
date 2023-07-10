@@ -80,7 +80,7 @@ I am quite certain that the residents are strongly against anything that would b
 
 8907
 Secretly the residents of Madrid and Atlanta practice their customs at home.
-မက်ဒရစ် နဲ့ အက်လန်တာ ဒေသခံတွေက သူတို့ရဲ့ ဓလေ့ထုံးတမ်းများကို အိမ်တွင် တိတ်တဆိတ် ကျင့်သုံးကြတယ်။
+မဒရစ် နဲ့ အတ္တလန်တာ ဒေသခံတွေက သူတို့ရဲ့ ဓလေ့ထုံးတမ်းများကို အိမ်တွင် တိတ်တဆိတ် ကျင့်သုံးကြတယ်။
 #5/5
 
 8908
@@ -135,17 +135,17 @@ The president will be surprised and upset by this news.
 
 8918
 All ivory-tower libertarians would have an emotional reaction to these ideas.
-ဆင်စွယ်မျှော်စင် လွတ်လပ်သော အတွေးအခေါ်သမား အားလုံးသည် ဤယူဆချက်များ အပေါ် စိတ်ခံစားမှု့အရ တုံ့ပြန်မှု ရှိကြပေမည်။
+Ivory-tower လစ်ဘရယ်သမား အားလုံးသည် ဤယူဆချက်များ အပေါ် စိတ်ခံစားမှု့အရ တုံ့ပြန်မှု ရှိကြပေမည်။
 #4/5
 
 8919
 Ivory-tower libertarians would be interested in these issues.
-ဆင်စွယ်မျှော်စင် လွတ်လပ်သော အတွေးအခေါ်သမားများသည် ဤပြဿနာများကို စိတ်ဝင်စားကြလိမ့်မည်။
+Ivory-tower လစ်ဘရယ်သမား များသည် ဤပြဿနာများကို စိတ်ဝင်စားကြလိမ့်မည်။
 #4/5
 
 8920
 These issues would not cause ivory-tower libertarians to think twice about them.
-ဒီပြဿနာများသည် ဆင်စွယ်မျှော်စင် လွတ်လပ်သော အတွေးအခေါ်သမားများကို နှစ်ခါပြန် စဉ်းစားစေမည် မဟုတ်ပါ။
+ဒီပြဿနာများသည် Ivory-tower လစ်ဘရယ်သမားများကို နှစ်ခါပြန် စဉ်းစားစေမည် မဟုတ်ပါ။
 #4/5
 
 8921
@@ -440,27 +440,27 @@ It is very common for filmmakers to learn on the job.
 
 8979
 Rob Soderbergh is an award winning filmmaker.
-ရော့ဘ် ဆိုဒါဘက်ဂ် သည် ဆုရ ရုပ်ရှင်ဒါရိုက်တာ တစ်ဦး ဖြစ်သည်။
+Rob Soderbergh သည် ဆုရ ရုပ်ရှင်ဒါရိုက်တာ တစ်ဦး ဖြစ်သည်။
 #5/5
 
 8980
 Soderbergh is a filmmaker with the skill of learning on the job.
-ဆိုဒါဘက်ဂ် က အလုပ်လုပ်ရင်း သင်ယူတတ်မြောက်ထားတဲ့ ရုပ်ရှင်ရိုက်ကူးရေးသမား တစ်ဦး ဖြစ်တယ်။
+Soderbergh က အလုပ်လုပ်ရင်း သင်ယူတတ်မြောက်ထားတဲ့ ရုပ်ရှင်ရိုက်ကူးရေးသမား တစ်ဦး ဖြစ်တယ်။
 #5/5
 
 8981
 Clarke has worries about how we will respond to the recent violence.
-မကြာသေးမီက အကြမ်းဖက်မှုများကို ကျွန်ုပ်တို့ မည်သို့တုံ့ပြန်မည်ကို ကလက်ခ် က စိုးရိမ်ပူပန်လျက်ရှိတယ်။
+မကြာသေးမီက အကြမ်းဖက်မှုများကို ကျွန်ုပ်တို့ မည်သို့တုံ့ပြန်မည်ကို Clarke က စိုးရိမ်ပူပန်လျက်ရှိတယ်။
 #4/5
 
 8982
 Clarke has worries about our foreign policy.
-ကလက်ခ် က ကျွန်ုပ်တို့ရဲ့ နိုင်ငံခြားရေးမူဝါဒနှင့် ပတ်သက်ပြီး စိုးရိမ်ပူပန်မှု့များရှိသည်။
+Clarke က ကျွန်ုပ်တို့ရဲ့ နိုင်ငံခြားရေးမူဝါဒနှင့် ပတ်သက်ပြီး စိုးရိမ်ပူပန်မှု့များရှိသည်။
 #4/5
 
 8983
 Clarke knows everything will be fine.
-ကလက်ခ် က အရာအားလုံး အဆင်ပြေသွားမယ်ဆိုတာ သိတယ်။
+Clarke က အရာအားလုံး အဆင်ပြေသွားမယ်ဆိုတာ သိတယ်။
 #5/5
 
 8984
@@ -477,7 +477,6 @@ The Times said Bush needed to show honesty.
 The Times said Bush should just lie to everone.
 ဘုရှ် က လူတိုင်းကို လိမ်ညာသင့်တယ်လို့ တိုင်းမ်စ် က ဆိုခဲ့ပါတယ်။
 #5/5
-
 
 8987
 Bruce apologizes very often.

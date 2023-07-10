@@ -61,6 +61,7 @@ Before going forth, the reader may wish to attempt this challenge.
 9603
 The reader may want to try this challenge before proceeding.
 စာဖတ်သူသည် ရှေ့မဆက်ခင် ဤစိန်ခေါ်မှု ကို စမ်းကြည့်ချင်လို့ ရပါသည်။
+# 4/5
 
 9604
 The reader should proceed without attempting the pointless feat.
@@ -305,7 +306,7 @@ Even in a noisy environment, you can learn the most important information by loo
 9652
 You can understand what is being communicated by facial expressions and hand gestures even when you can't hear what is being said.
 သင် သည် ဘာကို ပြောနေသည် ကို မကြားနိုင်လျှင်တောင်မှ မျက်နှာအမူအရာများနှင့် လက်ဟန်ခြေဟန်များဖြင့် ဘာကို ပြောချင်နေသည် ကို သင်သည် နားလည်နိုင်သည် ။
-# 5/4
+# 5/5
 
 9653
 The birds and bees are mentioned in this Latin poem, but no people are described.

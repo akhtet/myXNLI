@@ -315,8 +315,8 @@ Lover သည် သူ့ခေါင်းပေါ်မှာ ပစ်မှ
 # 4/5
 
 9954
-Lover was on the run from the law who wanted him dead.
-Lover သည် သူ့ကိုသေစေလိုသော ဥပဒေမှ ပြေးနေသည်။
+Lover was on the run who wanted him dead.
+သူ့ကိုသေစေလိုသော Lover က ထွက်ပြေးနေရသည်။
 # 4/5
 
 9955
@@ -457,18 +457,22 @@ Inglish က အင်္ဂလိပ်စာ ထက် ပိုခက်သည
 9982
 Inglish is the same as English.
 Inglish သည် အင်္ဂလိပ်စာနှင့် အတူတူဖြစ်သည်။
+# 5/5
 
 9983
 New etymologies are really delicate to introduce.
 ဝေါဟာရသမိုင်းအသစ်များသည် မိတ်ဆက်ပေးရန် တကယ်ကို သိမ်မွေ့သည်။
+# 4/5
 
 9984
 You can just propose a new etymology whenever youw ant.
-မင်းလိုသည့်အခါတိုင်း ဝေါဟာရသမိုင်းအသစ်တစ်ခုကိုသ ာ မင်း အဆိုပြုနိုင်သည်။
+ဝေါဟာရသမိုင်းအသစ်တစ်ခုကို မင်းလိုသည့်အခါတိုင်း အဆိုပြုနိုင်သည်။
+# 4/5
 
 9985
 You hae to be careful when you think of a new etymology.
 ဝေါဟာရသမိုင်းအသစ်တစ်ခုကို မင်း စဉ်းစားတဲ့အခါ မင်း သတိထားရမယ်။
+# 4/5
 
 9986
 It has been a month since the election.
@@ -477,7 +481,7 @@ It has been a month since the election.
 
 9987
 It has been a month since the presidential election.
-သမ္မတရွေးကောက်ပွဲ လုပ်ကတည်းက တစ်လရှိပြီ။
+သမ္မတ ရွေးကောက်ပွဲ လုပ်ကတည်းက တစ်လရှိပြီ။
 # 5/5
 
 9988

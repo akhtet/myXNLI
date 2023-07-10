@@ -80,7 +80,7 @@ Kinabalu အမျိုးသား ဥယျာဉ်တွင် ဆင် �
 
 5607
 The state has protected regions, which include the Kinabalu national park.
-ပြည်နယ်တွင် ကီနာဘာလု အမျိုးသား ဥယျာဉ် ပါ၀င်သော ၊ ကန့်သတ်ထားသည့် ဒေသများ ရှိသည်။
+ပြည်နယ်တွင် Kinabalu အမျိုးသား ဥယျာဉ် ပါ၀င်သော ၊ ကန့်သတ်ထားသည့် ဒေသများ ရှိသည်။
 5/5
 
 5608
@@ -90,17 +90,17 @@ There is a total of three protected regions in the state.
 
 5609
 Sofias is close to the Megaro Mousikis Metro station.
-ဆိုဖီယာသည် မီဂရို မောက်စီကစ် မီထရို ဘူတာရုံနှင့် နီးသည်။
+Sofias သည် Megaro Mousikis ရထား ဘူတာရုံနှင့် နီးသည်။
 5/5
 
 5610
 Sofias is inside the Megaro Mousikis Metro station.
-ဆိုဖီယာသည် မီဂရို မောက်စီကစ် မီထရို ဘူတာရုံ အတွင်းမှာ ရှိသည်။
+Sofias သည် Megaro Mousikis ရထား ဘူတာရုံ အတွင်းမှာ ရှိသည်။
 5/5
 
 5611
 Sofias is within a stone throw of the Megaro Mousikis Metro station.
-ဆိုဖီယာသည် မီဂရို မောက်စီကစ် မီထရို ဘူတာရုံ ၏ တိုတောင်းသော အကွာအဝေး တစ်ခု အတွင်း ရှိသည်။
+Sofias သည် Megaro Mousikis ရထား ဘူတာရုံ ၏ တိုတောင်းသော အကွာအဝေး တစ်ခု အတွင်း ရှိသည်။
 5/5
 
 5612
@@ -110,17 +110,17 @@ Greece and its people have never figured out how to build temples.
 
 5613
 It took two decades and five thousand men to build the Olympieion temple.
-အိုလံပီယွန် ဗိမာန်ကို တည်ဆောက် ရန် ဆယ်စုနှစ် နှစ်ခု နှင့် လူ ငါးထောင်ခန့် အချိန်ယူခဲ့ရသည်။
+Olympieion ဗိမာန်ကို တည်ဆောက် ရန် ဆယ်စုနှစ် နှစ်ခု နှင့် လူ ငါးထောင်ခန့် အချိန်ယူခဲ့ရသည်။
 5/5
 
 5614
 The Olympieion is the site of one of the temples that were built in Greece.
-အိုလံပီယွန်သည် ဂရိနိုင်ငံတွင် တည်ဆောက်ခဲ့သော ဘုရားကျောင်းများထဲမှ တစ်ခု၏ တည်နေရာ ဖြစ်သည်။
+Olympieion သည် ဂရိနိုင်ငံတွင် တည်ဆောက်ခဲ့သော ဘုရားကျောင်းများထဲမှ တစ်ခု၏ တည်နေရာ ဖြစ်သည်။
 5/5
 
 5615
 The Pble Espanyol is only for adults.
-ပိုဘဲလ် အက်စ်ပန်ညော် သည် အရွယ်ရောက်ပြီးသောသူများ အတွက် သာလျှင် ဖြစ်သည်။
+Pble Espanyol သည် အရွယ်ရောက်ပြီးသောသူများ အတွက် သာလျှင် ဖြစ်သည်။
 5/5
 
 5616
@@ -150,17 +150,17 @@ The staff works to increase how many flamingos are on the island.
 
 5621
 Singel was a tourist location.
-ဆင်ဂဲလ် သည် ခရီးသွား နေရာ တစ်ခု ဖြစ်ခဲ့သည်။
+Singel သည် ခရီးသွား နေရာ တစ်ခု ဖြစ်ခဲ့သည်။
 5/5
 
 5622
 Singel was an inner city.
-ဆင်ဂဲလ်သည် အတွင်းကျသော မြို့ တစ်မြို့ ဖြစ်ခဲ့သည်။
+Singel သည် အတွင်းကျသော မြို့ တစ်မြို့ ဖြစ်ခဲ့သည်။
 5/5
 
 5623
 Singel was an outer barrier.
-ဆင်ဂဲလ်သည် ပြင်ပ အတားအဆီး တစ်ခု ဖြစ်ခဲ့သည်။
+Singel သည် ပြင်ပ အတားအဆီး တစ်ခု ဖြစ်ခဲ့သည်။
 5/5
 
 5624
@@ -200,12 +200,12 @@ The Dora Stratou Folk Dance Theater is selling tickets for the May-September fes
 
 5631
 The auditorium on Philopappos Hill is closed from May to September.
-ဖီလိုပတ်ပိုစ့် တောင်ကုန်း ရှိ ဇာတ်ရုံသည် မေလမှ စက်တင်ဘာလအထိ ပိတ်သည်။
+Philopappos တောင်ကုန်း ရှိ ဇာတ်ရုံသည် မေလမှ စက်တင်ဘာလအထိ ပိတ်သည်။
 5/5
 
 5632
 There will be dance activities on Philopappos Hill from May to September.
-ဖီလိုပတ်ပိုစ့် တောင်ကုန်း တွင် မေလမှ စက်တင်ဘာလအထိ အက လှုပ်ရှားမှုများ ပြုလုပ်လိမ့်မည်။
+Philopappos တောင်ကုန်း တွင် မေလမှ စက်တင်ဘာလအထိ အက လှုပ်ရှားမှုများ ပြုလုပ်လိမ့်မည်။
 5/5
 
 5633
@@ -235,7 +235,7 @@ The church is a very modern style.
 
 5638
 The church looks like Baroque style.
-ဘုရားကျောင်းသည် ဘာရိုကျူ့ ပုံစံနှင့် တူသည်။
+ဘုရားကျောင်းသည် Baroque ပုံစံနှင့် တူသည်။
 5/5
 
 5639
@@ -285,17 +285,17 @@ Treasure Beach is one of the many resorts in the area.
 
 5648
 Bona features the kecak dance prominently.
-ဘိုနာသည် ကီးကပ် အကကို ထင်ထင်ရှားရှား ဖော်ပြသည်။
+Bona သည် kecak အကကို ထင်ထင်ရှားရှား ဖော်ပြသည်။
 5/5
 
 5649
 Bona is the home of the kecak dance.
-ဘိုနာသည် ကီးကပ် အက၏ မွေးဖွားရာ ဖြစ်သည်။
+Bona သည် kecak အက၏ မွေးဖွားရာ ဖြစ်သည်။
 5/5
 
 5650
 The kecak dance is not from Bona.
-ကီးကပ် အကသည် ဘိုနာ ဆီမှ မဟုတ်ပါ။
+Kecak အကသည် ဘိုနာ ဆီမှ မဟုတ်ပါ။
 5/5
 
 5651
@@ -360,17 +360,17 @@ There aren't many jazz clubs in Los Angeles.
 
 5663
 Karl-Marx-Allee has seen better days.
-ကာလ်-မာစ်-အယ်လီးသည် ပိုမိုကောင်းမွန်သော နေ့ရက်များကို မြင်တွေ့ခဲ့ဖူးသည်။
+Karl-Marx-Allee သည် ပိုမိုကောင်းမွန်သော နေ့ရက်များကို မြင်တွေ့ခဲ့ဖူးသည်။
 5/5
 
 5664
 Karl-Marx-Allee is falling apart.
-ကာလ်-မာစ်-အယ်လီးသည် ပြိုကျနေသည်။
+Karl-Marx-Allee သည် ပြိုကျနေသည်။
 5/5
 
 5665
 Karl-Marx-Allee is in pristine shape.
-ကာလ်-မာစ်-အယ်လီးသည် သစ်လွင်သော ပုံစံ ရှိနေသည်။
+Karl-Marx-Allee သည် သစ်လွင်သော ပုံစံ ရှိနေသည်။
 5/5
 
 5666
@@ -384,23 +384,23 @@ You can swim with dolphins who can do crazy tricks.
 5/5
 
 5668
-You can swim with the dophins at the resort.
+You can swim with the dolphins at the resort.
 မင်း အပန်းဖြေစခန်းမှာ လင်းပိုင်တွေနဲ့ ရေကူးနိုင်ပါတယ်။
 5/5
 
 5669
 Nafplio has a good view.
-နာဖလီယို တွင် ကောင်းမွန်သော မြင်ကွင်း တစ်ခု ရှိသည်။
+Nafplio တွင် ကောင်းမွန်သော မြင်ကွင်း တစ်ခု ရှိသည်။
 5/5
 
 5670
 Nafplio is a bad base.
-နာဖလီယိုသည် မကောင်းသော ဌာနချုပ် တစ်ခုဖြစ်သည်။
+Nafplio သည် မကောင်းသော ဌာနချုပ် တစ်ခုဖြစ်သည်။
 5/5
 
 5671
 Nafplio is a perfect base.
-နာဖလီယိုသည် ပြီးပြည့်စုံသော ဌာနချုပ် တစ်ခုဖြစ်သည်။
+Nafplio သည် ပြီးပြည့်စုံသော ဌာနချုပ် တစ်ခုဖြစ်သည်။
 5/5
 
 5672
@@ -420,17 +420,17 @@ Culebra is somewhere between Puerto Rico and St. Thomas in the US Virgin Islands
 
 5675
 Umeda is not part of the entertainment district.
-ယူမီဒါသည် ဖျော်ဖြေရေး ခရိုင် ၏ အပိုင်း မဟုတ်ပါ။
+Umeda သည် ဖျော်ဖြေရေး ခရိုင် ၏ အပိုင်း မဟုတ်ပါ။
 5/5
 
 5676
 Umeda is the largest part of the entertainment district.
-ယူမီဒါသည် ဖျော်ဖြေရေး ခရိုင် ၏ အကြီးမားဆုံး အပိုင်း ဖြစ်သည်။
+Umeda သည် ဖျော်ဖြေရေး ခရိုင် ၏ အကြီးမားဆုံး အပိုင်း ဖြစ်သည်။
 5/5
 
 5677
 Umeda is the north end of the entertainment district.
-ယူမီဒါသည် ဖျော်ဖြေရေး ခရိုင် ၏ မြောက်ဖက် အစွန်းတွင် ဖြစ်သည်။
+Umeda သည် ဖျော်ဖြေရေး ခရိုင် ၏ မြောက်ဖက် အစွန်းတွင် ဖြစ်သည်။
 5/5
 
 5678
@@ -465,17 +465,17 @@ The 1896 Neo-Gothic Calvinist Church has no panoramic views.
 
 5684
 The Saguenay River was part of the coal market.
-စောက်ဂူနေ မြစ်သည် ကျောက်မီးသွေး ဈေးကွက်၏ အစိတ်အပိုင်း ဖြစ်ခဲ့သည်။
+Saguenay မြစ်သည် ကျောက်မီးသွေး ဈေးကွက်၏ အစိတ်အပိုင်း ဖြစ်ခဲ့သည်။
 5/5
 
 5685
 The Saguenay River was part of the fur trade by the French to the Spanish.
-စောက်ဂူနေ မြစ်သည် ပြင်သစ်မှ စပိန်သို့ သားမွေး ကုန်သွယ်မှု၏ တစ်စိတ်တစ်ပိုင်း ဖြစ်သည်။
+Saguenay မြစ်သည် ပြင်သစ်မှ စပိန်သို့ သားမွေး ကုန်သွယ်မှု၏ တစ်စိတ်တစ်ပိုင်း ဖြစ်သည်။
 5/5
 
 5686
 The Saguenay River was part of the fur trade.
-စောက်ဂူနေ မြစ်သည် သားမွေး ကုန်သွယ်မှု ၏ တစ်စိတ်တစ်ပိုင်း ဖြစ်ခဲ့သည်။
+Saguenay မြစ်သည် သားမွေး ကုန်သွယ်မှု ၏ တစ်စိတ်တစ်ပိုင်း ဖြစ်ခဲ့သည်။
 5/5
 
 5687
@@ -510,17 +510,17 @@ Brahma is the most important part of the trinity.
 
 5693
 Balza's home and Delacroix's studio are the best things to see in the area.
-ဘလ်ဇာ ၏ အိမ် နှင့် ဒဲလာခရိုစ် ၏ စတုဒီယိုသည် ဒီ နေရာတွင် ကြည့်ရှု့ ရန် အကောင်းဆုံး အရာများ ဖြစ်ပါသည်။
+Balza ၏ အိမ် နှင့် ဒဲလာခရိုစ် ၏ စတုဒီယိုသည် ဒီ နေရာတွင် ကြည့်ရှု့ ရန် အကောင်းဆုံး အရာများ ဖြစ်ပါသည်။
 5/5
 
 5694
 Balzac's home and Delacroix's studio are not in this location.
-ဘလ်ဇာ ၏ အိမ် နှင့် ဒဲလာခရိုစ် ၏ စတုဒီယိုသည် ဒီ နေရာ မှာ မရှိပါ။
+Balzac ၏ အိမ် နှင့် ဒဲလာခရိုစ် ၏ စတုဒီယိုသည် ဒီ နေရာ မှာ မရှိပါ။
 5/5
 
 5695
 Balzac's home and Delacroix's studio are worth checking out.
-ဘလ်ဇာ ၏ အိမ် နှင့် ဒဲလာခရိုစ် ၏ စတုဒီယိုသည် အလည်သွားရန် ထိုက်တန်သည်။
+Balzac ၏ အိမ် နှင့် ဒဲလာခရိုစ် ၏ စတုဒီယိုသည် အလည်သွားရန် ထိုက်တန်သည်။
 5/5
 
 5696
@@ -540,10 +540,10 @@ The war was over in just a day.
 
 5699
 The Spartans defeated the Persians at Thermopylae.
-စပါတာများသည် သာမောပလီးတွင် ပါရှားလူမျိုးများကို စစ်ရှုံးခဲ့သည်။
+စပါတန်များသည် သာမောပလီးတွင် ပါရှားလူမျိုးများကို အနိုင်ရခဲ့သည်။
 5/5
 
 5700
 The Spartans delayed the Persian army at Thermopylae.
-စပါတာများသည် သာမောပလီးတွင် ပါရှား စစ်တပ်ကို နှောင့်နှေးစေခဲ့သည်။
+စပါတန်များသည် သာမောပလီးတွင် ပါရှား စစ်တပ်ကို နှောင့်နှေးစေခဲ့သည်။
 5/5

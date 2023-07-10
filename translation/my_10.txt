@@ -51,399 +51,499 @@
 901
 I see, sir, that you do not yet quite apprehend the circumstances.
 ဆရာ၊ ဒီအခြေအနေတွေကို လုံးလုံးလျားလျား နားမလည်သေးဘူးဆိုတာ ကျွန်တော် သိပါတယ်။ 
+#5/5
  
 902
-I am pressed,  she informed him.
+I am pressed,  she informed him
 ကျွန်တော်ကို ဖိအားပေးခဲ့တယ်လို့ ၊ သူမက သူ့ကို သတင်းပေးခဲ့တယ်။
+#4/5
 
 903
 As for me,  said Lord Julian, with intent to make Miss Bishop's departure free from all interference on the part of the buccaneers,  I shall remain aboard the Arabella until we reach Port Royal.
-ငါအတွက် မစ်ဘစ်ရှော့၏ ထွက်ခွာမှုကို ပင်လယ်ဓါးမြဘက်က နှောင့်ယှတ်ခြင်းများအားလုံး ကင်းဝေးစေရန် ရည်ရွယ်ချက် နှင့်အတူ ၊ သခင်ဂျူလီယန်က ငါတို့ ပေါ့ရိုင်ရယ်ကို မရောက်မချင်း အာရာဘဲလာ မှာ ငါ ရှိနေလိမ့်မယ် လို့ ပြောကြားခဲ့ပါတယ်။
+ငါအတွက် Miss Bishop ၏ ထွက်ခွာမှုကို ပင်လယ်ဓါးမြဘက်က နှောင့်ယှတ်ခြင်းများအားလုံး ကင်းဝေးစေရန် ရည်ရွယ်ချက် နှင့်အတူ ၊ သခင် Julian က ငါတို့ ပေါ့ရိုင်ရယ်ကို မရောက်မချင်း Arabella မှာ ငါ ရှိနေလိမ့်မယ် လို့ ပြောကြားခဲ့ပါတယ်။
+#5/5
 
 904
 Besides, how could their staying have helped me?  And as Pitt did not answer him:  Ye see?  he said, and shrugged.
-ဒါအပြင်၊ သူတို့ရဲ့ နေထိုင်မှုက ငါ့ကိုဘယ်လိုကူညီမှာလဲ။ ပြီးတော့ ပစ်တ်က သူကိုမဖြေခဲ့ဘူး ဆိုတာ မင်းမြင်လားလို့ ပခုံးတွန့်ပြီး သူပြောခဲ့တယ်။
+ဒါအပြင်၊ သူတို့ရဲ့ နေထိုင်မှုက ငါ့ကိုဘယ်လိုကူညီမှာလဲ။ ပြီးတော့ Pitt က သူကိုမဖြေခဲ့ဘူး ဆိုတာ မင်းမြင်လားလို့ ပခုံးတွန့်ပြီး သူပြောခဲ့တယ်။
+#5/5
 
 905
 Then:   You ordered it?  he said in accents of unbelief, whilst Lord Julian raised his eyebrows.
-ထို့နောက် : ဒါ မင်း မှာထားတာလား လို့ လော့ဒ်ဂျူလီယန်က သူ၏မျက်ခုံးများကို မြှင့်တင်ပြီး ၊ မယုံကြည်သော လေသံဖြင့် ပြောခဲ့သည်။
+ထို့နောက် : ဒါ မင်း မှာထားတာလား လို့ သခင် Julian က သူ၏မျက်ခုံးများကို မြှင့်တင်ပြီး ၊ မယုံကြည်သော လေသံဖြင့် ပြောခဲ့သည်။
+#5/5
 
 906
 Expressly.   His lordship waited a moment for a reply.
 သီးသီးသန့်သန့်။ သူ့ ခေါင်းဆောင်က အကြောင်းပြန်စာ တစ်စောင်ကို ခဏ စောင့်ခဲ့တယ်။
+#5/5
 
 907
 But it'll be about the Old Wolf that he wants to see you.
 ဒါပေမယ့် သူ မင်းကို တွေ့ချင်တာက ဝံပုလွေအို အကြောင်းပဲ ဖြစ်လိမ့်မယ်။
+#5/5
 
 908
 I can't think that it would make the least difference if he did,  said his lordship gravely.
 သူလုပ်ရင်ကွာခြားချက်အနည်းဆုံးဖြစ်လိမ့်မယ်လို့ငါမထင်ဘူးလို့သူရဲ့ခေါင်းဆောင်ကလေးနက်စွာပြောခဲ့တယ်။
+#5/5
 
 909
 You know, Peter, that it is Lord Julian alone has stood between Bishop and his hate of you.
-မင်းသိလား ၊ ပီတာ ၊ လော့ဒ်ဂျူလီယန် တယောက်တည်းကသာ ဘစ်ရှော့ နှင့် မင်းကိုမုန်းတဲ့သူကြားမှာ ရပ်နေခဲ့တာ။ 
+မင်းသိလား ၊ Peter ၊ သခင် Julian တယောက်တည်းကသာ Bishop နှင့် မင်းကိုမုန်းတဲ့သူကြားမှာ ရပ်နေခဲ့တာ။ 
+#5/5
 
 910
 But many could not resolve one way or the other until they were satisfied upon several questions, and chiefly upon one which was voiced by Ogle.
 ဒါပေမယ့် သူတို့သည် မေးခွန်းများစွာအတွက် ကျေနပ်ကြ ပြီး အဓိကအားဖြင့် အိုဂယ်မှ အသံထွက်သည့်အပေါ်တွင် အများစုသည် တနည်းမဟုတ်တနည်းဖြေရှင်းနိုင်ခြင်းမရှိခဲ့ပါ။
+#5/5
 
 911
 Ye're going to deliver yourself into Bishop's hands,  Pitt warned him.
-မင်းကိုယ်မင်းဘစ်ရှော့လက်ထဲ မင်းကိုယ်တိုင်အပ်တော့မယ်လို့ ပစ်တ်ကသူ့ကိုသတိပေးခဲ့တယ်။
+မင်းကိုယ်မင်း Bishop လက်ထဲ မင်းကိုယ်တိုင်အပ်တော့မယ်လို့ Pitt ကသူ့ကိုသတိပေးခဲ့တယ်။
+#5/5
 
 912
 Standing beside Captain Blood, he looked astern, following the indication of the Captain's hand, and cried out in his amazement.
-သူ ခြောက်ချားစွာ ကြည့်နေပြီး ခေါင်းဆောင် ဘလတ် ဘေးမှာရပ်နေတဲ့ ခေါင်းဆောင်၏လက်ကိုညွှန်ပြပြီး သူတအံ့တဩနှင့်အော်ဟစ်လိုက်သည်။
+သူ ခြောက်ချားစွာ ကြည့်နေပြီး ကပ္ပတိန် Blood ဘေးမှာရပ်နေတဲ့ ခေါင်းဆောင်၏လက်ကိုညွှန်ပြပြီး သူတအံ့တဩနှင့်အော်ဟစ်လိုက်သည်။
+#4/5
 
 913
 He may be right, and he may be wrong.
 သူမှန်နိုင်တယ်၊ ပြီးတော့သူမှားနိုင်တယ်။
+#5/5
 
 914
 Your words have rankled with him.
 မင်းရဲ့စကားလုံးတွေက သူအတွက် တစိမ့်စိမ့်နာကျည်းစေသည်။
+#5/5
 
 915
 But if she resented his tone and his words, she stifled her resentment.
 ဒါပေမယ့် သူမကို သူရဲ့အသံနဲ့ သူရဲ့စကားလုံးတွေက နာကြည်းစေတယ်ဆိုရင်၊ သူမရဲ့နာကြည်မှုကသူမကိုချုပ်နှောင်ခဲ့တယ်။
+#4/5
 
 916
 I am informed that yesterday evening a frigate left the harbour having on board your associate Wolverstone and a hundred men of the hundred and fifty that were serving under you.
-မနေ့ကညနေပိုင်းက မင်းရဲ့တွဲဘက် ဝိုးလ်ဗာစတုန်းနဲ့ မင်းလက်အောက်မှာ တာဝန်ထမ်းဆောင်နေတဲ့ တစ်ရာငါးဆယ်ယောက်ထဲက ယောက်ျား တစ်ရာယောက်ကို တင်ဆောင်ပြီး ဖရီးဂိတ်သင်္ဘောတစ်စီး ဆိပ်ကမ်းမှ ထွက်ခွာသွားကြောင်း ကျွန်တော် အသိပေးခဲ့ပါသည်။
+မနေ့ကညနေပိုင်းက မင်းရဲ့တွဲဘက် Wolverstone နဲ့ မင်းလက်အောက်မှာ တာဝန်ထမ်းဆောင်နေတဲ့ တစ်ရာငါးဆယ်ယောက်ထဲက ယောက်ျား တစ်ရာယောက်ကို တင်ဆောင်ပြီး frigate သင်္ဘောတစ်စီး ဆိပ်ကမ်းမှ ထွက်ခွာသွားကြောင်း ကျွန်တော် အသိပေးခဲ့ပါသည်။
+#5/5
 
 917
 England's,  she corrected him in reproof.
 အင်္ဂလန်၏ ၊ သူမသည် ဆုံမစာတွင် သူ့ကို ပြုပြင်ခဲ့တယ်။ 
+#4/5
 
 918
 But I suspect this gravity for a mask under which Lord Julian was secretly amused.
-ဒါပေမဲ့လည်း လော့ဒ်ဂျူလီယန်သည် တိတ်တိတ်လေး ပြုံးရယ်နေတဲ့ ဒီ မျက်နှာဖုံးအောက်က ဒီ ဆွဲဆောင်မှုကို ငါ သံသယဖြစ်မိတယ်။ 
+ဒါပေမဲ့လည်း သခင် Julian သည် တိတ်တိတ်လေး ပြုံးရယ်နေတဲ့ ဒီ မျက်နှာဖုံးအောက်က ဒီ ဆွဲဆောင်မှုကို ငါ သံသယဖြစ်မိတယ်။ 
+#4/5
 
 919
 And instantly would have recalled the words had she been able.
 ပြီးတော့ သူမ တက်နိုင်တဲ့ စကားလုံးတွေကို ချက်ချင်းသတိရသွားလိမ့်မယ်။
+#5/5
 
 920
 But that it was no more than a mask for his fury and his venom was plain to all.
-ဒါပေမယ့် ဒါဟာ သူ့ ဒေါသ အတွက် မျက်နှာဖုံးတစ်ခုထက်မပိုပါဘူး ပြီးတော့ သူ့ အဆိပ်သည် အားလုံးကို ရှင်းလင်းခဲ့တယ်။
+ဒါပေမယ့် ဒါဟာ သူ့ ဒေါသ အတွက် မျက်နှာဖုံးတစ်ခုထက်မပိုပါဘူး ပြီးတော့ သူ့ အဆိပ်ကို အားလုံးက ရှင်းရှင်းလင်းလင်းသိစေခဲ့တယ်။
+#5/5
 
 921
 Levasseur?  He smiled a little.
-လဲဗက်ဆာ။ သူ အနည်းငယ်ပြုံးခဲ့တယ်။
+Levasseur? သူ အနည်းငယ်ပြုံးခဲ့တယ်။
+#4/5
 
 922
 I hope your lordship begins at last to perceive the folly of granting the King's commission to such a man as this against all my counsels.
 ငါရဲ့ အကြံဉာဏ်များကို ဆန့်ကျင်သောသူအား ဘုရင်၏ တာဝန်ကို မိုက်မဲစွာပေးခြင်းကို နောက်ဆုံးမှာ မင်းရဲ့သခင် ရိပ်မိမယ်လို့ ငါမျှော်လင့်တယ်။
+#4/5
 
 923
 HOSTILITIES   In the great harbour of Port Royal, spacious enough to have given moorings to all the ships of all the navies of the world, the Arabella rode at anchor.
-ပစ်ခတ်တိုက်ခိုက်မှုများ ကမ္ဘာပေါ်ရှိ ရေတပ်အားလုံး၏ သင်္ဘောများအားလုံးကိုထားရှိရန် လုံလောက်ကျယ်ဝန်းသော သင်္ဘောကျင်းများရှိသည့် ပေါ့ရိုင်ရယ် ဆိပ်ကမ်းကြီးတွင် ၊ အာရာဘဲလာ သည် ကျောက်ဆူးချထားသည့်နေရာတွင် စီးနင်းခဲ့သည်။
+ပစ်ခတ်တိုက်ခိုက်မှုများ ကမ္ဘာပေါ်ရှိ ရေတပ်အားလုံး၏ သင်္ဘောများအားလုံးကိုထားရှိရန် လုံလောက်ကျယ်ဝန်းသော သင်္ဘောကျင်းများရှိသည့် Port Royal ဆိပ်ကမ်းကြီးတွင် ၊ Arabella သည် ကျောက်ဆူးချထားသည့်နေရာတွင် စီးနင်းခဲ့သည်။
+#5/5
 
 924
 He swung to Lord Julian.
-သူသည်လော့ဒ်ဂျူလီယန်သို့လွှဲပြောင်းခဲ့သည်။
+သူသည်  သခင် Julian ဘက်သို့ ပြောင်းခဲ့သည်။
+#5/5
 
 925
 Good-morning to you,  he said, and added  I've blundered badly, so I have.
 မင်္ဂလာနံနက်ခင်းပါလို့ သူက ပြောခဲ့ ပြီး ၊ ငါ ဆိုးဆိုးရွားရွား အမှားလုပ်မိလို့ပါလို့ ထပ်မံပြောခဲ့တယ်။
+#4/5
 
 926
 He stepped back, a baffled, impotent man.
 အံ့အားသင့်ပြီး ၊ မသန်စွမ်းသော ယောက်ျားတစ်ယောက် သည် နောက်ပြန်ဆုတ်ခဲ့တယ်။
+#4/5
 
 927
 Ah, now, can't ye, indeed?  he cried.
 အခုမင်းတကယ်လုပ်လို့မရဘူးလား။ သူငိုခဲ့တယ်။
+#5/5
 
 928
 Although even some o' they should know better, for there's still a few was on Barbados with us, and are acquainted like me and you with Colonel Bishop.
-တချို့က သူတို့ထက်ပိုသိသင့်ပေမယ် ၊ ဘာဘေးဒိုးစ်မှာ ငါတို့နင့်အတူ ရှိသေးသည့် အတွက် ၊ မင်းနဲ့ငါက ဗိုလ်မှူကြီးဘစ်ရှော့ နှင့်သိကျွမ်းခဲ့တယ်။
+တချို့က သူတို့ထက်ပိုသိသင့်ပေမယ် ၊ Barbados မှာ ငါတို့နင့်အတူ ရှိသေးသည့် အတွက် ၊ မင်းနဲ့ငါက ဗိုလ်မှူကြီးဘစ်ရှော့ နှင့်သိကျွမ်းခဲ့တယ်။
+#5/5
 
 929
 Pitt, loosely clad in shirt and breeches, leaned against the rail the while and watched him, unmistakable concern imprinted on his fair, frank countenance.
-အင်္ကျီ နှင့် ဘောင်းဘီတိုကို လျော့ရဲရဲဝတ်ထားသော ၊ ပစ်တ်က ၊ ရထားလမ်းကိုမှီ၍စောင့်ကြည့်နေစဉ်တွင် ၊ သူ၏ ရိုးသားဖြူစင် ပြီး ပွင့်လင်းသော မျက်နှာပေါ်တွင် မမှားနိုင်လောက်အောင် စိုးရိမ်ပူပန်မှုများ ဖုံးလွှမ်းထားသည်။
+အင်္ကျီ နှင့် ဘောင်းဘီတိုကို လျော့ရဲရဲဝတ်ထားသော ၊ Pitt က ၊ ရထားလမ်းကိုမှီ၍စောင့်ကြည့်နေစဉ်တွင် ၊ သူ၏ ရိုးသားဖြူစင် ပြီး ပွင့်လင်းသော မျက်နှာပေါ်တွင် မမှားနိုင်လောက်အောင် စိုးရိမ်ပူပန်မှုများ ဖုံးလွှမ်းထားသည်။
+#5/5
 
 930
 That'll be the signal to lie to,  said Blood, in the same listless voice; and he fetched a sigh.
-အဲဒါ လိမ်ဖို့ အချက်ပြလိမ့်မယ်လို့ ဘလတ်က မတက်ကြွသော အသံဖြင့် ပြောခဲ့ပြီး သူသည် သက်ပြင်းတစ်ချက်ချခဲ့သည်။
+အဲဒါ လိမ်ဖို့ အချက်ပြလိမ့်မယ်လို့ Blood က မတက်ကြွသော အသံဖြင့် ပြောခဲ့ပြီး သူသည် သက်ပြင်းတစ်ချက်ချခဲ့သည်။
+#5/5
 
 931
 And what better are these?--Are ye afeard of a lubberly Barbados planter? Whatever ails you, Peter? I've never known ye scared afore.   A gun boomed out behind them.
-ဒါတွေကဘယ်ဟာပိုကောင်းလဲ။ --- မင်းက လက်ဘယ်လီ ဘာဘေးဒိုးလ် စိုက်ပျိုးသူကို ကြောက်ပါသလား။ ပီတာ မင်းဘာပဲဖြစ်ဖြစ် ၊ မင်းကြောက်တာငါမသိဘူး။ သူတို့ရဲ့နောက်မှာသေနတ်သံကြားလိုက်တယ်။
+ဒါတွေကဘယ်ဟာပိုကောင်းလဲ။ --- မင်းက lubberley Barbados စိုက်ပျိုးသူကို ကြောက်ပါသလား။ ပီတာ မင်းဘာပဲဖြစ်ဖြစ် ၊ မင်းကြောက်တာငါမသိဘူး။ သူတို့ရဲ့နောက်မှာသေနတ်သံကြားလိုက်တယ်။
+#5/5
 
 932
 And a couple of miles this side of it, bearing after them, came speeding three great white ships.
 ၎င်းတို့နောက်မှ လိုက်ပါလာသော ၊ အဖြူရောင် သင်္ဘောကြီး သုံးစင်းသည် အရှိန်းပြင်းစွာဖြင့် ဒီဘက်ကမ်းနဲ့ မိုင်အနည်းငယ်အကွာသို့ ရောက်ရှိလာသည်။ 
+#5/5
 
 933
 It's our only chance, I've said, and we must take it.   The better way that was in Captain Blood's mind was the way that already he had proposed to Wolverstone.
-ဒါငါတို့ရဲ့တစ်ခုတည်းသောအခွင့်အရေးပဲ ၊ ငါတို့ ဒါကို ယူရမယ်လို့ ငါ ပြောခဲ့တယ်။ ခေါင်းဆောင် ဘလတ် ၏ စိတ်ထဲမှာ ရှိနေတဲ့ ပိုကောင်းတဲ့ နည်းလမ်းသည် ဝိုးလ်ဗာစတုန်းဆီသို့သူအဆိုပြုပြီးသော နည်းလမ်း ဖြစ်ခဲ့သည်။
+ဒါငါတို့ရဲ့တစ်ခုတည်းသောအခွင့်အရေးပဲ ၊ ငါတို့ ဒါကို ယူရမယ်လို့ ငါ ပြောခဲ့တယ်။ ကပ္ပတိန် Blood ၏ စိတ်ထဲမှာ ရှိနေတဲ့ ပိုကောင်းတဲ့ နည်းလမ်းသည် Wolverstone ဆီသို့သူအဆိုပြုပြီးသော နည်းလမ်း ဖြစ်ခဲ့သည်။
+#5/5
 
 934
 Some o' them dawcocks may believe that tale.  He jerked a contemptuous thumb towards the men in the waist, whose ranks were steadily being increased by the advent of others from the forecastle.
-သူတို့ထဲက တချိုသော ဒေါကော့လ်များသည် ထိုပုံပြင်ကို ယုံကြည်ကြသည်။ သူသည်  ကြိုတင်ခန့်မှန်းခြင်းမှ တခြားသူများ၏ ဆန်းသစ်တီထွင်မှုဖြင့် ရာထူးအဆင့်များ တဖြည်းဖြည်း တိုးလာခဲ့သူ အဆိုပါ အမျိုးသားများဆီသို့ ခါးထောက်ကာ အထင်သေးသော မလေးစားသည့်အမူအရာ တစ်ခု ကို ဆတ်ခနဲပြုလုပ်ခဲ့သည်။
+သူတို့ထဲက တချိုသော dawcocks များ သည် ထိုပုံပြင်ကို ယုံကြည်ကြသည်။ သူသည်  ကြိုတင်ခန့်မှန်းခြင်းမှ တခြားသူများ၏ ဆန်းသစ်တီထွင်မှုဖြင့် ရာထူးအဆင့်များ တဖြည်းဖြည်း တိုးလာခဲ့သူ အဆိုပါ အမျိုးသားများဆီသို့ ခါးထောက်ကာ အထင်သေးသော မလေးစားသည့်အမူအရာ တစ်ခု ကို ဆတ်ခနဲပြုလုပ်ခဲ့သည်။
+#5/5
 
 935
 The young master's grey eyes skimmed it.
-သခင်လေး၏မီးခိုးရောင်မျက်လုံးများက၎င်းကိုမှုန်ဝါးစေတယ်။
+သခင်လေး၏မီးခိုးရောင်မျက်လုံးများက၎င်းကိုအကြမ်းဖျဉ်းဖတ်ခဲ့သည်။
+#4/5
 
 936
 Whether the men in the panic Ogle had aroused among them would take a different view from Wolverstone's he did not know.
-ထိတ်လန့်တုန်လှုပ်နေသော အိုဂယ် မှ အမျိုးသားများသည် ဝိုးလ်ဗာစတုန်း၏ မတူညီသော အမြင်ကို ရှုမြင်ကြမည်လားဆိုတာကို သူ မသိခဲ့ပါ။
+ထိတ်လန့်တုန်လှုပ်နေသော Ogle မှ အမျိုးသားများသည် Wolverstone ၏ မတူညီသော အမြင်ကို ရှုမြင်ကြမည်လားဆိုတာကို သူ မသိခဲ့ပါ။
+#5/5
 
 937
 Heave her to, and signal to them to send a boat.   A silence of astonishment fell upon the ship--of astonishment and suspicion at this sudden yielding.
 သူမ ကို ထားလိုက်ပါ ၊ ပြီးတော့ သူတို့ကို လှေ တစ်စီး ပို့ရန် အချက်ပြလိုက်ပါ။ အဆိုပါ ရုတ်တရက် အလျှော့ပေးမှုကြောင့် အံ့ဩမှုနှင့် သံသယစိတ်ကြောင့် သင်္ဘောပေါ်သို့ အံ့ဩ တိတ်ဆိတ်မှုက ကျရောက်လာသည်။
+#5/5
 
 938
 If anything it increased his excitement.
 တခုခုဖြစ်လျှင်သူရဲ့စိတ်လှုပ်ရှားမှုကတိုးလာတယ်။
+#4/5
 
 939
 Then let them know that if they attempt to hinder our sailing hence, we'll hang the doxy first and fight for it after.
-ငါတို့ရွက်လွှင့်တာကို နှောင်းနေအောင် သူတို့ကြိုးပမ်းမယ်ဆိုရင် ၊ ငါတို့ ဒေါ့(စ်)စီကိုပထမဆုံး ဆွဲထား ပြီးမှ ၎င်းအတွက် တိုက်ပွဲဝင်မယ်ဆိုတာကို သူတို့ကို အသိပေးပါ။
+ငါတို့ရွက်လွှင့်တာကို နှောင်းနေအောင် သူတို့ကြိုးပမ်းမယ်ဆိုရင် ၊ ငါတို့ dozy ကိုပထမဆုံး ဆွဲထား ပြီးမှ ၎င်းအတွက် တိုက်ပွဲဝင်မယ်ဆိုတာကို သူတို့ကို အသိပေးပါ။
+#5/5
 
 940
 I accept it as the only way to save us all from the certain destruction into which my own act may have brought us.
 ကျွန်ုပ်၏ ကိုယ်ပိုင် လုပ်ရပ်က ကျွန်ုပ်တို့ကို ယူဆောင်လာသည့် တချို့သော ပျက်စီးခြင်းမှ ငါတို့အားလုံးကို ကယ်တင်နိုင်ရန် တစ်ခုတည်းသော နည်းလမ်းဖြစ်ကြောင်းကို ငါလက်ခံတယ်။
+#4/5
 
 941
 Good-day to you, sir,  Blood hailed him pleasantly.
-ကောင်းသောနေ့ပါဆရာ၊ ဘလတ် က သူ့ကိုသဘောကျစွာချီးကျူးလိုက်တယ်။ 
+ကောင်းသောနေ့ပါဆရာ၊  Blood က သူ့ကိုသဘောကျစွာချီးကျူးလိုက်တယ်။ 
+#5/5
 
 942
 I... I can't think why you should speak to me like this,  she said, with less than her earlier assurance.
 ငါ မင်းငါ့ကိုဘာလို့ ဒီလို့ပြောရတာလဲလို့ ငါစဉ်းစားလို့မရဘူး၊ သူမ၏အစောပိုင်းအာမခံချက်ထက် နည်းကြောင်းသူမပြောခဲ့တယ်။
+#5/5
 
 943
 And the quixotic fool is running into danger at the present moment on our behalf.
 ပြီးတော့ အခုချိန်တွင် ထူးဆန်းသော လူမိုက်က ငါတို့ ကိုယ်စား အန္တရာယ်ထဲတွင် ရောက်ရှိနေပြီဖြစ်သည်။
+#5/5
 
 944
 A thin, sour smile broke on the officer's haughty lips.
 မာနထောင်လွှားနေသောအရာရှိ၏ပါးသောနှုတ်ခမ်းပေါ်တွင်ချဉ်သောအပြုံးတခုပျက်သွားသည်။
+#5/5
 
 945
 Don't you, by God! And what else do you call this? But as His Majesty's Deputy-Governor of Jamaica, I'll take leave to correct your mistake in my own way.
 ဘုရားသခင်ကြောင့်မလုပ်နဲ့! ပြီးတော့မင်းဒါကိုဘာခေါ်လဲ။ ဂျမေကာဘုရင်မင်းမြတ်၏ လက်ထောက်ဘုရင်ခံအဖြစ်၊ ကိုယ့်နည်းကိုယ်ဟန်ဖြင့် မင်းရဲ့အမှားတေကိုပြင်ဖို့ခွင့်ပြုတယ်။
+#5/5
 
 946
 So that ye can be charitable in some ways!  He laughed softly.
-သို့မှသာ မင်းကတနည်းနည်းဖြင့်ကုသိုလ်ပြုနိုင်သည်! သူကတိုးတိုးလေးရယ်သည်။
+အဲ့တော့မှ မင်းကတနည်းနည်းဖြင့်ကုသိုလ်ပြုနိုင်မှာလေ! သူကတိုးတိုးလေးရယ်သည်။
+#5/5
 
 947
 Hark to the gentleman!  he mocked.
 လူကြီးလူကောင်းကနားထောင်တယ်!လို့ သူက လှောင်ပြောင်ခဲ့သည်။
+#5/5
 
 948
 So ye've come,  the Deputy-Governor hailed him, and followed the greeting by a series of grunts of vague but apparently ill-humoured import.
 မင်းရောက်လာပြီ၊ ဒုတိယအုပ်ချုပ်ရေးမှူးက သူ့ကိုချီးကျူးတယ်၊ ပြီးတော့ ဝိုးတဝါးအော်ဟစ်သံများဖြင့် နှုတ်ခွန်းဆက်စကားဆက်တိုက်ထွက်ပေါ်လာပြီးနောက် ရယ်စရာဟာသများထွက်ပေါ်လာသည်။
+#5/5
 
 949
 Threats will not serve, Captain.
-ခေါင်းဆောင်သည် ၊ ခြိမ်းခြောက်မှုတွေ လုပ်မှာမဟုတ်ဘူး။
+ခြိမ်းခြောက်တာ အလုပ်ဖြစ်မှာမဟုတ်ဘူး Captain
+#4/5
 
 950
 Captain Blood's glance raked the ranks of those resolute, fierce-eyed fellows, then it came to rest again on Ogle.
-ခေါင်းဆောင် ဘလတ် ၏ အကြည့်သည် ပြတ်သားသောသူတို့၏အဆင့်များ ၊ ပြင်းထန်စူးရှသော-မျက်လုံး ပုံစံများကို ဖော်ပြခဲ့ပြီးနောက် ၊ ၎င်းသည် အိုဂယ်တွင် တစ်ဖန်အနားယူရန် လာခဲ့တယ်။
+ကပ္ပတိန် Blood ၏ အကြည့်သည် ပြတ်သားသောသူတို့၏အဆင့်များ ၊ ပြင်းထန်စူးရှသော-မျက်လုံး ပုံစံများကို ဖော်ပြခဲ့ပြီးနောက် ၊ ၎င်းသည် Ogle တွင် တစ်ဖန်အနားယူရန် လာခဲ့တယ်။
+#5/5
 
 951
 That girl, there.  He flung out a bare arm to point to her.
 ထိုနေရာက ၊ အဲဒီကောင်မလေးဟု သူမကို ညွှန်ပြရန် သူသည် အင်္ကျီလက်ကို ပင့်တင်ခဲ့သည်။
+#5/5
 
 952
 If ye're counting on pulling Bishop's heartstrings, ye're a bigger fool, Ogle, than I've always thought you was with anything but guns.
-မင်း ဘစ်ရှော့ရဲ့ မေတ္တာဂရုဏာကို ရရှိဖို့ အားကိုးနေရင် ၊ သေနတ်ကလွဲလို့ မင်းအမြဲတမ်းထင်တာထက် ၊ မင်းက ကြီးမားတဲ့ လူမိုက် တစ်ယောက်ပဲ ဖြစ်မယ် ၊ အိုဂယ်။
+Miss Bishop မေတ္တာဂရုဏာကို ရရှိဖို့ အားကိုးနေရင် ၊ သေနတ်ကလွဲလို့ မင်းအမြဲတမ်းထင်တာထက် ၊ မင်းက ကြီးမားတဲ့ လူမိုက် တစ်ယောက်ပဲ ဖြစ်မယ် ၊ Ogle။
+#4/5
 
 953
 He had found the only way, and repellent though it might be to him, he must take it.
 သူ တစ်ခုတည်းသောနည်းလမ်းကိုတွေ့ခဲ့ပြီး ၊ ၎င်းက သူ့ကို ခံနိုင်ရည်ရှိသော်လည်း ၊ သူက ၎င်းကို ယူရမယ်။
+#4/5
 
 954
 Aye,  said Ogle,  that is true.   But there were some who were still in open and frank revolt against the course.
-အေး၊ အဲ့ဒါမှန်တယ်လို့အိုဂယ်ကပြောတယ်။ ဒါပေမယ့်တချို့သောသူတို့သည် ပွင့်ပွင့်လင်းလင်းရှိကြပြီး လမ်းစဉ်ကိုဆန့်ကျင်ပုန်ကန်သည်။
+အေး၊ အဲ့ဒါမှန်တယ်လို့ Ogle ကပြောတယ်။ ဒါပေမယ့်တချို့သောသူတို့သည် ပွင့်ပွင့်လင်းလင်းရှိကြပြီး လမ်းစဉ်ကိုဆန့်ကျင်ပုန်ကန်သည်။
+#4/5
 
 955
 He threw them at me again and again.
 သူက ငါ့ဆီ ဒါတွေကို အကြိမ်ကြိမ် ပစ်ချတယ်။
+#5/5
 
 956
 That is: that he has been notified of the coming of Lord Julian Wade.
-အဲဒါပါဘဲ:လော့ဒ်ဂျူလီယန်ဝိတ်လာနေကြောင်းသူအကြောင်းကြားခဲ့တယ်။
+အဲဒါပါဘဲ: သခင် Julian Wadw  နေကြောင်းသူအကြောင်းကြားခဲ့တယ်။
+#5/5
 
 957
 Oh, please.  There was real alarm in her voice.
-အိုးရ် ကျေးဇူးပါ ။ သူမရဲ့အသံတွင် အမှန်တကယ် နှိုးထနေသောအသံ ရှိနေခဲ့တယ်။
+အိုးရ် ကျေးဇူးပါ ။ သူမရဲ့အသံတွင် အမှန်တကယ် စိုးရိမ်နေသောအသံ ရှိနေခဲ့တယ်။
+#5/5
 
 958
 Fearing to betray the latter, she took refuge in the former.
-သူမက အစောပိုင်းမှာ ခိုလှုံမှုယူခဲ့ပြီး ၊ နောက်ပိုင်း သစ္စာဖောက်မှာကို ကြောက်တာ ၊ 
+သူမက ပထမတစ်ယောက်မှာ ခိုလှုံမှုယူခဲ့သည် ၊ နောက်တစ်ယောက်ကို သစ္စာဖောက်မှာကို ကြောက်တာကြောင့် ၊ 
+#4/5
 
 959
 You take that tone! You dare to take that tone!  she cried, astounding him by her sudden vehemence.
 မင်းအဲ့လေသံကိုယူ! မင်းအဲ့လေသံကိုယူရဲတယ်! သူမရဲ့ရုတ်တရက်ပြင်းထန်သောအော်ငိုခြင်းကြောင့်သူ့ကိုအံဩစေသည်။
+#5/5
 
 960
 You may have heard of me.   Captain Calverley stared hard.
-မင်းငါထံမှကြားဖူးလိမ့်မည်။ ခေါင်းဆောင်ကယ်လ်ဗာလီကို ခက်ခက်ခဲခဲစိုက်ကြည်ခဲ့တယ်။
+မင်းငါထံမှကြားဖူးလိမ့်မည်။ ကပ္ပတိန် Calverley ကို ခက်ခက်ခဲခဲစိုက်ကြည်ခဲ့တယ်။
+#5/5
 
 961
 What I think of you can be a very little matter to you, sir.   This was a disarming stroke.
-ငါအထင်မင်းအတွက်အလွန်သေးငယ်သောကိစ္စဖြစ်နိုင်တယ် ဆရာ။ ဒါဟာ ချစ်စဖွယ်ကောင်းတဲ့ ရုတ်ချက်တစ်ခု ဖြစ်ခဲ့တယ်။
+ငါ့အထင်မင်းအတွက်အလွန်သေးငယ်သောကိစ္စဖြစ်နိုင်တယ် ဆရာ။ ဒါဟာ ချစ်စဖွယ်ကောင်းတဲ့ ရုတ်ချက်တစ်ခု ဖြစ်ခဲ့တယ်။
+#4/5
 
 962
 It isn't that.   But they were fated to misunderstand each other.
 အဲဒါ မဟုတ်ဘူး။ ဒါပေမယ့် သူတို့ဟာတယောက်နဲ့တယောက် နားလည်မှုလွဲတာက ကံစီမံရာဖြစ်ခဲ့တယ်။
+#5/5
 
 963
 I'll not be bubbled by what Wolverstone has said.
-ဝိုးလ်ဗာစတုန်း ပြောခဲ့တာတွေကြောင့်တော့ ငါ ဆူလောင်နေမှာမဟုတ်ဘူး။
+Wolverstone ပြောခဲ့တာတွေကြောင့်တော့ ငါ ဆူလောင်နေမှာမဟုတ်ဘူး။
+#5/5
 
 964
 If anything should happen to you, Peter,  he said, as Blood was going over the side,  Colonel Bishop had better look to himself.
-ပီတာ ၊ ဘလတ်က ဟိုဘက်ခြမ်းကို သွား‌သောကြောင့် ၊ မင်း တစ်ခုခုဖြစ်ခဲ့ရင် ၊ ကိုလိုနယ် ဘစ်လျှော့က သူ့ကိုယ်သူ ကောင်းကောင်းစောင့်ရှောက်နေတယ်လို့ သူက ပြောခဲ့တယ်။
+Blood က ဟိုဘက်ခြမ်းကို သွား‌ရင်း ၊ Peter မင်း တစ်ခုခုဖြစ်ခဲ့ရင် ၊ Colonel Bishop က သူ့ကိုယ်သူ သတိထားကြည့်ရမယ်လို့ သူက ပြောခဲ့တယ်။
+#4/5
 
 965
 About him in the waist, where all last night had been so peaceful, there was a frenziedly active bustle of some threescore men.
 မနေ့ညက အေးချမ်းလွန်းတဲ့ ၊ ထို အလယ်ပိုင်းနားတွင် သူ့နဲ့ပတ်သတ်ပြီး ၊ လူခြောက်သောင်း၏ အရူးအမူး တက်ကြွသော အုံကြွမှုတစ်ခု ဖြစ်ခဲ့တယ်။
+#4/5
 
 966
 I cannot think why you should trouble to put yourself on your defence,   she discouraged him.
-မင်းရဲ့ ချေပချက်က မင်းကိုယ်တိုင်ကို ဘာကြောင့် ပြဿနာဖြစ်သင့်တယ်ဆိုတာ ငါက မစဉ်းစားနိုင်ဘူး လို့ ၊ သူမက သူ့ကို စိတ်ပျက်အားလျော့စေတယ်။
+မင်းကိုယ်တိုင်ကို ဘာကြောင့် ပြဿနာဖြစ်ခံပီး ချေပချင်တာဘာကြောင့်လဲ ငါက မစဉ်းစားနိုင်ဘူး လို့ ၊ သူမက သူ့ကိုပြောပီး စိတ်ပျက်အားလျော့စေတယ်။
+#4/5
 
 967
 I'll be getting my hat and cane and sword, and go ashore in the cock-boat.
-ငါ့ရဲ့ဦးထုတ် နှင့် ကြိမ်တံ နှင့် ဓါးရှည် ယူလာ ပြီး ကွတ်-ဘုတ် ရှိ ကမ်းပေါ်တက်တယ်။
+ငါ့ရဲ့ဦးထုတ် နှင့် ကြိမ်တံ နှင့် ဓါးရှည် ယူလာ ပြီး cock-boat ရှိ ကမ်းပေါ်တက်တယ်။
+#4/5
 
 968
 I must return to Colonel Bishop for my orders,  he informed them.
-ငါအမိန့်ကြောင့် ဗိုလ်မှုးကြီးဘစ်ရှော့ထံ ငါပြန်ရမယ် လို့ သူကသူတို့ကိုအသိပေးတယ်။
+ငါအမိန့်ကြောင့် Colonel Bishop ဆီ ငါပြန်ရမယ် လို့ သူကသူတို့ကိုအသိပေးတယ်။
+#5/5
 
 969
 In a flash Captain Blood saw what was in their minds.
-သူတို့စိတ်ထဲဘာရှိလဲဆိုတာ ခေါင်းဆောင် ဘလတ် က ချက်ချင်း သိမြင်လိုက်တယ်။
+သူတို့စိတ်ထဲဘာရှိလဲဆိုတာ ကပ္ပတိန် Blood က ချက်ချင်း သိမြင်လိုက်တယ်။
+#5/5
 
 970
 I do my best,  said she.
 ငါအကောင်းဆုံးလုပ်မယ်လို့သူမပြောခဲ့တယ်။
+#5/5
 
 971
 Oh, but--by your leave--surely there is nothing to be apprehended from Colonel Bishop.
-အိုး၊ ဒါပေမယ့်သေချာတာက မင်းရဲ့ထွက်ခွာမှုကြောင့် ဗိုလ်မှုးကြီးဘစ်ရှော့ထံမှ ဖမ်းခံရဖို့ ဘာမှမရှိပါ။
+အိုး၊ ဒါပေမယ့်သေချာတာက မင်းရဲ့ထွက်ခွာမှုကြောင့် Colonel Bishop ထံမှ ဖမ်းခံရဖို့ ဘာမှမရှိပါ။
+#4/5
 
 972
 I wonder, now,  he said presently,  if the mischief is of your working.
 မင်း အလုပ်က ဒုက္ခပေးနေတယ်ဆိုတာကို အခုငါအံ့ဩနေတယ် လို့ သူက လောလောဆယ် ပြောခဲ့တယ်။
+#4/5
 
 973
 Shrewd advocacy,  he approved it.
 လိမ္မာပါးနပ်စွာ ထောက်ခံမှုကို သူအတည်ပြုခဲ့တယ်။
+#5/5
 
 974
 Bid them take in sail, Jeremy,  he said quietly.
-ဂျရမီ သူတို့ကို ရွက်လွှင့်ခိုင်းပါ လို့ သူကတိတ်တိတ်လေးပြောခဲ့သည်။
+Jeremy သူတို့ကို ရွက်လွှင့်ခိုင်းပါ လို့ သူကတိတ်တိတ်လေးပြောခဲ့သည်။
+#5/5
 
 975
 I have something to show you.   Wondering, Lord Julian mounted the companion as he was bidden.
-ငါ့မှာ မင်းကိုပြဖိုရန် တစ်ခုခုရှိတယ်။ အံ့ဩစရာပါပဲ၊ လော့ဒ်ဂျူလီယန်က သူ လေလံဆွဲခဲ့ တဲ့ တွဲဖက်အဖြစ် ခင်းကျင်းပြသခဲ့သည်။
+ငါ့မှာ မင်းကိုပြဖိုရန် တစ်ခုခုရှိတယ်။ အံ့ဩစရာပါပဲ၊ သခင် Julian က သူ လေလံဆွဲခဲ့ တဲ့ တွဲဖက်အဖြစ် ခင်းကျင်းပြသခဲ့သည်။
+#5/5
 
 976
 Before we've run another half-mile we shall be within range.   Wolverstone swore elaborately, then suddenly checked.
-ငါတို့နောက်ထပ်မိုင်ဝက် မပြေးခင် ငါတို့ အကွာအဝေးအတွင်းမှာ ရှိရလိမ့်မည်။ ဝိုးလ်ဗာစတုန်းက ဖွဲ့ဖွဲ့နွဲ့နွဲ့ ကျိန်ဆိုပြီးနောက် ရုတ်တရက်စစ်ဆေးခဲ့သည်။
+ငါတို့နောက်ထပ်မိုင်ဝက် မပြေးခင် ငါတို့ အကွာအဝေးအတွင်းမှာ ရှိရလိမ့်မည်။ Wolverstone က ဖွဲ့ဖွဲ့နွဲ့နွဲ့ ကျိန်ဆိုပြီးနောက် ရုတ်တရက်စစ်ဆေးခဲ့သည်။
+#5/5
 
 977
 He's chivalrous to the point of idiocy.
 မိုက်မဲခြင်းကြောင့်သူရိုင်းစိုင်းသွားသည်။
+#1/5
 
 978
 He levelled his telescope upon that figure.
-သူက အဲ့ဒီပုံပေါ်မှာ သူ၏မှန်ပြောင်းကို အဆင့်သက်မှတ်ထားသည်။
+သူက အဲ့ဒီပုံပေါ်မှာ သူ၏မှန်ပြောင်းကို ချိန်ဆလိုက်သညိ။
+#5/5
 
 979
 Miss Bishop was aboard the Royal Mary also, and I rescued her together with his lordship.
-မစ်ဘစ်ရှော့က ရိုန်ရယ်မာရီပေါ်မှာ လည်း လိုက်ပါခဲ့ ပြီး၊ ကျွန်တော်က သူ့သခင် နှင့်အတူ သူမကို အတူတူ ကယ်တင်ခဲ့သည်။
+Miss Bishop က Royal Mary ပေါ်မှာ လည်း လိုက်ပါခဲ့ ပြီး၊ ကျွန်တော်က သူ့သခင် နှင့်အတူ သူမကို အတူတူ ကယ်တင်ခဲ့သည်။
+#5/5
 
 980
 What if he can?  Blood interrupted carelessly.
-သူလုပ်နိုင်ရင်ဘာလုပ်မလဲ။ ဘလတ်က ဂရုမစိုက်ဘဲ ပြတ်သွားခဲ့တယ်။
+သူလုပ်နိုင်ရင်ဘာလုပ်မလဲ။ Blood က ဂရုမစိုက်ဘဲ ပြတ်သွားခဲ့တယ်။
+#5/5
 
 981
 I'll rot in hell or ever I serves the King,  he bawled in a great rage.
 ငါငရဲမှာကျလလိမ့်မယ် ဒါမှမဟုတ် ငါအမြဲတမ်း ဘုရင်ထံ အမှုထမ်းရလိမ့်မယ်လို့ ၊ သူဒေါသတကြီးအော်ဟစ်ပြောဆိုလေသည်။
+#4/5
 
 982
 Ye're surely daft even to think of it, Peter!
-ပီတာ မင်းအဲ့ဒါကို သေချာပေါက် တွေးတောင် မတွေးရဲဘူး။
+Peter! မင်းအဲ့ဒါကို သေချာပေါက် တွေးတောင် တွေးရဲတာလား
+#5/5
 
 983
 Standing now at the rail, with Lord Julian beside him, Captain Blood explained himself.
-လော့ဒ်ဂျူလီယန်နှင့်အတူ အခုရထားလမ်းတွင်ရပ်နေသည်ဟု ခေါင်းဆောင်သွေးကသူကိုယ်တိုင်ရှင်းပြခဲ့သည်။
+သခင် Julian နှင့်အတူ အခုရထားလမ်းတွင်ရပ်နေရင်း ကပ္ပတိန် Blood ကသူကိုယ်တိုင်ရှင်းပြခဲ့သည်။
+#5/5
 
 984
 A boat that had approached unnoticed from the shore came scraping and bumping against the great red hull of the Arabella, and a raucous voice sent up a hailing shout.
-ကမ်းစပ်မှ သတိမပြုဘဲချဉ်းကပ်လာသော သင်္ဘော တစ်စီး သည် အာရာဘဲလာ ၏ ကြီးမားသော အနီရောင် ကိုယ်ထည်ကြီးကို တိုက်လိုက်ပြီး ပွတ်တိုက်သံတွေ ထွက်ပေါ်လာခဲ့ပြီးနောက် ၊ ကျယ်လောင်စူးရှသည့် အသံ တစ်ခုသည် ဟစ်အော်သံတွေထိ ပေါ်ထွက်လာခဲ့သည်။
+ကမ်းစပ်မှ သတိမပြုဘဲချဉ်းကပ်လာသော သင်္ဘော တစ်စီး သည် Arabella ၏ ကြီးမားသော အနီရောင် ကိုယ်ထည်ကြီးကို တိုက်လိုက်ပြီး ပွတ်တိုက်သံတွေ ထွက်ပေါ်လာခဲ့ပြီးနောက် ၊ ကျယ်လောင်စူးရှသည့် အသံ တစ်ခုသည် ဟစ်အော်သံတွေထိ ပေါ်ထွက်လာခဲ့သည်။
+#5/5
 
 985
 You'll not go?  he said, between question and assertion.
 မင်းမသွားဘူးလား လို့ အငြင်းပွားဖွယ် နှင့် ပြင်းပြင်းထန်ထန်ခိုင်ခိုင်မာမာပြောဆိုခြင်း အကြား သူက ပြောခဲ့တယ်။
+#4/5
 
 986
 Ye'll remember afterwards that it was your hardness drove me.   She moved to depart, then checked, and faced him again.
-မင်းရဲ့မာကျောမှုကငါ့ကိုနောက်မှ မှတ်မိလိမ့်မယ်။ သူမကစစ်ဆေးပြီးနောက် ထွက်ခွာရန်ရွေ့လိုက်ပြီး သူ့ကိုထပ်မံရင်ဆိုင်လိုက်တယ်။
+မင်းရဲ့မာကျောမှုကငါ့ကို မောင်းနှင်ခဲ့တာ မင်းတို့နောက်မှသတိရနေမှာ။ သူမကစစ်ဆေးပြီးနောက် ထွက်ခွာရန်ရွေ့လိုက်ပြီး သူ့ကိုထပ်မံရင်ဆိုင်လိုက်တယ်။
+#4/5
 
 987
 Faith, you explain yourself after a fashion,  said he.
-ဖက်ရှင်တစ်ခုအပြီး မင်းကိုယ်တိုင် ယုံကြည်မှုရှိရှိ ရှင်းပြရမည်ဟု သူကပြောသည်။
+Faith ဖက်ရှင်တစ်ခုအပြီး မင်းကိုယ်တိုင်ရှင်းပြရမည်ဟု သူကပြောသည်။
+#4/5
 
 988
 A drinker of blood, he is.
 သူသွေးသောက်သမား တစ်ယောက် ဖြစ်သည်။
+#5/5
 
 989
 It's the truth, you fool.
 ဒါအမှန်တရားပဲ၊ မင်းက လူမိုက်ပဲ။
+#5/5
 
 990
 Heave to, Captain, and signal them to send a boat, and assure themselves that Miss is here.
-လှေ တစ်စီး ပို့ရန် ခေါင်းဆောင်က သူတို့ကို အချက်ပြခဲ့ ပြီးတော့ မစ် ဒီမှာရောက်နေသည်ကို သူတို့ကို အခိုင်အမာပြောခဲ့တယ်။
+လှေ တစ်စီး ပို့ရန် Captain က သူတို့ကို အချက်ပြခဲ့ ပြီးတော့ Miss ဒီမှာရောက်နေသည်ကို သူတို့ကို အခိုင်အမာပြောခဲ့တယ်။
+#4/5
 
 991
 He sought comfort in a line on the open page before him:     levius fit patientia quicquid corrigere est nefas.   Sought it, but hardly found it.
 သူ့ မတိုင်ခင် ဖွင့်ထားသော :levius fit patientia quicquid corrigere est nefas စာမျက်နှာပေါ်ရှိ လိုင်းတစ်ခုပေါ်တွင် သူသည် နှစ်သိမ့်မှုကို ရှာခဲ့သည် ။ ဒါပေမယ့် အဲဒါကို အနည်းငယ်မျှရှာတွေ့ရှိခဲ့တယ်။
+#4/5
 
 992
 For myself, I am entirely of Wolverstone's opinion.
-ငါအတွက်ကတော့ ၊ ဝိုးလ်ဗာစတုန်း၏ထင်မြင်ချက်ကို ကျွန်တော် လုံးဝ သဘောကျပါတယ်။
+ငါအတွက်ကတော့ ၊ Wolverstone ၏ထင်မြင်ချက်ကို ကျွန်တော် လုံးဝ သဘောကျပါတယ်။
+#5/5
 
 993
 And if ye' weren't a fool, Ogle, you wouldn't need me to tell you this.
-အိုဂယ် မင်းလူမိုက်တယောက်မဟုတ်ခဲ့ရင် မင်းကိုဒါပြောပြဖို့မလိုအပ်ဘူး။
+Ogle မင်းလူမိုက်တယောက်မဟုတ်ခဲ့ရင် မင်းကိုဒါပြောပြဖို့မလိုအပ်ဘူး။
+#5/5
 
 994
 See it manned for me.
 ငါ့အတွက် သင့်တော်တာကို ကြည့်ပါ။
+#4/5
 
 995
 And what should be happening to me, Jeremy? Sure, now, I'll be back for dinner, so I will.   Blood climbed down into the waiting boat.
-ဂျယ်ရမီ ၊ ပြီးတော့ ငါဘာဖြစ်သင့်လဲ။ သေချာတယ်၊ ယခု၊ ဒါဆိုငါညစာစားဖို့ပြန်လာမယ်။ ဘလတ် ကစောင့်နေသောလှေထဲသို့ ဆင်းလာခဲ့တယ်။
+Jeremy ၊ ပြီးတော့ ငါဘာဖြစ်သင့်လဲ။ သေချာတယ်၊ ယခု၊ ဒါဆိုငါညစာစားဖို့ပြန်လာမယ်။ Blood က ကစောင့်နေသောလှေထဲသို့ ဆင်းလာခဲ့တယ်။
+#4/5
 
 996
 Just within the doorway of the alley leading to the cabin, he ran into Miss Bishop.
-အခန်းသို့ ဦးတည်သွားသော လမ်းကြား၏ တံခါးပေါက်ဝအတွင်း သူသည် မစ်ဘစ်ရှော့ထံ ပြေးသွားခဲ့သည်။
+အခန်းသို့ ဦးတည်သွားသော လမ်းကြား၏ တံခါးပေါက်ဝအတွင်း သူသည် Miss Bishop ထံ ပြေးသွားခဲ့သည်။
+#5/5
 
 997
 Ogle,  said he, in a voice cold and sharp as steel,  your station is on the gun-deck.
-မင်းရဲ့ အလုပ်ရုံ က သေနတ်ကုန်းပေါ်မှာ ရှိတယ်လို့ သံမဏိကဲ့သိုအေးစက်ပြီးပြတ်သားသောအသံဖြင့် အိုဂယ်က ပြောခဲ့သည်။
+မင်းရဲ့ အလုပ်ရုံ က သေနတ်ကုန်းပေါ်မှာ ရှိတယ်လို့ သံမဏိကဲ့သိုအေးစက်ပြီးပြတ်သားသောအသံဖြင့် Ogle က ပြောခဲ့သည်။
+#5/5
 
 998
 He stopped short at sight of Captain Blood, and saluted him, as was his due, but the smile that lifted the officer's stiff mostachios was grimly sardonic.
-သူ့ကြောင့် ဖြစ်ခဲ့သောကြောင့် ၊ သူက ကပ္ပတိန် ဘလတ် ၏ အမြင်အာရုံမှာ ခေတ္တ ရပ်နားလိုက်ပြီး သူကိုအလေးပြုခဲ့တယ်၊ ဒါပေမယ့် အရာရှိ၏ တောင့်တင်းသော နှုတ်ခမ်းမွေးကြီးတစ်ခုကို ဖယ်ရှားထားသော အဆိုပါ အပြုံးသည် ခပ်ရွရွရွဲ့ရွဲ့ဖြစ်နေခဲ့သည်။
+သူ့ကြောင့် ဖြစ်ခဲ့သောကြောင့် ၊ သူက ကပ္ပတိန် Blood ၏ အမြင်အာရုံမှာ ခေတ္တ ရပ်နားလိုက်ပြီး သူကိုအလေးပြုခဲ့တယ်၊ ဒါပေမယ့် အရာရှိ၏ တောင့်တင်းသော နှုတ်ခမ်းမွေးကြီးတစ်ခုကို ဖယ်ရှားထားသော အဆိုပါ အပြုံးသည် ခပ်ရွရွရွဲ့ရွဲ့ဖြစ်နေခဲ့သည်။
+#4/5
 
 999
 Yet she had not been coming out, for her back was towards him, and she was moving in the same direction.
 ဒါတောင် သူမက သူမနောက်ကျောကနေ သူ့ဆီသို့ ၊ ထွက်မလာသေးဘဲ ၊  သူမသည်  တူညီသော ဦးတည်ချက် နှင့် ရွေ့လျားနေသည်။
+#4/5
 
 1000
 Ha!  Wolverstone vented an ejaculation of sneering mirth.
-ဟာ! ဝိုးလ်ဗာစတုန်းသည် ရယ်မောပျော်ရွှင်စွာဖြင့် ထုတ်ပြန်ချက်တစ်ခုကို ထုတ်လွှင့်ခဲ့သည်။
+ဟား! Wolverstone သည် ရယ်မောပျော်ရွှင်စွာဖြင့် ထုတ်ပြန်ချက်တစ်ခုကို ထုတ်လွှင့်ခဲ့သည်။
+#4/5

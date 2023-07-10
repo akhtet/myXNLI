@@ -49,406 +49,507 @@
 # It is good enough if your FINAL translations can get to (4/5) rating.
 
 701
-H. H. Richardson and his protege Charles Follen McKim were alumni, as well as McKim's assistants, John M. Carrare and Thomas Hastings.
-အိတ်ချ်အိတ်ချ်ရစ်ချက်စမ်နှင့် ၎င်း၏ တပည့်ရင်းချာ ချားဖောလန်းမခမ်တို့သည် ကျောင်းသားဟောင်းများ ဖြစ်ကြပြီး မခမ် ၏ လက်ထောက်များ၊ ဂျွန်အမ်ခရွယ် နှင့် သောမတ်ဟက်စတင်း တို့သည်လည်း ကျောင်းသားဟောင်းများဖြစ်ကြသည်။
+H. H. Richardson and his protege Charles Follen McKim were alumni, as well as McKim's assistants, John M. Carrare and Thomas Hastings
+H.H. Richardson နှင့် ၎င်း၏ တပည့်ရင်းချာ Charles Follen Mckim တို့သည် ကျောင်းသားဟောင်းများ ဖြစ်ကြပြီး McKim ၏ လက်ထောက်များ၊ John M. Carrare နှင့် Thomas Hastings တို့သည်လည်း ကျောင်းသားဟောင်းများဖြစ်ကြသည်။
+#5/5
 
 702
 Indeed, one of the interesting features of technology graphs is that they constitute the proper conceptual framework to consider process and product design simultaneously.
 အမှန်တကယ်တော့ ဂရပ်နည်းပညာများ၏ စိတ်ဝင်စားဖွယ်အင်္ဂါရပ်များထဲမှ တစ်ခုမှာ ၎င်းတို့သည် လုပ်ငန်းစဉ်နှင့် ထုတ်ကုန်ဒီဇိုင်းကို တစ်ပြိုင်နက် ထည့်သွင်းစဉ်းစားရန် သင့်လျော်သော စိတ်ကူးအယူအဆများကို မူဘောင် သတ်မှတ်ထားခြင်းဖြစ်သည်။
+#5/5
 
 703
 This was the temper of the times.
 ဒါကတော့ ခေတ်ရဲ့ သဘောထားပဲ။
+#5/5
 
 704
 The pachuco was disdained in the U.S. by both the Mexican American and Anglo communities, and likewise in Mexico by the media and the intellectuals.
-မက္ကဆီကိုအမေရိကန်လူငယ်ဂိုဏ်းဝင်တွေကို မက္ကဆီကို အမေရိကန်နှင့် အန်ဂလို အသိုင်းအဝိုင်း နှစ်ခုလုံးက အမေရိကန်တွင် အထင်အမြင်သေးခဲ့ကြပြီး မက္ကဆီကိုတွင်လည်း မီဒီယာများနှင့် ပညာတတ်များက အထင်အမြင်သေးခဲ့ကြသည်။
+Pachuco  တွေကို မက္ကဆီကို အမေရိကန်နှင့် Angloအသိုင်းအဝိုင်း နှစ်ခုလုံးက အမေရိကန်တွင် အထင်အမြင်သေးခဲ့ကြပြီး မက္ကဆီကိုတွင်လည်း မီဒီယာများနှင့် ပညာတတ်များက အထင်အမြင်သေးခဲ့ကြသည်။
+#5/5
 
 705
 So Shannon took the logarithm of the volume in message space occupied by a message and multiplied it by the probability that that message was sent from the source.
-ထို့ကြောင့် ရှန်နွန်သည် မက်ဆေ့ချ်တစ်ခုမှ ရယူထားသော မက်ဆေ့ချ်နေရာရှိ ပမာဏ၏ လော့ဂရစ်သမ်ကို ယူကာ အရင်းအမြစ်မှ ပေးပို့သည့် ဖြစ်နိုင်ခြေဖြင့် ၎င်းကို မြှောက်ပေးသည်။
+ထို့ကြောင့် Shannon သည် မက်ဆေ့ချ်တစ်ခုမှ ရယူထားသော မက်ဆေ့ချ်နေရာရှိ ပမာဏ၏ လော့ဂရစ်သမ်ကို ယူကာ အရင်းအမြစ်မှ ပေးပို့သည့် ဖြစ်နိုင်ခြေဖြင့် ၎င်းကို မြှောက်ပေးသည်။
+#5/5
 
 706
 Then el abuelo would say,  Pues que recen y se acuesten  (Well, let them pray and go to bed).
-ပြီးတော့ အဲလ်အဘူလို က Pues que recen y se acuesten (ကောင်းပြီ ဆုတောင်းပြီး အိပ်ရာဝင်ကြပါစေ)။
+ပြီးတော့ el abuelo က Pues que recen y se acuesten (ကောင်းပြီ ဆုတောင်းပြီး အိပ်ရာဝင်ကြပါစေ)။
+#5/5
 
 707
-The mandala members of the infinite stack of mandalas dier from one another only in the fundamental amplitudes, hence laws, that apply to each mandala.
-မရေမတွက်နိုင်တဲ့ မန်ဒလာ အစုအဝေးမှ မန်ဒလာ အဖွဲ့ဝင်များသည် အခြေခံကျသော အတိုင်းအတာများတွင်သာ အချင်းချင်း ကွဲပြားကြသောကြောင့် မန်ဒလာ တစ်ယောက်ချင်းဆီနှင့်သက်ဆိုင်သည့် ဥပဒေများကို သတ်မှတ်ထားခြင်းဖြစ်သည်။
+The mandala members of the infinite stack of mandalas differ from one another only in the fundamental amplitudes, hence laws, that apply to each mandala.
+မရေမတွက်နိုင်တဲ့ mandala အစုအဝေးမှ မန်ဒလာ အဖွဲ့ဝင်များသည် အခြေခံကျသော အတိုင်းအတာများတွင်သာ အချင်းချင်း ကွဲပြားကြသောကြောင့် mandala တစ်ယောက်ချင်းဆီနှင့်သက်ဆိုင်သည့် ဥပဒေများကို သတ်မှတ်ထားခြင်းဖြစ်သည်။
+#5/5
+
 
 708
 Both of these can be altered without altering the anticodon-codon matching mechanism.
-ယင်းနှစ်ခုလုံးကို အန်တီကိုဒုန်း-ကိုဒုန်း ကိုက်ညီမှုယန္တရားကို မပြောင်းလဲဘဲ ပြောင်းလဲနိုင်သည်။
+ယင်းနှစ်ခုလုံးကို anticodon-codon ကိုက်ညီမှုယန္တရားကို မပြောင်းလဲဘဲ ပြောင်းလဲနိုင်သည်။
+#5/5
 
 709
 As we will see, in both cases, it appears that something profound is going on in the universe that is not finitely prestatable.
 ဖြစ်ရပ်နှစ်ခုစလုံးတွင် အတိအကျသတ်မှတ်၍မရသော စကြဝဠာအတွင်း နက်နဲသိမ်မွေ့သောအရာတစ်ခု ဖြစ်ပေါ်နေသည်ကို ကျွန်တော်တို့မြင်ရပါလိမ့်မည်။
+#5/5
 
 710
 A third feature, a convergence versus divergence along flows in state space that characterizes the ordered versus chaotic regime, is perhaps the most important to our future discussions.
-တတိယအင်္ဂါရပ် တစ်ခု အနေနဲ့ ပြည်နယ်အတွင်း ဖြစ်ပေါ်နေသော အစီအစဉ်ကျခြင်းနဲ့ ဖရိုဖရဲဖြစ်နေသော အုပ်ချုပ်မှုပုံစံကို ဖော်ပြသည့် တူညီခြင်းနဲ့ ကွဲပြားခြားနားခြင်း နှိုင်းယှဉ်ချက်က ကျွန်ုပ်တို့၏ အနာဂတ်ဆွေးနွေးမှုများအတွက် အရေးကြီးဆုံးဖြစ်ကောင်းဖြစ်နိုင်သည်။
-#Review
+တတိယအင်္ဂါရပ် တစ်ခု အနေနဲ့ တည်နေရာအတွင်း ဖြစ်ပေါ်နေသော အစီအစဉ်ကျခြင်းနဲ့ ဖရိုဖရဲဖြစ်နေသော အုပ်ချုပ်မှုပုံစံကို ဖော်ပြသည့် တူညီခြင်းနဲ့ ကွဲပြားခြားနားခြင်း နှိုင်းယှဉ်ချက်က ကျွန်ုပ်တို့၏ အနာဂတ်ဆွေးနွေးမှုများအတွက် အရေးကြီးဆုံးဖြစ်ကောင်းဖြစ်နိုင်သည်။
+#4/5
 
 711
 If so, only natural selection can have tuned it thus.
 အဲလိုဆိုရင် သဘာဝအတိုင်း ရွေးချယ် မှသာလျှင် ၎င်းကို ချိန်ညှိနိုင်သည်။
+#4/5
 
 712
 In the fitness landscape, image, mutation, recombination, and selection can conspire to pull evolving populations upward toward the peaks of high fitness.
 ကြံ့ခိုင်မှုနယ်ပယ်တွင်၊ ရုပ်ပုံ၊ ဗီဇပြောင်းလဲခြင်း၊ ပြန်လည်ပေါင်းစပ်ခြင်းနှင့် ရွေးချယ်ခြင်းတို့သည် ဆင့်ကဲတိုးတက်နေသောလူဦးရေကို ကြံ့ခိုင်မှုအထွတ်အထိပ်သို့ ရောက်ရန်အတွက် ပူးပေါင်းဆောင်ရွက်စေနိုင်သည်။
-# 
-# ဆင့်ကဲဖြစ်စဉ်နှင့် ဆန်းသစ်တီထွင်မှုတို့ မည်သို့လုပ်ဆောင်ကြောင်း ရှာဖွေဖော်ထုတ်ခြင်းတွင် ရုပ်ပုံ၊ ဗီဇပြောင်းလဲခြင်း၊ ပြန်လည်ပေါင်းစပ်ခြင်းနှင့် ရွေးချယ်ခြင်းတို့သည် ဆင့်ကဲဖြစ်စဉ် အထွတ်အထိပ်သို့ ရောက်ရှိဖို့ရန်အတွက် ဆင့်ကဲတိုးတက်နေသောလူဦးရေကို ဆွဲထုတ်ရန် တရားမဝင်ပူးပေါင်းလုပ်ဆောင်နိုင်သည်။
+#4/5
 
 713
 On Christmas Day children went knocking on doors and visiting homes, asking for and receiving candy or small toys.
 ခရစ္စမတ်နေ့တွင် ကလေးငယ်များသည် တံခါးခေါက်ပြီး အိမ်အလည်လာကြကာ သကြားလုံး သို့မဟုတ် အရုပ်လေးများကို တောင်းခံကြသည်။
+#5/5
 
 714
 A warm parent-child bond based on cooperation is especially vital for helping recalcitrant children internalize parents' standards.
 ဆိုဆုံးမရခက်သောကလေးများ မိဘများ၏ စံနှုန်းများကို လိုက်နာဖို့ ကူညီပေးရန်အတွက် ပူးပေါင်းဆောင်ရွက်မှုအပေါ် အခြေခံသော နွေးထွေးသော မိဘနှင့် ကလေးနှောင်ကြိုးသည် အထူးအရေးကြီးပါသည်။
+#5/5
 
 715
 How does a parent gain respect from a child who sees the other parent acting disrespectfully toward his or her spouse?
 တခြားမိဘက သူ့အိမ်ထောင်ဖက်အပေါ် မရိုမသေပြုမူတာကို မြင်တဲ့ ကလေးဆီက လေးစားမှုကို မိဘတစ်ယောက်က ဘယ်လိုရရှိသလဲ။
+#4/5
 
 716
 Riddles are fun and educational as well.
 ပဟေဠိများသည် ပျော်စရာကောင်းပြီး ပညာလည်း ပေးသည်။
+#5/5
 
 717
 Indeed, this spreading is the first time step of the spreading of a purple avalanche of damage.
 အမှန်စင်စစ် ဒီ ပြန့်ကျဲမှုသည် ခရမ်းရောင်နှင်းထု ပြိုကျပျက်စီးခြင်း၏ ပထမဆုံးအဆင့် ဖြစ်သည်။
+#4/5
 
 718
 This is not to say that good architecture is merely utilitarian.
-ကောင်းသောဗိသုကာပညာသည် အကျိုးရှိစေရုံမျှသာဟု မဆိုလိုပါ။
+ကောင်းသောဗိသုကာပညာသည် လက်တွေ့ကျအကျိုးရှိယုံပဲဟု မဆိုလိုပါ။
+#5/5
 
 719
 The pieata is hung from a tree, with a long rope that is manipulated by an adult, who is able to move the pieata up and down, so it won't be broken too quickly.
-ပီယာတာကို အတက်အဆင်း ရွေ့လျားနိုင်အောင် လုပ်နိုင်သော အရွယ်ရောက်ပြီးသူ တစ်ဦးမှ ကြိုးရှည်ဖြင့် ကိုင်ထားပြီး ပီယာတာကို  သစ်ပင် တစ်ပင်မှ ချိတ်ဆွဲထားသောကြောင့် ၎င်းက လျင်လျင်မြန်မြန် မကျိုးပျက်တော့ဘူး။
+Pieata ကို အတက်အဆင်း ရွေ့လျားနိုင်အောင် လုပ်နိုင်သော အရွယ်ရောက်ပြီးသူ တစ်ဦးမှ ကြိုးရှည်ဖြင့် ကိုင်ထားပြီး pieata ကို  သစ်ပင် တစ်ပင်မှ ချိတ်ဆွဲထားသောကြောင့် ၎င်းက လျင်လျင်မြန်မြန် မကျိုးပျက်တော့ဘူး။
+#5/5
 
 720
 For example, such words as erale (what's happening, or O.K.)
 ဥပမာအားဖြင့် erale (ဘာဖြစ်နေလဲ၊ ဒါမှမဟုတ် အိုကေလား) လိုမျိုး စကားလုံးတွေ
+#4/5
 
 721
 Could statistical averaging be the source of order in organisms?
 ကိန်းဂဏန်းဆိုင်ရာ ပျမ်းမျှခြင်းက သက်ရှိများ ၏ မျိုးရိုးစဉ်ဆက် အရင်းအမြစ် ဖြစ်နိုင်ပါသလား။
+#5/5
 
 722
 Clearly today's children spend far too many hours in front of the TV set, a circumstance that restricts time available for joint parent-child activities, play, reading, and other worthwhile pursuits.
-ယနေ့ခေတ်ကလေးများသည် တီဗီရှေ့တွင် နာရီပေါင်းများစွာ ဖြုန်းတီးနေကြသည်မှာ သိသာထင်ရှားပြီး မိဘနှင့်ကလေး ပူးပေါင်းလုပ်ဆောင်မှုများ၊ ကစားရန်၊ စာဖတ်ခြင်းနှင့် အခြားအကျိုးရှိရှိ လုပ်ဆောင်မှုများအတွက် အချိန်ကို ကန့်သတ်ထားသည့် အခြေအနေတစ်ခုဖြစ်သည်။
+ယနေ့ခေတ်ကလေးများသည် တီဗွီ ရှေ့တွင် နာရီပေါင်းများစွာ ဖြုန်းတီးနေကြသည်မှာ သိသာထင်ရှားပြီး မိဘနှင့်ကလေး ပူးပေါင်းလုပ်ဆောင်မှုများ၊ ကစားရန်၊ စာဖတ်ခြင်းနှင့် အခြားအကျိုးရှိရှိ လုပ်ဆောင်မှုများအတွက် အချိန်ကို ကန့်သတ်ထားသည့် အခြေအနေတစ်ခုဖြစ်သည်။
+#5/5
 
 723
 Deborah Lipstadt, in her book Denying the Holocaust, wrote that we should not publicly debate unacceptable as well as obviously false claims, and thus she advanced a remedy as powerful as governmental censorship.
-ဒယ်ဘိုရတ်လစ်ပ်စတက် က သူ့ရဲ့ ဟော်လိုကော့စ်ထ် ကို ငြင်းဆိုခြင်း စာအုပ်တွင် လက်ခံနိုင်စရာ မရှိတဲ့အပြင် မှားယွင်းတဲ့ အခိုင်အမာပြောဆိုမှုတွေကို လူသိရှင်ကြား မငြင်းခုံသင့်ပါဘူး လို့ ရေးခဲ့ပါတယ်။ အဲဒါကြောင့် သူမက အစိုးရဆင်ဆာဖြတ်တောက်မှုကဲ့သို့ အစွမ်းထက်သည့် ကုထုံးကို မြှင့်တင်ခဲ့တယ်။
+Deborah Lipstadt က သူ့ရဲ့ ဟော်လိုကော့စ်ထ် ကို ငြင်းဆိုခြင်း စာအုပ်တွင် လက်ခံနိုင်စရာ မရှိတဲ့အပြင် မှားယွင်းတဲ့ အခိုင်အမာပြောဆိုမှုတွေကို လူသိရှင်ကြား မငြင်းခုံသင့်ပါဘူး လို့ ရေးခဲ့ပါတယ်။ အဲဒါကြောင့် သူမက အစိုးရဆင်ဆာဖြတ်တောက်မှုကဲ့သို့ အစွမ်းထက်သည့် ကုထုံးကို မြှင့်တင်ခဲ့တယ်။
+#4/5
 
 724
 Several Tejano folk heroes, such as Gregorio Cortez, Juan Cortina, and Catarino Garza became memorialized because of their confrontations with the Texas Rangers.
-ဂရိဂေါရိယိုကိုးတက်စ်၊ ဝမ်ကောတီနာ နှင့် ခတရီနိုဂါဇာ ကဲ့သို့သော တယ်ဂျာနို ကျေးလက်သူရဲကောင်း များစွာသည် တက်ဇက်စ်ရိန်ဂျာ နှင့် ၎င်းတို့ထိပ်တိုက်တွေ့မှုကြောင့် အောက်မေ့ဖွယ်ဖြစ်လာခဲ့သည်။
+Gregorio Cortez၊ Juan Cortina နှင့် Catarino Garza ကဲ့သို့သော Tejano ကျေးလက်သူရဲကောင်း များစွာသည် Texas Rangers နှင့် ၎င်းတို့ထိပ်တိုက်တွေ့မှုကြောင့် အောက်မေ့ဖွယ်ဖြစ်လာခဲ့သည်။
+#5/5
 
 725
-Fashioning time for parents and children to be together is the  rst step toward implementing the ideas and practices I'll discuss in this book.
+Fashioning time for parents and children to be together is the  first step toward implementing the ideas and practices I'll discuss in this book.
 မိဘများနှင့် သားသမီးများ အတူတကွ နွေးနွေးထွေးထွေးရှိချိန် သည် ဤစာအုပ်တွင် ဆွေးနွေးမည့် အတွေးအခေါ်များနှင့် အလေ့အကျင့်များကို အကောင်အထည်ဖော်ရန် ပထမဆုံးခြေလှမ်းဖြစ်သည်။
+#5/5
 
 726
 Prior to the postbellum constitutional amendments, there were a limited number of clauses that made the states accountable for wrongs committed against their own citizens.
 စစ်ပြီးခေတ် ဖွဲ့စည်းပုံအခြေခံဥပဒေ ပြင်ဆင်မှု မတိုင်မီတွင် ၎င်းတို့၏ နိုင်ငံသားများအပေါ် ကျူးလွန်ခဲ့သော အမှားများအတွက် ပြည်နယ်များကို တာဝန်ယူစေသော ဉပဒေ ကန့်သတ်ချက်တွေ ရှိခဲ့သည်။
+#5/5
 
 727
 A specific cloud, like our biosphere, presumably becomes kinetically trapped into a very special set of complex molecular species that happen to have formed as the cloud evolves.
 ကျွန်ုပ်တို့၏ ဇီဝရပ်ဝန်းကဲ့သို့ တိကျသောတိမ်တိုက်တစ်ခုသည် တိမ်တိုက်များ ပြောင်းလဲလာသည်နှင့်အမျှ ဖြစ်ပေါ်လာသည့် အလွန်ထူးခြားရှုပ်ထွေးသော မော်လီကျူး မျိုးစိတ်အုပ်စု တစ်ခုအတွင်း အလိုလိုပိတ်မိသွားသည်ဟု ယူဆနိုင်သည်။
+#5/5
 
 728
 Once established, neurons begin to take on unique functions by sending out branching  bers, which form elaborate connections with other neurons.
 ဖွဲ့စည်းတည်ထောင်ပြီးသည်နှင့် နျူရွန်များသည် အခြားသော နျူရွန်များနှင့် အသေးစိပ်ချိတ်ဆက်မှုဖြစ်စေသည့် အကိုင်းအခက်များကို လွှတ်တင်ခြင်းဖြင့် ထူးခြားသည့် လုပ်ဆောင်ချက်များကို စတင်လုပ်ဆောင်သည်။
+#5/5
 
 729
 15 The commander wants us to do something, and has used the language of the law to move us toward action.
 ၁၅ စစ်သူကြီးသည် ကျွန်တော်တို့အား တစုံတခုကို ပြုလုပ်စေချင်ပြီး ကျွန်တော်တို့အား အရေးယူရန် ဉပဒေဘာသာစကားကို သုံးထားသည်။
+#5/5
 
 730
 In 1863 the nation still desired to create  a more perfect Union,  but it had in addition a past that both inspired and troubled the newly indigenous psyche.
 ၁၈၆၃ ခုနှစ်တွင် နိုင်ငံတော်သည် ပိုမိုပြီးပြည့်စုံသော ပြည်ထောင်စုကို ထူထောင်လိုသေးသော်လည်း၊ ထို့အပြင် သစ်လွင်သော ‌‌ဒေသခံတိုင်းရင်းသားစိတ်ဓာတ်ကို မြင့်တင်ပေးသလို အနှောက်အယှက်လဲ ဖြစ်စေသည့် အတိတ်တစ်ခု ရှိခဲ့သည်။
+#4/5
 
 731
 The rights attach to those suspected of crime.
 ရာဇ၀တ်မှုကျူးလွန်သည်ဟု သံသယရှိသူများ၏ အခွင့်အရေးများ။
+#5/5
 
 732
 Both implicitly and, with modest work, explicitly, the  piston  object can discover that it fits into the cylinder hole in the  engine block  object to create a completed piston in a cylinder.
 သွယ်ဝိုက်သောနည်းဖြင့်လည်းကောင်း ရှင်းရှင်းလင်းလင်းပြည့်ပြည့်စုံစုံနည်းဖြင့်လည်းကောင်း၊ နှစ်မျိုးလုံးနဲ့ ဆလင်ဒါတစ်ခုတွင် ပြီးပြည့်စုံသော ပစ္စတင်တစ်ခုကို ဖန်တီးရန်အတွက် အင်ဂျင်ပိတ်ဆို့သည့်အရာရှိ ဆလင်ဒါအပေါက်နှင့် ပစ္စတင်အရာဝတ္ထုသည် အံဝင်ခွင်ကျဖြစ်ကြောင်း ရှာဖွေတွေ့ရှိနိုင်သည်။
+#5/5
 
 733
 Grant such a Hamiltonian, say a spin-glass Hamiltonian, where a spin glass is a disordered magnetic material.
-ထိုသို့သော ဟမ်မီလ်တိုနီယံကို ခွင့်ပြုလိုက်ပြီး  အဲဒါကို စပင်ဂလပ်စ် ဟမ်မီလ်တိုနီယံလို့ ပြောပါ၊ အဲဒီ့နေရာမှာ စပင်ဂလပ်စ် ဆိုတာ မူမမှန်တဲ့သံလိုက်ပစ္စည်းတစ်ခု ဖြစ်ပါတယ်။
+ထိုသို့သော Hamiltonian ခွင့်ပြုလိုက်ပြီး  အဲဒါကို စပင်ဂလပ်စ် spin-glass Hamiltonian လို့ ပြောပါ၊ အဲဒီ့နေရာမှာ spin glass ဆိုတာ မူမမှန်တဲ့သံလိုက်ပစ္စည်းတစ်ခု ဖြစ်ပါတယ်။
+#5/5
 
 734
 The pachuco speech, a combination of English and Spanish, also called cale, was a fascinating fusion drawing from many linguistic sources.
-ကယ်လီ ဟုခေါ်သော အင်္ဂလိပ်နှင့် စပိန်တို့ ပေါင်းစပ်ထားသော ပချူကို စကားပြောသည် ဘာသာစကား အရင်းအမြစ်များစွာမှ ဆွဲယူထားသော စိတ်ဝင်စားဖွယ်ကောင်းသော ပေါင်းစပ်မှု တစ်ခု ဖြစ်သည်။
+ကယ်လီ ဟုခေါ်သော အင်္ဂလိပ်နှင့် စပိန်တို့ ပေါင်းစပ်ထားသော pachuco စကားပြောသည် ဘာသာစကား အရင်းအမြစ်များစွာမှ ဆွဲယူထားသော စိတ်ဝင်စားဖွယ်ကောင်းသော ပေါင်းစပ်မှု တစ်ခု ဖြစ်သည်။
+#5/5
 
 735
 A general biology is, in fact, around the corner.
 အထွေထွေဇီဝဗေဒဆိုတာ တကယ်တော့ ပေါ်ပေါက်လာတော့မှာဖြစ်တယ်။
+#5/5
 
 736
 At this point the priest places his hand on the missal and vanishes.
 ထိုအချိန်တွင် ဘုန်းကြီးသည် ဒုံးပျံပေါ်တွင် လက်ကိုတင်ကာ ကွယ်ပျောက်သွားသည်။
+#4/5
 
 737
 Also in this group is the Twenty-Third Amendment, which extends the right to vote for the president and vice president to citizens otherwise qualified in the District of Columbia.
 ဒီအုပ်စုတွင်လည်း ၂၃ကြိမ်မြောက် ပြင်ဆင်မှုသည် ကိုလံဘီယာခရိုင်ရှိ အခြားအရည်အချင်းပြည့်မီသော နိုင်ငံသားများအား သမ္မတနှင့် ဒုတိယသမ္မတအတွက် မဲပေးပိုင်ခွင့်ကို သက်တမ်းတိုးပေးပါသည်။
+#5/5
 
 738
 Relajo can also describe a joking relationship, a bantering back and forth, which through the laughter relieves tension and disintegrates the cause of the tension of the moment.
-ရီလဂျိုက ရယ်မောသူသည် စိတ်ပင်ပန်းမှုကို သက်သာစေပြီး စိတ်ပင်ပန်းမှု အခိုက်အတန့်တွင် ဖြစ်ပွားရသည့် အကြောင်းအရင်းကို ပြိုကွဲစေသည့် အပြန်ပြန်အလှန်လှန် ကျီစယ်လှောင်ပြောင်မှု တစ်ခုကို ရယ်စရာဟာသနှင့်ဆက်စပ်မှု တစ်ခု အနေနဲ့လည်း ဖော်ပြနိုင်သည်။
+Relajo က ရယ်မောသူသည် စိတ်ပင်ပန်းမှုကို သက်သာစေပြီး စိတ်ပင်ပန်းမှု အခိုက်အတန့်တွင် ဖြစ်ပွားရသည့် အကြောင်းအရင်းကို ပြိုကွဲစေသည့် အပြန်ပြန်အလှန်လှန် ကျီစယ်လှောင်ပြောင်မှု တစ်ခုကို ရယ်စရာဟာသနှင့်ဆက်စပ်မှု တစ်ခု အနေနဲ့လည်း ဖော်ပြနိုင်သည်။
+#4/5
 
 739
 7), and those with low demand (averaging 1,300 units a week) and high demand variation (Cv= 1.3).
 7) နှင့် ဝယ်လိုအားနည်းတဲ့ ဟာတွေ (တစ်ပတ်လျှင် ပျမ်းမျှ ယူနစ် ၁၃၀၀) နှင့် ဝယ်လိုအားမြင့်မားမှုနဲ့ ပြောင်းလဲမှုတွေ (Cv= ၁.၃)။
+#5/5
 
 740
 The tone of the amendment remains deferential to the states' control of the electoral process, even for national office.
 ပြင်ဆင်ချက်၏ သဘောသည် နိုင်ငံတော်ရုံးအတွက် ရွေးကောက်ပွဲ လုပ်ငန်းစဉ်တွင် ပြည်နယ်များ၏ ထိန်းချုပ်မှုကို လေးစားလိုက်ခြင်းပင် ဖြစ်သည်။
+#5/5
 
 741
-They also show a decline in self-con dence and motivation, expressing doubts about their own ability and retreating from challenging problems.
+They also show a decline in self-confidence and motivation, expressing doubts about their own ability and retreating from challenging problems.
 ၎င်းတို့၏ ကိုယ်ပိုင်စွမ်းရည်နှင့် စိန်ခေါ်မှုပြဿနာများမှ လက်လျော့သွားခြင်း စတဲ့ သံသယဖြစ်ဖွယ်များကို ဖော်ပြသော မိမိကိုယ်ကို ယုံကြည်မှုနဲ့ စိတ်ပါဝင်စားမှု ကျဆင်းခြင်းကို သူတို့ ပြသတယ်။
+#5/5
 
 742
 Should I help her with her homework, and if so, how should I do so?
 သူ့အိမ်စာတွေကို ငါကူညီရမလား၊ အဲဒါဆိုရင် ဘယ်လိုလုပ်ရမလဲ။
+#5/5
 
 743
 See Wallis and Varjabedian for contemporary photographs of ancient moradas still found in northern New Mexico.
-နယူးမက္ကဆီကိုမြောက်ပိုင်းတွင် တွေ့ရဆဲ ရှေးဟောင်းမော်ရာဒါများ၏ ခေတ်ပြိုင်ဓာတ်ပုံများအတွက် ဝေါလစ် နှင့် ဗာဂျာဗေးဒီးယန်းတို့ကို ကြည့်ပါ။
+နယူးမက္ကဆီကိုမြောက်ပိုင်းတွင် တွေ့ရဆဲ ရှေးဟောင်း moradas များ၏ ခေတ်ပြိုင်ဓာတ်ပုံများအတွက် Wallis နှင့် Varjabedian ကို ကြည့်ပါ။
+#5/5
 
 744
 And today we must also have grounds for taking human equality seriously as a basic ideal of social and political justice.
 ယနေ့ ကျွန်ုပ်တို့သည် လူမှုရေးနှင့် နိုင်ငံရေး တရားမျှတမှု၏ အခြေခံစံနှုန်းအဖြစ် လူသားတန်းတူရေးကို အလေးအနက်ခံယူရန် ခိုင်လုံသော အကြောင်းရင်းများ ရှိရမည်ဖြစ်သည်။
+#5/5
 
 745
 La Vida de un Bato Loco,  written by an informant of Linda Katz and reproduced in her work, provides a good example of the literary uses of cale.
-လင်ဒါခတ်၏ သတင်းပေးတစ်ဦးမှ ရေးသားခဲ့ပြီး သူမရဲ့ အလုပ်ထဲမှာ ကူးယူခဲ့သော La Vida de un Bato Loco သည် ကယ်လီ ၏စာပေအသုံးပြုမှုများအတွက် နမူနာကောင်းတစ်ခုဖြစ်သည်။
+Linda Kats ၏ သတင်းပေးတစ်ဦးမှ ရေးသားခဲ့ပြီး သူမရဲ့ အလုပ်ထဲမှာ ကူးယူခဲ့သော La Vida de un Bato Loco သည် cale ၏စာပေအသုံးပြုမှုများအတွက် နမူနာကောင်းတစ်ခုဖြစ်သည်။
+#5/5
 
 746
 The disputes took on the tones of class struggle.
 အငြင်းအခုံများသည် လူတန်းစားများ၏ လှုပ်ရှားရုန်းကန်မှု သဘောကို ဖြစ်ပေါ်စေပါသည်။
+#5/5
 
 747
 And equally unarguably, the econosphere has become more complex over the past few million years of hominid evolution.
-ထပ်တူထပ်မျှ မငြင်းခုံနိုင်လောက်အောင်ပင် အီကော်နော်စဖီးယား သည် လွန်ခဲ့သော နှစ်သန်းအနည်းငယ်အတွင်း ‌ဟော်မိနစ် ဆင့်ကဲဖြစ်စဉ်တွင် ပိုမိုရှုပ်ထွေးလာသည်။
+ထပ်တူထပ်မျှ မငြင်းခုံနိုင်လောက်အောင်ပင် econosphere သည် လွန်ခဲ့သော နှစ်သန်းအနည်းငယ်အတွင်း ‌hominid ဆင့်ကဲဖြစ်စဉ်တွင် ပိုမိုရှုပ်ထွေးလာသည်။
+#5/5
+
 
 748
 That is why we feel cheated by hollow walls, flimsy doors, and shaky balustrades.
 ဒါ့ကြောင့် ကျွန်ုပ်တို့သည် အခေါင်းပေါက်များ၊ ပျော့ပျောင်းသောတံခါးများနှင့် တုန်ခါနေသော လက်ရန်းများဖြင့် လိမ်လည်လှည့်စားခံရသည်ဟု ခံစားရသည်။
+#4/5
 
 749
 How can a parent identify the difference between a language disorder and normal language development?
 ဘာသာစကားချို့ယွင်းမှုနှင့် ပုံမှန်ဘာသာစကားဖွံ့ဖြိုးတိုးတက်မှုကြား ခြားနားချက်ကို မိဘတစ်ဦးက ဘယ်လို ခွဲခြားသတ်မှတ်နိုင်သလဲ။
+#5/5
 
 750
 What we see are details.
 ကျွန်တော်တို့မြင်ရသည်မှာ အသေးစိတ်အချက်များ ဖြစ်တယ်။
+#5/5
 
 751
 I assure you, sir, that I was fully informed of all.
 ကျွန်တော် အလုံးစုံ သိထားပြီးဖြစ်ကြောင်း အာမခံပါတယ် လူကြီးမင်း။
+#5/5
 
 752
 He turned in appeal to Lord Julian.
-သူ လော့ဂျူလီယမ် ကို အသနားခံခဲ့တယ်။
+သူ သခင်သခင် Julian ကို အသနားခံခဲ့တယ်။
+#5/5
 
 753
 The sounds disturbed Captain Blood from his disgruntled musings.
-ထိုအသံများသည် ကပ္ပတိန် ဘလပ် အား သူ၏ မပျော်မရွှင်ဖြစ်နေသော အတွေးများကို အနှောင့်အယှက်ပေးခဲ့သည်။
+ထိုအသံများသည် ကပ္ပတိန် Blood အား သူ၏ မပျော်မရွှင်ဖြစ်နေသော အတွေးများကို အနှောင့်အယှက်ပေးခဲ့သည်။
+#5/5
 
 754
 Jeremy Pitt answered the laugh with an oath.
-ဂျရမ်မီပစ် က ရယ်မောကာ ကျိန်ဆိုခဲ့သည်။
+Jeremy Pitt က ရယ်မောကာ ကျိန်ဆိုခဲ့သည်။
+#5/5
 
 755
 But I can't forget that when I was no better than a slave in your uncle's household in Barbados, ye used me with a certain kindness.
-ဒါပေမယ့် ဘာဘေးဒိုးစ်မှာရှိတဲ့ မင်းဦးလေးရဲ့ အိမ်မှာ ကျွန်တစ်ယောက်ထက် မပိုခဲ့တုန်းက မင်းငါ့ကို ကြင်ကြင်နာနာနဲ့ ဆက်ဆံခဲ့တာကို ငါမေ့လို့မရဘူး။
+ဒါပေမယ့် Barbadis မှာရှိတဲ့ မင်းဦးလေးရဲ့ အိမ်မှာ ကျွန်တစ်ယောက်ထက် မပိုခဲ့တုန်းက မင်းငါ့ကို ကြင်ကြင်နာနာနဲ့ ဆက်ဆံခဲ့တာကို ငါမေ့လို့မရဘူး။
+#5/5
 
 756
 I shall be glad to reach Port Royal.   Captain Blood thrust a parchment under Calverley's bulging eyes.
-ပေါ့ရွိုင်ရယ်ကို ရောက်ရတာ ဝမ်းသာပါတယ်။ ကပ္ပတိန် ဘလပ်သည် ကဲဗာလေး၏ ပြူးနေသော မျက်လုံးများအောက်တွင် သရေပုရပိုက်တစ်ခုကို ထိုးထည့်လိုက်သည်။
+Port Royal ကို ရောက်ရတာ ဝမ်းသာပါတယ်။ ကပ္ပတိန် Blood သညိ Calverley ၏ ပြူးနေသော မျက်လုံးများအောက်တွင် သရေပုရပိုက်တစ်ခုကို ထိုးထည့်လိုက်သည်။
+#5/5
+
 
 757
 There, not more than three miles away, was land--an uneven wall of vivid green that filled the western horizon.
 သုံးမိုင်ထက်မပိုသော ထိုနေရာတွင် ဆင်းနားခဲ့သည်။ ထိုနေရာတွင် မညီညာတဲ့ အစိမ်းရောင်အထင်းသား တံတိုင်းကြီး တစ်ခုက အနောက်မိုးကုပ်စက်ဝိုင်းကို ပြည့်နှက်နေသည်။
+#5/5
 
 758
 I am His Majesty's envoy to these barbarous parts, and my Lord Sunderland's near kinsman.
-ကျွန်ုပ်သည် ထိုရိုင်းစိုင်းသောအပိုင်းများအတွက် ဘုရင်မင်းမြတ်၏ သံတမန်ဖြစ်ပြီး၊ ကျွန်ုပ်၏သခင် ဆန်းဒါးလန်း၏ ဆွေမျိုးနီးစပ်ဖြစ်သည်။
+ကျွန်ုပ်သည် ထိုရိုင်းစိုင်းသောအပိုင်းများအတွက် ဘုရင်မင်းမြတ်၏ သံတမန်ဖြစ်ပြီး၊ ကျွန်ုပ်၏သခင် Sunderland ၏ ဆွေမျိုးနီးစပ်ဖြစ်သည်။
+#5/5
 
 759
 I owed it to you--or thought I did,  he said.
 ကျွန်တော် ခင်ဗျားကို အကြွေးတင်ခဲ့တယ် ဒါမှမဟုတ် ကျွန်တော်လုပ်ခဲ့တယ် ထင်တယ်လို့ သူကပြောပါတယ်။
+#5/5
 
 760
 Pitt, who watched the scene from the quarter-deck rail, tells us that his lordship was as grave as a parson at a hanging.
-သင်္ဘောကုန်းပတ်၏ ပဲ့ပိုင်းဧရိယာ လက်ရန်းနားမှ မြင်ကွင်းကို ကြည့်ရှုသူ ပစ် က သူ၏ အုပ်ထိန်းသူသည် သင်းအုပ်ဆရာအား ကြိုးဒဏ်ပေးထားသကဲ့သို့ စိုးရိမ်ရဖွယ် ရှိသည်ဟု ကျွန်တော်တို့အား ပြောပြသည်။
+သင်္ဘောကုန်းပတ်၏ ပဲ့ပိုင်းဧရိယာ လက်ရန်းနားမှ မြင်ကွင်းကို ကြည့်ရှုသူ Pitt က သူ၏ အုပ်ထိန်းသူသည် သင်းအုပ်ဆရာအား ကြိုးဒဏ်ပေးထားသကဲ့သို့ စိုးရိမ်ရဖွယ် ရှိသည်ဟု ကျွန်တော်တို့အား ပြောပြသည်။
+#5/5
 
 761
 I should have known better than to come so close to Jamaica by night.
-ညဘက် ဂျမေကာနဲ့ နီးလာတယ် ဆိုတာထက် ငါပိုသိသင့်တယ်။
+ညဘက် ဂျမေကာ နား နီးနီးကပ်ကပ်သွားဖို့ ဆိုတာထက် ငါပိုသိသင့်တယ်။
+#4/5
 
 762
 Blood's thoughts were upon this and other things as he lounged there on the day-bed.
-ဘလပ်သည် ဆိုဖာခုံအိပ်ရာပေါ်တွင် အနားယူနေစဉ် ၎င်းကိစ္စနှင့် အခြားအရာများအပေါ် သူ၏ အတွေးများက ရှိနေသည်။
+Blood သည်  ဆိုဖာခုံအိပ်ရာပေါ်တွင် အနားယူနေစဉ် ၎င်းကိစ္စနှင့် အခြားအရာများအပေါ် သူ၏ အတွေးများက ရှိနေသည်။
+#5/5
 
 763
 The Colonel accepted it, and belatedly bowed, removing his broad hat.
 ဗိုလ်မှူးကြီးက လက်ခံလိုက်တယ်၊ ပြီးတော့ သူ့ ဦးထုပ်ကျယ်ကြီးကို ဖယ်လိုက်ပြီး နောက်ကျမှ ဦးညွှတ်လိုက်သည်။
+#5/5
 
 764
 But this ain't England, damme.   Came the roar of a second gun, and a round shot splashed the water less than half a cable's-length astern.
 ဒါ​ပေမယ့်​ ဒါက အင်္ဂလန်​မဟုတ်​ဘူး။ ဒုတိယသေနတ်တစ်လက်၏ ဟိန်းသံသည် ထွက်ပေါ်လာပြီး ကျည်တစ်ထောင့် ပစ်လိုက်တာက သင်္ဘောပဲ့ပိုင်း ကေဘယ်ကြိုး၏ အရှည်တစ်ဝက်အောက်ရှိသော ရေထဲသို့ လွင့်စင်သွားသည်။
+#5/5
 
 765
 Sure, then, I'll be telling ye.
 ဟုတ်ပါတယ် မင်းကို ငါပြောမယ်။
+#5/5
 
 766
 I was coming out on the Royal Mary....
-ရွိုင်ရယ်မယ်ရီပေါ် ထွက်လာခဲ့တယ်...။
+Royal Maey ပေါ်က ငါ ထွက်လာခဲ့တယ်...။
+#5/5
 
 767
 You have the effrontery to upbraid me because I will not take your hands when I know how they are stained; when I know you for a murderer and worse?   He stared at her open-mouthed.
 သူတို့ ဘယ်လို စွန်းထင်းနေသည်ကို သိ၍ လက်ကိုမကိုင်သောကြောင့် ရိုင်းစိုင်းသောအမူအရာဖြင့် ငါ့ကို အော်ငေါက်ခဲ့တယ်။ မင်းကို လူသတ်သမားလို့ ငါသိတဲ့အခါ ပိုဆိုးသလား။ သူက ပါးစပ်အဟောင်းသားနဲ့ သူမကို စိုက်ကြည့်နေတယ်။
+#5/5
 
 768
 He was allowed plainly to perceive that it was the graceful, elegant young trifler from St. James's, Lord Julian Wade, to whom her every moment was devoted.
-၎င်းသည် စိန့်ဂျိမ်းစ်မှ သူမကို အချိန်တိုင်း သစ္စာရှိသော ကျက်သရေရှိ ပြေပြစ်သော ငယ်ရွယ်ပြီး အတွေ့အကြုံမရှိသောသူ လော့ဒ်ဂျူလီယမ်ဝိတ် ဖြစ်သည်ကို ရှင်းရှင်းလင်းလင်း သဘောပေါက်သိမြင်ရန် သူ့ကို ခွင့်ပြုခဲ့သည်။
+၎င်းသည် St. James မှ သူမကို အချိန်တိုင်း သစ္စာရှိသော ကျက်သရေရှိ ပြေပြစ်သော ငယ်ရွယ်ပြီး အတွေ့အကြုံမရှိသောသူ သခင် Julian Wade  ဖြစ်သည်ကို ရှင်းရှင်းလင်းလင်း သဘောပေါက်သိမြင်ရန် သူ့ကို ခွင့်ပြုခဲ့သည်။
+#5/5
 
 769
 But... but... aboard this ship...?  The officer made a gesture of helplessness, and, surrendering to his bewilderment, fell abruptly silent.
 ဒါပေမယ့်... ဒါပေမယ့်... ဒီသင်္ဘောပေါ်မှာ... အရာရှိသည် ကူကယ်ရာမဲ့သော အမူအရာဖြင့် စိတ်ရှုပ်ထွေးပြီး အရှုံးပေးကာ ရုတ်တရက် ငြိမ်သွားသည်။
+#5/5
 
 770
 You are Lord Julian Wade, I understand,  was his truculent greeting.
-မင်းက လော့ဒ်ဂျူလီယမ်ဝိတ်၊ ငါသဘောပေါက်တယ်၊ အဲဒါက သူ့ရဲ့ ကြမ်းတမ်းတဲ့ နှုတ်ခွန်းဆက်သမှုဘဲ ဖြစ်တယ်။
+မင်းက သခင် Julian Wade၊ ငါသဘောပေါက်တယ်၊ အဲဒါက သူ့ရဲ့ ကြမ်းတမ်းတဲ့ နှုတ်ခွန်းဆက်သမှုဘဲ ဖြစ်တယ်။
+#5/5
 
 771
 Mary Traill would tell you of it.
-မယ်ရီထရေရယ် က အဲဒါကို ပြောပြလိမ့်မယ်။
+မင်းကို Mary Traill က အဲဒါကို ပြောပြလိမ့်မယ်။
+#4/5
 
 772
 It's through her that we're in this trap,  Ogle stormed on.
-သူ့ကိုကျော်ပြီး ငါတို့က ဒီထောင်ချောက်ထဲ ရောက်နေတာပဲ၊ အိုဂဲ က စီးနင်းတိုက်ခိုက်တယ်။
+သူမကိုကျော်ပြီး ငါတို့က ဒီထောင်ချောက်ထဲ ရောက်နေတာပဲ၊ Ogle က စီးနင်းတိုက်ခိုက်တယ်။
+#5/5
 
 773
 She left him, and thereafter with Wolverstone, leaning upon the rail, he watched the approach of that boat, manned by a dozen sailors, and commanded by a scarlet figure seated stiffly in the stern sheets.
-သူမသည် သူ့ကို ထားသွားပြီးနောက် ဝေါ့ဗာစတုန်း နှင့်အတူ လက်ရန်းတွင် မှီ၍  သင်္ဘောသားတစ်ဒါဇင်ခန့်ပါပြီး ပဲ့တင်ပိုင်းတွင် အနီရောင်ဝတ်ထားသောလူတစ်ဦးက မတ်မတ်ထိုင်ကာ အမိန့်ပေးနေသည့် ထိုလှေ၏ ချဉ်းကပ်လာပုံကို ကြည့်နေခဲ့သည်။
+သူမသည် သူ့ကို ထားသွားပြီးနောက် Wolverstone  နှင့်အတူ လက်ရန်းတွင် မှီ၍  သင်္ဘောသားတစ်ဒါဇင်ခန့်ပါပြီး ပဲ့တင်ပိုင်းတွင် အနီရောင်ဝတ်ထားသောလူတစ်ဦးက မတ်မတ်ထိုင်ကာ အမိန့်ပေးနေသည့် ထိုလှေ၏ ချဉ်းကပ်လာပုံကို ကြည့်နေခဲ့သည်။
+#5/5
 
 774
 Your motives were no doubt worthy... your gratitude to him for delivering you from the Spaniards.
 မင်းကို စပိန်လူမျိုးလက်ကနေ ကယ်ထုတ်ခဲ့တဲ့အတွက် မင်းရဲ့ စိတ်ရင်းတွေက ကျေးဇူးတင်နေမှာ သေချာတယ်။
+#5/5
 
 775
 Why did ye let Wolverstone and the others go?  he cried, with a touch of bitterness.
-မင်း ဝေါ့ဗာစတုန်း နဲ့ တခြားသူတွေကို ဘာလို့ လွှတ်ထားတာလဲ။ ခါးသီးမှုဒဏ်ကိုခံရင်း သူ ငိုလေ၏။
+မင်း Wolverstone နဲ့ တခြားသူတွေကို ဘာလို့ လွှတ်ထားတာလဲ။ ခါးသီးမှုဒဏ်ကိုခံရင်း သူ ငိုလေ၏။
+#5/5
 
 776
 There's a gallows waiting for this rascal in Port Royal.   Blood would have intervened at that, but Lord Julian forestalled him.
-ပေါ့ရွိုင်ရယ်တွင် ဒီလူယုတ်မာကို စောင့်မျှော်နေသော ကြိုးစင်တစ်ခုရှိသည်။ ဘလပ်က ကြားဝင်စွက်ဖက်နိုင်သော်လည်း လော့ဂျူလီယမ် က သူ့ကို တားဆီးခဲ့သည်။
+Port Royal ဒီလူယုတ်မာကို စောင့်မျှော်နေသော ကြိုးစင်တစ်ခုရှိသည်။ Blood က ကြားဝင်စွက်ဖက်နိုင်သော်လည်း သခင် Julian က သူ့ကို တားဆီးခဲ့သည်။
+#5/5
 
 777
 It's that cursed petticoat's making a coward of you.
-ကျိန်စာတိုက်အင်္ကျီက မင်းကို သူရဲဘောကြောင်အောင်လုပ်နေတာ။
+ကျိန်စာသင့်အင်္ကျီက မင်းကို သူရဲဘောကြောင်အောင်လုပ်နေတာ။
+#5/5
 
 778
 Ah! And what way may that be?
 အိုက်! အဲဒါက ဘယ်လိုဖြစ်နိုင်မလဲ။
+#5/5
 
 779
 Ogle wrenched it free, with an oath.
-အိုဂဲက ကျိန်ဆိုချက်နဲ့ လွတ်သွားတယ်။
+Ogle က ကျိန်ဆိုချက်နဲ့ လွတ်သွားတယ်။
+#5/5
 
 780
 I do not grant the King's commission lightly.
 ကျွန်တော် ဘုရင်ရဲ့ တာဝန်ကို ပေါ့ပေါ့တန်တန် သဘောမထားပါဘူး။
+#5/5
 
 781
 He realized that he might have to retreat in a hurry.
 သူ အလျင်စလို ပြန်ဆုတ်ရကောင်းမှန်း သိလိုက်ရတယ်။
+#5/5
 
 782
 Even now Blood had no eyes for that.
-အခုတောင် ဘလပ်က အဲဒါအတွက် ဘာမှမမြင်တော့ဘူး။
+အခုတောင် Blood က အဲဒါအတွက် ဘာမှမမြင်တော့ဘူး။
+#5/5
 
 783
 And yet he has been what he has been and done what he has done in these last three years,  said she, but she said it sorrowfully now, without any of her earlier scorn.
 ပြီးခဲ့တဲ့ သုံးနှစ်အတွင်း သူဖြစ်ခဲ့တာတွေ ဖြစ်ခဲ့ပြီးပြီ သူလုပ်ခဲ့တာတွေကို သူလုပ်ခဲ့ပြီးပြီလို့ ပြောခဲ့ပေမဲ့ အခု သူမဟာ အရင်တုန်း က အထင်သေးခံရမှု မရှိဘဲ အခု ဝမ်းနည်းစွာနဲ့ အဲဒါကို ပြောခဲ့ပါတယ်။
+#4/5
 
 784
 It'll not be Bishop himself,  said Wolverstone, between question and assertion.
-အငြင်းပွားဖွယ်နဲ့ အခိုင်အမာကြားက ဗစ်ရှော့ ကိုယ်တိုင်တော့ မဟုတ်ဘူးလို့ ဝေါ့ဗာစတုန်း က ပြောပါတယ်။
+အငြင်းပွားဖွယ်နဲ့ အခိုင်အမာကြားက Bishop ကိုယ်တိုင်တော့ မဟုတ်ဘူးလို့ Wolverstone က ပြောပါတယ်။
+#5/5
 
 785
 I suppose that is after the fashion of your kind.
 အဲဒါက မင်းတို့အမျိုးတွေရဲ့ ဝတ်စားဆင်ယင်မှုနဲ့ တူတယ်လို့ ငါထင်တယ်။
+#5/5
 
 786
 A frown rumpled her brow.
 မှုန်ကုတ်ကုတ်မျက်နှာ တစ်ခုက သူ့ရဲ့ နဖူးကို တွန့်စေတယ်။
+#5/5
 
 787
 Will you cease your blather of mutiny and treason and courts-martial?   Blood put on his hat, and sat down unbidden.
-နိုင်ငံတော်ပုန်ကန်မှု သစ္စာဖောက်မှု နဲ့ စစ်ခုံရုံးတွေကို အပြစ်တင်မှုတွေ ရပ်တန့်မှာလား။ ဘလပ် က သူ့ ဦးထုပ်ကို ဆောင်းပြီး မခေါ်ဘဲ လာထိုင်တယ်။
+နိုင်ငံတော်ပုန်ကန်မှု သစ္စာဖောက်မှု နဲ့ စစ်ခုံရုံးတွေကို အပြစ်တင်မှုတွေ ရပ်တန့်မှာလား။ Blood က သူ့ ဦးထုပ်ကို ဆောင်းပြီး မခေါ်ဘဲ လာထိုင်တယ်။
+#5/5
 
 788
 She had been observing him with shining eyes, but at sight of his dejected countenance, and the deep frown that scarred his brow, her own expression changed.
 ရွှန်းလဲ့သော မျက်လုံးများဖြင့် သူ့ကို စောင့်ကြည့်နေသော်လည်း သူ၏ စိတ်ပျက်အားငယ်နေသော မျက်နှာအမူအရာနှင့် နဖူးကို အမာရွတ်ဖြစ်စေသော နက်နက်နဲနဲ မျက်မှောင်ကြုတ်တာက သူမကိုယ်အမူအရာ ပြောင်းလဲသွားစေသည်။
+#4/5
 
 789
 Things had not sped at all well with him in the past fortnight since his acceptance of the King's commission.
 ဘုရင်၏ တာဝန်ကို သူလက်ခံပြီးနောက် လွန်ခဲ့တဲ့ နှစ်ပတ်လုံးလုံး သူ့အတွက် အရှိန်အဟုန်မရှိခဲ့ပေ။
+#4/5
 
 790
 They are within range,  cried Ogle.
-သူတို့ အကွာအဝေးအတွင်းတွင် ရှိနေကြတယ်လို့ အိုဂဲ က ကြွေးကြော်တယ်။
+သူတို့ အကွာအဝေးအတွင်းတွင် ရှိနေကြတယ်လို့ Ogle က ကြွေးကြော်တယ်။
+#4/5
 
 791
 I have sent for you, Captain Blood, because of certain news that has just reached me.
-ကပ္ပတိန် ဘလပ် ကျွန်တော့်ဆီ ရောက်လာတဲ့ သေချာတဲ့ သတင်းကြောင့် ခင်ဗျားအတွက် အကြောင်းကြားလိုက်ပြီ။
+ကပ္ပတိန် Blood ကျွန်တော့်ဆီ ရောက်လာတဲ့ သေချာတဲ့ သတင်းကြောင့် ခင်ဗျားအတွက် အကြောင်းကြားလိုက်ပြီ။
+#5/5
 
 792
 Walking leisurely, he skirted the embattled wall, and passed through the great gates into the courtyard.
-အေးအေးဆေးဆေး လမ်းလျှောက်ရင်း တိုက်ပွဲဖြစ်နေသော တံတိုင်းကို ကျော်သွားပြီး ခြံဝင်းထဲသို့ ဝင်ရန် တံခါးကြီးများကို ဖြတ်လျှောက်သွားတယ်။
+အေးအေးဆေးဆေး လမ်းလျှောက်ရင်း ကျပ်တည်းသော တံတိုင်းကို ကျော်သွားပြီး ခြံဝင်းထဲသို့ ဝင်ရန် တံခါးကြီးများကို ဖြတ်လျှောက်သွားတယ်။
+#4/5
 
 793
 Why do you run, then?  she asked him coolly, standing slim and straight before him, all in white and very maidenly save in her unnatural composure.
 ဒါဆို မင်းဘာလို့ပြေးတာလဲ။ သူမက သူ့ရှေ့မှာ မတ်မတ်ရပ်ကာ ဖြူစင်ပြီး သဘာဝမကျတဲ့ ဣနြေ္ဒရရလေးဖြင့်  သူ့ကို အေးအေးဆေးဆေး မေးလိုက်တယ်၊ 
+#5/5
 # ဒါဆို မင်းဘာလို့ပြေးတာလဲ။ သူ့ရှေ့က ပေါ့ပါးပြီး ဖြောင့်ဖြောင့်မတ်မတ်ရပ်ကာ ဖြူစင်ပြီး သဘာဝမကျတဲ့ ဣနြေ္ဒရရလေးဖြင့် ကယ်တင်ကာ သူ့ကို အေးအေးဆေးဆေး မေးလိုက်တယ်။
+#4/5
 #Review
 
 794
 Say that I look forward to making his acquaintance there.     CHAPTER XXII.
 အဲဒီမှာ သူနဲ့ အသိအကျွမ်းဖြစ်အောင် စောင့်မျှော်နေတယ်လို့ ပြောပါ။ အခန်း XXII ။
+#5/5
 
 795
 You'll ruffle it to the gallows, no doubt,  he said contemptuously.
 မင်း ကြိုးစင်အထိ ရှုပ်သွားမှာ သံသယဖြစ်စရာ မလိုပါဘူး၊ သူက မထီမဲ့မြင်နဲ့ ပြောလိုက်တယ်။
+#4/5
 
 796
 You'll return to it at once, and take your crew with you, or else....   But Ogle, violent of mien and gesture, interrupted him.
-မင်းက ချက်ချင်း ပြန်လာပြီး မင်းရဲ့ အဖွဲ့သားတွေကို မင်းနဲ့အတူ ခေါ်သွားရလိမ့်မယ်၊ ဒါမှမဟုတ် တခြား.... ဒါပေမယ့် မျက်နာအမူအရာ ကြမ်းတမ်းတဲ့ အိုဂဲ က သူ့ကို အနှောင့်အယှက်ပေးတယ်။
+မင်းက ချက်ချင်း ပြန်လာပြီး မင်းရဲ့ အဖွဲ့သားတွေကို မင်းနဲ့အတူ ခေါ်သွားရလိမ့်မယ်၊ ဒါမှမဟုတ် တခြား.... ဒါပေမယ့် မျက်နာအမူအရာ ကြမ်းတမ်းတဲ့ Ogle က သူ့ကို ကြားဖြတ်ပြောခဲ့တယ်။
+#4/5
 
 797
 I believe that it was nothing but the hope of taking and hanging Captain Blood that made my uncle leave his Barbados plantations to accept the deputy-governorship of Jamaica.
-ဂျမေကာ၏ ဒုတိယအုပ်ချုပ်မှုရာထူးကို လက်ခံရန် ကျွန်တော့်ဦးလေး ၎င်း၏ ဘာဘေးဒိုးစ်စိုက်ခင်းများမှ ထွက်ခွာသွားစေရန် လုပ်ဆောင်သော ကပ္ပတိန် ဘလပ်ကို ကြိုးဆွဲချရန် မျှော်လင့်ချက်မှလွဲ၍ ဘာမှမရှိဘူးဟု ကျွန်တော် ယုံကြည်ပါသည်။
+ဂျမေကာ၏ ဒုတိယအုပ်ချုပ်မှုရာထူးကို လက်ခံရန် ကျွန်တော့်ဦးလေး ၎င်း၏ Barbados စိုက်ခင်းများမှ ထွက်ခွာသွားစေရန် လုပ်ဆောင်သော ကပ္ပတိန် Blood ကို ကြိုးဆွဲချရန် မျှော်လင့်ချက်မှလွဲ၍ ဘာမှမရှိဘူးဟု ကျွန်တော် ယုံကြည်ပါသည်။
+#4/5
 
 798
 How could I in honesty have detained them? It was in the bargain.
 ရိုးရိုးသားသားနဲ့ သူတို့ကို ဘယ်လို ထိန်းသိမ်းနိုင်မလဲ။ အဲဒါက အပေးအယူပဲ ဖြစ်တယ်။
+#4/5
 
 799
 Colonel Bishop has been notified of my coming.   The sudden change in Calverley's manner at Lord Julian's mention of his name showed that the notification had been received, and that he had knowledge of it.
-ဗိုလ်မှူးကြီး ဗစ်ရှော့က ကျွန်တော် လာမည်ဖြစ်ကြောင်း အကြောင်းကြားထားပြီးပြီ။ လော့ဂျူလီယမ် ၏ အမည်ကိုဖော်ပြရာတွင် ကဲဗာလေး၏ အမူအရာ ရုတ်တရက်ပြောင်းလဲခြင်းသည် အကြောင်းကြားစာကိုလက်ခံရရှိပြီး ၎င်းကို သိရှိကြောင်းပြသခဲ့သည်။
+ဗိုလ်မှူးကြီး Bishop က ကျွန်တော် လာမည်ဖြစ်ကြောင်း အကြောင်းကြားထားပြီးပြီ။ သခင် Julian  ၏ အမည်ကိုဖော်ပြရာတွင် Calverley ၏ အမူအရာ ရုတ်တရက်ပြောင်းလဲခြင်းသည် အကြောင်းကြားစာကိုလက်ခံရရှိပြီး ၎င်းကို သိရှိကြောင်းပြသခဲ့သည်။
+#5/5
 
 800
 Well, well, maybe he'll not find me quite so easy to grasp as he imagines.
 ကောင်းပြီ ကောင်းပြီ သူစိတ်ကူးထားတဲ့အတိုင်း ဆုပ်ကိုင်ဖို့ တော်တော်လွယ်တာကို သူတွေ့မှာမဟုတ်ဘူး။
+#5/5

@@ -49,400 +49,501 @@
 # It is good enough if your FINAL translations can get to (4/5) rating.
 
 1001
-The museum is not strong on catalogues or labels
-ပြတိုက်သည် ကတ်တလောက်များ အညွှန်းများပေါ်တွင် ခိုင်မာမှုမရှိပါ။
+The museum is not strong on catalogues or labels.
+ဤပြတိုက်၏ ကတ်တလောက်များ အညွှန်းများမှာ အသေးစိတ်တိကျမှုမရှိပါ။
+#4/5
 
 1002
-You can see beluga whales in summer, polar bears in the autumn, and, if you're around at the spring or autumn equinox, the  northern lights  of the aurora borealis.
-နွေဦး သို့မဟုတ် ဆောင်းဦးရာသီ နေကအီကွေတာကိုဖြတ်သန်းချိန်မှာ  မင်း ရှိနေမယ်ဆိုရင် နွေရာသီတွင် ဘဲလုဂါဝေလငါးများ၊  ဆောင်းဦးရာသီတွင် ပိုလာဝက်ဝံများ ၊ နှင့် အော်ရိုရာ ဘိုရီးရားလစ်(စ်)ရဲ့ မြောက်ဘက်အလင်းတန်းများကို မင်းတွေ့မြင်နိုင်ပါသည်။
+You can see beluga whales in summer, polar bears in the autumn, and, if you're around at the spring or autumn equinox, the  northern lights  of the aurora borealis.‌
+နွေရာသီတွင် beluga ‌ဝေလငါးများ ၊ ဆောင်းဦးရာသီတွင် ပိုလာဝက်ဝံများကို မြင်တွေ့နိုင်ပြီး နွေဦး သို့မဟုတ် ဆောင်းဦးရာသီ equinox ကာလများမှာ မင်းသာရှိနေမယ်ဆိုရင် northern lights of the aurora borealis အလင်းတန်းတွေကို မြင်ရမှာပါ။
+#4/5
 
 1003
-Canal Motorboats BV has two locations in the city
-ကန်နယ်မော်တော်ဘုတ်ဘီဗွီသည် မြို့ထဲတွင် နှစ်နေရာရှိသည်။
+Canal Motorboats BV has two locations in the city.
+Canal Motorboats BV သည် မြို့ထဲတွင် နှစ်နေရာရှိသည်။
+#4/5
 
 1004
 These open-air markets are also the most interesting places to shop in Beijing.
 ဒီလေဟာပြင်ဈေးသည်လည်း ပေကျင်းတွင် ဈေးဝယ်ထွက်ဖို့ နေရာတွေထဲမှာမှ စိတ်ဝင်စားဖို့အကောင်းဆုံး ဖြစ်သည်။
+#5/5
 
 1005
 Linked to Nova Scotia by the narrow Chignecto Isthmus, New Brunswick became a separate province in 1784 at the demand of 14,000 Loyalist refugees.
 ကျဉ်းမြောင်းသော ချိ(စ်)နက်တို အစ်(စ်)မက်တူးမြောင်းနှင့်ချိတ်ဆက်ထားသော နိုဗာ စကိုရှာသည် ၁၇၈၄ ခုနှစ်တွင် သစ္စာခံ ဒုက္ခသည် ၁၄၀၀၀ ၏ တောင်းဆိုချက်အရ နယူးဘန်းစ်ဝှစ်က်သည် သီးခြားပြည်နယ်တစ်ခုဖြစ်လာခဲ့သည်။
+#2/5
 
 1006
 After looking around these collections, climb the hill to the Commissioner's House, where you will find fine views of the surrounding coastline and the rest of the dockyard complex.
 ဤအစုအဝေးများကိုလှည့်ပတ်ကြည့်ရှု ပြီးသည့်နောက် ကမ်းရိုးတန်း ဝန်းကျင် ၏ သာယာလှပသော ရှုခင်းများ နှင့် ကျန်ရှိသည့် ရှုပ်ထွေးသော သင်္ဘောကျင်းများကို တွေမြင်ရမည့် ကော်မရှင်နာ၏အိမ်သို့ တောင်ကုန်းမှ တတ်ခဲ့သည်။
+#3/5
 
 1007
 The largest bay on the northwest coast makes a fine harbor, but both the water and the beach can be dirty.
-အနောက်မြောက် ကမ်းရိုးတန်း ရှိ အကြီးဆုံး ပင်လယ်အော်သည် ကောင်းမွန်သော ဆိပ်ကမ်း တစ်ခု ဖြစ်သော်လည်း ၊ ရေနှင့်ကမ်းခြေနှစ်ခုစလုံးသည် ညစ်ပတ်နိုင်သည်။
+အနောက်မြောက် ကမ်းရိုးတန်း ရှိ အကြီးဆုံး ပင်လယ်အော်သည် ကောင်းမွန်သော ဆိပ်ကမ်း တစ်ခု ဖြစ်လာနိုင်သော်လည်း၊ ရေနှင့်ကမ်းခြေနှစ်ခုစလုံးသည် ညစ်ပတ်စေနိုင်သည်။
+#5/5
 
 1008
 The San Francisco Ballet has its main season at the Opera House in the spring, but also puts on performances during December.
-နွေဦးတွင် အော်ပရာဟောက်စ်တွင် ဆန်ဖရန်စ္စကိုဘဲလေး အဓိကပွဲရာသီ ရှိသော်လည်း ၊ ဒီဇင်ဘာလအတွင်းတွင် ဖျော်ဖြေပွဲများလည်း ကျင်းပကြသည်။
+Opera House ပြဇာတ်ရုံတွင် ဆန်ဖရန်စ္စကိုဘဲလေးအက၏ အဓိကပွဲရာသီသည် နွေဦးရာသီဖြစ်သော်လည်း  ဒီဇင်ဘာလအတွင်းတွင်လည်း ဖျော်ဖြေပွဲများကျင်းပကြသည်။
+#5/5
 
 1009
 Behind the South American area you'll find the Perfume Factory, where you can create your own personal fragrance.
-တောင်အမေရိကဒေသရဲ့ နောက်ကွယ်မှာ မင်းရဲ့ကိုယ်ပိုင်ရနံ့ကို ဖန်တီးနိုင်တဲ့ ရေမွှေးစက်ရုံကို မင်းရှာတွေ့လိမ့်မယ်။
+တောင်အမေရိက ရဲ့ အစွန်အဖျားဒေသဘက်မှာ မင်းရဲ့ကိုယ်တိုင် အမွှေးရနံ့ကို ဖန်တီးနိုင်တဲ့ ရေမွှေးစက်ရုံတွေရှိတယ်။
+#5/5
 
 1010
 Those skyscrapers are banks, and the street on which they stand has been nicknamed the Milla de Oro, or Golden Mile.
-ထိုမိုးမျှော်တိုက်ကြီးများသည် ဘဏ်များဖြစ်ပြီး ၊ ၎င်းတို့ရှိနေသည့်လမ်းကို မီလာဒဲအိုရို သို့မဟုတ် ဂိုးလ်ဒန်း မိုင်လို့ နာမည်ပြောင်ပေးထားကြသည်။
+ထိုမိုးမျှော်တိုက်ကြီးများသည် ဘဏ်များဖြစ်ပြီး ၊ ၎င်းတို့ရှိနေသည့်လမ်းကို Milla de Oro သို့မဟုတ် Golden Mileလို့ နာမည်ပြောင်ပေးထားကြသည်။
+#5/5
 
 1011
 Children will enjoy the Cite de la Mer (37 Rue de l'Asile Thomas), with exhibits on the history of boatbuilding, the fishing industry, and how tides and currents shape the coastline.
-ကလေးများသည် လှေတည်ဆောက်မှု ၊ ငါးဖမ်းလုပ်ငန်းသမိုင်း နှင့် ကမ်းရိုးတန်းဒီရေ နှင့် ရေစီးကြောင်း ပုံသဏ္ဍာန်တို့ နှင့်အတူ ၊ ခင်းကျင်းပြသထားသည့် ၊ ဆိုက်ဒဲလမား(၃၇ ရူးဒဲလစ်(စ်)စဲလီရို သောမတ်)ကို နှစ်ခြိုက်စွာ ခံစားနိုင်မည်ဖြစ်သည်။
+ကလေးများသည် လှေတည်ဆောက်မှု ၊ ငါးဖမ်းလုပ်ငန်းသမိုင်း နှင့် ကမ်းရိုးတန်းဒီရေ နှင့် ရေစီးကြောင်း ပုံသဏ္ဍာန်တို့ နှင့်အတူ ၊ ခင်းကျင်းပြသထားသည့် Cite de la Mer (37 Rue de l'Asile Thomas) ကို များစွာနှစ်ခြိုက်ကြမည်ဖြစ်သည်။
+#5/5
 
 1012
 Natural enough, then, that involvement in World War II began with a British Commonwealth Air Training Plan, using Canada's safer skies to prepare pilots for combat.
 ထို့ကြောင့် ဒုတိယကမ္ဘာစစ်တွင် သဘာဝကျကျ ပါဝင်ပတ်သတ်မှုမှာ ကနေဒါ၏ လုံခြုံသောကောင်းကင်ယံကို အသုံးပြုကာ  တိုက်ပွဲအတွက် လေယာဉ်မှူးများကို ပြင်ဆင်ရန် ၊ ဗြိတိသျှဓနသဟာရ လေကြောင်းလေ့ကျင့်ရေးအစီအစဉ် တစ်ခု နှင့်အတူ စတင်ခဲ့ပါသည်။
+#2/5
 
 1013
 Hopes were raised, and also fizzled, over Bahamian citrus and pineapple.
-ဘဟားမားက ရှောက်သီးနှင့် နာနက်သီး အပေါ် မျှော်လင့်နေကြသလို စိတ်လဲပျက်သွားကြသည်။
+Bahamian က ရှောက်သီးနှင့် နာနက်သီး အပေါ် မျှော်လင့်နေကြသလို စိတ်လဲပျက်သွားကြသည်။
+#4/5
 
 1014
 The Ming Tombs were once a staple of tours to the Great Wall at Badaling, but foreign tourists have seldom been impressed by the site, finding it dank and poorly restored.
-မင်ဂူများသည် ဘေးဒါလင်ရှိ မဟာတံတိုင်းသို့ လှည့်လည်သွားရန် အဓိကအချက်ဖြစ်သော်လည်း ရှာရတာခက်ခဲပြီး ပြန်လည်ထိန်းသိမ်းမှုညံ့ဖျင်းသောကြောင့် နိုင်ငံခြားခရီးသွားဧည့်သည်များသည် ထိုဆိုဒ်ကို အထင်ကြီးခြင်းမရှိကြပေ။
+Badalingရှိ မင်မျိုးနွယ်အုတ်ဂူများသည် မဟာတံတိုင်းတွင် ကြည့်ရှုလေ့လာစရာ နေရာတစ်ခုဖြစ်ခဲ့သော်လည်း စိုစွတ်ထိုင်းမှိုင်းပြီး ကောင်းမွန်စွာထိန်းသိမ်းပြုပြင်ထားနိုင်ခြင်း မရှိခြင်းကြောင့် ကမ္ဘာလှည့်ခရီးသွားများကြား စိတ်ဝင်စားမှုနည်းပါးခဲ့သည်။
+#5/5
 
 1015
 The best ports in the Mediterranean are June, July, August, and Mae,  said the 16th-century Venetian admiral Andrea Doria, noting that beyond the summer sailing season, a fleet couldn't do better than shelter here.
 ဇွန်လ၊ ဇူလိုင်လ၊ ဩဂုတ်လနှင့် မေလတို့တွင် မြေထဲပင်လယ်၌ အကောင်းဆုံးဆိပ်ကမ်းများဖြစ်ကြပြီး ၊ နွေရာသီရွက်လွှင့်ရာသီကိုကျော်လွန် ၍ ဤနေရာတွင် အမိုးအကာထက် ရေယာဉ်တစ်စင်းက ကောင်းကောင်းမစွမ်းဆောင်နိုင်ဘူး လို့ ၁၆ရာစု ဗနီးချန်းရေတပ်ဗိုလ်ချူပ် အမ်းဒရူး ဒိုရီယာက ပြောခဲ့သည်။
+#3/5
 
 1016
 Among the 27 hiking trails the best are the Glasgow Lakes trail to John Deer Lake and the trail around Beulach Ban Falls and French Mountain.
-တောင်တက်လမ်း ၂၇ ခုရှိသည့်အနက် အကောင်းဆုံးလမ်းမှာ ဂျွန် ဒီးယား ရေကန်သို့သွားသည့် ဂလပ်စဂိုး ရေကန်လမ်းနှင့် ဘရူးလပ် ဘန်ရေတံခွန်ပတ်လမ်းနှင့် ပြင်သစ်တောင်တန်းလမ်းတို့ ဖြစ်ကြသည်။
+တောင်တက်လမ်း ၂၇ ခုရှိသည့်အနက် အကောင်းဆုံးလမ်းမှာ John Deer ရေကန်သို့သွားသည့် Glasgow ရေကန်လမ်းနှင့် around Beulach Ban ရေတံခွန်ပတ်နှင့် ပြင်သစ်တောင်တန်းးတို့ကို ပတ်သွားသောလမ်းတို့ ဖြစ်ကြသည်။
+#4/5
 
 1017
 And they remain tolerant and helpful, even though they know that their lovely coast is no longer just theirs.
-သူတို့၏ ချစ်စရာကောင်းသော ကမ်းခြေသည် သူတို့အတွက် မဟုတ်တော့ဘူးဆိုတာသိတာတောင်မှ ၊ သူတို့သည် သည်းခံပြီးကူညီတတ်ကြ၏။
+သူတို့၏ ချစ်စရာကောင်းသော ကမ်းခြေသည် သူတို့အပိုင်သီးသန့် မဟုတ်တော့ဘူးဆိုတာသိတာတောင်မှ ၊ သူတို့သည် သည်းခံပြီးကူညီတတ်ကြ၏။
+#4/5
 
 1018
 Kublai Khan erected his own capital in 1279 on the shores of Beijing's Beihai Lake, where some of his imperial treasures remain on display today.
-ကူဗလိုင်ခန်သည် ၁၂၇၉ ခုနှစ်တွင် ပေကျင်းမြို့ဘေဟိုင်ရေကန်၏ကမ်းစပ် ရှိ ၊ သူ၏ ကိုယ်ပိုင် မြို့တော်မှာ သူ၏တော်ဝင်ရတနာများကို ယနေ့တိုင် ခင်းကျင်းပြသထားသည်။
+၁၂၇၉ ခုနှစ်တွင် Kublai Khan တည်ထောင်ခဲ့သည့် ပေကျင်းမြို့ဘေဟိုင်ရေကန်၏ကမ်းစပ်ရှိ မြို့တော်မှာ သူ၏တော်ဝင်ရတနာများကို ယနေ့တိုင် ခင်းကျင်းပြသထားသည်။
+#5/5
 
 1019
 The roadless Na Pali Coast on the heavenly north shore is one of the world's most challenging and majestic seaside hikes (see page 71).
 ကောင်းကင်မြောက်ဘက်လမ်းရှိ လမ်းမဲ့ငပလီကမ်းခြေသည် ကမ္ဘာပေါ်တွင် အခက်ခဲဆုံးနှင့် ခမ်းနားထည်ဝါသော ပင်လယ်ကမ်းခြေခရီးများထဲမှ    တစ်ခုဖြစ်သည်(စာမျက်နှာ ၇၁ ကိုကြည့်ပါ)။
+#2/5
 
 1020
 Assimilating more easily with the Anglo community only Protestant schools accepted their children Eastern European Jews have  graduated  to wealthy Westmount or emigrated, again, to Toronto.
-အင်ဂလို လူမှုအသိုင်းအဝိုင်းနှင့် ပိုမိုနည်းကပ်စွာ ပရိုတက်စတန့်ကျောင်းများကသာ သူတို့ရဲ့ သားသမီးများကို လက်ခံကြပြီး၊  အရှေဥရောပဂျူးလူမျိုးများက ချမ်းသာသော ဝက်စ်မောင့်မှာ ကျောင်းအောင်ကြသည် သို့မဟုတ် တိုရွန်တို ကို‌‌‌ ထပ်မံပြောင်းသွားကြသည်။
+Anglo လူမှုအသိုင်းအဝိုင်းနှင့် ပိုမိုနည်းကပ်စွာ ပရိုတက်စတန့်ကျောင်းများကသာ သူတို့ရဲ့ သားသမီးများကို လက်ခံကြပြီး၊  အရှေဥရောပဂျူးလူမျိုးများက ချမ်းသာသော ဝက်စ်မောင့်မှာ ကျောင်းအောင်ကြသည် သို့မဟုတ် တိုရွန်တို ကို‌‌‌ ထပ်မံပြောင်းသွားကြသည်။
+#3/5
 
 1021
 If possible, familiarize yourself with the plot in advance.
 ဖြစ်နိုင်ရင် ဇာတ်ကွက်နဲ့ ကြိုပြီးရင်းနှီးအောင်လုပ်ပါ။
+#5/5
 
 1022
 Go beyond these sights to Nathaniel Hawthorne's House of the Seven Gables.
 ဤမြင်ကွင်းများကိုကျော်၍ ဆဲဗင်း ဂလ်စ်ရဲ့ နသဲနီရယ်ဟော်သောနီ၏အိမ်သို့ သွားပါ။
+#3/5
 
 1023
 The sound, some 3 km (2 miles) in diameter, is thought to be a huge caldera that formed after a powerful volcanic eruption.
-အချင်းအားဖြင့် ၃ကီလိုမီတာ (၂မိုင်) လောက်ကျယ်သော အသံသည် အားကောင်းသောမီးတောင်ပေါက်ကွဲမှု တစ်ခုဖြစ်ပြီးနောက် ကြီးမားသော ကယ်လ်ဒဲရာတစ်ခု ဖြစ်ပေါ်စေသည်ဟု ယူဆသည်။
+အချင်းအားဖြင့် ၃ကီလိုမီတာ (၂မိုင်) ခန့်ကျယ်သော အသံသည် အားကောင်းသောမီးတောင်ပေါက်ကွဲမှု တစ်ခုဖြစ်ပြီးနောက် ကြီးမားသော ချိုင့်ဝှမ်းတစ်ခု ဖြစ်ပေါ်စေသည်ဟု ယူဆသည်။
+#4/5
 
 1024
 His burial vaults, 27 m (88 ft) below ground, are made of marble and cover 1,200 sq m (13,000 sq ft).
 မြေကြီးအောက် ၂၇ မီတာ (၈၈ ပေ) တွင်ရှိသော သူ၏သင်္ချိုင်းသည် ၊ စကျင်ကျောက်များဖြင့် ပြုလုပ်ထားပြီး ၁၂၀၀ စတုရန်းမီတာ (၁၃၀၀၀ စတုရန်းပေ) ကျယ်ဝန်းသည်။
+#5/5
 
 1025
 There the scene is less relaxed and the language problem might daunt you, but at least you'll be able to catch a glimpse of Chinese consumer society.
-အဲဒီမှာ မြင်ကွင်းက သက်သောင့်သက်သာဖြစ်စေပြီး ဘာသာစကားပြဿနာက သင့်ကိုစိတ်အနှောင့်အယှက် ဖြစ်စေပေမဲ့လည်း အနည်းဆုံးတော့ သင်ဟာ တရုတ်စားသုံးသူ လူ့အဖွဲ့အစည်းကို တစေ့တစောင်းဖမ်းစားနိုင်ပါလိမ့်မည်။
+အဲဒီမှာ မြင်ကွင်းက သက်သောင့်သက်သာမဖြစ်စေဘဲ ဘာသာစကားပြဿနာက သင့်ကိုစိတ်အနှောင့်အယှက် ဖြစ်စေနိုင်ပေမဲ့လည်း အနည်းဆုံးတော့ သင်ဟာ တရုတ်စားသုံးသူ လူ့အဖွဲ့အစည်းကို တစေ့တစောင်းလေ့လာနိုင်ပါလိမ့်မည်။
+#5/5
 
 1026
 Napoleon attacked and destroyed Catalonia's sacred shrine, the monastery at Montserrat.
 နပိုလီယံသည် ကတ်တလိုးနီးယားပြည်နယ်၏ အထွတ်အမြတ်ထားရာ နတ်ကွန်းဖြစ်သော မွန်ဆာရက်ရှိ ဘုန်းကြီးကျောင်းကို တိုက်ခိုက်ဖျက်ဆီးခဲ့သည်။
+#5/5
 
 1027
 Remember to hide all portable possessions from the monkeys.
 မျောက်များထံမှ သယ်ဆောင်ရလွယ်ကူတဲ့ပစ္စည်းတွေအားလုံးကို ကာကွယ်ဖို့လည်း သတိရပါ။
+#5/5
 
 1028
 Elsewhere in the prince's garden, in a modern building called the Sailor's House (Casa de Marinos), you can find out what became of the quaint  Tagus squadron  of the royal fleet.
-ပရင့်စ်ဂါးဒန်းရှိ အခြားနေရာများတွင် စေးလားဟောက်စ် (ကာဆာဒဲမာရီနို့စ်)ဟုခေါ်သော ခေတ်မီအဆောက်အအုံတွင် တော်ဝင်ရေယာဉ်စု၏ ထူးဆန်းသော တန်ဂုတပ်ခွဲမှ ဘာတွေဖြစ်ပေါ်လာသည်ကို မင်းရှာဖွေတွေ့ရှိနိုင်သည်။
+Prince's garden်း၏ တနေရာ Sailor's House (Casa de Marinos) ဟုခေါ်သော ခေတ်မီအဆောက်အအုံတွင် Tagus တော်ဝင်ရေတပ်စုနှင့်သက်ဆိုင်သော အကြောင်းအရာများကို ရှာဖွေတွေ့ရှိနိုင်သည်။
+#5/5
 
 1029
 Some 1,400 years before the Palace of Estei was erected, Milreu was also the large country house of an eminent person.
-အက်စတိုင်းနန်းတော် မတည်ဆောက်မီ နှစ်ပေါင်း ၁၄၀၀ ခန့်လောက်က မေးလ်ရုသည် အထင်ကရပုဂ္ဂိုလ်တစ်ဦး၏ ကြီးမားသော နိုင်ငံအိမ်တော်လည်း ဖြစ်ခဲ့သည်။
+အက်စတိုင်းနန်းတော် မတည်ဆောက်မီ နှစ်ပေါင်း ၁၄၀၀ ခန့်လောက်က Milreu သည် အထင်ကရပုဂ္ဂိုလ်တစ်ဦး၏ ကြီးမားသော နိုင်ငံအိမ်တော်လည်း ဖြစ်ခဲ့သည်။
+#5/5
 
 1030
 Between 1936 and 1940 Greece was under the military dictatorship of Ioannis Metaxas, remembered for the resounding echi ( no ) he gave in reply to Mussolini's ultimatum to surrender in 1940.
-၁၉၃၆ ခုနှစ်မှ ၁၉၄၀ ခုနှစ်အတွင်း ဂရိနိုင်ငံသည် လုံဟာနစ် မက်တာဆက်၏ စစ်အုပ်ချုပ်ရေးလက်အောက်တွင် ရှိခဲ့ပြီး ၁၉၄၀ ခုနှစ်တွင် လက်နက်ချရန် မူဆိုလီနီ၏ရာဇသံတွင် သူအကြောင်းပြန်ခဲ့သည့် ပြင်းထန်သော အသံအကြောင်း အမှတ်ရနေခဲ့သည်။
+၁၉၃၆ ခုနှစ်မှ ၁၉၄၀ ခုနှစ်အတွင်း ဂရိနိုင်ငံသည် Ioannis Metaxas၏ စစ်အုပ်ချုပ်ရေးလက်အောက်တွင် ရှိခဲ့ပြီး ၁၉၄၀ ခုနှစ်တွင် လက်နက်ချရန် မူဆိုလီနီ၏ရာဇသံတွင် သူအကြောင်းပြန်ခဲ့သည့် ပြင်းထန်သော ပြန်စာမှာ ထင်ရှားသည်။
+#4/5
 
 1031
 The simplicity of Sant Pau's Romanesque lines is an agreeable change from the extravagance of Barcelona's modernisme and the intricacies of Gothic architecture.
-ဆန့်ပေါက်၏  ရိုးမန့်စ်လိုင်းများ၏ ရိုးရှင်းမှုသည် ဘာစီလိုနာ၏ ခေတ်မီဆန်းသစ်မှုနှင့် ဂေါသစ်ခ်ဗိသုကာလက်ရာများ၏ရှုပ်ထွေးမှုများမှာ ကောင်းမွန်သော ပြောင်းလဲမှုတစ်ခုဖြစ်သည်။
+Sant Pau ၏ ရိုးရှင်းသော Romanesque ဗိသုကာလက်ရာများသည် ဘာစီလိုနာ၏ ခေတ်မီဆန်းသစ်မှုနှင့် Gothic ဆန်သော ရှုပ်ထွေးသော ဗိသုကာလက်ရာများဆီမှ ကောင်းမွန်သော ပြောင်းလဲမှုတစ်ခုဖြစ်သည်။
+#4/5
 
 1032
 A flick of a tail or fluke, and it's gone.
 အမြီးတွန့်ခြင်း သို့မဟုတ် ဖရိုဖရဲဖြစ်ခြင်းနှင့် လက်လွန်သွားခြင်း။
+#2/5
 
 1033
 With its entry into the Common Market in 1981, Greece's economic prospects strengthened.
 ၁၉၈၁ ခုနှစ်တွင် ဘုံဈေးကွက်သို့ ဝင်ရောက်လာခြင်းဖြင့် ဂရိ၏စီးပွားရေး အလားအလာ အားကောင်းလာခဲ့သည်။
+#4/5
 
 1034
 An extensive program of refurbishment is due to be finished by late 2001.
-ကျယ်ပြန့်သော ပြန်လည်မွမ်းမံခြင်းအစီအစဉ်ကို ၂၀၀၁ ခုနှစ်နှောင်းပိုင်းတွင် အပြီးသတ်ရန် စီစဉ်ထားသည်။
+အကြီးစား ပြန်လည်မွမ်းမံခြင်းအစီအစဉ်ကို ၂၀၀၁ ခုနှစ်နှောင်းပိုင်းတွင် အပြီးသတ်ရန် စီစဉ်ထားသည်။
+#5/5
 
 1035
 Sea temperatures vary between 18e and 24e C (64-75e F).
 ပင်လယ်၏အပူချိန်သည် ၁၈ ဒီဂရီစင်တီဂရိတ်မှ ၂၄ ဒီဂရီစင်တီဂရိတ် (၆၄ - ၇၅ ဒီဂရီဖာရင်ဟိုက်) ကြားတွင် ပြောင်းလဲနိုင်သည်။
+#5/5
 
 1036
 The Kinabalu national park is just one of six protected regions in the state.
-ကင်နဘားလူအမျိုးသားဥယာဉ်သည် ပြည်နယ်အတွင်းရှိ အကာအကွယ်ပေးထားသော ဒေသခြောက်ခုအနက်မှ တစ်ခုဖြစ်သည်။
+Kinabalu အမျိုးသားဥယာဉ်သည် ပြည်နယ်အတွင်းရှိ အကာအကွယ်ပေးထားသော ဒေသခြောက်ခုအနက်မှ တစ်ခုဖြစ်သည်။
+#5/5
 
 1037
 Sofias, next to the Megaro Mousikis Metro station.
-ဆိုဖီယာ၊ မက်ဂါရို မုစ်ခစ် မက်ထရို ဘူတာဘေးတွင်  ရှိတယ်။
+ဆိုဖီယာက Megaro Mousikis ရထားဘူတာဘေးမှာ  ရှိတယ်။
+#5/5
 
 1038
 To the east of the gate is the Olympieion, site of the largest temple ever built on Greek soil.
-ဂရိမြေပေါ်တွင် တည်ဆောက်ထားသော အကြီးဆုံးဘုရားကျောင်းသည် ဂိတ်၏အရှေ့ဘက်ရှိ အိုလံပီရွန် ဖြစ်သည်။
+ဂရိမြေပေါ်တွင် တည်ဆောက်ထားသော အကြီးဆုံးဘုရားကျောင်းဂိတ်၏အရှေ့ဘက် အိုလံပီရွန် ဖြစ်သည်။
+#4/5
 
 1039
 The Poble Espanyol (Spanish Village), on Montjuac's northeastern flank, is an attraction for which the cliche  fun for the whole family  might have been invented.
-မောင့်ဂျဝီ၏ အရှေ့မြောက်ဘက်အခြမ်းရှိ ၊ ပိုဘယ်အက်စ်ပန်ညို (စပိန်ရွာ) သည် မိသားစုတစ်ခုလုံး အတွက် ပျော်ရွှင်ဖွယ်ကောင်းသော ဆွဲဆောင်မှုတစ်ခုအဖြစ် တီထွင်ဖန်တီးနိုင်ခဲ့သည်။
+Montjuac ၏ အရှေ့မြောက်ဘက်အခြမ်းရှိ ၊ The Poble Espanyol (စပိန်ရွာ) သည် မိသားစုတစ်ခုလုံး အတွက် ပျော်ရွှင်ဖွယ်ကောင်းသော ဆွဲဆောင်မှုတစ်ခုအဖြစ် တီထွင်ဖန်တီးနိုင်ခဲ့သည်။
+#3/5
 
 1040
 The staff is working on a program to increase the numbers of flamingos in the US Virgin Islands, and you will find a small flock here successfully breeding each year.
-ဝန်ထမ်းများသည် အမေရိကန် ဗာဂျင် ကျွန်းစုများတွင် ကြိုးကြာနီ အရေအတွက်များ တိုးလာစေရန် အစီအစဉ်တစ်ခုတွင် လုပ်ဆောင်နေပြီး ၊ နှစ်စဉ် အောင်မြင်စွာ ပေါက်ဖွားလာသော သိုးငယ်တစ်ကောင်ကို ဤနေရာတွင် တွေ့ရမည်။
+ဝန်ထမ်းများသည် အမေရိကန် ဗာဂျင် ကျွန်းစုများတွင် ကြိုးကြာနီ အရေအတွက်များ တိုးလာစေရန် လုပ်ဆောင်နေပြီး ၊ နှစ်စဉ် အောင်မြင်စွာ ပေါက်ဖွားလာသော ကြိုးကြာနီအကောင်ငယ်များကို တွေ့နိုင်မည်။
+#4/5
 
 1041
 Singel was once the outer barrier for the medieval city, but as the city expanded, Herengracht (Gentleman's Canal), Keizersgracht (Emperor's Canal), and Prinsengracht (Princes' Canal) enlarged the web.
-စင်ဂဲလ်သည် တစ်ချိန်က အလယ်ခေတ်မြို့အတွက် အပြင်ဘက် အတားအဆီး ဖြစ်ခဲ့သော်လည်း ၊ မြို့တိုးချဲ့လာသည်နှင့်အမျှ ၊ ဟယ်ရန်ဂရက်(ဂျန်းတဲမန်း၏တူးမြောင်း)     ၊ ခိုင်းဇာစ်ခရက်(ဧကရာဇ်မင်း၏တူးမြောင်း) နှင့် ပရင်ဆန်ဂရက်(မင်းသားများတူးမြောင်း) တို့သည် အင်တာနက်စာမျက်နှာပေါ်တွင် ကျယ်ပြန့်လာခဲ့သည်။
+Singel သည် တစ်ချိန်က အလယ်ခေတ်မြို့၏ အပြင်ဘက်အခြမ်း ဖြစ်ခဲ့သော်လည်း ၊ မြို့တိုးချဲ့လာသည်နှင့်အမျှ ၊ Herengracht(ဂျန်းတဲမန်းတူးမြောင်း)၊ Keizersgracht(အင်ပါယာတူးမြောင်း) နှင့် Prinsengracht(Princes တူးမြောင်း) တို့နှင့် နယ်‌မြေချဲ့ထွင်ခဲ့သည်။
+#5/5
 
 1042
 Today the old building hosts the Edinburgh Experience, a 20-minute, 3-D slide show charting the history of the city and bringing to life the Edinburgh of today (April-October only).
-ယနေ့ အဆောက်အဦးဟောင်းသည် မြို့၏သမိုင်းကြောင်းကို ပုံဖော်ကာ မိနစ် ၂၀ ကြာ သုံး-ဒီ ဆလိုက်ရှိုးတစ်ခုဖြစ်သော  အီဒင်ဘာ့ဂ် အတွေ့အကြုံ ကို        လက်ခံကျင်းပပေးပြီး ယနေ့ (ဧပြီမှ အောက်တိုဘာလအထိ) ကို အသက်ဝင်စေပါသည်။
+ယနေ့တွင် အဆောက်အဦးအဟောင်းအတွင်း၌ မြို့၏သမိုင်းကြောင်နှင့် ယနေ့ခေတ် Edinburgh မြို့ဖြစ်ပေါ်လာပုံကို ပုံဖော်ထားသော မိနစ် ၂၀ အကြာ Edinburgh အတွေ့အကြုံ 3-D ရှိုးကို လက်ခံကျင်းပပါမည်။ (ဧပြီမှ အောက်တိုဘာလအထိ)
+#5/5
 
 1043
 The rugged mountains of the Serra de Tramuntana sweep down to the sea so steeply here that there are few points of access and only one harbor and port of any size along the coast.
-ဆာရာဒဲ ထရက်မန်းတာနာ၏ ကြမ်းတမ်းသောတောင်တန်းများသည် ဤနေရာတွင် ပင်လယ်ထဲသို့ စိမ့်ဝင်သွားကာ ကမ်းရိုးတန်းတစ်လျှောက်ရှိ     မည်သည့်အရွယ်အစားနှင့်မဆို ဆိုက်ကပ်နိုင်သည့် ဆိပ်ကမ်းတစ်ခုသာ ရှိသောကြောင့် ဤနေရာတွင် မတ်စောက်စွာ စီးဆင်းနေပါသည်။
+ကြမ်းတမ်းသော Serra de Tramuntana တောင်တန်းများသည် ဤနေရာတွင် ပင်လယ်ထဲသို့ နိမ့်ဆင်းသွားကာ ကမ်းရိုးတန်းတစ်လျှောက်ရှိ     မည်သည့်အရွယ်အစားနှင့်မဆို ဆိုက်ကပ်နိုင်သည့် ဆိပ်ကမ်းတစ်ခုသာ ရှိသောကြောင့် ဤနေရာတွင် မတ်စောက်စွာ စီးဆင်းနေပါသည်။
+#2/5
 
 1044
 Dora Stratou Folk Dance Theater presents performances of traditional Greek song, dance, and music at a traditional  folk-village -type auditorium on Philopappos Hill from May to September daily except Mondays.
-ဒိုရာစထရာတူဖော့ဒန့်စ် ပြဇာတ်ရုံသည် နေ့စဉ် တနင်္လာနေ့မှလွဲ၍ ဖီလိုပါ့ပို တောင်တန်းရှိ ရိုးရာကျေးလက်ပုံစံခန်းမတွင် ဂရိရိုးရာ သီချင်း၊ အကနှင့် တေးဂီတဖျော်ဖြေပွဲများကို တင်ဆက်ပါသည်။
+မေလမှ စက်တင်ဘာလအတွင်း Dora Stratou Folk ကဇာတ်ရုံမှ Philopappos တောင်ကုန်းရှိ ရိုးရာကျေးလက်ပုံစံခန်းမတွင် ဂရိရိုးရာ သီချင်း၊ အကနှင့် တေးဂီတဖျော်ဖြေပွဲများကို အပတ်စဥ် တနင်္လာနေ့မှလွဲ၍ နေ့စ်တင်ဆက်ပါသည်။
+#5/5
 
 1045
 You'll see videos of Anne's story and of Amsterdam under occupation along with photographs and artifacts of the time.
 အန်း၏ ဇာတ်လမ်းနှင့် အမ်စတာဒမ်၏ သိမ်းပိုက်မှုအောက်တွင် ဓာတ်ပုံများနှင့် ခေတ်၏ ရှေးဟောင်းပစ္စည်းများနှင့်အတူ ဗွီဒီယိုများကို သင်မြင်တွေ့ရပါမည်။
+#2/5
 
 1046
 Beside it, the Norman Gothic La Martorana church, partly remodeled with a Baroque faaade and porch, has a fine campanile with four storys of slender mullioned windows.
-၎င်းအပြင် နော်မန်ဂေါသစ်လာမန်တိုရန်းနာ ဘုရားကျောင်း ၊ တစ်စိတ်တစ်ပိုင်းကို ခန့်ညားထည်ဝါသော အသွင်အပြင်နှင့် မုတ်ပေါက်ဖြင့် ပြန်လည်မွမ်းမံထားပြီး၊ ဆလင်ဒါပုံသဏ္ဍာန် ပြတင်းပေါက်များ၏ ဇာတ်လမ်းများနှင့်အတူ ကောင်းမွန်သော အပြင်အဆင်ရှိသည်။
+၎င်းအပြင် နော်မန်ဂေါသစ်လာမန်တိုရန်းနာ ဘုရားကျောင်း ၊ တစ်စိတ်တစ်ပိုင်းကို Baroque အသွင်အပြင် နှင့် မုတ်ပေါက်ဖြင့် ပြန်လည်မွမ်းမံထားပြီး၊ ဆလင်ဒါပုံသဏ္ဍာန် ပြတင်းပေါက်များ၏ ဇာတ်လမ်းများနှင့်အတူ ကောင်းမွန်သော အပြင်အဆင်ရှိသည်။
+#4/5
 
 1047
 The lake itself lies in the shadow of several high mountains, including Scafell Pike, the highest in England at 977 m (3,205 ft).
-ရေကန်သည် ၉၇၇ မီတာ (၃၂၀၅ ပေ) မြင့်သော အင်္ဂလန်နိုင်ငံရှိ အမြင့်ဆုံးဖြစ်သော စကားဖဲပိုက်ခ် တောင်အပါအဝင် မြင့်မားသော တောင်များစွာ၏ အရိပ်တွင် တည်ရှိသည်။
+ရေကန်သည် ၉၇၇ မီတာ (၃၂၀၅ ပေ) မြင့်သော အင်္ဂလန်နိုင်ငံရှိ အမြင့်ဆုံး Scafell Pike တောင်အပါအဝင် မြင့်မားသော တောင်များစွာ၏ အောက်ခြေတွင် တည်ရှိသည်။
+#5/5
 
 1048
 This collection of European and Puerto Rican art, probably the finest in the Caribbean, would be very much at home in any European capital.
-ကာရေဘီယံတွင် အကောင်းမွန်ဆုံး ဖြစ်ကောင်းဖြစ်နိုင်သော ဥရောပနှင့် ပွာတိုရီယန် အနုပညာ စုစည်းမှုသည် မည်သည့်ဥရောပမြို့တော်၏ အိမ်၌တွင်မဆို တည်ရှိနေမည်။
+ကာရေဘီယံ‌‌ဒေသတွင် အကောင်းမွန်ဆုံး ဖြစ်နိုင်သော ဥရောပနှင့် ပွာတိုရီယန် ယဥ်ကျေးမှုလက်ရာများ ဥရောပမြို့တော်များတွင် စုစည်းတည်ရှိနေသည်။
+#5/5
 
 1049
 Treasure Beach is the only resort area to speak of, with just a handful of hotels stretching across three sandy bays.
-ထရက်ရှာ ဘိချ်သည် သဲပင်လယ်အော်သုံးခုကိုဖြတ်၍ ဟိုတယ်လက်တစ်ဆုပ်စာမျှသာရှိသည့် ၊ တစ်ခုတည်းသောအပန်းဖြေစခန်းဖြစ်သည်။
+ထရက်ရှာ ကမ်းခြေသည် သဲသောင်ပြင်သုံးခုတွင် ဟိုတယ်များဖြန့်ကျက်တည်ဆောက်ထားသော တခုတည်သော တစ်ခုတည်းသောအပန်းဖြေကမ်းခြေစခန်းဖြစ်သည်။
+#5/5
 
 1050
 Then comes Bona, a center of basketry which also bills itself as the home of the kecak dance.
-ထို့နောက် ကက်ကက်အက၏ မူလအစအဖြစ် သူကိုယ်တိုင်သတ်မှတ်ထားသော လက်မှုလုပ်ငန်းဗဟိုဖြစ်သည့် ဘိုနာ ပေါ်ပေါက်လာသည်။
+ထို့နောက် kecak အက၏ မူလအစအဖြစ် သူကိုယ်တိုင်သတ်မှတ်ထားသော လက်မှုလုပ်ငန်းဗဟိုဖြစ်သည့် ဘိုနာ ပေါ်ပေါက်လာသည်။
+#4/5
 
 1051
 If you're feeling up to it, push on along the Mist Trail, past Emerald Pool, to Nevada Fall, and you'll begin to lose the crowds.
 နှင်းလမ်းတစ်လျှောက် လမ်းလျှောက်ပြီး၊ မြရေကန်ကိုဖြတ်ပြီး နီဗားဒါးရေတံခွန်ဆီသို့ သွားမယ်လို့ သင်စဉ်းစားပါက မင်းလူအုပ်စုနှင့် ကွဲသွားလိမ့်မယ်။
+#2/5
 
 1052
 Summer brings warm (but not hot) weather and warm sea temperatures, making it ideal for diving, snorkeling, and other water sports.
-နွေရာသီသည် ပူနွေးသော (ပူတာမဟုတ်ပေမယ့်) ရာသီဥတု နှင့် ပူနွေးသော ပင်လယ် အပူချိန်ကို ယူဆောင်လာပြီး ၊ ရေငုပ်ခြင်း၊ ရေအောက်အသက်ရှူပိုက်ကို အသုံးပြုရသည့် ရေအောက်အားကစားပြိုင်ပွဲနှင့် အခြားရေကစားနည်းများအတွက် စံပြဖြစ်စေသည်။
+နွေရာသီသည် ‌နွေးထွေးမှုကိုယူဆောင်လာ‌ပြီး (ပူပြင်းသောရာသီမဟုတ်သော) နှင့် ပင်လယ် အပူချိန်ကိုပူနွေးစေပြီး ၊ ရေငုပ်ခြင်း အစရှိသော အခြားရေကစားနည်းများအတွက် အကောင်းဆုံးရာသီဖြစ်သည်။
+#3/5
 
 1053
 Among the ponds is one inhabited by  Visitors toss in coins in the hope of bouncing one off a turtle's head, a sure way of achieving good fortune.
-ခရီးသွားတဲ့သူတွေက ရေကန်တွေထဲမှာရှိတဲ့ တစ်ခုခုကို လိပ် ၏ ခေါင်းပေါ်ကနေ ပြုတ်ကျဖို့ မျှော်လင့်ချက်နဲ့ ဒင်္ဂါးပြားတွေကို ပစ်ချကြပြီး ကံကောင်းခြင်းတွေ ရရှိဖို့     သေချာတဲ့နည်းလမ်းတစ်ခုအဖြစ် လုပ်ဆောင်ကြသည်။
+ခရီးသွားတဲ့သူတွေက ကံကောင်းခြင်းတွေ ရရှိဖို့  လိပ်၏ခေါင်းကိုထိအောင် ဒင်္ဂါးပြားတွေကို ရေကန်တွေထဲပစ်လေ့ရှိကြပါသည်။
+#5/5
 
 1054
 Among the many jazz clubs are the famed Jazz Bakery in Culver City, the Catalina Bar and Grill in Hollywood, and the Baked Potato in North Hollywood.
-ဂျတ်ဇ်ဂီတအဖွဲ့ အများအပြားကြားတွင် ကောဘာမြို့ ရှိ ဂျတ်ဇ်ပေါင်မုန့်တိုက် ၊ ဟောလိဝုဒ် ရှိ ကတ်တလီးနားဘား နှင့် သားငါးကင်ဆိုင် နှင့် ဟောလိဝုဒ်မြောက်ပိုင်း ရှိ အာလူးမီးဖုတ်ဆိုင် တို့သည် ကျော်ကြားကြသည်။
+ဂျက်ဇ်ဂီတအဖွဲ့ အများအပြားကြားတွင် Culverမြို့ ရှိ Jazz Bakery ၊ ဟောလိဝုဒ်ရှိ Catalina ဘား နှင့် အကင်ဆိုင် နှင့် ဟောလိဝုဒ်မြောက်ပိုင်း ရှိ Baked Potato တို့သည် ကျော်ကြားကြသည်။
+#5/5
 
 1055
 The crumbling faaades of apartments, hotels, and bargain basement shops line Karl-Marx-Allee leading southeast from Alex.
-တိုက်ခန်းများ၊ ဟိုတယ်များ၊ မြေအောက်ထပ်ရှိ ဈေးလျှော့ဈေးဆိုင်များ၏ ပြိုကျပျက်စီးမှုသည် အဲလက်စ် မှ အရှေ့တောင်ဘက်တွင် ကာလ်-မာစ်-အယ်လီး ကို ဦးတည်နေသည်။  
+တိုက်ခန်းများ၊ ဟိုတယ်များ၊ မြေအောက်ထပ်ရှိ ဈေးလျှော့ဈေးဆိုင်များ၏ ပြိုကျပျက်စီးမှုသည် အဲလက်စ် မှ အရှေ့တောင်ဘက်တွင် Karl-Marx-Allee ကို ဦးတည်နေသည်။  
+#4/5
 
 1056
 At the center of the resort, in the sheltered waters of the inner lagoon, there is a  Swim with the Dolphins  program.
-အပန်းဖြေစခန်း ၏ အလယ်ဗဟိုတွင် ၊ အတွင်းရေကန် ၏ အမိုးအကာရှိသောရေများတွင် ၊ လင်းပိုင်များ နှင့်အတူ ရေကူးခြင်း အစီအစဉ် တစ်ခု ရှိသည်။
+အပန်းဖြေစခန်းအလယ်ဗဟိုရှိ အမိုးအကာရှိသောအတွင်းရေကန်းတွင် လင်းပိုင်များ နှင့်အတူ ရေကူးခြင်း အစီအစဉ် တစ်ခု ရှိသည်။
+#5/5
 
 1057
 The port town of Nafplio makes the perfect base for touring the area, or perhaps a spot to have lunch while on your tour.
-ဆိပ်ကမ်းမြို့ဖြစ်သော နာဖလီယို သည် ထိုဒေသသို့ ခရီးသွားရန်အတွက် ပြီးပြည့်စုံသော အခြေစိုက်စခန်း ၊ သို့မဟုတ် သင့်ခရီးစဉ်တွင် နေ့လည်စာစားရန် နေရာတစ်ခု ဖြစ်ကောင်းဖြစ်နိုင်သည်။
+ဆိပ်ကမ်းမြို့ဖြစ်သော Nafplio သည် ထိုအနီးအနားဒေသသို့ ခရီးသွားရန်အတွက် ပြီးပြည့်စုံသော အခြေစိုက်စခန်း ၊ သို့မဟုတ် သင့်ခရီးစဉ်တွင် နေ့လည်စာစားရန် နေရာတစ်ခု ဖြစ်ကောင်းဖြစ်နိုင်သည်။
+#5/5
 
 1058
 Culebra was known as the Spanish Virgin Island until the American takeover it lies halfway between Puerto Rico and St. Thomas in the US Virgin Islands.
-ကူလဲဘရာ ကို အမေရိကန်က သိမ်းယူချိန်အထိ စပိန်ဗာဂျင်ကျွန်းဟု လူသိများပြီး ၎င်းသည် ပွာတိုရီကို နှင့် အမေရိကန် ဗာဂျင်ကျွန်းစုများ ရှိ  စိန့်သောမတ်စ်ကြား လမ်းခုလပ်တွင် တည်ရှိနေပါသည်။
+Culebra ကို အမေရိကန်က မသိမ်းယူခင်ူခင်အန်အထိ စပိန်ဗာဂျင်ကျွန်းဟု သတ်မှတ်ကြပြီး ၎င်းသည် အမေရိကန်ဗာဂျင်ကျွန်းစုများဖြစ်ကြသော Puerto Rico နှင့် St. Thomas ကျွန်းများကြားတွင် တည်ရှိသည်။
+#5/5
 
 1059
 Umeda marks the northern end of the business and entertainment district popularly known as Kita (meaning simply  North ), and is the very essence of modern Osaka's hustle and bustle.
-ယူမဲဒ သည် ခိတ (ရိုးရှင်းသော မြောက်ဘက် ဟု အဓိပ္ပာယ်ရသော) ဟု လူသိများသော စီးပွားရေးနှင့် ဖျော်ဖြေရေး ခရိုင် ၏ မြောက်ဘက်စွန်း ကို အမှတ်အသားပြု ပြီး ၊  ခေတ်သစ် အိုဆာကာ ၏ ရှုပ်ထွေးပွေလီသော အနှစ်သာရဖြစ်သည်။
+Umeda သည် စီးပွားရေးနှင့်ဖျော်ဖြေရေး တိုးတက်သောဧရိယာ၏ ‌‌‌မြောက်ဘက်စွန်းပိုင်းတွင်ရှိပြီး ခိတ (မြောက်ဘက် ဟု အဓိပ္ပာယ်ရသော) ဟု ခေါ်‌ဝေါ်ကြသည်၊ အိုဆာကာ၏ စည်ကားသော အချက်အချာနေရာလဲဖြစ်သည်။
+#4/5
 
 1060
 Some of its residents are descendants of the valiant laborers who helped build the Canadian Pacific Railway.
 ၎င်း၏ နေထိုင်သူ အချို့သည် ကနေဒါပစိဖိတ်မီးရထားလမ်းကို တည်ဆောက်ရာတွင် ကူညီပေးခဲ့သော ရဲရင့်သော အလုပ်သမားများ၏ မျိုးဆက်များဖြစ်သည်။
+#5/5
 
 1061
 Get off at the stop before Batthyany ter to admire the colourful exterior of the 1896 Neo-Gothic Calvinist Church which features in so many panoramas of the city.
-မြို့တော် ၏ မြင်ကွင်းကျယ် များစွာတွင် ပြသထားသည့် ၁၈၉၆ နီယိုဂေါသစ် ကလဲဗယ်နီဘုရားကျောင်း၏ ရောင်စုံ အပြင်ပိုင်းကို ကြည့်ရှုရန် ဘတ်နယန်နီတားလ် မရောက်မီ မှတ်တိုင်တွင်ဆင်းပါ။
+မြို့တော်၏ မြင်ကွင်းကျယ်ပုံများမြင်တွေ့နိုင်သည့် ၁၈၉၆ခုနှစ်တွင် တည်ဆောက်ခဲ့သော Neo-Gothic Calvinistဘုရားကျောင်း၏ အရောင်အသွေးစုံလင်သော အဆောက်အဦးကို ကြည့်ရှုရန် Batthyany ter မရောက်မီ မှတ်တိုင်တွင်ဆင်းပါ။
+#5/5
 
 1062
 Cete de Charlevoix is part of the Laurentian heights, reaching to the Saguenay River where the coureurs de bois turned off in search of furs.
-ဆီးဒက်ရှားလဲဗွိုက် သည် လော်ရန်တီရန် အမြင့် ၏ တစ်စိတ်တစ်ပိုင်းဖြစ်ပြီး ၊ သားမွေးများကို ရှာဖွေရန် တွင် ခူးရဲရားဒဲဗွိုက်က တားမြစ်ထားသည့် ဆာဂူးနေမြစ်သို့ ရောက်ရှိခဲ့သည်။
+Cete de Charlevoix သည် Laurentian ကုန်းမြင့် ၏ တစ်စိတ်တစ်ပိုင်းဖြစ်ပြီး ၊coureurs de boisက သားမွေးများကို ရှာဖွေရာတွင် တားမြစ်ထားသည့် Saguenayမြစ်အနီးတွင်ရှိသည်။
+#5/5
 
 1063
 It was here in 1775 that 100 barrels of gunpowder mysteriously disappeared from stores in Fort St. Catherine and found their way onto a boat bound for the use of the American revolutionaries.
-၁၇၇၅ ခုနှစ်တွင် ဤနေရာတွင် ယမ်းမှုန့် စည် ၁၀၀ သည် စိန့် ကတ်သရင်းခံတပ်ရှိ စတိုးဆိုင်များမှ ထူးဆန်းစွာ ပျောက်ကွယ်သွားပြီး ၊ အမေရိကန် တော်လှန်ရေးသမားတွေကို အသုံးပြုဖို့ ချည်နှောင်ထားတဲ့ သင်္ဘောပေါ်မှာ လမ်းစတွေ့ခဲ့တယ်။
+၁၇၇၅ ခုနှစ်တွင် ဤနေရာ၌ ယမ်းမှုန့်စည် ၁၀၀ သည် စိန့် ကတ်သရင်းခံတပ်ရှိ သိုလှောင်ရုံများမှ ထူးဆန်းစွာ ပျောက်ကွယ်သွားပြီး ၊ အမေရိကန် တော်လှန်ရေးသမားများ အသုံးပြုရန် ချည်နှောင်ထားသော သင်္ဘောပေါ်တွင် ရှာတွေ့ခဲ့သည်။
+#5/5
 
 1064
 The third member of the Hindu  trinity  is Brahma, whose only task was to create the world.
-ဟိန္ဒူသုံးပါးတစ်ဆူ၏ တတိယအဖွဲ့ဝင်မှာ ဗြဟ္မာဖြစ်ပြီး ကမ္ဘာကိုဖန်တီးရန် တစ်ခုတည်းသောတာဝန်မှာ သူ့၏တာဝန်ဖြစ်သည်။
+ဟိန္ဒူနတ်ဘုရားသုံးပါး၏ တတိယအဖွဲ့ဝင်မှာ ဗြဟ္မာဖြစ်ပြီး ကမ္ဘာကိုဖန်တီးရန်မှ သူ၏တစ်ခုတည်းသောတာဝန်ဖြစ်သည်။
+#5/5
 
 1065
 Others well worth visiting include the home of Balzac (47 Rue Rayanouard) and Delacroix's studio (6 Rue de Furstenberg).
-အခြားလည်ပတ်သင့်သည့်နေရာကောင်းများတွင် ဘောဇက်၏အိမ်(၄၇ ရူးရေးရန်နိုဝါ) နှင့် ဒက်လက်ခရိုက်၏စတူဒီယို(၆ ရူးဒဲဖာစတန်ဘာ့ခ်) တို့ ပါဝင်သည်။
+အခြားလည်ပတ်သင့်သည့်နေရာကောင်းများတွင် home of Balzac(47 Rue Rayanouardါ) နှင့် Delacroix's studio (6 Rue de Furstenberg) တို့ ပါဝင်သည်။
+#4/5
 
 1066
 Pedro took the throne, though armed struggle continued for months and the lingering bitterness long after that.
-ပီးဒရိုသည် ကာလအတော်ကြာ လက်နက်ကိုင်တော်လှန်မှုများ ရှိခဲ့ပြီး ၊ နောက်ပိုင်းတွင် ရှည်လျားသော ခါးသီးမှုများ ဆက်လက်တည်ရှိနေသော်လည်း ၊ ထီးနန်းကို    သိမ်းပိုက်နိုင်ခဲ့သည်။
+ပီးဒရိုသည် ကာလအတော်ကြာ လက်နက်ကိုင်တော်လှန်မှုများနှင့်၊ နောက်ဆက်တွဲ ကာလရှည်ကြာသော ခါးသီးမှုများကြားတွင် ထီးနန်းကို သိမ်းပိုက်နိုင်ခဲ့သည်။
+#5/5
 
 1067
 A few hundred heroic troops under Leonidas of Sparta delayed the enormous Persian army at the pass of Thermopylae long enough for the Athenians to be evacuated to the island of Salamis.
-စပါတာ ၏ လီရိုနစ်ဒက် လက်အောက်ရှိ သူရဲကောင်း ရာဂဏန်းခန့်သည် သာမိုပီလေ လမ်း‌ကြားတွင် အေသင်မြို့သားများကို ဆလာမစ်ကျွန်းသို့ ပြောင်းရွှေ့နိုင်လောက်သည့် ကြီးမားသော ပါရှန်းစစ်တပ်ကို နှောင့်နှေးစေခဲ့သည်။
+စပါတာ ၏ Leonidas လက်အောက်ရှိ သူရဲကောင်း ရာဂဏန်းခန့်သည် အေသင်မြို့သားများ Salamisကျွန်းသို့ပြောင်းရွှေ့နိုင်ရန် Thermopylae လမ်း‌ကြားတွင် ကြီးမားသောပါရှန်းစစ်တပ်ကို နှောင့်နှေးစေခဲ့သည်။
+#4/5
 
 1068
 In Prinsengracht, Otto Frank and his family hid in the attic of their business premises for over two years before being discovered.
-ပရင်ဆန်ဂရက်တွင် ၊ အော်တို ဖရန့် နှင့် သူ၏ မိသားစုသည် မတွေ့ရှိမီ နှစ်နှစ်ကျော်ကြာ ၎င်းတို့၏ လုပ်ငန်းခွင် အတွင်း ထပ်ခိုးတွင် ပုန်းနေခဲ့သည်။
+Prinsengracht တွင် ၊ Otto Frank နှင့် သူ၏မိသားစုသည် နှစ်နှစ်ကျော်ကြာ ၎င်းတို့လုပ်ငန်းခွင်၏ ထပ်ခိုးတွင် ပုန်းနေခဲ့သည်။
+#4/5
 
 1069
 If you've become an adept of the tea ceremony, you'll appreciate the excellent collection of 14th-century  ceramic tea bowls, tea kettles, and caddies, as well as bamboo spoons, whisks, and flower vases.
-သင်သည် လက်ဖက်ရည်သောက်ပွဲတော်တွင် ကျွမ်းကျင်သူ တစ်ဦး ဖြစ်လာလျှင် ၊ ၁၄ ရာစု ကြွေထည်ပန်းကန်များ ၊ လက်ဖက်ရည်ရေနွေးအိုးများ နှင့် ကာဒီများ နှင့် ဝါးဇွန်းများ၊ ယပ်ခတ်များနှင့် ပန်းအိုးများ၏ အလွန်ကောင်းမွန်သော စုစည်းမှုများကို သင်တန်ဖိုးထားလိမ့်မည်ဖြစ်သည်။
+သင်သည် လက်ဖက်ရည်သောက်ပွဲ ကျွမ်းကျင်သူ တစ်ဦး ဖြစ်လာခဲ့လျှင် ၊ ၁၄ ရာစု ကြွေထည်ပန်းကန်များ ၊ လက်ဖက်ရည်ရေနွေးအိုးများ ၊ လက်ဖက်ခြောက်ထည့်သော‌ဘူးများ နှင့် ဝါးဇွန်းများ၊ ယပ်ခတ်များ၊ ပန်းအိုးများ၏ အလွန်ကောင်းမွန်သော လက်ရာများကို သင်တန်ဖိုးထားလိမ့်မည်ဖြစ်သည်။
+#4/5
 
 1070
 The showpieces are the new lion exhibit, snow leopard and cheetah exhibits, and an African tropical rain forest, which is complete with gorillas and warthogs.
-ပြပွဲများသည် ခြင်္သေ့အသစ် ပြပွဲ ၊ နှင်းကျားသစ်နှင့် ကျားသစ်များ ပြပွဲ ၊ နှင့် မျောက်ဝံများနှင့် ဝါးတော့ များအပြည့်ရှိသော အာဖရိက အပူပိုင်းမိုးသစ်တောတစ်ခုတို့ ဖြစ်ကြသည်။
+ထူးခြားသော ပြကွက်များမှာ ခြင်္သေ့ပြပွဲအသစ် ၊ နှင်းကျားသစ်နှင့်ကျားသစ်ပြပွဲ နှင့် မျောက်ဝံများနှင့် ၀ါ့များအပြည့်ရှိသော အာဖရိက အပူပိုင်းမိုးသစ်တောတစ်ခုတို့ ဖြစ်ကြသည်။
+#2/5
 
 1071
 Even the location of the building is a technological marvel.
 အဆောက်အဦး၏တည်နေရာသည်ပင်နည်းပညာဆိုင်ရာအံ့သြဖွယ်ဖြစ်ပါသည်။
+#4/5
 
 1072
 The massive courtyards and pavilions above Yongle's burial chambers have been restored, and they house some of the Ming Tombs' excavated treasures, including imperial armor.
-ယွန်းဂယ် ၏ သင်္ချိုင်းအခန်းများ အထက်ရှိ ကြီးမားသော ဝင်းများနှင့် မဏ္ဍပ်များကို ပြန်လည် ပြုပြင်ထားပြီး၊ တော်ဝင်သံချပ်ကာ အပါအဝင် မင်ဂူဗိမာန် ၏ တူးဖော်ရရှိထားသော ရတနာအချို့ကို ထားရှိထားပါသည်။
+ယွန်းဂယ် ၏ သင်္ချိုင်ဂူများ အထက်ရှိ ကြီးမားသော ပန်းခြံများနှင့် ဇရပ်ဆောင်များကို ပြန်လည် ပြုပြင်ထားပြီး၊  မင်အုပ်ဂူဗိမာန်မှ တူးဖော်ရရှိထားသော တော်ဝင်သံချပ်ကာအပါအဝင် ရတနာအချို့ကို ထားရှိထားပါသည်။
+#5/5
 
 1073
 In the center of the square is Joachim Schmettau's granite Weltkugelbrunnen (or Fountain of the World), which locals have gaily christened the  aquatic dumpling.
-ရင်ပြင်၏အလယ်ဗဟိုတွင် ဒေသခံများက ရေနေဖက်ထုပ်များဟု သဘောကျစွာ အမည်မှည့်ပေးထားသော ၊ ဂျိုဝါးရှင် ရှုမိဒို ၏ ကျောက်တုံးကြီး ဝဲခုဂဲဘရူနန် (သို့မဟုတ် ကမ္ဘာ့ရေပန်း) ရှိသည်။
+ရင်ပြင်၏အလယ်ဗဟိုတွင် ဒေသခံများက ရေနေဖက်ထုပ်ဟု သဘောကျစွာ အမည်မှည့်ပေးထားသော ၊ Joachim Schmettau ၏ granite Weltkugelbrunnen ကျောက်တုံးကြီး (သို့မဟုတ် ကမ္ဘာ့ရေတံခွန်) ရှိသည်။
+#4/5
 
 1074
 Opposite, in the Cite de la Musique are the Musee de la Musique and a giant concert hall, the Zenith.
-ဆန့်ကျင်ဘက်အနေဖြင့်၊ ဆိုက်ဒီလာဂီတတွင် မူဆယ်ဒီလာဂီတနှင့် ဧရာမ ကပွဲခန်းမဖြစ်သည့် ဇင်းနစ် တို့ရှိသည်။
+Cite de la Musique ၏ မျက်နှာချင်းဆိုင်အရပ်တွင် Musee de la Musique နှင့် ကြီးမားသောကပွဲခန်းမဖြစ်သည့် ဇင်းနစ် တို့ရှိသည်။
+#5/5
 
 1075
 In fact, it was the flashpoint for protests and riots during the busing controversy in the 1970s.
-အမှန်မှာ၊ ၎င်းသည် ၁၉၇၀ ပြည့်လွန်နှစ်များအတွင်း ဘတ်စ်ကားအငြင်းပွားမှုအတွင်း ဆန္ဒပြမှုများနှင့် အဓိကရုဏ်းများအတွက် မီးမောင်းထိုးပြသည့်အချက်ဖြစ်သည်။
+အမှန်မှာ၊ ၎င်းသည် ၁၉၇၀ ပြည့်နှစ်လွန် ဘတ်စ်ကားအငြင်းပွားမှုအတွင်း ဆန္ဒပြမှုများနှင့် အဓိကရုဏ်းများအတွက် မီးမောင်းထိုးပြသည့်အချက်ဖြစ်သည်။
+#4/5
 
 1076
 Famous for its August log-rolling contests, the town of Squamish makes a useful base for hiking tours into Garibaldi Provincial Park.
-၎င်း၏ သြဂုတ်လ သစ်လုံးလှိမ့်ပြိုင်ပွဲများ အတွက် ကျော်ကြားသော ၊ စကွားမစ်ချ် မြို့သည် ဂယ်ရီဘယ်ဒီ ခရိုင် ပန်းခြံသို့ တောင်တက်ခရီးစဉ်များ အတွက် အသုံးဝင်သော အခြေစိုက်စခန်း တစ်ခု အဖြစ် ပြုလုပ်ပေးသည်။
+၎င်း၏ သြဂုတ်လ သစ်လုံးလှိမ့်ပြိုင်ပွဲများမှာ ကျော်ကြားသောကြောင့် ၊ Squamish မြို့သည် Garibaldi ခရိုင်ပန်းခြံသို့ တောင်တက်ခရီးစဉ်များ အတွက် အသုံးဝင်သော အခြေစိုက်စခန်း တစ်ခု ဖြစ်လာခဲ့သည်။
+#4/5
 
 1077
 For an authentic feel of old Portugal, slip into the cool entrance hall of theimpressive Leal Senado ( Loyal Senate  building), a fine example of colonial architecture.
-ကိုလိုနီခေတ် ဗိသုကာလက်ရာ၏ စံနမူနာကောင်း တစ်ခု ဖြစ်သည့် ၊ စွဲမက်ဖွယ်ကောင်းသော လီးရဲဆီးနားဒို (သစ္စာစောင့်သိသော အထက်လွှတ်တော် အဆောက်အဦး) ၊ ၏ အေးမြသော ဝင်ပေါက် ခန်းမထဲသို့ ဝင်ရောက်ခြင်းဖြင့် ၊ ပေါ်တူဂီ ခေတ်ဟောင်း ၏ စစ်မှန်သော ခံစားချက်ကို ခံစားလိုက်ပါ။
+ကိုလိုနီခေတ် ဗိသုကာလက်ရာ၏ စံနမူနာကောင်း တစ်ခု ဖြစ်သည့် ၊ စွဲမက်ဖွယ်ကောင်းသော Leal Senado (သစ္စာသိ အထက်လွှတ်တော် အဆောက်အဦး) ၊ ၏ အေးမြသော ဝင်ပေါက် ခန်းမထဲသို့ ဝင်ရောက်ခြင်းဖြင့် ၊ ပေါ်တူဂီ ခေတ်ဟောင်း ၏ စစ်မှန်သော ခံစားချက်ကို ခံစားလိုက်ပါ။
+#5/5
 
 1078
 (The event is repeated on 14-15 August. )
-(သြဂုတ်လ 14-15 ရက်မှာ ထပ်လုပ်ပါမယ်။)
+(သြဂုတ်လ 14-15 ရက်မှာ ပွဲထပ်လုပ်ပါမယ်။)
+#5/5
 
 1079
 Dominating the mouth of Sant Antoni Bay is the gaunt silhouette of the island of Coniera, or Conejera (meaning  rabbit's warren  or  burrow ).
-ဆန်အန်တိုနီ ပင်လယ်အော်၏ ပင်လယ်ဝကို စိုးမိုးထားခြင်းသည် ကွန်နီရာ သို့မဟုတ် ကွန်နက်ဟဲရာ (ယုန်၏ ဝါရင်း သို့မဟုတ် တွင်းပေါက် ဟု အဓိပ္ပါယ်ရသည်) ကျွန်း၏ ပြောင်မြောက်သော ပုံသဏ္ဍာန် ဖြစ်သည်။
+Coniera သို့မဟုတ် Conejera (ယုန်ကျွင်း သို့မဟုတ် တွင်းပေါက်) ကျွန်း၏ ပြောင်မြောက်သော ပုံသဏ္ဍာန်သည် Sant Antoni ပင်လယ်အော်၏ ပင်လယ်ဝကို စိုးမိုးထားသည်။
+#4/5
 
 1080
 These link the main public beaches (from Warwick Long Bay to Horseshoe Bay).
-၎င်းတို့သည် အဓိက အများသူငှာ ကမ်းခြေများ ( ဝါးဝှစ်ခ်လောင်းပင်လယ်အော် မှ မြင်းခွာပင်လယ်အော် သို့) ချိတ်ဆက်ပေးသည်။
+၎င်းတို့သည် အများသူငှာအပမ်းဖြေနိုင်သော အဓိကကမ်းခြေများ ( Warwick Long ပင်လယ်အော် မှ Horseshoe ပင်လယ်အော်) သို့ ချိတ်ဆက်ပေးသည်။
+#5/5
+
 1081
 During the Sixth Crusade (1228- 1229), the Holy Roman Emperor Frederick II managed to secure Jerusalem for the Christians by negotiation.
-ဆဌမကြိမ်မြောက် ခရူးဆိတ်စစ်ပွဲ (၁၂၂၈-၁၂၂၉) အတွင်း၊ သန့်ရှင်းသော ရောမ ဧကရာဇ် ဖရက်ဒရစ် တူး သည် စေ့စပ်ညှိနှိုင်းခြင်းဖြင့် ခရစ်ယာန်များအတွက် ယေရုရှလင်မြို့ကို လုံခြုံစေရန် စီစဉ်ခဲ့သည်။
+ဆဌမကြိမ်မြောက် ခရူးဆိတ်စစ်ပွဲ (၁၂၂၈-၁၂၂၉) အတွင်း၊ သန့်ရှင်းသော ရောမ ဧကရာဇ် ဖရက်ဒရစ် နံပါတ်၂ သည် စေ့စပ်ညှိနှိုင်းခြင်းဖြင့် ခရစ်ယာန်များအတွက် ‌ဂျေရုဆလင်မြို့ကို အရယူခဲ့သည်။
+#4/5
 
 1082
 Louisa May Alcott and Nathaniel Hawthorne resided on Pinckney Street, while Beacon Street which Oliver Wendell Holmes dubbed  the sunny street that holds the sifted few  boasted historian William Prescott.
- လူဝီဆာမေအဲကော့ နှင့် နသဲနီရယ်ဟော်သောနီ တို့သည် ပင့်ခ်နေးလမ်း တွင်နေထိုင်ကြပြီး အိုလီဗာဝန်းဒဲဟုမ်းစ် ဟုအမည်ပေးထားသည့် မီးရှူးတန်ဆောင်လမ်း သည် ၀ါကြွားသောသမိုင်းပညာရှင် ဝီလီယံပက်စ်ကော့ ကို ကိုင်ဆောင်ထားသော နေသာသောလမ်းကိုပိုင်ဆိုင်သည်။
+Louisa May Alcott နှင့် Nathaniel Hawthorne တို့သည် Pinckneyလမ်း တွင်နေထိုင်ကြပြီး Beaconလမ်းဟု Oliver Wendell Holmes ဟုအမည်ပေးထားသည့် sunny လမ်းတွင် သမိုင်းပညာရှင် William Prescott နေထိုင်သည်။
+#4/5
 
 1083
 A little way along from Boot you'll find the terminus of the Ravenglass and Eskdale Railway, or  La'al Ratty,  as it's affectionately known.
-ဘူ့ မှ နည်းနည်းလမ်းလျှောက်လျှင် ရေးဗန်ဂလပ် နှင့် အက်ဒလေ မီးရထား၏ဂိတ်ဆုံးနေရာ သို့မဟုတ် ၎င်း၏ ချစ်ခင်စွာဖြင့် လူသိများသော လာလယ်ရက်တီ ကိုတွေ့ရပါမည်။
+Bootမှ နည်းနည်းလမ်းလျှောက်လျှင် Ravenglass နှင့် Eskdale မီးရထားလမ်း၏ဂိတ်ဆုံးနေရာ သို့မဟုတ် La'al Ratty ဟု လူသိများသော နေရာကိုတွေ့ရပါမည်။
+#4/5
 
 1084
 Forming part of the city wall, the gate was intended by the more pragmatic Prussians not so much as a triumphal arch as an imposing tollgate for collecting duties.
-မြို့တံတိုင်း ၏ တစ်စိတ်တစ်ပိုင်းကို ဖွဲ့စည်းထားပြီး ၊ ဂိတ်ကို အောင်ပွဲခံမုခ်ကဲ့သို့မဟုတ်ဘဲ ပိုမိုလက်တွေ့ကျသော တာဝန်များလုပ်ဆောင်ရန်အတွက် ခိုင်ခံ့ခန့်ညားသော တိုးဂိတ်တစ်ခုအဖြစ် ပရပ်ရှားများက ရည်ရွယ်ထားသည်။
+မြို့တံတိုင်း ၏ တစ်စိတ်တစ်ပိုင်းဖြစ်သော ၊ မြို့ဝင်ဂိတ်ကို အောင်ပွဲခံမုခ်ကဲ့သို့မဟုတ်ဘဲ ပိုမိုလက်တွေ့ကျသော တာဝန်များလုပ်ဆောင်ရန်အတွက် ခိုင်ခံ့ခန့်ညားသော တိုးဂိတ်တစ်ခုအဖြစ် ပရပ်ရှားများက ရည်ရွယ်တည်ဆောက်ထားသည်။
+#3/5
 
 1085
 Apart from the set pieces, most of the music is percussive and serves to support and reflect the action and mood.
-သတ်မှတ်အပိုင်းများအပြင် ဂီတအများစုသည် အာရုံစူးစိုက်မှုရှိပြီး လှုပ်ရှားမှုနှင့် စိတ်ခံစားချက်ကို ပံ့ပိုးပေးကာ ထင်ဟပ်စေပါသည်။
+သတ်မှတ်အပိုင်းများအပြင် ဂီတသံအများစုသည် အာရုံစူးစိုက်မှုရှိပြီး လှုပ်ရှားမှုနှင့် စိတ်ခံစားချက်ကို ပံ့ပိုးပေးကာ ထင်ဟပ်စေပါသည်။
+#3/5
 
 1086
 Kuala Perlis, south of the state capital, Kangar, is the departure point for the less than an hour's ferry journey to Langkawi.
-ပြည်နယ်မြို့တော် ကန်ဂါ ၏တောင်ဘက်ရှိ ကွာလာပါလစ် သည် လန်ကာဝီ သို့ တစ်နာရီအောက် ဖယ်ရီခရီးအတွက် ထွက်ခွာမည့်နေရာဖြစ်သည်။
+Kangar ပြည်နယ်တောင်ဘက်မြို့တော်ရှိ Kuala Perlis မှထွက်ခွာလျှင် လန်ကာဝီ သို့ သင်္ဘောဖြင့် တစ်နာရီမကြာဘဲ ဆိုက်ရောက်နိုင်မည်။
+#3/5
 
 1087
 Its entrance is guarded by two 14th-century towers reamainaing from the town's fortifications.
-၎င်း၏ဝင်ပေါက်ကို မြို့၏ခံတပ်များမှ ကျန်ရှိနေသည့် ၁၄ ရာစု တာဝါတိုင်နှစ်ခုက စောင့်ကြပ်ထားသည်။
+၎င်း၏ဝင်ပေါက်ကို မြို့၏ ၁၄ ရာစု ခံတပ်များမှ ကျန်ရှိနေသည့် မျှော်စင်နှစ်ခုက စောင့်ကြပ်ထားသည်။
+#4/5
 
 1088
 The pattern repeated itself a century later when the Moors invoked the aid of the Almohads in 1151.
-ရာစုနှစ်တစ်ခုအကြာတွင် မောစ် တို့သည် ၁၁၅၁ ခုနှစ်တွင် အယ်မိုဟာဒ်များ ၏အကူအညီကို တောင်းဆိုသောအခါ ပုံစံသည် သူ့အလိုလိုပြန်ဖြစ်ခဲ့သည်။
+ရာစုနှစ်တစ်ခုအကြာတွင် Moors တို့သည် ၁၁၅၁ ခုနှစ်ကဲ့သို့ Almohads များ ၏အကူအညီကို တဖန်တောင်းဆိုဖြစ်ခဲ့သည်။
+#3/5
 
 1089
 702/369-1540) the oldest coffeehouse in Las Vegas and, according to some, still the best in all its Bohemian glory.
-၇၀၂/၃၆၉-၁၅၄၀) လာ့စ်ဗီးဂတ်စ်ရှိ ရှေးအကျဆုံး ကော်ဖီဆိုင်ဖြစ်ပြီး ၊ အချို့သောအဆိုအရ ၊ ၎င်း၏ ဘိုဟီးမီယမ် ဂုဏ်ကျက်သရေအားလုံးထဲတွင်    အကောင်းဆုံးဖြစ်နေဆဲဖြစ်သည်။
+၇၀၂/၃၆၉-၁၅၄၀) လာ့စ်ဗီးဂတ်စ်ရှိ ရှေးအကျဆုံး ကော်ဖီဆိုင်ဖြစ်ပြီး ၊ အချို့သောအဆိုအရ ၊ ၎င်း၏ ဘိုဟီးမီယမ် ဂုဏ်ကျက်သရေအားလုံးထဲတွင် အကောင်းဆုံးဖြစ်နေဆဲဖြစ်သည်။
+#3/5
 
 1090
 You can buy several of these to make your own line of narrow gables.
-သင့်ကိုယ်ပိုင် ကျဉ်းမြောင်းသော မြင်းမိုရ်မျဉ်းများပြုလုပ်ရန် ဤအရာများစွာကို သင်ဝယ်နိုင်သည်။
+ဤအရာများကို ဝယ်ယူ၍ သင့်ကိုယ်ပိုင် ကျဉ်းမြောင်းသော အမိုးချွန်များပြုလုပ်နိုင်သည်။
+#4/5
 
 1091
 May such terror terrify those in thrall to earthly error, for the horror of these images tells what awaits them.
-ဤပုံများ၏ ထိတ်လန့်ကြောက်ရွံ့မှုသည် ၎င်းတို့ကို စောင့်မျှော် နေသော အရာများကို ပြောပြသောကြောင့် ဤကဲ့သို့သော ထိတ်လန့်မှုများစွာသည် မြေကြီးပေါ်ရှိ အမှားအထိ ချောက်ချားသွားစေပါသည်။
+ဤပုံရိပ်များ၏ ခြောက်လှန့်မှုကြောင့် ထိန်းချုပ်ခံရသူတို့ကို ထိတ်လန့်တုန်လှုပ်စေသည်။
+#3/5
 
 1092
 From May to mid-October, the Boston Harbor Cruise Company (Tel.
-မေလမှအောက်တိုဘာလလယ်အထိ ၊ ဘော်စတွန် ဟာဘာခရူး ကုမ္ပဏီ(တီအီးအယ်။
+မေလမှအောက်တိုဘာလလယ်အထိ ၊ ဘော်စတွန် ဟာဘာခရူး ကုမ္ပဏီ(ဖုန်းနံပါတ်.
+#5/5
 
 1093
 The sea is reached only by narrow lanes and farm tracks, but it's worth a trek to get away from the crowds.
-ပင်လယ်ကို ကျဉ်းမြောင်းသော လမ်းသွယ်များနှင့် လယ်ကွင်းလမ်းများဖြင့်သာ ရောက်ရှိနိုင်သော်လည်း ၊ လူစုလူဝေးနဲ့ဝေးရာကို ခရီးထွက်ရန် ထိုက်တန်ပါတယ်။
+ကျဉ်းမြောင်းသော လမ်းသွယ်များနှင့် လယ်ကွင်းလမ်းများမှသာ ပင်လယ်သို့ ရောက်ရှိနိုင်သော်လည်း ၊ လူစုလူဝေးနဲ့ဝေးရာကို ခရီးထွက်ရန် ထိုက်တန်ပါတယ်။
+#4/5
 
 1094
 With reinforcements, the Spaniards managed to establish a beachhead.
-စစ်ကူများဖြင့် စပိန်လူမျိုးများသည် ကမ်းခြေခေါင်းတိုင်ကို တည်ထောင်နိုင်ခဲ့သည်။
+စစ်ကူများဖြင့် စပိန်လူမျိုးများသည် ကမ်းခြေတိုက်ပွဲကို ဖန်တီးနိုင်ခဲ့သည်။
+#4/5
 
 1095
 Even so, Paris recently created miles of cycling lanes that crisscross the entire city, making bicycling much safer (and more popular).
-ဒါတောင် ၊ မကြာသေးမီက ပဲရစ်ဟာ မြို့တစ်ခုလုံးကိုဖြတ်ကျော်ပြီး စက်ဘီးစီးရတာ ပိုအန္တရာယ်ကင်း (ပိုမိုရေပန်းစား) တဲ့ မိုင်ပေါင်းများစွာ စက်ဘီးစီးလမ်းတွေကို ဖန်တီးခဲ့ပါတယ်။
+ဒါတောင် ၊ မကြာသေးမီက ပဲရစ်ဟာ မြို့တစ်ခုလုံးကိုဖြတ်ကျော်ပြီး စက်ဘီးစီးလမ်းတွေကို ဖန်တီးခဲ့တဲ့အတွက် စက်ဘီးစီးရတာ ပိုအန္တရာယ်ကင်း (ပိုမိုရေပန်းစား) လာခဲ့ပါတယ်။
+#5/5
 
 1096
 You will find a pleasant beach nearby at Batu Hitam.
-ဘာတူဟစ်တန် အနီးအနားတွင် သာယာသော ကမ်းခြေတစ်ခုကို သင်တွေ့လိမ့်မည်။
+Batu Hitam အနီးအနားတွင် သာယာသော ကမ်းခြေတစ်ခုကို သင်တွေ့လိမ့်မည်။
+#5/5
 
 1097
 The first Westerner to reach Hawaii was Captain James Cook, the British commander whose mission was to disacover the mythic Northwest Passage linking the Atlantic and Pacific oceans.
-အတ္တလန္တိတ်နှင့် ပစိဖိတ်သမုဒ္ဒရာတို့ကို ဆက်သွယ်ထားသော ဒဏ္ဍာရီလာ အနောက်မြောက်လမ်းကြောင်းကို ရှာဖွေတွေ့ရှိရန် တာဝန်ရှိသူ ဗြိတိသျှ တပ်မှူး ဟာဝိုင်အီကို ပထမဆုံးရောက်ရှိသည့် အနောက်နိုင်ငံသား ကပ္ပတိန်ဂျိမ်းကွတ် ဖြစ်သည်။
+အတ္တလန္တိတ်နှင့် ပစိဖိတ်သမုဒ္ဒရာတို့ကို ဆက်သွယ်ထားသော ဒဏ္ဍာရီလာ အနောက်မြောက်လမ်းကြောင်းကို ရှာဖွေရန် တာဝန်ရှိသူ ဗြိတိသျှ တပ်မှူး ကပ္ပတိန်ဂျိမ်းကွတ် သည် ဟာဝိုင်အီကို ပထမဆုံးရောက်ရှိသည့် အနောက်နိုင်ငံသား ဖြစ်သည်။
+#5/5
 
 1098
 In horse-drawn carts you visit costumed villagers tilling and harvesting, sheep-shearing, grinding flour in the mill, weaving, and fashioning horseshoes in the smithy.
-မြင်းလှည်းများဖြင့် ဝတ်စုံဝတ်ဆင်ထားသော ရွာသားများ၏ ရိတ်သိမ်းခြင်း၊ သိုးမွေးညှပ်ခြင်း၊ ဂျုံမှုန့်ကြိတ်ခြင်း၊ ယက်လုပ်ခြင်း၊ ပန်းထိမ်လုပ်ခြင်းနှင့် မြင်းခွာရွက်များကို အလှဆင်ခြင်းတို့ကို သင် သွား‌ရောက်ကြည့်ရှုနိုင်သည်။
+မြင်းလှည်းဖြင့် လည်ပတ်ကြည့်ရှုပါက ဝတ်စုံပြည့်ဝတ်ဆင်ထားသော ရွာသားများ၏ လယ်ယာရိတ်သိမ်းခြင်း၊ သိုးမွေးညှပ်ခြင်း၊ ဂျုံမှုန့်ကြိတ်ခြင်း၊ ယက်ကန်းယက်လုပ်ခြင်း၊ ပန်းပဲဖိုတွင် ပြုလုပ်သောလှပသော မြင်းခွာများကို မြင်တွေ့နိုင်သည်။
+#5/5
 
 1099
 Smaller boats for local jaunts can be rented at Sea Horse Boat Rentals, Marsh Harbour, Abacos (Tel.
-Sea Horse Boat Rentals ၊ Marsh Harbour ၊ Abacos တို့တွင် ပြည်တွင်းအပျော်ခရီးအတွက် လှေသေးသေးလေးများကို ငှားရမ်းနိုင်သည်(တီအီးအယ်။
+Sea Horse လှေအငှားဆိုင် ၊ Marsh ဆိပ်ကမ်း ၊ Abacos တို့တွင် အပျော်စီးရန်အတွက် လှေအသေးလေးများကို ငှားရမ်းနိုင်သည်(တယ်ဖုန်း.
+#5/5
 
 1100
 The outrageous and conservative, one learns, coexist here without much fuss.
-ဒေါသကြီး ပြီး ရှေးရိုးဆန်သော ၊ ခွဲခြားစရာမလိုဘဲ ဤနေရာတွင် အတူရှိနေနိုင်သည် ကို သင်ယူနိုင်သည်။
+ဒေါသကြီးသူများနှင့် ရှေးရိုးဆန်သူများသည် ဤနေရာတွင် အတူတကွ နေထိုင်နိုင်ကြသည်။
+#3/5

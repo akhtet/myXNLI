@@ -51,400 +51,501 @@
 5901
 The mansion cost 2 million dollars to build.
 ဒီအိမ်ကြီးကို ဆောက်ဖို့ ဒေါ်လာ ၂ သန်း ကုန်ကျတယ်။
+5/5
 
 5902
 The mansion was built by Adam Sandler.
-ဒီအိမ်ကြီးကို အဒမ်စန်ဒယ်လာ ကဆောက်ခဲ့တာ။
+ဒီအိမ်ကြီးကို Adam Sandler ကဆောက်ခဲ့တာ။
+5/5
 
 5903
 The shrines all worship Muhammed.
-နတ်ဘုရားကျောင်းအားလုံးသည် မိုဟာမတ်ကို ကိုးကွယ်တယ်။
+နတ်ဘုရားကျောင်းအားလုံးသည် မိုဟာမတ်ကို ကိုးကွယ်သည်။
+5/5
 
 5904
 The shrines serve meatloaf on mondays.
-နတ်ဘုရားကျောင်းများသည် တနင်္လာနေ့များတွင် အသားတုံးကျွေးတယ်။
+နတ်ဘုရားကျောင်းများသည် တနင်္လာနေ့များတွင် အသားတုံး‌ကျွေးသည်။
+4/5
 
 5905
 There are three shrines dedicated to various deities.
 အမျိုးမျိုးသော နတ်ဘုရားများကို ရည်စူးထာတဲ့ နတ်ကွန်း သုံးခုရှိတယ်။
+5/5
 
 5906
 The churches are also daycare centers for children.
 ဘုရားကျောင်းတွေဟာ ကလေးတွေအတွက် နေ့ကလေးထိန်းစင်တာများလည်းဖြစ်တယ်။
+5/5
 
 5907
 The churches are on the left side of the road.
 ဘုရားကျောင်းများဟာ လမ်းမကြီးရဲ့ ဘယ်ဘက်ခြမ်းမှာရှိတယ်။
+5/5
 
 5908
 Two churches can be found on the right side of the road.
 လမ်းမကြီးရဲ့ ညာဘက်ခြမ်းမှာ ဘုရားကျောင်း နှစ်ကျောင်းကို တွေ့နိုင်တယ်။
+5/5
 
 5909
 The museum is across the street from the Egyptian museum.
 ပြတိုက်သည် အီဂျစ်ပြတိုက်မှ လမ်းတစ်ဖက်တွင်ရှိသည်။
+4/5
 
 5910
 The museum is near the Egyptian museum.
 ပြတိုက်သည် အီဂျစ်ပြတိုက်အနီးတွင်ရှိသည်။
+5/5
 
 5911
 The museum is very far from the museum about Egypt.
 ပြတိုက်သည် အီဂျစ်လူမျိုးများအကြောင်းပြတိုက်မှ အတော်ဝေးသည်။
+5/5
 
 5912
 The Stampede had nothing to do with cattle.
-တိရစ္ဆာန်အုပ်လိုက် ကမူးရှူးထိုးထပြေးခြင်းသည် ကျွဲနွားတိရစ္ဆာန်များနှင့် ဘာမှမဆိုင်ပါ။
+တိရစ္ဆာန်အုပ်လိုက် ကမူးရှူးထိုးထပြေးခြင်းသည် ကျွဲနွားများနှင့် ဘာမှမဆိုင်ပါ။
+4/5
 
 5913
 The Stampede was intended to show cattle roping techniques.
-တိရစ္ဆာန်အုပ်လိုက် ကမူးရှူးထိုးထပြေးခြင်းသည် ကျွဲနွားတိရစ္ဆာန်များအား ကြိုးဖြင့်တုပ်နှောင်ခြင်း နည်းလမ်းများကို ပြသရန် ရည်ရွယ်သည်။
+တိရစ္ဆာန်အုပ်လိုက် ကမူးရှူးထိုးထပြေးခြင်းသည် ကျွဲနွားများအား ကြိုးဖြင့်တုပ်နှောင်ခြင်း နည်းလမ်းများကို ပြသရန် ရည်ရွယ်သည်။
+4/5
 
 5914
 The Stampede was intended to show the techniques of farm life.
 တိရစ္ဆာန်အုပ်လိုက် ကမူးရှူးထိုးထပြေးခြင်းသည် လယ်ယာဘဝ၏ နည်းနိဿယများကို ပြသရန် ရည်ရွယ်သည်။
+4/5
 
 5915
 Nearly 100 thousand people come to check out the city every day.
 နေ့တိုင်း လူပေါင်းတစ်သိန်းနီးပါး မြို့တော်ကို လေ့လာကြည့်ရှုဖို့ ရောက်ရှိလာကြတယ်။ 
+5/5
 
 5916
 Only 50 thousand people come to check out the city on a day to day basis.
 နေ့စဉ်နေ့တိုင်း ပုံမှန် လူငါးသောင်း သာလျှင် မြို့တော်ကို လေ့လာကြည့်ရှုဖို့ ရောက်ရှိလာကြတယ်။ 
+5/5
 
 5917
 The city does not have a great tourism industry.
 မြို့တော်တွင် အောင်မြင်တွင်ကျယ်နေသောခရီးသွားလုပ်ငန်း မရှိပါ။
+5/5
 
 5918
 The city hall was replaced by a government center.
-မြို့တော်ခန်းမကို အစိုးရဗဟိုဌာနတစ်ခုနဲ အစားထိုးလိုက်တယ်။
+မြို့တော်ခန်းမကို အစိုးရဗဟိုဌာနတစ်ခုနဲ့ အစားထိုးလိုက်တယ်။
+5/5
 
 5919
 The city hall, and other buildings, were replaced by a government center.
-မြို့တော်ခန်းမရယ်၊ ပြီးတော့ အခြား အဆောက်အဦတွေကို၊ အစိုးရဗဟိုဌာနတစ်ခုက အစားထိုးလိုက်တယ်။
+မြို့တော်ခန်းမရယ်၊ ပြီးတော့ အခြား အဆောက်အဦးတွေကို၊ အစိုးရဗဟိုဌာနတစ်ခုနဲ့ အစားထိုးလိုက်တယ်။
+5/5
 
 5920
 The government center was replaced by city hall.
 အစိုးရဗဟိုဌာနကို မြို့တော်ခန်းမနဲ့ အစားထိုးလိုက်တယ်။
+5/5
 
 5921
 The statue is made entirely of marble.
 ရုပ်ထု ကို အကုန်လုံး စကျင်ကျောက်နဲ့ ပြုလုပ်ထားတယ်။
+5/5
 
 5922
 The statue of the city founder was built in 1898.
 မြို့တည်ထောင်သူရဲ့ ရုပ်ထုကို ၁၈၉၈ခုနှစ်မှာ ထုလုပ်ခဲ့တာ။
+5/5
 
 5923
 The statue was built in the year 1775.
 ရုပ်ထုကို ၁၇၇၅ခုနှစ်ထဲမှာ ထုလုပ်ခဲ့တာ။
+5/5
 
 5924
 The road goes from Payangan to Batur.
-ပရန်ဂန် ကနေ ဘတ်တိုရှ်ကို လမ်းမကြီးကနေပေါက်တယ်။
+Payangan ကနေ Batur ကို လမ်းမကြီးကနေပေါက်တယ်။
+5/5
 
 5925
 The road is 15 miles from Payangan to Batur.
-ဒီလမ်းမကြီးက ပရန်ဂန် ကနေ ဘတ်တိုရှ်ကို ၁၅မိုင်ရှိတယ်။
+ဒီလမ်းမကြီးက Payangan ကနေ Batur ကို ၁၅မိုင်ရှိတယ်။
+5/5
 
 5926
 The road never reaches Batur.
-ဒီလမ်းမကြီးက ဘတ်တိုရှ်ဆီ မရောက်ဘူး။
+ဒီလမ်းမကြီးက Baturဆီ မရောက်ဘူး။
+5/5
 
 5927
 MIT is where the world's most successful students attend college.
-အမ်အိုင်တီသည် ကမ္ဘာ့ အအောင်မြင်ဆုံးကျောင်းသားကျောင်းသူများတက်ရောက်သောကောလိပ်ဖြစ်သည်။
+MIT သည် ကမ္ဘာ့ အအောင်မြင်ဆုံးကျောင်းသားကျောင်းသူများတက်ရောက်သောကောလိပ်ဖြစ်သည်။
+5/5
 
 5928
 MIT was founded in 1861.
-အမ်အိုင်တီကို ၁၈၆၁ ခုနှစ်တွင် တည်ထောင်ခဲ့သည်။
+MIT ကို ၁၈၆၁ ခုနှစ်တွင် တည်ထောင်ခဲ့သည်။
+5/5
 
 5929
 MIT was founded when Jesus was born.
-အမ်အိုင်တီကို ယေရှုမွေးဖွားချိန်တွင် တည်ထောင်ခဲ့သည်။
+MIT ကို ယေရှု မွေးဖွားချိန်တွင် တည်ထောင်ခဲ့သည်။
+4/5
 
 5930
 The Parque de Palapas is where people have barbecues all the time.
-ပါရတ်ကတ်ဒီပလပတ်စ်က လူများ တချိန်လုံး အသားကင်စားတဲ့ နေရာဖြစ်တယ်။
+Parque de Palapas က လူများ တချိန်လုံး အသားကင်စားတဲ့ နေရာဖြစ်တယ်။
+4/5
 
 5931
 The locals can be joined during the weekends in the Parque de Palapas.
-ပါရတ်ကတ်ဒီပလပတ်စ်မှာ ဒေသခံတွေက သတင်းပတ်ကုန်ပိတ်ရက်တွေမှာပဲ ပါဝင်နိုင်တယ်။
+Parque de Palapas မှာ ဒေသခံတွေက သတင်းပတ်ကုန်ပိတ်ရက်တွေမှာပဲ ပါဝင်နိုင်တယ်။
+4/5
 
 5932
 You can't ever go to the Parque de Palapas, it is forbidden.
-ခင်ဗျား ပါရတ်ကတ်ဒီပလပတ်စ်ဆီကို အမြဲသွားလို့မရဘူး၊ တားမြစ်ထားတယ်။
+ခင်ဗျား Parque de Palapas ဆီကို ဘယ်တော့မှသွားလို့မရဘူး၊ တားမြစ်ထားတယ်။
+5/5
 
 5933
 James Wilson Marshall did nothing special.
-ဂျိမ်းစ်ဝီလျှံမာရှဲလ်က ဘာမှ ထူးထူးခြားခြား  မလုပ်ခဲ့ဘူ။
+James Wilson Marshall က ဘာမှ ထူးထူးခြားခြား  မလုပ်ခဲ့ဘူ။
+5/5
 
 5934
 James Wilson Marshall did something special.
-ဂျိမ်းစ်ဝီလျှံမာရှဲလ် က ထူးထူးခြားခြား တစ်ခုခု လုပ်ခဲ့တယ်။
+James Wilson Marshall က ထူးထူးခြားခြား တစ်ခုခု လုပ်ခဲ့တယ်။
+5/5
 
 5935
 James Wilson Marshall invented something.
-ဂျိမ်းစ်ဝီလျှံမာရှဲလ် က တစ်ခုခု တီထွင်ခဲ့တယ်။
+James Wilson Marshall  က တစ်ခုခု တီထွင်ခဲ့တယ်။
+5/5
 
 5936
 The Perak Tong was built by a Buddhist priest.
-ပဲရက်တွန်းကို ဗုဒ္ဓဘာသာ ဘုန်းတော်ကြီးတစ်ပါးက တည်ဆောက်ခဲ့တာပါ။
+Perak Tong ကို ဗုဒ္ဓဘာသာ ဘုန်းတော်ကြီးတစ်ပါးက တည်ဆောက်ခဲ့တာပါ။
+5/5
 
 5937
 The Perak Tong was built by a Buddhist.
-ပဲရက်တွန်းကို ဗုဒ္ဓဘာသာတစ်ယောက်က တည်ဆောက်ခဲ့တာပါ။
+Perak Tong ကို ဗုဒ္ဓဘာသာတစ်ယောက်က တည်ဆောက်ခဲ့တာပါ။
+5/5
 
 5938
 The Perak Tong was not built by a Buddhist.
-ပဲရက်တွန်းကို ဗုဒ္ဓဘာသာတစ်ယောက်က တည်ဆောက်ခဲ့တာ မဟုတ်ဘူး။
+Perak Tong ကို ဗုဒ္ဓဘာသာတစ်ယောက်က တည်ဆောက်ခဲ့တာ မဟုတ်ဘူး။
+5/5
 
 5939
 Kodaly kerend is decorate with Classical gures and inlaid motifs.
-ကိုဒလေကရန်ကို ဂန္တဝင်ဆန်သော ပန်းပုများနှင့် ကနုတ်ပန်းများ ဖြင့် အလှဆင်ထားသည်။
+Kodaly kerend ကို ဂန္တဝင်ဆန်သော ပန်းပုများနှင့် ကနုတ်ပန်းများ ဖြင့် အလှဆင်ထားသည်။
+5/5
+#grammar error - "decorated"
 
 5940
 The Kodaly Kerend is decorated with several things, including gures and motifs.
-ကိုဒလေကရန်ကို ပန်းပုများ ကနုတ်ပန်းများ အပါအဝင် အရာအမျိုးမျိုးဖြင့် အလှဆင်ထားသည်။
+Kodaly kerend ကို ပန်းပုများ ကနုတ်ပန်းများ အပါအဝင် အရာအမျိုးမျိုးဖြင့် အလှဆင်ထားသည်။
+5/5
 
 5941
 The Kodaly kerend is not decorated with gures and motifs.
-ကိုဒလေကရန်ကို ပန်းပုများ ကနုတ်ပန်းများဖြင့် အလှမဆင်ထားပါ။
+Kodaly kerend ကို ပန်းပုများ ကနုတ်ပန်းများဖြင့် အလှမဆင်ထားပါ။
+5/5
 
 5942
 National unity doesn't matter at all.
 အမျိုးသား စည်းလုံးညီညွတ်ရေးသည် လုံးဝ အရေးမကြီးပါ။
+5/5
 
 5943
 National unity is more important than everything else combined.
 အမျိုးသား စည်းလုံးညီညွတ်ရေးသည် အခြား အရာအားလုံး ပေါင်းစည်းခြင်းထက် ပို၍ အရေးကြီးသည်။
+5/5
 
 5944
 National unity is never the first priority.
 အမျိုးသား စည်းလုံးညီညွတ်ရေးသည် မည်သည့်အခါကမျှ ပထမ ဦးစားပေး မဖြစ်ခဲ့ပါ။
+5/5
 
 5945
 The Parliament is located here.
 ပါလီမန်သည် ဤနေရာတွင် တည်ရှိသည်။
+5/5
 
 5946
 The Parliament was never housed here.
-ပါလီမန်ကို ဤနေရာတွင် မည်သည့်အခါကမျှ မထားရှိပါ။
+ပါလီမန်ကို ဤနေရာတွင် မည်သည့်အခါကမျှ မထားရှိခဲ့ပါ။
+5/5
 
 5947
 The Parliament was strongly considered for this location.
-ဤနေရာအတွက် ပါလီမန်ကို လေးလေးနက်နက်စဉ်းစားထားသည်။
+ဤနေရာအတွက် ပါလီမန်ကို လေးလေးနက်နက်စဉ်းစားထားခဲ့သည်။
+5/5
 
 5948
 It's cheaper to buy stuff here because there is no tax.
 အခွန်မရှိလို့ ဒီမှာ ပစ္စည်းဝယ်ရတာ ဈေးပိုသက်သာတယ်။
+5/5
 
 5949
 It's cheaper to buy stuff here.
 ဒီမှာ ပစ္စည်းဝယ်ရတာ ဈေးပိုသက်သာတယ်။
+5/5
 
 5950
 This place is more expensive than anywhere!
 ဒီနေရာက အခြားနေရာတွေထက် ဈေးပိုကြီးတယ်။
+5/5
 
 5951
 Ramses II was leader for decades.
-ရမ်စိစ်သည်တူးသည် ဆယ်စုနှစ်များစွာတိုင် ခေါင်းဆောင်ဖြစ်ခဲ့သည်။
+Ramses II သည် ဆယ်စုနှစ်များစွာတိုင် ခေါင်းဆောင်ဖြစ်ခဲ့သည်။
+5/5
 
 5952
 Ramses II was only in power for a year.
-ရမ်စိစ်သည်တူးသည် တစ်နှစ်သာလျှင် အာဏာရရှိခဲ့သည်။
+Ramses II သည် တစ်နှစ်သာလျှင် အာဏာရရှိခဲ့သည်။
+5/5
 
 5953
 Ramses II was the longest-ruling king.
-ရမ်စိစ်သည်တူးသည် သက်တမ်းအရှည်ဆုံး အုပ်ချုပ်သည့် ဘုရင် ဖြစ်ခဲ့သည်။
+Ramses II သည် သက်တမ်းအရှည်ဆုံး အုပ်ချုပ်သည့် ဘုရင် ဖြစ်ခဲ့သည်။
+5/5
 
 5954
 The Montesserant is a river.
-မောင့်ဆရပ်သည် မြစ်တစ်စင်းဖြစ်သည်။
+Montesserant သည် မြစ်တစ်စင်းဖြစ်သည်။
+5/5
 
 5955
 The Montesserat are mountains.
-မောင့်ဆရပ်သည် တောင်စဉ်တန်းများဖြစ်သည်။
+Montesserant သည် တောင်စဉ်တန်းများဖြစ်သည်။
+5/5
 
 5956
 The Mountesserat mountains are the tallest in the area.
-မောင့်ဆရပ်တောင်များသည် အဆိုပါဒေသတွင် အမြင့်ဆုံးဖြစ်သည်။
+Montesserant တောင်များသည် အဆိုပါဒေသတွင် အမြင့်ဆုံးဖြစ်သည်။
+5/5
 
 5957
 Coupons are given out on the beach at night, hoping for customers the next day.
 နောက်တစ်နေ့မှာ ဖောက်သည်တွေကို မျှော်လင့်ထားရင်း၊ ညပိုင်း ကမ်းခြေမှာ ကူပွန်တွေ ဝေတယ်။
+4/5
 
 5958
 Coupons are given out on the beach, hoping for long term customers.
 ရေရှည်ဖောက်သည်တွေကိုမျှော်လင့်ရင်း၊ ကမ်းခြေမှာ ကူပွန်တွေ ဝေတယ်။
+5/5
 
 5959
 Coupons are given out on the beach, hoping to attract customers at night.
 ညပိုင်း ဖောက်သည်တွေကို ကို ဆွဲဆောင်နိုင်မယ်လို့ မျှော်လင့်ရင်း၊ ကမ်းခြေမှာ ကူပွန်တွေ ဝေတယ်။
+5/5
 
 5960
 The Rejan is crystal-clear.
-ရဂျန်သည် ကြည်လင်ရှင်းသန့်သည်။
+Rejan သည် ကြည်လင်ရှင်းသန့်သည်။
+5/5
 
 5961
 The Rejan is over 300 miles long.
-ရဂျန်သည် မိုင်၃၀၀ကျော်ရှည်လျားသည်။
+Rejan သည် မိုင်၃၀၀ကျော်ရှည်လျားသည်။
+5/5
 
 5962
 The rejan is just a little puddle.
-ရဂျန်သည် ရေအိုင်ငယ်လေးတစ်ခုသာဖြစ်သည်။
+Rejan သည် ရေအိုင်ငယ်လေးတစ်ခုသာဖြစ်သည်။
+5/5
 
 5963
 The living area is through a tunnel that is almost a mile long.
 နေထိုင်ကြတဲ့နေရာက တစ်မိုင်နီးပါးရှည်တဲ့ ဉမင်လှိုင်ခေါင်းတစ်ခုကို ဖြတ်သွားရတယ်။
+5/5
 
 5964
 The living area is through a tunnel.
-နေထိုင်ကြတဲ့နေရာကို ဉမင်လှိုင်ခေါင်းတစ်ခုကို ဖြတ်သွားရတယ်။
+နေထိုင်ကြတဲ့နေရာက ဉမင်လှိုင်ခေါင်းတစ်ခုကို ဖြတ်သွားရတယ်။
+5/5
 
 5965
 The living area is up some stairs in the attic.
-ဧည့်ခန်းနေရာက ထပ်ခိုးထပ်မှာ လှေခါးကနေတက်သွားပြီ ဖြစ်သည်။
+ဧည့်ခန်းနေရာက ထပ်ခိုးထပ်မှာ လှေခါးကနေတက်သွားရတယ်။
+5/5
 
 5966
 The Megaron is a concert hall.
-မာဂရွန်သည် ဖျော်ဖြေပွဲခန်းမတစ်ခုဖြစ်သည်။
+Megaron သည် ဖျော်ဖြေပွဲခန်းမတစ်ခုဖြစ်သည်။
+5/5
 
 5967
 The Megaron is the bigget concert hall in the country.
-မာဂရွန်သည် နိုင်ငံတွင်းမှာ အကြီးဆုံးဖျော်ဖြေပွဲခန်းမ ဖြစ်သည်။
+Megaron သည် နိုင်ငံတွင်းမှာ အကြီးဆုံးဖျော်ဖြေပွဲခန်းမ ဖြစ်သည်။
+5/5
 
 5968
 The megaron is a train station
-မာဂရွန်သည် ရထားဘူတာရုံတစ်ရုံ ဖြစ်သည်။
+Megaron သည် ရထားဘူတာရုံတစ်ရုံ ဖြစ်သည်။
+5/5
 
 5969
 The market is called Mercat de la Cantaloupe.
-အဆိုပါ ဈေးကို မာကတ်ဒီလကန်တယ်လုပ်ဟုခေါ်သည်။
+အဆိုပါ ဈေးကို Mercat de la Cantaloup ဟုခေါ်သည်။
+5/5
 
 5970
 The market sells lots of fruits and vegetables.
-အဆိုပါဈေးက အသီးအနှံတွေနဲ့ ဟင်းသီးဟင်းရွက်တွေရောင်းတယ်။
+အဆိုပါဈေးက အသီးအနှံတွေနဲ့ ဟင်းသီးဟင်းရွက်တွေ အများအပြားရောင်းတယ်။
+5/5
 
 5971
 There is a market called Mercat de la Concepcie.
-မာကတ်ဒီလကွန်စပ်စီလို့ခေါ်တဲ့ ဈေးရှိတယ်။
+Mercat de la Concepcie လို့ခေါ်တဲ့ ဈေးရှိတယ်။
+5/5
 
 5972
 If you go to the museum, you can hear the Watergate tapes when you do the audiotour.
-ခင်ဗျား ပြတိုက်ကိုသွားရင်၊ အသံလမ်းညွှန်ချက်နဲ့ ခင်ဗျား လေ့လာလည်ပတ်မယ်ဆိုရင် ဝေါတဂိတ်တိပ်ကို ခင်ဗျား နားထောင်နိုင်တယ်။
+ခင်ဗျား ပြတိုက်ကိုသွားရင်၊ အသံလမ်းညွှန်ချက်နဲ့ ခင်ဗျား လေ့လာလည်ပတ်မယ်ဆိုရင် Watergate အခွေတွေကို ခင်ဗျား နားထောင်နိုင်တယ်။
+4/5
 
 5973
 The watergate tapes have never been heard by the public.
-ဝေါတဂိတ်တိပ်ကို အများပြည်သူများနားမထောင်ဖူးသေးပါ။
+Watergate အခွေများကို အများပြည်သူများနားမထောင်ဖူးသေးပါ။
+5/5
 
 5974
 You can hear the Watergate tape for yourself.
-ဝေါတဂိတ်တိပ်ကို ခင်ဗျားကိုယ်တိုင် နားထောင်နိုင်တယ်။
+Watergate အခွေ ကို ခင်ဗျားကိုယ်တိုင် နားထောင်နိုင်တယ်။
+5/5
 
 5975
 The theater is on the last street on the south end of town.
 ပြဇာတ်ရုံသည် မြို့ရဲ့တောင်ဘက်အစွန်းရှိ နောက်ဆုံးလမ်းပေါ်တွင်ရှိသည်။
+4/5
 
 5976
 The theater is on the north side.
 ပြဇာတ်ရုံသည် မြောက်ဘက်တွင် ရှိသည်။
+5/5
 
 5977
 The theater is towards the south side.
 ပြဇာတ်ရုံသည် တောင်ဘက်ဆီသို့ ဦးတည်နေသည်။
+4/5
 
 5978
 The building had no basement.
-အဆောက်အဦတွင် မြေအောက်ထပ်မပါရှိပါ။
+အဆောက်အဦးတွင် မြေအောက်ထပ်မပါရှိပါ။
+5/5
 
 5979
 The building hid the SS guard houses.
-အဆောက်အဦသည် အက်စ်အက်စ် အစောင့်ကင်းတဲများကို ကွယ်ထားသည်။
+အဆောက်အဦးသည် SS အစောင့်ကင်းတဲများကို ကွယ်ထားသည်။
+5/5
 
 5980
 The building was over the SS guard houses.
-အဆောက်အဦသည် အက်စ်အက်စ် အစောင့်ကင်းတဲများအကျော်တွင်ရှိသည်။
+#အဆောက်အဦးသည် အက်စ်အက်စ် အစောင့်ကင်းတဲများအကျော်တွင်ရှိသည်။
+5/5
 
 5981
 The art project is really fascinating.
 အနုပညာပရောဂျတ်က အမှန်တကယ် အရမ်းစိတ်ဝင်စားဖို့ကောင်းတယ်။
+4/5
 
 5982
 This is a fascinating project.
 ဒီဟာက အရမ်းစိတ်ဝင်စားစရာကောင်းတဲ့ စီမံကိန်းတစ်ခုပဲ။
+5/5
 
 5983
 This is so boring!
 ဒါက ပျင်းစရာအရမ်းကောင်းတာပဲ။
+5/5
 
 5984
 Lagun Nichupte is a desert.
-လဂန်းနီချောက်ပ်သည် ကန္တာရတစ်ခုဖြစ်သည်။
+Lagun Nichupte သည် ကန္တာရတစ်ခုဖြစ်သည်။
+5/5
+#Is the name "Lagun Nichupte" correct?
 
 5985
 Laguna Nichupte is 10 acres of water.
-လဂန်းနီချောက်ပ်တွင် ရေ၁၀ဧကရှိသည်။
+Laguna Nichupte တွင် ရေ၁၀ဧကရှိသည်။
+5/5
 
 5986
 Laguna Nichupte is a body of water.
-လဂန်းနီချောက်ပ်သည် ရေပြင်တစ်ခုဖြစ်သည်။
+Laguna Nichupte သည် ရေပြင်တစ်ခုဖြစ်သည်။
+5/5
 
 5987
 No one cares about the cars anymore.
-ကားတွေအကြောင်းကို ဘယ်သူမှ နောက်ထပ် ဂရုမစိုက်ကြတော့ဘူး။
+ကားတွေအကြောင်းကို ဘယ်သူမှ ဂရုမစိုက်ကြတော့ဘူး။
+4/5
 
 5988
 The cars are shiny and sparkly.
 ကားများသည် ပြောင်လက်ပြီးတောက်ပြောင်နေသည်။
+5/5
 
 5989
 The cars get a lot of visitors.
 ကားတွေမှာ ဧည့်သည်တွေအများကြီးပဲ။
+5/5
 
 5990
 The Depression lasted for more than ten years.
 စီးပွားရေးပျက်ကပ်ကြီးသည် ဆယ်နှစ်ကျော် ကြာခဲ့သည်။
+5/5
 
 5991
 The province was close to starvation during the Depression.
-စီးပွားရေးပျက်ကပ်ကာလအတွင်း အဆိုပါပြည်နယ်သည် ငတ်မွတ်ခေါင်းပါးမှုအငတ်ဘေးနှင့်ကြုံလုနီးပါးဖြစ်ခဲ့သည်။
+စီးပွားရေးပျက်ကပ်ကာလအတွင်း အဆိုပါပြည်နယ်သည် ငတ်မွတ်ခေါင်းပါးမှုဘေးနှင့် ကြုံလုနီးပါးဖြစ်ခဲ့သည်။
+5/5
 
 5992
 The province was known for being home to some of the wealthiest families in the region.
 အဆိုပါပြည်နယ်ကို ဒေသတွင်းရှိ အချို့သော အချမ်းသာဆုံးမိသားစုများ၏ ဇာတိမြေ ဖြစ်သောကြောင့် သိကြသည်။
+4/5
 
 5993
 The Olympics have never been in Europe.
 အိုလံပစ်ပြိုင်ပွဲက ဥရောပမှာ တစ်ခါမှ မကျင်းပဖူးဘူး။
+5/5
 
 5994
 The Olympics in Spain were the most popular of that decade.
 စပိန်တွင် ကျင်းပသော အိုလံပစ်သည် အဆိုပါ ဆယ်စုနှစ်တွင် လူအကြိုက်အများဆုံး ဖြစ်ခဲ့သည်။
+5/5
 
 5995
 The Olympics were in Spain in 1992.
 အိုလံပစ်ပြိုင်ပွဲကို ၁၉၉၂ခုနှစ်၌ စပိန်တွင် ကျင်းပခဲ့သည်။
+5/5
 
 5996
 The actors are paid ten dollars a day to pretend to be pilgrims.
 ဘုရားဖူးတွေအဖြစ် အယောင်ဆောင်ဖို့ သရုပ်ဆောင်တွေကို တစ်နေ့ ဆယ်ဒေါ်လာပေးတယ်။
+5/5
 
 5997
 The parts of sailor and pilgrims are filled by actors.
 သင်္ဘောသားနဲ့ ဘုရားဖူးတွေရဲ့ အပိုင်းတွေကို သရုပ်ဆောင်တွေနဲ့ ဖြည့်လိုက်တယ်။
+5/5
 
 5998
 The sailors and pilgrims were all one hundred percent authentic.
 သင်္ဘောသားတွေနဲ့ ဘုရားဖူးတွေဟာ တစ်ရာ ရာနှုန်းပြည့် အားလုံး အစစ်အမှန်တွေဖြစ်ကြတယ်။
+5/5
 
 5999
 The building has a huge iron weathervane.
-အဆောက်အဦတွင် ကြီးမားသော သံလေညွှန်တံ တစ်ခုရှိသည်။
+အဆောက်အဦးတွင် ကြီးမားသော သံလေညွှန်တံ တစ်ခုရှိသည်။
+5/5
 
 6000
 The building is most known for it's fence.
-အဆောက်အဦသည် ၎င်း၏ ခြံစည်းရိုးကြောင့် လူသိအများဆုံးဖြစ်သည်။
-
+အဆောက်အဦးသည် ၎င်း၏ ခြံစည်းရိုးကြောင့် လူသိအများဆုံးဖြစ်သည်။
+5/5

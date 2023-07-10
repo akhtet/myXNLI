@@ -51,399 +51,503 @@
 6101
 Porcelain is less than furniture and silver.
 ကြွေထည်သည် ပရိဘောဂ နှင့် ငွေထည်ထက် နည်းပါးသည်။
+#4/5
 
 6102
 Porcelain used to be even more than 122.
 ကြွေထည်သည် ၁၂၂ ကျော်တောင် ရှိဖူးတယ်။
+#4/5
 
 6103
 Porcelain was more than furniture and silver.
 ကြွေထည်က ပရိဘောဂ နဲ့ ငွေထည်ထက် ပိုများခဲ့သည်။
+#5/5
 
 6104
 10000 people lived in Europe in the Stone Age.
 ကျောက် ခေတ် တွင် ဥရောပ၌ လူပေါင်း ၁၀၀၀၀ နေထိုင်ခဲ့သည်။
+#5/5
 
 6105
 PEople didn't move to Europe until 1000 years after the Stone Age.
 ကျောက် ခေတ် လွန်ပြီး နှစ်ပေါင်း ၁၀၀၀ တိုင်အောင် လူတွေက ဥရောပကို မပြောင်းရွေ့ခဲ့ကြပါဘူး။
+#5/5
 
 6106
 Peopel lived in Europe during the Stone Age.
 လူများသည် ကျောက် ခေတ် အတွင်း ဥရောပတွင် နေထိုင်ခဲ့ကြသည်။
+#5/5
 
 6107
 Pok-Ta-Pok has 18 holes of golf to play.
-ပေါ့-တ-ပေါ့တွင် ဂေါက် ကစား ရန် ၁၈ ကျင်း ရှိသည်။
+Pok-Ta-Pok တွင် ဂေါက် ကစား ရန် ၁၈ ကျင်း ရှိသည်။
+#5/5
 
 6108
 Pok-Ta-Pok is just a basketball court.
-ပေါ့-တ-ပေါ့သည် ဘတ်စကတ်ဘောကွင်း တစ်ခု သာ ဖြစ်သည်။
+Pok-Ta-Pok သည် ဘတ်စကတ်ဘောကွင်း တစ်ခု သာ ဖြစ်သည်။
+#5/5
 
 6109
 Pok-Ta-Pok was played by all the most famous golfers.
-ပေါ့-တ-ပေါ့သည် အကျော်ကြားဆုံး ဂေါက်ကစားသမားများ အားလုံးက ပါဝင်ကစားခဲ့သည်။
+Pok-Ta-Pok သည် အကျော်ကြားဆုံး ဂေါက်ကစားသမားများ အားလုံးက ပါဝင်ကစားခဲ့သည်။
+#4/5
 
 6110
-Dam Square  didn't used to be landlocked.
-ဒမ်း စကွဲယားသည် ကုန်းပတ်လည်ဝိုင်းရံထားခြင်း မရှိခဲ့ပါ။
+Dam Square didn't used to be landlocked.
+Dam Square သည် ကုန်းပတ်လည်ဝိုင်းရံထားခြင်း မရှိခဲ့ပါ။
+#5/5
 
 6111
 Dam Square was always landlocked.
-ဒမ်း စကွဲယားသည် အမြဲတမ်း ကုန်းပတ်လည်ဝိုင်းရံထားသည်။
+Dam Square သည် အမြဲတမ်း ကုန်းပတ်လည်ဝိုင်းရံထားခဲ့သည်။
+#5/5
 
 6112
 Dam Square wasn't landlocked when the river ran past it.
-မြစ်က ၎င်းကို ဖြတ်သွားတဲ့အခါ ဒမ်း စကွဲယားသည် ကုန်းပတ်လည်ဝိုင်းရံထားခြင်း မဖြစ်ခဲ့ပါ။
+မြစ်က ၎င်းကို ဖြတ်သွားခဲ့စဉ်အခါက Dam Square သည် ကုန်းပတ်လည်ဝိုင်းရံထားခြင်း မဖြစ်ခဲ့ပါ။
+#5/5
 
 6113
 The ten year olds are idiots.
 ဆယ်နှစ်သားလေးများသည် မိုက်မဲသူများ ဖြစ်ကြတယ်။
+#5/5
 
 6114
 The ten year olds know all about science.
 ဆယ်နှစ်သားလေးများသည် သိပ္ပံပညာအကြောင်း အကုန် သိသည်။
+#5/5
 
 6115
 The ten year olds know what they're talking about.
 ဆယ်နှစ်သားလေးတွေက သူတို့ ဘာတွေ ပြောနေတယ်ဆိုတာကို သိကြသည်။
+#5/5
 
 6116
 The street has a giant resort.
 အဆိုပါ လမ်းတွင် ဧရာမ အပန်းဖြေစခန်း တစ်ခု ရှိသည်။
+#5/5
 
 6117
 The street has a lot of hotels.
 အဆိုပါ လမ်းတွင် ဟိုတယ်တွေ အများကြီး ရှိသည်။
+#5/5
 
 6118
 The street only has small hotels and palaces to stay.
 အဆိုပါ လမ်းတွင် တည်းခို ရန် သေးငယ်သော ဟိုတယ်များ နှင့် နန်းတော်များ သာလျှင် ရှိသည်။
+#5/5
 
 6119
 Temple of Heaven Park is kind of new.
-ဟဲဗန် ပါ့ခ် ဘုရားကျောင်းသည် သစ်လွင်သော အမျိုးအစား ဖြစ်သည်။
+#Heaven Park ဘုရားကျောင်းသည် သစ်လွင်သော အမျိုးအစား ဖြစ်သည်။
+#4/5
 
 6120
 Temple of Heaven Park was named that in 2010.
-ဟဲဗန် ပါ့ခ် ဘုရားကျောင်းကို ၂၀၁၀ ခုနှစ်တွင် ထိုကဲသို့ အမည်ပေးခဲ့သည်။
+#Heaven Park ဘုရားကျောင်းကို ၂၀၁၀ ခုနှစ်တွင် ထိုကဲသို့ အမည်ပေးခဲ့သည်။
+#5/5
 
 6121
 The Temple of Heaven Park burned down.
-ဟဲဗန် ပါ့ခ် ဘုရားကျောင်းသည် မီးလောင်ပြာကျသွားသည်။
+#Heaven Park ဘုရားကျောင်းသည် မီးလောင်ပြာကျသွားခဲ့သည်။
+#5/5
 
 6122
 Old nickelodeons are boring for film buffs.
-ဟောင်းနွမ်းနေသော နီကယ်လိုဒွန်များသည် ရုပ်ရှင်ဝါသနာရှင်များ အတွက် ငြီးငွေ့ဖွယ်ကောင်းသည်။
+ဟောင်းနွမ်းနေသော nickelodeons များသည် ရုပ်ရှင်ဝါသနာရှင်များ အတွက် ငြီးငွေ့ဖွယ်ကောင်းသည်။
+#5/5
 
 6123
 Old nickelodeons are interesting for film buffs.
-ဟောင်းနွမ်းနေသော နီကယ်လိုဒွန်များသည် ရုပ်ရှင်ဝါသနာရှင်များအတွက် စိတ်ဝင်စားစရာဖြစ်သည်။
+ဟောင်းနွမ်းနေသော nickelodeons များသည် ရုပ်ရှင်ဝါသနာရှင်များအတွက် စိတ်ဝင်စားစရာဖြစ်သည်။
+#5/5
 
 6124
 Old nickelodeons should be owned by film buffs.
-ဟောင်းနွမ်းနေသော နီကယ်လိုဒွန်များကို ရုပ်ရှင်ဝါသနာရှင်များက ပိုင်ဆိုင်သင့်သည်။
+ဟောင်းနွမ်းနေသော nickelodeons များကို ရုပ်ရှင်ဝါသနာရှင်များက ပိုင်ဆိုင်သင့်သည်။
+#5/5
 
 6125
 Boats were developed that would make trade easier.
 ကုန်သွယ်မှု ပိုမိုလွယ်ကူအောင် ပြုလုပ်ထားသော လှေများကို တီထွင်ခဲ့သည်။
+#5/5
 
 6126
 Boats were developed to keep the the incoming ships far away.
 ဝင်လာသော သင်္ဘောများကို ဝေးဝေးတွင် ထားရန် လှေများကို တီထွင်ခဲ့သည်။
+#5/5
+#Error in English sentence with double "the".
 
 6127
 Boats were developed to make it easy to get to incoming ships.
-ဝင်လာသော သင်္ဘောများဆီသို့ လွယ်လွယ်ကူကူ ရောက်စေရန် လှေများကို ၎င်းက တီထွင်ခဲ့သည်။
+ဝင်လာသော သင်္ဘောများဆီသို့ လွယ်လွယ်ကူကူ ရောက်စေရန် လှေများကို တီထွင်ခဲ့သည်။
+#5/5
 
 6128
 The Komische Oper is in Australia.
-ကောမက်ရှ် အော်ပါသည် သြစတြေးလျတွင် ရှိသည်။
+#Komische Oper သည် သြစတြေးလျတွင် ရှိသည်။
+#5/5
 
 6129
 The Komische Oper is in Germany.
-ကောမက်ရှ် အော်ပါသည် ဂျာမနီတွင် ရှိသည်။
+#Komische Oper သည် ဂျာမနီတွင် ရှိသည်။
+#5/5
 
 6130
 The Komische Oper is the most famous one in Germany.
-ကောမက်ရှ် အော်ပါသည် ဂျာမနီတွင် အကျော်ကြားဆုံး တစ်ခု ဖြစ်သည်။
+Komische Oper သည် ဂျာမနီတွင် အကျော်ကြားဆုံး တစ်ခု ဖြစ်သည်။
+#5/5
 
 6131
 Miramar has pretty homes.
-မီရာမာတွင် လှပသော အိမ်များ ရှိသည်။
+#Miramar တွင် လှပသော အိမ်များ ရှိသည်။
+#5/5
 
 6132
 Miramar is a dump.
-မီရာမာသည် တွင်း တစ်ခု ဖြစ်သည်။
+#Miramar သည် အမှိုက်တွင်း တစ်ခု ဖြစ်သည်။
+#4/5
 
 6133
 Miramar is where rich people live.
-မီရာမာသည် ချမ်းသာသော လူများ နေထိုင်ရာ နေရာ ဖြစ်သည်။
+#Miramar သည် ချမ်းသာသော လူများ နေထိုင်ရာ နေရာ ဖြစ်သည်။
+#5/5
 
 6134
 Harvard Square is dangerous at night.
 ဟားဗတ် ရင်ပြင်သည် ညဘက် တွင် အန္တရာယ်ရှိသည်။
+#5/5
 
 6135
 Harvard Square is the best at night.
 ဟားဗတ် ရင်ပြင်သည် ညဘက်တွင် အကောင်းဆုံး ဖြစ်သည်။
+#5/5
 
 6136
 Harvard Square isn't great at night.
 ဟားဗတ် ရင်ပြင်သည် ညဘက်တွင် မကောင်းမွန်ပါ။
+#5/5
 
 6137
 California was really hurt by the bad economy.
-ကယ်လီဖိုးနီးယားက စီးပွားရေး မကောင်းလို့ တကယ်ကို ထိခိုက်ခဲ့တယ်။
+California စီးပွားရေး မကောင်းလို့ တကယ်ကို ထိခိုက်ခဲ့တယ်။
+#5/5
 
 6138
 California's economy has always thrived.
-ကယ်လီဖိုးနီးယားရဲ့ စီးပွားရေးသည် အမြဲတမ်း တိုးတက်နေပါတယ်။
+California ရဲ့ စီးပွားရေးသည် အမြဲတမ်း တိုးတက်နေပါတယ်။
+#5/5
 
 6139
 No one in California had jobs.
-ကယ်လီဖိုးနီးယားမှာ ဘယ်သူမှ အလုပ် မရှိခဲ့ဘူး။
+California မှာ ဘယ်သူမှ အလုပ် မရှိခဲ့ဘူး။
+#5/5
 
 6140
 The Caste War involved the Mayans.
-လူတန်းစားခွဲခြားသော စစ်ပွဲတွင် မားရန်စ်လူမျိုးများ ပါဝင်ခဲ့သည်။
+လူတန်းစားခွဲခြားသော စစ်ပွဲတွင် Mayans လူမျိုးများ ပါဝင်ခဲ့သည်။
+#5/5
 
 6141
 The Mayans were totally peaceful.
-မားရန်စ်လူမျိုးများသည် လုံးဝ ငြိမ်းချမ်းခဲ့သည်။
+Mayans လူမျိုးများသည် လုံးဝ ငြိမ်းချမ်းခဲ့သည်။
+#5/5
 
 6142
 The mayans killed hundreds of white settlers.
-မားရန်စ်လူမျိုးများသည် လူဖြူ အခြေချနေထိုင်သူ ရာပေါင်းများစွာကို သတ်ဖြတ်ခဲ့သည်။
+Mayans လူမျိုးများသည် လူဖြူ အခြေချနေထိုင်သူ ရာပေါင်းများစွာကို သတ်ဖြတ်ခဲ့သည်။
+#5/5
 
 6143
 There are no monkeys in the place.
 ထို နေရာ ၌ မျောက်များ မရှိပါ။
+#5/5
 
 6144
 They have 200 monkeys there.
-အဲဒီမှာ မျောက်အကောင် ၂၀၀ ရှိတယ်။
+သူတို့က အဲဒီမှာ မျောက်အကောင် ၂၀၀ ရှိတယ်။
+#5/5
 
 6145
 They have monkeys there.
 သူတို့က အဲဒီမှာ မျောက်တွေ ရှိတယ်။
+#5/5
 
 6146
 They are decorated with sequins and stickers.
 သူတို့ကို ဘော်ကြယ်များ နှင့် စတစ်ကာများ ဖြင့် အလှဆင်ထားသည်။
+#5/5
 
 6147
 They are decorated.
-သူတို့ကို အလှဆင်ကြသည်။
+သူတို့ကို အလှဆင်ထားသည်။
+#5/5
 
 6148
 They are totally plain.
 သူတို့က လုံးဝ ရှင်းတယ်။
+#5/5
 
 6149
 Xlapak has 20 palaces.
-အိက်စ်လားပတ်ခ်တွင် နန်းတော် ၂၀ ရှိသည်။
+Xlapak တွင် နန်းတော် ၂၀ ရှိသည်။
+#5/5
 
 6150
 Xlapak has one palace.
-အိက်စ်လားပတ်ခ်တွင် နန်းတော် တစ်ခု ရှိသည်။
+Xlapak တွင် နန်းတော် တစ်ခု ရှိသည်။
+#5/5
 
 6151
 Xlapak is a palace that is made of gold.
-အိက်စ်လားပတ်ခ်သည် ရွှေဖြင့် ပြုလုပ်ထားသော နန်းတော် တစ်ခု ဖြစ်သည်။
+#Xlapak သည် ရွှေဖြင့် ပြုလုပ်ထားသော နန်းတော် တစ်ခု ဖြစ်သည်။
+#5/5
 
 6152
 Liberalism came to spain in 1920.
 လစ်ဘရယ်ဝါဒသည် ၁၉၂၀ တွင် စပိန်သို့ ရောက်လာခဲ့သည်။
+#5/5
 
 6153
 Liberalism didn't come to Spain until later.
-နောက်ပိုင်းတွင် လစ်ဘရယ်ဝါဒသည် စပိန်သို့ မရောက်ခဲ့ပါ။
+လစ်ဘရယ်ဝါဒသည် စပိန်သို့ နောက်ပိုင်းအထိကျမှသာ မရောက်ခဲ့ပါ။
+#2/5
+#Direct translation not accurate in this sentence as it has an opposite meaning. 
 
 6154
 Spain has never been liberal.
-စပိန်သည် ဘယ်တုန်းကမှ လစ်ဘရယ် မရှိခဲ့ဘူး။
+စပိန်သည် ဘယ်တုန်းကမှ လစ်ဘရယ် မဟုတ်ခဲ့ဘူး။
+#5/5
 
 6155
 The town is an angry, terrible place.
-ထိုမြို့သည် ဒေါသထွက် ၍ ၊ ကြောက်စရာကောင်းသော နေရာ တစ်ခု ဖြစ်သည်။
+ထိုမြို့သည် ရန်လို ၍ ၊ ကြောက်စရာကောင်းသော နေရာ တစ်ခု ဖြစ်သည်။
+#5/5
 
 6156
 The town is friendly.
 ထို မြို့သည် ဖော်ရွေတယ်။
+#5/5
 
 6157
 The town is so pleasant I never want to leave.
-ဒီ မြို့ က သာယာလွန်းလို့ ငါ ဘယ်မှ မသွားချင်ဘူး။
+ဒီ မြို့ က သာယာလွန်းလို့ ငါ ဘယ်တော့မှ ထွက်မသွားချင်ဘူး။
+#5/5
 
 6158
 People like to eat meals in the garden.
 လူတွေက ပန်းခြံထဲမှာ အစားအစာများ စားရတာကို ကြိုက်တယ်။
+#5/5
 
 6159
 People line up to eat in the garden.
 လူတွေသည် ပန်းခြံထဲမှာ စားဖို့ တန်းစီနေကြတယ်။
+#5/5
 
 6160
 THe garden is smelly so no one wants to eat in it.
 ပန်းခြံသည် အနံ့အသက်ဆိုး သောကြောင့် ဘယ်သူမှ ၎င်းတွင် မစားချင်ကြဘူး။
+#5/5
 
 6161
 The churches are all very different.
 ဘုရားကျောင်းများ အားလုံးသည် အလွန် ကွဲပြားပါသည်။
+#5/5
 
 6162
 The two churches both have big tall steeples.
 ဘုရားကျောင်း နှစ်ခုစလုံးတွင် ကြီးမား ရှည်လျားသော ဘုရားကျောင်းမျှော်စင်များ ရှိသည်။
+#5/5
 
 6163
 Two churches are the same.
 ဘုရားကျောင်း နှစ်ခုက တူညီပါသည်။
+#5/5
 
 6164
 There are a lot of 4 star restaurants.
 ကြယ် ၄ ပွင့် စားသောက်ဆိုင်တွေ အများကြီး ရှိတယ်။
+#5/5
 
 6165
 There are a lot of place to go both day and night.
 နေ့ရောညပါ သွားစရာ နေရာတွေ အများကြီး ရှိတယ်။
+#5/5
+#Spelling error "places".
 
 6166
 There is nothing to do there at night.
-ညဘက်ဆို ဘာမှ လုပ်စရာ မရှိဘူး။
+အဲ့ဒီ့မှာ ညဘက်ဆို ဘာမှ လုပ်စရာ မရှိဘူး။
+#5/5
 
 6167
 Barcino-Barcelona is the focus of a virtual history multimedia film.
-ဘာစီနို-ဘာစီလိုနာသည် သမိုင်းတွင်လုနီးပါး မာလ်တီမီဒီယာ ရုပ်ရှင် တစ်ခု ၏ အာရုံစူးစိုက်မှု ဖြစ်သည်။
+Barcino-Barcelona သည် ဗာကျွယ်လ် မာလ်တီမီဒီယာ သမိုင်းရုပ်ရှင်၏ အာရုံစူးစိုက်မှု ဖြစ်သည်။
+#4/5
 
 6168
 Unfortunately the film about Vincent Van Gogh is not for viewing by visitors.
-ကံမကောင်းစွာပဲ ဗင်းဆင့် ဗန် ဂိုးလ် အကြောင်း ရုပ်ရှင်သည် လာရောက်လည်ပတ်သူများ ကြည့်ရှု့ရန်အတွက် မဟုတ်ပါ။
+ကံမကောင်းစွာပဲ Vincent Van Gogh အကြောင်း ရုပ်ရှင်သည် လာရောက်လည်ပတ်သူများ ကြည့်ရှု့ရန်အတွက် မဟုတ်ပါ။
+#5/5
 
 6169
 Visitors at the Natural History Museum can see a film about Barcino-Barcelona.
-သဘာဝ သမိုင်း ပြတိုက်ရှိ ဧည့်သည်များသည် ဘာစီနို-ဘာစီလိုနာ အကြောင်း ရုပ်ရှင် တစ်ခုကို ကြည့်ရှုနိုင်သည်။
+သဘာဝ သမိုင်း ပြတိုက်ရှိ ဧည့်သည်များသည် Barcino-Barcelona အကြောင်း ရုပ်ရှင် တစ်ခုကို ကြည့်ရှုနိုင်သည်။
+#5/5
 
 6170
 Flag Hill his very high compared to the rest of town.
-ဖလတ် ဟေးသည် ကျန်ရှိသော မြို့နှင့် နှိုင်းယှဉ်လျှင် အလွန် မြင့်မားသည်။
+ဖလတ်တောင်ကုံးသည် ကျန်ရှိသော မြို့နှင့် နှိုင်းယှဉ်လျှင် အလွန် မြင့်မားသည်။
+#4/5
 
 6171
 Flag Hill is above the sea level.
-ဖလတ် ဟေးသည် ပင်လယ် ရေမျက်နှာပြင် အထက် တွင် ရှိသည်။
+Flag Hill သည် ပင်လယ် ရေမျက်နှာပြင် အထက် တွင် ရှိသည်။
+#5/5
 
 6172
 Flag Hill is below sea level.
-ဖလတ် ဟေးသည် ပင်လယ် ရေမျက်နှာပြင် အောက်တွင် ရှိသည်။
+Flag Hill သည် ပင်လယ် ရေမျက်နှာပြင် အောက်တွင် ရှိသည်။
+#5/5
 
 6173
 It's not safe to eat food outside.
 အပြင်မှာ အစားအစာ စားရန် မလုံခြုံဘူး။
+#4/5
 
 6174
 You can eat wherever you want since the monkeys are scared of people.
 မျောက်တွေက လူတွေကို ကြောက်ရွံ့ သောကြောင့် မင်း ကြိုက်တဲ့ ဘယ်နေရာဖြစ်ဖြစ် မင်း စားနိုင်တယ်။
+#5/5
 
 6175
 You shouldn't eat food out in the open.
 မင်း အပြင်မှာ အစားအသောက်ကို ဖွင့်ပြီး မစားသင့်ဘူး။
+#4/5
 
 6176
 Potter's Cay is a very small island.
-ပေါ်တာ' ကေးသည် အလွန် သေးငယ်သော ကျွန်း တစ်ခု ဖြစ်သည်။
+#Potter's Cay သည် အလွန် သေးငယ်သော ကျွန်း တစ်ခု ဖြစ်သည်။
+#5/5
 
 6177
 Potter's Cay is huge!
-ပေါ်တာ' ကေးသည် အလွန် ကြီးမားသည်!
+#Potter's Cay သည် ကြီးမားလှသည်!
+#5/5
 
 6178
 Potter's Cay is only 3 square miles.
-ပေါ်တာ' ကေးသည် ၃ စတုရန်း မိုင် သာလျှင် ရှိသည်။
+Potter's Cay သည် ၃ စတုရန်း မိုင် သာလျှင် ရှိသည်။
+#5/5
 
 6179
 Charlottetown hosted leaders who were changing the maritime industry.
-ချာလ်းလော့တ်တောင်းသည် ရေကြောင်း လုပ်ငန်းကို ပြောင်းလဲနေသော ခေါင်းဆောင်များကို လက်ခံကျင်းပခဲ့သည်။
+Charlottetown သည် ရေကြောင်း လုပ်ငန်းကို ပြောင်းလဲနေသော ခေါင်းဆောင်များကို လက်ခံကျင်းပခဲ့သည်။
+#5/5
 
 6180
 Charlottetown hosted leaders.
-ချာလ်းလော့တ်တောင်းသည် ခေါင်းဆောင်များအား လက်ခံကျင်းပခဲ့ပါသည်။
+Charlottetown သည် ခေါင်းဆောင်များအား လက်ခံကျင်းပခဲ့ပါသည်။
+#5/5
 
 6181
 Charlottetown was most famous in 2019.
-ချာလ်းလော့တ်တောင်းသည် ၂၀၁၉ခုနှစ်တွင် အကျော်ကြားဆုံး ဖြစ်သည်။
+Charlottetown သည် ၂၀၁၉ခုနှစ်တွင် အကျော်ကြားဆုံး ဖြစ်ခဲ့သည်။
+#5/5
 
 6182
 Amsterdam is famous.
 အမ်စတာဒမ်သည် ကျော်ကြားသည်။
+#5/5
 
 6183
 Amsterdam is the most famous city in the world.
 အမ်စတာဒမ်သည် ကမ္ဘာပေါ်တွင် အကျော်ကြားဆုံး မြို့ ဖြစ်သည်။
+#5/5
 
 6184
 Amsterdam is very basic.
 အမ်စတာဒမ်သည် အလွန် အခြေခံကျသည်။
+#5/5
 
 6185
 Rocroi is where the Spanish people won.
-ရော့ခ်ရိုသည် စပိန် လူမျိုးများ အနိုင်ရသည့် နေရာ ဖြစ်သည်။
+Rocroi သည် စပိန် လူမျိုးများ အနိုင်ရသည့် နေရာ ဖြစ်သည်။
+#5/5
 
 6186
 Rocroi saw 1000 Spanish troops killed.
-ရော့ခ်ရိုသည် စပိန် တပ်သား ၁၀၀၀ ကျဆုံးသည်ကို တွေ့ခဲ့ရသည်။
+Rocroi သည် စပိန် တပ်သား ၁၀၀၀ ကျဆုံးသည်ကို တွေ့ခဲ့ရသည်။
+#5/5
 
 6187
 Rocroi was where the Spanish were beaten.
-ရော့ခ်ရိုသည် စပိန်လူမျိုးများ အရိုက်ခံရသည့် နေရာ ဖြစ်ခဲ့သည်။
+Rocroi သည် စပိန်လူမျိုးများ ရှုံးနိမ့်ခံခဲ့ရသည့် နေရာ ဖြစ်ခဲ့သည်။
+#5/5
 
 6188
 The square had nowhere to sit.
 ရင်ပြင်မှာ ထိုင်စရာ နေရာမရှိ။
+#5/5
 
 6189
 There's a square near the church.
 ဘုရားကျောင်း အနီးတွင် ရင်ပြင် တစ်ခု ရှိသည်။
+#5/5
 
 6190
 There's a square that has ten benches in it.
-၎င်းတွင် ခုံတန်းလျား ဆယ်လုံး ရှိသော လေးထောင့် တစ်ခု ရှိသည်။
+၎င်းရင်ပြင်တွင် ခုံတန်းလျား ဆယ်လုံး ရှိသည်။
+#4/5
 
 6191
 Rum never has fruit flavors added.
 ရမ်အရက်မှာ ဘယ်တော့မှ အသီး အရသာ မထည့်ဘူး။
+#5/5
 
 6192
 There are fruity rums.
-သစ်သီးအနံ့ရှိသော ရမ်အရက်များ ရှိသည်။
+သစ်သီးအနံ့အရသာရှိသော ရမ်အရက်များ ရှိသည်။
+#5/5
 
 6193
 There are rums made of any tropical fruit.
 အပူပိုင်းဒေသ အသီးအနှံတစ်ခုခုနဲ့ လုပ်ထားတဲ့ ရမ်အရက်များ ရှိတယ်။
+#5/5
 
 6194
 All of the venues have child-friendly events.
 ကျင်းပရာနေရာ အားလုံးတွင် ကလေးများအတွက် အဆင်ပြေသော ပွဲများ ရှိသည်။
+#5/5
 
 6195
 There are places that have strip tease shows.
-ကာတွန်းအုပ်စုနှင့်ပတ်သက်တဲ့ ဟာသ ရှိုးပွဲများ ရှိတဲ့ နေရာများလည်း ရှိပါတယ်။
+ကိုယ်လုံးပေါ်အဝတ်ချွတ် ကပြသော ရှိုးပွဲများ ရှိတဲ့ နေရာများလည်း ရှိပါတယ်။
+#4/5
 
 6196
 There are places to that have adult performances.
 အရွယ်ရောက်ပြီးသူများအတွက် ဖျော်ဖြေရေးပွဲများရှိတဲ့ နေရာတွေလည်း ရှိတယ်။
+#4/5
+#Incorrect English sentence structure.
 
 6197
 Acropolis was the center and heart of ancient Athens.
-အခရောပိုးလစ်သည် ရှေးခေတ် အေသင်မြို့၏ ဗဟိုချက် ဖြစ်ခဲ့သည်။
+Acropolis သည် ရှေးခေတ် အေသင်မြို့၏ ဗဟိုချက် ဖြစ်ခဲ့သည်။
+#4/5
 
 6198
 The Acropolis was the most important building in all of Ancient Greeek culture.
-အခရောပိုးလစ်သည် ရှေးခေတ် ဂရိ ယဉ်ကျေးမှု အားလုံးတွင် အရေးအကြီးဆုံး အဆောက်အဦ ဖြစ်ခဲ့သည်။
+Acropolis သည် ရှေးခေတ် ဂရိ ယဉ်ကျေးမှု အားလုံးတွင် အရေးအကြီးဆုံး အဆောက်အဦး ဖြစ်ခဲ့သည်။
+#5/5
 
 6199
 The Parthenon was the heart and center of ancient Athens located at the bottom of a hill.
-ပါသီနွန်သည် တောင်ကုန်း တစ်ခု ၏ အောက်ခြေတွင် တည်ရှိသော ရှေးဟောင်း အေသင်မြို့ ၏ ဗဟိုချက် ဖြစ်ခဲ့သည်။
+Parthenon သည် တောင်ကုန်း တစ်ခု ၏ အောက်ခြေတွင် တည်ရှိသော ရှေးဟောင်း အေသင်မြို့ ၏ ဗဟိုချက် ဖြစ်ခဲ့သည်။
+#5/5
 
 6200
 The men next to Jesus were bad people.
 သခင်ယေရှု ဘေးနားရှိ ယောက်ျားများသည် မကောင်းသော လူများ ဖြစ်ခဲ့ကြသည်။
+#4/5

@@ -220,11 +220,13 @@ None of the houses, on the market currently, are appealing.
 
 9135
 There is much current appeal with these.
-ဒါတွေနဲ့အတူ လက်ရှိမှာ ဆွဲဆောင်မှုတွေ အများကြီးရှိတယ်။
+ဒါတွေက လက်ရှိမှာ ဆွဲဆောင်မှုတွေ အများကြီးရှိတယ်။
+#5/5
 
 9136
 There isn't any appeal with these currently.
 လက်ရှိမှာ ဒါတွေက ဘာဆွဲဆောင်မှု မှ မရှိဘူး။
+#5/5
 
 9137
 Naomi Wolf had an answer.
@@ -363,12 +365,13 @@ Your actions are outright illegal.
 
 9164
 Most people see this personal process, which is mirrored in today's culture, as decay rather than maturity.
-လူအများစုက ယနေ့ခေတ်ယဉ်ကျေးမှုမှာ ထင်ဟပ်နေသည့် ၊ ဒီ personal process ကို ရင့်ကျက်မှုထက် ပျက်စီးယိုယွင်းမှုအဖြစ် မြင်ကြသည်။
+လူအများစုက ယနေ့ခေတ်ယဉ်ကျေးမှုမှာ ထင်ဟပ်နေသည့် ၊ ဒီ ဒီပုဂ္ဂိုလ်ရေး လုပ်ငန်းစဉ် ကို ရင့်ကျက်မှုထက် ပျက်စီးယိုယွင်းမှုအဖြစ် မြင်ကြသည်။
 #4/5
 
 9165
 Nothing that's happening in the culture today supports this personal process, whatever you choose to call it.
-ဒါကို ခေါ်ဖို့ မင်း ရွေးချယ်တာ ဘာဘဲဖြစ်ဖြစ် ဒီပုဂ္ဂိုလ်ရေးလုပ်ငန်းစဉ်ကို ဒီနေ့ ယဉ်ကျေးမှုမှာ ဖြစ်ပျက်နေတာတွေက ဘာမှ မထောက်ခံဘူး။
+ဒီပုဂ္ဂိုလ်ရေးလုပ်ငန်းစဉ်ကို မင်း ဘယ်လိုဘဲခေါ်‌ခေါ် ဒီနေ့ ယဉ်ကျေးမှုမှာ ဖြစ်ပျက်နေတာတွေက မထောက်ခံဘူး။
+#4/5
 
 9166
 Whether you choose to see this process as personal maturity or personal decay, what's going on in the culture seems to reinforce it.
@@ -392,17 +395,17 @@ You are listed under Actress.
 
 9170
 Newsweek has never written anything about the Hamptons.
-နယူးစ်ဝိခ် သည်  Hamptons အကြောင်း ဘာမှ မရေးခဲ့ဖူးပါ။
+Newsweek သည်  Hamptons အကြောင်း ဘာမှ မရေးခဲ့ဖူးပါ။
 #4/5
 
 9171
 Newsweek published a story about the Hamptons.
-နယူးစ်ဝိခ် သည် Hamptons အကြောင်း ဇာတ်လမ်း တစ်ပုဒ်ကို ထုတ်ဝေခဲ့သည်။
+Newsweek သည် Hamptons အကြောင်း ဇာတ်လမ်း တစ်ပုဒ်ကို ထုတ်ဝေခဲ့သည်။
 #4/5
 
 9172
 Newsweek writes a daily report about the Hamptons.
-နယူးစ်ဝိခ် သည် Hamptons အကြောင်းနေ့စဉ်အစီရင်ခံစာတစ်စောင်ရေးသည်။
+Newsweek သည် Hamptons အကြောင်းနေ့စဉ်အစီရင်ခံစာတစ်စောင်ရေးသည်။
 #4/5
 
 9173

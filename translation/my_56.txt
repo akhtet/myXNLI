@@ -50,15 +50,13 @@
 
 5501
 The museum does not like being labelled.
-ပြတိုက်မှ ၄င်းတို့ အမည်တံဆိပ်တပ်ခံရခြင်းကို မကြိုက်ပေ။
+ပြတိုက်သည် ၄င်းတို့ အမည်တံဆိပ်တပ်ခံရခြင်းကို မကြိုက်ပေ။
 #4/5
-#REVIEW
 
 5502
 The museum is not a fan of brochures.
 ပြတိုက်သည် လမ်းကမ်းစာဆောင်တွေကို မကြိုက်ပါဘူး။
 # 4/5
-#REVIEW
 
 5503
 The strong point of the museum is the catalogues.
@@ -112,18 +110,17 @@ The strict laws in Beijing prohibit open-air markets within the city limits.
 
 5513
 New Brunswick became a province because it had enough people.
-နယူးဘန်းစ်ဝှစ်က်သည် လုံလောက်သော လူဦးရေ ရှိခဲ့သောကြောင့် ပြည်နယ် တစ်ခု ဖြစ်လာခဲ့သည်။
+New Brunswick သည် လုံလောက်သော လူဦးရေ ရှိခဲ့သောကြောင့် ပြည်နယ် တစ်ခု ဖြစ်လာခဲ့သည်။
 #4/5
-#REVIEW
 
 5514
 New Brunswick was a province in 1784.
-နယူးဘန်းစ်ဝှစ်က်သည် ၁၇၈၄ တွင် ပြည်နယ် တစ်ခု ဖြစ်ခဲ့သည်။
+New Brunswick သည် ၁၇၈၄ တွင် ပြည်နယ် တစ်ခု ဖြစ်ခဲ့သည်။
 #5/5
 
 5515
 New Brunswick was not a province in 1784.
-နယူးဘန်းစ်ဝှစ်က်သည် ၁၇၈၄ တွင် ပြည်နယ် တစ်ခု မဟုတ်ခဲ့ပါ။
+New Brunswick သည် ၁၇၈၄ တွင် ပြည်နယ် တစ်ခု မဟုတ်ခဲ့ပါ။
 #5/5
 
 5516
@@ -163,7 +160,7 @@ In the fall and summer, the San Francisco Ballet is on break.
 
 5523
 The NYC Ballet has performances in June.
-နယူယော့ခ်စီးတီး ဘဲလေးကဇာတ် သည် ဇွန်လ တွင် ဖျော်ဖြေပွဲများ ရှိသည်။
+NYC ဘဲလေးကဇာတ် သည် ဇွန်လ တွင် ဖျော်ဖြေပွဲများ ရှိသည်။
 #5/5
 
 5524
@@ -238,12 +235,12 @@ Althrough the pineapples tasted great the shipping costs were too high to bring 
 
 5538
 The Bahamian citrus was just a huge success, just as everyone had predicted.
-ဘဟေးမီးယား ရှောက်အမျိုးအစားအသီးသည် လူတိုင်း ကြိုတင်ခန့်မှန်းထား သည့်အတိုင်း ၊ ကြီးမားသော အောင်မြင်မှု တစ်ခုဖြစ်ခဲ့သည်။
+Bahamian ရှောက်အမျိုးအစားအသီးသည် လူတိုင်း ကြိုတင်ခန့်မှန်းထား သည့်အတိုင်း ၊ ကြီးမားသော အောင်မြင်မှု တစ်ခုဖြစ်ခဲ့သည်။
 #5/5
 
 5539
 The Bahamian citrus was not as great as everyone had hoped.
-ဘဟေးမီးယား ရှောက်အမျိုးအစားအသီးသည် လူတိုင်း မျှော်လင့်ထားသလောက် မကောင်းမွန်ပါ။
+Bahamian ရှောက်အမျိုးအစားအသီးသည် လူတိုင်း မျှော်လင့်ထားသလောက် မကောင်းမွန်ပါ။
 #5/5
 
 5540
@@ -285,7 +282,6 @@ All of these trails are located within the a one hour drive of each other.
 Glasgow Lakes trail is considered to be one of the worst trails.
 ဂလပ်စဂိုး ရေကန် လမ်းကို အဆိုးဆုံး တောင်တက် လမ်းများ ထဲမှ တစ်ခု ဟု သတ်မှတ်သည်။
 #5/5
-
 
 5548
 The John Deer Lake trail is one of the better hiking trails.
@@ -349,7 +345,7 @@ The Jews are not wanted by the rest of the community.
 
 5560
 The Jews assimilated easier with the Anglo community.
-ဂျူးများသည် အန်ဂလို အသိုင်းအဝိုင်းနှင့် ပိုမိုလွယ်ကူစွာ ရောနှောခဲ့သည်။
+ဂျူးများသည် Anglo အသိုင်းအဝိုင်းနှင့် ပိုမိုလွယ်ကူစွာ ရောနှောခဲ့သည်။
 #5/5
 
 5561
@@ -429,17 +425,17 @@ You do not have to worry about language issues there, since everyone speaks Engl
 
 5576
 Napoleon spared the monastery at Montserrat because he respected sacred shrines.
-နပိုလီယံက သူသည် အထွတ်အမြတ်ထားရာ ဘုရားကျောင်းများကို လေးစားသောကြောင့် မောင့်ဆဲရတ် ရှိ ဘုန်းကြီးကျောင်းကို ချန်လှပ်ခဲ့သည်။
+နပိုလီယံက သူသည် အထွတ်အမြတ်ထားရာ ဘုရားကျောင်းများကို လေးစားသောကြောင့် Montserrat ရှိ ဘုန်းကြီးကျောင်းကို ချန်လှပ်ခဲ့သည်။
 #5/5
 
 5577
 Napoleon was responsible for the destruction of the monastery at Montserrat.
-နပိုလီယံသည် မောင့်ဆဲရတ်ရှိ ဘုန်းတော်ကြီးကျောင်း ဖျက်ဆီးခံရမှုအတွက် တာဝန်ရှိခဲ့သည်။
+နပိုလီယံသည် Montserrat ရှိ ဘုန်းတော်ကြီးကျောင်း ဖျက်ဆီးခံရမှုအတွက် တာဝန်ရှိခဲ့သည်။
 #5/5
 
 5578
 The monastery at Montserrat was built using stone and mortar.
-မောင့်ဆဲရတ် ရှိ ဘုန်းကြီးကျောင်းကို ကျောက်တုံးနဲ့ အင်္ဂတေတွေသုံးပြီး တည်ဆောက်ခဲ့တာပါ။
+Montserrat ရှိ ဘုန်းကြီးကျောင်းကို ကျောက်တုံးနဲ့ အင်္ဂတေတွေသုံးပြီး တည်ဆောက်ခဲ့တာပါ။
 #5/5
 
 5579
@@ -474,17 +470,17 @@ The prince's garden is home to the building called the Sailor's House.
 
 5585
 Milreu was 10 miles from anything.
-မေးလ်ရု သည် မည်သည့်အရာမှမဆို ၁၀ မိုင် ကွာဝေးခဲ့သည်။
+Milreu သည် မည်သည့်အရာမှမဆို ၁၀ မိုင် ကွာဝေးခဲ့သည်။
 #5/5
 
 5586
 Milreu was out in the country.
-မေးလ်ရု သည် မြို့ အပြင်တွင် ရှိခဲ့သည်။
+Milreu သည် မြို့ အပြင်တွင် ရှိခဲ့သည်။
 #5/5
 
 5587
 Milreu was right in the heart of the city.
-မေးလ်ရု သည် မြို့၏ ဗဟိုချက်တွင် ရှိခဲ့သည်။
+Milreu သည် မြို့၏ ဗဟိုချက်တွင် ရှိခဲ့သည်။
 #5/5
 
 5588

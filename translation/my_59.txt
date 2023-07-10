@@ -155,8 +155,8 @@ There is nothing decorative there.
 
 5822
 The painting aspires to turn the church into a Gothic cathedral.
-အဆိုပါ ပန်းချီကားသည် ဘုရားကျောင်းကို ဂေါ့သစ် ဘုရားရှိခိုးကျောင်းအဖြစ် ပြောင်းလဲရန် ဆန္ဒပြင်းပြသည်။
-#review
+အဆိုပါ ပန်းချီကားသည် ဘုရားကျောင်းကို ဂေါ့သစ် ဘုရားရှိခိုးကျောင်းအဖြစ် ပြောင်းလဲရန် တွန်းအားတစ်ခုသည်။
+5/5
 
 5823
 The painting was created by an artist who was drunk at the time.
@@ -165,8 +165,8 @@ The painting was created by an artist who was drunk at the time.
 
 5824
 The painting would turn the church into a harem.
-ပန်းချီကားက ဘုရားကျောင်းကို ဟာရမ် တစ်ခု အဖြစ် ပြောင်းလဲစေတယ်။
-#review
+ပန်းချီကားက ဘုရားကျောင်းကို ဟာရမ် တစ်ခု အဖြစ် ပြောင်းလဲသွားစေနိုင်တယ်။
+5/5
 
 5825
 The a5 coin is incredibly rare.
@@ -210,8 +210,8 @@ The acoustics are just a mess in that place.
 
 5833
 The acoustics make things loud.
-ဒီ အသံထွက်သည် အရာဝတ္တုတွေကို ကျယ်လောင်စေသည်။
-#review
+ဒီ အသံပြန်ဟတ်မှုသည် မည်သည့်အသံထွက်မှုမျိုးကိုမဆို ကျယ်လောင်စေသည်။
+5/5
 
 5834
 The instruments are violin, bass, and saxophone.
@@ -516,7 +516,7 @@ Pierreကို ဘယ်တုန်းကမှ ဖမ်းမမိခဲ့
 5894
 The shops all serve some of the best food in the city.
 ဆိုင်များ အားလုံးသည် မြို့၏ အကောင်းဆုံး အစားအစာ အချို့ကို တည့်ခင်းဧည့်ခံပါသည်။
-၅/၅
+5/5
 
 5895
 The shops in the nearby streets are interesting.
