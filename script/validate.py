@@ -1,7 +1,7 @@
 
 import csv, sys, re, yaml
 
-def analyze_file(file_path, trans_dict={}):
+def analyze_file(file_path, trans_dict={}, print_linenum=False):
     """
     Finds issues with a single translation file:
     - Missed sequences
@@ -72,6 +72,7 @@ def analyze_file(file_path, trans_dict={}):
         for line in infile.readlines():
             line_num += 1
             line = line.strip()
+            print (line_num) if print_linenum else None
             
             if state == 0:  # Ready for sequence number
                 if is_seq_num(line):     # Found the beginning of next block
@@ -204,5 +205,5 @@ if __name__ == '__main__':
 
     if len(sys.argv) > 1:
         for fpath in sys.argv[1:]:
-            blocks, orphans, _ = analyze_file(fpath)
+            blocks, orphans, _ = analyze_file(fpath, print_linenum=True)
             summarize_errors(blocks, orphans)
