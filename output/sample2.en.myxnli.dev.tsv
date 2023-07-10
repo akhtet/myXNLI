@@ -1,0 +1,101 @@
+seq	label	sentence1	sentence2	new_label	comments	
+7	contradiction	He didn't get to go.	He was the first to be invited and enjoyed the experience.	
+12	neutral	And I was like OK, and that was it!	When I said yes, we decided that we would get married that day.	
+13	contradiction	I was just there just trying to figure it out.	I understood it well from the beginning.	
+77	neutral	I think that's why I remember that.	That's probably the reason I remembered his name.	
+115	entailment	He didn't say a time again, so he just got me over there stressing out, and I really don't even know when it's needed.	I was worried because I didn't know what time.	
+141	contradiction	Um, and so they just left town, and she, she never did see her sister again, never saw her sister again.	She saw her sister every day.	
+152	neutral	And then I heard him leave, so I'm still finishing what I had to do.	I'm doing the important jobs that I was assigned this morning.	
+253	entailment	yeah i have a credit union	I do have a credit union I go to.	
+261	entailment	and that what i think is gonna be really interesting is what we do about it i mean we are gonna have to change the people who represent us	We have to make changes to those that represent us.	
+313	neutral	exactly and i was very flattered until she told me she the company she was with	I do not like the company she is with.	
+356	neutral	but i know that in some i know in a lot of rural areas they're not that good	They are really good in urban areas.	
+368	entailment	uh-huh it's funny and um i i guess i just like funny shows mostly	I like watching funny shows.	
+439	contradiction	okay and do they have good lasagna	The lasagna is the worst thing I've tried!	
+455	entailment	expensive you can get a lot of money in that kind of stuff especially the good stuff	You can get paid a lot for that.	
+553	neutral	Indeed, part of what we need is a way of characterizing the organization of real processes in the nonequilibrium world.	We need labels so we can see where the organization is doing well.	
+569	entailment	We have beginning mathematical models that reveal something about this hierarchical organizationa=aalthough the best current models are curiously limited despite their brilliance.	The current models are brilliant but limited.	
+575	entailment	The biosphere has expanded, indeed, more or less persistently exploded, into the ever-expanding adjacent possible.	The biosphere grew.	
+601	contradiction	The southwestern region with the most researched and documented wedding customs is New Mexico, because the descendents of the early Hispanos have been conscious of describing and writing down their traditions.	No records remain of the traditions of the early Hispanos.	
+712	contradiction	Several Tejano folk heroes, such as Gregorio Cortez, Juan Cortina, and Catarino Garza became memorialized because of their confrontations with the Texas Rangers.	Catarino Garza was a well known Texas Ranger.	
+713	entailment	Several Tejano folk heroes, such as Gregorio Cortez, Juan Cortina, and Catarino Garza became memorialized because of their confrontations with the Texas Rangers.	Gregorio Cortez is one of the folk heroes that confronted the Texas Rangers.	
+755	contradiction	Pitt, who watched the scene from the quarter-deck rail, tells us that his lordship was as grave as a parson at a hanging.	Pitt swore that he did not get a glimpse of the scene.	
+791	entailment	I have sent for you, Captain Blood, because of certain news that has just reached me.	I received some news before sending for you, Captain Blood.	
+805	entailment	A murderer--I?  he said at last.	After a pause he said a murderer, I.	
+806	neutral	A murderer--I?  he said at last.	He hadn't murdered anyone.	
+837	contradiction	It is an honourable service.	It isn't an honorable service at all, it's very embarrassing!	
+907	contradiction	But Wolverstone would not stop.	The Wolverstone completely haulted.	
+948	entailment	Then let them know that if they attempt to hinder our sailing hence, we'll hang the doxy first and fight for it after.	We will attempt to battle over it, once we begin to sail.	
+958	contradiction	That girl, there.  He flung out a bare arm to point to her.	He didn't have any arms so he asked someone else to point to the girl.	
+972	neutral	About him in the waist, where all last night had been so peaceful, there was a frenziedly active bustle of some threescore men.	This evening was busier than usual because of an event being hosted.	
+991	contradiction	He stopped short at sight of Captain Blood, and saluted him, as was his due, but the smile that lifted the officer's stiff mostachios was grimly sardonic.	Captain Blood was nowhere to be found.	
+993	entailment	He stopped short at sight of Captain Blood, and saluted him, as was his due, but the smile that lifted the officer's stiff mostachios was grimly sardonic.	The officer had a mustache.	
+1017	contradiction	There the scene is less relaxed and the language problem might daunt you, but at least you'll be able to catch a glimpse of Chinese consumer society.	You do not have to worry about language issues there, since everyone speaks English.	
+1018	contradiction	Elsewhere in the prince's garden, in a modern building called the Sailor's House (Casa de Marinos), you can find out what became of the quaint  Tagus squadron  of the royal fleet.	The Sailor's House is an ancient building found in the prince's garden.	
+1024	contradiction	The simplicity of Sant Pau's Romanesque lines is an agreeable change from the extravagance of Barcelona's modernisme and the intricacies of Gothic architecture.	Sant Pau does not have Romanesque lines.	
+1050	entailment	Umeda marks the northern end of the business and entertainment district popularly known as Kita (meaning simply  North ), and is the very essence of modern Osaka's hustle and bustle.	Umeda is the north end of the entertainment district.	
+1051	contradiction	Cete de Charlevoix is part of the Laurentian heights, reaching to the Saguenay River where the coureurs de bois turned off in search of furs.	The Saguenay River was part of the coal market.	
+1102	neutral	The acoustics inside the tomb are very precise, exaggerating the sound of your approaching fellow visitors.	The acoustics are great for singing.	
+1206	neutral	Cynicism dissolves with your first taste of the town's gentle ambience, created by a clever combination of the comforts of sophisticated modernity with the simpler joys of the wilderness at its back door.	The town is so pleasant I never want to leave.	
+1215	contradiction	Beside the cruise port is Flag Hill, rising 700 ft (214 m) above sea level.	Flag Hill is below sea level.	
+1220	neutral	Another important defeat took place at Rocroi, in Flanders, in 1643, when Spanish troops, never to regain their former glory, were routed by the French.	Rocroi saw 1000 Spanish troops killed.	
+1233	contradiction	Back in town, a waterfront stroll takes you through Chinatown on Jalan Bandar.	Chinatown is very far from the water.	
+1242	entailment	Without doubt, the initial lure of the city is its numerous historic buildings.	There are many historical buildings that are interesting.	
+1256	contradiction	Executives could also receive a rating of provisional or fail for each element.	Executives can't fail.	
+1297	entailment	Some facility owners have been innovative in their construction plans to minimize down time.	Downtime can be reduced by using innovative construction plans.	
+1314	contradiction	29 Therefore, 21 months should be a reasonable, and in some cases a conservative estimate of the total time necessary to retrofit a single utility boiler.	Retrofitting a boiler can be done in just a few days.	
+1339	neutral	This is a large challenge and a large expectation for any one system of intervention.	Every kind of intervention has challenges, but some have much more than others.	
+1340	contradiction	This is a large challenge and a large expectation for any one system of intervention.	Most interventions are perfect.	
+1341	entailment	This is a large challenge and a large expectation for any one system of intervention.	One kind of intervention has a big challenge, no matter what.	
+1382	contradiction	Significant differences were noted, however, as	There was absolutely no detectable difference.	
+1394	entailment	As the state contracts out more of its information technology and management functions, it is also essential that it have good contract management expertise.	It is important to manage contracts well when signing more contracts.	
+1401	neutral	Following public comment, the Title V operating permit is not made final until compliance testing on the control device is completed.	Title V is a very important document.	
+1417	neutral	For clients who are illiterate in any language, materials would have to be carefully explained to them.	Illiterate people are very common and we need a plan to deal with them.	
+1431	entailment	We need these additional resources to continue our efforts to further strengthen GAO and be a model organization for the rest of the federal government and accountability organizations around the world.	We want to make GAO stronger.	
+1478	contradiction	If households' existing assets lose value, people have to save more to attain their wealth-income target.	If households assets lose value people will have to save less.	
+1494	entailment	For example, gains on existing assets reduce the amount of an employer's contribution necessary to fund its pension liability.	It is possible for existing assets to accumulate gains.	
+1557	contradiction	We ask every nation to join us.	We will do this alone!	
+1595	neutral	The CTC analyst who drafted the briefing drew on reports over the previous four years.	The analyst had been working for the CTC for a decade.	
+1602	neutral	Mihdhar gave his intended address as the Marriott Hotel, New York City, but instead spent one night at another New York hotel.	Mihdhar had meant to stay at the Marriott originally, but a last-minute fling led him to stay with a lover.	
+1615	neutral	The United States was not a primary source of al Qaeda funding, although some funds raised in the United States may have made their way to al Qaeda or its affiliated groups.	Britain also gave money to al Qaeda.	
+1651	entailment	He also ordered Secretary Rumsfeld to develop a military plan against the Taliban.	A military plan against the Taliban was needed.	
+1668	contradiction	Some of the most controversial provisions of the Patriot Act are to sunset at the end of 2005.	The entire Patriot Act will remain in force until at least 2010.	
+1685	entailment	We will recap it briefly here.	This summary will not take much time.	
+1731	contradiction	One Treasury official described CIA's posture as benign neglect toward the Foreign Terrorist Asset Tracking Center (FTATC), and characterized the CIA as believing that financial tracking had limited utility.	The CIA relied on financial tracking as it's primary counter terrorism tool.	
+1791	entailment	We will try to contact each of you who have not participated this fiscal year in the next 45 days so that our goal can be reached by the deadline of June 30th.	We will try to contact those who have not donated this fiscal year in the next 45 days.	
+1803	entailment	Your investment continues the high quality of all aspects of the Museum and makes new achievements possible.	The Museum is impacted by investments.	
+1828	contradiction	What began as a touring group of actors in 1973 that played to students in cities like Gary , Elkhart and Terre Haute, the IRT education program today now	No actors were in Indiana in the 70's.	
+1840	contradiction	I've got more than a job	I don't have a job or any hobby.	
+1850	entailment	Specifically, you will be joining a group of distinguished foundation executives, business leaders, scholars, development professionals and volunteers in the nonprofit sector ...	The group is full of important people.	
+1878	neutral	The deep blue rug is emblazoned with a full-color Presidential Seal encircled by fifty white stars.	The rug is six feet in diameter.	
+1921	entailment	By May 1, we must conclude membership renewal options for 1991 contributors.	Some members can renew their memberships.	
+1922	neutral	By May 1, we must conclude membership renewal options for 1991 contributors.	There is space for 1500 members to renew their memberships.	
+1957	entailment	If you have questions or suggestions, please call either myself (924-5471) or Bob Lovell (274-0622) today.	Bob Lovell can answer questions.	
+1974	neutral	The wonderful connections formed each day are made possible through the support of Society operations.	The Society helps people find people who are also interested in the arts.	
+1990	contradiction	Also, you have the satisfaction of knowing that your colleagues are being urged to emulate your good judgment.	Everyone is being discouraged from emulating your terrible judgment.	
+2007	entailment	Time 's cover story is Bill Gates' 12-step program for succeeding in the digital age.	Time magazine is running a story about Bill Gates and success in the digital age.	
+2029	contradiction	Which is more than the News Quiz can promise about Fox.	It's less than News Quiz can promise about Fox.	
+2044	contradiction	The First Wives Club, a revenge-comedy about three abandoned wives, grossed more on its first weekend than any other women's film in history.	First Wives Club is a happily-ever-after, romance movie about the enduring love of marrying your first boyfriend.	
+2049	neutral	Why doesn't this apply on the Web?	This may apply in some cases on the Web.	
+2068	contradiction	Pundits often say history is written by the winners.	Pundits say losers write history.	
+2080	neutral	One way to find the answer is to begin with a different  How much was Ames' information worth to the Soviets?	Ames was arrested for selling classified information to the Soviets.	
+2090	contradiction	This kind of treatment for big contributors is quite routine.	Everyone contributes the same amount, in order to prevent special treatment.	
+2117	neutral	The trip was worth it, at least in terms of understanding what motivates Republic of Texas believers.	The trip to Texas was fun getting to learn about Christian's beliefs and motivations.	
+2118	contradiction	The trip was worth it, at least in terms of understanding what motivates Republic of Texas believers.	The trip was a complete waste of time, the misunderstanding is even greater now.	
+2159	entailment	This man was born in Germany, is wealthy, educated, well-traveled...	The rich, schooled, traveled man was born in Germany.	
+2207	neutral	There is no need to apologize for our leadership role.	We have earned the respect and the right to be proud leaders on this subject.	
+2233	neutral	More  Capitalizing on frayed relations between British Telecom and MCI, WorldCom outbid BT by offering $30 billion for MCI.	BT offered 20 billion for MCT.	
+2242	entailment	Alternative should not be used in place of alternate.	It is not proper to use alternative to mean alternate.	
+2250	contradiction	On the shingle at the back of the zawn lay a crumpled black car and a bright pink fishing buoy, small as toys against the boulders.	The enormous size of the car made the boulder look like a small stone.	
+2260	entailment	Given time and improved technology, all non-radio phones may be branded as wire phones .	Non radio phones will all end up as wire phones.	
+2261	neutral	Given time and improved technology, all non-radio phones may be branded as wire phones .	Phones will improve with technology.	
+2270	contradiction	Linguists have demonstrated that the first lingua france (called Mediterranean Lingua Franca by many linguists) was actually spoken before the first Crusade began in A.D. 1096.	The first Lingua France was spoken in France after the first crusade had ended.	
+2311	contradiction	But they have one private, hidden name which remains a family secret.	A member of the family published a book and revealed all of the family secrets.	
+2314	neutral	The King James Bible, which contains many such archaisms, has preserved them for modern English; wherefore more commonly appears in the tautology whys and wherefores .	It is not easy to read the King James Bible, given its many archaisms.	
+2316	entailment	The King James Bible, which contains many such archaisms, has preserved them for modern English; wherefore more commonly appears in the tautology whys and wherefores .	The King James Bible has many old words and phrases.	
+2319	neutral	But such acknowledgments do not qualify as dedications in the sense generally understood and in the book at hand in particular.	The acknowledgements are not useful.	
+2324	contradiction	Make my coat look new, dear, sew it!	My coat is in perfect condition, I will not need you to touch it.	
+2325	neutral	Make my coat look new, dear, sew it!	There are several loose stitches on the lapel of my coat.	
+2355	contradiction	As we all know, there is an enormous number of publications dealing with highly specialized areas.	There are only 2 journals.	
+2356	neutral	What are you doing becomes  Watch a dune.	They change the phrases to confuse people.	
+2416	neutral	The stadium itself, and the kind of activity that took place there, were called agon , a Greek word which originally meant simply `competition,' but which has given us our word `agony.	The Greek word for competition has come to mean pain in English because of the agony that took place during the competitions.	
