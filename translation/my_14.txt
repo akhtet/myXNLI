@@ -83,7 +83,6 @@ The estimates derived from the long-term exposure studies, which account for a m
 ခန့်မှန်းချက်များဆိုသည်မှာ အခြေခံကျသော ခန့်မှန်းချက်များရှိ အကျိုးအမြတ်များ၏ အဓိက ခွဲဝေနိုင်မှုတစ်ခု အတွက် ယူဆချက်ဖြစ်သော ၊ ရေရှည်ထိတွေ့လေ့လာမှုများမှ ရရှိခြင်းဖြစ်သည်။
 #5/5
 
-
 1318
 Efficacy trials are the first step, but implementation of proven alcohol screening and brief intervention systems in hospital- and community-based settings has been the most difficult part of the process.
 ထိရောက်သော စမ်းသပ်မှုများသည် ပထမ အဆင့် ဖြစ် သော်လည်း ၊ ဆေးရုံ နှင့် ရပ်ရွာ အခြေပြု အကောင်အထည်ဖော်ဆောင်ခြင်းများတွင် အရက်သောက်သုံးခြင်းအား သက်သေခံ စစ်ဆေးခြင်း နှင့် အတိုချုပ်ဖြစ်သော ကြားဖြတ် စနစ်များကို အကောင်အထည်ဖော်ခြင်းသည် လုပ်ငန်းစဉ်၏  အခက်ခဲဆုံးအပိုင်းဖြစ်သည်။
@@ -325,7 +324,7 @@ The use of new technologies for individualizing brief intervention materials and
 #4/5
 
 1366
-The time from placing the order from placing the order to completion of commissioning activitiesis 46 weeks for both units.
+The time from placing the order to completion of commissioning activities is 46 weeks for both units.
 ခန့်အပ်ခြင်း လုပ်ငန်းများ ပြီးမြောက်ရန် အမိန့်ထုတ်ခြင်းသည် ဌာန နှစ်ခုလုံးအတွက် အချိန် ၄၆ ပတ် ဖြစ်ပါတယ် 
 #4/5
 
@@ -340,8 +339,8 @@ They stressed that constant vigilance was needed to ensure that controls remaine
 #4/5
 
 1369
-The United States Bureau of the CensGentilellous has grouped the 1990 Census of Population and Housing data using 5-Digit ZIP Codes.
-CensGentilellous ရဲ့ အမေရိကန် ဗျူရို ဟာ ဂဏန်း ၅ လုံး စာတိုက်ကုဒ်များကို အသုံးပြုပြီး ၁၉၉၀ ခုနှစ် သန်းခေါင်စာရင်းရဲ့ လူဦးရေ နှင့် အိမ်ထောင်စုအကြောင်းအရာ အချက်အလက်ကို အုပ်စုဖွဲ့ထားတယ်။
+The United States Bureau of the Census has grouped the 1990 Census of Population and Housing data using 5-Digit ZIP Codes.
+အမေရိကန် Census ဗျူရို ဟာ ဂဏန်း ၅ လုံး စာတိုက်ကုဒ်များကို အသုံးပြုပြီး ၁၉၉၀ ခုနှစ် သန်းခေါင်စာရင်းရဲ့ လူဦးရေ နှင့် အိမ်ထောင်စုအကြောင်းအရာ အချက်အလက်ကို အုပ်စုဖွဲ့ထားတယ်။
 #4/5
 
 1370

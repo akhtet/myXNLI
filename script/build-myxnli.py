@@ -2,7 +2,9 @@
 Run this script from the main directory.
 """
 
-import csv, sys, os, re, yaml
+import csv, sys, os, re
+
+from validate import analyze_file
 
 dev_file = 'xnli-original/xnli.dev.tsv'
 test_file = 'xnli-original/xnli.test.tsv'
@@ -37,225 +39,20 @@ def build_dict():
             continue
 
         print ('Processing', fname)   
-        state = 0
-        counter = 0
 
-        with open(os.path.join(trans_dir, fname), encoding='utf-8') as infile:            
-            for line in infile.readlines():
-                counter += 1
-                line = line.strip()
-                if line.startswith('#'):
-                    state = 0
-                    if fname in debug_list: print (counter, state, line) 
-                    
-                elif re.match('[0-9]+$', line):     # Found the beginning of next block
-                    state = 1
-                    if fname in debug_list: print (counter, state, line)
-
-                elif state == 1:                # Get English Source Sentence
-                    en_source = line
-                    state = 2
-                    if fname in debug_list: print (counter, state, line)
-
-                elif state == 2:                # Get Burmese Source Sentence
-                    if line != '<MYANMAR UNICODE TRANSLATION HERE>':
+        blocks, orphans, ratings = analyze_file(os.path.join(trans_dir, fname))
+        for block_id in blocks:
+            block = blocks[block_id]
+            my_dict[block['source']] = block['target']                               
+                       
+            # if en_source in my_dict:
+            #    print (fname, counter, state, line)
+            #    raise Exception
                         
-                        # if en_source in my_dict:
-                        #    print (fname, counter, state, line)
-                        #    raise Exception
-                        
-                        my_dict[en_source] = line
-                        file_stats[fname] = file_stats.get(fname, 0) + 1
-                    else:
-                        raise Exception
-                    state = 3
-                    if fname in debug_list:  print (counter, state)
-
-                else:
-                    state = 0
-                    if fname in debug_list:  print (counter, state) 
-#        break
+        file_stats[fname] = len(blocks)
     
     print ('%d entries loaded to the dictionary' % len(my_dict.keys()))
     return my_dict, file_stats
-
-
-def load_keywords():
-    keywords = {}
-    with open(keyword_file, encoding='utf-8') as infile:
-        reader = csv.reader(infile)
-        keywords = {rows[0].lower():rows[1] for rows in reader} # TODO: allow multiple values
-    return keywords
-
-
-def analyze_file(fname):
-    """
-    Finds issues with the translation file:
-    - Missed sequences
-    - Review Tags
-    - Spelling errors / Find and replace
-    - Tabs, doublequotes in lines
-
-    The output dict format is
-    file_name: string
-        sequence number: integer
-            source: string
-            target: string
-            review: boolean            
-            comments: list[string]
-            errors: list[string]
-    """
-
-    def is_seq_num(line):
-        return re.match('\d+$', line)
-
-    def is_comment(line):
-        return line.startswith('#')
-
-    def is_English(line):
-        maxchar = max(line)
-        return maxchar < u'\u1000'  
-        # NOTE: This only check for non-Burmese line, so not necessarily ASCII
-        # return re.match('[A-Za-z0-9]+', line.split()[0])
-
-    def is_Burmese(line):
-        maxchar = max(line)
-        return u'\u1000' <= maxchar <= u'\u200c' # u'\u109f'
-
-    def is_blank(line):
-        return len(line) == 0
-
-    def is_invalid(line):
-        for token in line.split():
-            if '"' in token:
-                return True
-            if '\t' in token:
-                return True
-        return False
-
-    def is_review(comments):
-        for line in comments:
-            if re.match('^#.*REVIEW.*$', line, re.IGNORECASE):
-                return True
-        return False
-
-    blocks = {}
-    orphans = {}
-
-    # TODO Option to receive external keyword list from googlesheets
-    keywords = load_keywords()
-
-    state = 0   # Init or blank line
-    line_num = 0
-
-    with open(os.path.join(trans_dir, fname), encoding='utf-8') as infile:
-        for line in infile.readlines():
-            line_num += 1
-            line = line.strip()
-            
-            if state == 0:
-                if is_seq_num(line):     # Found the beginning of next block
-           
-                    seq_num = int(line)
-                    blocks[seq_num] = {
-                        'source': '',
-                        'target': '',
-                        'review': True,
-                        'comments': [],
-                        'errors': []
-                    }                
-                    state = 1
-                else:
-                    orphans[line_num] = line
-
-            elif state == 1:              # Start new block
-                if is_English(line.strip()):
-                    blocks[seq_num]['source'] = line
-                else:
-                    blocks[seq_num]['errors'].append('Missing Source Sentence')
-                state = 2
-            
-            elif state == 2:
-                if is_Burmese(line.strip()):
-                    blocks[seq_num]['target'] = line
-                    if is_invalid(line):
-                        blocks[seq_num]['errors'].append('Invalid characters found in translation')
-
-                    # Check against existing dictionary entries for consistency
-                    
-                    for word in blocks[seq_num]['source'].lower().split():
-                        if word in keywords:
-                            if not keywords.get(word) in line:
-                                blocks[seq_num]['errors'].append('Inconsistent translation for "%s"' % (word))
-
-                elif line == '<MYANMAR UNICODE TRANSLATION HERE>':
-                    blocks[seq_num]['errors'].append('Missing Translation')                                   
-                else:
-                    blocks[seq_num]['errors'].append('Missing Target Sentence')
-
-                state = 3
-            else:
-                if is_comment(line):
-                    blocks[seq_num]['comments'].append(line)
-
-                elif is_blank(line):
-                    if len(blocks[seq_num]['errors']) == 0 and not is_review(blocks[seq_num]['comments']):
-                        blocks[seq_num]['review'] = False
-                    state = 0
-                else:
-                    orphans[line_num] = line
-        else:   # Check the last sentence in a file
-            if state == 3:
-                if len(blocks[seq_num]['errors']) == 0 and not is_review(blocks[seq_num]['comments']):
-                        blocks[seq_num]['review'] = False
-
-    return blocks, orphans
-
-
-def summarize_errors(blocks, orphans):
-
-    summary = {
-        'blocks' : 0,
-        'reviews' : 0,
-        'orphans' : []
-    }
-
-    errors = []     # This will become additional keys in summary
-
-    seqs = blocks.keys()
-
-    for b in range(min(seqs), max(seqs)+1):
-    
-        if not b in blocks:
-            print('Missing block:', b)
-            errors.append('Missing Block')
-            continue
-
-        summary['blocks'] += 1
-        display=False
-
-        if blocks[b]['review']:
-            summary['reviews'] += 1
-            display = True
-
-        if len(blocks[b]['errors']) > 0:
-            errors += blocks[b]['errors']
-            display = True
-
-        if display:
-            print(b)
-            #print(yaml.dump(blocks[b], encoding='utf-8'))
-            print(blocks[b])
-            print('')
-
-    for o in orphans:
-        summary['orphans'].append(o)
-
-    for e in errors:
-        summary[e] = 1 + summary.get(e, 0)
-
-    print('SUMMARY')
-    print(yaml.dump(summary))
 
 
 def write_source_sentences(my_dict):
@@ -278,7 +75,7 @@ def write_dataset(my_dict):
         with open(infn, encoding='utf-8') as infile:
 
             # Write the header
-            print ('Writing ', outfn)
+            print ('\nWriting ', outfn)
             outfile = open(outfn, 'wt', encoding='utf-8')
 
             if OUTPUT_FORMAT == 'BASIC':
@@ -288,10 +85,12 @@ def write_dataset(my_dict):
             else:
                 outfile.write(infile.readline())
 
+            linenum = 0
             no_translation = []
 
             for line in infile.readlines():
                 if line.startswith('en'):
+                    linenum += 1
                     cols = line.split('\t')
 
                     # Column 7 and 8 are the unparsed English sentences
@@ -342,25 +141,20 @@ def write_dataset(my_dict):
                     outfile.write('\t'.join(out_cols_clean) + '\n')
 
             outfile.close()
+            print(len(no_translation) , 'sentences not translated.')
             print ('\n'.join(set(no_translation)))
+
 
     # TODO: Add a new column to the parallel corpus
 
 
 if __name__ == '__main__':
 
-    if len(sys.argv) > 1:
-        # Analyze files only
-        for fname in sys.argv[1:]:
-            blocks, orphans = analyze_file(fname)
-            summarize_errors(blocks, orphans)   
-
-    else:
-        # Build output files
-        mydict, stats = build_dict()
-        print(stats)
-        write_dataset(mydict)
-        write_source_sentences(mydict)
+    # Build output files
+    mydict, stats = build_dict()
+    print(stats)
+    write_dataset(mydict)
+    write_source_sentences(mydict)
         
            
 

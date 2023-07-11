@@ -19,7 +19,7 @@ Sea temperatures are always at one fixed point all year-round.
 5/5
 
 5605
-Sea temperatures are higher during the day, when it is warmer.
+See temperatures are higher during the day, when it is warmer.
 ပင်လယ်ရေ အပူချိန်သည် ပိုပြီးနွေးတတ်သော နေ့ဖက်အခါတွင်  ပိုမြင့်သည်။
 5/5
 
@@ -334,7 +334,7 @@ You can swim with dolphins who can do crazy tricks.
 5/5
 
 5668
-You can swim with the dolphins at the resort.
+You can swim with the dophins at the resort.
 မင်း အပန်းဖြေစခန်းမှာ လင်းပိုင်တွေနဲ့ ရေကူးနိုင်ပါတယ်။
 5/5
 
