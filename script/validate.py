@@ -71,7 +71,7 @@ def analyze_file(file_path, trans_dict={}, print_linenum=False):
     with open(file_path, encoding='utf-8') as infile:
         for line in infile.readlines():
             line_num += 1
-            line = line.strip()
+            line = line.rstrip()
             print (line_num) if print_linenum else None
             
             if state == 0:  # Ready for sequence number

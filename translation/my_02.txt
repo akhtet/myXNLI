@@ -1,449 +1,506 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 101
 Everybody gets champagne and some people don't drink it so what's left the kids drink so we were going around drinking all this champagne.
 လူတိုင်းက ရှန်ပိန်တွေရပြီး တချို့လူတွေက မသောက်ကြဘူးဆိုတော့ ကျန်တာတွေကို ကလေးတွေက သောက်ကြတာဆိုတော့ ဒီရှန်ပိန်တွေကို ငါတို့ အကုန်သောက်ခဲ့တယ်။
+#5/5
 
 102
 There are many stories in the naked city.
 ကိုယ်လုံးတီး မြို့ကြီးထဲမှာ ဇာတ်လမ်းတွေ အများကြီးပါ။
+#4/5
 
 103
 You live and learn, you know, when you test, uh, aircraft.
 လေယာဥ်ကိုစမ်းရင်း အသက်ရှင်ရင်း သင်ယူရင်း သိတယ်မလား။
+#4/5
 
 104
 I mean that was the whole point.
 ငါဆိုလိုတာက ဒါက အဓိက ဘဲလေ။
+#5/5
 
 105
 It was from a airbase that flew over Cuba, and of course Rudolph Anderson was shot down.
-ကျူးဘားနိုင်ငံကို ဖြတ်ကျော်ပျံသန်းတဲ့ လေတပ်စခန်းကနေပြီးတော့ Rudolph Anderson ဟာ ပစ်ချခံခဲ့ရပါတယ်။
+Cuba နိုင်ငံကို ဖြတ်ကျော်ပျံသန်းတဲ့ လေတပ်စခန်းကနေပြီးတော့ Rudolph Anderson ဟာ ပစ်ချခံခဲ့ရပါတယ်။
+#5/5
 
 106
 He didn't say a time again, so he just got me over there stressing out, and I really don't even know when it's needed.
 သူက ဘယ်အချိန်လဲဆိုတာ မပြောခဲ့ပြန်ဘူး၊ ဒီတော့ ငါ့လဲ အဲဒီမှာ စိတ်ပူနေရပြီး ဒါက ဘယ်အချိန်မှာ လိုမှာလဲဆိုတာ မသိတော့ဘူး။
+#5/5
 
 107
 It was probably the first thing I remember from being a little kid about, ah, especially about something that I'd done wrong.
 ဒါကတော့ ငါမှတ်မိတဲ့ ကလေးဘဝတုန်းက အစောဆုံးအဖြစ်အပျက် ဖြစ်ကောင်းဖြစ်နိုင်တယ် ၊ အထူးသဖြင့် ငါမှားလုပ်ခဲ့မိတဲ့ အရာတစ်ခုအကြောင်းပေါ့။
+#5/5
 
 108
 They just didn't like what it was like being black in those days, and that was, you know, I guess, that, that was probably, you know, in the early 1930s, uh, when they did that.
 အဲဒီခေတ်တုန်းက လူမဲအဖြစ်နေရဖို့ကို သူတို့မကြိုက်ကြဘူး ဒါကြောင့်လဲ မင်းသိတဲ့အတိုင်းပဲ ၊ ငါထင်တာကတော့ သူတို ၁၉၃၀ စောစောပိုင်းလောက်မှာ အဲလိုလုပ်ခဲ့ကြတာ ဖြစ်ကောင်းဖြစ်နိုင်တယ်။
+#5/5
 
 109
 He is from Greece and he is from a small village in Greece called Tokalleka and he came to America and I believe it was 1969 or 1970 and he shortly got married.
-သူကတော့ ဂရိက လာတာဖြစ်ပြီး ဂရိက တိုကယ်လီကာ ဆိုတဲ့ ရွာငယ်လေးကပါ ဒီနောက် သူအမေရိကားကို လာခဲ့တာ အဲဒါ ၁၉၆၉ သို့မဟုတ် ၁၉၇၀ ကလို့ ငါထင်တယ် ဒီနောက် မကြာခင်မှာပဲ သူအိပ်ထောင်ပြုခဲ့တယ်။
+သူကတော့ ဂရိ က လာတာဖြစ်ပြီး ဂရိ က Tokalleka ဆိုတဲ့ ရွာငယ်လေးကပါ ဒီနောက် သူအမေရိကားကို လာခဲ့တာ အဲဒါ ၁၉၆၉ သို့မဟုတ် ၁၉၇၀ ကလို့ ငါထင်တယ် ဒီနောက် မကြာခင်မှာပဲ သူအိပ်ထောင်ပြုခဲ့တယ်။
+#5/5
 
 110
 So anyhow, I call Ramona back because I had a question about, I was like, All right, let me hurry up on with it, and I had a question about something I was doing.
 ဒီတော့ ထားပါတော့ ငါ Ramona ကို ပြန်ခေါ်လိုက်တယ် ဘာလို့လဲဆိုတော့ ငါမေးချင်တာတစ်ခု ရှိလို့ ၊ ဟုတ်ပြီ အဲ့ဒါကို ခပ်မြန်မြန်လုပ်ရအောင် ၊ ငါလုပ်နေတဲ့ တစ်ခုခုနဲ့ပတ်သတ်ပြီး မေးချင်တာရှိလို့။
+#5/5
 
 111
 Nobody knew where they went.
 သူတို့ ဘယ်ထွက်သွားလဲဆိုတာ ဘယ်သူမှ မသိကြဘူး။
+#5/5
 
 112
 And they couldn't stay in the Augusta area because people knew that they had tried to do something that was really taboo and try to pass for white.
-တကယ်ကို တားမြစ်ပိတ်ပင်ထားတဲ့ တစ်ခုခုကို လုပ်ဖို့ ကြိုးစားပြီး လူဖြူဖြစ်ဖို့ ကြိုးစားခဲ့တာကို လူတွေ သိနေကြလို့ သူတို့ အော်ဂတ်စတာမှာနေလို့မရဘူး။
+တကယ်ကို တားမြစ်ပိတ်ပင်ထားတဲ့ တစ်ခုခုကို လုပ်ဖို့ ကြိုးစားပြီး လူဖြူဖြစ်ဖို့ ကြိုးစားခဲ့တာကို လူတွေ သိနေကြလို့ သူတို့ Augusta မှာနေလို့မရဘူး။
+#5/5
 
 113
 Yeah, well, the guy's here.
 ဟုတ်တယ်၊ အေး၊ ဒီလူရောက်နေပြီ။
+#5/5
 
 114
 We were watching something on TV.
 ကျွန်တော်တို့ တီဗီမှာ တခုခု ကြည့်နေခဲ့သည်။
+#5/5
+
 
 115
 So anyhow, I think I spoke to Ramona again.
-ဒီတော့ ထားပါတော့ ငါ ယမုံနာနဲ့ စကားထပ်ပြောဖြစ်တယ် ထင်တယ်။
+ဒီတော့ ထားပါတော့ ငါ Ramona နဲ့ စကားထပ်ပြောဖြစ်တယ် ထင်တယ်။
+#5/5
 
 116
 Little things like that made a big difference in what I was trying to do.
 ဒီလို အသေးအမွှားလေးတွေက ငါလုပ်နေတာတွေပေါ် အကြီးအကျယ် ပြောင်းလဲစေခဲ့တယ်။
+#5/5
 
 117
 Well, there's nobody there to help me.
 အိမ်း၊ အဲဒီမှာ ငါ့ကို ကူညီမယ့်သူ တစ်ယောက်မှ မရှိဘူး။
+#5/5
 
 118
 He was the only casualty of the Cuban Crisis, and uh, Kaiser uh, he got the pictures and flew straight to Andrews Air Force in Washington.
-သူကတော့ ကျူးဘားအရေးအခင်းက တစ်ယောက်ထဲသော ထိခိုက်မှုပါ၊ ပြီးတော့ ကိုင်ဇာကတော့ ဒီဓာတ်ပုံတွေကို ရသွားပြီး ဝါရှင်တန်က အင်ဒရူးလေဆိပ်ကို တန်းပျံ သွားခဲ့တာပါ။
+သူကတော့ ကျူးဘားအရေးအခင်းက တစ်ယောက်ထဲသော ထိခိုက်မှုပါ၊ ပြီးတော့ Kaiser ကတော့ ဒီဓာတ်ပုံတွေကို ရသွားပြီး Washington က Andrew လေတပ်ကို တန်းပျံ သွားခဲ့တာပါ။
+#5/5
 
 119
 Um, and she said, she said, she said, Baby, she said, You don't understand about life the way I understand about life.
 သူပြောတယ်၊ သူပြောတယ်၊ သူပြောတယ်၊ ကလေးရယ် တဲ့၊  သူပြောတယ်၊ ဘဝအ‌‌‌ကြောင်းကို ငါနားလည်သလို မင်းနားမလည်ဘူး။ 
+#5/5
 
 120
 Then I get it and I'm like great, What do I do with it?
 ဒီတော့ ငါနားလည်သွားပြီး ပြောလိုက်တယ်၊ ကောင်းပြီ၊ ငါဒါနဲ့ဘာလုပ်ရမလဲ။
+#5/5
 
 121
 The CIA unloaded the, the film, taken them to the United Nations the next day.
 စီအိုင်အေက ဒီရုပ်ရှင်ကို ဖြုတ်ချပြီး နောက်တနေ့မှာ ကုလသမဂ္ဂဆီကို ယူသွားလိုက်တယ်။
+#5/5
 
 122
 I already told him, I tried to explain to him that I was frustrated I didn't have all the information I needed.
 သူ့ကိုငါပြောပြီးပြီ၊ ငါလိုအပ်တဲ့ အချက်အလက်တွေ အကုန်လုံးမရှိလို့ ငါစိတ်ရှုပ်ရတယ်ဆိုတာ ငါသူ့ကိုရှင်းပြခဲ့တယ်။
+#5/5
 
 123
 Just give me a minute if you want to cut it off, I'd, uh, go.
 မင်းဒါကိုရပ်လိုက်ချင်ပြီးဆိုရင် ငါ့ကို တစ်မိနစ်လောက် အချိန်ပေးပါ၊ ငါသွားပါ့မယ်။
+#5/5
 
 124
 So I went to, I went to Washington D.C. and I didn't go directly to, uh, that, uh, they had told me to on my orders.
 ဒီတော့ ငါ ဝါရှင်တန်ဒီစီ ကို သွားခဲ့တယ်၊ ပြီးတော့ ငါ့ရဲအမိန့်ထဲမှာ သူတို့‌ပြောထားတဲ့ ထို နေရာကို ငါတိုက်ရိုက် မသွားခဲ့ဘူး။
+#5/5
 
 125
 That's why I didn't graduate college, but I never, I never read any of the books I was supposed to.
-ဒါ‌ကြောင့်လဲ ငါ ‌ကောလိပ်ကျောင်းက ဘွဲ့မရတာ၊ ဒါပေမယ့် ငါ ဘယ်တော့၊ ဘယ်တော့မှ ဖတ်စရာ စာအုပ်တွေကို မဖတ်ခဲ့ဘူး။
+ဒါ‌ကြောင့်လဲ ငါ ‌ကောလိပ်ကျောင်းက ဘွဲ့မရတာ၊ ဒါပေမယ့် ငါ ဘယ်တော့၊ ဘယ်တော့မှ ဖတ်ရမယ့် စာအုပ်တွေကို မဖတ်ခဲ့ဘူး။
+#5/5
 
 126
 She was a light-skinned black person.
 သူကတော့ အသားနဲနဲဖြူတဲ့ လူမဲတစ်ယောက်ပါ။
+#5/5
 
 127
 So anyway, Dad goes and makes this nice big glass of chocolate milk for me.
 ထားပါတော့၊ အဖေက သွားပြီး ငါအတွက် ချောကလက်နို့ ခွက်ကြီးကြီးတစ်ခွက် လုပ်လိုက်တယ်။
+#5/5
 
 128
 The DOT had to buy the property and stuff.
-ဒီအိုတီက ပိုင်ဆိုင်မှုနှင့် ပစ္စည်းများကို ဝယ်ယူရမည်ဖြစ်သည်။
+DOT က ပိုင်ဆိုင်မှုနှင့် ပစ္စည်းများကို ဝယ်ယူရမည်ဖြစ်သည်။
+#5/5
 
 129
 Um, and so they just left town, and she, she never did see her sister again, never saw her sister again.
 ဒီတော့ သူတို့ မြို့ကနေ ပြောင်းခဲ့ကြပြီး၊ သူ သူ့ရဲ့ ညီမကို ဘယ်တော့မှ ပြန်မတွေ့ခဲ့ဘူ။ သူ့ ညီမကို ဘယ်တော့မှ ပြန်မတွေ့ခဲ့ဘူး။
+#5/5
 
 130
 So Granny got up, and she kind of walked down the steps off the porch and she was walking up towards the road and she then just stood there.
-ဒီတော့ အ‌ဖွားက ထလိုက်ပြီး ဖိနပ်ချွတ်က လှေခါးထစ်တွေကို ဆင်းလိုက်ပြီး လမ်းမဘက်ကို လျှောက်သွားလိုက်ပြီး အဲဒီမှာဘဲ ရပ်နေလိုက်တယ်။
+ဒီတော့ အ‌ဖွားက ထလိုက်ပြီး တခါးဝက လှေခါးထစ်တွေအောက်ကို ဆင်းလိုက်ပြီး လမ်းမဘက်ကို လျှောက်သွားလိုက်ပြီး အဲဒီမှာဘဲ ရပ်နေလိုက်တယ်။
+#4/5
 
 131
 He would have been born
 သူမွေးလောက်တဲ့အချိန် ဖြစ်မယ်
+#5/5
 
 132
 The story I shall talk about today is about my father and the culture diversities he had when he moved to America.
 ဒီနေ့ ငါပြောပြမယ့် ဇာတ်လမ်းကတော့ ငါ့အဖေနဲ့ သူအမေရိကားကို ပြောင်းလာချိန်က ယဉ်ကျေးမှု ကွဲပြားမှုများ အ‌ကြောင်းပဲ ဖြစ်ပါတယ်။
+#5/5
+
 
 133
 I'm like, I know how far I've gotten.
-ငါဘယ်လောက်ဝေးနေပြီလဲဆိုတာ ငါသိတယ်။
+ငါဘယ်လောက်ခရီးပေါက်နေပြီလဲဆိုတာ ငါသိတယ်။
+#5/5
+
 
 134
 OK, can you hear me?
 အိုကေ၊ မင်းငါ့ကို ကြားရလား။
+#5/5
 
 135
 It was still cultural area but suburbs was still the dominant form.
 ဒါက ယဉ်ကျေးမှုစုံ နေရာပါ ဒါပေမယ့် မြို့ဆင်ခြေဖုံးပုံစံ တွေက အဓိက ပုံစံပါပဲ။
+#5/5
 
 136
 And then I heard him leave, so I'm still finishing what I had to do.
 ဒီနောက် သူထွက်သွားတာကို ငါကြားလိုက်တော့ ငါလဲ ကိုယ်လုပ်စရာရှိတာပဲ ဆက်လုပ်နေလိုက်တယ်။
+#5/5
 
 137
 Um, are there any, you said you don't remember reading anything in particular, like when you were older in school, were there any books that you read that you liked or hated?
 မင်း ဘာစာတွေ မှတ်မှတ်ရရ ဖတ်မိခဲ့တယ်ဆိုတာ မမှတ်မိဘူးလို့ပြောခဲ့တယ်နော်၊ မင်းကျောင်းမှာ အသက်နည်းနည်းရလာတော့ မင်း ဖတ်ရတာကြိုက်တဲ့ မကြိုက်တဲ့ စာအုပ်မျိုးရှိခဲ့လား။
+#4/5
 
 138
 And they found this house or this apartment building or whatever it was that they could live in, and it was right on the edge of Broad Street.
 ပြီးတော့ သူတို့ နေလို့ရတဲ့ အိမ် သို့မဟုတ် တိုက်ခန်းတစ်ခု ကိုတွေ့ခဲ့တာ၊ အဲဒါက ဘရောဒ် လမ်း အစွန်းလေးမှာတင်လေ။
+#5/5
+
 
 139
 It's a little screw which set an injection but the, the breathing pressure tube to the pilot and counter pressure.
 ၎င်းသည် ထိုးသွင်းခြင်းတစ်ခုကို သတ်မှတ်ထားသည့် မူလီအသေးလေး ဖြစ်သော်လည်း၊ လေယာဉ်မှုးဆီသို့ သွယ်ထားသော အသက်ရှူပိုက်နှင့် တန်ပြန်ဖိအား။
+#4/5
 
 140
 She's like, Don't worry about it, you know, just take your time.
-စိတ်မပူပါနဲ့၊ အေးအေးဆေးဆေးလုပ်ပါလို့ သူကပြောတယ်။
+စိတ်မပူပါနဲ့၊ အေးအေးဆေးဆေးလုပ်ပါလို့ သူမကပြောတယ်။ 
+#5/5
 
 141
 President Kennedy says to the pilots, says, Gentlemen you take good pictures.
 သမ္မတကနေဒီက လေယာဉ်မှုးများကို လူကြီးမင်းများ ဓါတ်ပုံကောင်းကောင်းလေး ရိုက်ထားကြပါ ဟုပြောလိုက်သည်။
+#4/5
 
 142
 And I was like, I'm almost done.
 ငါပြီးတော့မှာပါလို့ ပြန်ပြောလိုက်တယ်။
+#5/5
 
 143
 I tried to jot everything down.
 ငါ တတ်နိုင်သလောက်တော့ ရေးမှတ်ထားခဲ့တယ်။
+#5/5
 
 144
 No, she was born in 1900 because she was 16, and so it must have been like in 1926, 19, you know, before, before 1930.
 မဟုတ်ဘူး၊ သူကအဲဒီတုန်းက ၁၆နှစ်ဆိုတော့ ၁၉၉၀ မှာမွေးတာ၊ ဒီတော့ ၁၉၂၆ မှာ ၁၉ နှစ်လောက်ပေါ့၊ ၁၉၃၀ မတိုင်ခင်ကပေါ့။
+#5/5
 
 145
 It would not explode without the trigger.
 ဒါက ခလုပ်မပါရင် ပေါက်ကွဲမှာမဟုတ်ဘူး။
+#5/5
 
 146
 So it was just really interesting.
 ဆိုတော့ ဒါကတော်တော်စိတ်ဝင်စားဖို့ကောင်းခဲ့တယ်။
+#5/5
 
 147
 Her sister could pass for white, and in fact did pass for white.
 သူ့ညီမက အဖြူလို့ ပြောလို့ရနိုင်ပြီး တကယ်ပဲ အဖြူလို့ ပြောလို့ရခဲ့တယ်။
+#5/5
+
 
 148
 Well, he was almost, old enough to be her daddy.
 အိမ်း၊ သူက သူမရဲ့ အဖေအရွယ်နီးပါး အသက်ကြီးတယ်။
+#4/5
 
 149
 That, I was the only 922 which was life support man the other man was a physiological support.
 ငါကတော့ အသက်ကယ် အထောက်အကူပိုင်း ဖြစ်တဲ့ တစ်ယောက်ထည်းသော ၉၂၂ ပါ၊ နောက်လူတစ်ယောက်က‌တော့ ခန္ဒာကိုယ်ပိုင်း အထောက်အကူပါ။
+#4/5
 
 150
 And here I am thinking he's going come in there and be like, you know, just have it out with me, you know, just tell me off like how could I not have this done.
 ငါလဲ သူတော့ ဒီအထဲကိုဝင်လာပြီး ငါကို့ပြောဆိုတော့မယ်၊ ဒါကိုငါဘာလို့မလုပ်ခဲ့တာလဲဆိုပြီး ငါ့ကို ကြိမ်းတော့မယ် လို့ ထင်နေတယ်။
+#5/5
 
 151
 Well of, of course, needless to say, we had a, we could not make a mistake.
 အေး၊ သိတဲ့အတိုင်း ငါတို့ နည်းနည်းမှ အမှားလုပ်လို့ မရခဲ့ဘူး ဆိုတာ ပြောဖို့မလိုပါဘူး။
+#5/5
 
 152
 And, uh, but, uh, I would think, at night I couldn't sleep.
-ပြီးတော့ ဒါပေမယ့် ညရောက်ရင် ငါအိပ်လို့မရခဲ့ဘူး လို့ ငါထင်တယ်။
+ပြီးတော့ ဒါပေမယ့် ညရောက်ရင် ငါအိပ်လိုရမှာမဟုတ်ဘူးလို့ ငါထင်တယ်။
+#5/5
 
 153
 One thing that she really had as a great defense.
 သူမမှာ ကောင်းကောင်း ကာကွယ်ဖို့ တကယ်ရှိသော အရာတစ်ခု။
+#5/5
 
 154
 Um, as far as never being told--
 အင်း၊ မပြောခဲ့တာတွေ အားလုံးထဲမှာတော့--
+#5/5
 
 155
 So he, we lived in this area.
 ဆိုတော့ သူနဲ့ ငါတို့ ဒီနားတဝိုက်မှာ နေခဲ့တယ်။
+#5/5
 
 156
 And he's like talking all fast; he's on a cell phone.
-ပြီးတော့ သူက အရမ်းမြန်မြန် စကားပြောနေတယ်၊ သူက လက်ကိုင်ဖုန်း တစ်လုံး ရှိနေတယ်။
+ပြီးတော့ သူက အရမ်းမြန်မြန် စကားပြောနေတယ်၊ သူက လက်ကိုင်ဖုန်း တစ်လုံးနဲ့ ပြောနေတယ်။
+#5/5
 
 157
 I can't remember what it was but I suddenly got really nervous that I was about to go to school for the first time and that was probably the most stressful day of my life.
 ဘာလဲဆိုတာတော့ ငါမမှတ်မိဘူး၊ ဒါပေမယ် ငါကျောင်းကို ပထမဆုံးအကြိမ် သွားတော့မယ်ဆိုတာကို ငါ ရုတ်တရက် ရင်တုန်မိတယ်၊ ဒါက ငါ့ဘဝမှာ စိတ်ဖိစီးမှု အများဆုံး နေ့ဘဲဖြစ်လိမ့်မယ်။
+#5/5
 
 158
 And so when they told her she had to go home with this guy, she said, Go home with him?
 ဒီတော့ ညည်းဒီလူနဲ့အိမ်ပြန်ရမယ်လို့ သူတို့ကပြောလိုက်တဲ့အခါမှာ သူက၊ ဒီလူနဲ့အိမ်ပြန်ရမယ် ဟုတ်လားလို့ ပြောခဲ့တယ်။
+#5/5
 
 159
 I was living, uh, right outside of St. Louis, between Jefferson City and St. Louis, MO.
 ငါက စိန့်လူးဝစ်စ် အပြင်နားလေးမှာပဲ နေနေခဲ့တာ၊ ဂျက်ဖာဆန်မြို့တော် နဲ့ စိန့်လူးဝစ်စ်ကြား၊ အမ်အို မှာ။
+#5/5
 
 160
 And our father always told us not to say they are animals.
 သူတို့ကို တိရိစ္ဆာန်လို့မပြောရဘူးလို့ ငါတို့အဖေက အမြဲတမ်းပြောလေ့ရှိတယ်။
+#5/5
 
 161
 I was reporting to a certain place in Del Rio, then I had to go to Laughlin Air Force Base, which had just re-opened.
-ငါက ဒဲလ်ရီယိုထဲက က တစ်နေရာကို အစီရင်ခံနေခဲ့တာ၊ ဒီနောက် ပြန်ဖွင့်တာသိပ်မကြာသေးတဲ့ လဗ်လင် လေတပ်စခန်း ကို ငါသွားခဲ့ရတယ်။
+ငါက Del Rioထဲက က တစ်နေရာကို အစီရင်ခံနေခဲ့တာ၊ ဒီနောက် ပြန်ဖွင့်တာသိပ်မကြာသေးတဲ့ Laughlin လေတပ်စခန်း ကို ငါသွားခဲ့ရတယ်။
+#5/5
 
 162
 I don't care if you don't know anything about it.
 မင်းဒါနဲ့ပတ်သတ်ပြီး ဘာမှမသိတာ ငါဂရုမစိုက်ဘူး။
+#5/5
 
 163
 I don't care how you do it.
 မင်းဒါကို ဘယ်လိုလုပ်လဲဆိုတာ ငါဂရုမစိုက်ဘူး။
+#5/5
 
 164
 So then I look up, I find out where Ramona's at, and I call her over there.
-ဒီနောက် ငါရှာကြည့်လိုက်တဲ့အခါမှာ ယမုံနာဘယ်မှာလဲ ရှာတွေ့ခဲ့ပြီး သူကိုငါခေါ်လိုက်တယ်။
+ဒီနောက် ငါရှာကြည့်လိုက်တဲ့အခါမှာ Ramona ဘယ်မှာလဲ ရှာတွေ့ခဲ့ပြီး သူကိုငါခေါ်လိုက်တယ်။
+#5/5
+
 
 165
 Even though I don't see how he could have expected me to have it done.
 ငါ ဒါကို ပြီးအောင်လုပ်ရမယ်လို့ သူ‌ဘယ်လို မျှော်မှန်းထားမှန်း ငါစဉ်းစားလို့ မရပေမယ့်လည်း။
+#5/5
 
 166
 In the meantime the Air Force bought the SR71, now the A-12, that we were working with the CIA.
-ဒီအတောအတွင်း လေတပ်က အက်စ်အာ၇၁ ကိုဝယ်ခဲ့တယ် ၊ နောက် စီအိုင်အေနဲ့ ငါတို့တွဲ အလုပ်လုပ်နေတော့ အခု အေ-၁၂ ကိုရော။
+ဒီအတောအတွင်း လေတပ်က SR71 ကိုဝယ်ခဲ့တယ် ၊ နောက် CIAနဲ့ ငါတို့တွဲ အလုပ်လုပ်နေတော့ အခု A-12 ကိုရော။
+#5/5
 
 167
 So her sister's husband was light-skinned too?
 ဒါဆို သူ့အစ်မ ယောက်ျားကရော အသားဖြူလား။
+#5/5
 
 168
 But as she got older, um, she never acknowledged that she was wrong but she did change her behavior.
 ဒါပေမယ့် သူ အသက်ကြီးလာတာနှင့်အမျှ၊ အင်း၊ သူမှားခဲ့တယ်ဆိုတာကို အသိအမှတ်မပြုခဲ့ပေမယ့် သူ့ရဲ့ အပြုအမူတွေကို ပြောင်းလဲခဲ့ပါတယ်။
+#5/5
 
 169
 I never did see, and don't know yet why, unless it was just ex, ex, expressing the, the, the need to know what you was a doing and whatever.
 ငါမမြင်ခဲ့မိသလို အခုထိလဲ မသိသေးတာ၊ မင်းဘာတွေလုပ်ခဲ့နေတယ်ဆိုတာ သိချင်မိတာကို ဖော်ပြချင်တာမျိုးက လွဲရင်ပေါ့။
+#5/5
 
 170
 My uncle, he's a great guy.
 ငါ့ဦးလေးက လူကောင်းတစ်ယောက်ပါ။
+#5/5
 
 171
 I went to my sister's that lived there . Her husband was in the service and worked with Intelligence, and I went to their house.
 ငါလဲ အဲဒီမှာနေတဲ့ ငါ့ညီမဆီသွားခဲ့တယ် ။ သူ့အမျိုးသားက တပ်ထဲကဖြစ်ပြီး ထောက်လှမ်းရေးနဲ့ အလုပ်လုပ်ခဲ့တာ၊ ငါသူတို့အိမ်ကိုသွားခဲ့တယ်။
+#5/5
 
 172
 I would think, Well, I'm, I'm going to let somebody else go, but then I would think, My God!
 ငါတွေးမိတယ် အေး ငါတစ်ခြားတစ်ယောက်ကိုပဲ လွှတ်လိုက်တော့မယ်လို့၊ ဒါပေမယ်လဲ ငါထပ်တွေးမိတယ်၊ ဘုရားရေ။
+#5/5
 
 173
 They asked a few questions and I answered them and they said, Get your baggage and leave there immediately, and come to the address you were supposed to when you arrived in Washington.
-သူတို့ ငါ့ကို မေးခွန်းနည်းနည်းမေးတော့ ငါပြန်ဖြေလိုက်တယ်၊ နောက် သူတို့ကပြောတယ်၊ မင်း အထုပ်အပိုးတွေကိုယူပြီး အဲဒီက ချက်ချင်းထွက်သွား၊ မင်း ဝါရှင်တန်ကိုရောက်ရင် သွားရမယ့် လိပ်စာအတိုင်း လာခဲ့လို့။
+သူတို့ ငါ့ကို မေးခွန်းနည်းနည်းမေးတော့ ငါပြန်ဖြေလိုက်တယ်၊ နောက် သူတို့ကပြောတယ်၊ မင်း အထုပ်အပိုးတွေကိုယူပြီး အဲဒီက ချက်ချင်းထွက်သွား၊ မင်း Washington ရောက်ရင် သွားရမယ့် လိပ်စာအတိုင်း လာခဲ့လို့။
+#5/5
 
 174
 One minute he's banging on the desk, the next he's OK, have it on my desk, dah, dah, dah, dah, dah.
 အခုလေးပဲ သူကစားပွဲပေါ်ကို ထုနေပြီး၊ နောက် ခဏနေတော့ သူက အိုကေ၊ ငါ့စားပွဲပေါ်မှထားခဲ့။
+#5/5
 
 175
 Come to find out it was a U2 aircraft but we couldn't, we could not say one word about what it was; nothing to our wives, kids or anybody.
-အဲဒါ ယူ၂ လေယာဥ်လားလို့ လာကြည့်ပေမယ့်  အဲဒါဘာလဲဆိုတာကို ငါတို့ မိန်းမတွေ၊ ကလေးတွေ နဲ့ ဘယ်သူ့ကိုမှ စကားတစ်လုံးမှ ငါတို့ ပြန်ပြောလို့မရခဲ့ဘူး။
+အဲဒါ U2 လေယာဥ်လာ းအဖြေ သိခဲ့ရပေမယ့်  အဲဒါဘာလဲဆိုတာကို ငါတို့ မိန်းမတွေ၊ ကလေးတွေ နဲ့ ဘယ်သူ့ကိုမှ စကားတစ်လုံးမှ ငါတို့ ပြန်ပြောလို့မရခဲ့ဘူး။
+#5/5
 
 176
 So anyway, um, he ended up coming in there and he was like, How's it coming along?
 ထားပါတော့၊ သူလဲ နောက်ဆုံးတော့ အဲဒီအထဲကိုဝင်လာဖြစ်ခဲ့ပြီး ဘယ်လိုအခြေအနေလဲလို့ မေးလိုက်တယ်။
+#5/5
 
 177
 Then I was spinning my wheel for about, I don't know, it seemed like all day that day.
 ဒီနောက် ငါလဲ ပါတ်မောင်း နေတာ ဘယ်လောက်ကြာသွားလဲဆိုတော့ အဲဒီနေ့ တစ်နေ့လုံးနီးပါးပဲ။
+#5/5
 
 178
 And she had tuberculosis and I never knew that either.
 နောက်ပြီး သူ့မှာ တီဘီရောဂါရှိတယ် အဲဒါလဲ ငါမသိခဲ့ပါဘူး။
+#5/5
 
 179
 You know, you can't, you cannot survive if you don't have any counter pressure, increase breathing pressure in those altitudes.
 ဒီလို အမြင့်ပေတွေမှာ မင်းမှာ တန်ပြန်ဖိအားမရှိ၊ အသက်ရှုဖိအားမတိုးရင် မင်း အသက်မရှင်နိုင်ဘူး။
+#5/5
 
 180
 If, if your hand was exposed outside of the pressure suit, your hands would go to about five times the size, if you had a decompression.
 တစ်ကယ်လို့ မင်းရဲ့လက်က လေဖိအားထိန်းဝတ်စုံအပြင်ဘက် ပေါ်သွားလို့ရှိရင် မင်းဖိအား‌လျှော့လိုက်ချိန် မင်းလက်က ငါးဆလောက်ကြီးလာလိမ့်မယ်။
+#5/5
 
 181
 Is there any reason why she didn't tell you?
 သူမင်းကို ဘာလို့မပြောခဲ့လဲ ဆိုတဲ့ အကြောင်းရှိလား။
+#5/5
 
 182
 They had wound up starting out to New York to visit some relatives of this, this cousin, and they just stayed and he didn't know how to get back, so he just stayed with them.
 သူတို့ ရဲ့ ဆွေမျိုး ဝမ်းကွဲ အချိူ့ဆီကို အလည်လာ ဖို့ သူတို့ နယူးယောက် ကို ထွက်လာ ကြ ပြီး သူတို့သာနေခဲ့ပြီး  သူ ဘယ်လို ပြန်ရ မလဲ မသိခဲ့ဘူး ၊ ဒါကြောင့် သူ တို့ နဲ့ အတူ နေခဲ့တယ် ။
+#5/5
 
 183
 I started immediately, uh, uh, training into that from the other two guys that was at the location.
 ငါ အဲဒီနေရာက တစ်ခြားလူနှစ်ယောက်ဆီကနေ အဲဒီအတွက် လေ့ကျင့်ရေး ချက်ချင်း စခဲ့တယ်။
+#5/5
 
 184
 No, it was just that one time in the morning, and she said that she was going to come back to the office.
 ဟင့်အင်း၊ အဲဒါက မနက်တုန်းက တစ်ခါပဲ၊ ပြီးတော့ သူက ရုံးကိုပြန်လာဦးမယ်လို့ ပြောခဲ့တယ်။
+#5/5
 
 185
 We didn't know what a U2 was and nobody knew anything about a U2.
-ယူ-၂ က ဘာလဲဆိုတာ ငါတို့မသိခဲ့ဘူး ပြီးတော့ ဘယ်သူမှာ ယူ-၂ တစ်ခုအ‌ကြောင်း မသိခဲ့ကြဘူး။
+U2 က ဘာလဲဆိုတာ ငါတို့မသိခဲ့ဘူး ပြီးတော့ ဘယ်သူမှာ U2 တစ်ခုအ‌ကြောင်း မသိခဲ့ကြဘူး။
+#5/5
 
 186
 If it was off one iota, you had to do some adjusting to the regulator itself.
 တစ်ပြားတစ်စေ့လောက် လျော့နေခဲ့ရင် မင်း ထိန်းညှိရာ ကိုယ်တိုင်ကို ချိန်ခဲ့ရမယ်။
+#5/5
 
 187
 Uh, I was still the one and only nine two-two that had ever set the injection on the regulator.
 ငါကတော့ ထိန်းညှိစက်မှာ အင်ဂျက်ရှင်ချိန်ခဲ့ဖူးတဲ့ တစ်ဦးထဲသော ၉ ၂-၂ ပဲ။
+#4/5
 
 188
 She didn't even understand the marriage ceremony, she didn't even know that she had gotten married, really--
 သူက လက်ထပ်ပွဲကိုတောင် နားမလည်ခဲ့ဘူး၊ အိမ်ထောင်ပြုလိုက်ပြီဆိုတာကိုတောင် မသိခဲ့ဘူ၊ တစ်ကယ်ပဲ--
+#5/5
 
 189
 We would go in there.
 ငါတို့ အဲဒီထဲကို ဝင်သွားကြမှာပဲ။
+#5/5
 
 190
 And it was like she was rejecting who she was, in some ways, by, you know, the way she treated you know, the other grandchildren.
 သူတစ်ခြား မြေးတွေကို ဆက်ဆံနေတဲ့ပုံစံက တစ်နည်းအားဖြင့် သူ့ဟာသူဘယ်သူလဲဆိုတာ လက်မခံသလိုဖြစ်နေခဲ့တယ်။
+#5/5
 
 191
 It was really cool, and the dress kind of blew in the wind a little bit--
-အဲဒီတုန်းက တော်တော်လေးအေးခဲ့နေပြီး ဒီဝတ်စုံက လေထဲမှာ နည်းနည်းဝဲ နေခဲ့တယ်။
+အဲဒီတုန်းက တော်တော်မိုက်တာ ဒီဝတ်စုံက လေထဲမှာ နည်းနည်းဝဲ နေခဲ့တယ်။
+#5/5
 
 192
 Uh, I spent much of my time in, uh, Special Activities.
 အင်း၊ ငါ အထူးလှုပ်ရှားမှုဌာနမှာ အကြာကြီးနေခဲ့ပါတယ်။
+#5/5
 
 193
 And I asked him, you know, could I do it, um, Do you need me to stay and do it tonight or I could have it done by lunchtime tomorrow, if that's OK.
 ငါသူကိုမေးလိုက်တယ်၊ ငါလုပ်လို့ရလား၊ မင်းငါ့ကို ဆက်နေပြီး ဒီညမှာလုပ်စေချင်တာလား၊ မဟုတ်ရင်တော့ ငါ မနက်ဖြန် နေ့လယ်စာစားချိန် အပြီးလုပ်ပေးနိုင်တယ်၊ အဆင်ပြေမယ်ဆိုရင်။
+#5/5
+
 
 194
 But uh, they lived in a little country town outside of Augusta called Evans, and Evans still exists, and that's where a lot of my relatives still, still are too.
-ဒါပေမယ့် သူတို့က အော်ဂတ်စတာအပြင်နားက အီဗန်းစ် လို့ခေါ်တဲ့ နယ်မြို့သေးသေးလေးမှာ နေခဲ့တယ်၊ အခုထိ အီဗန်းစ် ရှိတယ်၊ ငါ့ဆွေမျိုးတွေလဲ အဲဒီမှာရှိသေးတယ်။
+ဒါပေမယ့် သူတို့ Augusta အပြင်နားက Evans လို့ခေါ်တဲ့ နယ်မြို့သေးသေးလေးမှာ နေခဲ့တယ်၊ အခုထိ Evans ရှိတယ်၊ ငါ့ဆွေမျိုးတွေလဲ အဲဒီမှာရှိသေးတယ်။
+#5/5
 
 195
 My sister keeps telling me, she says, Sometimes you're just like Granny, you treat people wrong for the wrong reasons.
 ငါ့ညီမက ငါ့ကို ပြောပြောနေတယ်၊ တစ်ခါတစ်လေ နင်က အဖွားလိုပဲ၊ နင်က လူတွေကို အကြောင်းပြချက်အမှားတွေနဲ့ မှားယွင်းဆက်ဆံတယ်။
+#5/5
 
 196
 Um, then we moved to a new house.
 ဒီနောက် ငါတို့ အိမ်အသစ်တစ်ခုကို ပြောင်းခဲ့ကြတယ်။
+#5/5
 
 197
 My grandmother was born in 1910, she was a little girl.
 ငါတို့အဖွားက ၁၉၁၀ မှာမွေးပြီး ကလေးမလေး တစ်ယောက်ပေါ့။
+#5/5
 
 198
 I was like, OK, well that's good, you know, like that.
 ငါကလဲ အိုကေ ကောင်းပြီလေ သိတယ်မလား အဲဒီလိုပဲ။
+#5/5
 
 199
 And the spots of paint would change every hundred degrees, it might be red, it change to blue.
 ဆေးစက်လေးတွေက ဒီဂရီတစ်ရာလောက်ရှိတိုင်း ပြောင်းသွားတယ်၊ အနီ‌ရောင်ဖြစ်နေရင် အပြာရောင်ကိုပြောင်းသွားတယ်။
+#4/5
 
 200
 I ate real quick, as fast as I could and then she came in there and she ended up helping me with it.
 ငါ တတ်နိုင်သလောက် မြန်မြန်စားခဲ့ပြီးနောက် သူမဝင်လာပြီး ငါ့ကို ဒီဟာနဲ့ ကူညီဖြစ်သွားတယ်။
+#5/5

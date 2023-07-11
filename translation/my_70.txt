@@ -1,450 +1,501 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 6901
 The new providers are wealthy.
-ပံ့ပိုးသူအသစ်များက ချမ်းသာကြတယ်။
+ပံ့ပိုးသူအသစ်များသည် ချမ်းသာကြသည်။
+4/5
 
 6902
 There is IT planning.
 အိုင်တီ နဲ့ပတ်သက်တဲ့ စီမံကိန်း ရှိတယ်။
+4/5
 
 6903
 There is not IT planning.
 အိုင်တီ နဲ့ပတ်သက်တဲ့ စီမံကိန်း မရှိပါ။
+4/5
 
 6904
 They think about what computers to buy.
 သူတို့ ဘယ်ကွန်ပျူတာဝယ်ရမလဲ စဉ်းစားကြတယ်။
+4/5
 
 6905
 Highlighting the area has no value.
-ဒီဧရိယာကို မီးမောင်းထိုးပြခြင်းသည် တန်ဖိုးမရှိပါ။
+ဒီဧရိယာကို မီးမောင်းထိုးပြခြင်းသည် အကျိုးမရှိပါ။
+4/5
 
 6906
 Highlighting the area has value.
-ဒီဧရိယာကို မီးမောင်းထိုးပြခြင်းသည် တန်ဖိုးရှိသည်။
+ဒီဧရိယာကို မီးမောင်းထိုးပြခြင်းသည် အကျိုုးရှိသည်။
+4/5
 
 6907
 Highlighting the map has value.
 မြေပုံကို မီးမောင်းထိုးပြခြင်းသည် တန်ဖိုးရှိသည်။
+4/5
 
 6908
 The crosshatched pentagon has helped the mailer market boost profits.
 ခြယ်ထားသောပဉ္စဂံသည် မေးလ်ပို့တဲ့ဈေးကွက် ကို အမြတ်အစွန်းများ မြှင့်တင်ရန် ကူညီပေးခဲ့ပါသည်။
+3/5
 
 6909
 The mailers are unable to recover the losses from the crosshatched trapezoid.
 စာတိုက်များသည် ခြယ်ထားသောစတုဂံမှ ဆုံးရှုံးသွားသော ဆုံးရှုံးမှုများကို ပြန်လည်မရရှိနိုင်ပါ။
+2/5
 
 6910
 The market loss comes from the crosshatched trapezoid being unable to shift.
 စျေးကွက်ဆုံးရှုံးမှုသည် ခြယ်ထားသောစတုဂံကို မပြောင်းနိုင်ခြင်းကြောင့်ဖြစ်သည်။
+2/5
 
 6911
 Brendan Gill dislikes the merger.
-ဘရန်းဒန်ဂျေး သည် ပေါင်းစည်းခြင်းကို မကြိုက်ပါ။
+Brendan Gill သည် ကုပ္မဏီနှစ်ခုပေါင်းခြင်းကို မကြိုက်ပါ။
+4/5
 
 6912
 Brendan Gill likes the merger
-ဘရန်းဒန်ဂျေးသည် ပေါင်းစည်းခြင်းကို ကြိုက်သည်။
+Brendan Gill သည် ကုပ္မဏီနှစ်ခုပေါင်းခြင်းကို  ကြိုက်သည်။
+4/5
 
 6913
 Brendan Gill made money off the merger.
-ဘရန်းဒန်ဂျေးသည် ပေါင်းစည်းခြင်းမှ လျှော့ဈေးရခဲ့သည်။
+Brendan Gill သည် ကုပ္မဏီနှစ်ခုပေါင်းခြင်းမှ ပိုက်ဆံရခဲ့သည်။
+4/5
 
 6914
 Data error causes freedom.
 အချက်အလက် မှားယွင်းမှုသည် လွတ်မြောက်မှုကို ဖြစ်စေသည်။
+4/5
 
 6915
 Freedom from correct data.
 မှန်ကန်သော အချက်အလက်များမှ လွတ်မြောက်ခြင်း။
+4/5
 
 6916
 Freedom from incorrect input.
 မှားယွင်းသော ထည့်သွင်းမှုမှ ကင်းဝေးခြင်း။
+4/5
 
 6917
 The National Mail Count only tracked packages.
-နယ်ရှင်နယ်မေးလ်ကောင့်က ပက်ကေ့ဂျ်များကိုသာ ခြေရာခံထားသည်။
+နယ်ရှင်နယ်မေးလ်ကောင့်က ပက်ကေ့ဂျ်များကိုသာ ခြေရာခံသည်။
+3/5
 
 6918
 The National Mail Count studied mail.
 နယ်ရှင်နယ်မေးလ်ကောင့်က မေးလ်တွေကို လေ့လာတယ်။
+3/5
 
 6919
 The National Mail count keep track of personal mail.
 နယ်ရှင်နယ်မေးလ်ကောင့်က ကိုယ်ရေးကိုယ်တာမေးလ်များကို ခြေရာခံသည်။
+3/5
 
 6920
 More income means more profit.
 ဝင်ငွေများလေလေ အမြတ်များများရလေ ဖြစ်သည်။
+4/5
 
 6921
 The statistics do not state anything.
-စာရင်းဇယားတွေ ဘာမှ မဖော်ပြထားဘူး။
+စာရင်းဇယားတွေက ဘာမှ မဖော်ပြထားဘူး။
+4/5
 
 6922
 ZIP codes are related to income.
 စာပို့ကုဒ်များသည် ဝင်ငွေနှင့် သက်ဆိုင်ပါသည်။
+4/5
 
 6923
 9a is not the rate difference.
-နိုင်းအေသည် ဈေးနှုန်း ကွာခြားချက် မဟုတ်ပါ။
+9a သည် ဈေးနှုန်း ကွာခြားချက် မဟုတ်ပါ။
+3/5
 
 6924
 9a is the most important metric.
-နိုင်းအေသည် အရေးကြီးဆုံး မက်ထရစ်ဖြစ်သည်။
+9a သည် အရေးကြီးဆုံး မက်ထရစ်ဖြစ်သည်။
+3/5
 
 6925
 9a is the rate difference.
-နိုင်းအေသည် ဈေးနှုန်း ကွာခြားချက် ဖြစ်သည်။
+9a သည် ဈေးနှုန်း ကွာခြားချက် ဖြစ်သည်။
+3/5
+
 
 6926
 A lot of witnesses revoke representation.
 သက်သေအများအပြားသည် ကိုယ်စားပြုမှုကို ပြန်လည်ရုတ်သိမ်းလိုက်သည်။
+4/5
 
 6927
 The alien is very scary.
 နိုင်ငံခြားသားက အရမ်းကြောက်စရာကောင်းတယ်။
+4/5
 
 6928
 The witnesses would not testify.
 သက်သေတွေက ထွက်ဆိုမှာမဟုတ်ဘူး။
+4/5
 
 6929
 It is procedure to send case files to the client.
 အမှုတွဲဖိုင်များကို အမှုသည်ထံ ပေးပို့ရမည်မှာ လုပ်ထုံးလုပ်နည်းဖြစ်သည်။
+4/5
 
 6930
 The client will be left in the dark.
 အမှုသည်သည် မျှော်လင့်ချက်ကင်းပြီး ကျန်ရစ်လိမ့်မည်။
+2/5
 
 6931
 The client will be provided with case files.
-အမှုသည်အား အမှုတွဲဖိုင်များဖြင့် ပံ့ပိုးပေးမည်ဖြစ်သည်။
+အမှုသည်အား အမှုတွဲဖိုင်များ ပေးမည်ဖြစ်သည်။
+4/5
 
 6932
 Clients refuse to flee the country despite the tough choice.
 အမှုသည်များသည် ခက်ခဲသောရွေးချယ်မှုများရှိသော်လည်း နိုင်ငံတွင်းမှ ထွက်ပြေးရန် ငြင်းဆန်ကြသည်။
+4/5
 
 6933
 Leaving the country would be the best choice for clients.
-နိုင်ငံမှ ထွက်ခွာခြင်းသည် အမှုသည်များအတွက် အကောင်းဆုံး ရွေးချယ်မှုဖြစ်သည်။
+နိုင်ငံမှ ထွက်ခွာခြင်းသည် အမှုသည်များအတွက် အကောင်းဆုံး ရွေးချယ်မှုဖြစ်မည်။
+4/5
 
 6934
 Rather than go to jail, clients would sooner leave the country.
-ထောင်ထဲသွားမည့်အစား ၊ အမှုသည်တွေက တိုင်းပြည်က မြန်မြန်ထွက်သွားကြလိမ့်မယ်။
+ထောင်ထဲသွားမည့်အစား ၊ အမှုသည်များသည်တွေက တိုင်းပြည်က မကြာမီထွက်သွားကြလိမ့်မည်။
+4/5
 
 6935
 Assets will lose value sometimes due to the market.
 စျေးကွက်ကြောင့် တစ်ခါတစ်ရံတွင် ပိုင်ဆိုင်မှုတန်ဖိုး ဆုံးရှုံးမည်။
+4/5
 
 6936
 If households assets lose value people will have to save less.
-အိမ်ထောင်စုတွေရဲ့ ပိုင်ဆိုင်မှုတန်ဖိုးတွေ ဆုံးရှုံးရင် လူတွေက ပိုက်ဆံတွေသုံးဖြုန်းတာကနေရှောင်ရပါလိမ့်မယ်။
+အိမ်ထောင်စုတွေရဲ့ ပိုင်ဆိုင်မှုတန်ဖိုးတွေ ဆုံးရှုံးရင် လူတွေက ပိုက်ဆံ လျှော့စု ရလိမ့်မယ်။
+3/5
 
 6937
 If people's assets lose value they end up having to save more.
 လူတွေရဲ့ ပိုင်ဆိုင်မှုတန်ဖိုးတွေ ဆုံးရှုံးသွားရင် ပိုချွေတာဖို့ လိုလာလိမ့်မယ်။
+4/5
 
 6938
 HIC made feedback changes.
-အိတ်ချ်အိုင်စီသည် တုံ့ပြန်ချက် အပြောင်းအလဲများကို ပြုလုပ်ခဲ့သည်။
+HIC သည် တုံ့ပြန်ချက် အပြောင်းအလဲများကို ပြုလုပ်ခဲ့သည်။
+4/5
 
 6939
 HIC made no feedback changes.
-အိတ်ချ်အိုင်စီသည် တုံ့ပြန်ချက် ပြောင်းလဲမှုများ မပြုလုပ်ခဲ့ပါ။
+HIC သည် တုံ့ပြန်ချက် ပြောင်းလဲမှုများ မပြုလုပ်ခဲ့ပါ။
+4/5
 
 6940
 HIC sent out surveys.
-အိတ်ချ်အိုင်စီမှ စစ်တမ်းများ ပေးပို့ခဲ့သည်။
+HIC သည် စစ်တမ်းများ ပေးပို့ခဲ့သည်။
+4/5
 
 6941
 It is likely we would answer a phone call.
-ဖုန်းခေါ်ဆိုမှု တစ်ခု ကို ကျွန်ုပ်တို့ဖြေကြားနိုင်ဖွယ်ရှိသည်။
+ဖုန်းခေါ်ဆိုမှု တစ်ခု ကို ကျွန်ုပ်တို့ဖြေကြားရဖွယ်ရှိသည်။
+4/5
 
 6942
 Refusing to answer the phone would not be in our best interest.
-ဖုန်းကို ဖြေဆိုရန် ငြင်းဆိုခြင်းသည် ကျွန်ုပ်တို့၏ အကျိုးစီးပွားအတွက် မဟုတ်ပေ။
+ဖုန်းကို ဖြေကြားဆိုရန် ငြင်းဆိုခြင်းသည် ကျွန်ုပ်တို့၏ အကျိုးစီးပွားအတွက် မဟုတ်ပေ။
+4/5
 
 6943
 There is no question about answering the phone.
-တယ်လီဖုန်း ဖြေဆိုခြင်း နှင့်ပတ်သက်၍ မေးခွန်းထုတ်စရာ မရှိပါ။
+ဖုန်း ဖြေဆိုခြင်း နှင့်ပတ်သက်၍ မေးခွန်းထုတ်စရာ မရှိပါ။
+4/5
 
 6944
 Centrelink asks its customers to carefully enter details when declaring income.
-စန်ထရီလင့်သည် ဝင်ငွေကြေညာသည့်အခါ အသေးစိတ်အချက်အလက်များကို ဂရုတစိုက်ထည့်သွင်းရန် ၎င်း၏ဖောက်သည်များအား တောင်းဆိုထားသည်။
+ဝင်ငွေကြေညာသည့်အခါ အသေးစိတ်အချက်အလက်များကို ဂရုတစိုက်ထည့်သွင်းရန် ၎င်း၏ဖောက်သည်များအား Centrelink က တောင်းဆိုထားသည်။
+5/5
 
 6945
 Centrelink never has incorrect payments caused by incorrect income declaration by customers.
-စန်ထရီလင့်သည် ဖောက်သည်များ၏ မှားယွင်းသော ၀င်ငွေကြေငြာချက်ကြောင့် ဖြစ်ပေါ်လာသော မှားယွင်းသော ငွေပေးချေမှုမျိုး ဘယ်သောအခါမှ မရှိပါ။
+Centrelink သည် ဖောက်သည်များ၏ မှားယွင်းသော ၀င်ငွေကြေငြာချက်ကြောင့် ဖြစ်ပေါ်လာသော မှားယွင်းသော ငွေပေးချေမှုမျိုး ဘယ်သောအခါမှ မရှိပါ။
+5/5
 
 6946
 Incorrect payments that Centrelink has are preventable in some cases.
-စန်ထရီလင့်တွင်ရှိသော မှားယွင်းသောငွေပေးချေမှုများကို အချို့ကိစ္စများတွင် တားဆီးနိုင်ပါသည်။
+Centrelink တွင် ဖြစ်သော မှားယွင်းသည့်ငွေပေးချေမှုများမှ အချို့ကိစ္စများမှာ ကြိုတင်ကာကွယ်တားဆီးနိုင်သော ကိစ္စများဖြစ်ပါသည်။
+4/5
 
 6947
 Assets make you lose money with interest.
 ပိုင်ဆိုင်မှုများသည် သင့်အား အတိုးဖြင့် ငွေဆုံးရှုံးစေသည်။
+4/5
 
 6948
 The interest and dividends are a lot of money.
-အတိုးနဲ့ အမြတ်ဝေစုက ပိုက်ဆံအများကြီး။
+အတိုးနဲ့ အမြတ်ဝေစုသည် အလွန်များသော ငွေပမာဏဖြစ်သည်။
+4/5
 
 6949
 You can generate income with assets.
 ပိုင်ဆိုင်မှုများဖြင့် ဝင်ငွေဖန်တီးနိုင်သည်။
+4/5
 
 6950
 GAO has needed great improvements for more than a decade.
-ဂျီအေအိုသည် ဆယ်စုနှစ်တစ်ခုကျော်ကြာ တိုးတက်မှုများစွာ လိုအပ်နေပါသည်။
+GAO သည် ဆယ်စုနှစ်တစ်ခုကျော်ကြာကတည်းက ကြီးမားသောတိုးတက်မှုများစွာ လိုအပ်နေပါသည်။
+4/5
 
 6951
 We could not come up with a single solution to help improve GAO.
-ဂျီအေအို တိုးတက်အောင် ကူညီရန် အဖြေတစ်ခု တည်းနဲ့ မရနိုင်ပါ။
+GAO တိုးတက်အောင် ကူညီရန် နည်းလမ်းတစ်ခုမှ ကျွန်ုပ်တို့ မရှာနိုင်ပါ။
+4/5
 
 6952
 We have been working on improving some areas in GAO.
-ကျွန်ုပ်တို့သည် ဂျီအေအိုရှိ အချို့သောနေရာများကို ပိုမိုကောင်းမွန်အောင် လုပ်ဆောင်နေပါသည်။
+ကျွန်ုပ်တို့သည် GAO ရှိ အချို့သောနေရာများကို ပိုမိုကောင်းမွန်အောင် လုပ်ဆောင်နေပါသည်။
+4/5
 
 6953
 Denial of service attacks cause disruptions.
 ဒနိုင်ရယ်အော့ဆားဗစ်အတက်က အနှောင့်အယှက်ဖြစ်စေသည်။
+3/5
 
 6954
 Popular websites are big targets for disruption.
-လူကြိုက်များသောဝဘ်ဆိုဒ်များသည် အနှောင့်အယှက်ဖြစ်စေရန် အဓိကပစ်မှတ်များဖြစ်သည်။
+လူကြိုက်များသော ဝဘ်ဆိုက်များသည် ပျက်တောက်နှောက်ယှက်မှုများဖြစ်စေရန် အဓိကပစ်မှတ်များဖြစ်သည်။
+4/5
 
 6955
 There has not been a denial of service attack recently.
-ဒနိုင်ရယ်အော့ဆားဗစ်အတက်က မကြာသေးမီက မရှိသေးပါ။
+ဒနိုင်ရယ်အော့ဆားဗစ်အတက်က လတ်တလော မရှိသေးပါ။
+3/5
 
 6956
 Inhouse core does not matter much.
 အင်ဟောက်စ်ကိုးက သိပ်အရေးမကြီးပါဘူး။
+3/5
 
 6957
 Maintain inhouse core was not cited a lot.
 အင်ဟောက်စ်ကိုးကို ထိန်းသိမ်းရတာ အများကြီး မကိုးကားပါဘူး။
+1/5
 
 6958
 Maintain inhouse core was the most cited reason.
 အင်ဟောက်စ်ကိုးကို ထိန်းသိမ်းခြင်းသည် အကိုးအကား အများဆုံး အကြောင်းပြချက်ဖြစ်သည်။
+3/5
 
 6959
 Different patients find that different methods work for them in their recover from alcohol abuse.
 လူနာအမျိုးမျိုးသည် အရက်အလွဲသုံးစားမှုမှ ပြန်လည်ကောင်းမွန်လာသောအခါတွင် နည်းလမ်းအမျိုးမျိုးသည် ၎င်းတို့အတွက် အလုပ်ဖြစ်သည်ကို တွေ့ရှိကြသည်။
+4/5
 
 6960
 There is not one solution to alcohol use problems.
-အရက်သောက်ခြင်းပြဿနာများအတွက် ဖြေရှင်းနည်းတစ်ခုထဲ မဟုတ်ဘူး။
+အရက်သောက်ခြင်းပြဿနာများအတွက် ဖြေရှင်းနည်းတစ်ခုထဲပဲ ရှိမနေပါ။
+3/5
 
 6961
 There is one, and only one, type of alcohol use problem.
-အရက်သောက်တဲ့ ပြဿနာက တစ်မျိုးပဲ၊ တစ်ခုပဲ ၊ ရှိတယ်။
+အရက်သောက်တဲ့ ပြဿနာက တစ်မျိုးမှ  တစ်မျိုးပဲ ရှိတယ်။
+4/5
 
 6962
 GAO has a .org website domain.
-ဂျီအေအိုတွင် ဒေါ့အိုအာဂျီ ဝဘ်ဆိုဒ်ဒိုမိန်းတစ်ခု ရှိသည်။
+GAO တွင် .org ဝဘ်ဆိုက်ဒိုမိန်းတစ်ခု ရှိသည်။
+4/5
 
 6963
 GAO has no online presence.
-ဂျီအေအိုကို အွန်လိုင်းတွင် မတွေ့ရှိရပါ။
+GAO ကို အွန်လိုင်းတွင် မတွေ့ရှိရပါ။
+3/5
 
 6964
 GAO's website can be visited online.
-ဂျီအေအို၏ ဝဘ်ဆိုဒ်ကို အွန်လိုင်းတွင် သွားရောက်ကြည့်ရှုနိုင်ပါသည်။
+GAO ၏ ဝဘ်ဆိုက်ကို အွန်လိုင်းတွင် သွားရောက်ကြည့်ရှုနိုင်ပါသည်။
+4/5
 
 6965
 It takes a team of fifty men to install the SCR on one combustion unit.
-လောင်ကျွမ်းမှုယူနစ်တစ်ခုတွင် အက်စ်စီအာ ကို တပ်ဆင်ရန် လူငါးဆယ်ခန့်ရှိသော အဖွဲ့တစ်ဖွဲ့ လိုအပ်သည်။
+လောင်ကျွမ်းမှုယူနစ်တစ်ခုတွင် SCR ကို တပ်ဆင်ရန် လူငါးဆယ်ခန့်ရှိသော အဖွဲ့တစ်ဖွဲ့ လိုအပ်သည်။
+5/5
 
 6966
 It would take more than a year to completely implement an SCR on one combustion unit.
-လောင်ကျွမ်းမှုယူနစ်တစ်ခုတွင် အက်စ်စီအာကို အပြည့်အဝအကောင်အထည်ဖော်ရန် တစ်နှစ်ကျော်ကြာမည်ဖြစ်သည်။
+လောင်ကျွမ်းမှုယူနစ်တစ်ခုတွင် SCR ကို အပြည့်အဝအကောင်အထည်ဖော်ရန် တစ်နှစ်ကျော်ကြာမည်ဖြစ်သည်။
+5/5
 
 6967
 The implementation of SCR on a combustion unit takes a few hours.
-လောင်ကျွမ်းမှုယူနစ်တွင် အက်စ်စီအာကို အကောင်အထည်ဖော်ရန် နာရီအနည်းငယ်ကြာသည်။
+လောင်ကျွမ်းမှုယူနစ်တွင် SCR ကို အကောင်အထည်ဖော်ရန် နာရီအနည်းငယ်ကြာသည်။
+5/5
 
 6968
 Aliens can have legal representation when they are in the US.
-ယူအက်စ်တွင် ရှိနေသောအခါတွင် နိုင်ငံခြားသားများသည် တရားဝင် ကိုယ်စားပြုခွင့်ရှိနိုင်သည်။
+US တွင် ရှိနေသောအခါတွင် နိုင်ငံခြားသားများသည် တရားဝင် ကိုယ်စားပြုခွင့်ရှိနိုင်သည်။
+3/5
 
 6969
 Most aliens do not seek legal services when they need it.
-နိုင်ငံခြားသားအများစုသည် ၎င်းတို့လိုအပ်သည့်အခါတွင် တရားဝင်ဝန်ဆောင်မှုများကို မရှာကြပေ။
+နိုင်ငံခြားသားအများစုသည် ၎င်းတို့လိုအပ်သည့်အခါတွင် ဥပဒေရေးရာဝန်ဆောင်မှုများကို မရယူကြပေ။
+4/5
 
 6970
 The US does not allow aliens into any of its states.
-USသည် ၎င်း၏ပြည်နယ်များတွင် နိုင်ငံခြားသားများကို ဝင်ရောက်ခွင့်မပြုပေ။
+US သည် ၎င်း၏မည့်သည့်ပြည်နယ်ကိုမျှ နိုင်ငံခြားသားများကို ဝင်ရောက်ခွင့်မပြုပေ။
+5/5
 
 6971
 The opposing counsel and the court will be expecting notices.
 တရားလိုဘက်ရှေ့နေများနှင့် တရားရုံးက အကြောင်းကြားစာများ မျှော်လင့်နေလိမ့်မည်။
+5/5
 
 6972
 The opposing counsel and the court will have to be kept in the dark about this.
-တရားလိုဘက်ရှေ့နေများနှင့် တရားရုံးသည် ၎င်းကိစ္စကို လျှို့ဝှက်ဖုံးကွယ် ထားလိမ့်မည်။
+ဤကိစ္စကို တရားလိုဘက်ရှေ့နေများနှင့် တရားရုံတို့ မသိအောင် ဖုံးကွယ် ထားရလိမ့်မည်။
+4/5
 
 6973
 The opposing counsel and the court will receive notices.
 တရားလိုဘက်ရှေ့နေများနှင့် တရားရုံးက အကြောင်းကြားစာ လက်ခံရရှိမည်ဖြစ်သည်။
+5/5
 
 6974
 The gains and losses should be ignored and not labeled.
 အမြတ်နဲ့အရှုံးများကို လျစ်လျူရှုသင့်ပြီး မသတ်မှတ်သင့်ပါဘူး။
+4/5
 
 6975
 There are many different types of gains and losses.
-အမြတ်နဲ့အရှုံး အမျိုးအစားတွေ အများကြီးရှိပါတယ်။
+အမြတ်နဲ့အရှုံး အမျိုးအစား များစွာရှိပါသည်။
+5/5
 
 6976
 When accounting for the gain or loss make it a nonexchange gain or loss.
 အမြတ် သို့မဟုတ် အရှုံးကို စာရင်းစစ်သည့်အခါ ၎င်းကို လဲလှယ်လို့မရသော အမြတ် သို့မဟုတ် အရှုံး တစ်ခု ကို ဖြစ်စေသည်။
+3/5
 
 6977
 23Financial continues to achieve CFO Act Goals thanks to positive momentum.
-၂၃ အပြုသဘောဆောင်သောအရှိန်အဟုန်ကြောင့် ငွေကြေးဆိုင်ရာသည် စီအက်ဖ်အို အက်ဥပဒေရည်မှန်းချက်များကို ဆက်လက်အောင်မြင်စေသည်။
+အပြုသဘောဆောင်သောအရှိန်အဟုန်ကြောင့် 23Financial သည် CFO Act Goals များကို ဆက်လက် အောင်မြင်သည်။
+3/5
 
 6978
 23Financial has lost momentum in achieving their executive goals.
-၂၃ ငွေကြေးသည် ၎င်းတို့၏ စီမံခန့်ခွဲရေး ရည်မှန်းချက်များ အောင်မြင်ရေးတွင် အရှိန်အဟုန် ပျောက်ဆုံးနေပါသည်။
+23Financial သည် ၎င်းတို့၏ စီမံခန့်ခွဲရေး ရည်မှန်းချက်များ အောင်မြင်ရေးတွင် အရှိန်အဟုန် ပျောက်ဆုံးနေသည်။
+4/5
 
 6979
 23Financial is close to completing all of their Act Goals.
-၂၃ ငွေကြေးသည် ၎င်းတို့၏ အက်ဥပဒေပန်းတိုင်များအားလုံးကို ပြီးမြောက်ရန် နီးကပ်နေပြီဖြစ်သည်။
+23Financial သည် ၎င်းတို့၏ Act Goals များအားလုံးကို ပြီးမြောက်ရန် နီးကပ်နေပြီဖြစ်သည်။
+3/5
 
 6980
 Fully meeting a successful standard will result in a pass.
 စံချိန်စံညွှန်းပြည့်မီခြင်းက အောင်မြင်မှုတစ်ခု ကို ရလိမ့်မည်။
+3/5
 
 6981
 If they don't meet the standard they will fail.
 သူတို့ စံချိန်စံညွှန်း မပြည့်မီပါက ကျရှုံးလိမ့်မည်။
+4/5
 
 6982
 Meeting fully the standard for an element will result in a rating of failure.
 ဒြပ်စင်တစ်ခုအတွက် စံချိန်စံညွှန်းပြည့်မီခြင်းက မအောင်မြင်မှုအဆင့်တစ်ခုကို ဖြစ်ပေါ်စေမည်ဖြစ်သည်။
+3/5
 
 6983
 LSC grantees educate the community.
-အယ်လ်အက်စ်စီ ထောက်ပံ့ကြေးရသူများသည် ရပ်ရွာကို ပညာပေးသည်။
+LSC ထောက်ပံ့ကြေးရသူများသည် ရပ်ရွာကို ပညာပေးသည်။
+4/5
 
 6984
 People in the community are uneducated about the legal system.
-ရပ်ရွာကလူတွေက တရားရေးစနစ်နဲ့ ပတ်သက်ပြီး ပညာမတတ်ကြပါဘူး။
+ရပ်ရွာကလူတွေက တရားရေးစနစ်နဲ့ ပတ်သက်ပြီး မသိရှိနားမလည်ကြပါဘူး။
+4/5
 
 6985
 The LSC grantees sing for the community.
-အယ်လ်အက်စ်စီ ထောက်ပံ့ကြေးရသူများသည် ရပ်ရွာအတွက် သီချင်းဆိုကြသည်။
+LSC ထောက်ပံ့ကြေးရသူများသည် ရပ်ရွာအတွက် သီချင်းဆိုကြသည်။
+4/5
 
 6986
 All assets decline in value by the day.
 ပိုင်ဆိုင်မှုအားလုံးသည် တစ်နေ့ထက်တစ်နေ့ တန်ဖိုးကျဆင်းလာသည်။
+5/5
 
 6987
 Assets such as real estate properties gain value by the year.
 အိမ်ခြံမြေကဲ့သို့သော ပိုင်ဆိုင်မှုများသည် တစ်နှစ်ထက်တစ်နှစ် တန်ဖိုးတက်လာသည်။
+5/5
 
 6988
 It is possible for existing assets to accumulate gains.
-ရှိပြီးသား ပိုင်ဆိုင်မှုများအတွက် အမြတ်များစုပုံလာနိုင်သည်။
+ရှိပြီးသား ပိုင်ဆိုင်မှုများအတွက် အမြတ်များ တိုးပွါးလာနိုင်သည်။
+5/5
 
 6989
 An ED visit can be a teaching tool for people with drinking problems.
-အီးဒီသို့ သွားရောက်ပြသခြင်းသည် အရက်သောက်ခြင်းပြဿနာရှိသူများအတွက် သင်ကြားရေးကိရိယာတစ်ခုဖြစ်သည်။
+ED သို့ သွားရောက်ပြသခြင်းသည် အရက်သောက်ခြင်းပြဿနာရှိသူများအတွက် သင်ကြားရေး နည်းလမ်းတစ်ခုဖြစ်နိုင်သည်။
+4/5
 
 6990
 People with drinking problems are not permitted to visit the ED.
-အရက်သောက်ခြင်းပြဿနာရှိသူများသည် အီးဒီသို့ သွားရောက်ပြသခွင့်မရှိပါ။
+အရက်သောက်ခြင်းပြဿနာရှိသူများသည် ED သို့ သွားရောက်ပြသခွင့်မရှိပါ။
+4/5
 
 6991
 Studies show that a majority of people with drinking problems visit the ED at least once in their lives.
-လေ့လာမှုများအရ အရက်သောက်ခြင်းပြဿနာရှိသော လူအများစုသည် ၎င်းတို့၏ တစ်သက်တာတွင် အနည်းဆုံး တစ်ကြိမ် အီးဒီသို့ သွားရောက်ပြသလေ့ရှိကြောင်း သိရသည်။
+လေ့လာမှုများအရ အရက်သောက်ခြင်းပြဿနာရှိသော လူအများစုသည် ၎င်းတို့၏ တစ်သက်တာတွင် အနည်းဆုံး တစ်ကြိမ် ED သို့ သွားရောက်ပြသလေ့ရှိကြောင်း သိရသည်။
+4/5
 
 6992
 The AICPA will establish new headquarters in three states.
-အေအိုင်စီပီအေသည် ပြည်နယ်သုံးခုတွင် ရုံးချုပ်အသစ် တည်ထောင်မည်ဖြစ်သည်။
+AICPA သည် ပြည်နယ်သုံးခုတွင် ရုံးချုပ်အသစ် တည်ထောင်မည်ဖြစ်သည်။
+5/5
 
 6993
 The AICPA's has been running for more than a year.
-အေအိုင်စီပီအေသည် လည်ပတ်နေတာ တစ်နှစ်ကျော် ရှိပါပြီ။
+AICPA လည်ပတ်နေသည်မှာ တစ်နှစ်ကျော် ရှိပြီဖြစ်သည်။
+5/5
 
 6994
 Value-enhancement has never been on the AICPA's agenda.
 တန်ဖိုးမြှင့်တင်ခြင်းသည် အေအိုင်စီပီအေ၏ အစီအစဉ်တွင် တခါမှ မရှိခဲ့ပါ။
+4/5
 
 6995
 Business processes are not stagnant; they evolve with time.
-စီးပွားရေးလုပ်ငန်းစဉ်များသည် ရပ်တန့်မနေပါ; သူတို့က အချိန်နဲ့အမျှ တိုးတက်နေတယ်။
+စီးပွားရေးလုပ်ငန်းစဉ်များသည် ရပ်တန့်မနေပါ; ၄င်းတို့သည် အချိန်နဲ့အမျှ ပြောင်းလဲတိုးတက်ဖြစ်ပေါ်နေသည်။
+5/5
 
 6996
 New training programs have to be created when new business processes are adopted.
-စီးပွားရေးလုပ်ငန်းစဉ်အသစ်များကို လက်ခံကျင့်သုံးသောအခါတွင် လေ့ကျင့်ရေးအစီအစဉ်အသစ်များ ဖန်တီးရမည်။
+စီးပွားရေးလုပ်ငန်းစဉ်အသစ်များကို လက်ခံကျင့်သုံးသောအခါတွင် သင်ကြားလေ့ကျင့်ရေးအစီအစဉ်အသစ်များ ဖန်တီးရမည်။
+5/5
 
 6997
 Since needs are never changing, business processes do not need to evolve.
-လိုအပ်ချက်တွေက ဘယ်တော့မှ မပြောင်းလဲတဲ့အတွက် ၊ စီးပွားရေးလုပ်ငန်းစဉ်တွေ တိုးတက်ဖို့ မလိုအပ်ပါဘူး။
+လိုအပ်ချက်တွေက ဘယ်တော့မှ မပြောင်းလဲတဲ့အတွက် ၊ စီးပွားရေးလုပ်ငန်းစဉ်တွေ ပြောင်းလဲတိုးတက်ဖို့ မလိုအပ်ပါဘူး။
+4/5
 
 6998
 For half a year student debt has been discussed by a group in New York City.
-ကျောင်းသားကြွေးမြီ နှစ်ဝက်စာအတွက် နယူးယောက်မြို့က အဖွဲ့တစ်ဖွဲ့က ဆွေးနွေးထားပါတယ်။
+ကျောင်းသားကြွေးမြီကိစ္စကို နယူးယောက်မြို့က အဖွဲ့တစ်ဖွဲ့က ဆွေးနွေးနေတာ နှစ်တစ်ဝက်ရှိပြီဖြစ်ပါတယ်။
+4/5
 
 6999
 One person in Idaho has never thought about student debt.
-အိုင်ဒါဟိုရှိလူတစ်ဦးသည် ကျောင်းသားကြွေးမြီကို တစ်ခါမျှမတွေးခဲ့ပါ။
+အိုင်ဒါဟိုရှိလူတစ်ဦးသည် ကျောင်းသားကြွေးမြီအကြောင်းကို တစ်ခါမျှမတွေးခဲ့ဖူးပါ။
+4/5
 
 7000
 The group is trying to figure out what to do about student debt.
 အဖွဲ့သည် ကျောင်းသားကြွေးမြီနှင့် ပတ်သက်၍ ဘာလုပ်ရမည်ကို အဖြေရှာရန် ကြိုးစားနေပါသည်။
+5/5
 

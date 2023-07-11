@@ -1,535 +1,499 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 7901
 Only one person worked on the costume.
-ဝတ်စုံကို ဖန်တီးသူ တစ်ဦးတည်းသာ ရှိသည်။
-#5/5
+ဝတ်စုံကို လူတစ်ဦးတည်းက ချုပ်လုပ်ခဲ့သည်။
+5/5
 
 7902
 The people who helped make the costume are all women.
-ဝတ်စုံဖန်တီးရာတွင် ကူညီပေးသူများမှာ အမျိုးသမီးများအားလုံးဖြစ်သည်။
-#4/5
+ဝတ်စုံကိုချုပ်လုပ်ရာတွင် ကူညီခဲ့သူအားလုံးမှာ အမျိုးသမီးများဖြစ်သည်။
+5/5
 
 7903
 Three people contributed to the costume's making.
-ဝတ်စုံဖန်တီးမှုတွင် လူသုံးဦး ပါဝင်ခဲ့သည်။
-#5/5
+ဝတ်စုံဖန်တီးချုပ်လုပ်မှုတွင် လူသုံးဦး ပါဝင်ခဲ့သည်။
+5/5
 
 7904
 Making a charitable contribution will benefit you directly.
 အလှူဒါနပြုခြင်းသည် သင့်အား တိုက်ရိုက်အကျိုးရှိစေမည်ဖြစ်သည်။
-#5/5
+5/5
 
 7905
 The code is not readable.
 ကုဒ်ကို ဖတ်၍မရပါ။
-#5/5
+5/5
 
 7906
 There is some advantage to making a charitable contribution.
 အလှူဒါနပြုခြင်းအတွက် အကျိုးကျေးဇူးအချို့ရှိပါသည်။
-#5/5
+5/5
 
 7907
 Law schools don't care about the caliber of students, they just want money.
-ဥပဒေကျောင်းများသည် ကျောင်းသားများ၏ အရည်အချင်းကို ဂရုမစိုက်ဘဲ ၊ ငွေကိုသာ လိုချင်ကြသည်။
-#5/5
+ဥပဒေကျောင်းများသည် ကျောင်းသားများ၏ အရည်အချင်းကို ဂရုမစိုက်ပါ၊ ငွေကိုသာ လိုချင်ကြသည်။
+5/5
 
 7908
 Law schools want students with GPAs over 3.9.
-ဥပဒေကျောင်းများသည် ဂျီပီအေ ၃ဒသမ၉ အထက်ရှိသော ကျောင်းသားများကို အလိုရှိသည်။
-#5/5
+ဥပဒေကျောင်းများသည် ဂျီပီအေ ၃.၉ အထက်ရှိသော ကျောင်းသားများကို အလိုရှိသည်။
+5/5
 
 7909
 Law schools want the best students.
-ဥပဒေကျောင်းတွေက အကောင်းဆုံး ကျောင်းသားတွေကို လိုချင်တယ်။
-#5/5
+ဥပဒေကျောင်းများသည် အကောင်းဆုံး ကျောင်းသားများကို လိုချင်သည်။
+5/5
 
 7910
 The educators all have Master's Degrees.
-သင်ကြားရေးဆရာတိုင်းတွင် မဟာဘွဲ့များ ရှိသည်။
-#5/5
+ပညာသင်ကြားပေးသူတိုင်းတွင် မဟာဘွဲ့များ ရှိသည်။
+4/5
 
 7911
 The educators have graduated from some coursework.
-သင်ကြားရေးဆရာများသည် စာသင်နှစ်များမှ ဘွဲ့ရရှိကြသည်။
-#4/5
+ပညာသင်ကြားပေးသူများသည် စာသင်နှစ်များမှ ဘွဲ့ရရှိကြသည်။
+3/5
 
 7912
 The educators never got past a high school education.
 သင်ကြားရေးဆရာများသည် အထက်တန်းပညာရေးကို ဘယ်တော့မှ မကျော်ခဲ့ကြဘူး။
-#3/5
+3/5
 
 7913
 Creating the homes was completely free of charge.
-အိမ်များဖန်တီးခြင်းသည် လုံးဝအခမဲ့ဖြစ်သည်။
-#3/5
+အိမ်များဖန်တီးခြင်းသည် လုံးဝအခမဲ့ဖြစ်ခဲ့သည်။
+3/5
 
 7914
 The homes required resources to be created.
-အိမ်များဖန်တီးရန် အရင်းအနှီးများ လိုအပ်သည်။
-#4/5
+အိမ်များဖန်တီးရန် အရင်းအမြစ်များ လိုအပ်ခဲ့သည်။
+4/5
 
 7915
 The homes were more expensive to create than expected.
-အိမ်တွေ ဖန်တီးဖို့က မျှော်လင့်ထားတာထက် ပိုစျေးကြီးတယ်။
-#4/5
+အိမ်တွေ ဖန်တီးဖို့က မျှော်လင့်ထားတာထက် ပိုစျေးကြီးခဲ့တယ်။
+4/5
 
 7916
 Less than a quarter of the Museum's operating budget last year came from donations.
-ယမန်နှစ်က ပြတိုက်၏ လုပ်ငန်းလည်ပတ်မှုဘတ်ဂျက်မှ လေးပုံတစ်ပုံအောက်သာ လှူဒါန်းမှုမှ ရရှိခဲ့သည်။
-#5/5
+ပြတိုက်၏ ယမန်နှစ်လုပ်ငန်းလည်ပတ်မှုဘတ်ဂျက်၏ လေးပုံတစ်ပုံအောက်ကို လှူဒါန်းမှုမှ ရရှိခဲ့သည်။
+4/5
 
 7917
 Over half of the Museum's operating budget comes from donations every year.
-ပြတိုက်၏ လုပ်ငန်းလည်ပတ်မှုဘတ်ဂျက်မှ ထက်ဝက်ကျော်သည် နှစ်စဉ် လှူဒါန်းမှုများမှ ရရှိသည်။
-#5/5
+ပြတိုက်၏ လုပ်ငန်းလည်ပတ်မှုဘတ်ဂျက် ထက်ဝက်ကျော်သည် နှစ်စဉ် လှူဒါန်းမှုများမှ ဖြစ်သည်။
+4/5
 
 7918
 The Museum had a total operating budget of $10 million last year.
-ပြတိုက်သည် ယမန်နှစ်တွင် စုစုပေါင်း လုပ်ငန်းလည်ပတ်ရန် ဘတ်ဂျက် ဒေါ်လာ ၁၀ သန်း ရှိခဲ့သည်။
-#4/5
+ပြတိုက်သည် ယမန်နှစ်တွင် လုပ်ငန်းလည်ပတ်မှု ဘတ်ဂျက် စုစုပေါင်း ဒေါ်လာ ၁၀ သန်း ရှိခဲ့သည်။
+4/5
 
 7919
 Every single student is being reached through school.
-ကျောင်းသားတစ်ဦးစီသည် ကျောင်းမှတစ်ဆင့် ရောက်ရှိနေပါသည်။
-#2/5
+ကျောင်းသားကျောင်းသူတစ်ဦးစီကို ကျောင်းမှတစ်ဆင့် ဆက်သွယ် နေပါသည်။
+4/5
 
 7920
 Not all students are being reached through school and other community institutions.
-ကျောင်းသားအားလုံးသည် ကျောင်းနှင့် အခြားအသိုက်အဝန်း အဖွဲ့အစည်းများမှတဆင့် မရောက်ပါ။
-#2/5
+ကျောင်းသားကျောင်းသူအားလုံးကို ကျောင်းနှင့် အခြားလူမှုအဖွဲ့အစည်းများကတဆင့် ဆက်သွယ်နေတာမဟုတ်ပါ။
+4/5
 
 7921
 The students that will be reached will be eternally grateful.
-ရောက်လာမယ့် ကျောင်းသားကျောင်းသူတွေကို ထာဝရကျေးဇူးတင်ရှိမှာပါ ။
-#2/5
+ဆက်သွယ်ခံရမည့် ကျောင်းသားကျောင်းသူတွေက ထာဝရကျေးဇူးတင်မှာပါ။
+4/5
 
 7922
 Becky doesn't care about it at all.
 ဘက်ကီက ဒါကို လုံးဝ ဂရုမစိုက်ပါဘူး။
-#5/5
+5/5
 
 7923
 Becky is a 8th grade student.
-ဘက်ကီသည် ၈ တန်းကျောင်းသား တစ်ယောက် ဖြစ်သည်။
 ဘက်ကီသည် ၈တန်း ကျောင်းသူ တစ်ယောက် ဖြစ်သည်။
-#3/5
+5/5
 
 7924
 Becky is a student.
-ဘက်ကီသည် ကျောင်းသား တစ်ယောက် ဖြစ်သည်။
-ဘက်ကီသည် ကျောင်းသူတစ်ယောက်ဖြစ်သည်
-#3/5
+ဘက်ကီသည် ကျောင်းသူတစ်ယောက်ဖြစ်သည်။
+5/5
 
 7925
 Investments do not affect the Museum in any way.
-ရင်းနှီးမြှုပ်နှံမှုများသည် ပြတိုက်ကို မည်သည့်နည်းနှင့်မျှ မထိခိုက်စေပါ။
-#5/5
+ရင်းနှီးမြှုပ်နှံမှုများသည် ပြတိုက်ကို မည်သည့်နည်းနှင့်မျှ မထိခိုက်ပါ။
+5/5
 
 7926
 Larger investments are more helpful for the Museum.
 ကြီးမားသောရင်းနှီးမြှုပ်နှံမှုများသည် ပြတိုက်အတွက် ပိုမိုအထောက်အကူဖြစ်စေပါသည်။
-#5/5
+5/5
 
 7927
 The Museum is impacted by investments.
 ပြတိုက်သည် ရင်းနှီးမြှုပ်နှံမှုများကြောင့် သက်ရောက်မှုရှိသည်။
-#4/5
+4/5
 
 7928
 Gourmet food and champagne will be served at the reception.
-ဧည့်ခံပွဲတွင် အဆင့်မြင့်သော အစားအစာနှင့် ရှန်ပိန်တို့ကို ကျွေးမွေးမည်ဖြစ်ပါသည်။
-#4/5
+ဧည့်ခံပွဲတွင် အဆင့်မြင့်သော အစားအစာနှင့် ရှန်ပိန်တို့ဖြင့် တည်ခင်းဧည့်ခံမည်ဖြစ်ပါသည်။
+4/5
 
 7929
 You and a guest will be invited to attend a special reception if you donate $100 or more to the campaign.
-ကမ်ပိန်းအတွက်  ဒေါ်လာ ၁၀၀ သို့မဟုတ် ထို့ထက်ပို၍လှူဒါန်းပါက သင်နှင့်ဧည့်သည်တစ်ဦးအား အထူးဧည့်ခံပွဲသို့ တက်ရောက်ရန် ဖိတ်ကြားမည်ဖြစ်ပါသည်။
-#4/5
+ကမ်ပိန်းအတွက်  ဒေါ်လာ ၁၀၀ သို့မဟုတ် ထို့ထက်ပို၍လှူဒါန်းပါက သင်နှင့်ဧည့်သည်တစ်ဦးသည် အထူးဧည့်ခံပွဲသို့ တက်ရောက်ရန် ဖိတ်ကြားခံရမည်ဖြစ်ပါသည်။
+4/5
 
 7930
 You must donate at least $10,000 to be invited to attend the reception.
-ဧည့်ခံပွဲသို့ တက်ရောက်ရန် အနည်းဆုံး ဒေါ်လာ ၁၀၀၀၀ လှူဒါန်းရပါမည်။
-#4/5
+ဧည့်ခံပွဲသို့ တက်ရောက်ရန်အတွက် ဖိတ်ကြားခံရရန် အနည်းဆုံး ဒေါ်လာ ၁၀၀၀၀ သင်လှူဒါန်းရပါမည်။
+4/5
 
 7931
 We will fall way short of the goal.
-ကျွန်တော်တို့ ရည်မှန်းချက်ပန်းတိုင်ကို မရောက်သေးပါ။
-#4/5
+ငါတို့ရည်မှန်းထားထက်ကို တော်တော်လေးနဲလိမ့်မယ်။
+3/5
 
 7932
 We will reach our aspiration.
-ကျွန်တော်တို့ရဲ့ဆန္ဒကို အရောက်လှမ်းနိုင်မှာပါ။
-#5/5
+ငါတို့ရဲ့ရည်မှန်းချက်ကို အရောက်လှမ်းနိုင်မှာပါ။
+4/5
 
 7933
 We'll reach the goal of $2million.
-ပန်းတိုင်ကို ဒေါ်လာ၂သန်းထားပြီး ကျွန်တော်တို့ ရောက်အောင်သွားမယ်။
-#3/5
+ဒေါ်လာ၂သန်း ပန်းတိုင်ကို ငါတို့ ရောက်လိမ့်မယ်။
+4/5
 
 7934
 Please increase your donation amount this year by $25.
-သင်၏လှူဒါန်းမှုပမာဏကို ယခုနှစ်တွင် ၂၅ဒေါ်လာ တိုးပေးပါ။
-#4/5
+သင်၏ယခုနှစ်လှူဒါန်းမှုပမာဏကို ၂၅ဒေါ်လာ တိုးပေးပါ။
+4/5
 
 7935
 You gave enough last year, so please reduce it by $25 this time around.
 သင် မနှစ်က လုံလောက်အောင် ပေးခဲ့တယ်၊ ဒါကြောင့် ကျေးဇူးပြု၍ ဒီတစ်ကြိမ်မှာ ၂၅ ဒေါ်လာလောက် လျှော့ချလိုက်ပါ။
-#4/5
+4/5
 
 7936
 Your gift last year was $33.
-မနှစ်က မင်းရဲ့လက်ဆောင်က ၃၃‌ဒေါ်လာ ဖြစ်တယ်။
-#5/5
+မနှစ်က သင့်ရဲ့လက်ဆောင်က ၃၃‌ ဒေါ်လာ ဖြစ်တယ်။
+5/5
 
 7937
 The Civic Theater is fully funded and will turn away any more money.
-စီဗစ်ပြဇာတ်ရုံကို အပြည့်အဝ ရန်ပုံငွေ ပံ့ပိုးထားပြီး နောက်ထပ် မည်သည့်ပိုက်ဆံမျှ လက်ခံလိမ့်မည်မဟုတ်ပါ။
-#မြို့ပြဇာတ်ရုံ
-#4/5
+Civic ဇာတ်ရုံကို အပြည့်အဝ ရန်ပုံငွေ ပံ့ပိုးမှုရထားပြီဖြစ်ပြီး နောက်ထပ် မည်သည့်ပိုက်ဆံကိုမဆို ငြင်းပယ်လိမ့်မည်။
+4/5
 
 7938
 The Civic Theater needs $1million this year.
-စီဗစ်ပြဇာတ်ရုံသည် ယခုနှစ်တွင် ဒေါ်လာ ၁ သန်း လိုအပ်သည်။
-#မြို့ပြဇာတ်ရုံ
-#4/5
+Civic ဇာတ်ရုံသည် ယခုနှစ်တွင် ဒေါ်လာ ၁ သန်း လိုအပ်သည်။
+4/5
 
 7939
 The Civic Theater needs your support.
-စီဗစ်ပြဇာတ်ရုံသည် သင်၏ပံ့ပိုးကူညီမှု လိုအပ်ပါသည်။
-#မြို့ပြဇာတ်ရုံ
-#4/5
-
+Civic ပြဇာတ်ရုံသည် သင်၏ပံ့ပိုးကူညီမှု လိုအပ်ပါသည်။
+4/5
 
 7940
 The IRT is involved in soccer.
-အိုင်အာတီသည် ဘောလုံးနှင့်ပတ်သက်သည်။
-#5/5
+IRT သည် ဘောလုံးနှင့်ပတ်သက်သည်။
+4/5
 
 7941
 The IRT is involved in the theater for middle schoolers.
-အိုင်အာတီသည် အလယ်တန်းကျောင်းသူများအတွက် ပြဇာတ်ရုံတွင် ပါဝင်ပါသည်။
-#4/5
+ IRT သည် အလယ်တန်းကျောင်းသူကျောင်းသားများအတွက် ပြဇာတ်ရုံတွင် ပါဝင်သည်။
+4/5
 
 7942
 The IRT is involved in the theater.
-အိုင်အာတီသည် ပြဇာတ်ရုံတွင် ပါဝင်ပါသည်။
-#5/5
+ IRT သည် ပြဇာတ်ရုံတွင် ပါဝင်ပါသည်။
+4/5
 
 7943
 At least 6 Columbine High School students died earlier this year.
-ယခုနှစ်အစောပိုင်းတွင် ကော်လံဘိုင်း အထက်တန်းကျောင်းသား ၆ ဦးထက်မနည်း သေဆုံးခဲ့သည်။
-#5/5
+ယခုနှစ်အစောပိုင်းတွင် Columbine အထက်တန်းကျောင်းသား ၆ ဦးထက်မနည်း သေဆုံးခဲ့သည်။
+5/5
 
 7944
 Columbine High School shut down after students lost their lives.
-ကျောင်းသားတွေ အသက်ဆုံးရှုံးပြီးနောက် ကော်လံဘိုင်း အထက်တန်းကျောင်းကို ပိတ်ပစ်ခဲ့ပါတယ်။
-#4/5
+ကျောင်းသားများ အသက်ဆုံးရှုံးခဲ့ရပြီးနောက် Columbine အထက်တန်းကျောင်းကို ပိတ်ခဲ့သည်။
+4/5
 
 7945
 There will be no memorial for Cassie, one of the Columbine High School students who died.
-သေဆုံးသွားသော ကော်လံဘိုင်း အထက်တန်းကျောင်းမှ ကျောင်းသားတစ်ဦးဖြစ်သည့် ၊ ကတ်စီအတွက် အောက်မေ့ဖွယ် မရှိတော့ပါ။
-#ကျောင်းသူ
-#4/5
+Columbine အထက်တန်းကျောင်းမှ သေဆုံးသွားသောကျောင်းသူတစ်ဦးဖြစ်သည့် ကတ်စီအတွက် အောက်မေ့မွယ်အခမ်းအနား ရှိမည်မဟုတ်ပါ။
+4/5
 
 7946
 The IUPUI doesn't have any volunteer funding or help.
-အိုင်ယူပီယူအိုင်တွင် မည်သည့် စေတနာ့ဝန်ထမ်း ရန်ပုံငွေ သို့မဟုတ် အကူအညီ မရှိပါ။
-#4/5
+IUPUI တွင် မည်သည့် စေတနာ့ဝန်ထမ်း ရန်ပုံငွေ သို့မဟုတ် အကူအညီ မျှမရှိပါ။
+4/5
 
 7947
 The IUPUI library needs help.
-အိုင်ယူပီယူအိုင် စာကြည့်တိုက်သည် အကူအညီ လိုအပ်ပါသည်။
-#5/5
+IUPUI စာကြည့်တိုက်သည် အကူအညီ လိုအပ်ပါသည်။
+5/5
 
 7948
 The IUPUI needs 20 individual donations.
-အိုင်ယူပီယူအိုင်သည် တစ်ဦးချင်း အလှူငွေ၂၀ လိုအပ်ပါသည်။
-#3/5
+IUPUI သည် တစ်ဦးချင်း လှူဒါန်းမှု အခု ၂၀ လိုအပ်ပါသည်။
+4/5
 
 7949
 We accomplished everything on our list already!
-ကျွန်ုပ်တို့သည် ကျွန်ုပ်တို့၏စာရင်းတွင် အရာအားလုံးကို ပြီးမြောက်အောင်မြင်နေပြီဖြစ်သည်။
-#4/5
+ငါတို့စာရင်းထဲမှာရှိသမျှအကုန်လုံး ငါတို့အကုန်လုပ်ပြီးခဲ့ပြီးပြီ။
+4/5
 
 7950
 We have a lot of things we want to get done.
-ကျွန်တော်တို့မှာ လုပ်ချင်တာတွေ အများကြီးရှိတယ်။
-#ကျွန်တော်တို့မှာ ပြီးမြောက်ချင်သော အရာများစွာရှိသည်။
-#4/5
+ငါတို့ပြီးအောင်လုပ်ချင်တဲ့ ကိစ္စတွေ ငါတို့မှာ အများကြီးရှိတယ်။
+4/5
 
 7951
 We want to raise our sales numbers by 50%.
-ကျွန်ုပ်တို့သည် ကျွန်ုပ်တို့၏ရောင်းအားကို ၅၀% မြှင့်တင်လိုပါသည်။
-#5/5	
+ကျွန်ုပ်တို့သည် ကျွန်ုပ်တို့၏ရောင်းအားကို ၅၀% မြှင့်တင်လိုသည်။
+5/5	
 
 7952
 Every play can related to what students learn at school.
 ပြဇာတ်တိုင်းက ကျောင်းသားတွေ ကျောင်းမှာ သင်ယူရတဲ့ အရာတွေနဲ့ ဆက်စပ်နိုင်ပါတယ်။
-#5/5
+4/5
 
 7953
 Every play is related to what the art students learn in class.
-ပြဇာတ်တိုင်းသည် အတန်းထဲတွင် ပန်းချီကျောင်းသားများ သင်ယူသည့်အရာနှင့် ဆက်စပ်နေသည်။
-#5/5
+ပြဇာတ်တိုင်းသည် အတန်းထဲတွင် အနုပညာကျောင်းသားများ သင်ယူသည့်အရာနှင့် ဆက်စပ်နေသည်။
+5/5
 
 7954
 Plays stand alone and have no application in school.
-ပြဇာတ်တွေက တခြားစစ်စတမ်ကနေ ထိန်းချုပ်မှုမရှိဘဲ လည်ပတ်နိုင်ပြီး ကျောင်းတွင် လျှောက်လွှာတင်ခြင်း မရှိပါ။
-#2/5
-#ပြဇာတ်များသည် စာသင်ခန်းအတွက် အသုံးဝင်မှုမရှိဘဲ တစ်ကွဲတပြား ရှိသည်။
+ပြဇာတ်များသည် သီးခြားသပ်သပ်ဖြစ်ပြီး စာသင်ခန်းထဲတွင် အသုံးဝင်ချစရာမရှိပါ။
+3/5
 
 7955
 Bepko was elected by the popular vote.
-ဘက်ကိုကို ပေါ်ပြူလာမဲဖြင့် ရွေးချယ်ခဲ့သည်။
-#4/5
-#ဘက်ကိုကို လူကြိုက်များမှုနဲ့ ရွေးချယ်ခဲ့သည်
+ဘက်ကိုသည် မဲဆန္ဒရှင်များကပေးသောမဲဖြင့် ရွေးချယ်ခံခဲ့ရသည်။
+3/5
 
 7956
 Bepko was the head of the campaign in 1995.
 ဘက်ကိုသည် ၁၉၉၅ ခုနှစ်တွင် မဲဆွယ်စည်းရုံးရေးခေါင်းဆောင်ဖြစ်ခဲ့သည်။
-#5/5
+5/5
 
 7957
 Bepko was the head of the ways and means committee.
-ဘက်ကိုသည် ဝေးအန်မီး ကော်မတီ၏ အကြီးအကဲ ဖြစ်ခဲ့သည်။
-#3/5
-#ဘက်ကိုသည် ပြီးမြောက်အောင်ဆောင်ရွက်သောကော်မတီ၏‌ေခါင်း‌ေဆာင်ဖြစ်သည်။
+ဘက်ကိုသည် ways and means ကော်မတီ၏ခေါင်းဆောင် ဖြစ်ခဲ့သည်။
+4/5
 
 7958
 All of his students said he was the best teacher they'd ever had.
-သူ့တပည့်အားလုံးက သူသည် သူတို့တွေ့ဖူးသမျှတွင် အကောင်းဆုံးဆရာဟု ဆိုကြသည်။
-#5/5
+သူသည် သူတို့တွေ့ဖူးသမျှတွင် အကောင်းဆုံးဆရာဟု သူ့ကျောင်းသားကျောင်းသူအားလုံးက ဆိုကြသည်။
+5/5
 
 7959
 He had no family or students.
-သူ့မှာ မိသားစုတွေ သို့မဟုတ် ကျောင်းသားတွေ မရှိဘူး။	
-#5/5
+သူ့မှာ မိသားစုတွေ သို့မဟုတ် ကျောင်းသားတွေ မရှိခဲ့ဘူး။	
+4/5
 
 7960
 He was very helpful for his students.
 သူက သူ့တပည့်တွေအတွက် အရမ်းအထောက်အကူဖြစ်ခဲ့တယ်။
-#4/5
+4/5
 
 7961
 We do a better job at matching you with a date if we know a lot about you.
-မင်းအကြောင်းအများကြီးကို ငါတို့ သိရင် မင်းကို ရက်ချိန်းနဲ့ကိုက်ညီတဲ့ ပိုကောင်းတဲ့အလုပ်တစ်ခုကို ငါတို့လုပ်မယ်။
-#3/5
-# မင်း‌အကြောင်း ငါတို့ များများသိရင် မင်းနဲ့ လိုက်တဲ့ ကောင်မလေးနဲ့တွေ့ဖို့ ငါတို့ ပိုစီစဉ်ပေးမယ်။
-
+မင်း‌အကြောင်း ငါတို့ များများသိရင် မင်းနဲ့ လိုက်တဲ့ ကောင်မလေးနဲ့တွေ့ဖို့ ငါတို့ ပိုစီစဉ်ပေးနိုင်တယ်။
+4/5
 
 7962
 We do better when we know more about you.
-မင်းအကြောင်း ပိုသိလာတဲ့အခါ ငါတို့ ပိုကောင်းလာမယ်။
-#4/5
-#မင်းအကြောင်း ပိုသိရင် ငါတို့ ပိုအဆင်ပြေအောင်လုပ်ပေးမယ်။
+ငါတို့မင်းအကြောင်း ပိုသိရင် ငါတို့ ပိုအဆင်ပြေအောင်လုပ်ပေးနိုင်တယ်။
+4/5
 
 7963
 We don't need to know anything about you.
 ငါတို့ မင်းအကြောင်း ဘာမှ သိစရာ မလိုဘူး။
-#5/5
+5/5
 
 7964
 The Society cares for animals that are almost extinct in Africa.
-လူ့အဖွဲ့အစည်းသည် အာဖရိကတွင် မျိုးသုဉ်းလုနီးပါးဖြစ်နေသော တိရစ္ဆာန်များကို ပြုစုစောင့်ရှောက်ပေးသည်။
-#4/5
-
+အဖွဲ့အစည်းသည် အာဖရိကတွင် မျိုးသုဉ်းလုနီးပါးဖြစ်နေသော တိရစ္ဆာန်များကို ပြုစုစောင့်ရှောက်သည်။
+4/5
 
 7965
 The Society cares for animals.
-လူ့အဖွဲ့အစည်းသည် တိရစ္ဆာန်များကို စောင့်ရှောက်သည်။
-#4/5
-
+အဖွဲ့အစည်းသည် တိရစ္ဆာန်များကို စောင့်ရှောက်သည်။
+4/5
 
 7966
 The Society cares for little kids.
-လူ့အဖွဲ့အစည်းက ကလေးငယ်တွေကို ပြုစုစောင့်ရှောက်တယ်။
-#4/5
+အဖွဲ့အစည်းသည် ကလေးငယ်များကို ပြုစုစောင့်ရှောက်သည်။
+4/5
 
 7967
 There are only two lockers in the whole building.
 အဆောက်အဦတစ်ခုလုံးတွင် လော့ကာနှစ်ခုသာရှိသည်။
-#4/5
+4/5
 
 7968
 There are way more lockers than the students would ever need.
-ကျောင်းသားတွေ လိုအပ်တာထက် လော့ကာတွေက  ပိုများတယ်။
-#4/5
+ကျောင်းသားတွေ လိုအပ်တာထက် လော့ကာတွေက  အများကြီးပိုများနေတယ်။
+4/5
 
 7969
 There is a lack of lockers for students.
-ကျောင်းသားများအတွက် လော့ကာများ မရှိပါ။
-#4/5
+ကျောင်းသားများအတွက် လော့ကာများ လုံလောက်မှုမရှိပါ။
+4/5
 
 7970
 The Clinton Birthplace Foundation is for-profit.
 ကလင်တန်မွေးရပ်မြေဖောင်ဒေးရှင်းသည် အကျိုးအမြတ်အတွက်ဖြစ်သည်။
-#4/5
+4/5
 
 7971
 The Clinton Birthplace Foundation operates on donations.
-ကလင်တန်မွေးရပ်မြေဖောင်ဒေးရှင်းသည်  အလှူငွေများဖြင့် လုပ်ဆောင်နေသည်။
+ကလင်တန်မွေးရပ်မြေဖောင်ဒေးရှင်းသည်  အလှူငွေများဖြင့် လည်ပတ်သည်။
+5/5
 
 7972
 The Clinton Birthplace Foundation requires $1m a year to operate.
 ကလင်တန်မွေးရပ်မြေဖောင်ဒေးရှင်းသည် လုပ်ငန်းလည်ပတ်ရန် တစ်နှစ်လျှင် ဒေါ်လာ ၁ သန်း လိုအပ်သည်။
+5/5
 
 7973
 I don't think that's true.
-ကျွန်တော် အဲဒါကို အမှန်လို့ မထင်ဘူး။
+အဲဒါ မှန်တယ်လို့ ငါမထင်ဘူး။
+5/5
 
 7974
 I think you are correct!
-ခင်ဗျားမှန်တယ်လို့ ကျွန်တော် ထင်တယ်။
+မင်းမှန်တယ်လို့ ငါ ထင်တယ်!
+5/5
 
 7975
 I think you are wrong, that the answer is yes and not no.
-အဖြေက ဟုတ်ပါတယ် မဟုတ်ဘူးဆိုတာ မဟုတ်ပါ၊ ခင်ဗျား မှားတယ်လို့ ကျွန်တော် ထင်ပါတယ်။
+မင်း မှားတယ်လို့ ငါ ထင်တယ်၊ အဖြေက ဟုတ်ပါတယ် မဟုတ်ဘူးဆိုတာ မဟုတ်ပါ။
+3/5
 
 7976
 We don't plan on expanding at all.
-ကျွန်တော်တို့ ချဲ့ထွင်ဖို့ လုံးဝ အစီအစဉ် မရှိပါဘူး။
+ငါတို့ ချဲ့ထွင်ဖို့ လုံးဝ အစီအစဉ် မရှိပါဘူး။
+5/5
 
 7977
 You could help us expand into seven states.
-သင်သည် ကျွန်ုပ်တို့အား ပြည်နယ်ခုနစ်ခုသို့ ချဲ့ထွင်ရန် ကူညီပေးနိုင်သည်။
+ပြည်နယ်ခုနစ်ခုသို့ ချဲ့ထွင်ရန် သင်က ကျွန်ုပ်တို့အား ကူညီပေးနိုင်သည်။
+5/5
 
 7978
 You could help us expand our outreach programs.
 ကျွန်ုပ်တို့၏ အသိပညာပေးအစီအစဉ်များကို ချဲ့ထွင်ရန် သင်သည် ကျွန်ုပ်တို့ကို ကူညီနိုင်ပါသည်။
+4/5
 
 7979
 Community theaters never help actors improve.
-ရပ်ရွာပြဇာတ်ရုံများသည် သရုပ်ဆောင်များကို တိုးတက်အောင် ဘယ်သောအခါမှ မကူညီပါ။
+ရပ်ရွာပြဇာတ်ရုံများသည် သရုပ်ဆောင်များကို တိုးတက်အောင် ဘယ်သောအခါမှ အထောက်အကူ မပြုပါ။
+4/5
 
 7980
 Most professional actors started in the community theaters.
 ပရော်ဖက်ရှင်နယ်သရုပ်ဆောင်အများစုသည် ရပ်ရွာပြဇာတ်ရုံများတွင် စတင်ခဲ့သည်။
+4/5
 
 7981
 Some actors use community theater to improve.
-အချို့သော သရုပ်ဆောင်များသည် ရပ်ရွာပြဇာတ်ရုံကို တိုးတက်စေရန် အသုံးပြုကြသည်။
+အချို့သော သရုပ်ဆောင်များသည် တိုးတက်ရန်အတွက် ရပ်ရွာပြဇာတ်ရုံကို အသုံးပြုသည်။
+4/5
 
 7982
 You can be a member for the Clinton Birthplace Foundation.
 သင်သည် ကလင်တန်မွေးရပ်မြေဖောင်ဒေးရှင်း အတွက် အဖွဲ့ဝင်ဖြစ်နိုင်ပါသည်။
+4/5
 
 7983
 You get a newsletter if you are a member of the Clinton Birthplace Foundation.
 အကယ်၍ သင်သည် ကလင်တန်မွေးရပ်မြေဖောင်ဒေးရှင်း၏ အဖွဲ့ဝင်ဖြစ်ပါက သတင်းလွှာတစ်စောင် ရရှိမည်ဖြစ်သည်။
+4/5
 
 7984
 You have to pay $1000 to be a member of the Clinton Birthplace Foundation.
-ကလင်တန်မွေးရပ်မြေဖောင်ဒေးရှင်း၏ အဖွဲ့ဝင်ဖြစ်ရန် သင်သည် ဒေါ်လာ ၁၀၀၀ ပေးချေရပါမည်။
+ကလင်တန်မွေးရပ်မြေဖောင်ဒေးရှင်း၏ အဖွဲ့ဝင်ဖြစ်ရန် သင်သည် ဒေါ်လာ ၁၀၀၀ ပေးရပါမည်။
+5/5
 
 7985
 It hasnt rained in 3 years.
 မိုးမရွာတာ ၃ နှစ်ရှိပြီ။
+5/5
 
 7986
 It rained 17 inches last Sunday.
-ပြီးခဲ့သည့် တနင်္ဂနွေနေ့က မိုးရွာသွန်းမှုမှာ ၁၇လက်မ ဖြစ်သည်။
+ပြီးခဲ့သည့် တနင်္ဂနွေနေ့က မိုးရွာသွန်းမှုမှာ ၁၇လက်မ ရွာခဲ့သည်။
+4/5
 
 7987
 It rained last Sunday.
-ပြီးခဲ့တဲ့ တနင်္ဂနွေနေ့က မိုးရွာတယ်။
+ပြီးခဲ့တဲ့ တနင်္ဂနွေနေ့က မိုးရွာခဲ့တယ်။
+4/5
 
 7988
 No actors were in Indiana in the 70's.
-၇၀  နဲ့ ၇၉ ကြားအတွင်း အင်ဒီယားနားတွင် သရုပ်ဆောင်များ မရှိခဲ့ပါ။
+၁၉၇၀ ပြည့်နှစ်ကာလများတွင် Indiana ၌ သရုပ်ဆောင်များ မရှိခဲ့ပါ။
+4/5
 
 7989
 Some Oscar-winning actors toured Indiana in 1973.
-အော်စကာဆုရ သရုပ်ဆောင်အချို့သည် ၁၉၇၃ ခုနှစ်တွင် အင်ဒီယားနားသို့ သွားရောက်ခဲ့သည်။
+အော်စကာဆုရ သရုပ်ဆောင်အချို့သည် ၁၉၇၃ ခုနှစ်တွင် Indiana တွင် ဖျော်ဖြေခဲ့သည်။
+#4/5
 
 7990
 Some actors toured in Indiana in 1973.
-အချို့သောသရုပ်ဆောင်များသည်  ၁၉၇၃ ခုနှစ်တွင် အင်ဒီယားနားတွင်ဖျော်ဖြေခဲ့သည်။
+အချို့သောသရုပ်ဆောင်များသည်  ၁၉၇၃ ခုနှစ်တွင် Indiana ၌ဖျော်ဖြေခဲ့သည်။
+4/5
 
 7991
 The Indiana University School of Medicine has raised $1 million from dreamers.
-အင်ဒီယားနားတက္ကသိုလ် ဆေးကျောင်းသည် တရားဝင်ခွင့်ပြုချက်မရှိဘဲနေထိုင်သူများထံမှ ဒေါ်လာ ၁ သန်း ရရှိခဲ့သည်။
+Indiana တက္ကသိုလ် ဆေးကျောင်းသည် dreamer များထံမှ ဒေါ်လာ ၁ သန်း ကောက်ခံရရှိခဲ့သည်။
+3/5
 
 7992
 The Indiana University School of Medicine owes a lot to dreamers
-အင်ဒီယားနားတက္ကသိုလ် ဆေးကျောင်းသည် တရားဝင်ခွင့်ပြုချက်မရှိဘဲနေထိုင်သူများကို ပြန်ပေးရန်အများကြီးရှိပါသည်။
+Indiana တက္ကသိုလ် ဆေးကျောင်းသည် dreamer များထံတွင် ကျေးဇူးကြွေးအများအများကြီးရှိသည်။
+3/5
 
 7993
 The Indiana University School of Medicine shut down on its 50th anniversary.
-အင်ဒီယားနားတက္ကသိုလ် ဆေးကျောင်းသည် ၎င်း၏ နှစ် ၅၀ ပြည့် နှစ်ပတ်လည်နေ့တွင် ပိတ်လိုက်သည်။
+Indiana တက္ကသိုလ် ဆေးကျောင်းသည် ၎င်း၏ နှစ် ၅၀ ပြည့် နှစ်ပတ်လည်နေ့တွင် ပိတ်လိုက်သည်။
+4/5
 
 7994
 The American Presidential Inauguration is considered to be the world's greatest celebration of democracy.
-အမေရိကန်သမ္မတ ကျမ်းသစ္စာကျိန်ဆိုပွဲကို ကမ္ဘာ့အကြီးကျယ်ဆုံး ဒီမိုကရေစီနေ့ အခမ်းအနားဟု သတ်မှတ်သည်။
+အမေရိကန်သမ္မတ ကျမ်းသစ္စာကျိန်ဆိုပွဲကို ကမ္ဘာ့အကြီးကျယ်ဆုံး ဒီမိုကရေစီအခမ်းအနားဟု သတ်မှတ်ကြသည်။
+4/5
 
 7995
 The best seats to view the American Presidential Inauguration can only be acquired by Inner circle members.
-အမေရိကန်သမ္မတ ကျမ်းသစ္စာကျိန်ဆိုပွဲအား ကြည့်ရှုရန် အကောင်းဆုံးထိုင်ခုံများကို အတွင်းစည်းအဖွဲ့ဝင်များမှသာ ရယူနိုင်ပါသည်။
+အမေရိကန်သမ္မတ ကျမ်းသစ္စာကျိန်ဆိုပွဲအား ကြည့်ရှုရန် အကောင်းဆုံးထိုင်ခုံများကို အတွင်းစည်းအဖွဲ့ဝင်များuသာ ရယူနိုင်သည်။
+4/5
 
 7996
 The purpose of the American Presidential Inauguration is to celebrate the dictatorships of the world
-အမေရိကန်သမ္မတ ကျမ်းသစ္စာကျိန်ဆိုပွဲ၏ ရည်ရွယ်ချက်မှာ ကမ္ဘာပေါ်တွင် အာဏာရှင်များကို ဂုဏ်ပြုရန်ဖြစ်သည်
+အမေရိကန်သမ္မတ ကျမ်းသစ္စာကျိန်ဆိုပွဲ၏ ရည်ရွယ်ချက်မှာ ကမ္ဘာပေါ်ရှိ အာဏာရှင်စနစ်များကို ဂုဏ်ပြုရန်ဖြစ်သည်။
+5/5
 
 7997
 I don't want your money!
-မင်းရဲ့ပိုက်ဆံကို ငါမလိုချင်ဘူး။
+မင်းရဲ့ပိုက်ဆံကို ငါမလိုချင်ဘူး!
+5/5
 
 7998
 I hope you will donate to the Annual Campaign.
- နှစ်စဉ်ပြုလုပ်နေကြကမ်ပိန်းကို လှူဒါန်းမယ်လို့  ကျွန်တော် ခင်ဗျားကို မျှော်လင့်ပါတယ်။
+နှစ်စဉ်ပြုလုပ်နေကြကမ်ပိန်းကို မင်းလှူဒါန်းမယ်လို့  ငါမျှော်လင့်ပါတယ်။
+4/5
 
 7999
 I hope you'll give $100 to the campaign.
 ကမ်ပိန်းအတွက် မင်း ဒေါ်လာ၁၀၀ ပေးမယ်လို့ ငါ မျှော်လင့်ပါတယ်။
+4/5
 
 8000
 Wanda does not have any children.
 ဝမ်ဒါတွင် သားသမီးမရှိပါ။
+5/5

@@ -1,450 +1,499 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 6201
 The men next to Jesus were innocent.
-ယေရှုဘေးကလူတွေဟာ အပြစ်ကင်းတယ်။
+#ယေရှုဘေးကလူတွေဟာ အပြစ်ကင်းခဲ့ကြတယ်။
+#5/5
 
 6202
 There were three people on crosses.
 လက်ဝါးကပ်တိုင်ပေါ်မှာ လူသုံးယောက်ရှိခဲ့တယ်။
+#5/5
 
 6203
 The Indian culture uses ball games as social gatherings.
 အိန္ဒိယယဉ်ကျေးမှုသည် ဘောလုံးကစားပွဲများကို လူမှုရေးတွေ့ဆုံပွဲများအဖြစ် အသုံးပြုသည်။
+#5/5
 
 6204
 They haven't discovered open spaces since 1932.
-သူတို့သည် ၁၉၃၂ ခုနှစ်ကတည်းက ပွင့်လင်းသောနေရာများကို ရှာမတွေ့ခဲ့ဘူး။
+#သူတို့သည် ၁၉၃၂ ခုနှစ်ကတည်းက ကျယ်ပြန့်သောနေရာများကို ရှာမတွေ့ခဲ့ဘူး။
+#5/5
 
 6205
 They play ball in Indian culture.
-သူတို့သည် အိန္ဒိယယဉ်ကျေးမှုတွင် ဘောလုံးကစားကြသည်။
+#အိန္ဒိယယဉ်ကျေးမှုတွင် သူတို့ ဘောလုံးကစားကြသည်။
+#5/5
 
 6206
 The terrain has caves.
 မြေပြင်မှာ ဂူများရှိသည်။
+#5/5
 
 6207
 The terrain has slopes.
 မြေပြင်မှာ တောင်စောင်းများရှိသည်။
+#5/5
 
 6208
 The terrain is flat.
 မြေပြင် က ပြန့်ပြူးသည်။
+#5/5
 
 6209
 It's best to go to Saronic islands in spring, summer, and fall.
-နွေဦး၊ နွေရာသီနှင့် ဆောင်းဦးရာသီများမှာ ဆရောနစ်ကျွန်းများသို့ သွားခြင်းသည် အကောင်းဆုံးဖြစ်သည်။
+#နွေဦး၊ နွေရာသီနှင့် ဆောင်းဦးရာသီများမှာ Saronic ကျွန်းများသို့ သွားခြင်းသည် အကောင်းဆုံးဖြစ်သည်။
+#5/5
 
 6210
 The Saronic Islands don't have a season.
-ဆာရိုနစ်ကျွန်းများမှာ ရာသီဥတု တစ်ခု မရှိပါ။
+#Saronic ကျွန်းများမှာ ရာသီဥတု တစ်ခု မရှိပါ။
+#5/5
 
 6211
 The Saronic islands have a distinct season.
-ဆာရိုနစ်ကျွန်းများမှာ ထူးခြားသောရာသီဥတု တစ်ခု ရှိသည်။
+#Saronic ကျွန်းများမှာ ထူးခြားသောရာသီဥတု တစ်ခု ရှိသည်။
+#5/5
 
 6212
 It's best to book 6 months ahead of your visit.
 မင်း သွားမလည်ခင် ၆လ ကြိုတင်စာရင်းသွင်းခြင်းသည်အကောင်းဆုံးဖြစ်သည်။
+#5/5
 
 6213
 It's best to book early.
-စောစော ကြိုတင်စာရင်းသွင်းတာ အကောင်းဆုံးဖြစ်သည်။
+စောစော စာရင်းသွင်းတာ အကောင်းဆုံးဖြစ်သည်။
+#5/5
 
 6214
 You can just book when you are there.
-မင်းအဲဒီမှာရှိနေတုန်းမှာပဲ မင်း ကြိုတင်စာရင်းသွင်းနိုင်တယ်။
+မင်းအဲဒီမှာရှိနေတုန်းမှာပဲ မင်း စာရင်းသွင်းနိုင်တယ်။
+#5/5
 
 6215
 PEople go to the islands for a short time.
 လူတွေက ကျွန်းတွေဆီကို အချိန်အတိုတစ်ခုကြာ သွားကြတယ်။
+#5/5
 
 6216
 You can visit the islands for an hour.
 မင်း ကျွန်းတွေကို တစ်နာရီလောက် သွားလည်နိုင်တယ်။
+#5/5
 
 6217
 You have to go to the islands for a week or not at all.
 မင်း ကျွန်းတွေဆီကို တစ်ပတ်လောက်သွားရမယ်၊ ဒါမှမဟုတ် လုံးဝမသွားရဘူး။
+#5/5
 
 6218
 Chinatown is on the water in San Diego.
 ချိုင်းနားတောင်းသည် ဆန် ဒီယေဂို ရှိ ရေပေါ်မှာ ရှိသည်။
+#5/5
 
 6219
 Chinatown is on the water.
 ချိုင်းနားတောင်းသည် ရေပေါ်မှာ ရှိသည်။
+#5/5
 
 6220
 Chinatown is very far from the water.
 ချိုင်းနားတောင်းသည် ရေနှင့် အလွန်ဝေးသည်။
+#5/5
 
 6221
 Mount Parnassus is 100 miles from the city.
-ဖာနားဆစ်စ် တောင် သည် မြို့နှင့် မိုင် တစ်ရာ အကွာတွင်ရှိသည်။
+#Parnassus တောင် သည် မြို့နှင့် မိုင် တစ်ရာ အကွာတွင်ရှိသည်။
+#5/5
 
 6222
 Mount Parnassus is only a 10 minute drive from the city
-ဖာနားဆစ်စ် တောင် သည် မြို့မှ ဆယ် မိနစ်သာ ကားမောင်းရသည်။
+#Parnassus တောင် သည် မြို့မှ ဆယ် မိနစ်သာ ကားမောင်းရသည်။
+#5/5
 
 6223
 Mount Parnassus isn't a terribly long drive.
-ဖာနားဆစ်စ် တောင် သည် လုံးဝ ရှည်လျားသော မောင်းနှင်မှု တစ်ခု မဟုတ်ပါ။
+#Parnassus တောင် သည် လုံးဝ ရှည်လျားသော မောင်းနှင်မှု တစ်ခု မဟုတ်ပါ။
+#5/5
 
 6224
 You aren't allowed to play where the high rollers play.
-သင့်ကို မြင့်မားသော လှိုင်းလုံး ကစားသည့်နေရာတွင် ကစားရန် ခွင့်မပြုပါ။
+သင့်ကို သူဌေးများ ကစားသည့်နေရာတွင် ကစားရန် ခွင့်မပြုပါ။
+#4/5
 
 6225
 You can gamble in Vegas.
 သင် ဗီးဂတ်စ် တွင် လောင်းကစားလုပ်နိုင်သည်။
+#5/5
 
 6226
 You can gamble.
 သင် လောင်းကစားလုပ်နိုင်သည်။
+#5/5
 
 6227
 Museums are laid out poorly.
 ပြတိုက်များကို ညံ့ဖျင်းစွာ ခင်းကျင်းထားသည်။
+#5/5
 
 6228
 Museums are laid out well.
 ပြတိုက်များကို ကောင်းစွာ ခင်းကျင်းထားသည်။
+#5/5
 
 6229
 Museums are laid out within walking distance.
 လမ်းလျှောက်အကွာအဝေးအတွင်းမှာ ပြတိုက်များကို ခင်းကျင်းထားသည်။
+#5/5
 
 6230
 The playing location is a one hour drive away.
 ကစားသည့်နေရာကို တစ်နာရီလောက် ကားမောင်းသွားရသည်။
+#5/5
 
 6231
 There are several places in town where new people can play.
 မြို့ထဲမှာ လူသစ်တွေ ကစားနိုင်တဲ့ နေရာများစွာ ရှိတယ်။
+#5/5
 
 6232
 There is nowhere for new people to play in town.
 မြို့ထဲမှာ လူသစ်တွေ ကစားဖို့ နေရာမရှိဘူး။
+#5/5
 
 6233
 IT was just for church.
 အဲဒါက ဘုရားကျောင်းအတွက်သာဖြစ်ခဲ့သည်။
+#5/5
 
 6234
 It had court held there for divorces and family matters.
-ကွာရှင်းပြတ်စဲမှုနှင့် မိသားစုကိစ္စများအတွက် တရားရုံးက အဲဒီမှာ ထိန်းချုပ်ထားသည်။
+ကွာရှင်းပြတ်စဲမှုနှင့် မိသားစုကိစ္စများအတွက် တရားရုံးက အဲဒီမှာ ရုံးတည်ရှိခဲ့သည်။
+#4/5
 
 6235
 It had court held there.
-အဲဒီမှာ ထိန်းချုပ်ထားတဲ့ တရားရုံး ရှိခဲ့သည်။
+အဲဒီမှာ တရားရုံး တည်ရှိခဲ့သည်။
+#4/5
 
 6236
 The road was curvy
 လမ်းက ကွေ့ကောက်သွားသည်
+#4/5
 
 6237
 The road was so curvy that it was hard to drive on.
-လမ်းက မောင်းရခက်လောက်အောင် တော်တော် ကွေ့ကောက်လွန်းသည်။
+လမ်းက မောင်းရခက်လောက်အောင် တော်တော် ကွေ့ကောက်လွန်းခဲ့သည်။
+#4/5
 
 6238
 The road was totally straight.
 လမ်းက လုံးဝဖြောင့်သည်။
+#5/5
 
 6239
 City Hall is 2 blocks east of the terminal.
 မြို့တော်ခန်းမသည် ဂိတ်၏အရှေ့ဘက် ၂ ဘလောက်ရှိသည်။
-
+#5/5
+ 
 6240
 City Hall is near the ferry terminal.
 မြို့တော်ခန်းမသည် ဖယ်ရီဂိတ်အနီးတွင်ရှိသည်။
+#5/5
 
 6241
 City Hall is very far from the terminal.
 မြို့တော်ခန်းမသည် ဂိတ်နှင့် အလွန်ဝေးသည်။
+#5/5
 
 6242
 You can see a ton of it still.
-ထိုအရာထဲက အနည်းငယ် ကို မြင်နိုင်တယ်။
+ထိုအရာထဲက အများစုကို မြင်နိုင်သေးတယ်။
+#5/5
 
 6243
 You can't see much of it left in Beijing.
 ပေကျင်းမှာ ထိုအရာထဲက အများစု ကျန်ခဲ့တာကို မင်းမမြင်နိုင်ဘူး။
+#4/5
 
 6244
 You can't see much of the original paint in Beijing.
 ပေကျင်းမှာ မူရင်း ဆေးရောင်စုံဘူး အများစုကို မင်းမမြင်နိုင်ဘူး။
+#4/5
 
 6245
 The city also has a university and a harbor that are interesting.
 မြို့တော်မှာ စိတ်ဝင်စားစရာ တက္ကသိုလ်တစ်ခုနဲ့ ဆိပ်ကမ်းတစ်ခုလည်း ရှိသည်။
+#4/5
 
 6246
 The city was just constructed a few years ago and does not have much history.
 မြို့တော်ကို လွန်ခဲ့သည့် နှစ်အနည်းငယ်က ဆောက်လုပ်ခဲ့ပြီးတော့ သမိုင်းကြောင်း အများအပြား မရှိဘူး။
+#5/5
 
 6247
 There are many historical buildings that are interesting.
 စိတ်ဝင်စားစရာကောင်းတဲ့ သမိုင်းဝင် အဆောက်အဦးတွေ အများကြီးရှိသည်။
+#5/5
 
 6248
 Commercial activity and pedestrians are prohibited in Passeig de Gracia.
-စီးပွားဖြစ်လှုပ်ရှားမှုများနှင့် လမ်းသွားလမ်းလာများကို ပါ့စီးရက် ဒက် ဂရာစီယာ မှာ တားမြစ်ထားသည်။
+#စီးပွားဖြစ်လှုပ်ရှားမှုများနှင့် လမ်းသွားလမ်းလာများကို Passeig de Gracia မှာ တားမြစ်ထားသည်။
+#5/5
 
 6249
 Shopping prices in these areas are slightly higher than other nearby areas.
 အဲဒီဒေသတွေမှာရှိတဲ့ ဈေးဝယ် ဈေးနှုန်းများသည် အခြား အနီးအနားရှိ ဒေသများထက် အနည်းငယ် ပိုမြင့်ပါသည်။
+#4/5
 
 6250
 There are shopping areas in the uptown segment of La Rambla.
 လာ့ ရမ်ဗလာ ၏ မြို့ပြအပိုင်းမှာ စျေးဝယ်ရန်နေရာများရှိသည်။
+#5/5
 
 6251
 Local governments get to make up their own rules.
 ဒေသဆိုင်ရာအစိုးရများသည် သူတို့၏ ကိုယ်ပိုင် စည်းမျဉ်းစည်းကမ်းများကို ချမှတ်ကြသည်။
+#5/5
 
 6252
 Local governments have zero requirements.
 ဒေသဆိုင်ရာ အစိုးရများမှာ လိုအပ်ချက်များ လုံးဝမရှိပါ။
+#5/5
 
 6253
 There are additional audit requirements issues by local governments.
 ဒေသဆိုင်ရာ အစိုးရများမှ နောက်ထပ် စာရင်းစစ် လိုအပ်ချက် ကိစ္စများ ရှိပါသည်။
+#5/5
 
 6254
 By consolidating human resources systems, room was created for new corporate structures.
 အခန်းကို အသင်းအဖွဲ့ ဖွဲ့စည်းပုံအသစ်များအတွက် လူ့စွမ်းအားအရင်းအမြစ်စနစ်များကို စုစည်းခြင်းဖြင့် ၊ ဖန်တီးခဲ့သည်။
+#4/5
 
 6255
 Corporate structures were created.
 အသင်းအဖွဲ့ ဖွဲ့စည်းပုံများကို ဖန်တီးခဲ့သည်။
+#5/5
 
 6256
 Human resource systems were expanded beyond their previous state.
 လူ့စွမ်းအားအရင်းအမြစ်စနစ်များကို သူတို့၏ယခင်အခြေအနေထက် ကျော်လွန်၍ ချဲ့ထွင်ခဲ့ကြသည်။
+#5/5
 
 6257
 There are resources available for these tasks.
 ဤလုပ်ငန်းဆောင်တာများအတွက် ရရှိနိုင်သောအရင်းအမြစ်များရှိပါသည်။
+#4/5
 
 6258
 There is no available funding for the work.
 အလုပ်အတွက် ရရှိနိုင်သော ရန်ပုံငွေ မရှိပါ။
+#5/5
 
 6259
 There is not enough funding for the work.
 အလုပ်အတွက် လုံလောက်သော ရန်ပုံငွေ မရှိဘူး။
+#5/5
 
 6260
 The security group averages 9 sessions a month.
 လုံခြုံရေးအဖွဲ့သည် တစ်လလျှင် ပျမ်းမျှအစည်းအဝေး ၉ ကြိမ် ရှိသည်။
+#5/5
 
 6261
 The security group conducts a session every single day of the month.
 လုံခြုံရေးအဖွဲ့သည် လတိုင်း၏ တစ်ခုတည်းသော ရက်ကို အစည်းအဝေးတစ်ခု လုပ်ဆောင်သည်။
+#4/5
 
 6262
 The security group conducts multiple sessions a year.
 လုံခြုံရေးအဖွဲ့သည် တစ်နှစ်လျှင် အစည်းအဝေးများစွာ လုပ်ဆောင်သည်။
+#5/5
 
 6263
 The statistics in this paper are based on a 2001 report.
 ဒီစာတမ်းပါ စာရင်းအင်းများသည် ၂၀၀၁ ခုနှစ် အစီရင်ခံစာတစ်ခုကို အခြေခံထားသည်။
+#5/5
 
 6264
 The statistics in this paper are outdated.
 ဒီစာတမ်းပါ စာရင်းအင်းများက ခေတ်မမီတော့ဘူး။
+#5/5
 
 6265
 This paper includes data on rural routes.
 ဒီစာတမ်းတွင် ကျေးလက်လမ်းကြောင်းများဆိုင်ရာ အချက်အလက် ပါဝင်သည်။
+#5/5
 
 6266
 Each element the executive is tested on could result in different ratings.
 အမှုဆောင်မှ စမ်းသပ်ထားသည့် ဒြပ်စင်တိုင်းသည် မတူညီသော အဆင့်သတ်မှတ်ချက် ရလဒ်များ ရလာနိုင်သည်။
+#4/5
 
 6267
 Executives can't fail.
 အမှုဆောင်တွေ မကျရှုံးနိုင်ဘူး။
+#5/5
 
 6268
 Executives must get rated well in order to continue.
-အမှုဆောင်အရာရှိများအား ဆက်လက်လုပ်ဆောင်ရန်အတွက် ကောင်းစွာ အဆင့်သတ်မှတ်ပေးရမည်။
+အမှုဆောင်အရာရှိများအား ဆက်လက်လုပ်ဆောင်ရန်အတွက် ကောင်းစွာ အဆင့်သတ်မှတ်ပေးခြင်းခံရမည်။
+#5/5
 
 6269
 Engineering had a preliminary period.
 စက်မှုပညာတွင် ပဏာမ ကာလတစ်ခု ရှိခဲ့သည်။
+#4/5
 
 6270
 Engineering occurred only in a final stage.
 စက်မှုပညာ သည် နောက်ဆုံးအဆင့်တစ်ခုတွင်သာ ဖြစ်ပေါ်ခဲ့သည်။
+#4/5
 
 6271
 Without a preliminary period, engineering will likely fail at the later stages.
 ပဏာမကာလတစ်ခုမရှိဘဲ၊ စက်မှုပညာ သည် နောက်ပိုင်းအဆင့်များမှာ ကျရှုံးရနိုင်ဖွယ်ရှိသည်။
+#5/5
 
 6272
 Organizations have no idea how to manage their info.
 အဖွဲ့အစည်းများသည် သူတို့၏ အချက်အလက်များကို ဘယ်လိုစီမံခန့်ခွဲရမည်ကို မသိကြပါ။
+#5/5
 
 6273
 Organizations manage their data by hiring data scientists.
 အဖွဲ့အစည်းများသည် အချက်အလက်ဆိုင်ရာ သိပ္ပံပညာရှင်များကို ငှားရမ်းခြင်းဖြင့် သူတို့၏ အချက်အလက်များကို စီမံခန့်ခွဲသည်။
+#5/5
 
 6274
 Organizations manage their information resources in several ways.
 အဖွဲ့အစည်းများသည် သူတို့၏ သတင်းအချက်အလက်အရင်းအမြစ်များကို နည်းလမ်းများစွာဖြင့် စီမံခန့်ခွဲသည်။
+#5/5
 
 6275
 Title 7 deals with air travel.
 ခေါင်းစဉ် ၇ သည် လေကြောင်းခရီးနှင့် ပတ်သက်သည်။
+#5/5
 
 6276
 Title 7 deals with travel claims.
 ခေါင်းစဉ် ၇ သည် ခရီးသွားတောင်းဆိုမှုများနှင့် ပတ်သက်သည်။
+#4/5
 
 6277
 Title 7 is about cookies.
 ခေါင်းစဉ် ၇ သည် ကွတ်ကီး များအကြောင်းဖြစ်သည်။
+#4/5
 
 6278
 Health endpoints increased the number of patients entering hospitals.
-ကျန်းမာရေးဆိုင်ရာ အဆုံးမှတ်များသည် ဆေးရုံများသို့ ဝင်ရောက်သည့် လူနာများအရေအတွက် တိုးလာသည်။
+ကျန်းမာရေးဆိုင်ရာ အဆုံးမှတ်များသည် ဆေးရုံများသို့ ဝင်ရောက်သည့် လူနာများအရေအတွက် တိုးလာစေသည်။
+#5/5
 
 6279
 Health endpoints reduced the number of people in some hospitals.
-ကျန်းမာရေးဆိုင်ရာ အဆုံးမှတ်များသည် အချို့သော ဆေးရုံများတွင် လူအရေအတွက် လျော့ကျသည်။
+ကျန်းမာရေးဆိုင်ရာ အဆုံးမှတ်များသည် အချို့သော ဆေးရုံများတွင် လူအရေအတွက် လျော့ကျစေသည်။
+#5/5
 
 6280
 Health endpoints saved hospital's money.
 ကျန်းမာရေးဆိုင်ရာ အဆုံးမှတ်များသည် ဆေးရုံ၏ငွေကို သက်သာစေသည်။
+#5/5
 
 6281
 Government representatives are changing their approach.
 အစိုးရ ကိုယ်စားလှယ်တွေက သူတို့ရဲ့ ချဉ်းကပ်မှုပုံစံကို ပြောင်းလဲနေသည်။
+#5/5
 
 6282
 Government representatives are trying to increase their power by thinking differently.
-အစိုးရ ကိုယ်စားလှယ်များသည် မတူညီစွာ တွေးမြင်ခြင်းဖြင့် သူတို့၏ အာဏာကို မြှင့်တင်ရန် ကြိုးစားနေကြသည်။
+အစိုးရ ကိုယ်စားလှယ်များသည် ကွဲပြားစွာ တွေးမြင်ခြင်းဖြင့် သူတို့၏ အာဏာကို မြှင့်တင်ရန် ကြိုးစားနေကြသည်။
+#5/5
 
 6283
 Government representatives refuse to change their ways of life.
 အစိုးရ ကိုယ်စားလှယ်များသည် သူတို့၏ ဘဝနေထိုင်မှုပုံစံများကို ပြောင်းလဲရန် ငြင်းဆန်ကြသည်။
+#5/5
 
 6284
 Case files are only allowed to be in English.
 အမှုတွဲဖိုင်များကို အင်္ဂလိပ်လိုသာ ခွင့်ပြုထားသည်။
+#5/5
 
 6285
 Case files can be put in Chinese or Russian.
 အမှုတွဲဖိုင်များကို တရုတ် သို့မဟုတ် ရုရှားလို ထည့်သွင်းနိုင်သည်။
+#5/5
 
 6286
 Case files can be put in other languages.
 အမှုတွဲဖိုင်များကို အခြားဘာသာစကားများဖြင့် ထည့်သွင်းနိုင်သည်။
+#5/5
 
 6287
 C-R functions can be pooled by scientists.
-စီ-အာ လုပ်ဆောင်ချက်များကို သိပ္ပံပညာရှင်များက ပေါင်းစပ်နိုင်သည်။
+#C-R လုပ်ဆောင်ချက်များကို သိပ္ပံပညာရှင်များက ပေါင်းစပ်နိုင်သည်။
+#5/5
 
 6288
 C-R functions must work separately.
-စီ-အာ လုပ်ဆောင်ချက်များသည် သီးခြားစီ လုပ်ဆောင်ရမည်။
+#C-R လုပ်ဆောင်ချက်များသည် သီးခြားစီ လုပ်ဆောင်ရမည်။
+#5/5
 
 6289
 There are a lot of C-R functions that work together.
-အတူတကွလုပ်ဆောင်နိုင်သော စီ-အာ လုပ်ဆောင်ချက်များစွာရှိသည်။
+#အတူတကွလုပ်ဆောင်သော C-R လုပ်ဆောင်ချက်များစွာရှိသည်။
+#5/5
 
 6290
 Disagreeing in the entry interview won't get you the job.
-ဝင်ခွင့်အင်တာဗျူးမှာ သဘောမတူခြင်းက မင်း အလုပ်ရမှာ မဟုတ်လောက်ဘူး။
+ဝင်ခွင့်အင်တာဗျူးမှာ သဘောမတူခြင်းက မင်း အလုပ်ရစေမှာ မဟုတ်လောက်ဘူး။
+#5/5
 
 6291
 The entry interview doesn't mention anything about advertising mail.
 ဝင်ခွင့်အင်တာဗျူးမှာ ကြော်ငြာမေးလ်နှင့်ပတ်သက်ပြီး တစ်စုံတစ်ရာဖော်ပြခြင်းမရှိဘူး။
+#4/5
 
 6292
 The entry interview includes a bit about how people react to advertising mail.
 ဝင်ခွင့်အင်တာဗျူးတွင် ကြော်ငြာမေးလ်ကို လူများက ဘယ်လို တုံ့ပြန်တဲ့ အကြောင်း အနည်းငယ်ပါဝင်သည်။
+#5/5
 
 6293
 The majority of our efforts are already in motion.
-ကျွန်တော်တို့ အများစုရဲ့ ကြိုးပမ်းမှုဟာ လှုပ်လှုပ်ရှားရှား ဖြစ်နေပါပြီ။
+ကျွန်တော်တို့ရဲ့ ကြိုးပမ်းမှုအများစုဟာ လှုပ်လှုပ်ရှားရှား ဖြစ်နေပါပြီ။
+#5/5
 
 6294
 We have nothing else planned for the future.
 ကျွန်တော်တို့မှာ အနာဂတ်အတွက် တခြား စီစဉ်ထားတာ ဘာမှ မရှိပါဘူး။
+#5/5
 
 6295
 We have something planned.
 ငါတို့ တစ်ခုခု စီစဉ်ထားကြတယ်။
+#5/5
 
 6296
 They guessed about the user cost.
 အသုံးပြုသူရဲ့ ကုန်ကျစရိတ်ကို သူတို့ ခန့်မှန်းခဲ့ကြတယ်။
+#5/5
 
 6297
 They guessed the user costs were $10000.
 အသုံးပြုသူရဲ့ကုန်ကျစရိတ်များမှာ $ 10000 ဖြစ်ခဲ့သည်ဟု သူတို့ ခန့်မှန်းခဲ့ကြသည်။
+#5/5
 
 6298
 They knew the exact user costs.
-အသုံးပြုသူရဲ့ ကုန်ကျစရိတ်များကို သူတို့ အတိအကျသိတယ်။
+အသုံးပြုသူရဲ့ ကုန်ကျစရိတ်များကို သူတို့ အတိအကျသိခဲ့တယ်။
+#5/5
 
 6299
 They deleted the computer files from the IBM.
 သူတို့သည် အိုင်ဘီအမ် မှ ကွန်ပျူတာဖိုင်များကို ဖျက်ပစ်ခဲ့ကြသည်။
+#5/5
 
 6300
 They deleted the original computer files.
 သူတို့သည် မူရင်း ကွန်ပျူတာဖိုင်များကို ဖျက်ပစ်ခဲ့ကြသည်။
-
+#5/5

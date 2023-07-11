@@ -1,449 +1,500 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 4701
 The building blocks of the pachuco speech are English and Spanish.
-ပါချူကို ပြောဆိုချက်၏ ဆောက်လုပ်ရေးလုပ်ကွက်များသည် အင်္ဂလိပ် နှင့် စပိန်တို့ဖြစ်သည်။
+pachuco စကား၏ အခြေခံ တည်ဆောက်တုံးတို့မှာ အင်္ဂလိပ် ဘာသာစကားနှင့် စပိန် ဘာသာစကားတို့ ဖြစ်သည်။
+4/5
 
 4702
 The pachuco speech is a fusion of German and Spanish.
-ပါချူကို မိန့်ခွန်းသည် ဂျာမန် နှင့် စပိန်တို့၏ ပေါင်းစပ်မှု တစ်ခု ဖြစ်သည်။
+pachuco စကားသည် ဂျာမန်နှင့် စပိန်ဘာသာစကားတို့ ပေါင်းစပ်မှုတခု ဖြစ်သည်။
+4/5
 
 4703
 Advanced geography classes are postponed until next semester.
-အဆင့်မြင့် ပထဝီဝင် အတန်းများကို လာမည့် စာသင်ချိန်အထိ ရွှေ့ဆိုင်းထားသည်။
+အဆင့်မြင့် ပထဝီဝင် အတန်းများကို လာမည့် စာသင်နှစ်ဝက်အထိ ရွှေ့ဆိုင်းထားသည်။
+4/5
 
 4704
 All science classrooms are located down the next hallway.
-သိပ္ပံ စာသင်ခန်း အားလုံးသည် လူသွားလမ်း ၏ ဘေးဖက် အောက်ထပ်တွင် တည်ရှိသည်။
+သိပ္ပံ စာသင်ခန်း အားလုံးသည် လာမည့် လူသွားစင်္ကြန် တွင် တည်ရှိသည်။
+4/5
 
 4705
 The general study of living things is nearby.
-သက်ရှိ အရာများ၏ ယေဘုယျ လေ့လာမှုသည် အနီးအနားတွင် ရှိသည်။
+သက်ရှိ အရာများကို ယေဘုယျ လေ့လာမှုကို အနီးအနားတွင်ပင် ပြုလုပ်နိုင်သည်။
+4/5
 
 4706
 The moment the priest places his hand on the missal, a miracle will occur and he will disappear.
-ဘုန်းကြီးသည် ဒုံးကျည်ပေါ် သူ၏ လက်ကို တင်လိုက်သည့် အခိုက်အတန့်မှာ ၊ အံ့ဖွယ်ဖြစ်ရပ် တစ်ခု ပေါ်လာ ပြီး သူသည် ပျောက်ကွယ်သွားမည်ဖြစ်သည်။
+ဘုန်းကြီးသည် ဝတ်ပြုစာအုပ်ပေါ် သူ၏ လက်ကို တင်လိုက်သည့် အခိုက်အတန့်မှာ ၊ အံ့ဖွယ်ဖြစ်ရပ် တစ်ခု ပေါ်လာ ပြီး သူသည် ပျောက်ကွယ်သွားမည်ဖြစ်သည်။
+4/5
 
 4707
 The priest becomes invisible after placing his hand on the book.
-ဘုန်းကြီးက စာအုပ်ပေါ် သူ၏လက်ကို တင်ထားခဲ့ ပြီးနောက် မမြင်နိုင်တော့ဘူး။
+ဘုန်းကြီးက စာအုပ်ပေါ် သူ၏လက်ကို တင်ထားခဲ့ ပြီးနောက် ကိုယ်ပျောက်သွားသည်။
+4/5
 
 4708
 The priest takes the book and throws it into the fire to burn for warmth.
-ဘုန်းကြီးက စာအုပ်ကိုယူ ၍ နွေးထွေးစေရန် မီးထဲသို့ ၎င်းကို ပစ်ချသည်။
+ဘုန်းကြီးက စာအုပ်ကိုယူ ၍ အနွေးဓာတ်ရစေရန် မီးထဲသို့ ၎င်းကို ပစ်ချ မီးရှို့လိုက်သည်။
+4/5
 
 4709
 The 23rd amendment says you can vote for the president if you live in California.
-23 ကြိမ်မြောက် ပြင်ဆင်ချက်တွင် သင်သည် ကယ်လီဖိုးနီးယားတွင် နေထိုင်ပါက သမ္မတကို သင် မဲပေးနိုင်သည်ဟု ဆိုသည်။
+သင်သည် ကာလီဖိုးနီးယားတွင် နေထိုင်ပါက သမ္မတ ရွေးကောက်ပွဲအတွက် သင် မဲပေးနိုင်သည်ဟု 23 ကြိမ်မြောက် ပြင်ဆင်ချက်တွင် ပြဌာန်းထားသည်။
+4/5
 
 4710
 The 23rd amendment says you can vote for the president if you live in the capital unless you were a felon.
-၂၃ ကြိမ်မြောက် ပြင်ဆင်ချက်မှာ မင်းမှာ ရာဇ၀တ်မှုတစ်ခု မရှိပါက မင်း မြို့တော်တွင် နေထိုင်ပါက သမ္မတကို မင်း မဲပေးနိုင်သည်ဟု ဆိုသည်။
+သင်သည် မြို့တော်တွင် နေထိုင်ပြီး ရာဇ၀တ်မှုကြီးတစ်ခု ကျူးလွန်ထားခြင်း မရှိပါက သမ္မတ ရွေးကောက်ပွဲအတွက် သင် မဲပေးနိုင်သည်ဟု ၂၃ ကြိမ်မြောက် ပြင်ဆင်ချက်တွင် ပြဌာန်းထားသည်။
+4/5
 
 4711
 The 23rd amendment says you can vote for the president if you live in the capital.
-၂၃ ကြိမ်မြောက် ပြင်ဆင်ချက်မှာ မင်း မြို့တော်မှာ နေထိုင်လျှင် သမ္မတကို မင်း မဲပေးနိုင်တယ်လို့ ဆိုပါတယ်။
+သင်သည် မြို့တော်မှာ နေထိုင်လျှင် သမ္မတ ရွေးကောက်ပွဲအတွက် သင် မဲပေးနိုင်တယ်လို့ ၂၃ ကြိမ်မြောက် ပြင်ဆင်ချက်တွင် ပြဌာန်းထားပါတယ်။
+4/5
 
 4712
 Relajo is not funny at all.
-ရီလေးဂျိုသည် ရယ်စရာ လုံးဝ မဟုတ်ပါ။
+Relajo သည် လုံးဝ ရယ်စရာ မကောင်းပါ။
+4/5
 
 4713
 Relajo makes jokes about the economy.
-ရီလေးဂျိုသည် စီးပွားရေးနှင့် ပတ်သက်၍ ဟာသ လုပ်သည်။
+Relajo သည် စီးပွားရေးနှင့် ပတ်သက်၍ ဟာသ လုပ်သည်။
+4/5
 
 4714
 Relajo told jokes.
-ရီလေးဂျိုက ဟာသတွေ ပြောခဲ့သည်။
+Relajo က ဟာသတွေ ပြောခဲ့သည်။
+5/5
 
 4715
 The low demand and high demand groups combine to a total of twenty.
-၀ယ်လိုအား နည်း နှင့် ဝယ်လိုအား မြင့် အုပ်စုများသည် စုစုပေါင်း နှစ်ဆယ် ပေါင်းစပ်ထားသည်။
+၀ယ်လိုအား နည်း နှင့် ဝယ်လိုအား မြင့် အုပ်စုများ ကို စုပေါင်းလိုက်ပါက စုစုပေါင်း နှစ်ဆယ် ဖြစ်သည်။
+5/5
 
 4716
 The low demand group averages below three hundred.
-ဝယ်လိုအား နည်းသော အုပ်စုသည် ပျှမ်းမျှ သုံးရာအောက် ရှိသည်။
+ဝယ်လိုအား နည်းသော အုပ်စုသည် ပျှမ်းမျှအားဖြင့် သုံးရာအောက် ရှိသည်။
+4/5
 
 4717
 There are two groups that are defined by demand variation.
 ဝယ်လိုအား အပြောင်းအလဲဖြင့် သတ်မှတ်သည့် အုပ်စု နှစ်စု ရှိပါသည်။
+4/5
 
 4718
 The states change their electoral process when they see fit.
-ပြည်နယ်များက သူတို့သည် သင့်လျော်သည်ဟု မြင်ပါက ၎င်းတို့၏ ရွေးကောက်ပွဲ လုပ်ငန်းစဉ်ကို ပြောင်းလဲမည်။
+သင့်လျော်သည်ဟု မြင်ပါက ပြည်နယ်များက ၎င်းတို့၏ ရွေးကောက်ပွဲ လုပ်ငန်းစဉ်ကို ပြောင်းလဲသည်။
+4/5
 
 4719
 The states never change the electoral process because they aren't allowed.
-ပြည်နယ်တွေသည် သူတို့က ခွင့်မပြု သောကြောင့် ရွေးကောက်ပွဲ လုပ်ငန်းစဉ်ကို ဘယ်တော့မှ မပြောင်း လဲကြဘူး။
+ပြည်နယ်များကို ခွင့်မပြုထားသောကြောင့် သူတို့သည် သူတို့၏ ရွေးကောက်ပွဲ လုပ်ငန်းစဉ်ကို ဘယ်တော့မှ မပြောင်းလဲကြပါ။
+4/5
 
 4720
 The states rule the electoral process.
-ပြည်နယ်များသည် ရွေးကောက်ပွဲ လုပ်ငန်းစဉ်ကို ထိန်းချုပ်သည်။
+ပြည်နယ်များသည် ရွေးကောက်ပွဲ လုပ်ငန်းစဉ်ကို အုပ်စိုးသည်။
+5/5
 
 4721
 Their lack of motivation and doubts in their abilities stem from past failures.
-၎င်းတို့၏ စေ့ဆော်မှု ကင်းမဲ့ခြင်း နှင့် သူတို့၏ စွမ်းရည်များမှ သံသယများသည် ပြီးခဲ့သော ကျရှုံးမှုတွေဆီမှ ပေါက်ဖွားလာခြင်းဖြစ်သည်။
+၎င်းတို့၏ စိတ်အားထက်သန်မှု ကင်းမဲ့ခြင်း နှင့် သူတို့၏ စွမ်းရည်များကို သံသယဝင်ခြင်းတို့သည် ပြီးခဲ့သော ကျရှုံးမှုတွေဆီမှ ပေါက်ဖွားလာခြင်းဖြစ်သည်။
+4/5
 
 4722
 These individuals are overconfident and rush in to handle even difficult problems.
-ဤပုဂ္ဂိုလ်များသည် ယုံကြည်မှုလွန်ကဲ ပြီး ခက်ခဲသော ပြဿနာများကိုပင် ကိုင်တွယ်ဖြေရှင်းရန် အလျင်စလိုလုပ်ဆောင်ကြသည်။
+ဤပုဂ္ဂိုလ်များသည် ယုံကြည်မှုလွန်ကဲ ပြီး ခက်ခဲသော ပြဿနာများကိုပင် ကိုင်တွယ်ဖြေရှင်းရန် အလျင်စလို လုပ်ဆောင်ကြသည်။
+5/5
 
 4723
 They retreat from difficult problems and have doubts about their abilities.
-သူတို့ဟာ ခက်ခဲတဲ့ ပြဿနာတွေကနေ နောက်ဆုတ် ပြီးနောက် သူတို့ရဲ့ စွမ်းရည်တွေနဲ့ ပတ်သက်ပြီး သံသယတွေ ရှိကြတယ်။
+သူတို့ဟာ ခက်ခဲတဲ့ ပြဿနာတွေကနေ နောက်ဆုတ်ထွက်ပြေး ပြီး သူတို့ရဲ့ စွမ်းရည်တွေနဲ့ ပတ်သက်ပြီး သံသယတွေ ရှိကြတယ်။
+4/5
 
 4724
 I should ask her if she needs help with homework.
-သူမသည် အိမ်စာလုပ်ရာမှာ အကူအညီ လိုအပ်လားဆိုတာ ကျွန်တော် သူမကို မေးသင့်ပါတယ်။
+အိမ်စာအတွက် သူမ အကူအညီလို မလိုကို ကျွန်တော် သူမကို မေးသင့်ပါသည်။
+5/5
 
 4725
 I should ask myself how to help her with homework.
 အိမ်စာလုပ်ရာမှာ သူမကို ဘယ်လို ကူညီရမလဲလို့ ကျွန်တော် ကိုယ့်ဘာသာကိုယ် မေးသင့်ပါတယ်။
+5/5
 
 4726
 I should not be tempted to help her with homework.
-အိမ်စာနှင့် သူမကို ကူညီရန် ကျွန်တော် သွေးဆောင်မခံသင့်ပါဘူး။
+အိမ်စာအတွက် သူမကို ကူညီဖို့ ကျွန်တော် စိတ်အလို မလိုက်သင့်ပါဘူး။
+4/5
 
 4727
 Ancient moradas can be found in the northern part of New Mexico.
-နယူး မက္ကဆီကို ၏ မြောက်ပိုင်းမှာ ရှေးခေတ် မိုရာဒါများကို တွေ့နိုင်ပါတယ်။
+နယူး မက္ကဆီကို ၏ မြောက်ပိုင်းမှာ ရှေးခေတ် moradas များကို တွေ့နိုင်ပါတယ်။
+5/5
 
 4728
 There are no known existing photographs of ancient moradas in New Mexico.
-နယူး မက္ကဆီကို တွင် ရှေးခေတ် မိုရာဒါများ ၏ လူသိများသော ဓာတ်ပုံများ မရှိပါ။
+နယူး မက္ကဆီကိုရှိ ရှေးခေတ် moradas များ ၏ ဓာတ်ပုံများ တည်ရှိနေဆဲ ဖြစ်ကြောင်း မသိရပါ။
+4/5
 
 4729
 Wallis and Varjabedian provide professional, colorful photographs of the old New Mexico moradas.
-ဝဲလစ် နှင့် ဗာဂျဗီးဒီးယမ်းတို့သည် နယူး မက္ကဆီကို မိုရာဒါများ ၏ အသက်မွေးဝမ်းကျောင်းနှင့်ဆိုင်သော ၊ ရောင်စုံ ဓာတ်ပုံများကို ထောက်ပံ့ပေးထားသည်။
+Wallis နှင့် Varjabedian တို့သည် နယူး မက္ကဆီကို moradas များ ၏ ပရိုဖက်ရှင်နယ် အဆင့်အတန်းမီ ရောင်စုံ ဓာတ်ပုံများကို ထောက်ပံ့ပေးထားသည်။
+4/5
 
 4730
 Our nation is built on the grounds of social and political justice.
-ကျွန်ုပ်တို့ နိုင်ငံသည် လူမှုရေး နှင့် နိုင်ငံရေးနှင့်ဆိုင်သော တရားမျှတမှုတို့အပေါ် အခြေခံ၍ တည်ဆောက်ထားသည်။
+လူမှုရေး နှင့် နိုင်ငံရေးနှင့်ဆိုင်သော တရားမျှတမှုတို့အပေါ် အခြေခံ၍ ကျွန်ုပ်တို့ နိုင်ငံကို တည်ဆောက်ထားသည်။
+5/5
 
 4731
 Social and political justice should foster human equality.
 လူမှုရေး နှင့် နိုင်ငံရေးဆိုင်ရာ တရားမျှတမှုသည် လူသားတို့၏ တန်းတူညီမျှမှုကို ဖော်ဆောင်ပေးသင့်သည်။
+4/5
 
 4732
 We should never think of human equality when we consider social and political justice.
 ကျွန်တော်တို့ လူမှုရေး နှင့် နိုင်ငံရေးနှင့်ဆိုင်သော တရားမျှတမှုကို ထည့်သွင်းစဉ်းစားသည့်အခါ ကျွန်တော်တို့ လူသားတန်းတူရေးကို ဘယ်တော့မှ မစဉ်းစားသင့်ပါ။
+5/5
 
 4733
 Katz narced on the drug trade.
-ကတ်ဇ်သည် မူးယစ်ဆေးဝါး ရောင်းဝယ်ဖောက်ကားမှုကို ရင်ဆိုင်ခဲ့ရသည်။
+Katz သည် မူးယစ်ဆေးဝါး ရောင်းဝယ်ဖောက်ကားမှုကို ရင်ဆိုင်ခဲ့ရသည်။
+4/5
 
 4734
 Katz only wrote about what other people did.
-ကတ်ဇ်သည် တခြားသူတွေ လုပ်ခဲ့တာတွေ နဲ့ပတ်သက်ပြီးသာ ရေးခဲ့တယ်။
+Katz သည် တခြားသူတွေ ဘာလုပ်ခဲ့တယ်ဆိုတာတွေကိုသာ ရေးခဲ့တယ်။
+4/5
 
 4735
 Linda Katz was a narc.
-လင်ဒါ ကတ်ဇ်သည် မူးယစ်အရာရှိ တစ်ယောက် ဖြစ်ခဲ့သည်။
+Linda Katz သည် မူးယစ်အရာရှိ တစ်ယောက် ဖြစ်ခဲ့သည်။
+5/5
  
 4736
 They fought about how rich CEOs were.
-သူတို့သည် စီအီးအိုတွေ ဘယ်လို ချမ်းသာကြတယ်ဆိုတာ နှင့်ပတ်သက်၍ ငြင်းဆိုခဲ့သည်။
+သူတို့သည် စီအီးအိုတွေ ဘယ်လို ချမ်းသာကြတယ်ဆိုတာ နှင့်ပတ်သက်၍ ငြင်းခုန်ခဲ့သည်။
+4/5
 
 4737
 They fought about the poor vs the rich.
-သူတို့သည် ဆင်းရဲခြင်း နှင့် ချမ်းသာခြင်း အကြောင်း ငြင်းဆိုခဲ့သည်။
+သူတို့သည် ဆင်းရဲခြင်း နှင့် ချမ်းသာခြင်း အကြောင်း ငြင်းခုန်ခဲ့သည်။
+4/5
 
 4738
 They fought about the weather.
-သူတို့သည် ရာသီဥတု နှင့်ပတ်သက်၍ ငြင်းဆိုခဲ့သည်။
+သူတို့သည် ရာသီဥတု နှင့်ပတ်သက်၍ ငြင်းခုန်ခဲ့သည်။
+4/5
 
 4739
 Hominids have evolved over the past few million years.
-ဟိုမီနီဒ်များသည် လွန်ခဲ့သော နှစ်သန်းပေါင်း အနည်းငယ်အတွင်း ဆင့်ကဲပြောင်းလဲလာသည်။
+Hominids များသည် လွန်ခဲ့သော နှစ်သန်းပေါင်း အနည်းငယ်အတွင်း ဆင့်ကဲပြောင်းလဲလာခဲ့သည်။
+4/5
 
 4740
 The econosphere of modern humans is much simpler than that of ancient hominids.
-ခေတ်သစ် လူသားများ၏ စီးပွားရေးနယ်ပယ်သည် ရှေးခေတ် ဟိုမီနီဒ်များ ထက် များစွာရိုးရှင်းပါသည်။
+ခေတ်သစ် လူသားများ၏ စီးပွားရေးနယ်ပယ်သည် ရှေးခေတ် Hominids များ ထက် များစွာရိုးရှင်းပါသည်။
+5/5
 
 4741
 The econospheres of hominids have doubled in complexity every generation.
-ဟိုမီနီဒ်များ၏ စီးပွားရေးနယ်ပယ်များသည် မျိုးဆက်တိုင်းတွင် ရှုပ်ထွေးမှုများ နှစ်ဆတိုးလာခဲ့သည်။
+Hominids များ၏ စီးပွားရေးနယ်ပယ်များသည် မျိုးဆက်တိုင်းတွင် နှစ်ဆ ပိုမို ရှုပ်ထွေးလာခဲ့သည်။
+5/5
 
 4742
 Hollow walls let in a lot of noise from the park.
-အခေါင်းပေါက် နံရံများသည် ပန်းခြံမှ ဆူညံသံ အများအပြားကို ထွက်ပေါ်စေပါသည်။
+အခေါင်းပေါက် နံရံများသည် ပန်းခြံမှ ဆူညံသံ အများအပြားကို ဝင်ရောက်စေပါသည်။
+5/5
 
 4743
 We appreciate the hollow walls and flimsy doors.
-အပေါက် နံရံများ နှင့် ပျော့ပျောင်းသော တံခါးများကို ကျွန်ုပ်တို့ တန်ဖိုးထားပါသည်။
+နံရံပေါက်များ နှင့် ပါးလွှာ ပျော့ပျောင်းသော တံခါးများကို ကျွန်ုပ်တို့ တန်ဖိုးထားပါသည်။
+4/5
 
 4744
 We are not happy with hollow walls and flimsy doors.
-အပေါက်နံရံများ နှင့် ပျော့ပျောင်းသော တံခါးများဖြင့် ကျွန်ုပ်တို့ မပျော်ရွှင်ပါ။
+နံရံပေါက်များ နှင့် ပါးလွှာပျော့ပျောင်းသော တံခါးများအတွက် ကျွန်ုပ်တို့ မပျော်ရွှင်ပါ။
+4/5
 
 4745
 A parent knows if language development is normal.
-ဘာသာစကား တိုးတက်မှုက ပုံမှန်ဖြစ်တယ်ဆိုလျှင် မိဘ တစ်ဦး က သိတယ်။
+ဘာသာစကား ဖွံ့ဖြိုးမှုက ပုံမှန်ဖြစ်တယ်ဆိုလျှင် မိဘ တစ်ဦး က သိတယ်။
+4/5
 
 4746
 A parent thinks being unable to speak by two years old is abnormal.
 အသက်နှစ်နှစ်အရွယ်တွင် စကားမပြောနိုင်ခြင်းသည် ပုံမှန်မဟုတ်ဟု မိဘ တစ်ဦး က ထင်သည်။
+5/5
 
 4747
 How does a parent know if language development is normal?
-ဘာသာစကား တိုးတက်မှုက ပုံမှန်ဟုတ်မဟုတ် မိဘ တစ်ဦး က ဘယ်လိုသိသလဲ?
+ဘာသာစကား ဖွံ့ဖြိုးမှုက ပုံမှန်ဟုတ်မဟုတ် မိဘ တစ်ဦး က ဘယ်လိုသိသလဲ?
+5/5
 
 4748
 At this time there are no details available.
-ဒီ အချိန် တွင် အသေးစိတ်အချက်အလက်များကို မရနိုင်သေးပါ။
+ဒီ အချိန်မှာ အသေးစိတ်အချက်အလက်များကို မရနိုင်သေးပါ။
+5/5
 
 4749
 The details are visible.
 အသေးစိတ်ကို မြင်နိုင်ပါတယ်။ 
+5/5
 
 4750
 The details have been printed out on legal paper for everyone to see.
 အသေးစိတ်အချက်အလက်များကို လူတိုင်း ကြည့်ရှု့နိုင်ရန် တရားဝင် စာရွက်ပေါ်တွင် ပုံနှိပ်ထားသည်။
+4/5
 
 4751
 I am telling you that I was given knowledge about everything.
-ငါက အရာရာတိုင်း နဲ့ပတ်သက်ပြီး အသိပညာ ပေးထားတယ်လို့ ငါ မင်းကို ပြောနေတာ။
+အရာရာတိုင်း နဲ့ပတ်သက်ပြီး အသိပညာကို ငါက ရရှိထားတယ်လို့ ငါ မင်းကို ပြောနေတာ။
+4/5
 
 4752
 It is the detective's death that I was informed about.
-ကျွန်တော် အသိပေးခဲ့တဲ့ အကြောင်းကတော့ စုံထောက်ရဲ့ သေဆုံးမှုအကြောင်း ဖြစ်ပါတယ်။
+ကျွန်တော်ကို အသိပေးခဲ့တဲ့ အကြောင်းကတော့ စုံထောက်ရဲ့ သေဆုံးမှုအကြောင်း ဖြစ်ပါတယ်။
+5/5
 
 4753
 There are many details that were hidden from me.
-ငါ့ထံမှ ဝှက်ထားခဲ့သော အသေးစိတ်အချက်များစွာ ရှိပါသည်။
+ငါ မသိရှိခဲ့သော အသေးစိတ်အချက်များစွာ ရှိပါသည်။
+4/5
 
 4754
 He wanted to ask Lord Julian something.
-သူသည် တစ်စုံတစ်ခုကို သခင် ဂျူလီယန်အား မေးချင်ခဲ့သည်။
+သူသည် သခင် Julian ကို တစ်စုံတစ်ခု မေးချင်ခဲ့သည်။
+4/5
 
 4755
 He wanted to ask Lord Julian to spare his wife.
-သူသည် သခင် ဂျူလီယန်ကို သူ့မိန်းမကို ကယ်ဆယ်ရန် တောင်းဆိုချင်သည်။
+သူသည် သခင် Julian ကို သူ့မိန်းမ၏ အသက်ကို ချမ်းသာပေးရန် တောင်းဆိုချင်သည်။
+5/5
 
 4756
 Lord Julian was nowhere to be seen.
-သခင် ဂျူလီယန်ကို မည်သည့်နေရာတွင်မှ မတွေ့ရတော့ပါ။
+သခင် Julian ကို မည်သည့်နေရာတွင်မှ မတွေ့ရတော့ပါ။
+5/5
 
 4757
 Captain Blood was able to think his disgruntled thoughts without interruption.
-ကပ္ပတိန် ဘလတ်သည် သူ၏ မကျေမနပ်ဖြစ်သော အတွေးများကို အနှောင့်အယှက် မရှိဘဲ တွေးနိုင်ခဲ့သည်။
+ကပ္ပတိန် Blood သည် သူ၏ မကျေမနပ်ဖြစ်သော အတွေးများကို အနှောင့်အယှက် မရှိဘဲ တွေးနိုင်ခဲ့သည်။
+5/5
 
 4758
 Captain Blood's thoughts were broken by some noises.
-အသံတစ်ချို့ကြောင့် ကပ္ပတိန် ဘလတ်၏ အတွေးများသည် လွှင့်စင်သွားသည်။
+အသံတချို့ကြောင့် ကပ္ပတိန် Blood ၏ အတွေးများသည် လွှင့်စင်သွားသည်။
+5/5
 
 4759
 The puppy's screams jolted the captain from his ruminations.
-ခွေးလေး၏အော်သံသည် ကပ္ပတိန်အား သူ၏ စားမြုံ့ပြန်ခြင်းကို တုန်လှုပ်စေခဲ့သည်။
+ခွေးလေး၏အော်သံသည် ကပ္ပတိန်၏ စားမြုံ့ပြန်ခြင်းကို တုန်လှုပ်စေခဲ့သည်။
+4/5
 
 4760
 Jeremy Pitt answered the laugh by giggling and throwing an uppercut into the laugher's face.
-ဂျယ်ရမီ ပစ်ဒ် က ရယ်မောနေသော မျက်နှာဖြစ်အောင် အပေါ်ယံ တစ်ခုကို ခွာချရင်း တခစ်ခစ်ရယ် ၍ ရယ်မောခြင်းကို တုံ့ပြန်ခဲ့သည်။
+Jeremy Pitt က တခစ်ခစ်ရယ်လိုက်ပြီးနောက် ရယ်နေသူ၏ မျက်နှာကို ပင့်လက်သီးတလုံး ထိုးလိုက်ခြင်းဖြင့် ရယ်မောခြင်းကို တုံ့ပြန်ခဲ့သည်။
+4/5
 
 4761
 Jeremy Pitt swore to fight for his country and his queen.
-ဂျယ်ရမီ ပစ်ဒ်သည် သူ့နိုင်ငံ နှင့် သူ၏မိဖုရား အတွက် တိုက်ပွဲဝင်ရန် ကျိန်ဆိုခဲ့သည်။
+Jeremy Pitt သည် သူ့နိုင်ငံ နှင့် သူ၏ဘုရင်မ အတွက် တိုက်ပွဲဝင်ရန် သစ္စာဆိုခဲ့သည်။
+5/5
 
 4762
 Someone laughed near Jeremy Pitt.
-တစ်စုံတစ်ယောက်သည် ဂျယ်ရမီ ပစ်ဒ် အနီးမှာ ရယ်မောနေခဲ့တယ်။
+တစ်စုံတစ်ယောက်သည် Jeremy Pitt အနီးမှာ ရယ်မောနေခဲ့တယ်။
+5/5
 
 4763
 You treated me kindly when I was a slave in Barbados.
-ကျွန်တော် ဘာဘေးဒိုးစ်မှာ ကျွန် တစ်ယောက် ဖြစ်ခဲ့တုန်းက မင်းက ငါ့ကို ကြင်ကြင်နာနာ ဆက်ဆံခဲ့တယ်။
+ငါ ဘာဘေးဒိုးစ်မှာ ကျွန် တစ်ယောက် ဖြစ်ခဲ့တုန်းက သင်က ငါ့ကို ကြင်ကြင်နာနာ ဆက်ဆံခဲ့တယ်။
+5/5
 
 4764
 You were incredibly cruel to me, and treated me worse than dirt.
-မင်းက ငါ့အပေါ် မယုံနိုင်လောက်အောင် ရက်စက်ခဲ့ပြီး ၊ ငါ့ကို ညစ်ပတ်တာထက် ပိုဆိုးအောင် ဆက်ဆံခဲ့တယ်။
+မင်းက ငါ့အပေါ် မယုံနိုင်လောက်အောင် ရက်စက်ခဲ့ပြီး ၊ ငါ့ကို မြေမှုန့်ကို ဆက်ဆံတာထက်တောင် ပိုဆိုးအောင် ဆက်ဆံခဲ့တယ်။
+4/5
 
 4765
 Your uncle beat me hard everyday when he owned me.
 သူငါ့ကိုပိုင်ဆိုင်တုန်းက မင်းရဲ့ဦးလေးက ငါ့ကို နေ့တိုင်း အပြင်းအထန် ရိုက်နှက်တယ်။
+5/5
 
 4766
 Calverley knew what the parchment contained.
-ကယ်လ်ဗာလေသည် စာရွက်တွင် ပါ၀င်သည်များကို သိခဲ့သည်။
+Calverley သည် စာရွက်တွင် ပါ၀င်သည်များကို သိခဲ့သည်။
+5/5
 
 4767
 Captain Blood gave Calverley a document.
-ကပ္ပတိန် ဘလတ်သည် ကယ်လ်ဗာလေကို စာရွက်စာတမ်း တစ်ခု ပေးခဲ့တယ်။
+ကပ္ပတိန် Blood သည် ကယ်လ်ဗာလေကို စာရွက်စာတမ်း တစ်ခု ပေးခဲ့တယ်။
+5/5
 
 4768
 Captain Blood ripped the parchment into shreds.
-ကပ္ပတိန် ဘလတ်သည် စာရွက်ကို အစိတ်စိတ်အမြွှာမြွှာ ဆုတ်ဖြဲခဲ့သည်။
+ကပ္ပတိန် Blood သည် စာရွက်ကို အစိတ်စိတ်အမြွှာမြွှာ ဆုတ်ဖြဲခဲ့သည်။
+5/5
 
 4769
 A lush landscape was within sight.
-မြင်ကွင်းထဲတွင် စိမ်းလန်းစိုပြေသော ရှုခင်း တစ်ခု ရှိသည်။
+စိမ်းလန်းစိုပြေသော ရှုခင်း တစ်ခု ကို မြင်နေရပြီ။
+4/5
 
 4770
 The island they were approaching was uninhabited.
 သူတို့ ချဉ်းကပ်ခဲ့တဲ့ ကျွန်းက လူသူမရှိခဲ့ဘူး။
+5/5
 
 4771
 They could not see any land for miles, only unending ocean.
-သူတို့သည် အဆုံးမရှိသော သမုဒ္ဒရာများသာ ၊ မိုင်ပေါင်းများစွာရှိ မည်သည့် ကုန်းမြေကိုမှ မမြင်နိုင်ပါ။
+မိုင်ပေါင်းများစွာအတွင်း မည်သည့်ကုန်းမြေကိုမျှ သူတို့ မမြင်နိုင်ခဲ့၊ အဆုံးမရှိသော သမုဒ္ဒရာများသာ မြင်နိုင်ခဲ့သည်။
+4/5
 
 4772
 His Majesty has envoys, and I am one of them.
 ဘုရင်မင်းမြတ်တွင် သံတမန်များ ရှိပြီး ၊ ငါသည် ၎င်းတို့အထဲမှ တစ်ဦး ဖြစ်သည်။
+5/5
 
 4773
 His Majesty sent me here about a week ago.
 လွန်ခဲ့တဲ့ တစ်ပတ်လောက်က ဘုရင်မင်းမြတ်က ကျွန်တော့်ကို ဒီကို စေလွှတ်ခဲ့တယ်။
+5/5
 
 4774
 I do not take orders from His Majesty.
-ကျွန်တော် ဘုရင်မင်းမြတ်ဆီမှ အမိန့်တွေကို မရခဲ့ဘူး။
+ကျွန်တော်ဟာ ဘုရင်မင်းမြတ်ဆီရဲ့ အမိန့်တွေကို နာခံရန် မလိုဘူး။
+4/5
 
 4775
 He never thought he owed you anything.
 သူ မင်းကို တစ်ခုခု အကြွေးတင်မယ် လို့ သူ မထင်ခဲ့ဘူး။
+5/5
 
 4776
 He owed you for the help you gave him as a penniless beggar.
 ငွေမရှိသော သူတောင်းစား တစ်ယောက် အဖြစ် သူ့ကို မင်း ပေးခဲ့တဲ့ အကူအညီ အတွက် သူက မင်းကို အကြွေးတင်ခဲ့တယ်။
+4/5
 
 4777
 He thought he owed you something.
 သူက မင်းကို တစ်ခုခု အကြွေးတင်နေတယ်လို့ သူထင်ခဲ့တယ်။
+5/5
 
 4778
 Pitt had never seen his lordship as grave as he was then.
-ပစ်ဒ်သည် သူ၏ သခင်ကို သူသည် ထိုအချိန်က လေးနက်သကဲ့သို့ ဘယ်တုန်းကမှ မမြင်ဖူးခဲ့ပေ။
+ထိုအချိန်က သူ့သခင် အဖြစ်ဆိုးတာမျိုး Pitt သည် ဘယ်တုန်းကမျှ မမြင်ခဲ့ဖူးပေ။
+4/5
 
 4779
 Pitt swore that he did not get a glimpse of the scene.
-ပစ်ဒ်သည် မြင်ကွင်းကို တစေ့တစောင်း မကြည့်မိကြောင်း ကျိန်ဆိုခဲ့သည်။
+Pitt သည် မြင်ကွင်းကို တစေ့တစောင်းမျှ မကြည့်ရန် သစ္စာဆိုခဲ့သည်။
+4/5
 
 4780
 Pitt witnessed how his lordship was serious during the scene.
-ပစ်ဒ်သည် အခင်းဖြစ်ပွားရာ နေရာတွင် သူ၏ သခင် မည်မျှ ပြင်းထန်သည်ကို မျက်မြင်တွေ့ခဲ့သည်။
+Pitt သည် အခင်းဖြစ်ပွားရာ နေရာတွင် သူ၏ သခင် မည်မျှ ပြင်းထန်သည်ကို မျက်မြင်တွေ့ခဲ့သည်။
+4/5
 
 4781
 I traveled near to Jamaica after the sun had set.
 ကျွန်တော် နေဝင်ပြီးသည့်နောက် ဂျမေကာ အနီးအနားကို ခရီးထွက်ခဲ့တယ်။
+5/5
 
 4782
 I traveled to Jamaica in a large boat.
 ကျွန်တော်သည် ကြီးမားသော လှေ တစ်စီး ဖြင့် ဂျမေကာသို့ ခရီးထွက်ခဲ့သည်။
+5/5
 
 4783
 My wife and I arrived in Jamaica in broad daylight.
 ကျွန်တော့် ဇနီးနဲ့ ကျွန်တော် ဂျမေကာကို နေ့ခင်းကြောင်တောင် ရောက်လာခဲ့တယ်။
+5/5
 
 4784
 Blood slept a thoughtless dream on his day-bed.
-ဘလတ်သည် သူ၏ နေ့ခင်းဖက်အိပ်သည့်အိပ်ရာပေါ်တွင် အတွေးမရှိသော အိပ်မက်တစ်ခု မက်နေခဲ့သည်။
+Blood သည် သူ၏ နေ့ခင်းဖက်အိပ်သည့်အိပ်ရာပေါ်တွင် အပူအပင်ကင်းကင်းနှင့် အိပ်မက်တစ်ခု မက်နေခဲ့သည်။
+4/5
 
 4785
 Blood was ruminating while lying down.
-ဘလတ်သည် လဲလျောင်းရင်း ပြန်လည်တွေးတောခဲ့တယ်။
+Blood သည် လဲလျောင်းရင်း ပြန်လည်တွေးတောခဲ့တယ်။
+5/5
 
 4786
 Blood was thinking hard about the last time he saw his mother.
-ဘလတ်သည် သူ့အမေကို သူ နောက်ဆုံးတွေ့တာနဲ့ ပတ်သက်ပြီး ခက်ခက်ခဲခဲ တွေးနေမိသည်။
+Blood သည် သူ့အမေကို သူ နောက်ဆုံးတွေ့တာနဲ့ ပတ်သက်ပြီး နက်နက်နဲနဲ တွေးနေမိသည်။
+5/5
 
 4787
 The Colonel accepted a medal from the mayor of New York City.
-ကိုလိုနယ်သည် နယူးယောက် မြို့တော်ဝန်ထံမှ ဆုတံဆိပ် တစ်ခုကို လက်ခံခဲ့သည်။
+ကာနယ်လ်သည် နယူးယောက် မြို့တော်ဝန်ထံမှ ဆုတံဆိပ် တစ်ခုကို လက်ခံခဲ့သည်။
+4/5
 
 4788
 The Colonel refused what he was being given and kept his hat on in a sign of defiance.
-ကိုလိုနယ်က သူပေးကမ်းတာကို ငြင်းဆန်ခဲ့ ပြီး သူ၏ ဦးထုပ်ကို ဖီဆန်တဲ့ အရိပ်အယောင် တစ်ခုအနေနဲ့ သိမ်းထားတယ်။
+ကာနယ်လ်က သူ့ကို ပေးကမ်းတာကို ငြင်းဆန်ခဲ့ ပြီး သူ၏ ဦးထုပ်ကို ဖီဆန်တဲ့ သင်္ကေတ တစ်ခုအနေနဲ့ ဆောင်းမြဲဆောင်းထားတယ်။
+4/5
 
 4789
 The Colonel was wearing a hat.
-ကိုလိုနယ်သည် ဉီးထုပ် တစ်လုံးကို ဆောင်းနေသည်။
+ကာနယ်လ်သည် ဦးထုပ် တစ်လုံးကို ဆောင်းလျှက်ရှိသည်။
+5/5
+# like captain to ကပ္ပတိန် ... we translate this Colonel
 
 4790
 Our boat sailed peacefully near England's shores.
 ကျွန်ုပ်တို့၏လှေသည် အင်္ဂလန်ကမ်းခြေများအနီးတွင် ငြိမ်းချမ်းစွာ ရွက်လွှင့်ခဲ့သည်။
+5/5
 
 4791
 The pirates were attacking the ship in order to capture the princess.
-ပင်လယ်ဓားပြတွေက မင်းသမီးလေးကို ဖမ်းရန် အလို့ငှာ သင်္ဘောကို တိုက်ခိုက်နေကြတယ်။
+ပင်လယ်ဓားပြတွေက မင်းသမီးကို ဖမ်းရန် အလို့ငှာ သင်္ဘောကို တိုက်ခိုက်နေကြတယ်။
+5/5
 
 4792
 There was more than one gun firing.
 သေနတ် တစ်လက် ထက်ပို၍ ပစ်ခတ်မှု ဖြစ်ပွားခဲ့သည်။
+4/5
 
 4793
 Alright then, I will tell you about it.
-ကောင်းပြီ ၊ အဲဒါနဲ့ပတ်သက်ပြီး ငါ မင်းကို ပြောပြမယ်။
+ကောင်းပြီ ၊ မင်းကို ငါ အဲဒီအကြောင်းကို ပြောပြမယ်။
+5/5
 
 4794
 I will not say a word to you.
-ငါ မင်းကို စကား တစ်ခွန်းမှ မပြောဘူး။
+မင်းကို ငါ စကား တစ်ခွန်းမှ မပြောဘူး။
+5/5
 
 4795
 It is only because you promised not to repeat this that I am telling you.
-ငါ မင်းကို ပြောနေတာတွေကို ထပ်တလဲလဲမလုပ်ဘူးလို့ မင်း ကတိပေးခဲ့တာပဲဖြစ်ပါတယ်။
+မင်းကို ငါ ပြောနေရတာက ဘာလို့လဲဆိုတော့ မင်း ဒါကို ထပ်မလုပ်ဘူးလို့ ကတိပေးခဲ့လို့ပဲ။
+4/5
 
 4796
 I was arriving via the Royal Mary.
-ကျွန်တော် ရွိုင်ရယ် မယ်ရီ မှတဆင့် ရောက်ရှိခဲ့သည်။
+ကျွန်တော် Royal Mary မှတဆင့် ရောက်ရှိခဲ့သည်။
+5/5
 
 4797
 The Royal Mary suffered failures before my trip, so I had to arrive on the Blue Teacup instead.
-ရွိုင်ရယ် မယ်ရီသည် ကျွန်ုပ်၏ခရီး မစတင်မီတွင် ဆုံးရှုံးမှုများကြုံတွေ့ခဲ့ရ သောကြောင့် ၊ ကျွန်ုပ်သည် အဲ့အစား ဘလူး တီးကပ် သို့ ရောက်ရှိမည်ဖြစ်သည်။
+Royal Mary သည် ကျွန်ုပ်၏ခရီး မစတင်မီတွင် ပျက်စီးမှုများကြုံတွေ့ခဲ့ရ သောကြောင့် ၊ ကျွန်ုပ်သည် သူမအစား ဘလူး တီးကပ်ဖြင့် ရောက်ရှိမည်ဖြစ်သည်။
+4/5
 
 4798
 The Royal Mary was carrying me to Jamaica.
-ရွိုင်ရယ် မယ်ရီသည် ဂျမေကာသို့ ကျွန်တော့်ကို ခေါ်ဆောင်သွားခဲ့သည်။
+Royal Mary သည် ဂျမေကာသို့ ကျွန်တော့်ကို သယ်ဆောင်သွားခဲ့သည်။
+4/5
 
 4799
 He believed the crime committed could have been genocide.
 ကျူးလွန်ခဲ့သော ရာဇ၀တ်မှုသည် လူမျိုးတုံးသတ်ဖြတ်မှု ဖြစ်နိုင်သည်ဟု သူ ယုံကြည်ခဲ့သည်။
+5/5
 
 4800
 He chose not to take his hands because they are tainted with a crime.
-သူတို့သည် ရာဇ၀တ်မှုတွေ စွန်းထင်းနေတာကြောင့် သူသည် သူ့လက်ကို မကိုင်ဖို့ ရွေးချယ်ခဲ့ပါတယ်။
+သူတို့သည် ရာဇ၀တ်မှုတွေ စွန်းထင်းနေတာကြောင့် သူသည် သူ့လက်တွေကို မကိုင်ဖို့ ရွေးချယ်ခဲ့ပါတယ်။
+5/5

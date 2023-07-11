@@ -1,449 +1,501 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 6301
 They kept all the original files.
 သူတို့သည် မူရင်း ဖိုင်များ အားလုံးကို သိမ်းထားခဲ့တယ်။
+#5/5
 
 6302
 The workshare services are in more demand in July.
 အလုပ်ခွဲဝေလုပ်ဆောင်ခြင်း ဝန်ဆောင်မှုများသည် ဇူလိုင်လတွင် ပိုမို တောင်းဆိုချက်တွေ ရှိပါသည်။
+#4/5
 
 6303
 The workshare services have no demand at all.
 အလုပ်ခွဲဝေလုပ်ဆောင်ခြင်း ဝန်ဆောင်မှုများသည် တောင်းဆိုချက်များ လုံးဝ မရှိပါ။
+#4/5
 
 6304
 The workshare services have varying supply.
 အလုပ်ခွဲဝေလုပ်ဆောင်ခြင်း ဝန်ဆောင်မှုများတွင် အမျိုးမျိုးသော ပံ့ပိုးမှု ရှိသည်။
+#4/5
 
 6305
 A design study never occurred.
 ဒီဇိုင်းပညာ လေ့လာခြင်း တစ်မျိုးကို ဘယ်တုန်းကမှ မတွေ့ဖူးပါ။
+#5/5
 
 6306
 A design study was conducted in isolation.
-ဒီဇိုင်းပညာ လေ့လာခြင်း တစ်မျိုးသည် သီးခြားခွဲထုတ်ခြင်းတွင် ဦးစီးဦးရွက်ပြုခဲ့သည်။
+ဒီဇိုင်းပညာ လေ့လာခြင်း တစ်မျိုးကို သီးခြားခွဲထုတ်ပြီး ဦးစီးဦးရွက်ပြုခဲ့သည်။
+#4/5
 
 6307
 The design study was not successful.
 ဒီဇိုင်းပညာ လေ့လာခြင်းသည် မအောင်မြင်ခဲ့ပါ။
+#5/5
 
 6308
 The representative visited for an hour.
 ကိုယ်စားလှယ်သည် တစ်နာရီကြာ လည်ပတ်ခဲ့သည်။
+#5/5
 
 6309
 There was a visit by a representative.
 ကိုယ်စားလှယ် တစ်ဦးမှ လည်ပတ်မှု တစ်ခု ရှိခဲ့ပါတယ်။
+#4/5
 
 6310
 We never got a visit.
 ကျွန်တော်တို့ အလည်အပတ် တစ်ခု ဘယ်တုန်းကမှ မရခဲ့ပါ။
+#5/5
 
 6311
 The choice of whether or not a person will save is affected by their wealth.
-လူတစ်ဦးကို ကယ်တင်ခြင်း ရှိ၊ မရှိ ရွေးချယ်မှုသည် သူတို့၏ ကြွယ်ဝမှုအပေါ် သက်ရောက်မှုရှိသည်။
+လူတစ်ဦးက စုစောင်းခြင်း ရှိ၊ မရှိ ရွေးချယ်မှုသည် သူတို့၏ ကြွယ်ဝမှုအရ သက်ရောက်မှုရှိသည်။
+#4/5
 
 6312
 Wealth and savings are not normally related in any way.
 ချမ်းသာမှု နှင့် ချွေတာမှုသည် ပုံမှန်အားဖြင့် မည်သည့်နည်းနှင့်မျှ ဆက်စပ်မှုမရှိပါ။
+#5/5
 
 6313
 Wealthy people are more likely to save a larger portion of their income.
 ချမ်းသာတဲ့ လူတွေဟာ သူတို့ရဲ့ ၀င်ငွေရဲ့ ပိုကြီးတဲ့ အပိုင်း တစ်ပိုင်းကို စုဆောင်းဖို့ အလားအလာပိုများပါတယ်။
+#5/5
 
 6314
 Only two of the nine agencies bothered to respond to our questions about participation.
-ပါဝင်ပတ်သက်မှု နှင့်ပတ်သက်ပြီး ကျွန်ုပ်တို့၏ မေးခွန်းများကို တုံ့ပြန် ရန် ကိုယ်စားလှယ် ကိုးယောက်ထဲမှ နှစ်ယောက်ကသာလျှင် စိတ်အနှောင့်အယှက်ဖြစ်ခဲ့သည်။
+ပါဝင်ပတ်သက်မှု နှင့်ပတ်သက်ပြီး ကျွန်ုပ်တို့၏ မေးခွန်းများကို တုံ့ပြန် ရန် ကိုယ်စားလှယ် ကိုးယောက်ထဲမှ နှစ်ယောက်ကသာလျှင် တကုတကရှိခဲ့သည်။
+#4/5
 
 6315
 There were nine agencies that responded affirmatively that they participated.
 သူတို့သည် ပါဝင်ခဲ့ကြောင်းကို အခိုင်အမာ တုံ့ပြန်ခဲ့သည့် ကိုယ်စားလှယ် ကိုးယောက် ရှိခဲ့ပါသည်။
+#5/5
 
 6316
 These nine agencies are pleased that they had such a high participation level.
 ထိုကိုယ်စားလှယ် ကိုးယောက်က သူတို့သည် ဤကဲ့သို့ မြင့်မားသော ပါဝင်မှု အဆင့် တစ်ခုကို ရရှိသည့်အတွက် ကျေနပ်ပါသည်။
+#5/5
 
 6317
 Households all earned $10000 more last year.
 အိမ်ထောင်စု အားလုံးသည် ပြီးခဲ့သော နှစ်က ဒေါ်လာ ၁၀၀၀၀ ပိုပြီး ဝင်ငွေရှာခဲ့သည်။
+#5/5
 
 6318
 Households have been losing a lot of wealth.
 အိမ်ထောင်စုများသည် စည်းစိမ်ဥစ္စာ များစွာ ဆုံးရှုံးခဲ့ရသည်။
+#5/5
 
 6319
 Households have gotten a lot more wealthincome ratio.
 အိမ်ထောင်စုများသည် ကြွယ်ဝသော ၀င်ငွေ အချိုးအစား အများအပြားကို ပိုမို ရရှိလာကြသည်။
+#5/5
 
 6320
 Even though there were two mergers, there was no need for the company to undergo a restructure of their company hierarchy.
 ပေါင်းစည်းမှု နှစ်ခု ရှိခဲ့သော်လည်း ၊ ကုမ္ပဏီသည် သူတို့၏ ကုမ္ပဏီ ရာထူးအဆင့်ဆင့်ကို ပြန်လည်ဖွဲ့စည်းမှု တစ်ခုကို ရင်ဆိုင်ရန် မလိုအပ်ပါ။
+#5/5
 
 6321
 Merging two companies into one organization and restructuring resulted in a chaotic work environment.
-ကုမ္ပဏီ နှစ်ခုကို အဖွဲ့အစည်း တစ်ခု အဖြစ် ပေါင်းစည်း ပြီးနောက် ပြန်လည်ဖွဲ့စည်းတည်ဆောက်မှုသည် ဖရိုဖရဲဖြစ်နေသော အလုပ်လုပ်သည့် ပတ်ဝန်းကျင် တစ်ခုကို ဖြစ်ပေါ်စေခဲ့သည်။
+ကုမ္ပဏီ နှစ်ခုကို အဖွဲ့အစည်း တစ်ခု အဖြစ် ပေါင်းစည်း ပြီးနောက် ပြန်လည်ဖွဲ့စည်းတည်ဆောက်မှုသည် ဖရိုဖရဲဖြစ်နေသော အလုပ်ပတ်ဝန်းကျင် တစ်ခုကို ဖြစ်ပေါ်စေခဲ့သည်။
+#5/5
 
 6322
 We examined a company that experienced two mergers and had to quickly restructure to meet their business demands.
-ပေါင်းစည်းမှု နှစ်ခုကို တွေ့ကြုံခဲ့သည့် ကုမ္ပဏီ တစ်ခု ကို ကျွန်ုပ်တို့က စစ်ဆေးခဲ့ ပြီးနောက် သူတို့၏ လုပ်ငန်း လိုအပ်ချက်များကို ပြည့်မီရန် အမြန် ပြန်လည်ဖွဲ့စည်းဖို့ ရှိခဲ့ပါသည်။
+ပေါင်းစည်းမှု နှစ်ခုကို တွေ့ကြုံခဲ့သည့်  ပြီးနောက် သူတို့၏ လုပ်ငန်း လိုအပ်ချက်များကို ပြည့်မီရန် အမြန် ပြန်လည်ဖွဲ့စည်းဖို့ ရှိခဲ့သော ကုမ္ပဏီ တစ်ခု ကို ကျွန်ုပ်တို့က စစ်ဆေးခဲ့သည်။
+#5/5
 
 6323
 The basic category is more than cost.
 အခြေခံ အမျိုးအစားက ကုန်ကျစရိတ်ထက် ပိုပါတယ်။
+#5/5
 
 6324
 The price is 10% more than cost.
 စျေးနှုန်းက ကုန်ကျစရိတ်ထက် ၁၀% ပိုပါတယ်။
+#5/5
 
 6325
 The price is always less than cost.
 စျေးနှုန်းသည် ကုန်ကျစရိတ်ထက် အမြဲ သက်သာသည်။
+#5/5
 
 6326
 The CIO has many duties, including managing expectations and making sure members understand their responsibilities.
 စီအိုင်အိုတွင် မျှော်မှန်းချက်များကို စီမံခန့်ခွဲခြင်း နှင့် အဖွဲ့ဝင်များက သူတို့၏ တာဝန်များကို နားလည်ကြောင်း သေချာစေခြင်း အပါအဝင် ၊ တာဝန် များစွာ ရှိသည်။
+#5/5
 
 6327
 The CIO has no idea what the responsibilities of members are and isn't responsible for informing them.
 စီအိုင်အိုတွင် အဖွဲ့ဝင်များ၏ တာဝန်ဝတ္တရားများက ဘာလည်းဆိုတာ မသိရှိဘဲ နှင့် ဒါတွေကို အသိပေးဖို့အတွက် တာဝန်မရှိပါ။
+#4/5
 
 6328
 The CIO must communicate frequently with members to outline their responsibilities.
 စီအိုင်အိုသည် သူတို့၏ တာဝန်များကို ဖော်ပြရန်အတွက် အဖွဲ့ဝင်များနှင့် မကြာခဏ ဆက်သွယ်ရမည်။
+#5/5
 
 6329
 We knew the payment would take forever.
 ငွေပေးချေမှုသည် အမြဲတမ်း ကြာလိမ့်မည်ကို ကျွန်ုပ်တို့ သိခဲ့သည်။
+#5/5
 
 6330
 We thought the payment might go through before verification.
-စိစစ်ခြင်းမပြုမီ ငွေပေးချေမှုကို ဖြတ်တောက်နိုင်မည်ဟု ကျွန်ုပ်တို့ ထင်မြင်ခဲ့သည်။
+စိစစ်ခြင်းမပြုမီ ငွေပေးချေမှုကို ပြီးစီးနိုင်လိမ့်မည်ဟု ကျွန်ုပ်တို့ ထင်မြင်ခဲ့သည်။
+#5/5
 
 6331
 We thought the payment might go too early and we'd get defrauded.
 ငွေပေးချေမှုမှာ စောလွန်းသဖြင့် ကျွန်တော်တို့ လိမ်လည်လှည့်ဖြားခံရနိုင်သည်ဟု ကျွန်ုပ်တို့ ထင်ခဲ့ပါသည်။
+#5/5
 
 6332
 It only took two months to retrofit it.
 ထိုအရာကို ပြန်လည်ပြုပြင်ရန် နှစ်လသာကြာခဲ့သည်။
+#5/5
 
 6333
 It took 13 months to retrofit the boiler for the submarine.
 ရေငုပ်သင်္ဘော အတွက် ဘွိုင်လာကို ပြန်လည်ပြုပြင်ရန် ၁၃ လ ကြာခဲ့သည်။
+#5/5
 
 6334
 It took 13 months total to retrofit the boiler.
 ဘွိုင်လာကို ပြန်လည်ပြုပြင်ရန် စုစုပေါင်း ၁၃ လ ကြာခဲ့သည်။
+#5/5
 
 6335
 Advanced scheduling software is one of the key technologies businesses focus on.
 အဆင့်မြင့် အချိန်ဇယားဆွဲပေးသည့် ဆော့ဖ်ဝဲသည် စီးပွားရေးလုပ်ငန်းများကို အဓိက အာရုံစိုက်သည့် နည်းပညာများထဲမှ တစ်ခု ဖြစ်သည်။
+#5/5
 
 6336
 Technology is just a tool and not a business enabler.
 နည်းပညာသည် ကိရိယာ တစ်ခု မျှသာ ဖြစ်ပြီး လုပ်ငန်း တစ်ခုကို ပံ့ပိုးပေးသည့်အရာ မဟုတ်ပါ။
+#5/5
 
 6337
 These businesses place a great emphasis on technology.
 ထို လုပ်ငန်းများသည် နည်းပညာကို အလွန် အလေးပေးမှု တစ်ခု ထားကြသည်။
+#5/5
 
 6338
 The SAB ignored the topic completely.
-အက်စ်အေဘီသည် အဆိုပါ အကြောင်းအရာကို လုံးဝ လျစ်လျူရှုခဲ့သည်။
+#SAB သည် အဆိုပါ အကြောင်းအရာကို လုံးဝ လျစ်လျူရှုခဲ့သည်။
+#5/5
 
 6339
 The SAB talked about how important it was to the country.
-အက်စ်အေဘီက ၎င်းသည် တိုင်းပြည်အတွက် ဘယ်လို အရေးပါတယ်ဆိုတာ ပြောပြခဲ့တယ်။
+#SAB က ၎င်းသည် တိုင်းပြည်အတွက် ဘယ်လို အရေးပါတယ်ဆိုတာ ပြောပြခဲ့တယ်။
+#5/5
 
 6340
 The SAB talked about it.
-အက်စ်အေဘီက ထိုအကြောင်းအရာကို ပြောခဲ့ပါတယ်။
+#SAB က ထိုအကြောင်းအရာကို ပြောခဲ့ပါတယ်။
+#5/5
 
 6341
 The cost of basic mail is required to be more than the worksharing.
 စာပို့သည့် အခြေခံ ကုန်ကျစရိတ်သည် ခွဲဝေ၍အလုပ်လုပ်ခြင်းထက် ပိုနေရန် လိုအပ်သည်။
+#4/5
 
 6342
 Worksharing is more than it costs to mail things.
 ခွဲဝေ၍အလုပ်လုပ်ခြင်းသည် အရာဝတ္ထုတွေကို စာဖြင့်ပို့ရန် ကုန်ကျသောစရိတ်ထက် ပိုပါသည်။
+#4/5
 
 6343
 You can guess than the worksharing costs is less than basic mail.
 အလုပ်ခွဲဝေမှု ကုန်ကျစရိတ်များသည် အခြေခံ စာပို့ခြင်းထက် နည်းသည် ဟု မင်းက ခန့်မှန်းနိုင်သည်။
+#5/5
 
 6344
 There are way too many IT workers.
 အိုင်တီ ဝန်ထမ်းတွေ အများအပြား လည်း ရှိတယ်။
+#5/5
 
 6345
 There aren't enough IT workers because they all went to India.
 သူတို့ အားလုံး အိန္ဒိယကို သွားခဲ့ သောကြောင့် အိုင်တီ ဝန်ထမ်းတွေ လုံလောက်မှု မရှိဘူး။
+#4/5
 
 6346
 There aren't enough IT workers to fill the jobs.
-အလုပ်တွေ ဖြည့်ဆည်းဖို့ အိုင်တီ ဝန်ထမ်းတွေ မလုံလောက်ဘူး။
+အလုပ်တွေ ဖြည့်ဆည်းဖို့ အိုင်တီ ဝန်ထမ်းတွေ အလုံအလောက် မရှိပါ။
+#5/5
 
 6347
 The literature can change how we test samples.
 စာပေသည် ကျွန်ုပ်တို့ နမူနာများကို ဘယ်လိုစမ်းသပ်မယ်ဆိုတာကို ပြောင်းလဲနိုင်သည်။
+#5/5
 
 6348
 The literature can change the research in the future.
 စာပေသည် အနာဂတ် တွင် သုတေသနကို ပြောင်းလဲနိုင်သည်။
+#5/5
 
 6349
 There's nothing else to do in terms of changing research.
-ပြောင်းလဲခြင်း အသုံးအနှုန်းကို သုတေသန ပြုလုပ်ရန် အခြားဘာမှ မရှိပါ။
+သုတေသန ပြောင်းလဲ ပြုလုပ်ရန် ကိစ္စနှင့်ပတ်သက်ပြီး ဘာမှလုပ်စာ မလိုပါ။
+#5/5
 
 6350
 It's obvious how much bias there is.
 ဘက်လိုက်မှု ဘယ်လောက်ရှိတယ်ဆိုတာ သိသာပါတယ်။
+#5/5
 
 6351
 You can't know how much bias exists because it's hard to separate from other outside influences.
 ထိုအရာသည် အခြား ပြင်ပ လွှမ်းမိုးမှုများ မှ ခွဲခြား ရန် ခက်ခဲ သောကြောင့် ဘက်လိုက်မှုများ မည်မျှ ရှိသည်ကို သင် မသိနိုင်ပါ။
+#4/5
 
 6352
 You cant know how much bias there is.
 ဘက်လိုက်မှု ဘယ်လောက်ရှိတယ်ဆိုတာ မင်း မသိနိုင်ဘူး။
+#5/5
 
 6353
 The lines calculate that the welfare level of the mailers is 10%.
 စာပို့သူများ၏ လူမှုဖူလုံရေး အဆင့်သည် ၁၀% ဖြစ်ကြောင်း လိုင်းများက တွက်ချက်သည်။
+#5/5
 
 6354
 The lines don't show anything other than the route.
 လိုင်းများသည် လမ်းကြောင်းမှလွဲ ၍ အခြား ဘာမှ မပြပါ။
+#5/5
 
 6355
 The lines show how much welfare is in all the mailers.
-စာပို့သူ အားလုံးတွင် မည်မျှ သက်သာကြောင်း လိုင်းများက ဖော်ပြသည်။
+စာပို့သူ အားလုံးတွင် မည်မျှ ဖှူလုံမှုရှိကြောင်း လိုင်းများက ဖော်ပြသည်။
+#5/5
 
 6356
 Centrelink didn't how how to address the problem.
-စင်ထရယ်လင့်ခ်သည် ပြဿနာကို မည်သို့ ဖြေရှင်းရမည်ကို မသိခဲ့ပါ။
+#Centrelink သည် ပြဿနာကို မည်သို့ ဖြေရှင်းရမည်ကို မသိခဲ့ပါ။
+#5/5
+#error in English "how" = "know"
 
 6357
 Centrelink had a lot of strategies to teach people how to report income because the government was losing a lot of money in mistakes.
-စင်ထရယ်လင့်ခ်သည် အစိုးရက မှားယွင်းမှုများတွင် ငွေများစွာ ဆုံးရှုံးနေ သောကြောင့် ဝင်ငွေကို ဘယ်လို အစီရင်ခံရမယ်ဆိုတာကို လူများအား သင်ကြားပေးရန် နည်းဗျူဟာ အများအပြား ရှိခဲ့သည်။
+#Centrelink တွင် အစိုးရက မှားယွင်းမှုများတွင် ငွေများစွာ ဆုံးရှုံးနေ သောကြောင့် ဝင်ငွေကို ဘယ်လို အစီရင်ခံရမယ်ဆိုတာကို လူများအား သင်ကြားပေးရန် နည်းဗျူဟာ အများအပြား ရှိခဲ့သည်။
+#4/5
 
 6358
 Centrelink had a lot of strategies to teach people how to report income.
-စင်ထရယ်လင့်ခ်တွင် လူများအား ၀င်ငွေကို မည်ကဲ့သို့ အစီရင်ခံရမည်ကို သင်ကြားပေးရန် နည်းဗျူဟာ အများအပြား ရှိခဲ့သည်။
+#Centrelink တွင် လူများအား ၀င်ငွေကို မည်ကဲ့သို့ အစီရင်ခံရမည်ကို သင်ကြားပေးရန် နည်းဗျူဟာ အများအပြား ရှိခဲ့သည်။
+#5/5
 
 6359
 Then they could show how the design worked.
 အဲ့ဒီနောက် သူတို့သည် ဒီဇိုင်းက ဘယ်လို အလုပ်လုပ်တယ်ဆိုတာကို ပြသနိုင်ခဲ့တယ်။
+#5/5
 
 6360
 They could show the company that it wasn't smart to build new factories.
-သူတို့သည် စက်ရုံ အသစ်များ တည်ဆောင်ရန် သစ်လွင်တောက်ပမှုမရှိကြောင်းကို ကုမ္ပဏီအား ပြသနိုင်သည်။
+သူတို့သည် စက်ရုံ အသစ်များ တည်ဆောင်ရန် သင့်တော်ဆီလျော် မရှိကြောင်းကို ကုမ္ပဏီအား ပြသနိုင်သည်။
+#5/5
 
 6361
 They had no idea how to demonstrate the impact of investments.
 ရင်းနှီးမြှုပ်နှံမှုများ၏ အကျိုးသက်ရောက်မှုကို မည်သို့ တင်ပြရမည်ကို သူတို့ မသိခဲ့ကြပါ။
+#5/5
 
 6362
 The technical cost effects are figured one way.
 နည်းပညာဆိုင်ရာ ကုန်ကျစရိတ် သက်ရောက်မှုများကို တစ်နည်းတစ်ဖုံ တွက်ဆထားပါသည်။
+#5/5
 
 6363
 They haven't figured out how to calculate technical cost effects.
 နည်းပညာဆိုင်ရာ ကုန်ကျစရိတ် သက်ရောက်မှုများကို မည်သို့ တွက်ချက်ရမည်ကို သူတို့ မစဉ်းစားခဲ့ကြပါ။
+#5/5
 
 6364
 They use the historical data to calculate the technical cost effects.
 သူတို့သည် နည်းပညာဆိုင်ရာ ကုန်ကျစရိတ် သက်ရောက်မှုများကို တွက်ချက် ရန် သမိုင်းဆိုင်ရာ အချက်အလက်ကို အသုံးပြုကြသည်။
+#5/5
 
 6365
 It doesn't matter what you do, the workers will hear what they want to hear.
 မင်း ဘာလုပ်လဲက အရေးမကြီးဘူး ၊ အလုပ်သမားတွေက သူတို့ ကြားချင်တာကို ကြားလိမ့်မယ်။
+#5/5
 
 6366
 It's a bad message if you don't show the workers that their voices are heard.
 အလုပ်သမားတွေက သူတို့ရဲ့ အသံတွေကို ကြားနေရတယ်လို့ မင်းက မပြဘူးဆိုလျှင် မကောင်းတဲ့ သတင်း တစ်ခု ဖြစ်တယ်။
+#4/5
 
 6367
 It's a bad message to send to the workers if you don't do that.
 မင်းက အဲ့ဒါကို မလုပ်ဘူးဆိုလျှင် မကောင်းတဲ့ သတင်း တစ်ခုကို အလုပ်သမားတွေဆီ ပို့ရန် ဖြစ်သည်။
+#5/5
 
 6368
 Chapter four contains a practice exercise on managing risk.
 အခန်း လေး တွင် စွန်းစားမှု စီမံခန့်ခွဲခြင်းဆိုင်ရာ လက်တွေ့ အလေ့အကျင့်တစ်ခု ပါရှိသည်။
+#5/5
 
 6369
 The book contains no information about long term risk management.
 စာအုပ်တွင် ရေရှည် စွန်းစားမှု စီမံခန့်ခွဲမှုဆိုင်ရာ နဲ့ပတ်သက်တဲ့ အချက်အလက်တွေ မပါဝင်ပါ။
+#5/5
 
 6370
 This exercise must be completed and turned in by the end of the week.
-ဤ လေ့ကျင့်ခန်းကို ပြီးမြောက် ပြီးနောက် ရက်သတ္တပတ် အဆုံးတွင် ပြန်အလှည့်ကျရောက်မည်။
+ဤ လေ့ကျင့်ခန်းကို ပြီးမြောက် ပြီးနောက် ရက်သတ္တပတ် အဆုံးတွင် တင်ပြရမည်ဖြစ်သည်။
+#5/5
 
 6371
 No one in South Carolina worked together.
-တောင် ကာရိုလိုင်းနားတွင် မည်သူမျှ လက်တွဲ မလုပ်ဆောင်ခဲ့ကြပါ။
+#South Carolina တွင် မည်သူမျှ လက်တွဲ မလုပ်ဆောင်ခဲ့ကြပါ။
+#5/5
 
 6372
 SC worked together.
-အက်စ်စီသည် အတူတကွ အလုပ်လုပ်ခဲ့သည်။
+#SC သည် အတူတကွ အလုပ်လုပ်ခဲ့သည်။
+#5/5
 
 6373
 The democrats and republicans in South Carolina are working together.
-တောင် ကာရိုလိုင်းနားရှိ ဒီမိုကရက်တစ်များ နှင့် ရီပတ်ဘလစ်ကန်များက အတူတကွ ပူးပေါင်းလုပ်ဆောင်နေကြသည်။
+#South Carolina ရှိ ဒီမိုကရက်တစ်များ နှင့် ရီပတ်ဘလစ်ကန်များက အတူတကွ ပူးပေါင်းလုပ်ဆောင်နေကြသည်။
+#5/5
 
 6374
 A county employee can help people
 ခရိုင် ဝန်ထမ်း တစ်ဦး သည် လူတွေကို ကူညီနိုင်တယ်။
+#5/5
 
 6375
 A county employee will help do genealogy research.
 ခရိုင် ဝန်ထမ်း တစ်ဦး သည် မျိုးရိုးဗီဇဆိုင်ရာ သုတေသန ပြုလုပ်ရန် ကူညီပေးလိမ့်မည်။
+#5/5
 
 6376
 No one will be there to help with the research.
-သုတေသနအတွက် ကူညီမယ့်သူ မရှိဘူး။
+သုတေသနအတွက် ကူညီမယ့်သူ အဲ့ဒီ့မှာ တစ်မယောက်မှ ရှိလိမ့်မှာ မဟုတ်ဘူး။
+#5/5
 
 6377
 They estimated the benefits.
 သူတို့သည် အကျိုးအမြတ်များကို ခန့်မှန်းခဲ့ကြသည်။
+#5/5
 
 6378
 They had  rough estimate of the benefits but it was likely wrong.
-သူတို့သည် အကျိုးကျေးဇူးများကို အကြမ်းဖျင်း ခန့်မှန်းထား သော်လည်း ၎င်းသည် မှားနိုင်ဖွယ်ရှိသည်။
+သူတို့သည် အကျိုးကျေးဇူးများကို အကြမ်းဖျင်း ခန့်မှန်းထားခဲ့ သော်လည်း ၎င်းသည် မှားနိုင်ဖွယ်ရှိသည်။
+#5/5
 
 6379
 They had no idea how to estimate the benefits.
 အကျိုးအမြတ်များကို ဘယ်လို ခန့်မှန်းရမယ်ဆိုတာ သူတို့ မသိခဲ့ကြဘူး။
+#5/5
 
 6380
 Downtime can be reduced by using innovative construction plans.
 ဆန်းသစ်သော ဆောက်လုပ်ရေး အစီအစဉ်များကို အသုံးပြုခြင်းဖြင့် စက်ရပ်ချိန်ကို လျှော့ချနိုင်သည်။
+#5/5
 
 6381
 Facility owners are not concerned with minimizing down time.
 အထောက်အကူပြုပစ္စည်း ပိုင်ရှင်များသည် အချိန်ကုန်သက်သာစေရန် မစိုးရိမ်ကြပါ။
+#4/5
 
 6382
 More efficient inventory storage is a key part of minimizing down time.
 ပိုမို ထိရောက်သော စာရင်း သိုလှောင်မှုသည် အချိန်ကုန်သက်သာစေခြင်း၏ အဓိက အစိတ်အပိုင်း တစ်ခု ဖြစ်သည်။
+#5/5
 
 6383
 The CIO said only public interest work was ok.
 စီအိုင်အိုက အများသူငှာ အကျိုးစီးပွားအတွက် သာ အလုပ်လုပ်ရတာ အဆင်ပြေတယ်လို့ ပြောခဲ့တယ်။
+#4/5
 
 6384
 The CIO said which work was ok.
 စီအိုင်အိုက မည်သည့် အလုပ်က အဆင်ပြေလဲ ဟု မေးခဲ့သည်။
+#4/5
+#Incorrect English sentence structure.
 
 6385
 The CIO stayed out of any discussions about what work was allowed.
-စီအိုင်အိုသည် မည်သည့် လုပ်ငန်းကို ခွင့်ပြုသည်နှင့် ပတ်သက်၍ အချို့သော ဆွေးနွေးမှုမှ ကင်းလွတ်ခဲ့သည်။
+စီအိုင်အိုသည် မည်သည့် လုပ်ငန်းကို ခွင့်ပြုသည်နှင့် ပတ်သက်၍ ဆွေးနွေးမှုအားလုံးမှ ရှောင်နေခဲ့သည်။
+#4/5
 
 6386
 The Board didn't give the SBA certifications and they left that up to the assessor's office.
-ဘုတ်အဖွဲ့သည် အက်စ်ဘီအေ အသိအမှတ်ပြုလက်မှတ်များကို မပေးဘဲ သူတို့သည် အကဲဖြတ်သည့် ရုံး အထိ ထားခဲ့သည်။
+ဘုတ်အဖွဲ့သည် SBA အသိအမှတ်ပြုလက်မှတ်များကို မပေးဘဲ သူတို့သည် အကဲဖြတ်သည့် ရုံးထံသာ ထားခဲ့သည်။
+#4/5
 
 6387
 The Board didn't give the SBA certifications.
-ဘုတ်အဖွဲ့သည် အက်စ်ဘီအေ အသိအမှတ်ပြုလက်မှတ်များကို မပေးခဲ့ပေ။
+ဘုတ်အဖွဲ့သည် SBA အသိအမှတ်ပြုလက်မှတ်များကို မပေးခဲ့ပေ။
+#5/5
 
 6388
 The Board handed out SBA certifications every day to whoever asks for one.
-ဘုတ်အဖွဲ့သည် အက်စ်ဘီအေ အသိအမှတ်ပြုလက်မှတ်များကို တောင်းခံသူတိုင်းအား နေ့တိုင်း ထုတ်ပေးပါသည်။
+ဘုတ်အဖွဲ့သည် SBA အသိအမှတ်ပြုလက်မှတ်များကို တောင်းခံသူတိုင်းအား နေ့တိုင်း ထုတ်ပေးပါသည်။
+#5/5
 
 6389
 Program personnel cut all the workshops last year.
 ညွှန်ကြားချက်ပေးသည့် အမှုထမ်းများသည် ပြီးခဲ့သည့်နှစ်က အလုပ်ရုံများ အားလုံးကို ဖြတ်သိမ်းခဲ့သည်။
+#5/5
 
 6390
 Program personnel host workshops for ELL students.
-ညွှန်ကြားချက်ပေးသည့် အမှုထမ်းများသည် အီးအလ်အလ် ကျောင်းသားများ အတွက်  အလုပ်ရုံဆွေးနွေးပွဲများကို လက်ခံကျင်းပပေးပါသည်။
+#ညွှန်ကြားချက်ပေးသည့် အမှုထမ်းများသည် ELL ကျောင်းသားများ အတွက်  အလုပ်ရုံဆွေးနွေးပွဲများကို လက်ခံကျင်းပပေးပါသည်။
+#5/5
 
 6391
 Program personnel host workshops.
 ညွှန်ကြားချက်ပေးသည့် အမှုထမ်းများသည် အလုပ်ရုံဆွေးနွေးပွဲများကို လက်ခံကျင်းပခဲ့ပါသည်။
+#5/5
 
 6392
 Most national hotel chains accept credit card payments.
-နိုင်ငံအလိုက် ဟိုတယ် လုပ်ငန်းခွဲအများစုသည် ခရက်ဒစ် ကတ် ငွေပေးချေမှုများကို လက်ခံသည်။
+ပြည်တွင်း ဟိုတယ် လုပ်ငန်းခွဲအများစုသည် ခရက်ဒစ် ကတ် ငွေပေးချေမှုများကို လက်ခံသည်။
+#5/5
 
 6393
 The trip itself would be verified using hotel charges.
-ခရီးစဉ် ကိုယ်တိုင်က ဟိုတယ် အခကြေးငွေကို အသုံးပြု၍ စစ်ဆေးမည်ဖြစ်သည်။
+ဟိုတယ် အခကြေးငွေကို အသုံးပြု၍ ခရီးစဉ်ကိုပင် စီစစ်နိုင်မည်ဖြစ်သည်။
+#4/5
 
 6394
 There is no way to verify if a trip actually occurred or not.
 ခရီးစဉ် တစ်ခု အမှန်တကယ် ဖြစ်ပွားခြင်း ရှိ၊ မရှိ စစ်ဆေးရန် နည်းလမ်းမရှိပါ။
+#5/5
 
 6395
 Skimmers are usually doing something illegal but they get away with it.
-လာဘ်ထိုးသူများသည် များသောအားဖြင့် တစ်စုံတစ်ခုကို တရားမ၀င် ပြုလုပ်နေ သော်လည်း သူတို့သည် ထိုအရာကို ရှောင်သွားကြသည်။
+မသမာလာဘ်ထိုးသူများသည် ထုံးစံအားဖြင့် တစ်စုံတစ်ခုကို တရားမ၀င် ပြုလုပ်နေ သော်လည်း သူတို့သည် ထိုအရာဖြင့် လွတ်မြောက်သွားကြသည်။
+#4/5
 
 6396
 Skimmers can get ahead by paying what everyone else does.
-လာဘ်ထိုးသူများသည် အခြားသူများ လုပ်သည့် အရာကို ပေးဆောင်ခြင်းဖြင့် ရှေ့သို့ တက်နိုင်သည်။
+မသမာလာဘ်ထိုးသူများသည် အခြားသူများ လုပ်သည့် အတိုင်း ပေးဆောင်ခြင်းဖြင့် ရှေ့သို့ ရောက်နိုင်သည်။
+#4/5
 
 6397
 Skimmers pay a lot more than everyone else.
-လာဘ်ထိုးသူများသည် အခြားသူများထက် ပို၍ အများအပြား ငွေပေးသည်။
+မသမာလာဘ်ထိုးသူများသည် အခြားသူများထက် ပို၍ အများအပြား ငွေပေးသည်။
+#5/5
 
 6398
 Employees didn't have a charge card to use.
-အလုပ်သမားများတွင် အသုံးပြုရန် အကြွေးဝယ် ကတ်ပြား မရှိပါ။
+အလုပ်သမားများတွင် အသုံးပြုရန် အကြွေးဝယ် ကတ်ပြား မရှိခဲ့ပါ။
+#5/5
 
 6399
 Employees needed to charge all their food to the card.
 အလုပ်သမားများသည် သူတို့၏ စားနပ်ရိက္ခာ အားလုံးကို ကတ်တွင် ကောက်ခံ ရန် လိုအပ်ခဲ့သည်။
- 
+#4/5
+
 6400
 Employees would need to use the charge card for the hotel.
 အလုပ်သမားများသည် ဟိုတယ် အတွက် အကြွေးဝယ် ကတ်ပြားကို အသုံးပြု ရန် လိုအပ်လိမ့်မည်။
+#5/5

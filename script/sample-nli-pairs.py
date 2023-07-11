@@ -2,37 +2,37 @@
 import sys, random
 
 USAGE = """
-python script/sample-devset.py sequence_file sample_size
+python script/sample-nli-pairs.py sequence_file sample_size
 """
 
 dev_sets = {
     'en1': {
-        'input': 'output/myxnli.dev.tsv',
-        'output': 'output/sample1.en.myxnli.dev.tsv',
-        'label_index': 0,
-        'sentence1_index': 1,
-        'sentence2_index': 2     
+        'input': 'output/my/my.genre.dev.tsv',
+        'output': 'output/samples/sample1.en.myxnli.dev.tsv',
+        'label_index': 1,
+        'sentence1_index': 2,
+        'sentence2_index': 3     
     },
     'en2': {
-        'input': 'output/myxnli.dev.tsv',
-        'output': 'output/sample2.en.myxnli.dev.tsv',
-        'label_index': 0,
-        'sentence1_index': 1,
-        'sentence2_index': 2,        
+        'input': 'output/my/my.genre.dev.tsv',
+        'output': 'output/samples/sample2.en.myxnli.dev.tsv',
+        'label_index': 1,
+        'sentence1_index': 2,
+        'sentence2_index': 3,        
     },
     'my1': {
-        'input': 'output/myxnli.dev.tsv',
-        'output': 'output/sample1.my.myxnli.dev.tsv',
-        'label_index': 0,
-        'sentence1_index': 3,
-        'sentence2_index': 4             
+        'input': 'output/my/my.genre.dev.tsv',
+        'output': 'output/samples/sample1.my.myxnli.dev.tsv',
+        'label_index': 1,
+        'sentence1_index': 4,
+        'sentence2_index': 5             
     },    
     'my2': {
-        'input': 'output/myxnli.dev.tsv',
-        'output': 'output/sample2.my.myxnli.dev.tsv',
-        'label_index': 0, 
-        'sentence1_index': 3,
-        'sentence2_index': 4     
+        'input': 'output/my/my.genre.dev.tsv',
+        'output': 'output/samples/sample2.my.myxnli.dev.tsv',
+        'label_index': 1, 
+        'sentence1_index': 4,
+        'sentence2_index': 5     
     }
 }
 

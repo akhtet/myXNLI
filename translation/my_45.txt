@@ -1,449 +1,499 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 4401
 There is a simple explanation of it.
-ထိုအရာသည် ၎င်း၏ ရိုးရှင်းတဲ့ ရှင်းပြချက် တစ်ခု ဖြစ်ပါတယ်။
+အဲဒါအတွက် ရိုးစင်းတဲ့ အဓိပ္ပါယ်ရှင်းလင်းချက်တစ်ခုရှပါတယ်။
+4/5
 
 4402
 You can understand it if you can read at a 7th grade level.
-၇ တန်း အဆင့် တစ်ခု မှာ မင်း ဖတ်နိုင်တယ် ဆိုလျှင် မင်း ဒါကို နားလည်နိုင်ပါတယ်။
+၇ တန်းအဆင့် စာကို မင်း ဖတ်နိုင်ရင် မင်း အဲဒါကို နားလည်နိုင်ပါတယ်။
+4/5
 
 4403
 I would like pears more than apples.
 ကျွန်တော်က ပန်းသီးထက် သစ်တော်သီးကို ပိုကြိုက်တယ်။
+5/5
 
 4404
 I would rather eat 100 pears than 1 apple.
 ကျွန်တော်က ပန်းသီး ၁ လုံးထက် သစ်တော်သီး အလုံး ၁၀၀ကို ပိုပြီး စားချင်တယ်။
+5/5
 
 4405
 I would rather have 10 pears than 10 apples.
 ကျွန်တော်က ပန်းသီး ၁၀ လုံးထက် သစ်တော်သီး ၁၀ လုံးကို ပိုပြီး စားချင်တယ်။
+5/5
 
 4406
 Biospheres cannot control the growth of their own dimensionality.
 ဘိုင်အိုစပီးယားများသည် ၎င်းတို့၏ ကိုယ်ပိုင် အတိုင်းအတာ၏ ကြီးထွားမှုကို မထိန်းချုပ်နိုင်ပါ။
+3/5
 
 4407
 It is not easy for the dimensionality of biospheres to be grown.
 ဘိုင်အိုစပီးယားများ၏ အတိုင်းအတာသည် ကြီးထွားရန် မလွယ်ကူပါ။
+3/5
 
 4408
 The dimensionality of biospheres grow.
-ဘိုင်အိုစပီးယားများ၏ အတိုင်းအတာသည် ကြီးထွားလာသည်။
+ဘိုင်အိုစပီးယားများ၏ အတိုင်းအတာသည် ကြီးထွားသည်။
+3/5
 
 4409
 Jews do not help people.
 ဂျူးတွေက လူတွေကို မကူညီဘူး။
+5/5
 
 4410
 Jews love each other.
 ဂျူးတွေက တစ်ယောက်နဲ့တစ်ယောက် ချစ်ကြတယ်။
+5/5
 
 4411
 Jews want to teach people their beliefs.
-ဂျူးတွေက လူတွေကို သူတို့ရဲ့ ယုံကြည်ချက်တွေကို သင်ပေးရန် ဆန္ဒရှိကြတယ်။
+ဂျူးတွေက သူတို့ရဲ့ ယုံကြည်မှုတွေကို လူတွေကို သင်ပေးချင်ကြတယ်။
+5/5
 
 4412
 Life has things you have to do.
-ဘဝမှာ မင်း ပြုလုပ်ရန်ရှိတဲ့ အရာတွေ ရှိတယ်။
+ဘဝမှာ မင်းလုပ်စရာရှိတဲ့ ကိစ္စတွေ ရှိတယ်။
+5/5
 
 4413
 Life really has no obligations.
 အမှန်တကယ်တော့ ဘဝမှာ တာဝန်တွေ မရှိပါဘူး။
+5/5
 
 4414
 People have to do really hard things to make their lives worth living.
 လူတွေဟာ သူတို့ရဲ့ ဘ၀ကို တန်ဖိုးရှိသော နေထိုင်မှုဖြစ်အောင် တကယ်ကို ခက်ခဲတဲ့ အရာတွေကို လုပ်ကြရပါတယ်။
+5/5
 
 4415
 New laws are original.
-ဥပဒေ အသစ်များသည် မူရင်းအတိုင်း ဖြစ်သည်။
+ဥပဒေ အသစ်များသည် မူရင်း ဖြစ်သည်။
+4/5
 
 4416
 The Greeks and Romans had laws that we use today.
-ဂရိ နှင့် ရောမတို့၌ ယနေ့ ကျွန်ုပ်တို့ အသုံးပြုသော ဥပဒေများ ရှိသည်။
+ဂရိ နှင့် ရောမတို့၌ ယနေ့ ကျွန်ုပ်တို့ အသုံးပြုနေသော ဥပဒေများ ရှိခဲ့သည်။
+5/5
 
 4417
 The law has been around for a while.
-ဥပဒေက အချိန်အတော်ကြာခဲ့ပြီ။
+ဥပဒေက ရှိနေတာ အချိန်အတော်ကြာခဲ့ပြီ။
+5/5
 
 4418
 Names like girl who fell down
 လဲကျသွားသော မိန်းကလေး ကဲ့သို့ အမည်များ
+4/5
 
 4419
 Names, like happy girl
 ပျော်ရွှင်သော မိန်းကလေး ကဲ့သို့ ၊ အမည်များ
+4/5
 
 4420
 Names, like unhappy girl
 မပျော်ရွှင်သော မိန်းကလေး ကဲ့သို့ ၊ အမည်များ
+4/5
 
 4421
 Charles F. Lewis could not read.
-ချားလ်စ် အက်ဖ် လူးဝစ်သည် မဖတ်နိုင်ဘူး။
+Charles F. Lewis သည် စာမဖတ်တတ်ပါ။
+4/5
 
 4422
 Charles F. Lummis was a photographer.
-ချားလ်စ် အက်ဖ် လူးဝစ်သည် ဓာတ်ပုံဆရာ တစ်ယောက် ဖြစ်ခဲ့သည်။
+Charles F. Lewis သည် ဓာတ်ပုံဆရာ တစ်ယောက် ဖြစ်ခဲ့သည်။
+5/5
 
 4423
 Charles F. Lummis was funny.
-ချားလ်စ် အက်ဖ် လူးဝစ်သည် ရယ်စရာကောင်းသည်။
+Charles F. Lewis သည် ရယ်စရာကောင်းသည်။
+4/5
 
 4424
 God created the universe.
 ဘုရားသခင်သည် စကြဝဠာကို ဖန်ဆင်းခဲ့သည်။
+5/5
 
 4425
 It seems like nonliving entities are not here by chance.
-သက်ရှိမဟုတ်သော အရာများ ဒီနေရာမှာ မရှိခြင်းသည် အကြောင်းအားလျော်စွာ ဖြစ်ပုံပေါ်သည်။
+သက်ရှိမဟုတ်တဲ့ အရာတွေ ဒီနေရာမှာရှိနေတာ အကြောင်းမဲ့ဟုတ်ဟန်မတူဘူး။
+4/5
 
 4426
 The big bang caused planets to arise spontaneously.
-ကြီးမားတဲ့ ပေါက်ကွဲမှုသည် ဂြိုလ်များကို သူ့အလိုလို ပေါ်လာရန် ဖြစ်စေခဲ့သည်။
+ပေါက်ကွဲမှုကြီးသည် ဂြိုလ်များ သူ့အလိုလို ပေါ်လာရန် ဖြစ်စေခဲ့သည်။
+4/5
 
 4427
 We are doing something new.
-ကျွန်တော်တို့ တစ်စုံတစ်ခုသော အသစ်ကို ပြုလုပ်နေတယ်။
+ငါတို့ အသစ်တစ်ခုခုကို လုပ်နေတယ်။
+4/5
 
 4428
 We are doing what we have always done.
-ကျွန်တော်တို့ အမြဲလုပ်ခဲ့တာတွေကို ကျွန်တော်တို့ လုပ်နေတယ်။
+ငါတို့အမြဲလုပ်ကြတဲ့အရာတွေကို ငါတို့ လုပ်နေတယ်။
+4/5
 
 4429
 We are making a new product.
 ကျွန်ုပ်တို့သည် ထုတ်ကုန် အသစ် တစ်ခုကို ပြုလုပ်နေပါသည်။
+5/5
 
 4430
 All are in agreement about free speech.
 အားလုံးက လွတ်လပ်သော ပြောဆိုခွင့် နဲ့ ပတ်သက်ပြီး သဘောတူညီကြပါတယ်။
+5/5
 
 4431
 People are afraid of being exposed.
-လူတွေက ဖော်ပြရမှာကို ကြောက်ကြတယ်။
+လူတွေက ဖော်ထုတ်ပြခံရမှာကို ကြောက်ကြတယ်။
+4/5
 
 4432
 There is an argument about free speech.
-လွတ်လပ်သော ပြောဆိုခွင့်နဲ့ ပတ်သက်ပြီး အငြင်းအခုံ တစ်ခု ရှိတယ်။
+လွတ်လပ်သော ပြောဆိုခွင့်နဲ့ ပတ်သက်ပြီး အငြင်းအခုံ တစ်ခုရှိတယ်။
+4/5
 
 4433
 Early Americans depicted Spanish Mexicans negatively.
-အစောပိုင်း အမေရိကန်များသည် စပိန် မက္ကဆီကန်များကို အဆိုးမြင်စွာ ပုံဖော်ကြသည်။
+အစောပိုင်း အမေရိကန်များသည် စပိန် မက္ကဆီကန်များကို အဆိုးမြင်စွာ ပုံဖော်ခဲ့ကြသည်။
+5/5
 
 4434
 Early Americans disliked Spanish Mexicans.
-အစောပိုင်း အမေရိကန်တွေက စပိန် မက္ကဆီကန်တွေကို မကြိုက်ကြပါဘူး။
+အစောပိုင်း အမေရိကန်တွေက စပိန် မက္ကဆီကန်တွေကို မကြိုက်ခဲ့ကြပါဘူး။
+5/5
 
 4435
 Early Americans talked about all the good things Spanish Mexicans did.
-အစောပိုင်း အမေရိကန်တွေက စပိန် မက္ကဆီကန်တွေ လုပ်ခဲ့တဲ့ ကောင်းတဲ့ အရာ အားလုံး နဲ့ပတ်သက်ပြီး ပြောခဲ့ကြတယ်။
+အစောပိုင်း အမေရိကန်တွေက စပိန် မက္ကဆီကန်တွေ လုပ်ခဲ့တဲ့ ကောင်းတဲ့အရာတွေ အားလုံးနဲ့ပတ်သက်ပြီး ပြောခဲ့ကြတယ်။
+4/5
 
 4436
 He added three things.
 သူက အရာဝတ္ထု သုံးခုကို ပေါင်းထည့်ခဲ့သည်။
+4/5
 
 4437
 He never added anything.
 သူက ဘာကိုမှ ပေါင်းမထည့်ခဲ့ဘူး။
+4/5
 
 4438
 He planned to add four things.
-သူက အရာဝတ္ထု လေးခုကို ထည့်ဖို့ စီစဉ်ထားတယ်။
+သူက အရာဝတ္ထု လေးခုကို ထည့်ဖို့ စီစဉ်ခဲ့တယ်။
+4/5
 
 4439
 Gehry does not care about happiness.
-ဂဲရီသည် ပျော်ရွှင်မှုနှင့်ပတ်သက်၍ ဂရုမစိုက်ပါ။
+Gehry သည် ပျော်ရွှင်မှုနှင့်ပတ်သက်၍ ဂရုမစိုက်ပါ။
+4/5
 
 4440
 Gehry is a happy person.
-ဂဲရီသည် ပျော်ရွှင်သောသူတစ်ယောက် ဖြစ်သည်။
+Gehry သည် ပျော်ရွှင်သောသူတစ်ယောက် ဖြစ်သည်။
+4/5
 
 4441
 Gehry seems to say enjoy life.
-ဂဲရီသည် ဘဝကို ပျော်မွေ့နေသည်ကို ပြောမည့်ပုံရသည်။
+Gehry သည် ဘဝကို ပျော်မွေ့နေသည့်ပုံရသည်။
+4/5
 
 4442
 I do not care for the frog and the fly.
-ကျွန်တော်က ဖား နဲ့ ယင်ကောင်ကို ဂရုမစိုက်ဘူး။
+ငါက ဖား နဲ့ ယင်ကောင်ကို မစားဘူး။
+4/5
 
 4443
 I have a favorite example.
 ကျွန်တော် အကြိုက်ဆုံး ဥပမာ တစ်ခု ရှိတယ်။
+5/5
 
 4444
 I like allegories.
-ကျွန်တော်က အတ္ထုပ္ပတ္တိတွေကို သဘောကျတယ်။
+ကျွန်တော်က ရူပကအလင်္ကာ တွေကို သဘောကျတယ်။
+4/5
 
 4445
 If the dipoles flipped, the total energy of the system would be increased.
 ဖိုဓာတ်နှင့်မဓာတ်အင်အားစုမှုများကိုခွဲခြားထားသည့်မော်လီကြူးများကို လှန်ပစ်လိုက်မယ် ဆိုလျှင် ၊ စနစ်ရဲ့ စုစုပေါင်း စွမ်းအင်သည် တိုးလာလိမ့်မည်။
+4/5
 
 4446
 It is possible for the dipoles to change their orientation.
 ဖိုဓာတ်နှင့်မဓာတ်အင်အားစုမှုများကိုခွဲခြားထားသည့်မော်လီကြူးများသည် ၎င်းတို့၏ ဦးတည်ချက်ကို ပြောင်းလဲရန် ဖြစ်နိုင်သည်။
+4/5
 
 4447
 It requires some energy to flip the orientation of the dipoles.
-ဖိုဓာတ်နှင့်မဓာတ်အင်အားစုမှုများကိုခွဲခြားထားသည့်မော်လီကြူးများ၏ ဦးတည်ရာကို လှန်ရန် စွမ်းအင် အချို့ လိုအပ်သည်။
+ဖိုဓာတ်နှင့်မဓာတ်အင်အားစုမှုများကိုခွဲခြားထားသည့်မော်လီကြူးများ၏ ဦးတည်ရာကို လှန်ရန် စွမ်းအင်အချို့ လိုအပ်သည်။
+4/5
 
 4448
 It is beautiful to see no harmony between dress and decor.
 ဝတ်စားဆင်ယင်မှု နှင့် အလှဆင်မှု အကြားတွင် လိုက်ဖက်မှု မရှိသည်ကို ကြည့်ရတာ လှပပါသည်။
+4/5
 
 4449
 It is not normal for dress and decor to be not in harmony.
-ဝတ်စားဆင်ယင်မှု နှင့် အလှဆင်မှု အတွက် လိုက်လျောညီထွေ မဖြစ်ခြင်းသည် ပုံမှန် မဟုတ်ပေ။
+ဝတ်စားဆင်ယင်မှု နှင့် အလှဆင်မှု  လိုက်လျောညီထွေ မဖြစ်ခြင်းသည် ပုံမှန် မဟုတ်ပေ။
+4/5
 
 4450
 There is a sense of beauty and order when dress and decor are in harmony.
-ဝတ်စားဆင်ယင်မှု နှင့် အလှဆင်မှုသည် လိုက်လျောညီထွေရှိသည့်အခါ အလှတရား နှင့် စည်းစနစ်ကျမှု ၏ သိမြင်နိုင်သည့်အာရုံခံစားမှု တစ်ခု ရှိပါသည်။
+ဝတ်စားဆင်ယင်မှု နှင့် အလှဆင်မှုသည် လိုက်လျောညီထွေရှိသည့်အခါ အလှတရား နှင့် အစီအစဉ်ကျမှုကို သိမြင်နိုင်သည့်ခံစားမှု တစ်ခု ရှိသည်။
+4/5
 
 4451
 Godzilla has the potential to erase another species from the planet.
-ဂေါ်ဇီလာသည် ကမ္ဘာမြေမှ အခြား မျိုးစိတ်များကို ဖျောက်ဖျက် ရန် အလားအလာ ရှိသည်။
+ဂေါ်ဇီလာသည် ကမ္ဘာမြေမှ အခြား မျိုးစိတ်များကို ဖျောက်ဖျက်ရန် အလားအလာ ရှိသည်။
+4/5
 
 4452
 Godzilla is able to adapt to a lot of different environments.
-ဂေါ်ဇီလာသည် မတူညီသော ပတ်ဝန်းကျင် များစွာကို လိုက်လျောညီထွေဖြစ်အောင် လုပ်ဆောင်နိုင်သည် ။
+ဂေါ်ဇီလာသည် မတူညီသော ပတ်ဝန်းကျင် များစွာတွင် လိုက်လျောညီထွေဖြစ်အောင် နေနိုင်သည်။
+4/5
 
 4453
 It is technically impossible for a species to go extinct.
-မျိုးစိတ် တစ်ခု မျိုးသုဉ်းရန် အတွက် နည်းပညာအရ မဖြစ်နိုင်ပေ။
+မျိုးစိတ်တစ်ခု မျိုးသုဉ်းရန် အတွက် နည်းပညာအရ မဖြစ်နိုင်ပေ။
+3/5
 
 4454
 Adam was created to look like God.
 အာဒံကို ဘုရားသခင် နှင့်တူအောင် ဖန်ဆင်းခဲ့သည်။
+5/5
 
 4455
 Adam was delighted that he was made in the image of God.
 အာဒံသည် ဘုရားသခင် ပုံသဏ္ဍာန်နှင့်အညီ သူ့ကို ဖန်ဆင်းခံရသည့်အတွက် ဝမ်းမြောက်ဝမ်းသာဖြစ်ခဲ့သည်။
+5/5
 
 4456
 Eve made Adam using her own beautiful image.
 ဧဝက အာဒံကို သူမရဲ့ လှပတဲ့ ရုပ်ပုံကို သုံးပြီး ဖန်တီးခဲ့တယ်။
+5/5
 
 4457
 Adobe homes were dangerous.
-နေကျက်ရွှံနှင့်ဆောက်ထားသော အိမ်ရာများသည် အန္တရာယ်ရှိကြသည်။
+နေလှမ်းရွှံ့အုတ်နှင့်ဆောက်ထားသော အိမ်များသည် အန္တရာယ်ရှိသည်။
+5/5
 
 4458
 Native Americans lived in Adobe homes.
-အမေရိကန်ဖွားလူမျိုးများသည် နေကျက်ရွှံနှင့်ဆောက်ထားသော နေအိမ်များတွင် နေထိုင်ခဲ့ကြသည်။
+Native American များသည် နေလှမ်းရွှံ့အုတ်နှင့်ဆောက်ထားသော နေအိမ်များတွင် နေထိုင်ခဲ့ကြသည်။
+4/5
 
 4459
 People live in adobe homes.
-လူတွေဟာ နေကျက်ရွှံနှင့်ဆောက်ထားသော အိမ်တွေမှာ နေထိုင်ကြပါတယ်။
+လူတွေဟာ နေလှမ်းရွှံ့အုတ်နှင့်ဆောက်ထားသော အိမ်တွေမှာ နေထိုင်ကြပါတယ်။
+5/5
 
 4460
 Pachucas did not know pachucos.
-ပါချူကာများသည် ပါချူကိုများကို မသိခဲ့ပါ။
+Pachucas များသည် pachucos များကို မသိခဲ့ပါ။
+5/5
 
 4461
 Pachucas knew pachucos.
-ပါချူကာများသည် ပါချူကိုများကို သိခဲ့သည်။
+Pachucas များသည် pachucos များကို သိခဲ့သည်။
+5/5
 
 4462
 Pachucas wore more clothes than pachucos.
-ပါချူကာများသည် ပါချူကိုများ ထက် အဝတ်အစား ပို၍ ဝတ်သည်။
+Pachucas များသည် pachucos များ ထက် အဝတ်အစား ပို၍ ဝတ်သည်။
+5/5
 
 4463
 Lego World can only print cartoon characters on paper.
-လီဂို ဝေါလ်သည် စာရွက်ပေါ်တွင် ကာတွန်း ဇာတ်ကောင်များကိုသာ ရိုက်နှိပ်နိုင်သည်။
+လီဂို ဝေါလ်သည် ကာတွန်း ဇာတ်ကောင်များကို စာရွက်ပေါ်တွင်သာ ရိုက်နှိပ်နိုင်သည်။
+4/5
 
 4464
 Lego World has the potential to build machine tools.
-လီဂို ဝေါလ်သည် စက် ကိရိယာများကို တည်ဆောက်ရန် အလားအလာရှိသည်။
+လီဂို ဝေါလ်သည် စက် ကိရိယာများကို တည်ဆောက်နိုင်သည့် အလားအလာရှိသည်။
+4/5
 
 4465
 Lego World makes billions of dollars in annual profits.
-လီဂို ဝေါလ်သည် နှစ်စဉ် အမြတ်ငွေ ဒေါ်လာ ဘီလီယံပေါင်းများစွာကို ပြုလုပ်ပေးသည်။
+လီဂို ဝေါလ်သည် နှစ်စဉ် အမြတ်ငွေ ဒေါ်လာ ဘီလီယံပေါင်းများစွာကို ရှာဖွေပေးသည်။
+4/5
 
 4466
 Kids are playing with toy planes.
 ကလေးတွေက အရုပ် လေယာဉ်တွေနဲ့ ကစားနေကြတယ်။
+5/5
 
 4467
 Someone is ignoring Vance.
-တစ်စုံတစ်ယောက်သည် ဗန်စီကို လျစ်လျူရှုထားသည်။
+တစ်စုံတစ်ယောက်သည် Vance ကို လျစ်လျူရှုထားသည်။
+5/5
 
 4468
 Someone is talking to Vance.
 တစ်စုံတစ်ယောက်သည် ဗန်စီကို စကားပြောနေသည်။
+5/5
 
 4469
 There are more than a million different proteins that have effectively different shapes.
-ပုံသဏ္ဍာန် အမျိုးမျိုးနဲ့ ထိရောက်မှုရှိတဲ့ မတူညီသော ပရိုတင်းဓာတ်ပေါင်း တစ်သန်း ကျော် ရှိပါတယ်။
+ပုံသဏ္ဍာန် အမျိုးမျိုးရှိသည့် မတူညီသော ပရိုတင်းပေါင်း တစ်သန်း ကျော် ရှိပါသည်။
+4/5
 
 4470
 There are two protein shapes in the whole universe.
 စကြာဝဠာ တစ်ခုလုံးတွင် ပရိုတင်း ပုံစံ နှစ်မျိုး ရှိသည်။
+5/5
 
 4471
 We are still discovering the different shapes of proteins.
 ကျွန်ုပ်တို့သည် ပရိုတင်းများ၏ ကွဲပြားခြားနားသော ပုံသဏ္ဍာန်များကို ရှာဖွေနေဆဲဖြစ်သည်။
+4/5
 
 4472
 One cannot tell the chaotic regime from the ordered regime; they are too similar.
-အမိန့်ပေးထားသော အစိုးရဆီမှ ပရမ်းပတာဖြစ်နေသော အစိုးရကို မည်သူမှ မပြောနိုင်ပေ; သူတို့က အရမ်းတူတယ်။
+တည်ငြိမ်စနစ်ကျသော အစိုးရနှင့် ပရမ်းပတာဖြစ်နေသော အစိုးရကြားကွာခြားချက်ကို မည်သူမျှမပြောနိုင်ပါ၊ သူတို့နှစ်ခု အလွန်တူသည်။
+4/5
 
 4473
 The ordered regime is able to get more things done efficiently.
-အမိန့်ပေးထားသော စစ်အာဏာရှင်သည် လုပ်ငန်းများ ပိုမိုထိရောက်စွာ လုပ်ကိုင် ဆောင်ရွက်နိုင်ခဲ့သည်။
+တည်ငြိမ်စနစ်ကျသော အစိုးရသည် လုပ်ငန်းများထိရောက်စွာ ပြီးမြောက်အောင် ပိုမိုလုပ်ကိုင်နိုင်သည်။
+4/5
 
 4474
 There is a huge difference between the two regimes.
 အစိုးရ နှစ်ရပ် အကြားတွင် ကြီးမားသော ကွာခြားချက် တစ်ခု ရှိသည်။
+5/5
 
 4475
 Changes in the tetrahedra geometry can be visualized using computer software.
-တတ်ထရာဟီဒရာ ဂျီသြမေတြီ တွင် အပြောင်းအလဲများကို ကွန်ပျူတာ ဆော့ဖ်ဝဲကို အသုံးပြု၍ မြင်နိုင်သည်။
+တတ်ထရာဟီဒရာ ဂျီသြမေတြီ တွင် အပြောင်းအလဲများကို ကွန်ပျူတာ ဆော့ဖ်ဝဲကို အသုံးပြု၍ ပုံဖော်ပြသနိုင်သည်။
+4/5
 
 4476
 The geometry of the tetrahedra is not rigid.
-တတ်ထရာဟီဒရာ ၏ ဂျီသြမေတြီသည် မတောင့်တင်းပါ။
+တတ်ထရာဟီဒရာ ၏ ဂျီသြမေတြီသည် မခိုင်မာပါ။
+4/5
 
 4477
 The volume of the tetrahedra is always the same.
 တတ်ထရာဟီဒရာ ၏ ထုထည်သည် အမြဲတူညီသည်။
+5/5
 
 4478
 I could not address the natural game in this chapter.
 ဤ အခန်း တွင် သဘာဝကျသော အားကစားနည်းကို ကျွန်တော် မပြောပြနိုင်ခဲ့ပါ။
+2/5
 
 4479
 I do not have the solution for the puzzle of the natural game.
 သဘာဝကျသော အားကစားနည်း၏ ပဟေဠိ အတွက် ကျွန်ုပ်တွင် အဖြေ မရှိပါ။
+2/5
 
 4480
 This chapter has material on the natural game.
 ဤ အခန်းတွင် သဘာဝ ကစားနည်းရှိ အကြောင်းအရာများပါရှိသည်။
+2/5
 
 4481
 The assassination occurred in the moth of May.
-လုပ်ကြံသတ်ဖြတ်မှုသည် မေလအတွင်းက ဖြစ်ပွားခဲ့သည်။
+လုပ်ကြံသတ်ဖြတ်မှုသည် မေလတွင် ဖြစ်ပွားခဲ့သည်။
+5/5
 
 4482
 The assassination was done by Russia.
-လုပ်ကြံသတ်ဖြတ်မှုကို ရုရှားက လုပ်ခဲ့တာပါ။
+လုပ်ကြံသတ်ဖြတ်မှုကို ရုရှားက လုပ်ခဲ့သည်။
+5/5
 
 4483
 The assassination was of a male person.
 လုပ်ကြံသတ်ဖြတ်မှုသည် အမျိုးသား တစ်ဦး ဖြစ်ခဲ့သည်။
+4/5
 
 4484
 She didn't know much about Mexicans.
 သူမသည် မက္ကဆီကန်လူမျိုးများ အကြောင်း အများကြီး မသိပါ။
+5/5
 
 4485
 She was Mexican.
 သူမသည် မက္ကဆီကန်လူမျိုး ဖြစ်ခဲ့သည်။
+5/5
 
 4486
 She wrote Mexican Village.
-သူမသည် မက္ကဆီကန် ဗဲလေ့ခ်ျကို ရေးခဲ့သည်။
+သူမသည် Mexican Village ကို ရေးသားခဲ့သည်။
+5/5
 
 4487
 All apparel industries and shops were permanently closed in 1980.
 အဝတ်အထည် လုပ်ငန်းများ နှင့် ဈေးဆိုင်များ အားလုံးကို ၁၉၈၀ ခုနှစ်တွင် အပြီးတိုင် ပိတ်သိမ်းခဲ့သည်။
+5/5
 
 4488
 There are not enough inspectors to monitor violations in apparel workplaces.
 အထည်ချုပ် လုပ်ငန်းခွင်များတွင် ချိုးဖောက်မှုများကို စောင့်ကြည့်ရန် စစ်ဆေးရေးမှူး လုံလောက်မှု မရှိပါ။
+5/5
 
 4489
 Wage levels in the apparel industry are not stagnant.
-အထည်ချုပ် လုပ်ငန်းမှာ လုပ်ခလစာ အဆင့်က ငြိမ်မနေပါဘူး။
+အထည်ချုပ် လုပ်ငန်းရှိ လုပ်ခလစာ အဆင့်မှာ တည်ငြိမ်မှုမရှိပါ။
+4/5
 
 4490
 More objects on the web makes it harder to have niche markets.
 ဝဘ်ပေါ်ရှိ နောက်ထပ် အရာဝတ္ထုများသည် စီးပွားရေးအခွင့်အလမ်းဆိုင်ရာ စျေးကွက်များ ရရှိရန် ပိုမိုခက်ခဲစေသည်။
+3/5
 
 4491
 With excess, you have a chance for diversity.
 ပိုလျှံနေပါက ၊ သင်သည် ကွဲပြားမှုအတွက် အခွင့်အလမ်းတစ်ခု ရှိသည်။
+3/5
 
 4492
 You can sell socks instead of just clothes.
-မင်းက အဝတ်အစားတွေ အစား ခြေအိတ်တွေ ရောင်းနိုင်တယ်။
+အဝတ်အစားတွေပဲရောင်းမယ့်အစား ခြေအိတ်တွေ မင်းရောင်းနိုင်တယ်။
+5/5
 
 4493
 America leads European societies in the concern about economic equality.
 အမေရိကသည် စီးပွားရေး တန်းတူညီမျှမှု နှင့်ပတ်သက်၍ စိုးရိမ်ပူပန်မှုတွင် ဥရောပ လူ့အဖွဲ့အစည်းများကို ဦးဆောင်နေသည်။
+4/5
 
 4494
 European societies are concerned about economic equality and wealth discrimination.
-ဥရောပ လူ့အဖွဲ့အစည်းများသည် စီးပွားရေး တန်းတူညီမျှမှု နှင့် ချမ်းသာကြွယ်ဝမှု ခွဲခြားဆက်ဆံခြင်း နှင့်ပတ်သက်၍ စိုးရိမ်ပူပန်နေကြသည်။
+ဥရောပ လူ့အဖွဲ့အစည်းများသည် စီးပွားရေး တန်းတူညီမျှမှု နှင့် ချမ်းသာကြွယ်ဝမှုအပေါ်ခွဲခြားဆက်ဆံခြင်း နှင့်ပတ်သက်၍ စိုးရိမ်ပူပန်နေကြသည်။
+4/5
 
 4495
 European societies are global leaders in the concern about economic equality.
 ဥရောပ လူ့အဖွဲ့အစည်းများသည် စီးပွားရေး တန်းတူညီမျှမှု နှင့်ပတ်သက်၍ စိုးရိမ်ပူပန်မှုတွင် ကမ္ဘာ့ ခေါင်းဆောင်များဖြစ်သည်။
+4/5
 
 4496
 Coaches do not let players forget about defeat.
-နည်းပြတွေက ကစားသမားတွေကို ရှုံးနိမ့်မှု နဲ့ပတ်သက်ပြီး မမေ့လျော့စေရဘူး။ 
+နည်းပြတွေက ကစားသမားတွေကို ရှုံးနိမ့်မှု နဲ့ပတ်သက်ပြီး မမေ့လျော့စေဘူး။ 
+4/5
 
 4497
 Coaches should not give young athletes a hard time.
-နည်းပြများသည် လူငယ် အားကစားသမားများအား ခက်ခဲတဲ့ အချိန် တစ်ခုကို မပေးသင့်ပါဘူး။
+နည်းပြများသည် လူငယ် အားကစားသမားများအား အလွန်အမင်း မတင်းကျပ်သင့်ပါ။
+3/5
 
 4498
 Some coaches cause anxiety.
 အချို့သော နည်းပြများသည် စိတ်ပူပန်မှုကို ဖြစ်စေသည်။
+4/5
 
 4499
 It is possible for the particle-horizon problem to disappear.
 အမှုန်အမွှား-မိုးကုပ်စက်ဝိုင်း ပြဿနာ ပျောက်ကွယ်ရန် ဖြစ်နိုင်သည်။
+4/5
 
 4500
 The math for an exponential initial expansion is complex.
 ကိန်းဂဏန်း အစပျိုးခြင်းကို တိုးချဲ့ခြင်း တစ်ခု အတွက် သင်္ချာသည် ရှုပ်ထွေးသည်။
+3/5

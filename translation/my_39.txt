@@ -1,451 +1,501 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 3801
 We might not have enough next year.
-လာမယ့်နှစ်မှာ ကျွန်တော်တို့ လုံလောက်မှု မရှိနိုင်ဘူး။
+လာမယ့်နှစ်မှာ ငါတို့ လုံလောက်မှု မရှိနိုင်ဘူး။
+4/5
 
 3802
 We will be over $20,000 short next year.
-ကျွန်ုပ်တို့သည် လာမည့် နှစ်တိုအတွင်း  ဒေါ်လာ ၂၀,၀၀၀ ကျော် ရရှိလိမ့်မည်။
+နောက်နှစ်မှာ ငါတို့ ဒေါ်လာ ၂၀၀၀၀ ကျော်လိုနေလိမ့်မယ်။
+4/5
 
 3803
 It was for Father's Day and Ellen always took care of it.
-အဲဒါက အဖေများနေ့ အတွက် ဖြစ် ပြီး အယ်လင်က ၎င်းကို အမြဲ ဂရုစိုက်တယ်။
+အဲဒါက အဖေများနေ့ အတွက် ဖြစ် ပြီး အယ်လင်က အဲဒါအတွက် အမြဲတာဝန်ယူခဲ့တယ်။
+4/5
 
 3804
 Some friends celebrated Mother's Day.
-သူငယ်ချင်း အချို့က အမေများနေ့ကို ကျင်းပကြသည်။
+သူငယ်ချင်း အချို့က အမေများနေ့ကို ကျင်းပခဲ့ကြသည်။
+5/5
 
 3805
 Some friends took turns hosting Mother's Day brunch.
-အချို့သော သူငယ်ချင်းများက အမေများနေ့ နေ့လည်စာကို အလှည့်ကျ ဧည့်ခံကြသည်။
+အချို့သော သူငယ်ချင်းများက အမေများနေ့ brunch ကို အလှည့်ကျ ဧည့်ခံကြသည်။
+4/5
 
 3806
 Buses are all powered by propane.
-ဘတ်စ်ကားများ အားလုံး ကို ပရိုပိန်း ဖြင့် မောင်းနှင်ပါသည်။
+ဘတ်စ်ကားများ အားလုံး ကို ပရိုပိန်း ဖြင့် မောင်းနှင်သည်။
+5/5
 
 3807
 Buses run on diesel fuel.
-ဘတ်စ်ကားများသည် ဒီဇယ် လောင်စာ ဖြင့် ပြေးဆွဲသည်။
+ဘတ်စ်ကားများသည် ဒီဇယ် လောင်စာဖြင့် မောင်းနှင်သည်။
+5/5
 
 3808
 Buses that run on diesel fuel are the biggest environmental issue we see.
-ဒီဇယ် လောင်စာ နဲ့ ပြေးဆွဲတဲ့ ဘတ်စ်ကားတွေသည် ကျနော်တို့ သိကြတဲ့ အကြီးမားဆုံး သဘာဝပတ်ဝန်းကျင် ပြဿနာ ဖြစ်ပါတယ်။
+ဒီဇယ် လောင်စာ နဲ့ မောင်းတဲ့ ဘတ်စ်ကားတွေဟာ ကျနော်တို့ သိကြတဲ့ အကြီးမားဆုံး သဘာဝပတ်ဝန်းကျင် ပြဿနာ ဖြစ်ပါတယ်။
+4/5
 
 3809
 Hawaii is my favorite place to go for vacation.
-ဟာဝိုင်အီသည် အပန်းဖြေခရီး သွား ရန် ကျွန်တော်၏ အကြိုက်ဆုံး နေရာ ဖြစ်ပါတယ်။
+ဟာဝိုင်အီဟာ  အပန်းဖြေခရီး သွား ရန် ကျွန်တော့်ရဲ့ အကြိုက်ဆုံး နေရာ ဖြစ်ပါတယ်။
+4/5
 
 3810
 It's a lovely place to visit.
-လည်ပတ်ရန် ကောင်းတဲ့ နေရာ တစ်ခု ဖြစ်ပါတယ်။
+အဲဒါက လည်ပတ်ရန် ကောင်းတဲ့ နေရာ တစ်ခု ဖြစ်ပါတယ်။
+5/5
 
 3811
 It's such a dump and I hate going there!
-ယင်းကဲ့သို့ အမှိုက်ပုံ တစ်ခု ဖြစ်ခဲ့ပြီး အဲ့နေရာကို သွားရတာ ကျွန်တော် မုန်းတယ်!
+အမှိုက်ပုံတစ်ခုလိုပဲ၊ အဲ့နေရာကို သွားရတာ ငါ မုန်းတယ်!
+4/5
 
 3812
 I will never watch a movie more than once.
-ကျွန်တော် ရုပ်ရှင် တစ်ကားကို ဘယ်တော့မှ တစ်ကြိမ်ထက် ပို မကြည့်ဘူး။
+ငါ ရုပ်ရှင် တစ်ကားကို ဘယ်တော့မှ တစ်ကြိမ်ထက် ပို မကြည့်ဘူး။
+5/5
 
 3813
 Sometimes I find a movie that I want to watch every single night for a month.
-တစ်လ ကြာအောင် ညတိုင်း ကျွန်တော် ကြည့်ချင်တဲ့ ရုပ်ရှင် တစ်ကား ကျွန်တော် တစ်ခါတလေမှာ ရှာတွေ့တယ်။
+တခါတလေကျရင် ငါကြည့်ချင်တဲ့ ရုပ်ရှင်ကားကို တစ်လလုံး ညတိုင်းထိုင်ရှာတယ်။
+4/5
 
 3814
 Sometimes I like a movie so much I can watch it over and over again.
-တစ်ခါတလေ ရုပ်ရှင် တစ်ကားကို ကျွန်တော် အရမ်းကြိုက်လွန်းလို့ ကျွန်တော် ၎င်းကို ထပ်ခါထပ်ခါ ကြည့်နိုင်တယ်။
+တစ်ခါတလေ ရုပ်ရှင် တစ်ကားကို ငါ အရမ်းကြိုက်လွန်းလို့ ထပ်ခါထပ်ခါ ကြည့်နိုင်တယ်။
+5/5
 
 3815
 By all accounts, he hates it.
-အားလုံးသော ယူဆချက်တွေ အားဖြင့် ၊ သူက ထိုအရာကို မုန်းတယ်။
+သိရသလောက်ကတော့ သူမကြိုက်ဘူး။
+3/5
 
 3816
 He likes it, from what I can tell.
-ငါ ပြောနိုင်တဲ့ အရာတွေထဲ ၊ ထိုအရာကို သူက နှစ်သက်တယ်။
+ငါမှန်းလို့ရသလောက်ပြောရရင်တော့၊ သူကြိုက်တယ်။
+4/5
 
 3817
 He seems to really like going to the gym.
-ဂျင် သွားရတာ သူက အရမ်းကြိုက်ပုံရတယ်။
+ကာယလေ့ကျင်းရေးခန်းမ သွားရတာ သူ အရမ်းကြိုက်ပုံရတယ်။
+5/5
 
 3818
 She feels like she can spend as much as she wants.
-သူမ လိုချင်သလောက် သူမ သုံးစွဲနိုင်သလိုမျိုး သူမ ခံစားရတယ်။
+သူမ ကြိုက်သလောက် သူမ သုံးစွဲနိုင်သလိုမျိုး သူမ ခံစားရတယ်။
+4/5
 
 3819
 She feels like she can spend more than $1000 a night.
 သူမသည် တစ်ညလျှင် ဒေါ်လာ ၁၀၀၀ ကျော် သုံးနိုင်သကဲ့သို့ သူမက ခံစားရသည်။
+4/5
 
 3820
 She scrimps every penny she's got.
-သူမ ရထားတဲ့ ပိုက်ဆံတိုင်းကို သူမက ဖြုန်းတီးတယ်။
+သူမရထားသမျှပိုက်ဆံ တပြားတချပ်တိုင်းကို သူမ ခြစ်ချုပ်ချွေတာတယ်။
+4/5
 
 3821
 Do you know what script they're going to give us to read?
-ငါတို့ကို ဖတ်ဖို့ သူတို့ ဘာဇာတ်ညွှန်း ပေးမယ်ဆိုတာကို မင်းသိလား။
+ငါတို့ ဖတ်ဖို့ ဘာဇာတ်ညွှန်း သူတို့ ပေးမယ်ဆိုတာ မင်းသိလား?
+5/5
 
 3822
 I know we don't have a clue what we'll say.
-ကျွန်တော်တို့ ဘာပြောမယ်ဆိုတာ သဲလွန်စ တစ်ခု ကျွန်တော်တို့မှာ မရှိဘူးဆိုတာ ကျွန်တော် သိတယ်။
+ငါတို့ ဘာပြောရမယ်ဆိုတာနဲ့ပတ်သက်ပြီး သဲလွန်စ တစ်ခုမှ  ငါတို့မှာ မရှိဘူးဆိုတာ ငါသိတယ်။
+3/5
 
 3823
 What are we doing to say?
 ကျွန်တော်တို့ ဘာပြောစရာရှိလို့လဲ။
+2/5
 
 3824
 Everyone takes care of their own family, no matter what.
-လူတိုင်းက ဘာဖြစ်နေနေ၊ သူတို့ရဲ့ ကိုယ်ပိုင် မိသားစုကို ဂရုစိုက်တယ်။
+ဘာပဲဖြစ်နေနေ လူတိုင်းက သူတို့ရဲ့ မိသားစုကို စောင့်ရှောက်တယ်။
+5/5
 
 3825
 Some people can't care for elderly relatives because their homes have lots of stairs.
 သူတို့၏ အိမ်များတွင် လှေကား များစွာ ရှိ သောကြောင့် အချို့ လူများသည် သက်ကြီးရွယ်အို ဆွေမျိုးများကို ဂရုမစိုက်နိုင်ပါ။
+4/5
 
 3826
 Some people can't care for other people.
 တချို့ လူတွေက တခြား လူတွေကို ဂရုမစိုက်နိုင်ဘူး။
+5/5
 
 3827
 Everyone knows he's done for good.
-သူ ကောင်းတာလုပ်ခဲ့တာကို လူတိုင်းက သိပါတယ်။
+သူက ကောင်းကောင်းမွန်မွန်ပဲ တစ်စခန်းရပ်သွားပြီဆိုတာ လူတိုင်းသိပါတယ်။
+3/5
 
 3828
 Some people think he'll be a star again.
-တစ်ချို့ လူတွေက သူသည် စတား တစ်ယောက် ထပ်မံ ဖြစ်လာမယ်လို့ ထင်ကြတယ်။
+သူနာမည်ပြန်ကြီးလာမယ် လို့ တချို့လူ​တွေက ထင်ကြတယ်။
+4/5
 
 3829
 Some people think he's going to rebound and have a wonderful season next year.
 တစ်ချို့ လူတွေက သူ ပြန်ကောင်းလာ ပြီး လာမယ့်နှစ်မှာ ကောင်းမွန်တဲ့ ရာသီ တစ်ခုကို ပိုင်ဆိုင်နိုင်မယ်လို့ ထင်နေကြတယ်။
+3/5
 
 3830
 I started taking the Pill when the Sex Revolution started in the 1970s.
-၁၉၇၀ ခုနှစ်တွေမှာ လိင် တော်လှန်ရေး စတင်တုန်းက ကျွန်တော် ဆေးပြားတွေ စတင်သောက်ခဲ့တယ်။
+၁၉၇၀ ခုနှစ်တွေမှာ လိင် တော်လှန်ရေး စတင်ခဲ့တုန်းက ကျွန်တော် ဆေးပြားတွေ စသောက်ခဲ့တယ်။
+4/5
 
 3831
 The Pill was part of the Sex Revolution.
-ဆေးပြားသည် လိင် တော်လှန်ရေး၏ တစ်စိတ်တစ်ပိုင်း ဖြစ်သည်။
+The Pill သည် လိင် တော်လှန်ရေး၏ တစ်စိတ်တစ်ပိုင်း ဖြစ်သည်။
+4/5
 
 3832
 The Sex Revolution hasnt happened yet.
-လိင် တော်လှန်ရေးကတော့ မဖြစ်သေးပါဘူး။
+လိင် တော်လှန်ရေး မဖြစ်သေးပါဘူး။
+4/5
 
 3833
 Goodbye!
 ဂွတ်ဘိုင်!
+5/5
 
 3834
 It was great talking to you and I'll talk to you tomorrow.
 မင်းနဲ့ စကားပြောရတာ အရမ်းကောင်းတယ် မနက်ဖြန် ငါ မင်းနဲ့ စကားပြောကြမယ်။
+4/5
 
 3835
 Let's keep talking.
 ဆက် ပြောရအောင်။
+4/5
 
 3836
 I have no idea what they take into consideration.
-သူတို့ ဘယ်အရာကို ထည့်သွင်းစဉ်းစားရမည်ကို ကျွန်တော် မသိဘူး။
+သူတို့ ဘယ်အရာကို ထည့်စဉ်းစားလဲဆိုတာ ငါ မသိဘူး။
+4/5
 
 3837
 I think it depends on how long you've been a member.
 ဒါက မင်း အသင်းဝင် တစ်ယောက် ဖြစ်တာ ဘယ်လောက်ကြာပြီလဲ အပေါ်မှာ မူတည်တယ်လို့ ငါ ထင်တယ်။
+5/5
 
 3838
 I think your rates depend on your length of membership.
-မင်းရဲ့ နှုန်းထားတွေက မင်းရဲ့ အသင်းဝင် သက်တမ်းပေါ် မူတည်မယ်လို့ ငါထင်တယ်။
+မင်းရဲ့ နှုန်းထားက မင်းရဲ့ အသင်းဝင် သက်တမ်းပေါ် မူတည်မယ်လို့ ငါထင်တယ်။
+5/5
 
 3839
 I don't do complicated recipes.
-ရှုပ်ထွေးတဲ့ ဟင်းချက်နည်းတွေကို ငါ မလုပ်ဘူး။
+ရှုပ်ထွေးတဲ့ ဟင်းချက်နည်းတွေကို ငါ မချက်ဘူး။
+5/5
 
 3840
 I don't make anything that takes me more than 15 minutes to cook.
-ကျွန်တော့် အတွက် ချက်ပြုတ်ဖို့ ၁၅မိနစ်ထက်ပိုပြီး ကြာတဲ့ ဘယ်အရာကိုမှ ကျွန်တော် မပြုလုပ်ပါဘူး။
+ငါ့အတွက် ချက်ပြုတ်ဖို့ ၁၅မိနစ်ထက်ပိုပြီး ကြာတဲ့ ဘယ်အရာကိုမှ ငါမချက်ဘူး။
+5/5
 
 3841
 I like really complex recipes that take hours to make.
-ချက်ပြုတ်ရန် နာရီများစွာ အချိန်ယူရတဲ့ ရှုပ်ထွေးတဲ့ ချက်ပြုတ်နည်းတွေကို ငါ တကယ် ကြိုက်တယ်။
+ချက်ပြုတ်ရန် နာရီများစွာ အချိန်ယူရတဲ့ အရမ်းရှုပ်ထွေးတဲ့ ချက်ပြုတ်နည်းတွေကို ငါ ကြိုက်တယ်။
+5/5
 
 3842
 The lasagna is the worst thing I've tried!
-လာဆာဂါသည် ငါ ကြိုးစားဖူးသော အဆိုးဆုံး အရာ ဖြစ်တယ်!
+Lasagna က ငါစားကြည့်ဖူးသမျှထဲမှာ အဆိုးဆုံးပဲ!
+4/5
 
 3843
 Their lasagna is excellent.
-သူတို့ရဲ့ လာဆာဂါ က အရမ်းကောင်းပါတယ်။
+သူတို့ရဲ့ lasagna က အရမ်းကောင်းပါတယ်။
+5/5
 
 3844
 Their lasagna is great because of the spicy sausage they use.
-သူတို့ သုံးတဲ့ ချဉ်စပ် ဝက်အူချောင်းကြောင့် သူတို့ရဲ့ လာဆာဂါ က အရမ်းကောင်းပါတယ်။
+သူတို့ သုံးတဲ့  အမွှေးအကြိုင်ကဲဝက်အူချောင်းကြောင့် သူတို့ရဲ့ lasagna က အရမ်းကောင်းပါတယ်။
+4/5
 
 3845
 I don't have a lot of money right now.
 အခု ငါ့မှာ ပိုက်ဆံ အများကြီး မရှိဘူး။
+5/5
 
 3846
 I have a ton of money right now so I want to go shopping.
 ငါ့မှာ အခု ပိုက်ဆံ အများကြီးရှိလို့ ငါ ဈေးဝယ် ထွက်ချင်တယ်။
+5/5
 
 3847
 I only have $20 until payday.
-ကျွန်တော်မှာ လစာထုတ်ရက် အထိ $၂၀ပဲ ရှိတယ်။
+ကျွန်တော်မှာ လစာထုတ်ရက်အထိ $၂၀ပဲ ရှိတယ်။
+5/5
 
 3848
 I know you'll need twently.
-မင်း နှစ်ဆယ် လိုအပ်မယ် ဆိုတာ ငါ သိတယ်။
+မင်း နှစ်ဆယ် လိုမယ် ဆိုတာ ငါ သိတယ်။
+5/5
 
 3849
 I think you just need one copy of the book.
-မင်း ဒီ စာအုပ်ရဲ့ မိတ္ထူ တစ်စုံ သာ လိုမယ်လို့ ငါ ထင်တယ်။
+မင်း ဒီ စာအုပ်ကို တစ်အုပ်ပဲ လိုမယ်လို့ ငါ ထင်တယ်။
+4/5
 
 3850
 I'm pretty sure you'll only need one.
-မင်း တစ်ခုတည်း လိုမယ်ဆိုတာ ငါ သေချာလုနီးနီးပဲ။
+မင်း တစ်ခုတည်း လိုမယ်ဆိုတာ ငါ တော်တော် သေချာတယ်။
+4/5
 
 3851
 My boyfriend is deaf so he can't listen to music.
-ငါ့ရည်းစားက နားမကြားတဲ့အတွက် သူ သီချင်းကို နားမထောင်နိုင်ဘူး။
+ငါ့ရည်းစားက နားမကြားတဲ့အတွက် သူ သီချင်း နားမထောင်နိုင်ဘူး။
+5/5
 
 3852
 My boyfriend listens to country music in the car.
 ငါ့ရည်းစားက ကားထဲမှာ ကန်းထရီး သီချင်းတွေ နားထောင်တယ်။
+4/5
 
 3853
 My boyfriend listens to music.
 ငါ့ရည်းစားက သီချင်းနားထောင်တယ်။
+4/5
 
 3854
 The group is interested in a lot of different topics.
-ဒီအဖွဲ့သည် မတူညီသော ခေါင်းစဉ် များစွာကို စိတ်ဝင်စားသည်။
+အဖွဲ့သည် မတူညီသော အကြောင်းအရာ များစွာကို စိတ်ဝင်စားသည်။
+4/5
 
 3855
 The group is interested in environmental issues.
-ဒီအဖွဲ့ဟာ သဘာဝပတ်ဝန်းကျင်ဆိုင်ရာ ကိစ္စရပ်တွေကို စိတ်ဝင်စားတယ်။
+အဖွဲ့ဟာ သဘာဝပတ်ဝန်းကျင်ဆိုင်ရာ ကိစ္စရပ်တွေကို စိတ်ဝင်စားတယ်။
+4/5
 
 3856
 The group is interested in the matter.
 ဒီအဖွဲ့က ဒီကိစ္စကို စိတ်ဝင်စားတယ်။
+4/5
 
 3857
 I am so happy we had this conversation today!
-ဒီနေ့ ကျွန်တော်တို့မှာ ဒီ စကားဝိုင်း ရှိခဲ့တာ ကျွန်တော် အရမ်းပျော်တယ်!
+ဒီနေ့ ကျွန်တော်တို့ဒီ စကားဝိုင်းဖြစ်ခဲ့တာ ကျွန်တော် အရမ်းကျေနပ်တယ်!
+3/5
 
 3858
 I dont want to talk to you eve again.
-ငါ မင်းနဲ့ နောက်တစ်ကြိမ် ကြိုပြီး စကားမပြောချင်တော့ဘူး။
+ငါ မင်းနဲ့ နောက်တစ်ကြိမ် ထပ်ပြီး စကားမပြောချင်တော့ဘူး။
+5/5
 
 3859
 I liked talking to you.
 ငါ မင်းနဲ့ စကားပြောရတာ ကြိုက်တယ်။
+5/5
 
 3860
 It's ok for a parent to give lots of gifts.
-မိဘ အတွက် လက်ဆောင်တွေ အများကြီး ပေးရင် အဆင်ပြေပါတယ်။
+မိဘတွေအနေနဲ့ လက်ဆောင်အများကြီး ပေးတာက အဆင်ပြေပါတယ်။
+4/5
 
 3861
 It's ok for parents to support their kids until they are able to do it on their own.
-မိဘများက သူတို့၏ ကလေးများကို သူတို့ဘာသာသူတို့ မတတ်နိုင်သည့်တိုင်အောင် ပံ့ပိုးပေးလို့ အဆင်ပြေပါတယ်။
+မိဘများက သူတို့၏ ကလေးများကို သူတို့ဘာသာသူတို့ တတ်နိုင်သည့်တိုင်အောင် ပံ့ပိုးပေးတာ အဆင်ပြေပါတယ်။
+4/5
 
 3862
 Parents should just keep everything they have and not share it.
-မိဘများသည် သူတို့မှာ ရှိသမျှ အရာရာကို မျှဝေမသုံးစွဲဘဲ သိမ်းဆည်းထားသင့်သည်။
+မိဘများသည် ၄င်းတို့တွင်ရှိသည့်အရာများကို ခွဲဝေမပေးဘဲ သိမ်းထားသင့်သည်။
+4/5
 
 3863
 Give it to everyone, regardless of what they will do with it.
-သူတို့က ၎င်းကို ဘာပဲလုပ်လုပ် ၊ အဲဒါကို လူတိုင်းကို ပေးလိုက်ပါ။
+သူတို့က အဲဒါနဲ့ ဘာပဲလုပ်လုပ်ပစ်ပစ် ၊ အဲဒါကို အားလုံးကို ပေးလိုက်ပါ။
+4/5
 
 3864
 Spend it on the options that might work.
-၎င်းကို အလုပ်ဖြစ်နိုင်သော ရွေးချယ်မှုများပေါ်တွင် သုံးစွဲပါ။
+အလုပ်ဖြစ်နိုင်သော ရွေးချယ်မှုများပေါ်တွင် ၄င်းကိုသုံးစွဲပါ။
+3/5
 
 3865
 Spend the education funding on kids that can go to college.
 ကောလိပ်တက်နိုင်တဲ့ ကလေးတွေအတွက် ပညာရေး ရန်ပုံငွေကို သုံးစွဲပါ။
+5/5
 
 3866
 It's not as loud in the suburbs as it is in the city.
-မြို့ထဲမှာ ဒါတွေ ရှိသလောက် မြို့ဆင်ခြေဖုံးမှာ အသံတောင် မကြားရဘူး။
+မြို့ထဲမှာ လောက် ဆင်ခြေဖုံးမှာ အသံ မကျယ်ဘူး။
+4/5
 
 3867
 It's quieter there.
-အဲဒီမှာ ပိုငြိမ်တယ်။
+အဲဒီမှာ ပိုတိတ်ဆိတ်တယ်။
+5/5
 
 3868
 It's so loud that we just won't have the chance to talk.
-ကျယ်လောင်လွန်းလို့ ကျွန်တော်တို့ စကားပြောဖို့ အခွင့်မသာဘူး။
+ကျယ်လွန်းလို့ ကျွန်တော်တို့ စကားပြောဖို့ အခွင့်မသာဘူး။
+5/5
 
 3869
 I will likely go to the museum to see the new exhibit.
-ပြပွဲ အသစ်ကို ကြည့်ဖို့ ပြတိုက်ကို ကျွန်တော် သွားဖို့ရှိတယ်။
+ပြပွဲ အသစ်ကို ကြည့်ဖို့ ပြတိုက်ကို ကျွန်တော် သွားဖြစ်မယ်ထင်တယ်။
+4/5
 
 3870
 I will likely visit.
-ကျွန်တော် လည်ပတ်ဖို့ရှိတယ်။
+ကျွန်တော် လည်ပတ် ဖြစ်လိမ့်မယ်။
+4/5
 
 3871
 There is no way I'm going!
-ငါသွားစရာ လမ်းမရှိဘူး!
+ငါလုံးဝ သွားမှာမဟုတ်ဘူး!
+4/5
 
 3872
 I have never been to Texas before.
-ကျွန်တော် အရင်က တက္ကဆက်ကို မရောက်ဖူးဘူး။
+ငါ တက္ကဆက်ကို အရင်ကမရောက်ဖူးဘူး။
+5/5
 
 3873
 I lived in Texas in the 1980's.
 ကျွန်တော် ၁၉၈၀ ပြည့်လွန်နှစ်များတွင် တက္ကဆက် တွင် နေထိုင်ခဲ့သည်။
+5/5
 
 3874
 I used to be in Texas.
-ကျွန်တော် တက္ကဆက်မှာ နေခဲ့ဖူးတယ်။
+ငါ တက္ကဆက်မှာ နေခဲ့ဖူးတယ်။
+5/5
 
 3875
 A lot of things can go wrong if you don't keep working at it.
-မင်း ဒါကို ဆက်မလုပ်နိုင်ဘူးဆိုလျှင် အများကြီး မှားသွားနိုင်တယ်။
+မင်း ဒါကို ဆက်မလုပ်ဘူးဆိုလျှင် အများကြီး မှားသွားနိုင်တယ်။
+3/5
 
 3876
 There's no point in trying, so I just don't bother.
 ကြိုးစားနေစရာ အကြောင်း မရှိဘူး ၊ ဒါကြောင့် ငါစိတ်မ၀င်စားဘူး။
+4/5
 
 3877
 Your health can suffer if you don't keep working to stay active and healthy.
-တက်ကြွ ပြီး ကျန်းကျန်းမာမာ နေထိုင် ဖို့ မင်း အလုပ်ဆက်မလုပ်လျှင် မင်းရဲ့ ကျန်းမာရေးကို ထိခိုက်စေနိုင်ပါတယ်။
+တက်ကြွ ပြီး ကျန်းကျန်းမာမာ နေထိုင် ဖို့ မင်း အလုပ်ဆက်မလုပ်လျှင် မင်းရဲ့ ကျန်းမာရေး ထိခိုက်စေနိုင်ပါတယ်။
+4/5
 
 3878
 It's not worth anything because it's junk.
-အညစ်အကြေးတွေကြောင့် ဘာမှ တန်ဖိုးမရှိပါဘူး။
+အဲဒါက အစုတ်အပြတ်အမှိုက်ဆိုတော့ ဘာ တန်ဖိုးမှမရှိပါဘူး။
+4/5
 
 3879
 You can get paid a lot for that.
-အဲဒါ အတွက် မင်း အများကြီး ပေးချေနိုင်ပါတယ်။
+အဲဒါ အတွက် မင်း အများကြီး ပိုက်ဆံရနိုင်တယ်။
+4/5
 
 3880
 You can get paid a ton of money if you have the best fabrics.
-မင်းမှာ အကောင်းဆုံး အထည်များ ရှိပါလျှင် ငွေ အများကြီး ပေးချေနိုင်သည်။
+မင်းမှာ အကောင်းဆုံး ပိတ်ထည်တွေရှိရင် ငွေအများကြီး ရနိုင်တယ်။
+4/5
 
 3881
 I think they control most of the market.
-သူတို့က စျေးကွက် အများစုကို ထိန်းချုပ်ထားတယ်လို့ ကျွန်တော် ထင်ပါတယ်။
+သူတို့က စျေးကွက်ရဲ့အများစုကို ထိန်းချုပ်ထားတယ်လို့ ငါ ထင်တယ်။
+4/5
 
 3882
 I think they have most of the market for laundry hampers.
-သူတို့မှာ အဝတ်လျှော် ခြင်းတွေ အတွက် စျေးကွက် အများစု ရှိနေတယ်လို့ ကျွန်တော် ထင်ပါတယ်။
+သူတို့မှာ အဝတ်လျှော်ခြင်းတွေ အတွက် စျေးကွက်အများစု ရှိနေတယ်လို့ ငါထင်တယ်။
+5/5
 
 3883
 They are just breaking into the market right now.
-သူတို့က အခုပဲ စျေးကွက်ထဲကို ထိုးဖောက်ဝင်ရောက်နေပါပြီ။
+သူတို့က အခု စျေးကွက်ထဲကို ထိုးဖောက်ဝင်ရောက်နေပြီ။
+5/5
 
 3884
 I was growing up in Texas in the 90's.
 ကျွန်တော်သည် ၉၀နှစ်များ အတွင်း တက္ကဆက်တွင် ကြီးပြင်းခဲ့သည်။
+4/5
 
 3885
 I was growing up.
 ကျွန်တော် ကြီးပြင်းလာခဲ့တယ်။
+5/5
 
 3886
 It was once I was an old person.
-ကျွန်တော်ဟာ လူဟောင်း တစ်ယောက် ဖြစ်ခဲ့တယ်ဆိုတာ တစ်ချိန်တုန်းက ဖြစ်ခဲ့တာပါ။
+ကျွန်တော်ဟာ လူဟောင်း တစ်ယောက် ဖြစ်ခဲ့တယ်ဆိုတာ တစ်ချိန်တုန်းကပါ။
+4/5
 
 3887
 People in Amarillo are really used to snow.
-အမ်မာရေးလို ရှိ လူများသည် နှင်းတွေကို တကယ်ကို အသုံးပြုကျသည်။
+Amarillo ကလူတွေက နှင်းတွေနဲ့ အရမ်း နေသားကျနေတယ်။
+4/5
 
 3888
 People in Amarillo go nuts when there's snow on the ground.
-မြေပြင်ပေါ်တွင် နှင်းများကျနေချိန်တွင် အမ်မာရေးလို မှ လူများသည် အခွံမားသီးတွေကို ခူးကြသည်။
+နှင်းကျပြီဆိုရင် Amarillo ကလူတွေ အရမ်းပျော်ကြတယ်။
+4/5
 
 3889
 People in Amarillo refuse to leave their houses when there is snow.
-အမ်မာရေးလို တွင် လူများသည် နှင်းများကျချိန်တွင် သူတို့၏ အိမ်များမှ ထွက်ခွာရန် ငြင်းဆန်ကြသည်။
+နှင်းကျချိန်ဆိုရင် Amarillo ကလူတွေ အိမ်ထဲကအိမ်ပြင်မထွက်ချင်ကြဘူး။
+4/5
 
 3890
 Childcare costs $2000 more off base.
 အခြေခံ ကလေးထိန်း စရိတ်က ဒေါ်လာ ၂၀၀၀ ထက်တောင်ပိုများတယ်။
+3/5
 
 3891
 Childcare is cheaper on base.
 အခြေခံ ကလေးထိန်းခက ပိုသက်သာတယ်။
+3/5
 
 3892
 Childcare is free off base.
 အခြေခံ ကလေးထိန်းခက အခမဲ့ပါ။
+3/5
 
 3893
 It happens every day!
-ဒါက နေ့တိုင်း ဖြစ်ပျက်တယ်!
+ဒါက နေ့တိုင်း ဖြစ်တယ်!
+4/5
 
 3894
 It hasn't even happened as of late.
-ဒါက နောက်ကျမှတောင် ဖြစ်မလာသေး။
+ဒါက ခုချိန်ထိတောင် ဖြစ်မလာသေးဘူး။
+4/5
 
 3895
 They haven't gone to the store in the past month.
-သူတို့သည် လွန်ခဲ့တဲ့ လက စတိုးဆိုင်ကို မသွားဖြစ်ဘူး။
+သူတို့ ပြီးခဲ့တဲ့ လက စတိုးဆိုင်ကို မသွားဖြစ်ဘူး။
+5/5
 
 3896
 We dont like skiing, so we just buy bowling materials.
 ကျွန်တော်တို့ နှင်းလျှောစီးရတာကို မကြိုက်တဲ့အတွက် ၊ ကျွန်တော်တို့ ဘိုးလင်း ပစ္စည်းတွေသာ ဝယ်ပါတယ်။
+5/5
 
 3897
 We have five sets of cross country skiies.
 ကျွန်ုပ်တို့တွင် နိုင်ငံ ဖြတ်ကျော် နှင်းလျှောစီးခြင်း ငါးစုံ ရှိသည်။
+3/5
 # REVIEW
 
 3898
 We own cross country skies.
 ကျွန်တော်တို့သည် နိုင်ငံဖြတ်ကျော် နှင်းလျှောစီးခြင်းကို ပိုင်ဆိုင်ကြသည်။
+3/5
 # REVIEW
 
 3899
 It's not a good idea to put signs up saying you have an alarm.
-သင့်တွင် နှိုးစက် တစ်လုံး ရှိနေသည်ဟုဆိုကာ အချက်ပေးဖို့ ထားခြင်းသည် ကောင်းသောအကြံမဟုတ်ပါ။
+သင့်မှာ အချက်ပေးစက် တပ်ထားတယ်ဆိုတာကို ဆိုင်းဘုတ်​တွေ ထောင်ပြထားဖို့ မသင့်ပါဘူး။
+3/5
 
 3900
 The alarm company gives you signs to put in each window.
 နှိုးစက် ကုမ္ပဏီသည် သင့်အား ပြတင်းပေါက် တစ်ခုစီတွင် ထည့်သွင်းရန် အချက်ပေးများ ထားရှိပေးသည်။
+3/5

@@ -1,449 +1,501 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 4501
 The particle-horizon problem is always there, regardless of the initial expansion model.
-ကနဦး ချဲ့ထွင်မှု ပုံစံနှင့်မသက်ဆိုင်ဘဲ ၊ အမှုန်-မိုးကုပ်စက်ဝိုင်း ပြဿနာသည် ဒီမှာ အမြဲ ရှိနေပါသည်။
+ကနဦး ချဲ့ထွင်မှု ပုံစံနှင့်မသက်ဆိုင်ဘဲ၊ အမှုန်-မိုးကုပ်စက်ဝိုင်း ပြဿနာသည် အမြဲ ရှိနေပါသည်။
+4/5
 
 4502
 The performance never occurs in San Antonio.
-ဆန်အန်တိုနီယိုမှာ ဖျော်ဖြေပွဲတွေ ဘယ်တော့မှ မတွေ့ရဘူး။
+အဲဒီဖျော်ဖြေပွဲက ဆန်အန်တိုနီယိုမှာ ဘယ်တော့မှ မလုပ်ဘူး။
+5/5
 
 4503
 The performance stopped in 1987.
-ဖျော်ဖြေမှုသည် ၁၉၈၇တွင် ရပ်တန်းခဲ့သည်။
+ဖျော်ဖြေမှုသည် ၁၉၈၇တွင် ရပ်တန့်ခဲ့သည်။
+5/5
 
 4504
 There are multiple performances per year.
 တစ်နှစ်လျှင် ဖျော်ဖြေပွဲ များစွာ ရှိသည်။
+5/5
 
 4505
 Figuring how to make a living is not a piece of cake.
-အသက်ရှင်နေထိုင်မှု တစ်ခုကို ဘယ်လိုပြုလုပ်ရမယ်လို့ စဉ်းစားခြင်းက လွယ်ကူတဲ့အရာတော့ မဟုတ်ပါဘူး။
+အသက်မွေးဝမ်းကျောင်းမှု တစ်ခုကို ဘယ်လိုလုပ်ရမယ်လို့ စဉ်းစားရတာက လွယ်ကူတဲ့အရာတော့ မဟုတ်ပါဘူး။
+5/5
+
 
 4506
 Humans can always survive any situation, even when they are not making a living.
-လူသားများသည် သူတို့က အသက်မွေးဝမ်းကြောင်း မပြုသည့်တိုင် ၊ မည်သည့်အခြေအနေမျိုးတွင်မဆို အမြဲ ရှင်သန်နိုင်သည်။
+လူသားများသည် အသက်မွေးဝမ်းကြောင်းအလုပ်တစ်ခုခုကို မလုပ်သည့်တိုင်၊ မည်သည့်အခြေအနေမျိုးတွင်မဆို အမြဲ ရှင်သန်နိုင်သည်။
+5/5
+
 
 4507
 We have to figure out how to make livings, in order to survive.
-အသက်ရှင်သန်ဖို့အတွက် ၊ ဘယ်လို နေထိုင်ရမလဲဆိုတာကို အဖြေရှာဖို့ လိုပါတယ်။
+အသက်ရှင်သန်ဖို့အတွက် ဘယ်လို အသက်မွေးဝမ်းကြောင်းအလုပ်တွေလုပ်ရမလဲဆိုတာကို အဖြေရှာဖို့ လိုပါတယ်။
+5/5
 
 4508
 There were lots of different colors.
-အမျိုးမျိုးသော အရောင် များစွာ ရှိခဲ့သည်။
+မတူညီသော အရောင်များစွာ ရှိခဲ့သည်။
+5/5
 
 4509
 There were tons of different colors on the ground.
-လက်တွေ့မှာ မတူညီသော အရောင်အသွေး များစွာ ရှိခဲ့သည်။
+မြေပြင်ပေါ်တွင် မတူညီသော အရောင်ပေါင်းမြောက်များစွာ ရှိခဲ့သည်။
+5/5
 
 4510
 We thought it was terrible that there were so many different colors.
-မတူညီသော အရောင် များစွာ ရှိခဲ့တာက ကြောက်စရာကောင်းတယ်လို့ ကျွန်တော် ထင်ခဲ့သည်။
+မတူညီသော အရောင် များစွာ ရှိတာက ကြောက်စရာကောင်းတယ်လို့ ကျွန်တော်တို့ ထင်ခဲ့သည်။
+5/5
 
 4511
 The women's dresses had big long ribbons.
-အမျိုးသမီးများ ၏ ဝတ်စုံများတွင် ဖဲကြိုးရှည်ကြီးပါရှိသည်။
+အမျိုးသမီးများ၏ ဝတ်စုံများတွင် ဖဲကြိုးရှည်ကြီးများပါရှိသည်။
+5/5
 
 4512
 The women's dresses had ribbons.
-အမျိုးသမီးများ ၏ ဝတ်စုံများတွင် ဖဲကြိုးများ ပါရှိသည်။
+အမျိုးသမီးများ၏ ဝတ်စုံများတွင် ဖဲကြိုးများ ပါရှိသည်။
+5/5
 
 4513
 The women's dresses were very plain.
-အမျိုးသမီးများ ၏ ဝတ်စုံများသည် အရမ်း ရိုးစင်းသည်။
+အမျိုးသမီးများ၏ ဝတ်စုံများသည် အလွန်ရိုးစင်းသည်။
+5/5
 
 4514
 Teachers grade transition-class students more harshly than other students.
-ဆရာများသည် အတန်း-အကူးအပြောင်း ကျောင်းသားများကို အခြား ကျောင်းသားများထက် ပိုမို ကြမ်းတမ်းစွာ အဆင့်သတ်မှတ်ပေးသည်။
+ဆရာများသည် အတန်း-အကူးအပြောင်း ကျောင်းသားများကို အခြား ကျောင်းသားများထက် ပိုမို ကြမ်းတမ်းစွာ အမှတ်ပေးသည်။
+5/5
 
 4515
 Teachers treat all types of students the same.
 ဆရာများသည် ကျောင်းသား အမျိုးအစား အားလုံးကို တူညီစွာ ဆက်ဆံသည်။
+5/5
 
 4516
 Teachers treat some groups of students different than others.
 ဆရာများသည် အချို့သော ကျောင်းသား အုပ်စုများကို အခြားသူများနှင့် ကွဲပြားစွာ ဆက်ဆံသည်။
+5/5
 
 4517
 Individuals had complete control over all of the state's governmental decisions.
-လူတစ်ဦးချင်းစီသည် ပြည်နယ် အစိုးရ၏ ဆုံးဖြတ်ချက် အားလုံး အပေါ် အပြည့်အဝ ထိန်းချုပ်နိုင်ခဲ့သည်။
+လူတစ်ဦးချင်းစီသည် ပြည်နယ် အစိုးရ၏ ဆုံးဖြတ်ချက် အားလုံး အပေါ် အပြည့်အဝ ထိန်းချုပ်နိုင်စွမ်းရှိခဲ့သည်။
+5/5
 
 4518
 The dyadic government was unstable due to an imbalance of power and feelings of frustration by the people.
 အာဏာ မညီမျှမှု နှင့် ပြည်သူများ၏ အလိုမကျသော ခံစားချက်များကြောင့်  အစိုးရတစ်ခုလုံးသည် မတည်မငြိမ်ဖြစ်ခဲ့ရသည်။
+5/5
 
 4519
 The imagined government dynamic was that of the people versus the state.
-စိတ်ကူးထားတဲ့ အစိုးရရဲ့ တက်ကြွမှုက ပြည်သူနဲ့ နိုင်ငံတော် ဖြစ်ခဲ့သည်။
+စိတ်ကူး ရည်မှန်းထားသည့် အစိုးရ၏ လှုပ်ရှားမှုပုံစံမှာ ပြည်သူနှင့် နိုင်ငံေတာ် အကြား အားပြိုင်မှုဖြစ်သည်။
+5/5
 
 4520
 Children are capable of imagination.
-ကလေးတွေဟာ စိတ်ကူးယဉ်နိုင်စွမ်းရှိတယ်။
+ကလေး များသည် စိတ်ကူးယဉ်နိုင်စွမ်းရှိသည်။
+5/5
 
 4521
 Children cannot engage in make-believe.
 ကလေးများသည် ဖန်တီးယုံကြည်မှုတွင် မထိတွေ့နိုင်ကြဘူး။
+4/5
 
 4522
 Children do not enjoy being imaginative.
-ကလေးများသည် စိတ်ကူးယဉ်ရတာကို မနှစ်သက်ကြပါဘူး။
+ကလေးများသည် စိတ်ကူးယဉ်ဖန်တီးရတာကို မနှစ်သက်ကြပါ။
+5/5
 
 4523
 If this reaction is untouched, it will eventually go towards equilibrium.
-အကယ်၍ ဤတုံ့ပြန်မှုသည် မထိမခိုက်ပါက၊ ၎င်းသည် နောက်ဆုံးတွင် ဟန်ချက်ညီညီ ရောက်သွားမည် ဖြစ်သည်။
+အကယ်၍ ဓါတ်တုံ့ပြန်ကို ဘာမျှထပ်မလုပ်ပဲဒီအတိုင်းထားထားပါက၊ ၎င်းသည် နောက်ဆုံးတွင် ဟန်ချက်ညီအဆင့်သို့ ရောက်သွားမည် ဖြစ်သည်။
+4/5
 
 4524
 There is no way this reaction could synthesize the hexamer.
-ဤတုံ့ပြန်မှုသည် ဟက်ဆာမာ ကိုပေါင်းစပ်ရန်နည်းလမ်းမရှိပါ။
+ဤဓါတ်တုံ့ပြန်မှုသည် hexamer ဖြစ် ေပါ်လာေအာင် ဓါတ်ပြုနိုင်စွမ်းးမရှိပါ။
+4/5
 
 4525
 This reaction, if not interfered with, can go on for millennia.
 ဤတုံ့ပြန်မှုသည် ၊ အနှောင့်အယှက်မရှိပါက ၊ ထောင်စုနှစ်အထိ ဆက်သွားနိုင်သည်။
+4/5
 
 4526
 People are never equal.
-လူတွေက ဘယ်တော့မှ တန်းတူညီမျှ မရှိကြဘူး။
+လူတွေဟာ ဘယ်တော့မှ တန်းတူညီမျှ မရှိကြဘူး။
+5/5
 
 4527
 People can have different income levels but still be equal.
 လူတွေမှာ မတူညီတဲ့ ၀င်ငွေ အဆင့်တွေ ရှိနိုင် ပေမယ့် တန်းတူညီမျှ ရှိနေဆဲပါ။
+5/5
 
 4528
 People will be different but equal.
 လူတွေက ကွဲပြား ပေမယ့် တန်းတူ ဖြစ်လိမ့်မယ်။
+5/5
 
 4529
 A visual graph can be charted, representing their size distribution.
-သူတို့၏ အရွယ်အစား ဖြန့်ဖြူးမှုကို ကိုယ်စားပြုသည့် ၊ ရုပ်ပြပုံဂရပ်ဖစ် တစ်ခု ကို ဇယားဆွဲနိုင်သည်။
+အရွယ်အစား ဖြန့်ဖြူးမှုကို ကိုယ်စားပြုသည့် ၊ ရုပ်ပြပုံဂရပ် တစ်ခု ကို ဇယားဆွဲနိုင်သည်။
+4/5
 
 4530
 It is possible to forecast their size distribution.
-၎င်းက သူတို့၏ အရွယ်အစား ဖြန့်ဖြူးမှုကို ခန့်မှန်းရန် ဖြစ်နိုင်သည်။
+သူတို့၏ အရွယ်အစား ဖြန့်ဖြူးမှုကို ခန့်မှန်းရန် ဖြစ်နိုင်သည်။
+4/5
 
 4531
 We have not yet figured out how to predict their size distribution.
-သူတို့၏ အရွယ်အစား ဖြန့်ဖြူးမှုကို မည်သို့ ခန့်မှန်းရမည်ကို ကျွန်ုပ်တို့ မရှာဖွေရသေးပါ။
+သူတို့၏ အရွယ်အစား ဖြန့်ဖြူးမှုကို မည်သို့ ခန့်မှန်းရမည်ကို ကျွန်ုပ်တို့ မစဉ်းစားတတ် ေသးပါ။
+4/5
 
 4532
 Richardson was never influential.
-ရစ်ချဒ်ဆန်ဟာ ဘယ်တုန်းကမှ သြဇာမရှိခဲ့ဘူး။
+Richardson ဟာ ဘယ်တုန်းကမှ သြဇာမရှိခဲ့ဘူး။
+5/5
 
 4533
 Richardson was only influential for a year.
-ရစ်ချဒ်ဆန်သည် တစ်နှစ်တာမျှသာ သြဇာရှိခဲ့သည်။
+Richardson သည် တစ်နှစ်တာမျှသာ သြဇာရှိခဲ့သည်။
+5/5
 
 4534
 Richardson wasn't influential for very long
-ရစ်ချဒ်ဆန်သည် အတော်ကြာကြာ သြဇာမညောင်းခဲ့ပါဘူး
+Richardson ဟာ ကာလအတော်ကြာကြာထိ သြဇာမညောင်းခဲ့ဘူး။
+5/5
 
 4535
 If it the object does not stay on the machine for minutes, it will explode.
 အရာဝတ္တုသည် စက်ပေါ်တွင် မိနစ်အနည်းငယ်ကြာအောင် မနေပါက ၊ ၎င်းသည် ပေါက်ကွဲလိမ့်မည်။
+5/5
 
 4536
 The object cannot be on the machine.
 အရာဝတ္ထုသည် စက်ပေါ်တွင် မနေနိုင်ပါ။
+5/5
 
 4537
 The object must be on the machine for more than a single second.
 အရာဝတ္ထုကို စက်ပေါ်တွင် တစ်စက္ကန့်ထက် ပိုကြာအောင် ထားရှိရပါမည်။
+5/5
 
 4538
 Mies Van der Rohe designed the Tugendhat House.
-မိုးစ်လ် ဗန် ဒါ ရိုရီသည် တုဂျန်ဒ်ဟတ် အိမ်ကို ဒီဇိုင်းဆွဲခဲ့သည်။
+Mies Van der Rohe သည် Tugendhat အိမ် ဒီဇိုင်းကိုဆွဲခဲ့သည်။
+5/5
 
 4539
 Mies Van der Rohe not only designed but lived in the Tugendhat House as well.
-မိုးစ်လ် ဗန် ဒါ ရိုရီသည် ဒီဇိုင်းထုတ်ရုံသာမက တုဂျန်ဒ်ဟတ် အိမ်တွင်လည်း နေထိုင်ခဲ့သည်။
+Tugendhat သည် Tugendhat အိမ်ကို ဒီဇိုင်းထုတ်ရုံသာမက  ေနလည်း နေထိုင်ခဲ့သည်။
+5/5
 
 4540
 The main living space of the Tugendhat House is considered an abomination.
-တုဂျန်ဒ်ဟတ် အိမ်၏အဓိက လူနေမှုနေရာသည် စက်ဆုပ်ရွံရှာဖွယ်ကောင်းသောနေရာ တစ်ခု ဖြစ်သည်။
+Tugendhat အိမ်၏ပင်မအခန်းနေရာသည် စက်ဆုပ်ရွံရှာဖွယ်ကောင်းသောနေရာတစ်ခု ဖြစ်သည်။
+5/5
 
 4541
 Economic growth is a monster of its own kind; an entity independent of the universe.
-စီးပွားရေး တိုးတက်မှုသည် ၎င်း၏ ကိုယ်ပိုင် မျိုးစိတ် ကြီးမားထူးဆန်းသောသတ္တဝါ တစ်ခု ဖြစ်သည်; စကြာဝဠာနှင့် ကင်းကွာသော သီးသန့်အရာတစ်ခု။
+စီးပွားရေး တိုးတက်မှုကိုယ်တိုင်ကိုက ေကြာက်မက်ဖွယ်ရာသတ္တဝါတစ်ခု ဖြစ်သည်; စကြာဝဠာနှင့် ကင်းကွာသော သီးသန့်အရာတစ်ခု ဖြစ်သည်။
+4/5
 
 4542
 Economic growth models many natural systems found in the universe.
 စီးပွားရေး တိုးတက်မှု ပုံစံများ များစွာသော သဘာဝ စနစ်များကို စကြာဝဠာကြီးတွင် တွေ့ရှိခဲ့သည်။
+2/5
 
 4543
 One cannot separate economic growth from the universe.
-စီးပွားရေး တိုးတက်မှုသည် စကြာဝဠာ မှ ခွဲခြား၍ မရနိုင်ပါ။
+စီးပွားရေး တိုးတက်မှုကို စကြာဝဠာ မှ သီးခြားခွဲ၍ မရနိုင်ပါ။
+5/5
 
 4544
 The limited nation used to be isolated.
 အကန့်အသတ်ရှိသော နိုင်ငံသည် သီးသန့်ဖြစ်နေမည်။
+4/5
 
 4545
 The nation is not connected to unbounded equality.
 အဆိုပါ နိုင်ငံသည် အကန့်အသတ်မရှိသော တန်းတူညီမျှမှုနှင့် ဆက်စပ်မှုမရှိပေ။
+2/5
 
 4546
 The nation is not reaching its full potential.
-အဆိုပါ နိုင်ငံသည် ၎င်းတို့၏ ပြည့်ဝသော ရည်မှန်ချက်ကို မရောက်နိုင်ဘူး။
+နိုင်ငံသည် ၎င်း၏ ပြည့်ဝသော ရည်မှန်ချက်ကို မရောက်နိုင်ဘူး။
+4/5
 
 4547
 Something can be both countable, and denumerable.
-တစ်စုံတစ်ခုသည် ရေတွက်နိုင် ပြီး ၊ ကိန်းဂဏန်းအဖြစ် နှစ်မျိုးလုံး ဖြစ်နိုင်သည်။
+တစ်စုံတစ်ခုသည် ရေတွက်နိုင် ေသာအရာဖြစ်နိုင်ရုံမက ၊ ကိန်းဂဏန်း လည်းး ဖြစ်နိုင်သည်။
+5/5
 
 4548
 Something cannot both me countable and denumerable.
-တစ်စုံတစ်ခုသည် ကျွန်ုပ်အတွက် ရေတွက်နိုင် ပြီး ကိန်းဂဏန်းအဖြစ် နှစ်မျိုးလုံး မဖြစ်နိုင်ပါ။
+တစ်စုံတစ်ခုသည် ရေတွက်နိုင် ပြီး ကိန်းဂဏန်းအဖြစ် နှစ်မျိုးလုံး မဖြစ်နိုင်ပါ။
+4/5
 
 4549
 Something that is countable must also be denumerable.
 ရေတွက်နိုင်သော တစ်စုံတစ်ခုသည် ကိန်းဂဏန်းများလည်း ဖြစ်ရမည်။
+4/5
 
 4550
 She dropped out of the class last week.
 သူမသည် ပြီးခဲ့သည့်အပတ်က အတန်းမှ ထွက်ခဲ့သည်။
+5/5
 
 4551
 She has the ability just like all the other to finish the assignment.
 သူမသည် အခြားသူ အားလုံးကဲ့သို့ တာဝန်ကို ပြီးမြောက်အောင် လုပ်နိုင်စွမ်းရှိသည်။
+5/5
 
 4552
 She may have missed some note and does not fully understand the assignment.
-သူမသည် မှတ်စု အချို့ကို မေ့လျော့ခဲ့ ပြီး တာဝန်ကို အပြည့်အဝ နားမလည်ပေ။
+သူမသည် မှတ်စု အချို့ကို မေ့လျော့ခဲ့ ပြီး တာဝန်ကို အပြည့်အဝ နားမလည်ပါ။
+5/5
 
 4553
 In the poem, Joaquan lived in his car.
-ကဗျာထဲတွင် ၊ ဂျိုကွမ်သည် သူ့ကားထဲတွင် နေထိုင်ခဲ့သည်။
+ကဗျာထဲတွင် ၊ Joaquan သည် သူ့ကားထဲတွင် နေထိုင်ခဲ့သည်။
+5/5
 
 4554
 Joaquan did not expect the body to be of his friend.
-ဂျိုကွမ်သည် အဆိုပါ အလောင်းအား သူ့ သူငယ်ချင်း ဖြစ်ရန် မမျှော်လင့်ခဲ့ပေ။
+Joaquan က အဆိုပါ အလောင်းသည် သူ့ သူငယ်ချင်း၏ အ ေလာင်းဖြစ်မည်မဟု ေမျှာ်လင့်မထားခဲ့ပါ။ 
+5/5
 
 4555
 The dead body belongs to Ramen.
-လူသေအလောင်းသည် ရေးမန်မှ ဖြစ်သည်။
+လူသေအလောင်းသည် Ramen ၏ အ ေလာင်း ဖြစ်သည်။
+5/5
 
 4556
 Almost none of the homes have a nativity scene set up.
-အိမ်တိုင်းလိုလိုတွင် ဇာတိမြေနှင့်ဆိုင်သော မြင်ကွင်း တစ်ခုမျှ ရှိမနေပါ။
+အိမ်တိုင်းလိုလိုတွင် သခင် ေယရှုဖွားမြင်ခန်း ကို မထားထားပါ။
+5/5
 
 4557
 The nativity scenes are very intricate.
-ဇာတိ မြင်ကွင်းများသည် အလွန်ရှုပ်ထွေးသည်။
+သခင် ေယရှုဖွားမြင်ခန်းသည် အလွန် အ ေသး စိတ် သည်။
+5/5
 
 4558
 There are nativity scenes in most homes.
-အိမ် အများစုတွင် ဇာတိမြေနှင့်ဆိုင်သော မြင်ကွင်းများ ရှိသည်။
+အိမ် အများစုတွင် သခင် ေယရှုဖွားမြင်ခန်း များ ရှိသည်။
+5/5
 
 4559
 Always divide the logarithm, and never multiply it by any values.
-လော့ဂရစ်သမ်ကို အမြဲတမ်း ပိုင်းခြားပြီး ၊ မည်သည့်တန်ဖိုးများနှင့်မျှ ၎င်းကို မမြှောက်ပါ။
+လော့ဂရစ်သမ်ကို အမြဲတမ်း စားပါ၊ မည်သည့်တန်ဖိုးများနှင့်မျှ မမြှောက်ပါနှင့်။
+4/5
 
 4560
 Multiplying the logarithm will lead to a new breakthrough in science.
-လော့ဂရစ်သမ်ကို မြှောက်ခြင်းဖြင့် သိပ္ပံပညာတွင် အောင်မြင်မှု အသစ် တစ်ခုကို ဖြစ်ပေါ်စေမည်ဖြစ်သည်။
+လော့ဂရစ်သမ်ကို မြှောက်ခြင်းဖြင့် သိပ္ပံပညာတွင် ရှာေဖွ ေဖာ်ထုတ်မှုအသစ် တစ်ခုကို ဖြစ်ပေါ်စေမည်ဖြစ်သည်။
+5/5
 
 4561
 Probability is involved in the calculations.
 ဖြစ်နိုင်ခြေသည် တွက်ချက်မှုများတွင် ပါဝင်ပါသည်။
+5/5
 
 4562
 Molecular clouds are hot.
-မော်လီကျူးဆိုင်ရာ တိမ်တွေသည် ပူပါတယ်။
+Molecular cloud များသည် ပူသည်။
+5/5
 
 4563
 Molecular clouds are the birthplace of stars.
-မော်လီကျူးဆိုင်ရာ တိမ်များသည် ကြယ်များ၏ မွေးရပ်မြေဖြစ်သည်။
+Molecular cloud များသည် ကြယ်များ၏ မွေးရပ်မြေဖြစ်သည်။
+5/5
 
 4564
 Molecular clouds do not birth stars.
-မော်လီကျူးဆိုင်ရာ တိမ်များသည် မွေးရာပါ ကြယ်များ မဟုတ်ပါ။
+Molecular cloud များသည် မွေးရာပါ ကြယ်များ မဟုတ်ပါ။
+5/5
 
 4565
 THe case never made it past the appellate court.
-ဒီအမှုသည် အယူခံ တရားရုံးကို ၎င်းအား ရောက်အောင် မလုပ်နိုင်ခဲ့ဘူး။ 
+အမှုသည် အယူခံ တရားရုံးထိအောင် မ ေရာက်ခဲ့လိုက်ဘူး။ 
+5/5
 
 4566
 The Supreme Court listened to the butchers.
-တရားရုံးချုပ်က သားသတ်သမားတွေရဲ့ စကားကို နားထောင်တယ်။
+တရားရုံးချုပ်က သားသတ်သမားတွေရဲ့ စကားကို နားထောင်ခဲ့သည်။
+5/5
 
 4567
 The Supreme Court ruled against the butchers.
 တရားရုံးချုပ်က သားသတ်သမားများအပေါ် စီရင်ချက်ချခဲ့သည်။
+3/5
 
 4568
 Children's development is helped if they are praised on things they do do.
 ကလေးတွေသည် သူတို့ လုပ်တဲ့ အရာတွေအပေါ် ချီးကျူးခံရလျှင် သူတို့ရဲ့ ဖွံ့ဖြိုးတိုးတက်မှုကို အထောက်အကူဖြစ်စေပါတယ်။
+4/5
 
 4569
 Children's development is undermined by parent's who praise them on things they didn't do.
-ကလေးတွေရဲ့ ဖွံ့ဖြိုးတိုးတက်မှုသည် သူတို့ မလုပ်ခဲ့တဲ့ အရာတွေကို ချီးမွမ်းတဲ့ မိဘတွေကြောင့် အားနည်းတယ်။
+ကလေးတွေရဲ့ ဖွံ့ဖြိုးတိုးတက်မှုသည် သူတို့ မလုပ်ခဲ့တဲ့ အရာတွေကို ချီးမွမ်းတဲ့ မိဘတွေကြောင့် အားနည်းသည်။
+5/5
 
 4570
 It helps children's development to praise them no matter what.
-ဘယ်လိုပဲဖြစ်ဖြစ် ကလေးတွေရဲ့ ဖွံ့ဖြိုးမှုသည် သူတို့ကို ချီးကျူးဖို့ ကူညီပေးတယ်။
+က ေလးေတွကို ဘာေကြာင့်ပဲဖြစ်ဖြစ် ချီးကျူးေပးလျင် သူတို့ရဲ့ ဖွံ့ဖြိုးမှုကို အထောက်အကူဖြစ်စေပါတယ်။
+5/5
 
 4571
 Every living being affects the world we live in.
 သက်ရှိသတ္တဝါတိုင်းသည် ကျွန်ုပ်တို့ နေထိုင်သော ကမ္ဘာကို အကျိုးသက်ရောက်သည်။
+5/5
 
 4572
 Living beings make up the world as do plants and trees. But we can change out the effects we cause.
-သက်ရှိသတ္တဝါများသည် အပင်များ နှင့် သစ်ပင်များကဲ့သို့ ကမ္ဘာကြီးကို ထူထောင်ကြသည်။ ဒါပေမယ့် ကျွန်တော်တို့ ဖြစ်ပေါ်လာတဲ့ အကျိုးသက်ရောက်မှုတွေကို ကျွန်တော်တို့က ပြောင်းလဲနိုင်ပါတယ်။
+အပင်များ နှင့် သစ်ပင်များကဲ့သို့ပင် သက်ရှိသတ္တဝါများသည် ကမ္ဘာကြီး၏ အစိတ်အပိုင်းများဖြစ်ကြသည်။ ဒါပေမယ့်  ကျန်ုပ်တို့ေကြာင့် ဖြစ်ပေါ်လာတဲ့ အကျိုးသက်ရောက်မှုများကို ကျန်ုပ်တို့က ပြောင်းလဲနိုင်သည်။
+5/5
 
 4573
 People do not live in the world it is made up only of animals and plants.
 လူတွေဟာ တိရိစ္ဆာန်တွေ နဲ့ အပင်တွေနဲ့သာ ဖွဲ့စည်းထားတဲ့ ကမ္ဘာမှာ နေထိုင်တာ မဟုတ်ပါဘူး။
+5/5
 
 4574
 Federal and state governments may share functions.
 ဗဟိုအစိုးရ နှင့် ပြည်နယ်အစိုးရများသည် လုပ်ငန်းဆောင်တာများကို မျှဝေနိုင်ပါသည်။
+5/5
 
 4575
 Functions will be divided between multiple governments.
-လုပ်ဆောင်ချက်များကို စင်ပြိုင် အစိုးရများ အကြားတွင် ပိုင်းခြားလိမ့်မည်။
+လုပ်ငန်းတာဝန်မျာကို အစိုးရများ အကြားတွင် ပိုင်းခြားခွဲေဝ လိမ့်မည်။
+5/5
 
 4576
 Only federal governments can have functions.
-ဖက်ဒရယ် အစိုးရများတွင် သာ လုပ်ငန်းဆောင်တာများ ရှိနိုင်သည်။
+ဖက်ဒရယ် အစိုးရများတွင် သာ လုပ်ငန်းတာဝန်များ ရှိနိုင်သည်။
+5/5
 
 4577
 Bios Group has spent a lot of raw money on their creation.
-ဘိုင်းစ်အုပ် အုပ်စုသည် သူတို့၏ ဖန်တီးမှုတွင် ငွေကြေးအမြောက်အမြားသုံးစွဲခဲ့သည်။
+Bios အုပ်စုသည် သူတို့၏ ဖန်တီးမှုအတွက် ငွေကြေးအမြောက်အမြားသုံးစွဲခဲ့သည်။
+5/5
 
 4578
 Bios Group is contributing to their production.
-ဘိုင်းစ်အုပ် အုပ်စုသည် သူတို့၏ ထုတ်လုပ်မှုကို ပံ့ပိုးပေးပါသည်။
+Bios အုပ်စုသည် သူတို့၏ ထုတ်လုပ်မှုကို ပံ့ပိုးပေးေန ပါသည်။
+5/5
 
 4579
 Bios Group is not allocating any resources into them.
-ဘိုင်းစ်အုပ် အုပ်စုသည် သူတို့ဆီသို့ မည်သည့်အရင်းအမြစ်များကိုမျှ ခွဲဝေပေးခြင်း မရှိပါ။
+Bios အုပ်စုသည် သူတို့ဆီသို့ မည်သည့်အရင်းအမြစ်များကိုမျှ ခွဲဝေပေးေနခြင်း မရှိပါ။
+5/5
 
 4580
 If you have mal ojo you will vomit a lot.
-မင်း မျက်စိမကောင်းပါလျှင် မင်း အလွန် အော့အန် လိမ့်မည်။
+သင် မျက်စိမကောင်းလျှင် သင် အလွန် အော့အန် လိမ့်မည်။
+4/5
 
 4581
 Mal ojo has many negative symptoms.
-မျက်စိ မကောင်းတဲ့ အနုတ်သဘောဆောင်သည့် လက္ခဏာ များစွာ ရှိသည်။
+Mal ojo မှာ မ ေကာင်းတဲ့ လက္ခဏာ များစွာ ရှိသည်။
+4/5
 
 4582
 There are no symptoms of mal ojo.
-မျက်စိ မကောင်းတဲ့ ရောဂါလက္ခဏာများ မရှိပါ။
+Mal ojo ဖြစ် ေနတဲ့ လက္ခဏာများ မရှိပါ။
+4/5
 
 4583
 Jose Guadalupe Posada started to draw images of buildings and rivers.
-ဂျိုဆေး ဂွဒါလုပဲ ပိုဆာဒါသည် အဆောက်အအုံများ နှင့် မြစ်များ၏ ပုံများကို ရေးဆွဲရန် စတင်ခဲ့သည်။
+Jose Guadalupe Posada သည် အဆောက်အအုံများ နှင့် မြစ်များ၏ ပုံများကို စတင်ရေးဆွဲခဲ့သည်။
+5/5
 
 4584
 Jose Guadalupe Posada started to draw skulls or calaveras when he became fascinated with the human form in the late nineteenth century,
-ဂျိုဆေး ဂွဒါလုပဲ ပိုဆာဒါသည် ဆယ့်ကိုးရာစု နှောင်းပိုင်းတွင် လူသားပုံစံကို သူက စိတ်ဝင်စားလာသောအခါတွင် ဦးခေါင်းခွံ သို့မဟုတ် ဦးခေါင်း၏အခွံ များကို ရေးဆွဲရန် စတင်ခဲ့သည်,
+ဆယ့်ကိုးရာစု နှောင်းပိုင်းတွင် Jose Guadalupe Posadaသည်  လူသားပုံစံကို စတင် စိတ်ဝင်စားလာပြီး ဦးခေါင်းခွံ သို့မဟုတ် ဦးခေါင်းခွံပုံစံ များကို စတင် ရေးဆွဲခဲ့သည်
+5/5
 
 4585
 While on holiday in the late nineteenth century Jose Guadalupe Posada started to draw skulls or calaveras.
-ဆယ့်ကိုးရာစု နှောင်းပိုင်း အားလပ်ရက်တွင် ဂျိုဆေး ဂွဒါလုပဲ ပိုဆာဒါသည် ဦးခေါင်းခွံများ သို့မဟုတ် ဦးခေါင်း၏အခွံများကို ရေးဆွဲရန် စတင်ခဲ့သည်။
+ဆယ့်ကိုးရာစု နှောင်းပိုင်း အားလပ်ရက်များအတွင်း Jose Guadalupe Posada သည် ဦးခေါင်းခွံများ သို့မဟုတ် ဦးခေါင်း၏အခွံများကို စတင်ရေးဆွဲခဲ့သည်။
+4/5
 
 4586
 Children get confused as to the difference between beliefs and facts.
-ကလေးများသည် ယုံကြည်ချက် နှင့် အဖြစ်မှန်များကြား ခြားနားချက်အတွက် စိတ်ရှုပ်ထွေးကြသည်။
+ကလေးများသည် ယုံကြည်မှု နှင့် အဖြစ်မှန်များကြား ခြားနားချက်အတွက် စိတ်ရှုပ်ထွေးကြသည်။
+4/5
 
 4587
 Children see beliefs as nonsense not grounded in reality.
-ကလေးများသည် လက်တွေ့တွင် အခြေအမြစ်မရှိသော ယုံကြည်ချက်များကို အဓိပ္ပါယ်မရှိဟု မြင်ကြသည်။
+ကလေးများသည် ယုံကြည်ချက်များဆိုသည်မှာ လက်တွေ့ ေပါ်တွင် အ ေခြမခံထားေသာ  အဓိပ္ပါယ်မရှိသည့်အရာများဟု မြင်ကြသည်။
+4/5
 
 4588
 Children think of beliefs as interpretations of what is real.
-ကလေးများသည် စစ်မှန်သော ယုံကြည်ချက်များကို အဓိပ္ပာယ်ဖွင့်ဆိုချက်များဟု တွေးထင်ကြသည်။
+ကလေးများသည် ယုံကြည်ချက်များဆိုသည်မှာ စစ်မှန်သည့်အရာကို အဓိပ္ပာယ်ဖွင့်ဆိုချက်များဟု ထင်ကြသည်။
+5/5
 
 4589
 The Declaration says you should pursue happiness in who you love and where you work.
-ကြေငြာချက်က သင်တို့သည် သင်ချစ်သောသူ နှင့် သင်အလုပ်လုပ်သောနေရာတွင် ပျော်ရွှင်မှု နောက်လိုက်သင့်တယ်လို့ ပြောထားတယ်။
+ကြေငြာချက်က သင်တို့သည် သင်ချစ်သောသူ နှင့် သင်အလုပ်လုပ်သောနေရာတွင် ပျော်ရွှင်မှုကို ရှာေဖွသင့်သည်ဟု ဆိုသည်။
+5/5
 
 4590
 The Declaration says you should pursue happiness.
-ကြေငြာချက်က သင်တို့သည် ပျော်ရွှင်မှု နောက်လိုက်သင့်တယ်လို့ ပြောထားတယ်။
+ကြေငြာချက်က သင်တို့သည် ပျော်ရွှင်မှု ရှာေဖွသင့်သည်ဟု ဆိုသည်။
+5/5
 
 4591
 The Declaration says you should pursue wealth.
-ကြေငြာချက်က သင်တို့သည် ချမ်းသာကြွယ်ဝမှု နောက်လိုက်သင့်တယ်လို့ ပြောထားတယ်။
+ကြေငြာချက်က သင်တို့သည် ချမ်းသာကြွယ်ဝမှု ရှာေဖွသင့်သည်ဟု ဆိုသည်။
+5/5
 
 4592
 Although barrida and limpia are similar, there are many things that distinguish them from each other.
-ဘာရီဒါ နှင့် လင်မ်ပိုင်းရား သည် ဆင်တူသော်လည်း ၊ သူတို့ကို တစ်ခုနှင့်တစ်ခု ကွဲပြားစေသော အရာများစွာရှိသည်။
+Barrida နှင့် limpia သည် ဆင်တူသော်လည်း ၊ သူတို့ တစ်ခုနှင့်တစ်ခုအကြား ကွဲပြားစေသော အရာများစွာရှိသည်။
+5/5
 
 4593
 Limpiar means to dance.
-လင်မ်ပိုင်းရားသည် ကခုန်ခြင်းဟု အဓိပ္ပါယ်ရသည်။
+Limpiar သည် ကခုန်ခြင်းဟု အဓိပ္ပါယ်ရသည်။
+5/5
 
 4594
 The word that means to clean is Limpiar.
-သန့်ရှင်းခြင်းဟူသော စကားလုံး ၏ အဓိပ္ပါယ်မှာ လင်မ်ပိုင်းရား ဖြစ်သည်။
+သန့်ရှင်းခြင်းဟူသော စကားလုံး ၏ အဓိပ္ပါယ်မှာ Limpiar ဖြစ်သည်။
+5/5
 
 4595
 Anthony John Campos says that little people are mischievous goblins.
-အန်သိုနီ ဂျွန် ကမ်းပို့စ်က လူလေးတွေဟာ မိုက်ရိုင်းတဲ့ မှင်စာလေးတွေ ဖြစ်တယ်လို့ ဆိုပါတယ်။
+လူလေးတွေဟာ ဆိုးသွမ်းတဲ့ မှင်စာလေးတွေ ဖြစ်တယ်လို့ Anthony John Campos က ဆိုပါတယ်။
+5/5
 
 4596
 Anthony John Campos stated the cows pull pranks on leprechauns and elves.
-အန်သိုနီ ဂျွန် ကမ်းပို့စ်က နွားများသည် မှင်စာများ နှင့် နတ်သူငယ်များကို နောက်ပြောင်မှုများ ပြုလုပ်ခဲ့ကြောင်း ပြောကြားခဲ့သည်။
+Anthony John Campos က နွားများသည် မှင်စာများ နှင့် နတ်သူငယ်များကို နောက်ပြောင်မှုများ ပြုလုပ်ခဲ့ကြောင်း ပြောကြားခဲ့သည်။
+5/5
 
 4597
 Small goblins says Anthony John Campos are all mischievous pranksters, but elves and leprechauns are not as clever,
-မှင်စာလေးများက အန်သိုနီ ဂျွန် ကမ်းပို့စ်သည် မိုက်မဲသော နောက်ပြောင်မှုတွေလုပ်ခဲ့ သော်လည်း ၊မှင်စာများ နှင့် နတ်သူငယ်များလောက် မလိမ်မာပါ၊
+မှင်စာလေးများက Anthony John Campos သည် မိုက်မဲသော နောက်ပြောင်မှုတွေလုပ်ခဲ့ သော်လည်း ၊မှင်စာများ နှင့် နတ်သူငယ်များလောက် မလိမ်မာပါ၊
+3/5
 
 4598
 Authoritative parenting creates children who can function well in society.
-တရားဝင် မိဘအုပ်ထိန်းမှုသည် လူ့အဖွဲ့အစည်းအတွင်း ကောင်းမွန်စွာလုပ်ဆောင်နိုင်သော ကလေးများကို ဖန်တီးပေးသည်။
+Authoritative parenting သည် လူ့အဖွဲ့အစည်းအတွင်း ကောင်းမွန်စွာလုပ်ဆောင်နိုင်သော ကလေးများကို ဖန်တီးပေးသည်။
+5/5
 
 4599
 Authoritative parenting is linked to maladaptive peer interaction.
-တရားဝင် မိဘအုပ်ထိန်းမှုမှာ မကောင်းတဲ့ သက်တူရွယ်တူချင်း အပြန်အလှန်ဆက်ဆံခြင်းနဲ့ ချိတ်ဆက်ထားပါတယ်။
+Authoritative parenting သည် မကောင်းတဲ့ သက်တူရွယ်တူချင်း တုံ့ပြန်ဆက်ဆံခြင်းနှင့် ဆက်စပ် ေနသည်။
+4/5
 
 4600
 Skilled peer interaction is linked to authoritative parenting.
-ကျွမ်းကျင်ပြီး သက်တူရွယ်တူချင်း အပြန်အလှန်ဆက်သွယ်မှုသည် တရားဝင်မိဘအုပ်ထိန်းမှုနှင့် ချိတ်ဆက်ထားသည်။
+ကျွမ်းကျင်ပြီး သက်တူရွယ်တူချင်း တုံ့ပြန်ဆက်ဆံမှုသည် authoritative parenting နှင့် ဆက်စပ် ေနသည်။။
+4/5

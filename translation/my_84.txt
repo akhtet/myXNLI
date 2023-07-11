@@ -1,450 +1,500 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 8301
 The theater has a lot of slide shows about past performances.
 ပြဇာတ်ရုံတွင် ယခင်က ဖျော်ဖြေတင်ဆက်မှုများနှင့်ပတ်သက်သည့် ဆလိုက်ရှိုးများစွာရှိသည်။
+4/5
 
 8302
 There's a bunch of slide shows for the theater.
 ပြဇာတ်ရုံအတွက် ဆလိုက်ရှိုးများစွာရှိသည်။
+4/5
 
 8303
 I hope you send this back before the last three spots fill up!
-နောက်ဆုံး သုံးနေရာ မဖြည့်မီ ခင်ဗျား ဒီဟာကို ပြန်ပို့ပေးမယ်လို့ ကျွန်တော် မျှော်လင့်ပါတယ်။
+နောက်ဆုံး သုံးနေရာ မပြည့်မီ ခင်ဗျား ဒီဟာကို ပြန်ပို့ပေးမယ်လို့ ကျွန်တော် မျှော်လင့်ပါတယ်။
+4/5
 
 8304
 I hope you send this back to us soon.
 ခင်ဗျား ဒီဟာကို မကြာခင် ကျွန်တော်တို့ဆီ ပြန်ပို့ပေးမယ်လို့ ကျွန်တော် မျှော်လင့်ပါတယ်။
+4/5
 
 8305
 You don't need to send this back, you can just show up at the event.
-ခင်ဗျား ဒီဟာကို ပြန်ပို့ပေးဖို့မလိုပါဘူး၊ အခမ်းအနားတွင်သာ ခင်ဗျား ပြပါ။
+ခင်ဗျား ဒီဟာကို ပြန်ပို့ပေးဖို့မလိုပါဘူး၊ အခမ်းအနားကိုသာ ခင်ဗျား လာတက်လိုက်ပါ။
+4/5
 
 8306
 The Republican National Convention has only been in Houston once.
 ရီပတ်ဘလစ်ကန်အမျိုးသားညီလာခံသည် ဟူစတန်၌ တစ်ကြိမ်သာ ရှိသေးသည်။
+4/5
 
 8307
 The Republican National Convention in Houston was in August.
-ဟူစတန်၌ ကျင်းပမည့် ရီပတ်ဘလစ်ကန်အမျိုးသားညီလာခံသည် ဩဂုတ်လတွင်ဖြစ်သည်။
+ဟူစတန်၌ ကျင်းပမည့် ရီပတ်ဘလစ်ကန်အမျိုးသားညီလာခံသည် ဩဂုတ်လတွင်ဖြစ်ခဲ့သည်။
+4/5
 
 8308
 The Republican National Convention is always in April.
-ရီပတ်ဘလစ်ကန်အမျိုးသားညီလာခံသည် ပုံမှန် ဧပြီလတွင်ကျင်းပသည်။
+ရီပတ်ဘလစ်ကန်အမျိုးသားညီလာခံကို  ဧပြီလတွင်အမြဲတမ်းကျင်းပသည်။
+4/5
 
 8309
 There are no state schools in Indianapolis.
 အင်ဒီယာနာပိုလစ်တွင် အခြေခံပညာကျောင်းများ မရှိပါ။
+4/5
 
 8310
 Two state schools in Indianapolis are joining forces.
-အင်ဒီယာနာပိုလစ်ရှိ အခြေခံပညာကျောင်းနှစ်ကျောင်းသည် အတူတကွပူးပေါင်းလုပ်ဆောင်နေကြသည်။
+အင်ဒီယာနာပိုလစ်ရှိ အခြေခံပညာကျောင်းနှစ်ကျောင်း အတူတကွပူးပေါင်းစည်းလိုက်ကြသည်။
+4/5
 
 8311
 Two state schools in Indy are going to merge next year.
 အင်ဒီရှိ အခြေခံပညာကျောင်းနှစ်ကျောင်းကို လာမည့်နှစ်တွင် ပေါင်းစည်းတော့မည်။
+4/5
 
 8312
 Everyone realizes that we all have to donate if we want to make an impact.
-ကျွန်တော်တို့ ထိရောက်သောအကျိုးသက်ရောက်မှုတစ်ခု ဖြစ်ထွန်းလိုလျှင် ကျွန်တော်တို့ အားလုံး လှူဒါန်းရမည်ဆိုသည်ကို လူတိုင်း သိရှိသဘောပေါက်နားလည်သည်။
+ကျွန်တော်တို့ ထိရောက်ပြောင်းလဲမှုတစ်ခု ဖြစ်စေလိုလျှင် ကျွန်တော်တို့ အားလုံး လှူဒါန်းရမည်ဆိုသည်ကို လူတိုင်း သိရှိသဘောပေါက်နားလည်သည်။
+4/5
 
 8313
 Some people think donating is just something rich people do.
 လှူဒါန်းပေးကမ်းခြင်းသည် ချမ်းသာသောလူများသာ ပြုလုပ်သည့်အရာဟု လူအချို့က ထင်မြင်ကြသည်။ 
+4/5
 
 8314
 Some people think they're too poor to give any money, so they ignore our calls.
-လူအချို့က ငွေပေးကမ်းစွန့်ကြဲဖို့ သူတို့ အရမ်းဆင်းရဲတယ်လို့ တွေးကြလို့၊ သူတို့က ငါတို့ မေတ္တာရပ်ခံတာတွေကို လျစ်လျူရှုကြတယ်။
+လူအချို့က ငွေပေးကမ်းစွန့်ကြဲဖို့အတွက် သူတို့ အရမ်းဆင်းရဲတယ်လို့ တွေးကြတယ်၊ ဒါကြောင့် သူတို့က ငါတို့ မေတ္တာရပ်ခံတာတွေကို လျစ်လျူရှုကြတယ်။
+4/5
 
 8315
 We don't do phone drives because of security concerns.
 လုံခြုံရေးနှင့်ပတ်သက်သည့် သတိထားရမည့်အချက်တွေကြောင့် ကျွန်တော်တို့ ဖုန်းဒရိုက်တွေကို မလုပ်ဆောင်ပါ။
+3/5
 
 8316
 You can give money over the phone.
-ခင်ဗျား ဖုန်းတွေကနေ ငွေပေးချေလို့ရတယ်။
+ခင်ဗျား ဖုန်းကနေတဆင့် ငွေပေးလို့ရတယ်။
+4/5
 
 8317
 You need to donate $100 over the phone if you want to be a member.
 ခင်ဗျား အသင်းဝင်တစ်ယောက်ဖြစ်ချင်ရင် ဖုန်းကနေ ခင်ဗျား ဒေါ်လာ၁၀၀လှူဖို့လိုတယ်။
+4/5
 
 8318
 I am sorry to tell you that nobody wanted you to be a member of the Inner Circle.
-ဘယ်သူကမှ ခင်ဗျားကို အတွင်းစည်းအဖွဲ့ဝင်တစ်ယောက် မဖြစ်စေချင်ကြတာကို ခင်ဗျားကို ပြောရတာ ကျွန်တော်စိတ်မကောင်းပါဘူး။
+ဘယ်သူကမှ ခင်ဗျားကို အတွင်းစည်းအဖွဲ့ဝင်တစ်ယောက် မဖြစ်စေချင်ကြဘူးဆိုတာကို ခင်ဗျားကို ပြောရတာ ကျွန်တော်စိတ်မကောင်းပါဘူး။
+4/5
 
 8319
 Should you accept this nomination, you will be inaugurated into the Inner Circle tomorrow.
-ဒီ အမည်စာရင်းတင်သွင်းခြင်းကို ခင်ဗျား လက်ခံမယ်ဆိုရင်၊ မနက်ဖြန် အတွင်းစည်းအဖွဲ့ထဲမှာ ခင်ဗျားကို တရားဝင်စတင်ခန့်လိမ့်မယ်။
+ဒီ အမည်စာရင်းတင်သွင်းခြင်းကို ခင်ဗျား လက်ခံမယ်ဆိုရင်၊ ခင်ဗျားက အတွင်းစည်းအဖွဲ့ထဲမှာ မနက်ဖြန် တရားဝင်စတင်ခန့်အပ်ခံရလိမ့်မယ်။
+4/5
 
 8320
 You have been nominated to be a member of the Inner Circle.
-အတွင်းစည်းအဖွဲ့ဝင်တစ်ယောက်ဖြစ်ဖို့ ခင်ဗျားကို အမည်စာရင်းတင်သွင်းထားတယ်။
+အတွင်းစည်းအဖွဲ့ဝင်တစ်ယောက်ဖြစ်ဖို့ ခင်ဗျားက အမည်စာရင်းတင်သွင်းခြင်းခံထားရတယ်။
+4/5
 
 8321
 Some members can renew their memberships.
 တစ်ချို့အသင်းဝင်တွေက သူတို့ရဲ့ အသင်းဝင်ထားခြင်းကို သက်တမ်းတိုးနိုင်တယ်။
+4/5
 
 8322
 There is space for 1500 members to renew their memberships.
 အသင်းဝင် ၁၅၀၀အတွက် သူတို့ရဲ့ အသင်းဝင်ထားခြင်းကို သက်တမ်းတိုးဖို့ နေရာရှိတယ်။
+4/5
 
 8323
 We just accept renewals whenever.
-ကျွန်တော်တို့ ဘယ်အချိန်ဖြစ်ဖြစ် သက်တမ်းတိုးတာကိုသဘောတူလက်ခံရုံပဲ။
+ဘယ်အချိန်ဖြစ်ဖြစ် သက်တမ်းတိုးတာကို ကျွန်တော်တို့ သဘောတူလက်ခံပါတယ်။
+4/5
 
 8324
 McCoy is asking for $250,000.
 မက်ကွေးသည် ဒေါ်လာ၂၅၀၀၀၀ကို တောင်းဆိုနေသည်။
+4/5
 
 8325
 McCoy is requesting $10,000 worth of support.
-မက်ကွေးသည် ဒေါ်လာ၁၀၀၀၀တန်ဖိုးရှိသော အထောက်အပံ့ကို တောင်းဆိုနေသည်။
+မက်ကွေးသည် ဒေါ်လာ၁၀၀၀၀ တန်ဖိုးရှိသော အထောက်အပံ့ကို တောင်းဆိုနေသည်။
+4/5
 
 8326
 McCoy needs more money, but right now $10,000 is being requested.
-မက်ကွေးသည် နောက်ထပ် ငွေကြေးများ ပိုလိုအပ်သည်၊ သို့သော် ယခုအချိန်တွင် ဒေါ်လာ၁၀၀၀၀ကိုသာ တောင်းဆိုနေသည်။
+မက်ကွေးသည် နောက်ထပ် ငွေကြေးများ ပိုလိုအပ်သည်၊ သို့သော် ယခုလက်ရှိတွင် ဒေါ်လာ၁၀၀၀၀ ကိ တောင်းဆိုနေသည်။
+4/5
 
 8327
 Without your donation, the IRT would be in trouble.
-ခင်ဗျားရဲ့ လှူဒါန်းမှုတွေ မရှိရင်၊ အိုင်အာတီ ဒုက္ခရောက်လိမ့်မယ်။
+ခင်ဗျားရဲ့ လှူဒါန်းမှုတွေ မရှိရင်၊ IRT ဒုက္ခရောက်ပါလိမ့်မယ်။
+4/5
 
 8328
 You did not give the IRT anything.
-ခင်ဗျား အိုင်အာတီကို ဘာမှ မပေးခဲ့ဘူး။
+ခင်ဗျား IRT ကို ဘာမှ မပေးခဲ့ဘူး။
+4/5
 
 8329
 Your contribution will assist the IRT.
-ခင်ဗျားရဲ့ ပံ့ပိုးဆောင်ရွက်မှုက အိုင်အာတီကို အထောက်အကူပြုလိမ့်မယ်။
+ခင်ဗျားရဲ့ ထည့်ဝင်ပံ့ပိုးမှုက အိုင်အာတီကို အထောက်အကူပြုလိမ့်မယ်။
+4/5
 
 8330
 The museum always hits their funding goals.
 ပြတိုက်က ၎င်းတို့ရဲ့ ရန်ပုံငွေရည်မှန်းချက်ကို အမြဲတမ်း ပြည့်မီတယ်။
+4/5
 
 8331
 The museum doesn't always get all the funding they need.
-ပြတိုက်က ၎င်းတို့လိုအပ်တဲ့ ရန်ပုံငွေအားလုံးကို အမြဲတမ်းမရရှိပါဘူး။
+ပြတိုက်က ၎င်းတို့လိုအပ်တဲ့ ရန်ပုံငွေအားလုံးကို အမြဲတမ်းမရပါဘူး။
+4/5
 
 8332
 The museum is $500,000 short this year.
-ပြတိုက်သည် ယခုနှစ်တွင် ဒေါ်လာ၅၀၀၀၀၀ လျော့တယ်။
+ပြတိုက်က ဒီနှစ် ဒေါ်လာ ၅၀၀၀၀၀ လိုနေတယ်။
+4/5
 
 8333
 Bepko honored Kent in his graduation speech.
 ဘပ်ကိုသည် ၎င်း၏ဘွဲ့နှင်းသဘင်မိန့်ခွန်းတွင် ကန့်အား ဂုဏ်ပြုခဲ့သည်။
+4/5
 
 8334
 Bepko honored Kent.
 ဘပ်ကိုသည် ကန့်အား ဂုဏ်ပြုခဲ့သည်။
+4/5
 
 8335
 Bepko never had anything nice to say about Kent.
-ဘပ်ကိုသည် ကန့်အကြောင်း ကောင်းကောင်းပြောစရာ ဘယ်တုန်းကမှ မရှိခဲ့ပါ။
+ဘပ်ကိုတွင် ကန့်အကြောင်း အကောင်းပြောစရာ ဘယ်တုန်းကမှ မရှိခဲ့ပါ။
+4/5
 
 8336
 There's no way we can educate lawyers so we should just stop trying.
-ကျွန်တော်တို့ ရှေ့နေတွေကို ပညာပေးနိုင်သည့် နည်းလမ်းမရှိတဲ့အတွက်ကြောင့် ကျွန်တော်တို့ ကြိုးစားနေတာ ရပ်သင့်ပြီ။
+ကျွန်တော်တို့ ရှေ့နေတွေကို ပညာပေးနိုင်တဲ့ နည်းလမ်းတစ်ခုမှမရှိတဲ့အတွက်ကြောင့် ကျွန်တော်တို့ ကြိုးစားနေတာ ရပ်သင့်ပြီ။
+4/5
 
 8337
 We can educate lawyers if we can give them access to the law library.
-အကယ်၍ ကျွန်တော်တို့ သူတို့ကို ဥပဒေစာကြည့်တိုက်သို့ ဝင်ခွင့်ပေးနိုင်မယ်ဆိုရင် ကျွန်တော်တို့ ရှေ့နေတွေကို ပညာပေးနိုင်တယ်။
+အကယ်၍ ကျွန်တော်တို့ သူတို့ကို ဥပဒေစာကြည့်တိုက်ကို အသုံးပြုခွင့်ပေးနိုင်မယ်ဆိုရင် ကျွန်တော်တို့ ရှေ့နေတွေကို ပညာပေးနိုင်တယ်။
+4/5
 
 8338
 We can educate lawyers, I'm sure of it!
 ကျွန်တော်တို့ ရှေ့နေတွေကို ပညာပေးနိုင်တယ်၊ ကျွန်တော်သေချာပါတယ်။
+4/5
 
 8339
 The Pursuit of Excellence fund is maxed for donations for this year, please consider donating to another fund.
-ဒီနှစ်မှာ အလှူငွေတွေအတွက် ပါဆုအော့ဖ်အိက်စ်ဆိုင်းလင့်စ် ရန်ပုံငွေဟာ အများဆုံးရရှိသွားပြီ၊ တခြားရန်ပုံငွေတွေဆီကို လှူဒါန်းဖို့သာ ကျေးဇူးပြု၍ စဉ်းစားပါ။
+ဒီနှစ်မှာ ပါဆုအော့ဖ်အိက်စ်ဆိုင်းလင့်စ် ရန်ပုံငွေဟာ အလှူငွေတွေ အပြည့်ရရှိပြီးသွားပါပြီ၊ တခြားရန်ပုံငွေတွေဆီကို လှူဒါန်းဖို့သာ ကျေးဇူးပြု၍ စဉ်းစားပါ။
+4/5
 
 8340
 We want you to know how critical a donation to the Pursuit of Excellence is needed this year.
-ဒီနှစ်မှာ ပါဆုအော့ဖ်အိက်စ်ဆိုင်းလင့်စ်ဆီကို လှူဒါန်မှုဟာ ဘယ်လို အရေးတကြီးလိုအပ်နေတယ်ဆိုတာ ကျွန်တော်တို့ ခင်ဗျားကို  သိစေချင်ပါတယ်။
+ဒီနှစ်မှာ ပါဆုအော့ဖ်အိက်စ်ဆိုင်းလင့်စ်ဆီကို လှူဒါန်းမှုဟာ ဘယ်လောက် အရေးတကြီးလိုအပ်နေတယ်ဆိုတာ ကျွန်တော်တို့ ခင်ဗျားကို  သိစေချင်ပါတယ်။
+4/5
 
 8341
 Without your contribution the Pursuit of Excellence fund will no longer exist.
 ခင်ဗျားရဲ့ ပံ့ပိုးကူညီမှု မရှိရင် ပါဆုအော့ဖ်အိက်စ်ဆိုင်းလင့်စ် ရန်ပုံငွေဟာ ဆက်လက်ရပ်တည်နိုင်မှာ မဟုတ်ဘူး။
+4/5
 
 8342
 Loren Field is the chief scientist at the school
 လိုရန်ဖီးလ်သည် ကျောင်း၌ သိပ္ပံပညာရှင်အကြီးအကဲဖြစ်သည်။
+4/5
 
 8343
 Loren Field works at the city dump.
-လိုရန်ဖီးလ်သည် မြို့တော်အမှိုက်ပုံနေရာတွင် အလုပ်လုပ်သည်။
+လိုရန်ဖီးလ်သည် မြို့တော်အမှိုက်ပုံတွင် အလုပ်လုပ်သည်။
+4/5
 
 8344
 Loren Field works at the school.
-လိုရန်ဖီးလ်သည် ကျောင်း၌ အလုပ်လုပ်သည်။
+လိုရန်ဖီးလ်သည် ကျောင်းတွင် အလုပ်လုပ်သည်။
+4/5
 
 8345
 Learn to experience what someone else experiences.
-တခြားသောသူများ တွေ့ကြုံခံစားရသည့် အတွေ့အကြုံကို လေ့လာသင်ယူပါ။
+အခြားသောသူများ တွေ့ကြုံခံစားရသည့် အတွေ့အကြုံကို လေ့လာသင်ယူပါ။
+3/5
 
 8346
 Live under the conditions that someone does.
-တခြားသူများ ရှင်သန်နေထိုင်နေသည့် အခြေအနေအနေအထားအောက်မှာ ရှင်သန်နေထိုင်ပါ။
+အခြားသူများ ရှင်သန်နေထိုင်နေသည့် အခြေအနေများအောက်မှာ ရှင်သန်နေထိုင်ပါ။
+4/5
 
 8347
 To selfishly mind your own life and your own business.
-တစ်ကိုယ်ကောင်းဆန်ဆန်နဲ့ ခင်ဗျားရဲ့ ကိုယ်ပိုင်ဘဝနဲ့ ခင်ဗျားရဲ့ ကိုယ်ပိုင်ကိစ္စတွေကိုသာ ဂရုစိုက်စမ်းပါ။
+တစ်ကိုယ်ကောင်းဆန်ဆန်နဲ့ သင့်ရဲ့ ကိုယ်ပိုင်ဘဝနဲ့  သင့်ရဲ့ ကိုယ်ပိုင်ကိစ္စတွေကိုသာ ဂရုစိုက်ရန်။
+3/5
 
 8348
 We are becoming dependent on others.
 ကျွန်တော်တို့ဟာ တစ်ခြားသူတွေအပေါ်မှာ မှီခိုလာကြတယ်။
+4/5
 
 8349
 We hope you will help us as we become independent.
-ကျွန်တော်တို့ အမှီအခိုကင်းလာတဲ့အခါ ခင်ဗျား ကျွန်တော်တို့ကို ကူညီလိမ့်မယ်လို့ ကျွန်တော်တို့ မျှော်လင့်ပါတယ်။
+ကျွန်တော်တို့ အမှီအခိုကင်းလာတဲ့အတွက် ခင်ဗျား ကျွန်တော်တို့ကို ကူညီလိမ့်မယ်လို့ ကျွန်တော်တို့ မျှော်လင့်ပါတယ်။
+4/5
 
 8350
 You received a degree in molecular biology.
 ခင်ဗျား မော်လီကျူးဆိုင်ရာဇီဝဗေဒဘွဲ့ တစ်ခု ရရှိခဲ့တယ်။
+4/5
 
 8351
 Indiana is the first state dental association to work with a dental school in such a way.
-အင်ဒီယာနာသည် ထိုကဲ့သို့ သွားဘက်ဆိုင်ရာကျောင်းနှင့် အတူတွဲ အလုပ်လုပ်သည့် ပထမဆုံး ပြည်နယ် သွားဘက်ဆိုင်ရာ အဖွဲ့အစည်း ဖြစ်သည်။
+Indiana သည် သွားဘက်ဆိုင်ရာကျောင်းနှင့် ထိုကဲ့သို့သောနည်းလမ်းဖြင့် အတူတွဲအလုပ်လုပ်သည့် ပထမဆုံး ပြည်နယ် သွားဘက်ဆိုင်ရာ အဖွဲ့အစည်း ဖြစ်သည်။
+3/5
 
 8352
 Indiana refuses to commit to help the dental school.
-အင်ဒီယာနာသည် သွားဘက်ဆိုင်ရာကျောင်းကို ကူညီရန် အာမခံဖို့ ငြင်းဆိုခဲ့သည်။
+Indiana သည် သွားဘက်ဆိုင်ရာကျောင်းကို ကူညီရန် ကတိပေးဖို့ ငြင်းဆိုခဲ့သည်။
+4/5
 
 8353
 Indiana's state dental association has pledged $1million to the dental school.
-အင်ဒီယာနာ ပြည်နယ် သွားဘက်ဆိုင်ရာ အဖွဲ့အစည်းသည် သွားဘက်ဆိုင်ရာကျောင်းကို ဒေါ်လာ ၁သန်း ကတိကဝတ်ပြုလိုက်သည်။
+Indiana ၏ ပြည်နယ် သွားဘက်ဆိုင်ရာ အဖွဲ့အစည်းသည် သွားဘက်ဆိုင်ရာကျောင်းကို ဒေါ်လာ ၁သန်း ကတိကဝတ်ပြုလိုက်သည်။
+4/5
 
 8354
 Only 10% of female business leaders have been in Scouts.
-အမျိုးသမီးစီးပွားရေးခေါင်းဆောင် ၁၀ရာခိုင်နှုန်းမျှသာ ကင်းထောက်အဖွဲ့များတွင်ပါဝင်ကြသည်။
+အမျိုးသမီးစီးပွားရေးခေါင်းဆောင် ၁၀ရာခိုင်နှုန်းသာ ကင်းထောက်အဖွဲ့များတွင်ပါဝင်ဖူးကြသည်။
+4/5
 
 8355
 Two thirds of female business leaders have been Girl Scouts.
-အမျိုးသမီးစီးပွားရေးခေါင်းဆောင် သုံးပုံနှစ်ပုံသည် အမျိုးသမီးကင်းထောက်များ ဖြစ်ကြသည်။
+အမျိုးသမီးစီးပွားရေးခေါင်းဆောင် သုံးပုံနှစ်ပုံသည် အမျိုးသမီးကင်းထောက်များ ဖြစ်ဖူးကြသည်။
+4/5
 
 8356
 Two thirds of female business leaders were Girl Scouts for at least five years.
-အမျိုးသမီးစီးပွားရေးခေါင်းဆောင် သုံးပုံနှစ်ပုံသည် အနည်းဆုံး ငါးနှစ်ကြာ အမျိုးသမီးကင်းထောက်များ ဖြစ်ခဲ့ကြသည်။
+အမျိုးသမီးစီးပွားရေးခေါင်းဆောင် သုံးပုံနှစ်ပုံသည် အမျိုးသမီးကင်းထောက် အနည်းဆုံး ငါးနှစ်ကြာ ဖြစ်ခဲ့ကြသည်။
+4/5
 
 8357
 Help is needed for the state.
-တိုင်ပြည်အတွက် အကူအညီ လိုအပ်တယ်။
+နိုင်ငံတော်အတွက် အကူအညီ လိုအပ်သည်။
+4/5
+State here could be referring to either နိုင်ငံတော် or ပြည်နယ်?
 
 8358
 The state is doing just fine without anyone's help.
-နိုင်ငံတော်ဟာ မည်သူ့ဆီကမျှ အကူအညီမရှိဘဲ ကောင်းကောင်းလုပ်ဆောင်နေတယ်။
+နိုင်ငံတော်ဟာ ဘယ်သူ့ဆီကမှ အကူအညီမရှိဘဲနဲ့ အဆင်ပြေနေပါတယ်။
+4/5
 
 8359
 The state needs everyone to donate $20 to support the heritage.
-နိုင်ငံတော်ဟာ အမွေအနှစ်တွေ ထောက်ပံ့ဖို့ လူတိုင်း ဒေါ်လာ၂၀လှူဖို့ လိုအပ်တယ်။
+နိုင်ငံတော်ဟာ အမွေအနှစ်တွေကို ထောက်ပံ့ဖို့ လူတိုင်း ဒေါ်လာ၂၀လှူဖို့ လိုအပ်တယ်။
+3/5
 
 8360
 You will get in to our members-only events if you pay the membership fee.
-ခင်ဗျား အသင်းဝင်ကြေးပေးမယ်ဆိုရင် ကျွန်တော်တို့ရဲ့ အသင်းဝင်သီးသန့် လှုပ်ရှားမှုပွဲတွေမှာ ခင်ဗျားတက်ခွင့်ရလိမ့်မယ်။
+ခင်ဗျား အသင်းဝင်ကြေးပေးမယ်ဆိုရင် ကျွန်တော်တို့ရဲ့ အသင်းဝင်သီးသန့် ပွဲအခမ်းအနားတွေကို ခင်ဗျားတက်ခွင့်ရလိမ့်မယ်။
+4/5
 
 8361
 You will get in to the members-only events that are held bi-weekly.
-နှစ်ပတ်တစ်ကြိမ် ကျင်းပတဲ့ အသင်းဝင်သီးသန့် လှုပ်ရှားမှုပွဲတွေမှာ ခင်ဗျားတက်ခွင့်ရလိမ့်မယ်။
+နှစ်ပတ်တစ်ကြိမ် ကျင်းပတဲ့ အသင်းဝင်သီးသန့် ပွဲအခမ်းအနားတွေကို ခင်ဗျားတက်ခွင့်ရလိမ့်မယ်။
+4/5
 
 8362
 You will still have to pay to get into all the events.
-ပွဲစဉ်အားလုံးမှာ ပါဝင်နိုင်ဖို့ ခင်ဗျား ပိုက်ဆံပေးချေရဦးမှာ ဖြစ်ပါတယ်။
+ပွဲအခမ်းအနားအားလုံးမှာ ပါဝင်နိုင်ဖို့ ခင်ဗျား ပိုက်ဆံပေးရဦးမှာ ဖြစ်ပါတယ်။
+4/5
 
 8363
 The AMRA Annual Meeting is in Nashville every year.
-အေအမ်အာအေနှစ်စဉ်အစည်းအဝေးကို နာ့ချ်ဗီလီတွင် နှစ်စဉ်ကျင်းပတယ်။
+AMRA နှစ်စဉ်အစည်းအဝေးကို Nashville တွင် နှစ်စဉ်ကျင်းပသည်။
+4/5
 
 8364
 The AMRA Annual Meeting was in Nashville in 1991.
-အေအမ်အာအေနှစ်စဉ်အစည်းအဝေးသည် ၁၉၉၁ခုနှစ်၌ နာ့ချ်ဗီလီတွင် ကျင်းပသည်။
+အေအမ်အာအေနှစ်စဉ်အစည်းအဝေးကို ၁၉၉၁ခုနှစ်၌ နာ့ချ်ဗီလီတွင် ကျင်းပခဲ့သည်။
+4/5
 
 8365
 The AMRA Annual Meeting was in Texas in 1991.
-အေအမ်အာအေနှစ်စဉ်အစည်းအဝေးသည် ၁၉၉၁ခုနှစ်၌ တက္ကစက်စ်တွင် ဖြစ်သည်။
+အေအမ်အာအေနှစ်စဉ်အစည်းအဝေးကို ၁၉၉၁ခုနှစ်၌ တက္ကဆက် တွင်ကျင်းပခဲ့သည်။
+4/5
 
 8366
 Visitors will be able to see several shows in the Hilbert Conservatory every day.
-ဟီလ်ဘတ်အနုပညာကျောင်းတွင် လာရောက်လေ့လာလည်ပတ်သူများသည် ဖျော်ဖြေပွဲများစွာကို နေ့စဉ် ကြည့်ရှုနိုင်လိမ့်မည်။
+လာရောက်လေ့လာလည်ပတ်သူများသည် ဖျော်ဖြေပွဲများစွာကို Hilbert Conservatory တွင် နေ့စဉ် ကြည့်ရှုနိုင်လိမ့်မည်။
+4/5
 
 8367
 Visitors will be able to see several shows in the Hilbert Conservatory.
-ဟီလ်ဘတ်အနုပညာကျောင်းတွင် လာရောက်လေ့လာလည်ပတ်သူများသည် ဖျော်ဖြေပွဲများစွာကို ကြည့်ရှုနိုင်လိမ့်မည်။
+လာရောက်လေ့လာလည်ပတ်သူများသည် ဖျော်ဖြေပွဲများစွာကို Hilbert Conservatory တွင် ကြည့်ရှုနိုင်လိမ့်မည်။
+4/5
 
 8368
 Visitors will only be able to see West Side Story in the Hilbert Conservatory.
-ဟီလ်ဘတ်အနုပညာကျောင်းတွင် လာရောက်လေ့လာလည်ပတ်သူများသည် ဝက်စ်ဆိုဒ်ဇာတ်လမ်းကိုသာ ကြည့်ရှုနိုင်လိမ့်မည်။
+လာရောက်လေ့လာလည်ပတ်သူများသည် Hilbert Conservatory တွင် West Side Story ကိုသာ ကြည့်ရှုနိုင်လိမ့်မည်။
+4/5
 
 8369
 Campus visits show students what college life is like.
-တက္ကသိုလ်ပရိဝုဏ်တွင်း လေ့လာလည်ပတ်မှုများသည် ကျောင်းသားများကို ကောလိပ်ကျောင်းသားဘဝဆိုတာ မည်သို့သောပုံစံဖြစ်သည်ကို ပြသသည်။
+တက္ကသိုလ်ပရိဝုဏ်တွင်း လေ့လာလည်ပတ်မှုများသည် ကျောင်းသားများကို ကောလိပ်ကျောင်းသားဘဝဆိုသည်မှာ မည်သို့ဖြစ်သည်ကို ပြသသည်။
+4/5
 
 8370
 Students can benefit from campus visits.
 ကျောင်းသားများသည် တက္ကသိုလ်ပရိဝုဏ်တွင်း လေ့လာလည်ပတ်မှုများမှ အကျိုးကျေးဇူးရရှိနိုင်သည်။
+4/5
 
 8371
 Students don't learn anything from visiting campus.
-ကျောင်းသားများသည် တက္ကသိုလ်ပရိဝုဏ်တွင်း လေ့လာလည်ပတ်မှုများမှ မည်သည့်အရာမျှ လေ့လာမသင်ယူကြပါ။
+ကျောင်းသားများသည် တက္ကသိုလ်ပရိဝုဏ်ကို လေ့လာလည်ပတ်ခြင်းမှ မည်သည့်အရာမျှ လေ့လာသင်ယူမရရှိကြပါ။
+4/5
 
 8372
 There is a challenege for the seniors.
 စီနီယာတွေအတွက် စိန်ခေါ်မှုတစ်ခုရှိတယ်။
+4/5
 
 8373
 We challenge seniors to walk a mile every day.
-ကျွန်တော်တို့ စီနီယာတွေကို နေ့တိုင်း တစ်မိုင်လမ်းလျှောက်ဖို့ စိန်ခေါ်တယ်။
+နေ့တိုင်း တစ်မိုင်လမ်းလျှောက်ဖို့ ကျွန်တော်တို့ စီနီယာတွေကို စိန်ခေါ်တယ်။
+4/5
 
 8374
 We don't have any programs for seniors.
-စီနီယာတွေအတွက် ဘာအစီအစဉ်မှ ကျွန်တော်တို့မှာ မရှိဘူ။
+စီနီယာတွေအတွက် ဘာအစီအစဉ်မှ ကျွန်တော်တို့မှာ မရှိဘူး။
+4/5
 
 8375
 The humane society cares for 1000 animals a year.
 အကြင်နာတရားရှိသောလူ့အဖွဲ့အစည်းသည် တစ်နှစ်လျှင် တိရိစ္ဆာန် ၁၀၀၀ကို ပြုစုစောင့်ရှောက်သည်။
+4/5
 
 8376
 The humane society doesn't work with animals at all.
 အကြင်နာတရားရှိသောလူ့အဖွဲ့အစည်းသည် တိရိစ္ဆာန်များနှင့် လုံးဝ အလုပ်မလုပ်ပါ။
+4/5
 
 8377
 The humane society is Nashua's animal shelter.
-အကြင်နာတရားရှိသောလူ့အဖွဲ့အစည်းသည် နာ့စ်ရှုမှ တိရိစ္ဆာန်ဂေဟာဖြစ်သည်။
+အကြင်နာတရားရှိသောလူ့အဖွဲ့အစည်းသည်  Nashua ၏ တိရိစ္ဆာန်ဂေဟာဖြစ်သည်။
+4/5
 
 8378
 Elephants are just like any other animal.
 ဆင်များသည် အခြားတိရိစ္ဆာန်များကဲ့သို့ပင်ဖြစ်သည်။
+4/5
 
 8379
 It's hard to operate on elephants because they weigh so much more than other animals.
-၎င်းတို့သည် အခြားတိရိစ္ဆာန်များထက် များစွာပို၍လေးသောကြောင့် ဆင်များနှင့် လုပ်ဆောင်ရန်ခက်ခဲသည်။
+၎င်းတို့သည် အခြားတိရိစ္ဆာန်များထက် များစွာပို၍လေးသောကြောင့် ဆင်များပေါ်တွင် ထိန်းချုပ်လုပ်ဆောင်ရန်ခက်ခဲသည်။
+3/5
 
 8380
 It's hard to operate on elephants.
-ဆင်တွေကို လုပ်ဆောင်ဖို့ ခက်ခဲတယ်။
+ဆင်တွေပေါ်ကနေ ထိန်းချုပ်လုပ်ဆောင်ဖို့ ခက်တယ်။
+3/5
 
 8381
 We had everything we could even dream of.
-ကျွန်တော်တို့ အိပ်မက်မက်နိုင်သမျှ အရာအားလုံး ကျွန်တော်တို့မှာ ရှိတယ်။
+ကျွန်တော်တို့ စိတ်ကူးယဉ်အိပ်မက်မက်နိုင်သမျှ အရာအားလုံး ကျွန်တော်တို့မှာ ရှိခဲ့တယ်။
+4/5
 
 8382
 We had everything we really needed.
-ငါတို့ အမှန်တကယ်လိုအပ်တဲ့ အရာအားလုံး ငါတို့မှာ ရှိတယ်။
+ငါတို့ အမှန်တကယ်လိုအပ်တဲ့ အရာအားလုံး ငါတို့မှာ ရှိခဲ့တယ်။
+4/5
 
 8383
 We had food and shelter but nothing else, really.
-ငါတို့မှာ စားစရာနဲ့ နေစရာ ရှိပေမယ့် တစ်ခြား ဘာမှမရှိဘူး၊ တကယ်ပါ။
+ငါတို့မှာ စားစရာနဲ့ နေစရာ ရှိခဲ့ပေမယ့် တစ်ခြား ဘာမှမရှိခဲ့ဘူး၊ တကယ်ပါ။
+4/5
 
 8384
 Members don't get a discount, because we'd lose too much money.
-အသင်းဝင်တွေ လျှော့ဈေးမရရှိပါ၊ ဘာလို့လဲဆိုတော့ ကျွန်တော်တို့ ငွေတွေအများကြီး ဆုံးရှုံးသွားလို့ပါ။
+အသင်းဝင်တွေ လျှော့ဈေးမရပါဘူး၊ ဘာလို့လဲဆိုတော့ ကျွန်တော်တို့ ငွေတွေအများကြီး ရှုံးမှာမို့လို့ပါ။
+4/5
 
 8385
 Members get a discount when they buy things at the gift shop.
-သူတို့ လက်ဆောင်ပစ္စည်းဆိုင်မှာ ပစ္စည်းတွေဝယ်တဲ့အခါ အသင်းဝင်တွေ လျှော့ဈေးရရတယ်။
+သူတို့ လက်ဆောင်ပစ္စည်းဆိုင်မှာ ပစ္စည်းတွေဝယ်တဲ့အခါ အသင်းဝင်တွေ လျှော့ဈေးရတယ်။
+4/5
 
 8386
 Members have a 25% discount .
 အသင်းဝင်တွေ ၂၅ရာခိုင်နှုန်း လျှော့ဈေးရတယ်။
+4/5
 
 8387
 I don't have anything to do with the IRT.
-ကျွန်တော်တို့ အိုင်အာတီနဲ့ ဘာမှမဆိုင်ဘူး။
+ကျွန်တော် IRT နဲ့ ဘာမှမပတ်သက်ပါဘူး။
+4/5
 
 8388
 I have worked on fundraising for the IRT for over a decade.
-အိုင်အာတီအတွက် ရန်ပုံငွေရှာဖွေခြင်းလုပ်ငန်းတွင် ဆယ်စုနှစ်တစ်ခုကျော်ကျော် ကျွန်တော်လုပ်ခဲ့တယ်။
+IRT အတွက် ရန်ပုံငွေရှာဖွေရေးအတွက် ဆယ်စုနှစ်တစ်ခုကျော်ကျော် ကျွန်တော်လုပ်ခဲ့တယ်။
+4/5
 
 8389
 I have worked with IRT for a long time.
-ကျွန်တော် အိုင်အာတီနှင့်အတူ အချိန်ကြာကြာလုပ်ခဲ့တယ်။
+ကျွန်တော် IRT နဲ့ အလုပ်လုပ်တာ အချိန်အတော်ကြာပြီ။
+4/5
 
 8390
 The IMA works independently every day.
-အိုင်အမ်အေသည် နေ့စဉ် အမှီအခိုကင်းစွာ လွတ်လွတ်လပ်လပ် အလုပ်လုပ်သည်။
+IMA သည် နေ့စဉ် အမှီအခိုကင်းစွာ အလုပ်လုပ်သည်။
+4/5
 
 8391
 The IMA works with other organizations because they all depend on sharing funding.
-အိုင်အမ်အေက အခြားအဖွဲ့အစည်းတွေနှင့်အတူတွဲပြီး   ဘာလို့လဲဆိုတော့ သူတို့အားလုံးက ငွေကြေးရန်ပုံငွေခွဲဝေမှုတွေပေါ် အားကိုးအားထားပြုနေလို့ပဲ။
+အိုင်အမ်အေက အခြားအဖွဲ့အစည်းတွေနှင့်အတူတွဲပြီးအလုပ်လုပ်တယ်  ဘာလို့လဲဆိုတော့ သူတို့အားလုံးက ရန်ပုံငွေခွဲဝေမှုတွေပေါ် အားကိုးအားထားပြုနေလို့ပဲ။
+4/5
 
 8392
 The IMA works with other organizations in the area.
-အိုင်အမ်အေက အဆိုပါနယ်ပယ်မှာ အခြားအဖွဲ့အစည်းတွေနှင့်အတူတွဲပြီး အလုပ်လုပ်တယ်။ 
+IMA က အဲဒီနယ်ပယ်မှာ အခြားအဖွဲ့အစည်းတွေနှင့်အတူတွဲပြီး အလုပ်လုပ်တယ်။ 
+4/5
 
 8393
 The top students with financial need benefit from scholarships.
 ငွေကြေးလိုအပ်ချက်ရှိတဲ့ ထိပ်တန်းကျောင်းသားတွေဟာ ပညာသင်ဆုတွေကနေ အကျိုးခံစားခွင့်ရတယ်။
+4/5
 
 8394
 There are 50 scholarships available to the top 50 students.
 ထိပ်ဆုံးကျောင်းသား၅၀အတွက် ပညာသင်ဆု၅၀ ရရှိနိုင်သည်။
+4/5
 
 8395
 We don't give scholarships or financial aid to students.
-ကျွန်တော်တို့သည် ပညာသင်ဆုများ သို့မဟုတ် ငွေကြေးအထောက်အပံ့များကို ကျောင်းသားများအား မပေးအပ်ခဲ့ပါ။
+ကျွန်တော်တို့သည် ပညာသင်ဆုများ သို့မဟုတ် ငွေကြေးအထောက်အပံ့များကို ကျောင်းသားများအား မပေးအပ်ပါ။
+4/5
 
 8396
 I can tell you're a real jerk.
 မင်းဟာ တကယ့် လူရှုပ်ပဲဆိုတာ ငါပြောနိုင်တယ်။
+4/5
 
 8397
 I feel like you are a caring, nice person.
-ခင်ဗျားဟာ ဂရုစိုက်တက်ပြီး ၊ လူကောင်းတစ်ယောက်လို့ ကျွန်တော်ခံစားမိတယ်။
+ခင်ဗျားဟာ ဂရုစိုက်တက်တဲ့၊ လူကောင်းတစ်ယောက်လို့ ကျွန်တော်ခံစားမိတယ်။
+4/5
 
 8398
 Your donation of $2000 shows you're a nice person.
-ခင်ဗျားရဲ့ ဒေါ်လာ၂၀၀၀အလှူဟာ ခင်ဗျား လူကောင်းတစ်ယောက်ဖြစ်တယ်ဆိုတာ ဖော်ပြတယ်။
+ခင်ဗျားရဲ့ ဒေါ်လာ၂၀၀၀ အလှူဟာ ခင်ဗျား လူကောင်းတစ်ယောက်ဖြစ်တယ်ဆိုတာ ဖော်ပြတယ်။
+4/5
 
 8399
 She gave us all the money we needed.
-သူမသည် ကျွန်တော်လိုအပ်နေသည့် ငွေကြေးအားလုံးကို ကျွန်တော်တို့ကို ပေးခဲ့သည်။
+သူမသည် ကျွန်တော်တို့လိုအပ်နေသည့် ငွေကြေးအားလုံးကို ကျွန်တော်တို့ကို ပေးခဲ့သည်။
+4/5
 
 8400
 She never supported us in anything!
-သူမဟာ ဘယ်တုန်းကမှ ကျွန်တော်တို့ကို ဘယ်အရာကိုမျှ မကူညီမထောက်ပံ့ခဲ့ပါဘူး။
-
+သူမဟာ ဘယ်တုန်းကမှ ကျွန်တော်တို့ကို ဘယ်အရာကိုမှ မကူညီမထောက်ပံ့ခဲ့ပါဘူး!
+4/5

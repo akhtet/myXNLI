@@ -1,449 +1,499 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 6701
 The Health Resources and Services Administration is the most important.
 ကျန်းမာရေး အရင်းအမြစ်များ နှင့် ဝန်ဆောင်မှုများ စီမံခန့်ခွဲရေးသည် အရေးကြီးဆုံးဖြစ်သည်။
+# 5/5
 
 6702
 The Substance Abuse and Mental Health Services Administrations are different entities.
 မူးယစ်ဆေးဝါး အလွဲသုံးစားမှု နှင့် စိတ် ကျန်းမာရေး ဝန်ဆောင်မှုများ စီမံခန့်ခွဲရေးများသည် ကွဲပြားသည့်အရာများ ဖြစ်သည်။
+# 5/5
 
 6703
 There is a Substance Abuse and Mental Health Services Administration.
 မူးယစ်ဆေးဝါး အလွဲသုံးစားမှု နှင့် စိတ် ကျန်းမာရေး ဝန်ဆောင်မှုများ စီမံခန့်ခွဲရေး တစ်ခု ရှိပါသည်။
+# 5/5
 
 6704
 Dissaving is spending more than you make.
-ဒစ်ဆေဗင် သည် သင်လုပ်သည်ထက် ပိုသုံးစွဲခြင်း ဖြစ်သည်။
+Dissaving သည် ရှာဖွေ နိုင်သည် ထက် ပို၍​ သုံးစွဲခြင်းဖြစ်သည်။
+# 5/5
 
 6705
 Dissaving is very common in America.
-ဒစ်ဆေဗင် သည် အမေရိကတွင် အလွန် အဖြစ်များသည်။
+Dissaving သည် အမေရိကတွင် အလွန် အဖြစ်များသည်။
+# 5/5
 
 6706
 Dissaving means you save a ton of money.
-ဒစ်ဆေဗင် ဆိုသည်မှာ သင်ငွေ အများအပြားကို စုထားသည်ဟု အဓိပ္ပာယ်ရသည်။
+Dissaving ဆိုသည်မှာ သင်ငွေ အများအပြားကို စုထားသည်ဟု အဓိပ္ပာယ်ရသည်။
+# 5/5
 
 6707
 The Federal government will be ineffective in adopting these principles.
 ဖက်ဒရယ် အစိုးရသည် ဤ အခြေခံမူများကို အတည်ပြုရာတွင် ထိရောက်မှုမရှိပါ။
+# 3/5
 
 6708
 The federal government does not want to adopt these principles.
 ဖက်ဒရယ် အစိုးရက ဤ အခြေခံမူများကို အတည်မပြုချင်ဘူး။
+# 3/5
 
 6709
 The government is using these principles to try to handle these demands.
 ဤ တောင်းဆိုချက်များကို ကိုင်တွယ် ရန် အစိုးရသည် ဤ အခြေခံမူများကို အသုံးပြုနေသည်။
+# 5/5
 
 6710
 Many agencies are considering outsourcing design review functions.
 အေဂျင်စီ အများအပြားသည် ဒီဇိုင်း ပြန်လည်သုံးသပ်ခြင်း လုပ်ငန်းများကို ပြင်ပအဖွဲ့အစည်းများနှင့်စာချုပ်ချုပ်ဆိုရန် စဉ်းစားနေကြသည်။
+# 5/5
 
 6711
 No agencies are considering outsourcing design review functions.
 မည်သည့် အေဂျင်စီမှ ဒီဇိုင်း ပြန်လည်သုံးသပ်ခြင်း လုပ်ဆောင်ချက်များကို ပြင်ပအဖွဲ့အစည်းများနှင့်စာချုပ်ချုပ်ဆိုရန် စဉ်းစားနေခြင်း မရှိပါ။
+# 5/5
 
 6712
 These agencies will have inferior designs if they outsource.
 ဤ အေဂျင်စီများသည် ပြင်ပအဖွဲ့အစည်းများနှင့်စာချုပ်ချုပ်ဆိုမည်ဆိုလျှင် ညံ့ဖျင်းသော ဒီဇိုင်းများ ရရှိလိမ့်မည်။
+# 5/5
 
 6713
 The impact in France is greater than that in the United States.
 ပြင်သစ်မှာ သက်ရောက်မှုက အမေရိကန် ပြည်ထောင်စုမှာထက် ပိုများတယ်။
+# 5/5
 
 6714
 The impact in France is increasing.
 ပြင်သစ်မှာ သက်ရောက်မှုတွေ တိုးလာတယ်။
+# 5/5
 
 6715
 There is a much greater impact of volume in the United States.
 အမေရိကန် ပြည်ထောင်စုတွင် ထုထည် လွန်စွာ ကြီးမားမှု၏ သက်ရောက်မှု ရှိပါသည်။
+# 5/5
 
 6716
 Texas believes that the various forms of education are beneficial.
-တက္ကဆက်ပြည်နယ်သည် ပညာရေး ပုံစံ အမျိုးမျိုးကို အကျိုးပြုသည်ဟု ယုံကြည်သည်။
+တက္ကဆက်ပြည်နယ်သည် ပညာရေး ပုံစံ အမျိုးမျိုးသည် အကျိုးရှိသည်ဟု ယုံကြည်သည်။
+# 5/5
 
 6717
 Texas does not consider education beneficial.
-တက္ကဆက်ပြည်နယ်သည် ပညာရေးကို အကျိုးပြုသည်ဟု မယူဆပါ။
+တက္ကဆက်ပြည်နယ်သည် ပညာရေးကို အကျိုးရှိသည်ဟု မယူဆပါ။
+# 5/5
 
 6718
 Texas will reconsider this matter next year.
 တက္ကဆက်ပြည်နယ်သည် ယင်း ကိစ္စကို လာမည့်နှစ်တွင် ပြန်လည်စဉ်းစားမည်ဖြစ်သည်။
+# 5/5
 
 6719
 Federal employees do get other perks though.
 သို့သော်ငြားလည်း ဖက်ဒရယ် ဝန်ထမ်းများသည် အခြား ခံစားခွင့်များကို ရရှိပါသည်။
+# 5/5
 
 6720
 Private employees agree to different terms and conditions than Federal employees.
 ပုဂ္ဂလိက ဝန်ထမ်းများသည် ဖက်ဒရယ် ဝန်ထမ်းများထက် မတူညီသော စည်းကမ်းသတ်မှတ်ချက်များ နှင့် အခြေအနေတွေကို သဘောတူသည်။
+# 5/5
 
 6721
 Private employees and Federal employees agree to the same terms and conditions.
 ပုဂ္ဂလိက ဝန်ထမ်းများ နှင့် ဖက်ဒရယ် ဝန်ထမ်းများသည် တူညီသော စည်းကမ်းသတ်မှတ်ချက်များ နှင့် အခြေအနေတွေကို သဘောတူပါသည်။
+# 5/5 
 
 6722
 Auditors should not over regulate.
 စာရင်းစစ်တွေက အလွန်အကျွံ ထိန်းညှိမပေးသင့်ဘူး။
+# 5/5
 
 6723
 Auditors should not talk.
 စာရင်းစစ်တွေ မပြောသင့်ဘူး။
+# 5/5
 
 6724
 Auditors should talk.
 စာရင်းစစ်တွေ ပြောသင့်တယ်။
+# 5/5
 
 6725
 A California attorney can get any and all information they need about their clients.
-ကယ်လီဖိုးနီးယား ရှေ့နေ တစ်ဦးသည် ၎င်းတို့၏ ဖောက်သည်များနှင့် ပတ်သက်သည့် သူတို့ လိုအပ်သည့် အချက်အလက်မှန်သမျှကို ရယူနိုင်သည်။
+California ရှေ့နေ တစ်ဦးသည် ၎င်းတို့၏ ဖောက်သည်များနှင့် ပတ်သက်သည့် သူတို့ လိုအပ်သည့် အချက်အလက်မှန်သမျှကို ရယူနိုင်သည်။
+# 5/5
 
 6726
 A California attorney cannot know for sure if a client has temporarily crossed the border from Mexico.
-ကယ်လီဖိုးနီးယား ရှေ့နေ တစ်ဦးသည် ဖောက်သည် တစ်ယောက်က မက္ကဆီကိုမှ နယ်စပ်ကို ယာယီ ဖြတ်ကျော်သွားခြင်း ရှိ၊ မရှိ အတိအကျ မသိနိုင်ပေ။
+California ရှေ့နေ တစ်ဦးသည် ဖောက်သည် တစ်ယောက်က မက္ကဆီကိုမှ နယ်စပ်ကို ယာယီ ဖြတ်ကျော်သွားခြင်း ရှိ၊ မရှိ အတိအကျ မသိနိုင်ပေ။
+# 5/5
 
 6727
 The attorney can get the information through the migrant worker network.
 ရှေ့နေသည် ရွှေ့ပြောင်း အလုပ်သမား ကွန်ရက် မှတဆင့် အချက်အလက်များကို ရယူနိုင်သည်။
+# 5/5
 
 6728
 Internal controls don't exist.
 အတွင်းပိုင်း ထိန်းချုပ်မှုများ မရှိပါ။
+# 5/5
 
 6729
 Some cars have internal controls.
 အချို့ ကားများတွင် အတွင်းပိုင်း ထိန်းချုပ်မှုများ ရှိသည်။
+# 5/5
 
 6730
 Some have internal controls.
 အချို့မှာ အတွင်းပိုင်း ထိန်းချုပ်မှုများ ရှိသည်။
+# 5/5
 
 6731
 One agency tried to make it so that an employee can just claim any travel expenses under $75 under an aggregate amount.
 ဝန်ထမ်း တစ်ဦးသည် စုစုပေါင်း ပမာဏ တစ်ခု အောက်တွင် ဒေါ်လာ ၇၅ အောက် ခရီးသွား စရိတ်များကို တောင်းဆိုနိုင်စေရန် အေဂျင်စီ တစ်ခုက ကြိုးပမ်းခဲ့သည်။
+# 5/5
 
 6732
 This idea was not well-received by t=other agencies.
 ဤ အကြံဉာဏ်ကို အခြား အေဂျင်စီများက ကောင်းကောင်းလက်ခံခြင်း မရှိခဲ့ပေ။
+# 5/5
 
 6733
 Travelers do not have to list out their individual expenses.
-ခရီးသွားများသည် ၎င်းတို့၏ တစ်ဦးချင်း ကုန်ကျစရိတ်များကို စာရင်းပြုစုရန် မလိုအပ်ပါ။
+ခရီးသွားများသည် ၎င်းတို့၏ တစ်ဦးချင်း အသုံးစားရိတ်များကို စာရင်းပြုစုရန် မလိုအပ်ပါ။
+# 5/5
 
 6734
 Incremental purchasing can be put into action right away.
 တိုးမြင့် ဝယ်ယူမှုများကို ချက်ချင်း လုပ်ဆောင်နိုင်ပါသည်။
+# 5/5
 
 6735
 Incremental purchasing will increase risks.
 တိုးမြင့် ဝယ်ယူခြင်းသည် အန္တရာယ်များကို တိုးပွားစေလိမ့်မည်။
+# 5/5
 
 6736
 Risks can be minimized by incremental purchasing.
 တိုးမြင့် ဝယ်ယူခြင်းဖြင့် အန္တရာယ်များကို လျှော့ချနိုင်သည်။
+# 5/5
 
 6737
 Allenbrand and Drews are getting sued for false imprisionment.
-အလ်လန်ဘရန်း  နှင့် ဒရူးတို့သည် မှားယွင်းသော အကျဉ်းချမှုအတွက် တရားစွဲခံရသည်။
+Allenbrand  နှင့် Drews သည် မှားယွင်းသော အကျဉ်းချမှုအတွက် တရားစွဲခံရသည်။
+# 5/5
 
 6738
 Allenbrand and Drews are getting sued.
-အလ်လန်ဘရန်း နှင့် ဒရူးတို့သည် တရားစွဲခံရသည်။
+Allenbrand နှင့် Drews သည် တရားစွဲခံရသည်။
+# 5/5
 
 6739
 Allenbrand and Drews are prosecuting the case.
-အလ်လန်ဘရန်း နဲ့ ဒရူးတို့သည် ဒီအမှုကို တရားစွဲနေပါတယ်။
+Allenbrand နဲ့ Drews သည် ဒီအမှုကို တရားစွဲနေပါတယ်။
+# 5/5
 
 6740
 Postal density has a big impact on the cost in France.
 စာတိုက် စုစည်းမှုသည် ပြင်သစ်တွင် ကုန်ကျစရိတ်အပေါ် ကြီးမားသော သက်ရောက်မှုရှိသည်။
+# 5/5
 
 6741
 Postal density has no impact on cost.
 စာတိုက် စုစည်းမှုသည် ကုန်ကျစရိတ်အပေါ် သက်ရောက်မှု မရှိပါ။
+# 5/5
 
 6742
 Postal density raises the cost in France by up to 40%.
 စာတိုက် စုစည်းမှုသည် ပြင်သစ်တွင် ကုန်ကျစရိတ်ကို ၄၀% အထိ တိုးစေသည်။
+# 5/5
 
 6743
 It takes 17 months to implement that part.
 အဲဒီအပိုင်းကို အကောင်အထည်ဖော်ဖို့ ၁၇ လ ကြာတယ်။
+# 5/5
 
 6744
 It takes 17 months to implement the new rules.
-စည်းမျဉ်း အသစ်ကို အကောင်အထည်ဖော်ရန် ၁၇ လ ကြာသည်။
+စည်းမျဉ်း အသစ်များကို အကောင်အထည်ဖော်ရန် ၁၇ လ ကြာသည်။
+# 5/5
 
 6745
 It takes 4 months from start to finish.
 အစမှ အဆုံး ၄ လကြာသည်။
+# 5/5
 
 6746
 Illiterate people are very common and we need a plan to deal with them.
 စာမတတ်သူတွေဟာ အလွန် အဖြစ်များ ပြီး သူတို့ကို ကိုင်တွယ်ဖြေရှင်းဖို့ အစီအစဉ် တစ်ခု ကျွန်တော်တို့ လိုပါတယ်။
+# 5/5
 
 6747
 Illiterate people can figure it out on their own.
 စာမတတ်တဲ့သူတွေက သူတို့ ကိုယ်တိုင် ၎င်းကို အဖြေရှာလို့ရတယ်။
+# 5/5
 
 6748
 Illiterate people wouldn't understand the materials.
 စာမတတ်တဲ့သူတွေက ပစ္စည်းတွေကို နားမလည်ဘူး။
+# 5/5
 
 6749
 The groups never speak to each other.
 အဖွဲ့တွေ အချင်းချင်း ဘယ်တုန်းကမှ စကားမပြောဖြစ်ဘူး။
+# 5/5
 
 6750
 The two groups work together to make sure they aren't missing any important pieces.
 အဖွဲ့ နှစ်ဖွဲ့သည် အရေးကြီးသော အပိုင်းများ မကျန်ရစ်ခဲ့စေရန် အတူတူလုပ်ဆောင်ကြသည်။
+# 5/5
 
 6751
 The two groups work together.
 အဖွဲ့ နှစ်ဖွဲ့က အတူတူ အလုပ်လုပ်တယ်။
+# 5/5
 
 6752
 CCS cannot provide statistics for the number of residential routes.
-စီစီအက်စ်သည် လူနေအိမ် လမ်းကြောင်း အရေအတွက် အတွက် စာရင်းဇယားများကို မပေးနိုင်ပါ။
+CCS သည် လူနေအိမ် လမ်းကြောင်း အရေအတွက် အတွက် စာရင်းဇယားများကို မပေးနိုင်ပါ။
+# 5/5
 
 6753
 There are 13,212 residential routes.
 လူနေအိမ် လမ်းကြောင်း ၁၃,၂၁၂ ခု ရှိသည်။
+# 5/5
 
 6754
 There are more residential routes than business routes.
 စီးပွားရေး လမ်းကြောင်းများထက် လူနေအိမ် လမ်းကြောင်းများ ပိုများသည်။
+# 5/5
 
 6755
 Change in the Postal and Delivery Industries needs to be managed.
 စာတိုက် နှင့် ပို့ဆောင်ရေး လုပ်ငန်းများတွင် အပြောင်းအလဲကို စီမံခန့်ခွဲရန် လိုအပ်သည်။
+# 5/5
 
 6756
 Change in the Postal and Delivery Industries happen organically and do not need to be managed.
-စာတိုက် နှင့် ပို့ဆောင်ရေး လုပ်ငန်းများတွင် ပြောင်းလဲမှုသည် မူလအတိုင်း ဖြစ်ပေါ်ပြီး စီမံခန့်ခွဲရန် မလိုအပ်ပါ။
+စာတိုက် နှင့် ပို့ဆောင်ရေး လုပ်ငန်းများတွင် ပြောင်းလဲမှုသည် သဘာဝအတိုင်း ဖြစ်ပေါ်ပြီး စီမံခန့်ခွဲရန် မလိုအပ်ပါ။
+# 5/5
 
 6757
 There are people whose only job is to manage the changes in the Postal and Delivery Industries.
 စာတိုက် နှင့် ပို့ဆောင်ရေး လုပ်ငန်းများတွင် အပြောင်းအလဲများကို စီမံခန့်ခွဲ ရန် အလုပ် တစ်ခုတည်းရှိတဲ့သူတွေရှိတယ်။
+# 5/5
 
 6758
 We figured the volume is exactly the same as the pieces per possible.
-ထုထည်ပမာဏသည် ဖြစ်နိုင်သည့် အပိုင်းများနှင့် အတိအကျ တူညီသည် ဟု ကျွန်ုပ်တို့ ယူဆပါသည်။
+ထုထည်ပမာဏသည် ဖြစ်နိုင်သည့် အပိုင်းများနှင့် အတိအကျ တူညီသည် ဟု ကျွန်ုပ်တို့ တွက်ဆပါသည်။
+# 5/5
 
 6759
 We figured the volume per capita and pieces were related.
-လူတစ်ဉီးတစ်ယောက်ချင်းစီ၏ ထုထည် နှင့် အပိုင်းအစများသည် ဆက်နွယ်နေသည်ကို ကျွန်တော်တို့က ယူဆပါသည်။
+လူတစ်ဦးတစ်ယောက်ချင်းစီ၏ ထုထည် နှင့် အပိုင်းအစများသည် ဆက်နွယ်နေသည်ကို ကျွန်တော်တို့က တွက်ဆပါသည်။
+# 5/5
 
 6760
 We know there's no connection between volume per capita and pieces per possible.
-လူတစ်ဉီးတစ်ယောက်ချင်းစီ၏ ထုထည် နှင့် ဖြစ်နိုင်ချေရှိသော အပိုင်းအစများအကြား ဆက်စပ်မှုမရှိသည်ကို ကျွန်ုပ်တို့သိပါသည်။
+လူတစ်ဦးတစ်ယောက်ချင်းစီ၏ ထုထည် နှင့် ဖြစ်နိုင်ချေရှိသော အပိုင်းအစများအကြား ဆက်စပ်မှုမရှိသည်ကို ကျွန်ုပ်တို့သိပါသည်။
+# 5/5
 
 6761
 The welcome package is delivered by hand.
-ကြိုဆိုရေး ပက်ကေ့ချ်များကို လူတစ်ယောက်ဖြင့် ပို့ပေးခဲ့သည်။
+ကြိုဆိုရေး ပက်ကေ့ချ်များကို ကိုယ်ထိလက်ရောက် ပို့ပေးခဲ့သည်။
+# 5/5
 
 6762
 The welcome packages are appreciated by those who receive them.
 ကြိုဆိုရေး ပက်ကေ့ချ်များကို လက်ခံရရှိသူများမှ တန်ဖိုးထားကြသည်။
+# 5/5
 
 6763
 The welcome packages are sent by mail.
 ကြိုဆိုရေး ပက်ကေ့ချ်များကို စာတိုက်မှ ပေးပို့ပါသည်။
+# 5/5
 
 6764
 The outage should have ended much sooner.
 ပြတ်တောက်မှုသည် မြန်မြန်ဆန်ဆန် ပြီးဆုံးသင့်သည်။
+# 5/5
 
 6765
 There was a six-week service outage.
 ခြောက်ပတ်ကြာ ဝန်ဆောင်မှု ပြတ်တောက်ခြင်း ဖြစ်ခဲ့သည်။
+# 5/5
 
 6766
 There was no boiler service outage.
 ဘွိုင်လာ ဝန်ဆောင်မှု ပြတ်တောက်ခြင်း မရှိခဲ့ပါ။
+# 5/5
 
 6767
 Big countries fared better with this system.
-နိုင်ငံကြီးတွေက ဒီစနစ်နဲ့ ပိုကောင်းတယ်။
+နိုင်ငံကြီးတွေက ဒီစနစ်နဲ့ ကောင်းကောင်း ကြုံတွေ့ရတယ်။
+# 5/5
 
 6768
 We had no way to figure out how many pieces were possible per stop.
 ရပ်တန့်မှု တစ်ခုလျှင် အပိုင်းမည်မျှ ဖြစ်နိုင်သည်ကို ကျွန်ုပ်တို့ တွက်ဆရန် နည်းလမ်း မရှိပါ။
+# 4/5
 
 6769
 We use a formula to figure out about how many pieces were possible per stop,.
 ရပ်တန့်မှု တစ်ခုလျှင် အပိုင်းမည်မျှ ဖြစ်နိုင်ကြောင်း တွက်ချက်ရန် ဖော်မြူလာ တစ်ခုကို ကျွန်တော်တို့ အသုံးပြုသည်။
+# 5/5
 
 6770
 High volume areas also have high incomes.
 ထုထည် မြင့်မားသော ဒေသများသည် ၀င်ငွေလည်း မြင့်မားသည်။
+# 5/5
 
 6771
 High volume areas are the poorest.
 ထုထည် မြင့်မားသော ဒေသများသည် အဆင်းရဲဆုံးဖြစ်သည်။
+# 5/5
 
 6772
 High volume areas have income over $100,000.
 ထုထည် မြင့်မားသော ဒေသများတွင် ၀င်ငွေ ဒေါ်လာ ၁၀၀,၀၀၀ ကျော်ရှိသည်။
+# 5/5
 
 6773
 We want to make GAO fall apart.
-ကျွန်တော်တို့က ဂျီအေအိုကို ကွဲထွက်သွားအောင် လုပ်ချင်တယ်။
+ကျွန်တော်တို့က GAOကို ပြိုကျသွားအောင် လုပ်ချင်တယ်။
+# 5/5
 
 6774
 We want to make GAO stronger because it has a lot of problems right now.
-လက်ရှိတွင် ပြဿနာ များစွာ ရှိနေ သောကြောင့် ဂျီအေအိုကို ပိုမို အားကောင်းအောင် ပြုလုပ်ချင်ကြတယ်။
+လက်ရှိတွင် ပြဿနာ များစွာ ရှိနေ သောကြောင့် GAOကို ပိုမို အားကောင်းအောင် ပြုလုပ်ချင်ကြတယ်။
+# 5/5
 
 6775
 We want to make GAO stronger.
-ကျွန်ုပ်တို့သည် ဂျီအေအိုကို ပိုမို အားကောင်းအောင် ပြုလုပ်ချင်ကြတယ်။
+ကျွန်ုပ်တို့သည် GAOကို ပိုမို အားကောင်းအောင် ပြုလုပ်ချင်ကြတယ်။
+# 5/5
 
 6776
 They can develop the plan faster than expected.
 သူတို့သည် ထို အစီအစဉ်ကို မျှော်လင့်ထားသည်ထက် ပိုမိုမြန်ဆန်ပြီး တိုးတတ်ဖွံ့ဖြိုးစေသည်။
+# 5/5
 
 6777
 They usually need another year to implement the plan.
 သူတို့သည် အစီအစဉ်ကို အကောင်အထည်ဖော်ရန် နောက်ထပ် တစ်နှစ် လိုအပ်သည်။
+# 5/5
 
 6778
 They usually need more time to create the action plan.
 လုပ်ဆောင်ချက် အစီအစဉ်ကို ဖန်တီး ရန် သူတို့သည် များသောအားဖြင့် အချိန်ကို ပို၍ လိုအပ်သည်။
+# 5/5
 
 6779
 A new method of estimating the concentration-response relationship is needed.
-အာရုံစူးစိုက်မှု-တုံ့ပြန်မှု ဆက်ဆံရေးကို ခန့်မှန်းရန် နည်းလမ်း အသစ် တစ်ခု လိုအပ်ပါသည်။
+အာရုံစူးစိုက်မှု-တုံ့ပြန်မှု ဆက်စပ်မှုကို ခန့်မှန်းရန် နည်းလမ်း အသစ် တစ်ခု လိုအပ်ပါသည်။
+# 5/5
 
 6780
 The concentration-response relationship is rarely figured out exactly.
-အာရုံစူးစိုက်မှု-တုံ့ပြန်မှု ဆက်ဆံရေးကို အတိအကျ တွက်ဆခဲ့ပါတယ်။
+အာရုံစူးစိုက်မှု-တုံ့ပြန်မှု ဆက်စပ်မှုကို အတိအကျ တွက်ဆမှု က ရှားပါသည်။
+# 5/5
 
 6781
 The effects of the concentration-response relationship are rarely overestimated.
 အာရုံစူးစိုက်မှု-တုံ့ပြန်မှု ဆက်ဆံရေး၏ အကျိုးသက်ရောက်မှုများကို ပို၍ခန့်မှန်းမိတာ ဖြစ်ခဲပါတယ်။
+# 5/5
 
 6782
 The bypass will  send water to the FGD.
-ပိုက်လိုင်းကနေ အက်ဖ်ဂျီဒီဆီ ရေကို ပို့လိမ့်မယ်။
+လမ်းလွှဲက FGD ဆီ ရေကို ပို့လိမ့်မယ်။
+# 5/5
 
 6783
 The bypass will send gas to the FGD in Russia.
-ပိုက်လိုင်းသည် ရုရှားရှိ အက်ဖ်ဂျီဒီ သို့ ဓာတ်ငွေ့များ ပေးပို့မည်ဖြစ်သည်။
+လမ်းလွှဲက ရုရှားရှိ FGD သို့ ဓာတ်ငွေ့များ ပေးပို့မည်ဖြစ်သည်။
+# 5/5
 
 6784
 The bypass will send gas to the FGD.
-ပိုက်လိုင်းက အက်ဖ်ဂျီဒီ ဆီကို ဓာတ်ငွေ့ပို့လိမ့်မယ်။
+လမ်းလွှဲက FGD ဆီကို ဓာတ်ငွေ့ပို့လိမ့်မယ်။
+# 5/5
 
 6785
 Improvements in the operations of government agencies were included.
 အစိုးရ ဌာနများ၏ လုပ်ငန်းဆောင်ရွက်မှုများတွင် တိုးတက်မှုများ ပါဝင်ခဲ့သည်။
+# 5/5
 
 6786
 There should have been been more things included.
 အကြောင်းအရာတွေက ဒီထက်မက ပါဝင်သင့်တယ်။
+# 4/5
 
 6787
 They did not include technological innovation.
 သူတို့သည် နည်းပညာဆိုင်ရာ ဆန်းသစ်တီထွင်မှုတွေ မပါဝင်ခဲ့ပါဘူး။
+# 5/5
 
 6788
 Immigrants move around a lot in the US.
 ရွှေ့ပြောင်းအခြေချသူများသည် အမေရိကန်တွင် အများအပြား ရွှေ့ပြောင်းနေထိုင်ကြသည်။
+# 5/5
 
 6789
 Immigrants move to the north in the summer.
 ရွှေ့ပြောင်းအခြေချသူများသည် နွေရာသီတွင် မြောက်ဘက်သို့ ရွှေ့ကြသည်။
+# 5/5
 
 6790
 Immigrants never move once they arrive in the US.
 ရွှေ့ပြောင်းအခြေချသူများသည် အမေရိကန်သို့ သူတို့ ရောက်သည်နှင့် တပြိုင်နက် မည်သည့်အခါမျှ ရွှေ့ပြောင်းနေထိုင်ခြင်းမရှိပေ။
+# 5/5
 
 6791
 Every case needs to have a specific person working on it.
-ကိစ္စတိုင်းတွင် ၎င်းကို အလုပ်လုပ်ပေးသော တိကျသော လူတစ်ယောက် ရှိရန် လိုအပ်သည်။
+ကိစ္စတိုင်းတွင် ၎င်းကို အလုပ်လုပ်ပေးသော သတ်သတ်မှတ်မှတ် လူတစ်ယောက် ရှိရန် လိုအပ်သည်။
+# 5/5
 
 6792
 One size fits all is not a good policy in clinical practice.
-အရွယ်အစား တစ်ခုသည် အားလုံးနှင့် ကိုက်ညီသည်ဆိုသည်မှာ လက်တွေ့ကျသော အလေ့အကျင့်တွင် ကောင်းမွန်သော မူဝါဒ တစ်ခု မဟုတ်ပါ။
+တစ်မျိုးတည်းကိုနေရာတိုင်းသုံးခြင်းသည် ဆေးပညာကုထုံးတွင် ကောင်းမွန်သော မူဝါဒ တစ်ခု မဟုတ်ပါ။
+# 5/5
 
 6793
 One size fits all when it comes to brief interventions.
 အတိုချုံး ပါဝင်ပတ်သက်မှုများ ဖြစ်လာတဲ့အခါမှာ အရွယ်အစား တစ်ခုသည် အားလုံးနှင့် ကိုက်ညီသည်။
+# 3/5
 
 6794
 No reports on pilot programs were submitted.
 ရှေ့ပြေးအစီအစဉ်များ နှင့်ပတ်သက်သည့် အစီရင်ခံစာများကို တင်သွင်းခဲ့ခြင်းမရှိပါ။
+# 5/5
 
 6795
 There were forty-four pilot project reports submitted.
 ရှေ့ပြေးစီမံကိန်း နှင့်ပတ်သက်သည့် အစီရင်ခံစာ လေးဆယ့်လေးခုကို တင်ပြခဲ့သည်။
+# 5/5
 
 6796
 There were more pilot programs, but only forty-four submitted reports.
 နောက်ထပ် ရှေ့ပြေးအစီအစဉ်များ ရှိခဲ့သော်လည်း ၊ အစီရင်ခံစာ လေးဆယ့်လေးခုသာ တင်ပြခဲ့သည်။
+# 5/5
 
 6797
 It is not possible to modify the Title V operating permit.
 ခေါင်းစဉ် ၅ လည်ပတ်မှု ခွင့်ပြုခြင်းကို ပြုပြင်ရန် မဖြစ်နိုင်ပါ။
+# 5/5
 
 6798
 It will take over a year to modify the Title V operating permit.
 ခေါင်းစဉ် ၅သည် လည်ပတ်မှု ခွင့်ပြုခြင်းကို ပြုပြင်ရန် တစ်နှစ်ကျော် ကြာမည်ဖြစ်သည်။
+# 5/5
 
 6799
 There are many documents that need to be signed when modifying the Title V operating permit.
 ခေါင်းစဉ် ၅ လည်ပတ်မှု ခွင့်ပြုခြင်းကို ပြင်ဆင်သည့်အခါတွင် လက်မှတ်ရေးထိုးရန် လိုအပ်သော စာရွက်စာတမ်း များစွာ ရှိပါသည်။
+# 5/5
 
 6800
 France does not have a postal service.
 ပြင်သစ်တွင် စာတိုက် ဝန်ဆောင်မှု တစ်ခု မရှိပါ။
+# 5/5

@@ -1,449 +1,499 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 3401
 Actually we do not consider ourselves to be naturalists.
-သဘာဝပညာရှင်တွေလို့ ကျွန်တော်တို့ ကိုယ့်ကိုကိုယ် တကယ် မယူဆပါဘူး။
+တကယ်တော့ သဘာဝဝါဒီတွေလို့ ကျွန်တော်တို့ ကိုယ့်ကိုကိုယ်  မယူဆပါဘူး။
+4/5
 
 3402
 We are totally true naturalists and are insulted to be thought of otherwise!
-ကျွန်တော်တို့က အမှန်တကယ် သဘာဝပညာရှင်တွေဖြစ်ပြီးတော့ သူများတွေက အဲဒီလို မထင်ကြပါဘူးလို့ စွပ်စွဲခံရပါတယ်။
+ကျွန်တော်တို့က အမှန်တကယ် သဘာဝဝါဒီတွေဖြစ်ပြီးတော့ အဲဒီလိုမဟုတ်ဘူးလို့အထင်ခံရတာဟာ အစော်ကားခံရသလိုပါပဲ!
+5/5
 
 3403
 We would like to someday strive to be naturalists but right now we are not.
-ကျွန်တော်တို့က တစ်နေ့နေ့မှာ သဘာဝပညာရှင်တွေဖြစ်အောင် ကြိုးစားချင်ပါတယ် ဒါပေမဲ့ အခုတော့ မဟုတ်သေးပါဘူး။
+ကျွန်တော်တို့က တစ်နေ့နေ့မှာ သဘာဝဝါဒီတွေဖြစ်အောင် ကြိုးစားချင်ပါတယ် ဒါပေမဲ့ အခုတော့ မဟုတ်သေးပါဘူး။
+5/5
 
 3404
 A bunch of would get together and clean up trash from the street.
 လူအုပ်ကြီးက စုပြီး လမ်းပေါ်က အမှိုက်တွေကို ရှင်းကြမယ်။
+5/5
 
 3405
 I used to help my grandparents with picking up cans from the road.
-လမ်းပေါ်က ဘူးခွံတွေကို ကောက်ပြီးတော့ ဘိုးဘွားတွေကို ကူညီလေ့ရှိခဲ့တယ်။
+လမ်းပေါ်က ဘူးခွံတွေကို ကောက်ပြီးတော့ ငါ့အဘိုးအဘွားတွေကို ကူညီလေ့ရှိခဲ့တယ်။
+5/5
 
 3406
 We used to go party at my dad's house.
 ငါတို့က ငါ့အဖေအိမ်မှာ ပါတီသွားလုပ်ခဲ့ကြလေ့ရှိခဲ့တယ်။
+5/5
 
 3407
 Apparently this is not your first time with a dog.
-ဒါက ခွေးနဲ့တွေ့တာ မင်းရဲ့ ပထမဆုံးအကြိမ်မဟုတ်တာ အသိသာကြီးပဲ။
+ခွေးနဲ့တွေ့တာ ဒါက မင်းရဲ့ ပထမဆုံးအကြိမ်မဟုတ်တာ အသိသာကြီးပဲ။
+5/5
 
 3408
 I am sorry I did not know this was your first time ever seeing a dog.
 မင်းက ခွေးနဲ့တွေ့တာ ပထမဆုံးအကြိမ်မှန်း ငါမသိခဲ့တာ စိတ်မကောင်းပါဘူး။
+5/5
 
 3409
 This is not your first time handling a domesticated animal.
-မင်း အိမ်မွေးတိရစ္ဆာန်ကိုကိုင်တွယ်တာ ပထမဆုံးမှမဟုတ်တာ။
+မင်း အိမ်မွေးတိရစ္ဆာန်ကိုကိုင်တွယ်တာ ဒါပထမဆုံးမှမဟုတ်တာ။
+5/5
 
 3410
 You can just tell me the end of the story.
 ဇာတ်လမ်းရဲ့ အဆုံးသတ်ကိုသာ ငါ့ကိုပြောပါ။
+5/5
 
 3411
 You don't have to do the whole thing.
 တစ်ခုလုံးကို မင်းလုပ်စရာမလိုပါဘူး။
+5/5
 
 3412
 You need to go through the whole thing.
 တစ်ခုလုံးကို မင်းလုပ်ဖို့လိုလိမ့်မယ်။
+5/5
 
 3413
 I do not live on campus.
 ငါ ကျောင်းဝင်းထဲမှာ မနေပါဘူး။
+5/5
 
 3414
 I live a few block away from campus.
-ငါ နေတာ ကျောင်းဝင်းထဲကနေ နည်းနည်းဝေးတယ်။
+ငါ ကျောင်းဝင်းထဲကနေ ခပ်လှမ်းလှမ်းနားမှာ ေနတယ်။
+5/5
 
 3415
 I live on campus.
 ငါ ကျောင်းဝင်းထဲမှာ နေတယ်။
+5/5
 
 3416
 The connections around here are sometimes okay.
 ဒီပတ်ဝန်းကျင်က အဆက်အသွယ်တွေက တခါတလေတော့ အဆင်ပြေတယ်။
+5/5
 
 3417
 We do not get good connections here.
-ဒီမှာ အဆက်အသွယ်ကောင်းကောင်း မရပါဘူး။
+ဒီမှာ အဆက်အသွယ်ကောင်းကောင်း မရဘူး။
+5/5
 
 3418
 We have the best connections around here.
 ဒီ ပတ်ဝန်းကျင်မှာ အကောင်းဆုံး အဆက်အသွယ် ရှိတယ်။
+5/5
 
 3419
 A man killed his ex wife for sleeping with another guy after being freed from a prior charge.
-လူတစ်ယောက်က သူ့ဇနီးဟောင်းကို တခြားလူတစ်ယောက်နဲ့ အိပ်တာကြောင့် သတ်ခဲ့ကြောင်း ပဏာမ အရေးယူခံရခြင်းမှ လွတ်မြောက်ခဲ့တယ်။
+လူတစ်ယောက်က  ရှေ့မှာဖြစ်ထားတဲ့အမှုကြောင့်အဖမ်းခံထားရတာက နေလွတ်လာအပြီးမှာပဲ သူ့ဇနီးဟောင်းက တခြားလူတစ်ယောက်နဲ့ အိပ်တာကြောင့် သတ်ခဲ့တယ်။
+4/5
 
 3420
 A man was freed from the charge due to technical glitch and went and killed his ex.
 လူတစ်ယောက်က နည်းပညာ ချို့ယွင်းချက်ကြောင့် အရေးယူခံရခြင်းကနေ လွတ်မြောက်ခဲ့ပြီးတော့ သူ့ ရည်းစားဟောင်းကို သွားသတ်ခဲ့တယ်။
+5/5
 
 3421
 The wife made sure her ex was locked away for lifetime.
 ဇနီးသည်က သူ့ခင်ပွန်းဟောင်း တစ်သက်လုံး ထောင်ထဲမှာ နေရဖို့ သေချာလုပ်ခဲ့တယ်။
+5/5
 
 3422
 I can not stand the Black Eyed Pea.
-ငါ ဘလက်အိုင်းပီးစ် ကို သည်းမခံနိုင်ဘူး။
+ငါ Black Eyed Pea ကို သည်းမခံနိုင်ဘူး။
+5/5
 
 3423
 I might check out the Black Eyed Pea later.
-ငါ ဘလက်အိုင်းပီးစ် ကို နောက်မှ ကြည့်ဦးမယ်။
+ငါ Black Eyed Pea ကို နောက်မှ ကြည့်ဦးမယ်။
+5/5
 
 3424
 The Black Eyed Pea is likable, I think its corporate.
-ဘလက်အိုင်းပီးစ် က ကြိုက်ချင်စရာကောင်းပါတယ် ၊ အဲဒါ အဖွဲ့လို့ ငါထင်တယ်။
+Black Eyed Pea က ကြိုက်ချင်စရာကောင်းပါတယ် ၊ အဲဒါ အဖွဲ့လို့ ငါထင်တယ်။
+5/5
 
 3425
 I have nothing that I could compare it too.
 အဲဒါနဲ့ နှိုင်းယှဉ်ပြစရာ ငါ့မှာ ဘာမှမရှိဘူး။
+5/5
 
 3426
 Is that the same thing as match savings
 အဲဒါက ဆတူတိုး စုဆောင်းငွေ လိုဟာမျိုးနဲ့ အတူတူပဲလား။
+5/5
 
 3427
 Match savings would be the same thing.
 ဆတူတိုး စုဆောင်းငွေ က အတူတူပဲဖြစ်လိမ့်မယ်။
+5/5
 
 3428
 I am not sure if you have heard of Will Point.
-မင်း Will Point ကို ကြားဖူးလား မသိဘူး။
+မင်း Will Point ကို ကြားဖူးလားေတာ့ မသိဘူး။
+5/5
 
 3429
 I heard its from Wills Point.
-အဲဒါက Wills Point က လို့ ကြားခဲ့တယ်။
+အဲဒါက Wills Point က လို့ ငါကြားဖူးခဲ့တယ်။
+5/5
 
 3430
 It's from Cambridge.
-အဲဒါက ကိန်းဘရစ်ချ် က ပါ။
+အဲဒါက Cambridge က ပါ။
+5/5
 
 3431
 I Do not eat any kind of meat.
 ငါ ဘယ်လို အသားမျိုးမှ မစားဘူး။
+5/5
 
 3432
 I have ate unusual animals before such as turtle, raccoon and possum.
-ငါ အရင်တုန်းက လိပ် တို့ ၊ ရက်ကွန်းဝံ တို့ ၊ အိုပေါ့ဆမ်ကောင် တို့လို ထူးထူးဆန်းဆန်း တိရစ္ဆာန်တွေ စားခဲ့ပြီးပြီ။
+ငါ အရင်တုန်းက လိပ် တို့ ၊ raccoon တို့ ၊ ပpossum ကောင် တို့လို ထူးထူးဆန်းဆန်း တိရစ္ဆာန်တွေ စားခဲ့ပြီးပြီ။
+5/5
 
 3433
 I have tried many different types of animals for food.
-ငါ တိရစ္ဆာန် အမျိုးမျိုးကို စားသောက်ဖို့ ကြိုးစားခဲ့ပြီးပြီ။
+ငါ တိရစ္ဆာန် အမျိုးမျိုးကို စားကြည့်ဖူးခဲ့ပြီးပြီ။
+5/5
 
 3434
 It only landed on the ground so my shoes stayed clean.
 ငါ မြေပြင်ပေါ်မှာပဲ ဆင်းသက်ခဲ့တာ ဒါကြောင့် ငါ့ဖိနပ်တွေက သန့်ရှင်းနေတာ။
+5/5
 
 3435
 It was annoying when it covered my shoes.
 ငါ့ဖိနပ်တွေ အဲဒါနဲ့ဖုံးနေတော့ စိတ်ရှုပ်စရာကောင်းခဲ့တာ။
+5/5
 
 3436
 My shoes were covered with it.
 ငါ့ဖိနပ်တွေက အဲဒါနဲ့ ဖုံးနေတာ။
+5/5
 
 3437
 Traveling is my favorite part of it.
 ခရီးသွားရတာက ကျွန်တော် အကြိုက်ဆုံး အစိတ်အပိုင်းပါ။
+5/5
 
 3438
 Traveling is one perk we get.
 ခရီးသွားတာက ကျွန်တော်တို့ရတဲ့ အကျိုးခံစားခွင့်ပဲ။
+5/5
 
 3439
 We don't get any benefits.
 ကျွန်တော်တို့ ဘာအကျိုးခံစားခွင့်မှ မရပါဘူး။
+5/5
 
 3440
 I can not stand the officer idea.
-ငါ အရာရှိရဲ့ စိတ်ကူးကို သည်းမခံနိုင်ဘူး။
+ငါ အရာရှိ စိတ်ကူးကို သည်းမခံနိုင်ဘူး။
+3/5
 
 3441
 I think the idea of the officer thing is great.
-အရာရှိရဲ့ စိတ်ကူးက အရမ်းကောင်းတယ်လို့ ငါထင်တယ်။
+အရာရှိ စိတ်ကူးက အရမ်းကောင်းတယ်လို့ ငါထင်တယ်။
+3/5
 
 3442
 Other people think the officer thing is a great idea.
-တခြားလူတွေကတော့ အရာရှိရဲ့ဟာက အရမ်းကောင်းတဲ့ စိတ်ကူးလို့ ထင်ကြတယ်။
+တခြားလူတွေကတော့ အရာရှိ စိတ်ကူး က အရမ်းကောင်းတဲ့ စိတ်ကူးလို့ ထင်ကြတယ်။
+3/5
 
 3443
 It sounds like it would look great.
 အဲဒါက အရမ်းကြည့်ကောင်းမယ် လို့ ထင်ရတယ်။
+5/5
 
 3444
 It was very easy to notice.
 အရမ်း အလွယ်တကူ သတိထားမိနိုင်ခဲ့တယ်။
+5/5
 
 3445
 The design was horrible.
 ဒီဇိုင်းက တော်တော်ဆိုးရွားတာပဲ။
+5/5
 
 3446
 It's hard to load up the paper, glass and can after separating them into their own container.
-စက္ကူ၊ ဖန်ခွက် နဲ့ သံဘူးတွေကို သူတို့ ကွန်တိန်နာတွေထဲကို ခွဲခြားပြီးမှဆိုရင် ဖြည့်ဖို့ခက်တယ်။
+စက္ကူ၊ ဖန်ခွက် နဲ့ သံဘူးတွေကို သူတို့ဆိုင်ရာပုံးတွေထဲကို ခွဲခြားပြီးမှဆိုရင် ဖြည့်ဖို့ခက်တယ်။
+5/5
 
 3447
 The paper is the first to get full then cans, then glass.
 စက္ကူကို အရင် ဖြည့်ရမယ် ပြီးရင် သံဘူး၊ ပြီးမှ ဖန်ခွက်။
+5/5
 
 3448
 WSe do not separate anything, we throw it all in one bag.
 ကျွန်တော်တို့ ဘာမှ မခွဲခြားမနေဘူး၊ အဲဒါတွေအားလုံးကို အိတ်တစ်လုံးထဲ ထည့် ပစ်လိုက်တာ။
+5/5
 
 3449
 Locust Hill is the best.
-လိုကပ်စ် ကုန်း က အကောင်းဆုံးပဲ။
+Locust Hill က အကောင်းဆုံးပဲ။
+5/5
 
 3450
 No, not Locust Hill.
-ဟင့်အင်း၊ လိုကပ်စ် ကုန်း မဟုတ်ဘူး။
+ဟင့်အင်း၊ Locust Hill မဟုတ်ဘူး။
+5/5
 
 3451
 Yes, that is right, Locust Hill.
-ဟုတ်တယ်၊ မှန်ပါတယ်၊ လိုကပ်စ် ကုန်း။
+ဟုတ်တယ်၊ မှန်ပါတယ်၊ Locust Hill။
+5/5
 
 3452
 Bermuda lawns are too much work.
 ဘာမြူဒါ မြက်ခင်းတွေက အရမ်း အလုပ်ရှုပ်တယ်။
+5/5
 
 3453
 Bermuda lawns can be made to look like golf course greens.
-ဘာမြူဒါ မြက်ခင်းတွေက ဂေါက်ကွင်းကို စိမ်းလန်းသလို ဖြစ်စေတယ်။
+ဘာမြူဒါ မြက်ခင်းတွေကို ဂေါက်ကွင်းမြက်ခင်းတွေလို ဖြစ်အောင်လုပ်လို့ရတယ်။
+5/5
 
 3454
 You only have water Bermuda lawns occasionally.
-ခင်ဗျားက ဘာမြူဒါ မြက်ခင်းတွေကို တစ်ခါတစ်ခါ ရေလောင်းရုံပဲ။
+ခင်ဗျားက ဘာမြူဒါ မြက်ခင်းတွေကို တခါတရံလောက်ပဲ ရေလောင်းပေးဖို့လိုတယ်။
+5/5
 
 3455
 A six pack is about 30 cents cheaper across the border.
-ဘီယာ ခြောက်ဘူး တစ်တွဲက နယ်စပ်ကို ဖြတ်လိုက်ရင် ၃၀ ဆင့်လောက် သက်သာတယ်။
+ဘီယာ ခြောက်ဘူး တစ်တွဲက နယ်စပ်ဘက်မှာ ၃၀ ဆင့်လောက် သက်သာတယ်။
+5/5
 
 3456
 Most people cross the border in order to get the drinks cheaper.
-လူအများစုက ဘီယာကို ပိုဈေးသက်သက်သာသာနဲ့ သောက်နိုင်ဖို့ နယ်စပ်ကို ဖြတ်ကျော်ကြတယ်။
+လူအများစုက အရက်ကို ပိုဈေးသက်သက်သာသာနဲ့ သောက်နိုင်ဖို့ နယ်စပ်ကို ဖြတ်ကျော်ကြတယ်။
+5/5
 
 3457
 The bottles are more expensive on the other side of the border.
-ပုလင်းတွေက နယ်စပ်နဲ့ တခြားတစ်ဖက်မှာ ပို ဈေးကြီးတယ်။
+ပုလင်းတွေက နယ်စပ်ရဲ့ တခြားတစ်ဖက်မှာ ပို ဈေးကြီးတယ်။
+5/5
 
 3458
 I have heard it is not good.
 အဲဒါက မကောင်းဘူးလို့ ငါကြားပြီးပြီ။
+5/5
 
 3459
 It is horrible.
 ဆိုးရွားလိုက်တာ။
+5/5
 
 3460
 It's not bad at all.
 အဲဒါက လုံးဝမဆိုးပါဘူး။
+5/5
 
 3461
 He is definitely loud enough for me to hear.
-သူက ကျွန်တော် သေချာ ကြားရလောက်အောင် အသံကျယ်ပါတယ်။
+သူက ငါ သေချာ ကြားရလောက်အောင် အသံကျယ်ပါတယ်။
+5/5
 
 3462
 I can't hear him.
 ငါ သူ့အသံ မကြားရဘူး။
+5/5
 
 3463
 I think I hear him.
-ကျွန်တော် သူ့အသံကြားရတယ် ထင်တယ်။
+ငါ သူ့အသံကြားရတယ် ထင်တယ်။
+5/5
 
 3464
 No, I think that is insane and highly irrational.
-ဟင့်အင်း၊ ဒါက ရူးသွပ် ပြီးတော့ အလွန် အဓိပ္ပါယ်မရှိဘူး လို့ ထင်တယ်။
+ဟင့်အင်း၊ ဒါက ရူးသွပ်ပြီးတော့ တော်တော် ယုတ္တိမရှိဘူး လို့ ထင်တယ်။
+5/5
 
 3465
 Yes, it was very acceptable.
 ဟုတ်ကဲ့၊ အရမ်း လက်ခံလို့ရပါတယ်။
+5/5
 
 3466
 Yes, we acknowledge that it was difficult but nonetheless came out pretty well in the end.
-ဟုတ်ကဲ့၊ အဲဒါက ခက်ခဲတယ်ဆိုတာ ကျွန်တော်တို့ အသိအမှတ်ပြုပါတယ် ဒါပေမဲ့ ဘယ်လိုပဲဖြစ်ဖြစ် နောက်ဆုံးမှာတော့ လှလှပပ ထွက်ပေါ်လာခဲ့ပါပြီ။
+ဟုတ်ကဲ့၊ အဲဒါက ခက်ခဲတယ်ဆိုတာ ကျွန်တော်တို့ အသိအမှတ်ပြုပါတယ် ဒါပေမဲ့ ဘယ်လိုပဲဖြစ်ဖြစ် နောက်ဆုံးမှာတော့ တော်တော်ကြီးကို ကောင်းကောင်းမွန်မွန် ထွက်လာခဲ့တယ်။
+5/5
 
 3467
 We go to the cottage for a couple of days.
-ကျွန်တော်တို့ ကျေးလက်အိမ်ကို ၂ရက် ၃ရက် လောက် သွားတယ်။
+ကျွန်တော်တို့ ကျေးလက်အိမ်ကို ၂ရက်လောက် သွားတယ်။
+5/5
 
 3468
 We go to the cottage in Minnesota.
 ကျွန်တော်တို့ မင်နီဆိုတာက ကျေးလက်အိမ်ကို သွားတယ်။
+5/5
 
 3469
 We have never been to the cottage.
-အဲဒီ ကျေးလက်အိမ်ကို ကျွန်တော်တို့ တစ်ခါမှ မရောက်ဖူးဘူး။
+ကျေးလက်အိမ်ကို ကျွန်တော်တို့ တစ်ခါမှ မရောက်ဖူးဘူး။
+5/5
 
 3470
 Ten percent tax is too much to pay.
 တစ်ဆယ်ရာခိုင်နှုန်း အခွန်က ပေးဆောင်ဖို့ များလွန်းတယ်။
+5/5
 
 3471
 You always have to add ten percent tax to whatever you're buying when you are figuring out the cost.
-ဘာပဲဝယ်ဝယ် ဈေးနှုန်းသိရပြီဆိုရင် မင်း အမြဲတမ်း အခွန် တစ်ဆယ်ရာခိုင်နှုန်း ထပ်ပေါင်းရမယ်။
+ဘာပဲဝယ်ဝယ် ဈေးနှုန်းတွက်ပြီဆိုရင် အမြဲတမ်း အခွန် တစ်ဆယ်ရာခိုင်နှုန်း မင်း ထပ်ပေါင်းရမယ်။
+5/5
 
 3472
 You never have to figure out the tax in order to determine cost.
 မင်း ကုန်ကျစရိတ်ကို သတ်မှတ်နိုင်ဖို့ အခွန်ကို ဘယ်တော့မှ သိစရာမလိုဘူး။
+5/5
 
 3473
 I do not like the company she is with.
 သူရှိနေတဲ့ ကုမ္ပဏီကို ငါ မကြိုက်ဘူး။
+5/5
 
 3474
 She did not flatter me at all.
 သူက ငါ့ကို မြှောက်ပင့်တာမျိုး လုံးဝမလုပ်ခဲ့ပါဘူး။
+5/5
 
 3475
 She made me feel good until I found out who she was with.
-သူက ဘယ်သူနဲ့ အတူရှိနေခဲ့တာလဲဆိုတာ မသိခင်အထိ သူက ငါ့ကို စိတ်ချမ်းသာစေတယ်။
+သူမ ဘယ်သူနဲ့ အတူရှိနေခဲ့တာလဲဆိုတာ မသိခင်အထိ သူမက ငါ့ကို စိတ်ချမ်းသာစေခဲ့တယ်။
+5/5
 
 3476
 Did you read The Firm?
-The Firm ကို ဖတ်ခဲ့သလား။
+The Firm ကို နင်ဖတ်ခဲ့သလား?
+5/5
 
 3477
 Have you read The Soft?
-The Soft ကို ဖတ်ခဲ့သလား။
+The Soft ကို နင်ဖတ်ပြီးပြီလား?
+5/5
 
 3478
 Would you like to borrow my copy of The Firm to read?
-မင်း ငါ့ရဲ့ ကူးထားတဲ့ The Firm ကို ဖတ်ဖို့ ငှားချင်လား။
+မင်း ငါ့မှာရှိတဲ့ The Firm ကို ဖတ်ဖို့ ငှားချင်လား?
+5/5
 
 3479
 She loved the surprise party.
 စပရိုက်စ် ပါတီကို သူက ကြိုက်ခဲ့တယ်။
+3/5
 
 3480
 We didnt do anything for her birthday.
-သူ့ မွေးနေ့အတွက် ကျွန်တော်တို့ ဘာမှမလုပ်ခဲ့ဘူး။
+သူမရဲ့ မွေးနေ့အတွက် ကျွန်တော်တို့ ဘာမှမလုပ်ပေးခဲ့ဘူး။
+5/5
 
 3481
 We threw a surprise birthday for her.
 သူ့အတွက် စပရိုက်စ် မွေးနေ့ လုပ်ပေးခဲ့တာ။
+3/5
 
 3482
 It is not all tha common.
 အဲဒါက လုံးဝ ပုံမှန် မဟုတ်ပါဘူး။
+3/5
 
 3483
 It's just like it is every day.
 ဒါက နေ့တိုင်း ဖြစ်နေသလိုပါပဲ။
+5/5
 
 3484
 It's unusual for the people to look like that.
 အဲဒီလို ကြည့်ရတာ လူတွေအတွက် အထူးအဆန်းပဲ။
+5/5
 
 3485
 I hope she does what she is planning to do.
-သူ စီစဉ်ထားသလို သူလုပ်တယ်လို့ ငါမျှော်လင့်ပါတယ်။
+သူမ စီစဉ်ထားသလိုပဲ သူမလုပ်တယ်လို့ ငါမျှော်လင့်ပါတယ်။
+5/5
 
 3486
 It will be great for her if she does what she plans to do.
 သူ စီစဉ်ထားသလို သူလုပ်ရင် သူ့အတွက် အရမ်းကောင်းမှာပဲ။
+5/5
 
 3487
 She has no plans to do that.
-သူက အဲဒီလိုလုပ်ဖို့ အစီအစဉ်မရှိဘူး။
+အဲဒီဟာကိုလုပ်ဖို့ သူမမှာ အစီအစဉ်မရှိဘူး။
+5/5
 
 3488
 Gun control is probably not popular in Texas.
-သေနတ် ထိန်းချုပ်တာက တက္ကဆက် မှာ လူကြိုက်များမှာ မဟုတ်ဘူး။
+သေနတ်ထိန်းချုပ်တာက တက္ကဆက် မှာ လူကြိုက်များမှာ မဟုတ်ဘူး။
+5/5
 
 3489
 I don't think gun control would upset people in Texas.
 သေနတ်ထိန်းချုပ်တာက တက္ကဆက်မှာ လူတွေကို စိတ်ပျက်စေမယ်လို့ ငါမထင်ဘူး။
+5/5
 
 3490
 Texas should have stronger gun control laws.
-တက္ကဆက်မှာ ပိုပြင်းထန်တဲ့ သေနတ်ထိန်းချုပ် ဥပဒေ ရှိသင့်တယ်။
+တက္ကဆက်မှာ ပိုတင်းကျပ်တဲ့ သေနတ်ထိန်းချုပ် ဥပဒေ ရှိသင့်တယ်။
+5/5
 
 3491
 She is willing to sit or play with anybody.
-သူက ဘယ်သူနဲ့မဆို ထိုင် ကစားဖို့ ဆန္ဒရှိတယ်။
+သူက ဘယ်သူနဲ့မဆို ထိုင်ဖို့၊ ကစားဖို့ ဆန္ဒရှိတယ်။
+5/5
 
 3492
 She normally plays poker or blackjack, but will sometimes play scrabble.
-သူက ပုံမှန်ဆိုရင် ပိုကာ ဒါမှမဟုတ် ဘလက်ဂျကတ် ၊ ကစားတတ်ပေမဲ့ တစ်ခါတစ်လေ စာလုံးဆက် ကစားတတ်တယ်။ 
+သူက ပုံမှန်ဆိုရင် ပိုကာ ဒါမှမဟုတ် ဘလက်ဂျတ် ကစားပေမဲ့ တစ်ခါတစ်လေ စာလုံးဆက်တာလဲ ကစားတယ်။ 
+5/5
 
 3493
 She refuses to sit next to anybody who she does not already know.
-သူက သူမသိသေးတဲ့သူ ဘေးမှာ ထိုင်ဖို့ ငြင်းဆိုတယ်။
+သူမက သူမ မသိသေးတဲ့သူ ဘေးမှာ ထိုင်ဖို့ ငြင်းဆိုတယ်။
+5/5
 
 3494
 Far from the truth the laws are old and outdated.
 ဥပဒေတွေက ဟောင်းနေ ပြီး ခေတ်နောက်ကျနေတယ်ဆိုတာ အမှန်တရားနဲ့ ဝေးကွာနေတယ်။
+4/5
 
 3495
 Indeed it is but the regulations took a long time to become a reality.
 အဲဒါ တကယ်ပါပဲ ဒါပေမဲ့ စည်းမျဉ်းတွေက လက်တွေ့ဖြစ်လာဖို့ အချိန်တွေကြာတယ်။
+5/5
 
 3496
 Precisely, though with the new regulations it is more difficult now.
-အတိအကျပြောရရင် ၊ စည်းမျဉ်းသစ်တွေနဲ့ ဆိုရင်လည်း အခုက ပိုခက်တယ်။
+အတိအကျပြောရရင် ၊ စည်းမျဉ်းသစ်တွေနဲ့ ဆိုရင် အခုက ပိုခက်တယ်။
+5/5
 
 3497
 People will work if they have opportunity.
 လူတွေက သူတို့မှာ အခွင့်အရေးရှိရင် အလုပ်လုပ်မှာပဲ။
+5/5
 
 3498
 That might cause crime to increase.
 အဲဒါက ရာဇဝတ်မှုတွေ တိုးလာစေနိုင်တယ်။
+5/5
 
 3499
 That will cause a decrease in crime.
 အဲဒါက ရာဇဝတ်မှုတွေ လျော့စေနိုင်တယ်။
+5/5
 
 3500
 He broke all the rules.
-သူက စည်းကမ်း အားလုံးကို ချိုးဖောက်ခဲ့တာပဲ။
+သူက စည်းကမ်း အားလုံးကို ချိုးဖောက်ခဲ့တယ်။
+5/5

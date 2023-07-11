@@ -1,453 +1,502 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 3501
 He followed every rule and still got kicked out.
-သူသည် စည်းကမ်း တိုင်းကို လိုက်နာခဲ့တာတောင် နှင်ထုတ်ခံရသေးသည်။
+သူ စည်းကမ်း တိုင်းကို လိုက်နာခဲ့တာတောင် အထုတ်ခံခဲ့ရသေးသည်။
+5/5
 
 3502
 He should have followed the rules.
-သူသည် စည်းကမ်းများကို လိုက်နာသင့်သည်။
+သူ စည်းကမ်းေတွကို လိုက်နာသင့်ခဲ့တယ်။
+5/5
 
 3503
 There is no doubt in my mind that it will happen very soon.
-သိပ် မကြာခင်မှာ ၎င်းက ဖြစ်လာတော့မယ်လို့ ကျွန်တော်၏ စိတ်ထဲမှာ သံသယမရှိပါဘူး။
+သိပ်မကြာခင်မှာ အဲဒါဖြစ်လာတော့မယ်လို့ ငါ့စိတ်ထဲမှာ လုံးဝသံသယမရှိဘူး။
+5/5
 
 3504
 Truthfully it does not look like it could happen.
-အမှန်အတိုင်းပြောရရင် ဒါဟာ ဖြစ်လာနိုင်ပုံ မပေါ်ပါဘူး။
+အမှန်အတိုင်းပြောရရင် ဒါဟာ ဖြစ်လာနိုင်ပုံ မပေါ်ဘူး။
+5/5
 
 3505
 Yes I do not think it could happen but there is always hope that it will.
-ဟုတ်တယ် ကျွန်တော် ဒါကို ဖြစ်မယ်လို့ မထင်ထား ပေမယ့် ၎င်း ထိုအတိုင်း ဖြစ်လာမယ်လို့ အမြဲ မျှော်လင့်နေမိတယ်။
+ဟုတ်တယ် ကျွန်တော် ဒါကို ဖြစ်မယ်လို့ မထင်ထား ပေမယ့် ဖြစ်လာမယ်လို့ဆိုတဲ့ မျှော်လင့်ချက် ေတာ့ အမြဲရှိတယ်။
+5/5
 
 3506
 Buffalo has the best team overall.
-ဘဖ်ဖလို ဟာ ယေဘုယျအားဖြင့် အကောင်းဆုံး အသင်းပါ။
+Buffalo မှာ ယေဘုယျအားဖြင့်ေတာ့ အကောင်းဆုံးအသင်း ရှိပါတယ်။
+5/5
 
 3507
 One of the two teams that Chicago lost to is Buffalo.
 ချီကာဂိုကို ရှုံးခဲ့တဲ့ အသင်း နှစ်သင်း ထဲက တစ်သင်း က ဘဖ်ဖလို ဖြစ်ပါတယ်။
+5/5
 
 3508
 Washington has lost every game.
-ဝါရှင်တန်သည် ပွဲစဉ် တိုင်းကို ရှုံးသွားပြီ။
+ဝါရှင်တန်က ပွဲစဉ် တိုင်းကို ရှုံးထားတယ်။
+5/5
 
 3509
 Clothing is tax-free.
 အဝတ်အထည်က အခွန်ကင်းလွတ်တယ်။
+5/5
 
 3510
 The sales tax is too high.
-အရောင်းအဝယ် အခွန်အခသည် အရမ်း မြင့်တယ်။
+အရောင်းခွန်က မြင့်လွန်းတယ်။
+5/5
 
 3511
 There is sales tax on clothing.
-အဝတ်အထည် မှာ အရောင်းအဝယ် အခွန် ရှိတယ်။
+အဝတ်အထည် မှာ အရောင်းခွန် ရှိပါတယ်။
+5/5
 
 3512
 I do like the vibe myself.
 ကျွန်တော်က ကိုယ့်ခံစားချက်တွေကိုကိုယ်တိုင် သဘောကျတယ်။
+2/5
 
 3513
 I do not like the negative energy this place gives off.
 ဒီ နေရာက ထုတ်ပေးတဲ့ အနုတ်လက္ခဏာ စွမ်းအင်ကို ငါ မကြိုက်ဘူး။
+3/5
 
 3514
 I feel pretty safe here which is why I like it.
 ငါ ဒါကို ဘာကြောင့် နှစ်သက်လည်းဆို ဒီနေရာက တော်တော် လုံခြုံတယ်လို့ ငါ ခံစားရလို့ပါ။
+4/5
 
 3515
 Most of their stuff broke at the same time.
-သူတို့ရဲ့ ပစ္စည်းတွေ အများစုဟာ တစ်ချိန်တည်းမှာပဲ ကွဲထွက်သွားပါတယ်။
+သူတို့ရဲ့ ပစ္စည်းတွေ အများစုဟာ တစ်ချိန်တည်းမှာပဲ ပျက်စီးသွားခဲ့တာ ဖြစ်တယ်။
+5/5
 
 3516
 None of their stuff broke.
-သူတို့ ပစ္စည်းတွေ တစ်ခုမှ မပျက်စီးသွားဘူး။
+သူတို့ ပစ္စည်းတွေ တစ်ခုမှ မပျက်စီးသွားခဲ့ပါဘူး။
+5/5
 
 3517
 Some of the broken stuff was valuable.
 ကျိုးပဲ့နေသော ပစ္စည်း အချို့သည် အဖိုးတန်ခဲ့သည်။
+3/5
 
 3518
 I have many children.
 ငါ့မှာ ကလေးတွေ အများကြီး ရှိတယ်။
+5/5
 
 3519
 I have one child, an eighteen-month-old daughter.
-ကျွန်တော့်မှာ ကလေး တစ်ယောက် ၊ ဆယ့်ရှစ်လအရွယ် သမီးလေး တစ်ယောက် ရှိတယ်။
+ငါ့မှာ ကလေး တစ်ယောက် ရှိတယ်၊ ဆယ့်ရှစ်လအရွယ် သမီးလေး တစ်ယောက် ဖြစ်ပါတယ်။
+5/5
 
 3520
 I would like to have more children.
 ကျွန်တော့်က ကလေးများကို ပိုပြီး ရှိချင်ပါတယ်။
+4/5
 
 3521
 She didny have any puppies.
-သူမမှာ ခွေးလေး တစ်ကောင်မှ မရှိဘူး။
+သူမမှာ ခွေးလေး တစ်ကောင်မှ မရှိခဲ့ဘူး။
+5/5
 
 3522
 The male had a tooth issue and the second puppy was from the litter.
-အထီးက သွား ပြဿနာ တစ်ခု ရှိခဲ့ ပြီး ဒုတိယ ခွေးကလေးကတော့ အမှိုက်ပုံးထဲမှ ဖြစ်ပါတယ်။
+အထီးေလးက သွားပြဿနာတစ်ခု ရှိခဲ့ ပြီး ဒုတိယ ခွေးကလေးကတော့ အမှိုက်ပုံးထဲမှ ဖြစ်ပါတယ်။
+5/5
 
 3523
 There was a total of 8 in the litter only the male had teeth issues.
-အမှိုက်ပုံးထဲတွင် စုစုပေါင်း ၈ ကောင်သာ ရှိခဲ့ ပြီး အထီးများတွင် သွား ပြဿနာများ ရှိခဲ့သည်။
+အမှိုက်ပုံးထဲမှာ စုစုပေါင်း ၈ ကောင် ရှိခဲ့ပြီး အထီးေကာင် ေလးမှာပဲ သွား ပြဿနာ ရှိခဲ့တယ်။
+5/5
 
 3524
 Do you like different types of food?
 အစားအသောက် အမျိုးအစား အမျိုးမျိုးကို သင် နှစ်သက်ပါသလား။
+5/5
 
 3525
 I hear you say you don't like trying new foods.
 မင်းက အစားအသောက် အသစ်တွေကို စမ်းသပ်ကြည့်ရတာ မကြိုက်ဘူးလို့ မင်း ပြောတာကို ငါ ကြားတယ်။
+5/5
 
 3526
 You must enjoy trying different ethnic foods.
-မတူညီတဲ့ တိုင်းရင်းသား အစားအစာတွေကို မြည်းစမ်းကြည့်ခြင်းက သင့်ကို ပျော်ရွှင်စေတယ်။
+မတူညီတဲ့ တိုင်းရင်းသား အစားအစာတွေကို မြည်းစမ်း ခံစားရတာကို မင်းကြိုက်တဲ့ပုံပဲ။
+5/5
 
 3527
 That is where you are calling from?
-ဒါကို မင်း ဘယ်ကခေါ်တာလဲ။
+ဒါကို မင်း ဘယ်ကခေါ်တာပါလဲ?
+4/5
 
 3528
 You are calling from a long distance.
 မင်းက အဝေးကြီးကနေ ခေါ်နေတာ။
+5/5
 
 3529
 You are not calling from there.
-မင်း အဲဒီကနေ မခေါ်ဘူး။
+မင်း အဲဒီကနေ ခေါ် ေနတာ မဟုတ်ဘူး။
+5/5
 
 3530
 Do you think that the local newspapers are not interested in what the citizens have to say?
-ပြည်တွင်း သတင်းစာတွေက ပြည်သူတွေ ဘာတွေပြောတာလည်းကို စိတ်မဝင်စားဘူးလို့ မင်း ထင်လား။
+ပြည်သူတွေက ဘာတွေပြောချင် ေနတာလဲ ဆိုတာကို ပြည်တွင်း သတင်းစာတွေက စိတ်မဝင်စားဘူးလို့ မင်း ထင်လား?
+5/5
 
 3531
 What do you think about national newspapers and their global coverage?
-နိုင်ငံပိုင် သတင်းစာတွေ နဲ့ သူတို့ရဲ့ ကမ္ဘာလုံးဆိုင်ရာ သတင်းယူခြင်းကို မင်း ဘယ်လိုထင်လဲ။
+နိုင်ငံပိုင် သတင်းစာတွေ နဲ့ သူတို့ရဲ့ ကမ္ဘာလုံးဆိုင်ရာ သတင်းေဖာ်ပြမှုေတွကို မင်း ဘယ်လိုထင်လဲ။
+4/5
 
 3532
 What is your opinion on how the papers treat the local news?
-စာတမ်းတွေက ပြည်တွင်း သတင်းတွေကို ဘယ်လို သဘောထားသလဲဆိုတာ မင်း ထင်မြင်ချက်က ဘာလည်း။
+သတင်းစာတွေက ပြည်တွင်း သတင်းတွေကို ဘယ်လို သဘောထားသလဲဆိုတဲ့ အ ေပါ်မှာ မင်းရဲ့ ထင်မြင်ချက်က ဘာလဲ?
+4/5
 
 3533
 I don't wear dress clothes often.
-ကျွန်တော် မကြာခဏ ဝတ်စားဆင်ယင်ရမယ့် ၀တ်စုံတွေကို မဝတ်ပါ။
+ကျွန်တော် ဝတ်စားဆင်ယင်ရမယ့် ၀တ်စုံတွေကို မကြာခဏ မဝတ်ပါ။
+2/5
 
 3534
 I enjoy getting dressed up.
-ကျွန်တော်က ဝတ်ဆင်ရတာကို နှစ်သက်တယ်။
+ကျွန်တော်က ဝတ် ေကာင်းစားလှ ဝတ်ဆင်ရတာကို နှစ်သက်တယ်။
+5/5
 
 3535
 I wear dress clothes all the time.
 ငါ တစ်ချိန်လုံး ဝတ်စားဆင်ယင်ရမယ့် ၀တ်စုံတွေကို ဝတ်တယ်။
+2/5
 
 3536
 It would be worth it to work for a larger company if they gave me money for college.
 သူတို့သည် ကောလိပ် အတွက် ကျွန်တော့်ကို ပိုက်ဆံ ပေးခဲ့ လျှင် ပိုကြီးမားတဲ့ ကုမ္ပဏီ တစ်ခုအတွက် အလုပ်လုပ်ရကျိုးနပ်ပါလိမ့်မယ်။
+4/5
 
 3537
 No companies help with education costs no matter how large or small.
 မည်မျှ ကြီးသည်ဖြစ်စေ သေးငယ်သည်ဖြစ်စေ ဘယ်လိုပဲဖြစ်ဖြစ် ပညာရေးဆိုင်ရာ ကုန်ကျစရိတ်တွေကို ကုမ္ပဏီတွေက ကူညီပေးခြင်းမရှိဘူး။
+4/5
 
 3538
 Sometimes larger companies help you pay for education.
 တစ်ခါတစ်ရံတွင် ပိုကြီးမားသော ကုမ္ပဏီများသည် သင့်အား ပညာရေး အတွက် ပေးဆောင်ရန် ကူညီပေးသည်။
+4/5
 
 3539
 Why don't you explain your book to us all.
-မင်းရဲ့ စာအုပ်ကို ငါတို့ အားလုံးကို ဘာလို့ မရှင်းပြတာလဲ။
+မင်းရဲ့ စာအုပ်ကို ငါတို့ အားလုံးကို ရှင်းပြပေးပါလား။
+4/5
 
 3540
 Why don't you go first.
-မင်း ဘာကြောင့် အရင် မသွားတာလဲ။
+ရပါတယ် မင်းအရင်သွားလိုက်ပါ။
+5/5
 
 3541
 You should go last because you don't know anything.
-မင်း ဘာမှမသိလို့ မင်း နောက်ဆုံးတော့ သွားသင့်တယ်။
+မင်း ဘာမှမသိလို့ မင်း နောက်ဆုံးမှ သွားသင့်တယ်။
+5/5
 
 3542
 Are you happy with network news coverage?
 ကွန်ရက် သတင်းတွေ လွှမ်းခြုံလို့ မင်း ပျော်ရွှင်နေပါသလား။
+2/5
 
 3543
 I guess you don't ever watch network news.
-ကွန်ရက် သတင်းတွေကို မင်း အမြဲ မကြည့်ဖူးလို့ ငါ ထင်ပါတယ်။
+ကွန်ရက် သတင်းတွေကို မင်း ဘယ်တုန်းကမှ မကြည့်ဘူးလို့ ငါ ထင်တယ်။
+4/5
 
 3544
 I think the networks spin the news to make you think what they want you to think.
-ကွန်ရက်တွေက မင်းကို သူတို့ တွေးစေချင်တာကို မင်း တွေးစေဖို့အတွက် သတင်းတွေကို လှည့်ပတ်နေတယ်လို့ ငါ ထင်ပါတယ်။
+ကွန်ရက်တွေက သူတို့ တွေးစေချင်တာကို မင်း တွေးစေဖို့အတွက် သတင်းတွေကို လှည့်ပတ်နေတယ်လို့ ငါ ထင်တယ်။
+4/5
 
 3545
 Did you visit any European museums?
-မည်သည့် ဥရောပ ပြတိုက်ကိုမဆို သင် သွားလည်ဖူးပါသလား။
+ဥရောပက ဘယ်ပြတိုက်ကို မင်း သွားလည်ခဲ့သလဲ?
+5/5
 
 3546
 Did you visit any museums in Canada?
-သင်သည် ကနေဒါရှိ မည်သည့် ပြတိုက်ကိုမဆို သွားလည်ဖူးပါသလား။
+ကနေဒါရှိ က ဘယ်ပြတိုက်ကို မင်း သွားလည်ခဲ့သလဲ?
+4/5
 
 3547
 I bet you loved visiting Europe.
-ဥရောပကို လာလည်ရတာ မင်း ကြိုက်တယ် လို့ ငါ ထင်ပါတယ်။
+ဥရောပကို သွားလည်ခဲ့ရတာကို မင်းကြိုက်တယ် လို့ ငါ ထင်ပါတယ်။
+5/5
 
 3548
 Does your husband like your t-shirt?
-သင့် ခင်ပွန်းသည် သင့် တီရှပ်ကို နှစ်သက်ပါသလား။
+နင့် ေယာကျာ်းက နင့် တီရှပ်ကို ကြိုက်လား။
+5/5
 
 3549
 What does your sister think about your dress?
 မင်းရဲ့ ဝတ်စားဆင်ယင်မှုနဲ့ ပတ်သက်ပြီး မင်းရဲ့ ညီမက ဘယ်လိုထင်လဲ။
+5/5
 
 3550
 Your t-shirt is very nice.
 မင်းရဲ့ တီရှပ်က အရမ်း ကောင်းတယ်။
+5/5
 
 3551
 It got voted down because people didn't want to get out and vote.
-ပြည်သူတွေက အပြင်ထွက်ပြီး မဲမပေးချင်ကြတာကြောင့် မဲနှိုက်ခဲ့တာ ဖြစ်ပါတယ်။
+ပြည်သူတွေက အပြင်ထွက်ပြီး မဲမပေးချင်ကြတာကြောင့် မဲအရနည်းခဲ့တယ်။
+5/5
 
 3552
 It lost by not very many votes.
-၎င်းသည် မဲ အရေအတွက် များများစားစား မရှိလို့ ရှုံးတယ်။
+မဲ အရေအတွက် များများစားစား မကွာဘဲနဲ့ ရှုံးခဲ့တယ်။
+4/5
 
 3553
 It passed by a 99% margin.
-၎င်းက ၉၉% အတိုင်းအတာ တစ်ခု ဖြင့် ကျော်သွားသည်။
+၉၉% အသာဖြင့် ၄င်းကို အတည်ပြုခဲ့သည်။
+4/5
 
 3554
 The hay horse races are fun.
 မြက်ခြောက် မြင်းပြိုင်ပွဲတွေက ပျော်စရာကောင်းတယ်။
-# REVIEW 
-# hay horse races
+2/5
+# REVIEW # hay horse races
 
 3555
 There are hay horse races at the tracks at Oaklawn.
 အုတ်ခ်လွမ် ရှိ လမ်းများတွင် မြက်ခြောက် မြင်းပြိုင်ပွဲတွေ ရှိသည်။
+2/5
 # REVIEW 
 # hay horse races
 
 3556
 There are no races at Oaklawn tracks.
-အုတ်ခ်လွမ် လမ်းများတွင် ပြိုင်ပွဲများ မရှိပါ။
+Oaklawn ပြိုင်ကွင်းမှာ ပြိုင်ပွဲများ မရှိပါ။
+5/5
 
 3557
 They are not very good in rural areas.
-ဒါတွေက ကျေးလက် ဒေသတွေမှာ အရမ်း မကောင်းဘူး။
+သူတို့ ေတွက ကျေးလက် ဒေသတွေမှာ အရမ်း မကောင်းဘူး။
+5/5
 
 3558
 They are really good in urban areas.
 သူတို့က မြို့ပြ ဒေသတွေမှာ တကယ် ကောင်းတယ်။
+5/5
 
 3559
 They are very good in both urban and rural areas.
 သူတို့က မြို့ပြ နှင့် ကျေးလက် နှစ်ခုလုံးမှာ အရမ်း ကောင်းပါတယ်။
+5/5
 
 3560
 They were made out of a cheaper metal.
 ၎င်းတို့ကို စျေးသက်သာသော သတ္တု တစ်ခု ဖြင့် ပြုလုပ်ထားသည်။
+5/5
 
 3561
 They were made out of pure copper.
 ၎င်းတို့ကို ကြေးနီ စစ်စစ်ဖြင့် ပြုလုပ်ထားသည်။
+5/5
 
 3562
 They were very flimsy pans.
-ဒါတွေက အရမ်း ကျိုးပဲ့လွယ်သော ဒယ်အိုးတွေပါ။
+ဒါတွေက အရမ်း ကျိုးပဲ့လွယ်တဲ့ ဒယ်အိုးတွေပါ။
+5/5
 
 3563
 They are easy to slide through.
 ၎င်းတို့သည် ဖြတ်၍ လျှောဆင်းရန် လွယ်ကူသည်။
+5/5
 
 3564
 They go in the opening.
 သူတို့သည် အပေါက်ထဲကို စွန့်ပစ်လိုက်သည်။
+2/5
 
 3565
 They go in the trash.
 သူတို့သည် အမှိုက်ပုံးထဲ စွန့်ပစ်လိုက်သည်။
+2/5
 
 3566
 Could the interest be more than 20?
-အတိုးက ၂၀ထက် ပိုများနိုင်သလား။
+အတိုးက ၂၀ထက် ပိုများနိုင်သလား?
+5/5
 
 3567
 Is the interest percent 20?
-အတိုး ရာခိုင်နှုန်း ၂၀ ရှိပါသလား။
+အတိုးက ရာခိုင်နှုန်း ၂၀ လား?
+5/5
 
 3568
 There is no interest.
 အတိုးနှုန်းထား မရှိပါဘူး။
+5/5
 
 3569
 I was just a little bit scared.
-ကျွန်တော် နည်းနည်းတော့ ကြောက်သွားတယ်။
+ကျွန်တော် နည်းနည်းတော့ ကြောက်သွားခဲ့တယ်။
+5/5
 
 3570
 I was still scared.
-ကျွန်တော် ကြောက်နေတုန်းပဲ။
+ကျွန်တော် ကြောက်နေခဲ့တုန်းပဲ။
+5/5
 
 3571
 It didn't scare me.
-၎င်းက ငါ့ကို မကြောက်ဘူး။
+အဲဒါကို ငါ မကြောက်ခဲ့ဘူး။
+5/5
 
 3572
 Robbers don't like dogs because they are loud and often bite them.
 ဓားပြတွေက ခွေးတွေကို မကြိုက်ပါဘူး ဘာလို့လည်းဆိုတော့ သူတို့က အသံကျယ်လောင် ပြီး သူတို့ကို မကြာခဏ ကိုက်လို့ပါ။
+5/5
 
 3573
 Robbers don't like dogs.
 ဓားပြတွေက ခွေးတွေကို မကြိုက်ဘူး။
+5/5
 
 3574
 Robbers know dogs will be quiet soon.
 ဓားပြတွေက မကြာခင် ခွေးတွေ ငြိမ်သွားမှာကို သိတယ်။
+5/5
 
 3575
 I don't like funny shows.
-ဟာသ ဖျော်ဖြေမှုတွေကို ကျွန်တော် မကြိုက်ဘူး။
+ဟာသ ဖျော်ဖြေပွဲတွေကို ကျွန်တော် မကြိုက်ဘူး။
+5/5
 
 3576
 I like watching funny shows.
 ဟာသ ဖျော်ဖြေမှုတွေကို ကြည့်ရတာ ကျွန်တော် ကြိုက်တယ်။
+5/5
 
 3577
 I may have to watch this new comedy show.
-ဒီ ဟာသ ဖျော်ဖြေမှု အသစ်ကို ကျွန်တော် ကြည့်ရဖို့ရှိတယ်။
+ဒီ ဟာသ ဖျော်ဖြေပွဲ အသစ်ကို ကျွန်တော် ကြည့်ရဖို့ရှိတယ်။
+5/5
 
 3578
 I also look at what is affordable to them.
-သူတို့အတွက် ဘာတတ်နိုင်လဲ ဆိုတာကို ကျွန်တော် လည်းပဲ ကြည့်မိပါတယ်။
+သူတို့ တတ်နိုင်တဲ့ဟာဘာ ဆိုတာကို ကျွန်တော် လည်းပဲ ကြည့်ပါတယ်။
+4/5
 
 3579
 I don't care about what they can afford.
 သူတို့ ဘာတတ်နိုင်လဲဆိုတာ ငါ ဂရုမစိုက်ဘူး။
+5/5
 
 3580
 They can not usually afford too much.
 များသောအားဖြင့်တော့ သူတို့ အများကြီး မတတ်နိုင်ကြပါဘူး။
+5/5
 
 3581
 I am not quite sure but perhaps it is so.
-ငါ လုံးဝ မသေချာ ပေမယ့် ၎င်းက ဖြစ်ကောင်းဖြစ်နိုင်တယ်။
+ငါ လုံးဝ မသေချာ ပေမယ့် အဲဒါက ဖြစ်ကောင်းဖြစ်နိုင်တယ်။
+5/5
 
 3582
 I do not recall completely since I drank quite a bit of wine last night.
-ကျွန်တော် မနေ့ ညက ဝိုင် နည်းနည်း သောက်ပြီး ကတည်းက ကျွန်တော် လုံးဝကို မမှတ်မိတော့ဘူး။
+ကျွန်တော် မနေ့ ညက ဝိုင် ေတာ်ေတာ်ေလး သောက်ပြီး ကတည်းက ကျွန်တော် လုံးဝကို မမှတ်မိတော့ဘူး။
+5/5
 
 3583
 My memory is crystal clear of what happened that night.
 အဲဒီ ညက ဘာတွေ ဖြစ်ပျက်ခဲ့လည်းဆိုတာ ကျွန်တော့်ရဲ့ မှတ်ဉာဏ်တွေက ကြည်လင် ပြတ်သားနေတယ်။
+5/5
 
 3584
 Do you feel death may be a little to harsh of a punishment for theft?
 သေဒဏ်သည် ခိုးမှု အတွက် အနည်းငယ် ပြင်းထန်သော ပြစ်ဒဏ် တစ်ခု ဖြစ်နေတယ်လို့  သင်ခံစားရပါသလား။
+5/5
 
 3585
 You think that the right punishment for someone who steals a TV is death.
-တီဗွီ တစ်လုံးကို ခိုးယူသူ တစ်စုံတစ်ယောက် အတွက် မှန်ကန်သော ပြစ်ဒဏ်သည် သေဒဏ် ဖြစ်သည်ဟု သင်ထင်ပါသလား။
+တီဗွီ တစ်လုံးကို ခိုးယူသူ တစ်ဦးတစ်ယောက် အတွက် မှန်ကန်သော ပြစ်ဒဏ်သည် သေဒဏ် ဖြစ်သည်ဟု သင်ထင်ပါသလား။
+5/5
 
 3586
 You think the best option for tv theft is too just let them go.
 တီဗွီ ခိုးယူခြင်း အတွက် အကောင်းဆုံး ရွေးချယ်မှုမှာ ၎င်းတို့ကို လွှတ်လိုက်ရုံပင် ဖြစ်သည် ဟု သင် ထင်သည်။
+3/5
 
 3587
 I really love the beach because of how clean and well kept it is.
-၎င်းကို သန့်ရှင်း ပြီး ကောင်းမွန်စွာ ထိန်းသိမ်းထား သောကြောင့် အဆိုပါ ကမ်းခြေကို ကျွန်‌တော် လုံးဝ သဘောကျပါတယ်။
+သန့်ရှင်း ပြီး ကောင်းမွန်စွာ ထိန်းသိမ်းထား သောကြောင့် ဒီကမ်းခြေကို ကျွန်‌တော် လုံးဝ သဘောကျပါတယ်။
+5/5
 
 3588
 One of my favorite places to visit is the beach since it is so pretty, what is your favorite place to visit?
-လည်ပတ်ရန် ကျွန်တော်ရဲ့ သဘောကျသော နေရာအများကြီးထဲက တစ်ခုကတော့ ကမ်းခြေ ဖြစ်ပါတယ် ၎င်းက အရမ်း လှပတာကြောင့်ပါ ၊ လည်ပတ်ရန် မင်း သဘောကျတဲ့ နေရာက ဘာလည်း?
+လည်ပတ်ဖို့ ေနရာေတွထဲမှာ ငါ အကြိုက်ဆုံးေနရာေတွ တော်ရဲ့ သဘောကျသော နေရာအများကြီးထဲက တစ်ခုကတော့ ကမ်းခြေ ဖြစ်ပါတယ်၊ အရမ်း လှပတာကြောင့်ပါ ၊ လည်ပတ်ရန် မင်း သဘောကျတဲ့ နေရာက ဘာလဲ?
+ 4/5
 
 3589
 The best place to go in my opinion is to camp out in the woods.
-ကျွန်တော့် အမြင်အရတော့ သွားရန် အကောင်းဆုံး နေရာကတော့ တောထဲမှာ စခန်းချဖို့ ဖြစ်ပါတယ်။
+ကျွန်တော့် အမြင်အရတော့ သွားရန် အကောင်းဆုံး နေရာကတော့ တောအုပ်ထဲမှာ စခန်းချဖို့ ဖြစ်ပါတယ်။
+5/5
 
 3590
 Do not put any ads up.
-မည်သည့် ကြော်ငြာကိုမှ မတင်ပါနဲ့။
+ဘယ် ကြော်ငြာကိုမှ မတင်ပါနဲ့။
+5/5
 
 3591
 Put a soft drink ad up.
 အချိုရည် ကြော်ငြာ တစ်ခု ကို တင်ပါ။
+5/5
 
 3592
 Put an ad for Coke in there.
-ထိုနေရာတွင် ကုခ် အတွက် ကြော်ငြာ တစ်ခု ထည့်ပါ။
+အဲဒီနေရာမှာ Coke အတွက် ကြော်ငြာ တစ်ခု ထည့်ပါ။
+5/5
 
 3593
 I hope you have a great morning! It was nice chatting with you online.
 ကောင်းသော နံနက်ခင်း တစ်ခု ဖြစ်မည်ဟု ကျွန်တော် မျှော်လင့်ပါသည်! အွန်လိုင်းမှာ သင်နဲ့ စကားပြောရတာ ကောင်းပါတယ်။
+4/5
 
 3594
 I think I know why I'm not well but I do not want to tell you.
 ငါ ဘာလို့ နေမကောင်းဘူးလဲဆိုတာ ငါ သိတယ်လို့ ငါ ထင်ပေမယ့် ငါ မင်းကို မပြောချင်ဘူး။
+5/5
 
 3595
 I'm not certain but I'm kinda fine, it was nice to speak with you tonight.
-ငါ မသေချာ ပေမယ့် ငါ အတော်လေး အဆင်ပြေပါတယ် ၊ ဒီည မင်း နဲ့ စကားပြောရတာ ကောင်းပါတယ်။
+ငါ မသေချာ ပေမယ့် ငါ အဆင်ပြေ သလိုေတာ့ရှိပါတယ် ၊ ဒီည မင်း နဲ့ စကားပြောရတာ ကောင်းပါတယ်။
+5/5
 
 3596
 Do you think that a five day holding period would be worth the wait for some people?
 ငါးရက်ကြာ ကျင်းပခဲ့သော ကာလအပိုင်းအခြားသည် လူတချို့အတွက် စောင့်ရတာ တန်လိမ့်မယ်လို့ သင် ထင်ပါသလား။
+2/5
 
 3597
 What about having a five day hold on those looking to purchase firearms?
 ခြောက်လုံးပြူးသေနတ် ဝယ်ရန် ရှာဖွေနေသူများက ငါးရက်ကြာ ဘာကို ဆုပ်ကိုင်ထားရမလည်း။
+2/5
 
 3598
 What about having them just wait five minutes outside before being handed a permit?
-ခွင့်ပြုချက် တစ်ခု မအပ်ခင် အပြင်မှာ ငါးမိနစ်လောက် သူတို့ကို ဘာကို စောင့်ခိုင်းထားရမလည်။
+ခွင့်ပြုချက် တစ်ခု မအပ်ခင် အပြင်မှာ ငါးမိနစ်လောက် သူတို့ကို ဘာကို စောင့်ခိုင်းထားရမလဲ?
+3/5
 
 3599
 I much rather a lazy indoor dog than an active one that would want to be outdoors all day long.
 ငါက တစ်နေ့လုံး အပြင်မှာ နေချင်တဲ့ တက်ကြွတဲ့ ခွေးတစ်ကောင်ထက် ပျင်းတဲ့ အိမ်တွင်း ခွေး တစ်ကောင်ကို ပိုကြိုက်တယ်။
+5/5
 
 3600
 I really like all types of outdoor dogs since they are all good boys.
 အပြင် ခွေး အမျိုးအစား အားလုံးကို ကျွန်တော်က အရမ်းကြိုက်တယ် ဘာလို့လည်းဆို သူတို့အားလုံးက ကောင်းမွန်တဲ့ ကောင်လေးတွေမို့လို့ ပါ။
+5/5

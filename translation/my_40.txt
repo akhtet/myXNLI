@@ -1,450 +1,499 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 3901
 There is a sign to say you have an alarm.
 မင်းမှာ သတိပေးချက်တစ်ခု ရှိတာ ပြောဖို့ သင်္ကေတ တစ်ခု ရှိတယ်။
+#4/5
 
 3902
 I don't know and I don't care at all.
 ငါမသိဘူး ပြီးတော့ ငါ အားလုံးကို ဂရုမစိုက်ဘူး။
+#5/5
 
 3903
 I really wish i knew about that.
 ငါ ဒါနဲ့ပတ်သက်ပြီး ငါသိဖို့ တကယ် ဆုတောင်းတယ်။
+#5/5
 
 3904
 I wish I knew where he had disappeared to.
 သူ ဘယ်နေရာမှာ ပျောက်ဆုံးသွားခဲ့လဲဆိုတာ ငါ သိချင်ပါတယ်။
+#5/5
 
 3905
 I would suggest you pay it now before you forget.
-မင်းမမေ့ခင် ဒါကို အခု ပေးမယ်လို့ ငါ ယူဆတယ်။
+မင်းမမေ့ခင် ဒါကို အခု ပေးပါလို့ ငါ အကြံပြုပါတယ်။
+#5/5
 
 3906
 When it gets towards the end of the month you can pay the balance.
 လကုန်ရောက်ရင် မင်း လက်ကျန်ငွေကို ပေးချေနိုင်တယ်။
+#5/5
 
 3907
 You do not need to worry about paying it at all.
 အကုန်ပေးချေနိုင်ဖို့အတွက် မင်း လုံးဝ စိတ်ပူစရာမလိုဘူး။
+#5/5
 
 3908
 I'm single, never married.
 ငါ က တစ်ကိုယ်ရေ တစ်ကာယ သမား၊ ဘယ်တော့မှ လက်မထပ်ဘူး။
+#5/5
 
 3909
 My husband and I have six kids total.
 ငါ့ ခင်ပွန်း နဲ့ ငါ့မှာ စုစုပေါင်း ကလေး ခြောက်ယောက်ရှိတယ်။
+#5/5
 
 3910
 My spouse and I have six of them.
 ငါ့အိမ်ထောင်ဖက်နဲ့ ငါ့မှာ သူတို့ ခြောက်ယောက်ရှိတယ်။
+#5/5
 
 3911
 I don't have any children.
 ငါ့မှာ ဘယ် ကလေးမှ မရှိဘူး။
+#5/5
 
 3912
 I don't know how much daycare costs because I don't have children.
 ငါ့မှာ ကလေးမရှိလို့ နေ့ကလေးထိန်း ကုန်ကျစရိတ် ဘယ်လောက်လဲဆိုတာ ငါမသိဘူး။
+#5/5
 
 3913
 I have seven kids so I know what you're talking about!
 ငါ့မှာ ကလေး ခုနစ်ယောက်ရှိတယ်ဆိုတော့ မင်း ဘာအကြောင်းပြောနေလဲဆိုတာ ငါသိတယ်။
+#5/5
 
 3914
 It's a felony to have a handgun in public in Texas.
 တက္ကဆက်ပြည်နယ်တွင် လူမြင်ကွင်းမှာ သေနတ်ကိုင်ဆောင်ခြင်းသည် ရာဇ၀တ်မှုတစ်ခုဖြစ်သည်။
+#5/5
 
 3915
 You can take a handgun anywhere you want in Texas!
 သေနတ် တစ်လက် ကို မင်းဆန္ဒရှိတဲ့ တက္ကဆက်ရဲ့ ဘယ်နေရာမဆို မင်း ယူသွားနိုင်တယ်။
+#5/5
 
 3916
 You can't carry a handgun in Texas outside of your house.
 တက္ကဆက်မှာ သေနတ်တစ်လက်ကို မင်းအိမ်အပြင်ဘက်မှာ ကိုင်ဆောင်ထားလို့မရဘူး။
+#5/5
 
 3917
 A Texas teacher died from HIV.
-တက္ကဆက် ဆရာတစ်ဦး HIV ပိုးကြောင့် သေဆုံးတယ်။
+တက္ကဆက်မှ ဆရာတစ်ဦး HIV ပိုးကြောင့် သေဆုံးတယ်။
+#5/5
 
 3918
 A Texas teacher fought AIDS for a decade but finally died last year.
 တက္ကဆက်မှ ဆရာတစ်ဦးသည် AIDS ရောဂါကို ဆယ်စုနှစ်တစ်ခုကြာ တိုက်ထုတ်ခဲ့သော်လည်း နောက်ဆုံးတွင် မနှစ်က သေဆုံးခဲ့တယ်။
+#5/5
 
 3919
 I have never been to Texas.
 ငါ တက္ကဆက် ကို မရောက်ဖူးဘူး။
+#5/5
 
 3920
 The ushers don't care where you go.
 ဧည့်ကြိုတွေက မင်းဘယ်သွားမှာလဲကို ဂရုမစိုက်ဘူး။
+#5/5
 
 3921
 The ushers won't let you go to the next level of the stadium.
 မင်းကို ဧည့်ကြိုတွေက အားကစားရုံရဲ့ နောက် တစ်ဆင့် ကို သွားခွင့်မပြုဘူး။
+#5/5
 
 3922
 The ushers won't let you pass.
 ဧည့်ကြိုတွေက မင်းကို ဖြတ်သွားခွင့်မပြုဘူး။
+#5/5
 
 3923
 She insists that everyone use her full name.
 သူမက လူတိုင်းကို သူမနာမည် အပြည့်အစုံကို သုံးဖို့ အပြင်းအထန် တောင်းဆိုတယ်။
+#5/5
 
 3924
 She is named Sam because she's a tomboy.
-သူမက ယောက်ျားလျာ တစ်ယောက်မို့ သူမက ဆမ် လို့ နာမည်ခေါ်တယ်။
+သူမက ယောက်ျားလျာ တစ်ယောက်မို့ သူမကို ဆမ် လို့ နာမည်ခေါ်တယ်။
+#5/5
 
 3925
 She is named Sam even though it's a boy name.
-ဒါက ယောက်ျားလေး နာမည် တစ်ခု ဖြစ်သော်လည်းဘဲ သူမက ဆမ် လို့ နာမည်ခေါ်တယ်။
+ဒါက ယောက်ျားလေး နာမည် တစ်ခု ဖြစ်သော်လည်းဘဲ သူမကို ဆမ် လို့ နာမည်ခေါ်တယ်။
+#5/5
 
 3926
 I think a lot of people end up in that position, which is dire.
 လူအတော်များများ ကြောက်စရာကောင်းတဲ့ ၊ ဒီနေရာမှာ အဆုံးသတ်သွားတယ် လို့ ငါထင်တယ်။
+#5/5
 
 3927
 I think everyone is doing great and have no worries!
 လူတိုင်းက ပူပင်သောကမရှိဘဲ ပြောင်မြောက်စွာ လုပ်ဆောင်နေကြတယ်လို့ ငါထင်တယ်။
+#5/5
 
 3928
 I think people end up with no retirement savings, which is terrible.
 လူတွေက အငြိမ်းစား စုဆောင်းငွေ မရှိဘဲ ၊ ဆိုးဆိုးရွားရွား အဆုံးသတ်သွားတယ်လို့ ငါထင်တယ်။
+#4/5
 
 3929
 I try not to go outside the corporation because I like to save money.
 ငွေစုရတာကြိုက်လို့ ကော်ပိုရေးရှင်းရဲ့ အပြင်ဘက်ကို မသွားဖို့ ငါကြိုးစားတယ်။
+#5/5
 
 3930
 If you go just a little bit out of the corporation you can actually save yourself a lot of money.
 ကော်ပိုရေးရှင်း ကနေ အပြင် နည်းနည်း ထွက်လိုက်ရင် မင်း က တကယ်ကို မင်းကိုယ်တိုင် ငွေ အများကြီး ချွေတာနိုင်တယ်။
+#5/5
 
 3931
 If you got beyond your corporation it will cost you a lot of money.
 မင်း ကော်ပိုရေးရှင်း ကို ကျော်သွားရင် ဒါက မင်းကို ငွေ အများကြီး ကုန်စေလိမ့်မယ်။
+#4/5
 
 3932
 I am eager for that!
 ဒါအတွက် ငါ စိတ်အားထက်သန်တယ်!
+#5/5
 
 3933
 I am really dreading it, to be honest.
 ရိုးရိုးသားသား ပြောရရင် ၊ ငါ တကယ်ကို ကြောက်တယ်။
+#5/5
 
 3934
 I'm anxious to talk to you next week!
 နောက်တစ်ပတ် မင်းကို စကားပြောဖို့ ငါ စိုးရိမ်သောက ရောက်နေတယ်!
+#5/5
 
 3935
 I don't own any electronics.
 ငါ ဘယ် လျှပ်စစ် ပစ္စည်းမှ မပိုင်ဆိုင်ဘူး။
+#5/5
 
 3936
 I have an Apple and an HP computer at home.
-ငါ့အိမ်မှာ အက်ပဲလ် တစ်လုံး နဲ့ အိပ်ရှ်ဖီ ကွန်ပျူတာ တစ်လုံး ရှိတယ်။
+ငါ့အိမ်မှာ Apple တစ်လုံး နဲ့ HP ကွန်ပျူတာ တစ်လုံး ရှိတယ်။
+#5/5
 
 3937
 I have two computers in my house.
 ငါ့အိမ်မှာ ကွန်ပျူတာ နှစ်လုံး ရှိတယ်။
+#5/5
 
 3938
 I never eat salad- gross!
-ငါ အသုတ် မစားဖူးဘူး!
+ငါ အရွက်သုတ် မစားဖူးဘူး!
+#5/5
 
 3939
 I occasionally like to eat a vegetarian salad on the deck.
-ငါ တခါတရံ သင်္ဘော ကုန်းပတ်ပေါ်မှာ သက်သက်လွတ်အသုတ် တစ်ပွဲ စားရတာကြိုက်တယ်။
+ငါ တခါတရံ သင်္ဘော ကုန်းပတ်ပေါ်မှာ သက်သက်လွတ်အရွက်သုတ် တစ်ပွဲ စားရတာကြိုက်တယ်။
+#5/5
 
 3940
 I occasionally like to eat salad.
 ငါ တခါတရံ အသုတ်စားရတာ ကြိုက်တယ်။
+#5/5
 
 3941
 I have done this a million times!
 ငါ ဒါကို အကြိမ် သန်းနဲ့ချီ လုပ်ပြီးပြီ။
+#5/5
 
 3942
 This is only my second time.
 ဒါက ငါ့ရဲ့ ဒုတိယ အကြိမ်သာ ဖြစ်တယ်။
+#5/5
 
 3943
 This is only the second time I've gone to that museum.
 ငါ အဲဒီ ပြတိုက်ကို သွားခဲ့တာ ဒါက ဒုတိယ အကြိမ်သာ ဖြစ်တယ်။
+#5/5
 
 3944
 Texas Instruments has a lot of secret projects.
 တက္ကဆက် တူရိယာ များတွင် လျှို့ဝှက် စီမံကိန်း များစွာ ရှိသည်။
+#4/5
 
 3945
 Texas Instruments makes bombs that are top-secret.
 တက္ကဆက် တူရိယာ များက ထိပ်တန်း လျှို့ဝှက်ချက်ဖြစ်သော ဗုံးများ ပြုလုပ်သည်။
+#5/5
 
 3946
 Texas Instruments only makes calculators.
 တက္ကဆက် တူရိယာ များသည် ဂဏန်း တွက်စက် များ ကိုသာ ပြုလုပ်သည်။
+#5/5
 
 3947
 It's very safe and therea re no problems.
 ဒါက အလွန် လုံခြုံပြီးတော့ ဘာပြဿနာတွေမှ မရှိဘူး။
+#5/5
 
 3948
 That highway is so scary, with accidents occuring every day.
 ဒီအဝေးပြေးလမ်းမကြီးက နေ့တိုင်း မတော်တဆ ထိခိုက်မှု တွေ ဖြစ်ပွားနေလို့ ၊ တော်တော်ကြောက်ဖို့ကောင်းတယ်။
+#5/5
 
 3949
 There are a lot of accidents there.
 ဒီနေရာမှာ မတော်မဆ ထိခိုက်မှုတွေ အများကြီး ရှိတယ်။
+#5/5
 
 3950
 I truly liked that.
 ငါ ဒါကို တကယ့်ကို ကြိုက်တယ်။
+#5/5
 
 3951
 I would love to have another since I found it to be so nice.
 အရမ်းလှတာတွေ့ကတည်းက တခြား တစ်ယောက် ကို ချစ်ချင်တယ်။
+#5/5
 
 3952
 That was beyond disgusting!
 ဒါက ရွံမုန်းစရာ ကောင်းတာထက် ပိုတယ်။
+#5/5
 
 3953
 I don't think we should get involved in gun control.
 ငါတို့ လက်နက်ထိန်းချုပ်မှုမှာ ပါဝင်သင့်တယ်လို့ ငါ မထင်ဘူး။
+#5/5
 
 3954
 I think there should be rules about automatic guns.
 ဒီမှာ မောင်းပြန် သေနတ် နဲ့ ပတ်သက်တဲ့ စည်းမျဉ်းစည်းကမ်းတွေ ရှိသင့်တယ် လို့ ငါထင်တယ်။
+#5/5
 
 3955
 I think they should ban all automatic weapons immediately.
 သူတို့ မောင်းပြန် လက်နက် အားလုံးကို ချက်ချင်း တားမြစ်ပိတ်ပင်သင့်တယ်လို့ ငါထင်တယ်။
+#5/5
 
 3956
 It doesnt make sense to me how someone can sell technology and military hardware to a foreign government and then pay no mind to their debt.
 တစ်စုံတစ်ယောက်သည် နည်းပညာနှင့် စစ်ဘက်ဆိုင်ရာ စက်ပစ္စည်းများကို နိုင်ငံခြားအစိုးရထံ ဘယ်လိုရောင်းပြီး သူတို့၏ အကြွေးကို မပေးဘဲနေနိုင်သည်မှာ ငါ့အတွက် အဓိပ္ပါယ်မရှိဘူး။
+#5/5
 
 3957
 It makes total sense to sell off secrets to other countries for nothing in return.
 တခြားနိုင်ငံတွေကို ဘာမှပြန်မရဘဲ လျှို့ဝှက်ချက်တွေကို ရောင်းလိုက်တာက လုံးဝကို အဓိပ္ပါယ်ရှိပါတယ်။
+#5/5
 
 3958
 Many presidents have foreign a debt from another country.
 သမ္မတ တော်တော်များများ တခြားနိုင်ငံက နိုင်ငံခြားချေးငွေ တွေ ရှိတယ်။
+#5/5
 
 3959
 What could make you feel more comfortable with that decision?
 မင်းကို ဒီဆုံးဖြတ်ချက်က ပိုပြီးသက်တောင့်သက်သာ ရှိတယ်လို့ ဘာက ခံစားမိစေတာလဲ။
+#5/5
 
 3960
 Why are you not comfortable with that decision?
 မင်းက ဘာကြောင့် ဒီဆုံးဖြတ်ချက်မှာ သက်တောင့်သက်သာ မရှိတာလဲ။
+#5/5
 
 3961
 You are comfortable with that decision.
 မင်းက ဒီဆုံးဖြတ်ချက်နဲ့ သက်တောင့်သက်သာရှိတယ်။
+#5/5
 
 3962
 I spend more than $200 every time I go to the doctor.
 ဒေါက်တာဆီ သွားတဲ့ အချိန်တိုင်း ငါ $ ၂၀၀ ကျော် ကုန်တယ်။
+#5/5
 
 3963
 My health care is always free!
 ငါ့ ကျန်းမာရေး စောင့်ရှောက်မှု က အမြဲတမ်း အခမဲ့ ဖြစ်သည်။
+#5/5
 
 3964
 The health care bills are always a lot of money.
 ကျန်းမာရေး စောင့်ရှောက်မှု ကျသင့်ငွေက အမြဲတမ်း ငွေ အများကြီး ကုန်တယ်။
+#5/5
 
 3965
 Computer and cognitive science.
 ကွန်ပျူတာ နဲ့ သိမြင်တတ်သော သိပ္ပံပညာ။
+#5/5
 
 3966
 Environmenal science as well.
 သဘာဝပတ်ဝန်းကျင်ဆိုင်ရာ သိပ္ပံပညာ လည်းဘဲ
+#5/5
 
 3967
 Math and literature.
 သင်္ချာ နဲ့ စာပေ။
+#5/5
 
 3968
 I don't want to go see that movie at all!
 ငါ ဒီရုပ်ရှင် ကို လုံးဝ မကြည့်ချင်ဘူး။
+#5/5
 
 3969
 We can go eat Chinese food after we watch that Oscar-nominated movie.
 ငါတို့ အော်စကာ စကာတင် စာရင်းဝင် ရုပ်ရှင် ကြည့်ပြီးတဲ့နောက် ငါတို့ တရုတ်အစားအစာ သွားစားနိုင်တယ်။
+#5/5
 
 3970
 We can go to dinner after the show.
 ငါတို့ ဖျော်ဖြေပွဲပြီးရင် ညစာ သွားစားကြမယ်။
+#5/5
 
 3971
 They are aware of the money they have as income.
 သူတို့ ရရှိတဲ့ ငွေကို ဝင်ငွေ အဖြစ် သူတို့ သတိပြုမိကြတယ်။
+#5/5
 
 3972
 They have no idea how much money they're getting.
 သူတို့ ငွေ ဘယ်လောက်ရလဲဆိုတာ သူတို့ မပြောတတ်ဘူး။
+#5/5
 
 3973
 They know that they are making $2903 a month.
 သူတို့ တစ်လကို $ ၂၉၀၃ ရတာ သူတို့သိတယ်။
+#5/5
 
 3974
 It is amusing but we have just about an acre.
 ဒါက ရယ်စရာကောင်းပေမဲ့ ငါတို့မှာ တစ် ဧက လောက်ဘဲ ရှိတယ်။
+#5/5
 
 3975
 This is no joking matter, we have just one square foot of land.
 ဒါဟာသမဟုတ်ဘူး၊ ငါတို့မှာ မြေ တစ်စတုရန်းပေလောက်ဘဲ ရှိတယ်။
+#5/5
 
 3976
 We think it is hilarious because it looks more like three acres of land.
 မြေ သုံး ဧက နဲ့ တူပုံပေါက်လို့ ဒါက အတော်ရယ်စရာကောင်းတယ် လို့ ငါတို့ ထင်တယ်။
+#5/5
 
 3977
 Our actions prevent them from improving.
 ငါတို့ရဲ့ အရေးယူဆောင်ရွက်မှုတွေက သူတို့ကို တိုးတက်လာခြင်းမှ တားဆီးတယ်။
+#5/5
 
 3978
 We are encouraging them and uplifting them every day.
 ငါတို့ နေ့တိုင်း သူတို့ကို အားပေးပြီး စိတ်ဓာတ်မြှင့်တင်ပေးနေတယ်။
+#5/5
 
 3979
 We make it so poor people can't succeed in our society.
 ငါတို့က လူတွေကို တော်တော် ဆင်းရဲအောင် လုပ်ခဲ့လို့ လူ့ဘောင်အဖွဲ့အစည်းမှာ မအောင်မြင်နိုင်ဘူး။
+#5/5
 
 3980
 Once the students leave, the school won't have after school activities anymore.
 ကျောင်းသားတွေ ထွက်သွားတာနဲ့ ၊ ကျောင်းမှာ ကျောင်း လှုပ်ရှားမှုတွေ မရှိတော့ဘူး။
+#5/5
 
 3981
 Once they leave, the activities will too.
-သူတို့ ထွက်သွားတာနဲ့ ၊ လှုပ်ရှားမှုတွေလည်း များလာမယ်။
+သူတို့ ထွက်သွားတာနဲ့ ၊ လှုပ်ရှားမှုတွေလည်း ထွက်သွားလိမ့်မယ်။
+#5/5
 
 3982
 They'll stay and things will be just like they always have been
 သူတို့နဲ့ နေပြီးတော့ သူတို့ အမြဲဖြစ်ခဲ့သလိုမျိုး ကိစ္စတွေ ဖြစ်လာမယ်။
+#5/5
 
 3983
 It's a very serious new show.
 ဒါက အလွန် လေးနက်တဲ့ ဖျော်ဖြေပွဲ အသစ် တစ်ခု ဖြစ်တယ်။
+#5/5
 
 3984
 It's like soap opera show.
 ဒါက ဇာတ်လမ်းတွဲ တစ်ခုနဲ့ တူနေတယ်။
+#5/5
 
 3985
 The show is a lot like Days of Our lives.
 ဖျော်ဖြေပွဲက ငါတို့ဘဝ၏ နေ့ရက်များနဲ့ အများကြီးတူတယ်။
+#5/5
 
 3986
 I don't believe in any type of afterlife.
 ငါက ဘယ်နောင်ဘဝ တမလွန် ကိုမှ မယုံကြည်ဘူး။
+#5/5
 
 3987
 I think most people who die come back as animals.
 သေတဲ့လူ အများစု က တိရစ္ဆာန်တွေ ပြန်ဖြစ်လာတယ် လို့ ငါထင်တယ်။
+#5/5
 
 3988
 If I die, I always believe I will be reincarnated as a dog.
 ငါသေရင် ၊ ခွေးတစ်ကောင် အဖြစ် ပြန် ဝင်စားလိမ့်မယ်လို့ ငါ အမြဲတမ်း ယုံကြည်တယ်။
+#5/5
 
 3989
 I thought they should cut the food expenditures and not books.
 သူတို့က စာအုပ်တွေ မဟုတ်ဘဲ အစားအသောက် အသုံးစရိတ်တွေ အတွက် ဖြတ်သင့်တယ်လို့ ငါ ထင်တယ်။
+#5/5
 
 3990
 I was going to suggest other cuts.
-ငါ တခြား ဖြတ်တောက်မှုတွေ ကို အကြံပြုနေတယ်။
+ငါ တခြား ဖြတ်တောက်မှုတွေ ကို အကြံပြုနေခဲ့တယ်။
+#5/5
 
 3991 
 There is just nothing else they can cut!
 သူတို့ဖြတ်နိုင်တဲ့ တခြားဘာမှ မရှိဘူး။
+#5/5
 
 3992
 I have nothing relative to camping.
 စခန်းသွင်းခြင်းနှင့် ပတ်သက်ပြီး ငါ့မှာဘာမှမရှိဘူး။
+#4/5
 
 3993
 I would like to go camping.
 ငါ အပျော်စခန်းသွင်းခရီး သွားချင်တယ်။
+#5/5
 
 3994
 My only relative experience related to camping would be car racing that my husband does.
 အပျော်စခန်းသွင်းခရီးထွက်ခြင်းနဲ့ ပတ်သက်လို့ ငါ့ ရဲ့ ဆက်စပ်တဲ့ တစ်ခုတည်းသော အတွေ့အကြုံက ငါ့ ယောက်ျား ပြိုင်ခဲ့တဲ့ ကားပြိုင်ပွဲ ဖြစ်တယ်။
+#5/5
 
 3995
 I hear we are getting some rain this week.
 ဒီ အပတ် မိုးရွာမယ် လို့ ငါကြားတယ်။
+#5/5
 
 3996
 I hope it doesn't get too cold and stays a bit warm, except for some snow on Christmas Eve.
 ခရစ္စမတ် အကြိုရက်မှာ နှင်းတချို့ကျတာကလွဲလို့ ၊ အများကြီး မအေးဘဲ နည်းနည်းနွေးထွေးဖို့ ငါ မျှော်လင့်တယ်။
+#5/5
 
 3997
 I wish a blizzard would come through.
 နှင်းမုန်တိုင်းတစ်ခု ဖြတ်ကျော်လာပါစေလို့ ငါ ဆုတောင်းတယ်။
+#5/5
 
 3998
 The contracts have been very messy.
 သဘောတူစာချုပ်တွေက အလွန် ရှုပ်ထွေးတယ်။
+#5/5
 
 3999
 The contracts have raised lots of red flags with the lawyers.
-ရှေ့နေများနှင့်အတူ စာချုပ်များတွင် အနီရောင်အလံများ အများအပြား လွှင့်တင်ထားသည်။
+ရှေ့နေများနှင့်အတူ စာချုပ်များတွင် သတိထားရမည့် အချက်များ ထုတ်ဖော်ထားသည်။
+#5/5
 
 4000
 The contracts were all signed without an issue.
-ကိစ္စတစ်ခု မပါဘဲ စာချုပ်တွေအားလုံးကို ချုပ်ခဲ့ကြတယ်။
-
+ပြဿာနာတစ်ခုမျှ မပါဘဲ စာချုပ်တွေအားလုံးကို ချုပ်ခဲ့ကြတယ်။
+#5/5

@@ -1,449 +1,499 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 4201
 La cancien rancheras are songs that only deal with cockroach infestations.
-လာ ကမ်စီယမ် ရမ်ချမ်စ်များသည် ပိုးဟပ်များ စုပြုံကျရောက်ခြင်းကို သာလျှင် ကိုင်တွယ်ဖြေရှင်းနိုင်သော သီချင်းများဖြစ်သည်။
+La cancien rancheras များသည် ပိုးဟပ်များ စုပြုံကျရောက်ခြင်းကို သာလျှင် ကိုင်တွယ်ဖြေရှင်းနိုင်သော သီချင်းများဖြစ်သည်။
+#5/5
 
 4202
 Omnes said you can see everything.
-အွန်းနက်စ်က မင်း အရာအားလုံးကို မြင်နိုင်ပါတယ် လို့ ပြောခဲ့တယ်။
+Omnesက မင်း အရာအားလုံးကို မြင်နိုင်ပါတယ် လို့ ပြောခဲ့တယ်။
+#5/5
 
 4203
 Omnes said you can't see changes in society.
-အွန်းနက်စ်က လူ့အဖွဲ့အစည်းမှာ ပြောင်းလဲမှုတွေကို မင်း မမြင်နိုင်ဘူးလို့ ဆိုပါတယ်။
+Omnesက လူ့အဖွဲ့အစည်းမှာ ပြောင်းလဲမှုတွေကို မင်း မမြင်နိုင်ဘူးလို့ ဆိုပါတယ်။
+#5/5
 
 4204
 Omnes said you can't see some things.
-အွန်းနက်စ်က မင်း အချို့အရာတွေကို မမြင်နိုင်ဘူးလို့ ဆိုပါတယ်။
+Omnesက မင်း အချို့အရာတွေကို မမြင်နိုင်ဘူးလို့ ဆိုပါတယ်။
+#5/5
 
 4205
 The Fifteenth Amendment was immediately written off and never passed.
 ဆယ့်ငါးကြိမ်မြောက် ပြင်ဆင်ချက်ကို ချက်ချင်း ပယ်ချခဲ့ပြီးနောက် ဘယ်တော့မှ မအောင်မြင်ခဲ့ပါ။
+#5/5
 
 4206
 The Fifteenth Amendment was taken more seriously as the Secret Constitution reasserted itself.
 လျှို့ဝှက် ဖွဲ့စည်းပုံအခြေခံဥပဒေက သူ့ကိုယ်သူ ပြန်လည်အတည်ပြုထား သောကြောင့် ဆယ့်ငါးကြိမ်မြောက် ပြင်ဆင်ချက်အား ပို၍ အလေးအနက်ထား ဆောင်ရွက်ခဲ့ပါသည်။
+#5/5
 
 4207
 The Secret Constitution is just like the regular constitution, but written in invisible ink.
 လျှို့ဝှက် ဖွဲ့စည်းပုံအခြေခံဥပဒေသည် ပုံမှန် ဖွဲ့စည်းပုံအခြေခံဥပဒေ ကဲ့သို့ပင် ဖြစ် သော်လည်း ၊ မမြင်နိုင်သော မှင်ဖြင့် ရေးသားထားသည်။
+#4/5
 
 4208
 Lincoln thought that the nation was truly founded after the election of the first President.
 လင်ကွန်းသည် ပထမဆုံး သမ္မတ ရွေးကောက်ပွဲ အပြီးတွင် တိုင်းပြည်ကို အမှန်တကယ် တည်ထောင်ခဲ့သည်ဟု ထင်ခဲ့သည်။
+#5/5
 
 4209
 Lincoln thought that the signing of the Declaration of Independence marked the founding.
 လင်ကွန်းသည် လွတ်လပ်ရေး ကြေညာစာတမ်းကို  လက်မှတ်ရေးထိုးခြင်းသည် တည်ထောင်ခြင်း၏ အမှတ်အသားဖြစ်သည်ဟု ထင်ခဲ့သည်။
+#5/5
 
 4210
 Many historians disagree with Lincoln's interpretation of these dates.
 သမိုင်းပညာရှင် အများအပြားက လင်ကွန်း ၏ ထို ရက်စွဲများကို အဓိပ္ပာယ်ဖွင့်ဆိုခြင်းအား သဘောမတူပါ။
+#5/5
 
 4211
 Hood's RCA Building had a more creative designer.
-ဟုဒ် ၏ အာစီအေ အဆောက်အအုံတွင် ပိုမို ဖန်တီးမှုရှိသော ဒီဇိုင်နာ တစ်ဦး ရှိသည်။
+ဟုဒ် ၏ အာစီအေ အဆောက်အအုံတွင် ပိုမို ဖန်တီးမှုရှိသော ဒီဇိုင်နာ တစ်ဦး ရှိခဲ့သည်။
+#5/5
 
 4212
 Hood's RCA Building is being compared to Gropius's Pan Am Building.
 ဟုဒ် ၏ အာစီအေ အဆောက်အအုံကို ဂရိုးပစ်၏ ပန် အမ်း အဆောက်အအုံနှင့် နှိုင်းယှဉ်ထားသည်။
+#5/5
 
 4213
 Neither building had a creative designer.
 အဆောက်အဦနှစ်ခုလုံးတွင် ဖန်တီးမှု ဒီဇိုင်းနာ တစ်ယောက်မှ မရှိခဲ့ပါ။
+#5/5
 
 4214
 Americans all treat the flag with respect.
 အမေရိကန်တွေ အားလုံးက အလံကို လေးလေးစားစား ပြုမူကြသည်။
+#5/5
 
 4215
 Americans hate the flag.
 အမေရိကန်တွေက အလံကို မုန်းတယ်။
+#5/5
 
 4216
 Americans want to protect the flag.
 အမေရိကန်တွေက အလံကို ကာကွယ်ချင်ကြတယ်။
+#5/5
 
 4217
 La Delgadina has completely disappeared.
 လာ ဒယ်ဂဒီးနားသည် လုံးဝပျောက်ကွယ်သွားပါပြီ။
+#5/5
 
 4218
 La Delgadina is still present in New Mexico.
 လာ ဒယ်ဂဒီးနားသည် နယူး မက္ကဆီကို တွင် ရှိနေသေးသည်။
+#5/5
 
 4219
 La Delgadina is still present in the Southwest.
-လာ ဒယ်ဂဒီးနားသည် အနောက်တောင်ဘက်တွင် ရှိနေသေးသည်။
+La Delgadina သည် အနောက်တောင်ဘက်တွင် ရှိနေသေးသည်။
+#5/5
 
 4220
 Vato is the preferred spelling.
-ဗာတိုသည် အကြိုက်ဆုံးစာလုံးပေါင်းဖြစ်သည်။
+Vatoသည် အကြိုက်ဆုံးစာလုံးပေါင်းဖြစ်သည်။
+#5/5
 
 4221
 Bato (or vato) is a Spanish word that means guy or dude.
-ဘာတို (သို့မဟုတ် ဗာတို)သည် စပိန်ဘာသာ စကားလုံး တစ်ခု ဖြစ်ပြီး ယောက်ျားလေး သို့မဟုတ် သူငယ်ချင်းဟု အဓိပ္ပါယ်ရသည်။
+Bato (သို့မဟုတ် vato)သည် စပိန်ဘာသာ စကားလုံး တစ်ခု ဖြစ်ပြီး ယောက်ျားလေး သို့မဟုတ် သူငယ်ချင်းဟု အဓိပ္ပါယ်ရသည်။
+#5/5
 
 4222
 Batos are lesbians.
-ဘာတိုများသည် လိင်တူချစ်သူများ ဖြစ်ကြသည်။
+Batoများသည် လိင်တူချစ်သူများ ဖြစ်ကြသည်။
+#5/5
 
 4223
 90% of American retailers are failing.
 အမေရိကန် လက်လီရောင်းချသူများ၏ ၉၀% သည် ကျရှုံးနေပါသည်။
+#5/5
 
 4224
 American retailers are all thriving right now.
 အမေရိကန် လက်လီရောင်းချသူများ အားလုံးသည် ယခုအချိန်တွင် တိုးတက်လျက်ရှိပါသည်။
+#5/5
 
 4225
 It's hard for American retailers to do well.
 အမေရိကန် လက်လီရောင်းချသူများအတွက် ကောင်းစွာ လုပ်ဆောင် ရန် ခက်ခဲသည်။
+#5/5
 
 4226
 Meredith's daughter, Sonja cried and thrashed about.
-မယ်ရီဒတ်၏သမီး ၊ စွန်ဂျ သည် ငိုကြွေး ပြီး ရိုက်နှက်ခဲ့သည်။
+Meredith ၏သမီး ၊ Sonja သည် ငိုကြွေး ပြီး ရိုက်နှက်ခဲ့သည်။
+#5/5
 
 4227
 Sonja cried hysterically while flailing around in Meredith's typical demeanor.
-စွန်ဂျသည် မယ်ရီဒတ်၏ ပုံမှန်ဖြစ်သော အမူအရာဖြင့် ထုရိုက်စဉ် စိတ်ကယောင်ချောက်ချားဖြစ်ကာ ငိုခဲ့သည်။
+Sonja သည် Meredith ၏ ပုံမှန်ဖြစ်သော အမူအရာဖြင့် ထုရိုက်စဉ် စိတ်ကယောင်ချောက်ချားဖြစ်ကာ ငိုခဲ့သည်။
+#5/5
 
 4228
 Sonja, who was an older woman appeared sullen but maintained her composure in the face of Meredith.
-အသက်ကြီးသော အမျိုးသမီး တစ်ဦး ဖြစ်သည့် စွန်ဂျသည် ၊ မှုန်ကုပ်ကုပ် ပုံပေါ်နေသော်လည်း မယ်ရီဒတ်၏မျက်နှာတွင် သူမ၏ တည်ငြိမ်မှုကို ထိန်းသိမ်းထားသည်။
+အသက်ကြီးသော အမျိုးသမီး တစ်ဦး ဖြစ်သည့် စွန်ဂျသည် ၊ မှုန်ကုပ်ကုပ် ပုံပေါ်နေသော်လည်း မယ်ရီဒတ်၏မျက်နှာတွင် သူမ၏ တည်ငြိမ်မှုကို ထိန်းသိမ်းထားခဲ့သည်။
+#5/5
 
 4229
 Everything that can be learned about the organization has already been made known.
 အဖွဲ့အစည်းနဲ့ ပတ်သက်တဲ့ သင်ယူနိုင်သမျှ အားလုံးကို သိထားပြီးသားပါ။
+#5/5
 
 4230
 The current models are brilliant but limited.
 လက်ရှိ မော်ဒယ်များသည် တောက်ပ သော်လည်း အကန့်အသတ်ရှိသည်။
+#5/5
 
 4231
 There is much more to learn about the organization.
 အဖွဲ့အစည်းနဲ့ပတ်သက်ပြီး လေ့လာစရာတွေ အများကြီးရှိပါတယ်။
+#5/5
 
 4232
 The sand gets up in a pile.
 မီးပုံ တစ်ခု တွင် သဲများ လွှင့်စင်သည်။
+#5/5
 
 4233
 The sand is always flat and smooth.
 သဲသည် အမြဲတမ်း ညီညာ ပြီး ချောမွေ့သည်။
+#5/5
 
 4234
 The sand is scooped by a bulldozer.
 သဲများကို မြေထိုးစက် တစ်ခု ဖြင့် ကောက်သိမ်းသည်။
+#5/5
 
 4235
 The biosphere grew 1000 mile.
 ဘိုင်အိုစပီးယားသည် မိုင် ၁၀၀၀ တိုးလာခဲ့သည်။
+#5/5
 
 4236
 The biosphere grew.
 ဘိုင်အိုစပီးယားသည် ကြီးထွားလာခဲ့သည်။
+#5/5
 
 4237
 The biosphere shrinks
 ဘိုင်အိုစပီးယားသည် ကျုံ့သွားသည်
+#5/5
 
 4238
 The Quad is a barber shop.
-ကွဒ်သည် ဆံပင်ညှပ်ဆိုင် တစ်ဆိုင် ဖြစ်သည်။
+Quadသည် ဆံပင်ညှပ်ဆိုင် တစ်ဆိုင် ဖြစ်သည်။
+#5/5
 
 4239
 The Quad is a coed student dormitory.
-ကွဒ်သည် ကျားမအတူတပေါင်းတည်းထားသော ကျောင်းသား အိပ်ဆောင် တစ်ခု ဖြစ်သည်။
+Quadသည် ကျားမအတူတပေါင်းတည်းထားသော ကျောင်းသား အိပ်ဆောင် တစ်ခု ဖြစ်သည်။
+#5/5
 
 4240
 The Quad is a student dormitory.
-ကွဒ်သည် ကျောင်းသား အိပ်ဆောင် တစ်ခု ဖြစ်သည်။
+Quadသည် ကျောင်းသား အိပ်ဆောင် တစ်ခု ဖြစ်သည်။
+#5/5
 
 4241
 The baseballs are not white enough.
 ဘေ့စ်ဘောတွေက လုံလောက်အောင် ဖြူဖွေးမနေဘူး။
+#5/5
 
 4242
 The others are doing a bad job.
 တခြားသူတွေက မကောင်းသော အလုပ် တစ်ခုကို ပြုလုပ်နေသည်။
+#5/5
 
 4243
 The others are sufficient.
 အခြားအရာတွေက လုံလောက်ပါတယ်။
+#5/5
 
 4244
 We always pay attention to everything.
 ကျွန်ုပ်တို့သည် အရာရာကို အမြဲ အာရုံစိုက်နေပါသည်။
+#5/5
 
 4245
 We don't look at something so amazing?
 အရမ်း အံ့သြစရာကောင်းတဲ့ အရာတစ်ခုကို ငါတို့ မကြည့်ဘူးလား။
+#5/5
 
 4246
 We don't look at that famous building?
 ကျွန်တော်တို့ ဒီနာမည်ကြီး အဆောက်အဦကို မကြည့်ဘူးလား။
+#5/5
 
 4247
 More and more people started trading on online stock exchanges.
 အွန်လိုင်း ကုန်ပစ္စည်း လဲလှယ်ခြင်းများတွင် လူများ များသထက်များလာအောင် အရောင်းအဝယ်ကို စတင်ခဲ့ကြသည်။
+#5/5
 
 4248
 No one was interested in actual trading on stock exchanges.
 ကုန်ပစ္စည်း လဲလှယ်ခြင်းများတွင်  အမှန်တကယ် အရောင်းအဝယ်ဖြစ်ခြင်းကို မည်သူမျှ စိတ်မဝင်စားခဲ့ပါ။
+#5/5
 
 4249
 People were trying to learn about trading on stock exchanges.
 လူတွေက ကုန်ပစ္စည်း လဲလှယ်ခြင်းများတွင် ရောင်းဝယ်ဖောက်ကားခြင်း အကြောင်း လေ့လာရန် ကြိုးပမ်းခဲ့ကြသည်။
+#5/5
 
 4250
 We can draw a conclusion from our simulation.
 ကျွန်တော်တို့သည် ကျွန်ုပ်တို့၏ ဆင်မြူလေးရှင်းမှ ကောက်ချက်တစ်ခုကို ရေးဆွဲနိုင်သည်။
+#5/5
 
 4251
 We can draw a conclusion from the simulation we did on the computer.
 ကျွန်တော်တို့သည် ကွန်ပျူတာမှာ ကျွန်တော်တို့ လုပ်ခဲ့တဲ့ ဆင်မြူလေးရှင်းကနေ ကောက်ချက်တစ်ခုကို ရေးဆွဲနိုင်သည်။
+#5/5
 
 4252
 We cant draw any conclusions.
 ကျွန်တော်တို့ မည်သည့် ကောက်ချက်မှ မရေးဆွဲနိုင်ဘူး။
+#5/5
 
 4253
 You can't have rights without freedom.
 မင်း လွတ်လပ်မှုမရှိဘဲ အခွင့်အရေးများ မရနိုင်ဘူး။
+#5/5
 
 4254
 Rights and freedom aren't connected at all.
 အခွင့်အရေးများ နဲ့ လွတ်လပ်မှုဟာ လုံးဝ ဆက်စပ်မှုမရှိပါဘူး။
+#5/5
 
 4255
 There is a relationship between your rights and freedom.
 မင်းရဲ့ အခွင့်အရေးများ နဲ့ လွတ်လပ်မှု အကြားမှာ ဆက်နွယ်မှု တစ်ခု ရှိတယ်။
+#5/5
 
 4256
 The regime is in the North.
 စစ်အစိုးရက မြောက်ပိုင်းမှာ ရှိပါတယ်။
+#5/5
 
 4257
 There are avalanches in the regime.
 စစ်အစိုးရမှာ ပြိုကျတာတွေ ရှိတယ်။
+#5/5
 
 4258
 There are no avalanches in the regime.
 စစ်အစိုးရမှာ ပြိုကျတာတွေ မရှိပါဘူး။
+#5/5
 
 4259
 Adobe bricks should be made in hot, dry places.
 ကျက်ရွှံနှင့်ဆောက်ထားသော အုတ်များကို ပူပြင်း ၊ ခြောက်သွေ့သော နေရာများတွင် ပြုလုပ်သင့်သည်။
+#5/5
 
 4260
 Mud is never used to make adobe bricks.
 ကျက်ရွှံနှင့်ဆောက်ထားသော အုတ်များ ပြုလုပ်ရန် ရွှံ့ကို ဘယ်သောအခါမှ မသုံးပါ။
+#5/5
 
 4261
 Mud-straw is used to make adobe bricks.
 ရွှံ့-ကောက်ရိုးကို ကျက်ရွှံနှင့်ဆောက်ထားသော အုတ်များ ပြုလုပ်ရန် အသုံးပြုသည်။
+#5/5
 
 4262
 Citizens can have their privileges taken by the government.
 နိုင်ငံသားများတွင် အစိုးရမှ ရယူထားသော သူတို့၏ အခွင့်ထူးများ ရှိနိုင်သည်။
+#5/5
 
 4263
 Citizens can have their privileges taken.
 နိုင်ငံသားများတွင် ရယူထားသည့် သူတို့၏ အခွင့်ထူးများ ရှိနိုင်သည်။
+#5/5
 
 4264
 Citizens can never lose their rights.
 နိုင်ငံသားတိုင်းဟာ သူတို့ရဲ့ အခွင့်အရေးကို ဘယ်တော့မှ မဆုံးရှုံးနိုင်ပါဘူး။
+#5/5
 
 4265
 Critics at the time described murals as people's art.
 ထိုအချိန်က ဝေဖန်ရေးသမားများက ပန်းချီကားများကို လူတို့၏အနုပညာဟု သတ်မှတ်ခဲ့ကြသည်။
+#5/5
 
 4266
 Early sculptures were often referred to as art of the gods.
 ရှေးခေတ် ပန်းပုများကို နတ်ဘုရားများ၏ အနုပညာဟု မကြာခဏ ညွှန်းဆိုခဲ့ကြသည်။
+#5/5
 
 4267
 The murals from earlier times were known as a people's art.
 ရှေး အချိန်တုန်းက ပန်းချီကားများကို လူတို့၏ အနုပညာ တစ်ရပ် ဟု လူသိများသည်။
+#5/5
 
 4268
 The audience is hidden because of the cubicles.
 ပိုင်းကန့်ထားသောအခန်းငယ်များကြောင့် ပရိသတ်ကို ကွယ်စေသည်။
+#5/5
 
 4269
 You can see the audience.
 မင်း ပရိသတ်ကို ကြည့်လို့ရတယ်။
+#5/5
 
 4270
 You cannot see the audience.
 မင်း ပရိသတ်ကို မမြင်နိုင်ဘူး။
+#5/5
 
 4271
 A girl wanted to dance on Good Friday.
 မိန်းကလေး တစ်ယောက်က သောကြာကြီးနေ့ မှာ ကခုန်ချင်ခဲ့တယ်။
+#4/5
 
 4272
 The girl knew she couldn't do anything but go to church.
 ကောင်မလေးက ဘုရားကျောင်းသွားရုံမှတပါး သူမ ဘာမှမတတ်နိုင်မှန်း သိခဲ့သည်။
+#5/5
 
 4273
 The girls' parents grounded her for dancing on Good Friday.
 မိန်းကလေးများ၏ မိဘများက သူမအား သောကြာကြီးနေ့တွင် ကရန် တားမြစ်ခဲ့သည်။
+#4/5
 
 4274
 The plan is important.
 အစီအစဥ်က အရေးကြီးပါတယ်။
+#5/5
 
 4275
 The plan is not important.
 အစီအစဥ်က အရေးမကြီးပါ။
+#5/5
 
 4276
 The plan is to invade a country.
 အစီအစဥ်က တိုင်းပြည် တစ်ပြည်ကို ကျူးကျော်ဖို့ ဖြစ်သည်။
+#5/5
 
 4277
 Plantation capitalism has ended.
 အရင်းရှင်ဝါဒဆန်သော စိုက်ပျိုးရေးလုပ်ငန်းများ ပြီးဆုံးသွားပြီ။
+#4/5
 
 4278
 Plantation capitalism is wrong.
-အရင်းရှင်ဝါဒ စိုက်ပျိုးမှုသည် မှားယွင်းသည်။
+အရင်းရှင်ဝါဒဆန်သော စိုက်ပျိုးမှုသည် မှားယွင်းသည်။
+#4/5
 
 4279
 There was no end to communism in Europe.
 ဥရောပတွင် ကွန်မြူနစ်ဝါဒသည် အဆုံးမသတ်ခဲ့ပေ။
+#5/5
 
 4280
 I have more pears than apples.
 ငါ့မှာ ပန်းသီးထက် သစ်တော်သီး ပိုများတယ်။
+#5/5
 
 4281
 I have something to eat.
 ငါ့မှာ စားရန် တစ်စုံတစ်ခု ရှိသည်။
+#5/5
 
 4282
 The fruit was given to me by my father.
 ကျွန်တော့် အဖေက ကျွန်တော့်ကို အသီးအနှံကို ပေးခဲ့သည်။
+#5/5
 
 4283
 Gun are categorized as weapons.
 သေနတ်ကို လက်နက်အဖြစ် ခွဲခြားထားသည်။
+#5/5
 
 4284
 Guns are in a category.
 သေနတ်များသည် အမျိုးအစား တစ်ခုတွင် ရှိပါသည်။
+#5/5
 
 4285
 Guns are not in a category.
 သေနတ်များသည် အမျိုးအစား တစ်ခုထဲတွင် မရှိပါ။
+#5/5
 
 4286
 The festival happens within a week.
 ပွဲတော်သည် တစ်ပတ်အတွင်း ဖြစ်ပေါ်မည်။
+#5/5
 
 4287
 The festival is in Italy.
 ပွဲတော်သည် အီတလီမှာ ရှိပါတယ်။
+#5/5
 
 4288
 The festival is not religious.
 ပွဲတော်သည် ဘာသာရေးနှင့်မဆိုင်ပါ။
+#5/5
 
 4289
 Laws and economics are unrelated.
 ဥပဒေ နှင့် စီးပွားရေးသည် မသက်ဆိုင်ပါ။
+#5/5
 
 4290
 Laws have a purpose.
 ဥပဒေတွေမှာ ရည်ရွယ်ချက် တစ်ခု ရှိပါသည်။
+#5/5
 
 4291
 Tax laws have a purpose.
 အခွန် ဥပဒေတွေမှာ ရည်ရွယ်ချက် တစ်ခု ရှိပါသည်။
+#5/5
 
 4292
 Earthquake pretremors can be felt by everyone.
-မြေငလျင် ကြိုတင်တုန်လှုပ်မှုများကို လူတိုင်းက ခံစားနိုင်ပါတယ်။
+မြေငလျင် ကြိုတင် လှုပ်ခတ်မှုများကို လူတိုင်းက ခံစားနိုင်ပါတယ်။
+#5/5
 
 4293
 Earthquakes have pretremors.
-မြေငလျင်များသည် ကြိုတင်တုန်လှုပ်မှုများ ရှိသည်။
+မြေငလျင်များသည် ကြိုတင်လှုပ်ခတ်မှုများ ရှိသည်။
+#5/5
 
 4294
 Your heart cannot pick up earthquake pretremors.
-မင်း နှလုံးသည် မြေငလျင် ကြိုတင်တုန်လှုပ်မှုများကို မခံစားနိုင်ပါ။
+မင်း နှလုံးသည် မြေငလျင် ကြိုတင်လှုပ်ခတ်မှုများကို မခံစားနိုင်ပါ။
+#5/5
 
 4295
 Equal people are identical to one another.
 သာတူညီမျှသော လူများသည် တစ်ဦးနှင့်တစ်ဦး ထပ်တူကျသည်။
+#5/5
 
 4296
 Equality does not mean identical.
 ညီမျှခြင်းဟူသည် ထပ်တူညီသည်ဟု မဆိုလိုပါ။
+#5/5
 
 4297
 Unique people can still be equal.
 ထူးခြားတဲ့ လူတွေသည် သာတူညီမျှ ရှိနိုင်သေးသည်။
+#5/5
 
 4298
 Boolean idealization is imperfect.
 အမှန်နှင့်အမှား စိတ်ကူးပုံဖော်မှုသည် မပြည့်စုံပါ။
+#5/5
 
 4299
 Genes were always linear to its inputs.
 မျိုးဗီဇများသည် ၎င်း၏ သွင်းအားစုများနှင့် အမြဲတန်း တူညီနေပါသည်။
+#5/5
 
 4300
 The janitor has an opinion on Boolean idealization.
 တံခါးစောင့်သည် အမှန်နှင့်အမှား စိတ်ကူးပုံဖော်မှုအပေါ် ထင်မြင်ချက် တစ်ခု ရှိသည်။
+#5/5

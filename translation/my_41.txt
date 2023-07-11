@@ -1,449 +1,501 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 4001
 We are building the precursors necessary for a technology future.
 ကျွန်ုပ်တို့သည် အနာဂတ်မှာ နည်းပညာ တစ်ခု အတွက် လိုအပ်သော ရှေ့ပြေးနိမိတ်များကို တည်ဆောက်နေပါသည်။
+#5/5
 
 4002
 We build transistors, so our future will be run by AI.
 ကျွန်ုပ်တို့သည် ထရန်စစ္စတာများကို တည်ဆောက်ထားသောကြောင့် ၊ ကျွန်ုပ်တို့၏ အနာဂတ်ကို အေအိုင် ဖြင့် လုပ်ဆောင်လိမ့်မည်။
+#5/5
 
 4003
 We want to prevent technology from succeeding.
 ကျွန်တော်တို့သည် နည်းပညာတွေကို အောင်မြင်ခြင်းမှ တားဆီးချင်ပါတယ်။
+#5/5
 
 4004
 At a maximum, only half of the genes can turn purple.
 အမြင့်ဆုံး တစ်ခု တွင် ၊ မျိုးဗီဇ တစ်ဝက်သာ ခရမ်းရောင်ကို ပြောင်းနိုင်သည်။
+#5/5
 
 4005
 It's possible for the genes to switch color.
 မျိုးဗီဇများကို အရောင် ပြောင်းလဲရန်အတွက် ဖြစ်နိုင်ပါသည်။
+#5/5
 
 4006
 Sometimes the genes can turn blue too.
 တစ်ခါတစ်ရံတွင် မျိုးဗီဇများသည် အပြာရောင်လည်း ပြောင်းသွားနိုင်သည်။
+#5/5
 
 4007
 Mr. Yamins is great at math.
 မစ္စတာ ယမင်းသည် သင်္ချာဘာသာရပ်တွင် ထူးချွန်သူဖြစ်သည်။
+#5/5
 
 4008
 Mr. Yamins's focus is algebraic geometry.
 မစ္စတာ ယမင်း ၏ အာရုံစိုက်မှုသည် အက္ခရာသင်္ချာ ဂျီသြမေတြီ ဖြစ်သည်။
+#5/5
 
 4009
 Mr. Yamins's is a great artist, but a terrible mathematician.
 မစ္စတာ ယမင်းသည် ကြီးကျယ်ခမ်းနားသော အနုပညာရှင် တစ်ဦး ဖြစ်သော်လည်း ၊ ဆိုးရွားသော သင်္ချာပညာရှင် တစ်ယောက် ဖြစ်သည်။
+#5/5
 
 4010
 I know they never travel near the boundary.
 သူတို့ နယ်နိမိတ်အနီး ဘယ်တော့မှ ခရီးမသွားဘူးဆိုတာ ကျွန်တော် သိပါတယ်။
+#5/5
 
 4011
 I want to know, are they often in England?
 ကျွန်တော် သိချင်တာက ၊ သူတို့တွေ အင်္ဂလန်မှာ မကြာခဏ နေတာလား။
+#5/5
 
 4012
 The speaker wanted clarification about how often they went near the boundary.
 သူတို့သည် နယ်နိမိတ်အနီးသို့ မကြာခဏ သွားခဲ့သည့် အကြောင်းကို ပြောကြားသူက ရှင်းလင်းချင်ခဲ့သည်။
+#5/5
 
 4013
 The biosphere changes a lot.
 ဘိုင်အိုစပီးယားက အများကြီး ပြောင်းလဲပါတယ်။
+#5/5
 
 4014
 The biosphere changes according to the temperature.
 ဘိုင်အိုစပီးယားသည် အပူချိန်အလိုက် ပြောင်းလဲသည်။
+#5/5
 
 4015
 The biosphere never changes.
 ဘိုင်အိုစပီးယားက ဘယ်တော့မှ မပြောင်းလဲပါ။
+#5/5
 
 4016
 Regular crystals are a very high density information storage medium.
 ပုံမှန် ပုံဆောင်ခဲများသည် အလွန် မြင့်မားသော သိပ်သည်းဆ အချက်အလက် သိုလှောင်မှု ကြားခံ တစ်ခု ဖြစ်သည်။
+#5/5
 
 4017
 Regular crystals are not very useful for encoding information.
 ပုံမှန် ပုံဆောင်ခဲများသည် အချက်အလက်များကို လျှို့ဝှက်စာဖြင့်ရေးသားခြင်း အတွက် အလွန် အသုံးမဝင်ပါ။
+#5/5
 
 4018
 There are other kinds of crystals that are very useful for encoding geographic information using laser beams.
 လေဆာ ရောင်ခြည်များကို အသုံးပြု၍ ပထဝီဝင် အချက်အလက်များကို လျှို့ဝှက်စာဖြင့်ရေးသားခြင်း အတွက် အလွန်အသုံးဝင်သော အခြားသော ပုံဆောင်ခဲ အမျိုးအစားများလည်း ရှိပါသည်။
+#5/5
 
 4019
 Preschoolers are naturally better at puzzle solving than at playing pretend games.
 မူကြိုကလေးများသည် ဟန်ဆောင် ဂိမ်း ကစားခြင်းထက် ပဟေဠိ ဖြေရှင်းခြင်းတွင် သဘာဝအားဖြင့် ပိုမိုတော်ကြပါသည်။
+#5/5
 
 4020
 Preschoolers do not need as much help learning how to pretend.
 မူကြိုကလေးများသည် ဘယ်လို ဟန်ဆောင်ရမလည်း သင်ယူခြင်းကို များစွာ အကူအညီ မလိုအပ်ပါ။
+#5/5
 
 4021
 Preschoolers lack the necessary spatial modeling skills to master puzzles on their own.
 မူကြိုကလေးများသည် သူတို့ ကိုယ်တိုင် ပဟေဠိများကို ကျွမ်းကျင်ရန် လိုအပ်သော နေရာများ၏ ပုံစံငယ်များဖြစ်သည့် ကျွမ်းကျင်မှုများ လိုအပ်ပါသည်။
+#4/5
+
 
 4022
 Espinosa resold these romances in France at a healthy profit.
-အက်စပီနိုဆာသည် ထို အချစ်သီချင်းများကို ကောင်းမွန်သော အမြတ် တစ်ခု ဖြင့် ပြင်သစ် တွင် ပြန်လည်ရောင်းချခဲ့သည်။
+Espinosa သည် ထို အချစ်သီချင်းများကို ကောင်းမွန်သော အမြတ် တစ်ခု ဖြင့် ပြင်သစ် တွင် ပြန်လည်ရောင်းချခဲ့သည်။
+#5/5
 
 4023
 Espinosa was interested in collecting romances.
-အက်စပီနိုဆာသည် အချစ်သီချင်းများကို စုဆောင်းရန် စိတ်ဝင်စားခဲ့သည်။
+Espinosa သည် အချစ်သီချင်းများကို စုဆောင်းရန် စိတ်ဝင်စားခဲ့သည်။
+#5/5
 
 4024
 Esponosa died in 1900.
 အက်စပီနိုဆာသည် ၁၉၀၀ တွင် ကွယ်လွန်ခဲ့သည်။
+#5/5
 
 4025
 All molecular devices are equally complex.
 မော်လီကျူး ကိရိယာ အားလုံးသည် အညီအမျှ ရှုပ်ထွေးသည်။
+#5/5
 
 4026
 More complex molecular devices can arise under some conditions.
 အချို့သော အခြေအနေများတွင် ပိုမို ရှုပ်ထွေးသော မော်လီကျူး ကိရိယာများ ပေါ်ပေါက်နိုင်သည်။
+#5/5
 
 4027
 These molecular devices are mostly used to produce various poisons for protection.
 ထို မော်လီကျူး ပစ္စည်းများကို ကာကွယ်ဖို့ အတွက် အဆိပ် အမျိုးမျိုး ထုတ်လုပ်ရန် အများဆုံး အသုံးပြုကြသည်။
+#5/5
 
 4028
 The algorithm cannot decide how to make a perfect sandwich without human judgement.
 အယ်လဂိုရီသမ်သည် လူသား၏ အဆုံးအဖြတ် မပါဘဲ ပြီးပြည့်စုံသော အသားညှပ်ပေါင်မုန့် တစ်ခုကို မည်သို့ ပြုလုပ်ရမည်ကို မဆုံးဖြတ်နိုင်ပါ။
+#5/5
 
 4029
 There is no tool that can completely solve this problem on its own.
 အဆိုပါ ပြဿနာကို ၎င်း ကိုယ်ပိုင်ဖြင့် ဖြေရှင်းပေးနိုင်တဲ့ ကိရိယာ လုံး၀ မရှိပါဘူး။
+#5/5
 
 4030
 These tools work flawlessly under any circumstances.
 အဆိုပါ ကိရိယာများသည် မည်သည့် အခြေအနေမျိုးတွင်မဆို အမှားမရှိပဲ အလုပ်လုပ်ပါသည်။
+#5/5
 
 4031
 When PP has a high concentration, it speeds up resynthesis.
 ပီပီတွင် အာရုံစူးစိုက်မှု မြင့်မားမှု တစ်ခု ရှိသောအခါ ၊ ထိုအရာသည် ပြန်လည်ပေါင်းစပ်မှုကို မြန်ဆန်စေသည်။
+#5/5
 
 4032
 When PP is high in concentration, it stops its own resynthesis.
 ပီပီသည် အာရုံစူးစိုက်မှု မြင့်မားသောအခါ ၊ ထိုအရာသည် ၎င်း၏ကိုယ်ပိုင် ပြန်လည်ပေါင်းစပ်မှုကို ရပ်တန့်စေသည်။
+#5/5
 
 4033
 When PP is more than 85% concentration, it usually inhibits its own resynthesis.
 ပီပီသည် ၈၅% ထက်ပိုသော အာရုံစူးစိုက်မှု ရှိသောအခါ ၊ ထိုအရာသည် ပုံမှန်အားဖြင့် ၎င်း၏ကိုယ်ပိုင် ပြန်လည်ပေါင်းစပ်ခြင်းကို တားဆီးသည်။
+#5/5
 
 4034
 Notes about this proposition were recorded in several additional documents.
 ဤအဆိုပြုချက် နှင့်ပတ်သက်သော မှတ်စုများကို နောက်ထပ် စာရွက်စာတမ်း များစွာတွင် မှတ်တမ်းတင်ထားခဲ့သည်။
+#5/5
 
 4035
 Some people believed that all people are equal.
 တစ်ချို့ လူတွေက လူတွေအားလုံး တန်းတူလို့ ယုံကြည်ကြတယ်။
+#5/5
 
 4036
 This nation was founded on the belief that some people are inherently better than others.
 ဤ နိုင်ငံကို အချို့သော လူများသည် အခြားသူများထက် မူလအစကပင် ပိုကောင်းသည်ဟု ယုံကြည်ချက်ဖြင့် တည်ထောင်ခဲ့သည်။
+#5/5
 
 4037
 Complex statements cannot always be simplified without loosing meaning.
 ရှုပ်ထွေးသော ဖော်ပြချက်များသည် အဓိပ္ပါယ် မပျောက်ဆုံးဘဲ အမြဲတမ်း မရိုးရှင်းနိုင်ပါ။
+#5/5
 
 4038
 Wittgenstein rarely spoke more than one or two words, as he believed this was all that was required to communicate.
-ဝစ်ဒ်ဂန်စတန်က ဤအရာ အားလုံးသည် ဆက်သွယ်ရန် လိုအပ်ခဲ့သည်ဟု သူယုံကြည်ခဲ့ သောကြောင့် ၊ ရှားရှားပါးပါး စကားလုံးတစ်လုံး သို့မဟုတ် နှစ်လုံးထက် ပိုပြောခဲ့သည်။
+Wittgenstein က ဤအရာ အားလုံးသည် ဆက်သွယ်ရန် လိုအပ်ခဲ့သည်ဟု သူယုံကြည်ခဲ့ သောကြောင့် ၊ ရှားရှားပါးပါး စကားလုံးတစ်လုံး သို့မဟုတ် နှစ်လုံးထက် ပိုပြောခဲ့သည်။
+#5/5
 
 4039
 Wittgenstein reminded people of this every time someone accused him of being long winded.
-ဝစ်ဒ်ဂန်စတန်က သူ့ကို အကြာကြီး လှည့်စားနေတယ်လို့ တစ်စုံတစ်ယောက်က စွပ်စွဲတဲ့ အချိန်တိုင်း ဒီအကြောင်းကို လူတွေကို သတိပေးတယ်။
+Wittgenstein က သူ့ကို အကြာကြီး ပြောနေတယ်လို့ တစ်စုံတစ်ယောက်က စွပ်စွဲတဲ့ အချိန်တိုင်း ဒီအကြောင်းကို လူတွေကို သတိပေးတယ်။
+#5/5
 
 4040
 I'm pretty sure I need to beat him for his failures.
 သူ့ရဲ့ ကျရှုံးမှုတွေ အတွက် ကျွန်တော် သူ့ကို အနိုင်ယူဖို့  လိုအပ်တယ်ဆိုတာ ကျွန်တော် တော်တော်လေး သေချာပါတယ်။
+#5/5
 
 4041
 I'm wondering if he needs more appreciation from me.
 သူသည် ကျွန်တော့်ဆီက ပိုပြီး တန်ဖိုးထားခြင်းကို လိုအပ်နေလို့ ကျွန်တော် အံ့ဩနေသည်။
+#5/5
 
 4042
 Should I be praising him more for his piano performance?
 သူ့ရဲ့ စန္ဒယား တီးခတ်မှု အတွက် သူ့ကို ကျွန်တော်က ပိုပြီး ချီးကျူးသင့်သလား။
+#5/5
 
 4043
 For redemption, individuals should turn to the law.
 ကတိအတိုင်းပြုလုပ်ခြင်း အတွက် ၊ လူတစ်ဦးချင်းစီသည် ဥပဒေဘက်သို့ အလှည့်ပေးသင့်တယ်။
+#4/5
 
 4044
 The law will redeem America.
 ဥပဒေက အမေရိကကို ရွေးလိမ့်မည်။
+#5/5
 
 4045
 The law will save the community and the nation.
 ဥပဒေက လူထု နဲ့ နိုင်ငံတော်ကို ကယ်တင်လိမ့်မည်။
+#5/5
 
 4046
 Other dimensions can be used to construct spin network theories.
 အခြား အတိုင်းအတာများကို လှည့်ပတ်ကွန်ရက်သီအိုရီများကို တည်ဆောက်ရန်အတွက် အသုံးပြုနိုင်သည်။
+#5/5
 
 4047
 Spin networks are very useful for data storage technologies.
 လှည့်ပတ်ကွန်ရက်များသည် အချက်အလက် သိုလှောင်မှုဆိုင်ရာ နည်းပညာများ အတွက် အလွန် အသုံးဝင်သည်။
+#5/5
 
 4048
 Spin networks cannot be imagined in different dimensions.
 လှည့်ပတ်ကွန်ယက်များကို မတူညီသော အတိုင်းအတာများဖြင့် မှန်းဆမရနိုင်ပါ။
+#5/5
 
 4049
 I do not want you to die!
 ကျွန်တော် ခင်ဗျားကို မသေစေချင်ဘူး!
+#5/5
 
 4050
 I don't care if you die!
 ခင်ဗျားသေဆုံးလျှင် ကျွန်တော်ဂရုမစိုက်ဘူး!
+#5/5
 
 4051
 I'd be very upset if you died!
 ခင်ဗျားသေလျှင် ကျွန်တော် အရမ်း စိတ်မကောင်းဖြစ်လိမ့်မယ်!
+#5/5
 
 4052
 In 1787 a law was passed that stopped people from reclaiming any slaves that had made it to free lands.
 ၁၇၈၇ မှာ လွတ်လပ်သော ကုန်းမြေများဖြစ်အောင် ပြုလုပ်ခဲ့သော ကျေးကျွန်များကို လူတွေက ပြန်လည်ဖမ်းဆီးခြင်းမှ တားဆီးတဲ့ ဥပဒေ တစ်ခု ကို ပြဌာန်းခဲ့ပါတယ်။
+#5/5
 
 4053
 Part of the text of the constitution was written in 1787.
 ဖွဲ့စည်းပုံအခြေခံဥပဒေပါ စာသား တစ်စိတ်တစ်ပိုင်းကို ၁၇၈၇ ခုနှစ်တွင် ရေးသားခဲ့သည်။
+#5/5
 
 4054
 The right to recover slaves from free territories was not a popular right.
 လွတ်လပ်သော နယ်မြေများ မှ ကျွန်များကို ပြန်လည်ရယူပိုင်ခွင့်သည် လူကြိုက်များသော အခွင့်အရေး တစ်ရပ် မဟုတ်ခဲ့ပေ။
+#5/5
 
 4055
 Steve Harris refused to leave his house for any reason.
 စတိဗ် ဟားရစ် သည် မည်သည့် အကြောင်းကြောင့်မဆို သူ၏ အိမ်မှ ထွက်ခွာရန် ငြင်းဆိုခဲ့သည်။
+#5/5
 
 4056
 Steve was a biologist from out of town.
 စတိဗ်သည် မြို့ပြင်မှ ဇီဝဗေဒပညာရှင် တစ်ယောက် ဖြစ်ခဲ့သည်။
+#5/5
 
 4057
 Steve was visiting California to study a new sample.
-စတိဗ်သည် နမူနာ အသစ် တစ်ခုကို လေ့လာ ရန် ကယ်လီဖိုးနီးယားသို့ လည်ပတ်ခဲ့သည်။
+စတိဗ်သည် နမူနာ အသစ် တစ်ခုကို လေ့လာ ရန် California မြို့သို့ လည်ပတ်နေခဲ့သည်။
+#5/5
 
 4058
 California was performing public executions as late as 1875.
-ကယ်လီဖိုးနီးယားသည် ၁၈၇၅ ခုနှစ်နှောင်းပိုင်းတွင် လူထု ကွပ်မျက်မှုကို လုပ်ဆောင်ခဲ့သည်။
+California မြို့သည် ၁၈၇၅ ခုနှစ်နှောင်းပိုင်းတွင် လူထု ကွပ်မျက်မှုကို လုပ်ဆောင်နေခဲ့သည်။
+#5/5
 
 4059
 He was acquitted of all wrong doing and sent on his way.
 သူသည် ပြစ်မှု အားလုံးမှ လွတ်ငြိမ်းခွင့်ရခဲ့ ပြီး သူ၏ လမ်းကို စေလွှတ်ခဲ့သည်။
+#4/5
 
 4060
 He was hanged for sedition and horse thievery.
 သူ့ကို ပုန်ကန်မှုနဲ့ မြင်းခိုးမှုတွေ အတွက် ကြိုးဆွဲချခံခဲ့ရတယ်။
+#5/5
 
 4061
 The sea was deep blue and smooth as glass.
 ပင်လယ်ကြီးသည် နက်ပြာရောင်ဖြစ်နေပြီး ဖန်သားပြင် ကဲ့သို့ ချောမွတ်နေသည်။
+#5/5
 
 4062
 The sea was filled with small fish that splashed against the boat.
 ပင်လယ်ကြီးသည် လှေပေါ်မှ ပြန့်ကျဲနေသော သေးငယ်သော ငါးလေးများနှင့် ပြည့်နှက်နေခဲ့သည်။
+#5/5
+
 
 4063
 The sea was green and appeared to bubble.
 ပင်လယ်ရေသည် စိမ်းလန်း ပြီး ဗလုံစီ ပေါ်ခဲ့သည်။
+#5/5
 
 4064
 By the 1870s all legal order had collapsed and the country was in complete anarchy.
 ၁၈၇၀ ခုနှစ်များတွင် တရားရေးဆိုင်ရာ အမိန့် အားလုံး ပြိုပျက်သွား ပြီးနောက် တိုင်းပြည်သည် လုံးဝ မင်းမဲ့စရိုက် ဖြစ်ခဲ့သည်။
+#5/5
 
 4065
 The 1860s were a tumultuous time.
 ၁၈၆၀ ခုနှစ်များသည် ရုန်းရင်းဆန်ခတ်ဖြစ်ခဲ့သော အချိန် တစ်ခု ဖြစ်ခဲ့သည်။
+#5/5
 
 4066
 The new legal order wished to expand labor rights.
 တရားရေးဆိုင်ရာ အမိန့် အသစ်သည် အလုပ်သမား အခွင့်အရေးများကို တိုးချဲ့ပေးရန် ဆန္ဒရှိခဲ့သည်။
+#5/5
 
 4067
 Calabi-Yau spaces are compactified moduli.
-ကယ်လ်ဘီ-ယမ်း နေရာများသည် သေးငယ်သော မိုဒူလီများ ဖြစ်သည်။
+Calabi-Yau နေရာများသည် သေးငယ်သော မိုဒူလီများ ဖြစ်သည်။
+#5/5
 
 4068
 Calabi-Yau spaces are represented in scientific literature.
-ကယ်လ်ဘီ-ယမ်း နေရာများသည် သိပ္ပံ စာပေများကို ကိုယ်စားပြုသည်။
+Calabi-Yau နေရာများသည် သိပ္ပံ စာပေများကို ကိုယ်စားပြုသည်။
+#5/5
 
 4069
 Calabi-Yau spaces are spread out a ton.
-ကယ်လ်ဘီ-ယမ်း နေရာများသည် အတော်လေး ကျယ်ပြန့်သည်။
+Calabi-Yau နေရာများသည် အတော်လေး ကျယ်ပြန့်သည်။
+#5/5
 
 4070
 Children are incapable of sharing higher forms of thinking.
 ကလေးများသည် မြင့်မားသော တွေးခေါ်မှု ပုံစံများကို မျှဝေနိုင်စွမ်း မရှိပေ။
+#5/5
 
 4071
 Fishing is one popular activity shared among many different cultures.
 ငါးမျှားခြင်းသည် မတူညီသော ယဉ်ကျေးမှု များစွာ အကြားတွင် လူကြိုက်များသော အတူတကွပြုလုပ်ရသော လှုပ်ရှားမှု တစ်ခု ဖြစ်သည်။
+#5/5
 
 4072
 Sharing common activities is sometimes helpful for sharing higher forms of thinking.
 အများနှင့်ဆိုင်သော လှုပ်ရှားမှုများကို မျှဝေခြင်းသည် မြင့်မားသော တွေးခေါ်မှု ပုံစံများကို မျှဝေရန် အတွက် တစ်ခါတစ်ရံ အထောက်အကူဖြစ်စေပါသည်။
+#5/5
 
 4073
 Most than one hundred officers served in each chapter.
 အခန်း တစ်ခုစီတွင် အရာရှိတစ်ရာကျော် တာဝန်ထမ်းဆောင်ခဲ့သည်။
+#5/5
 
 4074
 The chapters contained both common members and officers.
 အခန်းများတွင် သာမန် အဖွဲ့ဝင်များ နှင့် အရာရှိများ နှစ်ခုလုံး ပါ၀င်သည်။
+#5/5
 
 4075
 These units were responsible for converting native populations in Central America.
-ထို စာပိုဒ်ခွဲများက စင်ထရယ် အမေရိကတွင် တိုင်းရင်းသား လူဦးရေကို ပြောင်းလဲရန် အတွက် တာဝန်ရှိပါသည်။
+ထို အဖွဲ့ခွဲများက စင်ထရယ် အမေရိကတွင် တိုင်းရင်းသား လူဦးရေကို ပြောင်းလဲရန် အတွက် တာဝန်ရှိပါသည်။
+#5/5
 
 4076
 4 Utilitarians state that we are unequal because we feel pleasure and pain.
-လက်တွေ့အသုံးကျမှုဝါဒကိုယုံကြည်သူ ၄ယောက်က ကျွန်ုပ်တို့သည် ပျော်ရွှင်မှု နှင့် နာကျင်မှုကို ခံစားရ သောကြောင့် ကျွန်ုပ်တို့သည် မမျှတ ဟု ဖော်ပြသည်။ 
+လက်တွေ့အသုံးကျမှုဝါဒကိုယုံကြည်သူ ၄ယောက်က ကျွန်ုပ်တို့သည် ပျော်ရွှင်မှု နှင့် နာကျင်မှုကို ခံစားရ သောကြောင့် ကျွန်ုပ်တို့သည် မတူညီ ဟု ဖော်ပြသည်။ 
+#5/5
 
 4077
 Several Utilitarians assert that we are equal because we feel pain and pleasure.
 ကျွန်တော်တို့သည် နာကျင်မှု နှင့် ပျော်ရွှင်မှုကို ခံစားနေရ သောကြောင့် ကျွန်တော်တို့သည် သာတူညီမျှဖြစ်သည် ဆိုတာကို လက်တွေ့အသုံးကျမှုဝါဒကိုယုံကြည်သူ များစွာက အခိုင်အမာဆိုကြသည်။
+#5/5
 
 4078
 Some of the Utilitarians are women.
 တစ်ချို့သော လက်တွေ့အသုံးကျမှုဝါဒကိုယုံကြည်သူများသည် အမျိုးသမီးများ ဖြစ်ကြသည်။
+#5/5
 
 4079
 Children do not usually learn to communicate until the age of six.
 ကလေးများသည် များသောအားဖြင့် အသက် ခြောက်နှစ် အထိ ဆက်သွယ်ပြောဆို ရန် သင်ယူလေ့မရှိကြပါ။
+#5/5
 
 4080
 Five year olds are concerned with what happens next.
 ငါးနှစ်သားလေးတွေက နောက်ဆက်တွဲ ဘာဆက်ဖြစ်မလဲဆိုတာကို စိတ်ပူနေကြတယ်။
+#5/5
 
 4081
 Five year olds are generally considered poor conversationalists.
 ငါးနှစ်သားလေးတွေကို ယေဘုယျအားဖြင့် အပြန်အလှန်စကားပြောဆိုမှုမှာ အားနည်းကြသည်။
+#5/5
 
 4082
 Convergent flow allows classification.
 ကွန်ဗားဂျန့် ဖလိုးသည် အမျိုးအစားခွဲခြင်းကို ခွင့်ပြုသည်။
+#5/5
 
 4083
 Convergent flow is influenced by population.
 ကွန်ဗားဂျန့် ဖလိုးကို လူဦးရေအားဖြင့် လွှမ်းမိုးထားသည်။
+#5/5
 
 4084
 Convergent flow prevents classification.
 ကွန်ဗားဂျန့် ဖလိုးသည် အမျိုးအစားခွဲခြားခြင်းကို တားဆီးသည်။
+#5/5
 
 4085
 None of the neighborhoods had spiritual leaders who weren't priests.
 ရပ်ကွက်များတွင် ဘုန်းကြီး မဟုတ်သော ဝိညာဉ်ရေး ခေါင်းဆောင်များ မရှိခဲ့ပါ။
+#5/5
 
 4086
 Some neighborhoods had spiritual leaders who weren't priests.
 အချို့ ရပ်ကွက်များတွင် ဘုန်းကြီး မဟုတ်သော ဝိညာဉ်ရေး ခေါင်းဆောင်များ ရှိခဲ့သည်။
+#5/5
 
 4087
 Some of the spiritual leaders had black hair.
 ဝိညာဉ်ရေး ခေါင်းဆောင် အချို့တွင် အနက်ရောင် ဆံပင် ရှိခဲ့သည်။
+#5/5
 
 4088
 The exam did not use a rating scale and was therefore pointless.
 စာမေးပွဲသည် အဆင့် သတ်မှတ်ချက် တစ်ခုကို အသုံးမပြုသောကြောင့် အဓိပ္ပာယ်မရှိပေ။
+#5/5
 
 4089
 The exam was used for the sole purpose of testing knowledge of the Chicano culture.
-စာမေးပွဲကို ချီကန်နို ယဉ်ကျေးမှု ၏ အသိပညာကို စမ်းသပ်ရန် တစ်ခုတည်းသော ရည်ရွယ်ချက်အတွက် အသုံးပြုခဲ့သည်။
+စာမေးပွဲကို  Chicano ယဉ်ကျေးမှု ၏ အသိပညာကို စမ်းသပ်ရန် တစ်ခုတည်းသော ရည်ရွယ်ချက်အတွက် အသုံးပြုခဲ့သည်။
+#5/5
 
 4090
 The exam was used to assess the candidate's knowledge of the Chicano culture.
-စာမေးပွဲကို လျှောက်ထားသူ၏ ချီကန်နို ယဉ်ကျေးမှုဆိုင်ရာ အသိပညာကို အကဲဖြတ်ရန် အသုံးပြုခဲ့သည်။
+စာမေးပွဲကို လျှောက်ထားသူ၏  Chicano ယဉ်ကျေးမှုဆိုင်ရာ အသိပညာကို အကဲဖြတ်ရန် အသုံးပြုခဲ့သည်။
+#5/5
 
 4091
 A nonstationary world is undesirable to some if it must account for information from the distant past.
 ဝေးကွာသော အတိတ်မှ သတင်းအချက်အလက်များကို ထည့်တွက်ရမည် ဆိုလျှင် အချို့သူများက ပြောင်းလဲနေသော ကမ္ဘာကြီးကို မလိုလားကြဘူး။
+#5/5
 
 4092
 All data from every time frame is valid for any world.
 အချိန် မူဘောင်တိုင်း မှ အချက်အလက် အားလုံးသည် မည်သည့် ကမ္ဘာအတွက်မဆို တရားဝင်သည်။
+#5/5
 
 4093
 These hypothetical worlds are used to forecast weather patterns.
 ထို ဖြစ်နိုင်ဖွယ်ရာဟုမှန်းဆရသော ဂြိုလ်များသည် ရာသီဥတု ပုံစံများကို ခန့်မှန်း ရန် အသုံးပြုသည်။
+#5/5
 
 4094
 Trimers and photons can be added at a constant rate.
-ညှပ်များ နှင့် ဖိုတွန်များကို အဆက်မပြတ်သော နှုန်းထား တစ်ခု ဖြင့် ပေါင်းထည့်နိုင်သည်။
+ညှပ်များ နှင့် ဖိုတွန်များကို ကိန်းသေ နှုန်းထား တစ်ခု ဖြင့် ပေါင်းထည့်နိုင်သည်။
+#4/5
 
 4095
 You can't add things at a constant rate.
-အရာဝတ္ထုများကို အဆက်မပြတ်သော နှုန်းထား တစ်ခု မှာ ပေါင်းထည့်၍မရပါ။
+အရာဝတ္ထုများကို ကိန်းသေ နှုန်းထား တစ်ခု မှာ ပေါင်းထည့်၍မရပါ။
+#5/5
 
 4096
 You should add trimers and photons at a constant rate if you want to study the results.
-မင်းက ရလဒ်များကို လေ့လာလိုပါလျှင် ညှပ်များ နှင့် ဖိုတွန်များကို အဆက်မပြတ်သော နှုန်းထား တစ်ခု ဖြင့် ပေါင်းထည့်သင့်သည်။
+မင်းက ရလဒ်များကို လေ့လာလိုပါလျှင် ညှပ်များ နှင့် ဖိုတွန်များကို ကိန်းသေ နှုန်းထား တစ်ခု ဖြင့် ပေါင်းထည့်သင့်သည်။
+#5/5
 
 4097
 In the final chapter, I only discuss how many licks it takes to get to the center of a Tootsie Roll Pop.
 နောက်ဆုံး အခန်း တွင် ၊ တုဆယ် ရိုးလ် ပေါ့ ၏ ဗဟို သို့ ရောက်ရန် ဖြေရှင်းမှုများ ဘယ်လောက်များများ ယူရမည်ကိုသာ ဆွေးနွေးပါသည်။
+#5/5
 
 4098
 In the last chapter I wonder how much the universe is responsible for the eccentricities of human behavior.
 နောက်ဆုံးအခန်းတွင် လူသားတို့၏ အမူအကျင့်များ ဆန်းကြယ်မှု အတွက် စကြဝဠာသည် မည်မျှ တာဝန်ရှိသည်ကို ကျွန်ုပ် တွေးမိပါသည်။
+#5/5
 
 4099
 In the last chapter, I considered the universe itself.
-နောက်ဆုံးအခန်းတွင် ၊ ငါသည် စကြဝဠာကို ကိုယ်တိုင် သုံးသပ်ခဲ့သည်။
+နောက်ဆုံးအခန်းတွင် ၊ ငါသည် စကြဝဠာကို ကိုယ်တိုင် စဉ်းစားခဲ့သည်။
+#4/5
 
 4100
 Children can learn how people are similar and different.
 ကလေးတွေဟာ လူတွေရဲ့ တူညီပုံ နှင့် ကွဲပြားပုံက ဘယ်လိုဆိုတာကို လေ့လာနိုင်ပါတယ်။
+#5/5

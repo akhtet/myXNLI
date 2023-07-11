@@ -1,449 +1,501 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 1801
 Costume by Brigitte Doth, Jade Stice, and Penny Laimana.
 ဘရစ်ကစ် ဒက် ၊ ဂျိတ် ဆွဇ် ၊ နှင့် ပန်နီး လိုင်းမန်းနာ တို့၏ ၀တ်စုံ။
+2/5
 
 1802
 You can see by reading the code, my friend that there are still many federal and state tax advantages for making charitable contributions.
-သင်သည် ကုသိုလ်ဖြစ် အလှူငွေ ထည့်ဝင်ခြင်း အတွက် ပြည်ထောင်စု နှင့် ပြည်နယ် အခွန်ဆိုင်ရာ အကျိုးကျေးဇူးများစွာ ရှိပါသေးကြောင်း ကို ကျွန်ုပ်၏မိတ်ဆွေ ၊ ကုဒ်ကို ဖတ်ခြင်းဖြင့် မြင်နိုင်ပါသည်။
+သင်သည် ကုသိုလ်ဖြစ် အလှူငွေ ထည့်ဝင်ခြင်း အတွက် ပြည်ထောင်စု နှင့် ပြည်နယ် အခွန် အကျိုးကျေးဇူးများစွာ ရှိပါသေးကြောင်း ကို ကျွန်ုပ်၏မိတ်ဆွေ ၊ ကုဒ်ကို ဖတ်ခြင်းဖြင့် မြင်နိုင်ပါသည်။
+3/5
 
 1803
 But there is also intense competition among law schools to attract the best and brightest students.
-သို့သော် အကောင်းဆုံး နှင့် ဉာဏ်အကောင်းဆုံး ကျောင်းသားများကို ဆွဲဆောင်ရန်အတွက် ဥပဒေ ကျောင်းများ အကြားတွင် ပြိုင်ဆိုင်မှု များလည်း ပြင်းထန်သည်။
+သို့သော် အကောင်းဆုံး နှင့် အထက်မြက်ဆုံး ကျောင်းသားများကို ဆွဲဆောင်ရန်အတွက် ဥပဒေ ကျောင်းများ အကြားတွင် ပြိုင်ဆိုင်မှု များလည်း ပြင်းထန်သည်။
+4/5
 
 1804
 The degreed educators of the Social Health Association provide in-school presentations in three
-လူမှုရေးဆိုင်ရာ ကျန်းမာရေး အသင်း၏ ဘွဲ့လွန် ပညာရေးမှူးများသည် ကျောင်းတွင်း တင်ပြချက်များကို ထိုနေရာတွင် ထောက်ပံ့ပေးသည်
+လူမှုရေးဆိုင်ရာ ကျန်းမာရေး အသင်း၏ ဘွဲ့ရပညာရေးမှူးများသည် ကျောင်းတွင်း တင်ပြချက်များကို ထိုနေရာတွင် ထောက်ပံ့ပေးသည်။
+3/5
 
 1805
 The cost of creating these homes far exceeds what our buyers cm pay, so we rely on grants and individual donations to keep them affordable.
-ဤ အိမ်များ ဖန်တီးရာတွင် ကုန်ကျစရိတ်သည် ကျွန်ုပ်တို့၏ ဝယ်သူများ ပေးနိုင်သော အရာထက် များစွာ ကျော်လွန်နေ သောကြောင့် ၊ ၎င်းတို့ကို တတ်နိုင်စေရန်အတွက် ထောက်ပံ့ငွေများ နှင့် တစ်ဦးချင်း လှူဒါန်းမှုများအပေါ် ကျွန်တော်တို့ အားကိုးပါသည်။
+ဤ အိမ်များ ဖန်တီးရာတွင် ကုန်ကျစရိတ်သည် ကျွန်ုပ်တို့၏ ဝယ်သူများ ပေးနိုင်သည်ထက် များစွာ ကျော်လွန်နေ သောကြောင့် ၊ ၎င်းတို့ကို တတ်နိုင်စေရန်အတွက် ထောက်ပံ့ငွေများ နှင့် တစ်ဦးချင်း လှူဒါန်းမှုများအပေါ် ကျွန်တော်တို့ အားကိုးပါသည်။
+4/5
 
 1806
 Last year, 17% of the Museum's operating budget came from loyal donors' contributions.
-လွန်ခဲ့သည့်နှစ်တွင် ၊ ပြတိုက် လည်ပတ်မှု ဘတ်ဂျက်၏ ၁၇% သည် သစ္စာရှိ အလှူရှင်များ၏ ပံ့ပိုးမှုများမှ ဖြစ်လာခဲ့သည်။
+လွန်ခဲ့သည့်နှစ်တွင် ၊ ပြတိုက် လည်ပတ်မှု ရန်ပုံငွေ၏ ၁၇% သည် သစ္စာရှိ အလှူရှင်များ၏ ပံ့ပိုးမှုများမှ လာခဲ့သည်။
+4/5
 
 1807
 .By reaching students whom are not otherwise being reached through school and other community institutions.
-. ကျောင်းနှင့် အခြားသော ရပ်ရွာ အဖွဲ့အစည်းများ မှတဆင့် အခြားသူများထံ မရောက်နိုင်သော ကျောင်းသားများကို ရောက်ရှိစေခြင်းဖြင့်။
+. ကျောင်းနှင့် အခြားသော ရပ်ရွာ အဖွဲ့အစည်းများ ကတဆင့် မရောက်ရှိသော ကျောင်းသားများကို ရောက်ရှိစေခြင်းဖြင့်။
+2/5
+# I think i know what it actually means. But without knowing the context, i think i should/could not change ရောက်ရှိ  to anything else.
 
 1808
 It means everything to Becky, Stephanie, Marcus and Emily, and students like them.
-သူတို့ကဲ့သို့သော ဘီကီ ၊ စတက်ဖနီ ၊ မားကပ် နဲ့ အမ်မလီ နဲ့ ၊ ကျောင်းသားတွေက အရာအားလုံးကို ဆိုလိုတာပါ။
+ဘီကီ ၊ စတက်ဖနီ ၊ မားကပ် နဲ့ အမ်မလီ နဲ့  သူတို့ကဲ့သို့သော ကျောင်းသားတွေအတွက် အဲဒါက အရာအားလုံး ဖြစ်တယ်။
+2/5
 
 1809
 Your investment continues the high quality of all aspects of the Museum and makes new achievements possible.
-သင်၏ ရင်းနှီးမြှုပ်နှံမှုသည် ပြတိုက်၏ ကဏ္ဍ အားလုံး၏ အရည်အသွေးကို ဆက်လက် မြင့်မားစေပြီး ဖြစ်နိုင်သော အောင်မြင်မှု အသစ်များကို ဖြစ်ပေါ်စေသည်။
+သင်၏ ရင်းနှီးမြှုပ်နှံမှုသည် ပြတိုက်၏ ကဏ္ဍ အားလုံး၏ အရည်အသွေးကို ဆက်လက် မြင့်မားစေပြီး အောင်မြင်မှု အသစ်များကို ဖြစ်ပေါ်စေပါသည်။
+4/5
 
 1810
 In appreciation for your contribution $100 or more to the campaign, you and a guest are invited to attend a special reception on Thursday, March 23,2000 from 5:30- 8:00 PM in Herron Hall.
-ကမ်ပိန်းအတွက် $၁၀၀ သို့မဟုတ် ထို့ထက်ပိုပြီး သင်၏ ပံ့ပိုးပေးမှု အတွက် ကျေးဇူးတင်စွာဖြင့် ၊ သင်သည် ဟဲရွန် ခန်းမ ၌ ၂၀၀၀ ခုနှစ် မတ်လ ၂၃ရက် ၊  ကြာသပတေးနေ့၊ ညနေ ၅:၃၀ မှ ၈:၀၀ နာရီအတွင်း အထူး ဧည့်ခံပွဲ တစ်ခုကို တက်ရောက်ရန် ဖိတ်ကြားအပ်ပါသည်။
+ကမ်ပိန်းအတွက် $၁၀၀ သို့မဟုတ် ထို့ထက်ပိုပြီး သင်၏ ထည့်ဝင်လှူဒါန်းမှု အတွက် ကျေးဇူးသောအားဖြင့် ၊ သင်နှင့် သင်၏ဧည့်သည် တစ်ဦးအား ဟဲရွန် ခန်းမ ၌ ၂၀၀၀ ခုနှစ် မတ်လ ၂၃ရက် ၊  ကြာသပတေးနေ့၊ ညနေ ၅:၃၀ မှ ၈:၀၀ နာရီအတွင်း အထူး ဧည့်ခံပွဲ တစ်ခုကို တက်ရောက်ရန် ဖိတ်ကြားအပ်ပါသည်။
+4/5
 
 1811
 we will make the goal.
 ငါတို့ ပန်းတိုင်ကို ရောက်လိမ့်မယ်။
+4/5
 
 1812
 I hope you will remain a contributor and even consider honoring our 25 years of storytelling by increasing your gift $25 this year.
-သင်သည် ပံ့ပိုးကူညီသူ တစ်ယောက် အဖြစ် ဆက်ရှိနေမှာဖြစ်ပြီး သင်၏လက်ဆောင် $၂၅ ကို ယခုနှစ်တွင် တိုးမြှင့်ခြင်းဖြင့် ကျွန်ုပ်တို့၏ ၂၅ နှစ်ကြာ ပုံပြင်ပြောခြင်းကို ဂုဏ်ပြုခြင်းအား ထည့်သွင်းစဉ်းစားရန်ပင် ကျွန်တော် မျှော်လင့်ပါသည်။
+သင်သည် ပံ့ပိုးကူညီသူ တစ်ယောက် အဖြစ် ဆက်ရှိနေပေးရန်နှင့် သင်၏လက်ဆောင် ၂၅ ဒေါ်လာ ကို ယခုနှစ်တွင် တိုးမြှင့်ခြင်းဖြင့် ကျွန်ုပ်တို့၏ ၂၅ နှစ်ကြာ ပုံပြင်ပြောခြင်းကို ဂုဏ်ပြုရန်အတွက်စဉ်းစားပေးရန်ပင် ကျွန်တော် မျှော်လင့်ပါသည်။
+4/5
 
 1813
 And, I hope that you will support the artistic and educational efforts of Civic Theatre again this year.
-ပြီးတော့ ၊ သင်သည် စီဗစ် ကဇာတ်ရုံ ၏ အနုပညာ နှင့် ပညာရေးဆိုင်ရာ ကြိုးပမ်းအားထုတ်မှုများကို ယခုနှစ်တွင် ထပ်မံ ပံ့ပိုးပေးမည်ဟု ကျွန်တော် မျှော်လင့်ပါသည်။
+ထို့ပြင်၊ သင်သည် Civic ပြဇာတ်ရုံ ၏ အနုပညာ နှင့် ပညာရေးဆိုင်ရာ ကြိုးပမ်းအားထုတ်မှုများကို ယခုနှစ်တွင် ထပ်မံ ပံ့ပိုးပေးမည်ဟု ကျွန်တော် မျှော်လင့်ပါသည်။
+4/5
 
 1814
 The one thing I am most proud of is that the IRT is a leader across the country in providing theatre experiences for students.
-ကျွန်တော် ဂုဏ်အယူဆုံး တစ်ချက်ကတော့ အိုင်အာတီ သည် ကျောင်းသားများ အတွက် ပြဇာတ်ဆိုင်ရာ အတွေ့အကြုံများကို ပံ့ပိုးပေးရာတွင် နိုင်ငံ တစ်ဝှမ်းတွင် ခေါင်းဆောင်မှု တစ်ခု ဖြစ်နေခြင်းပင် ဖြစ်သည်။
+ကျွန်တော် ဂုဏ်အယူဆုံး တစ်ချက်ကတော့ IRT ဟာ ကျောင်းသားများ အတွက် ပြဇာတ်ဆိုင်ရာ အတွေ့အကြုံများကို ပံ့ပိုးပေးရာတွင် နိုင်ငံ တစ်ဝှမ်းလုံးတွင် ဦးဆောင်သူ တစ်ယောက် ဖြစ်နေခြင်း ဖြစ်ပါတယ်။
+4/5
 
 1815
 The boxes will be marked with the names of Cassie, Corey, Rachel, Isaiah, Kelly, Kyle, and the other students of Columbine High School who lost their lives earlier this year.
-သေတ္တာများတွင် ကေစီ ၊ ကော်ရီ ၊ ရေချယ် ၊ ဟေရှာယ ၊ ကယ်လီ ၊ ကလ် နှင့် ၊ ယခုနှစ်အစောပိုင်းတွင် သူတို့ အသက်တွေ ဆုံးရှုံးခဲ့သော ကော်လန်ဘိုင်း အထက်တန်း ကျောင်း၏ အခြားကျောင်းသားများ၏ အမည်များကို မှတ်သားထားမည်ဖြစ်သည်။
+ကေစီ ၊ ကော်ရီ ၊ ရေချယ် ၊ ဟေရှာယ ၊ ကယ်လီ ၊ ကလ် နှင့် ၊ ယခုနှစ်အစောပိုင်းတွင် အသက် ဆုံးရှုံးခဲ့သော ကော်လန်ဘိုင်း အထက်တန်း ကျောင်းမှ အခြားကျောင်းသားများ၏ အမည်များကို သေတ္တာများတွင် မှတ်တမ်းထိုးထားမည်ဖြစ်သည်။
+4/5
 
 1816
 For the IUPUI University Libraries to have collections, access, and services which meet your expectations requires friends and partners both inside the University and throughout the community, state and nation.
-အိုင်ယူပီယူအိုင် တက္ကသိုလ် စာကြည့်တိုက်များအတွက် သင်၏ မျှော်မှန်းချက်များနှင့် ကိုက်ညီသည့် စုဆောင်းမှုများ ၊ ဝင်ရောက်ကြည့်ရှုရန် ၊ နှင့် ဝန်ဆောင်မှုများ ရရှိရန် တက္ကသိုလ် အတွင်း သာမက ရပ်ရွာ ၊ ပြည်နယ် နှင့် နိုင်ငံတစ်ဝှမ်းလုံးရှိ သူငယ်ချင်းများ နှင့် လုပ်ဖော်ကိုင်ဖက်များ လိုအပ်ပါသည်။
+IUPUI တက္ကသိုလ် စာကြည့်တိုက်များအတွက် သင်၏ မျှော်မှန်းချက်များနှင့် ကိုက်ညီသည့် စုဆောင်းမှုများ ၊ ဝင်ရောက်ကြည့်ရှုနိုင်မှု၊ နှင့် ဝန်ဆောင်မှုများ ရရှိရန် တက္ကသိုလ် အတွင်း မှသာမက ရပ်ရွာ ၊ ပြည်နယ် နှင့် နိုင်ငံတစ်ဝှမ်းလုံးရှိ သူငယ်ချင်းများ နှင့် လုပ်ဖော်ကိုင်ဖက်များ လိုအပ်ပါသည်။
+4/5
+# access is the tricky word to translate. As much as I know it is widely translated as လက်လှမ်းမီရရှိနိုင်မှု. if you prefer that, i will use that word. 
 
 1817
 We have so many more accomplishments to strive for, I cannot imagine a better corporate partner to help bring them about.
-ကျွန်ုပ်တို့တွင် ကြိုးစားအားထုတ်ရန် နောက်ထပ် အောင်မြင်မှုများ များစွာ ရှိပါသည် ၊ ၎င်းတို့နဲ့ ပတ်သက်ပြီး ကူညီပေးရန် အတွက် ပိုမိုကောင်းမွန်သော ပူးပေါင်းလုပ်ဆောင်မည့် လုပ်ဖော်ကိုင်ဖက် တစ်ဦးကို ကျွန်တော် စိတ်ကူးမယဉ်နိုင်ပါ။
+ကျွန်တော်တို့တွင် ကြိုးစားအားထုတ်ရယူရန်အတွက် နောက်ထပ် အောင်မြင်မှုများ များစွာ ရှိနေပါသည် ၊ ၎င်းတို့ကို ရယူနိုင်အောင် ကူညီပေးရန်အတွက် ဒီထက် ပိုမိုကောင်းမွန်သည့် ပူးပေါင်းလုပ်ဆောင်မည့် မိတ်ဖက်ကို ကျွန်တော် စိတ်တောင်မကူးကြည့်နိုင်ပါဘူး။
+4/5
 
 1818
 Whether its a literature topic, a humanities issue, or an important person in history -- every play has a direct tie-in to classroom curriculum.
-စာပေ အကြောင်းအရာ တစ်ခု ၊ လူသားမျိုးနွယ်ဆိုင်ရာ ကိစ္စ တစ်ခု ၊ သို့မဟုတ် သမိုင်းတွင် အရေးပါသော ပုဂ္ဂိုလ် တစ်ယောက် ဖြစ်စေ -- ပြဇာတ်တိုင်းတွင် စာသင်ခန်း သင်ရိုးညွှန်းတမ်း နှင့် တိုက်ရိုက် ဆက်စပ်မှု တစ်ခု ရှိသည် ။
+စာပေဆိုင်ရာ အကြောင်းအရာ တစ်ခု ဖြစ်စေ၊ လူသားမျိုးနွယ်ဆိုင်ရာ ကိစ္စတစ်ခု ဖြစ်စေ၊ သို့မဟုတ် သမိုင်းတွင် အရေးပါသော ပုဂ္ဂိုလ် တစ်ယောက် ဖြစ်စေ -- ပြဇာတ်တိုင်းတွင် စာသင်ခန်း သင်ရိုးညွှန်းတမ်း နှင့် တိုက်ရိုက် ချိတ်ဆက်မှု တစ်ခု ရှိသည်။
+3/5
 
 1819
 Gerald L. Bepko 1995 United Way of Central Indiana Campaign Chair
-ဂျဲရဒ် အယ် ဘတ်ကို ၁၉၉၅ ခုနှစ် အချက်အချာကျသော ယူနိုက်တတ်ဝေး အင်ဒီယားနား ကမ်ပိန်း သဘာပတိ
+ဂျဲရဒ် အယ် ဘတ်ကို ၁၉၉၅ ခုနှစ် ယူနိုက်တတ်ဝေး အလည်ပိုင်း Indiana ကမ်ပိန်း သဘာပတိ
+2/5
 
 1820
 He was for the students an advisor, mentor, chaplain, uncle, and true friend.
-သူသည် ကျောင်းသားများ အတွက် အကြံပေး ၊ လက်ဦးဆရာ ၊ သင်းအုပ်ဆရာ ၊ ဦးလေး ၊ နှင့် စစ်မှန်သော သူငယ်ချင်း တစ်ယောက် ဖြစ်ခဲ့သည်။
+သူသည် ကျောင်းသားများ အတွက် အကြံပေးသူ ၊ ကောင်းရာညွှန်ပြသူ ၊ သင်းအုပ်ဆရာ ၊ ဦးလေး ၊ နှင့် စစ်မှန်သော သူငယ်ချင်း တစ်ယောက် ဖြစ်ခဲ့သည်။
+4/5
 
 1821
 To better help us assist you, write, fax or E-mail and tell us more about yourself.
-ကျွန်ုပ်တို့ကို ပိုမို ကောင်းမွန်စွာ ကူညီရန် သင်သည် ၊ စာရေးပါ ၊ ဖက်စ် သို့မဟုတ် အီးမေးလ်ဖြင့် သင့်အကြောင်း ကျွန်ုပ်တို့ကို ပိုမို ပြောပြပါ။
+ကျွန်ုပ်တို့ သင့်ကို ပိုမို ကောင်းမွန်စွာ ကူညီနိုင်ရန် ၊ စာ၊ ဖက်စ် သို့မဟုတ် အီးမေးလ်ဖြင့် သင့်အကြောင်း ကျွန်ုပ်တို့ကို ပိုမို ပြောပြပါ။
+4/5
 
 1822
 Your support helps the Society maintain quality care of animal and plant collections and to conduct important research on rare species including those in the Species Survival Plan.
-သင်၏ ပံ့ပိုးကူညီမှုသည် လူ့အဖွဲ့အစည်းအား တိရစ္ဆာန် နှင့် အပင် စုဆောင်းမှုများ၏ အရည်အသွေး စောင့်ရှောက်မှုကို ထိန်းသိမ်းရန် နှင့် မျိုးစိတ်များရှင်သန်ရေးအစီအစဉ် ရှိ မျိုးစိတ်များ အပါအဝင် ရှားပါး မျိုးစိတ်များ အပေါ် အရေးကြီးသော သုတေသန ပြုလုပ်ရန် ကူညီပေးပါသည်။
+သင်၏ ပံ့ပိုးကူညီမှုသည် အဖွဲ့အစည်းအနေဖြင့် တိရစ္ဆာန် နှင့် အပင် စုဆောင်းမှုများ၏ အရည်အသွေး စောင့်ရှောက်မှုကို ထိန်းသိမ်းရန် နှင့် မျိုးစိတ်များရှင်သန်ရေးအစီအစဉ် ရှိ မျိုးစိတ်များ အပါအဝင် ရှားပါး မျိုးစိတ်များ အကြောင်း အရေးပါသော သုတေသန ပြုလုပ်ရန် ကူညီပေးပါသည်။
+4/5
 
 1823
 , smaller classes, use of technology), and from a longstanding shortage of student support space (lockers, food service, offices for student organizations).
-၊ ပိုမိုငယ်ရွယ်သော အတန်းများ ၊ နည်းပညာ အသုံးပြုမှု )၊ နှင့် ကျောင်းသား ထောက်ပံ့ရေး နေရာ (လော့ခ်ကာများ၊ အစားအသောက် ဝန်ဆောင်မှု၊ ကျောင်းသား အဖွဲ့အစည်းများ အတွက် ရုံးခန်းများ) ၏ ကာလကြာရှည် ပြတ်လပ်မှု တစ်ခု မှ။
+၊ ပိုမိုသေးငယ်သော အတန်းများ ၊ နည်းပညာ အသုံးပြုမှု )၊ နှင့် ကျောင်းသား ထောက်ပံ့ရေး နေရာ ကာလကြာရှည် ပြတ်လပ်မှု တစ်ခုမှ (ပစ္စည်းသိမ်းနေရာများ၊ အစားအသောက် ဝန်ဆောင်မှု၊ ကျောင်းသား အဖွဲ့အစည်းများ အတွက် ရုံးခန်းများ) ။
+3/5
 
 1824
 The Clinton Birthplace Foundation is a non-political 501 (c) (3) non-profit organization dependent on your contributions.
-ကလင်တန် မွေးရပ်မြေ ဖောင်ဒေးရှင်းသည် သင်၏ ပံ့ပိုးမှုများ အပေါ် မူတည်၍ နိုင်ငံရေးမဟုတ်သော ၅၀၁ (c) (3) အကျိုးအမြတ်မယူသော အဖွဲ့အစည်း တစ်ခု ဖြစ်သည်။
+ကလင်တန် မွေးရပ်မြေ ဖောင်ဒေးရှင်းသည် သင်၏ ပံ့ပိုးမှုများ အပေါ် မှီခိုသည့် နိုင်ငံရေးမဟုတ်သော ၅၀၁ (c) (3) အကျိုးအမြတ်မယူသော အဖွဲ့အစည်း တစ်ခု ဖြစ်သည်။
+4/5
 
 1825
 I believe just the opposite.
 ဆန့်ကျင်ဘက်ကိုပဲ ငါ ယုံကြည်တယ်။
+5/5
 
 1826
 Your help today will enable us to strengthen further America's philanthropic heritage by expanding the Center's crucial educational, leadership and outreach programs.
-ယနေ့ သင်၏ အကူအညီသည် စင်တာ ၏ အရေးကြီးသော ပညာရေး၊ ခေါင်းဆောင်မှု နှင့် ဖြန့်ဝေမှု အစီအစဉ်များကို ချဲ့ထွင်ခြင်းဖြင့် နောက်ထပ် အမေရိကန် ၏ ပရဟိတ အမွေအနှစ်များကို အားကောင်းလာစေရန် ကျွန်တော်တို့ကို တတ်နိုင်စေလိမ့်မည်။
+ယနေ့ သင်၏ ကူညီမှုသည် စင်တာ ၏ အရေးပါသော ပညာရေး၊ ခေါင်းဆောင်မှု နှင့် ဖြန့်ဝေမှု အစီအစဉ်များကို ချဲ့ထွင်ခြင်းဖြင့် အမေရိကန် ၏ ပရဟိတ အမွေအနှစ်များကို ထပ်လောင်း အားကောင်းလာစေရန်အတွက် ကျွန်ုပ်တို့ လုပ်နိုင်စေလိမ့်မည်။
+4/5
 
 1827
 Provide a professional atmosphere for many talented community actors to hone and perfect their skills.
-အရည်အချင်းပြည့်မီသော ရပ်ကွက်ရှိ သရုပ်ဆောင် များစွာ အတွက် အတတ်ပညာပိုင်းဆိုင်ရာ ပတ်ဝန်းကျင်ကောင်း တစ်ခု ကို ဖြည့်ဆည်းပေးပြီး ၎င်းတို့၏စွမ်းရည်များကို ပြီးပြည့်စုံစေပါသည်။
+အရည်အချင်းပြည့်မီသည့် ရပ်ရွာ သရုပ်ဆောင်များစွာ အနေဖြင့် ၄င်းတို့၏ စွမ်းရည်များကို ပြည့်စုံ တိုးတက်စေရန်အတွက် အတတ်ပညာပိုင်းဆိုင်ရာ ပတ်ဝန်းကျင်ကောင်း တစ်ခု ကို ဖြည့်ဆည်းပေးပါ။
+3/5
 
 1828
 The Clinton Birthplace Foundation offers full membership privileges to those who pay only $10.
 ကလင်တန် မွေးရပ်မြေ ဖောင်ဒေးရှင်းသည် ၁၀$ သာ ပေးဆောင်သူများကို အပြည့်အဝ အဖွဲ့ဝင် အခွင့်အရေးများ ပေးသည်။
+4/5
 
 1829
 Last Sunday, June 18th, the rain came and severely curtailed attendance at this year's Keepers of the Lore/Joseph Campbell Festival of Myth, Folklore and Story.
-ပြီးခဲ့သည့် တနင်္ဂနွေနေ့ ၊ ဇွန်လ ၁၈ ရက်နေ့တွင် ၊ မိုးရွာလာ ပြီး ယခုနှစ် ၏ ဒဏ္ဍာရီ ၊ ရိုးရာပုံပြင် နှင့် ပုံပြင်များ၏ အစဉ်အလာ/ဂျိုးဇက်ကမ်းဘဲလ် ပွဲတော် ထိန်းသိမ်းသူများက တက်ရောက်သူများအား ပြင်းထန်စွာ ကန့်သတ်ခဲ့သည်။
+ပြီးခဲ့သည့် တနင်္ဂနွေနေ့ ၊ ဇွန်လ ၁၈ ရက်နေ့တွင် ၊ မိုးရွာခဲ့ပြီး ယခုနှစ် ပုံပြင်များ၏ အစဉ်အလာထိန်းသိမ်းသူများ/ ဂျိုးဇက်ကမ်းဘဲလ် ဒဏ္ဍာရီ ၊ ရိုးရာပုံပြင် နှင့် ပုံပြင် ပွဲတော် သို့ လာရောက်သူအရေအတွက်ကို ဆိုးဆိုးဝါးဝါး လျော့နည်းစေခဲ့သည်။
+4/5
 
 1830
 What began as a touring group of actors in 1973 that played to students in cities like Gary , Elkhart and Terre Haute, the IRT education program today now
-ဂယ်ရီ , အဲလ်ဟတ် နှင့် တဲရာ ဟောတီ ကဲ့သို့သော မြို့ကြီးများတွင် ကျောင်းသားများအား ဖျော်ဖြေခဲ့သည့် ၁၉၇၃ ခုနှစ်တွင် ခရီးသွား သရုပ်ဆောင်များ အဖွဲ့ တစ်ခု အဖြစ် စတင်ခဲ့ရာ ၊ ယနေ့ ယခု အိုင်အာတီ ပညာရေးအစီအစဉ်
+ဂယ်ရီ , အဲလ်ဟတ် နှင့် တဲရာ ဟောတီ ကဲ့သို့သော မြို့ကြီးများတွင် ကျောင်းသားများအား ဖျော်ဖြေခဲ့သည့် ၁၉၇၃ ခုနှစ်တွင် ခရီးသွား သရုပ်ဆောင်များ အဖွဲ့ တစ်ခု အဖြစ် စတင်ခဲ့ရာ ၊ ယနေ့ ယခု IRT ပညာရေးအစီအစဉ်
+4/5
 
 1831
 As we celebrate the 90th birthday of Indiana University School of Medicine, we realize how much we owe to dreamers and their dreams.
-ကျွန်ုပ်တို့သည် အင်ဒီယားနား ဆေးပညာဆိုင်ရာ တက္ကသိုလ် ကျောင်း ၏ နှစ် ၉၀ပြည့် မွေးနေ့ကို ဂုဏ်ပြုသည့် အနေဖြင့် ၊ ကျွန်ုပ်တို့သည် စိတ်ကူးယဉ်သူများနှင့် သူတို့၏ အိပ်မက်များကို မည်မျှ ပေးဆောင်ရမည်ကို သိရှိလာပါသည်။
+ကျွန်ုပ်တို့သည် Indiana ဆေးပညာဆိုင်ရာ တက္ကသိုလ် ကျောင်း ၏ နှစ် ၉၀ပြည့် မွေးနေ့ကို ဂုဏ်ပြုရင်း ၊ ကျွန်ုပ်တို့သည် စိတ်ကူးယဉ်သူများနှင့် သူတို့၏ စိတ်ကူးအိပ်မက်များအပေါ် မည်မျှ ကျေးဇူးရှိကို သိရှိလာပါသည်။
+3/5
 
 1832
 As an Inner Circle member you can expect some of the finest seats on the reviewing stand for the world's greatest celebration of democracy --the 52nd American Presidential Inauguration.
-အင်းနား ဆိုင်ကယ် အဖွဲ့ဝင် တစ်ဦး အနေဖြင့် ၊ ၅၂ ကြိမ်မြောက် အမေရိကန် သမ္မတ ကျမ်းသစ္စာကျိန်ဆိုပွဲ ဖြစ်သော -- ကမ္ဘာ့ အကြီးကျယ်ဆုံး ဒီမိုကရေစီပွဲ အတွက် ပြန်လည်သုံးသပ်သည့် ရပ်တည်မှုတွင် အကောင်းဆုံး နေရာ အချို့ကို သင်မျှော်လင့်နိုင်သည်။
+အင်းနား ဆိုင်ကယ် အဖွဲ့ဝင် တစ်ဦး အနေဖြင့် ၊ ဒီမိုကရေစီကို ကမ္ဘာ့အကြီးကျယ်ဆုံးဂုဏ်ပြုသည့်ပွဲဖြစ်သော  - - ၅၂ ကြိမ်မြောက် အမေရိကန် သမ္မတ ကျမ်းသစ္စာကျိန်ဆိုပွဲအတွက် reviewing stand တွင် အကောင်းဆုံး ထိုင်ခံနေရာ အချို့ကို သင်မျှော်လင့်နိုင်ပါသည်။
+3/5
 
 1833
 I appreciate your consideration and hope that you will participate in this year's Annual Campaign.
-သင်၏ ထည့်သွင်းစဉ်းစားမှုကို ကျွန်တော် ကျေးဇူးတင်ပြီး ယခုနှစ်၏ နှစ်ပတ်လည် ကမ်ပိန်းတွင် သင် ပါဝင်နိုင်လိမ့်မည်ဟု မျှော်လင့်ပါသည်။
+သင်၏ ထည့်သွင်းစဉ်းစားမှုကို ကျွန်တော် ကျေးဇူးတင်ပြီး ယခုနှစ်၏ နှစ်ပတ်လည် ကမ်ပိန်းတွင် သင် ပါဝင်လိမ့်မည်ဟု မျှော်လင့်ပါသည်။
+4/5
 
 1834
 Wanda is as aware as any mother can be about the new possibilities you create, which she calls a wonderful thing to know.
-ဝမ်းဒါ သည် သင် ဖန်တီးနိုင်သည့် ဖြစ်နိုင်ခြေ အသစ်များ အကြောင်း မိခင်တိုင်း သိနိုင်သကဲ့သို့ ၊ သူမသည် အံ့သြဖွယ်ကောင်းသော အရာ တစ်ခု ဟု ခေါ်သည်ကို သိသည်။
+ဝမ်းဒါသည် သင် ဖန်တီးနိုင်သည့် ဖြစ်နိုင်ခြေ အသစ်များ အကြောင်းကို မည်သည့်မိခင်တိုင်းမဆိုသိနိုင်သကဲ့သို့ပင် သိရှိသတိထားမိပါသည်၊ အဲဒါဟာ သိရတာအံ့သြဖွယ်ကောင်းသော အရာတစ်ခု ဟု သူမက ခေါ်ဆိုသည်။
+3/5
 
 1835
 The children attending our shows prepare in advance for their theatrical experience through their class's curriculum
 ကျွန်ုပ်တို့၏ ရှိုးပွဲများကို တက်ရောက်သည့် ကလေးများသည် ၎င်းတို့၏ အတန်း၏ သင်ရိုးညွှန်းတမ်း မှတစ်ဆင့် ၎င်းတို့၏ ပြဇာတ် အတွေ့အကြုံ အတွက် ကြိုတင်ပြင်ဆင်ထားကြသည်
+4/5
 
 1836
 This is a wonderful time of year for storytelling.
 ဤသည်မှာ ပုံပြင်ပြောခြင်း အတွက် နှစ် တစ်နှစ် ၏ အံ့သြဖွယ် အချိန် ဖြစ်သည်။
+3/5
 
 1837
 We need resources to recruit and develop outstanding teachers.
-ကျွန်တော်တို့သည် ထူးချွန်သော ဆရာများကို ခေါ်ယူ ၍ ပြုစုပျိုးထောင်ရန် အရင်းအမြစ်များ လိုအပ်ပါသည်။
+ကျွန်တော်တို့သည် ထူးချွန်သော ဆရာများကို ခေါ်ယူခန့်အပ်ရန်နှင့် ပြုစုပျိုးထောင်ရန် အရင်းအမြစ်များ လိုအပ်ပါသည်။
+4/5
 
 1838
 The law school's 5,539 alumni form a distinguished group.
 ဥပဒေ ကျောင်း ၏ ကျောင်းသားဟောင်း ၅၅၃၉ ဦးသည် ထင်ရှားသော အုပ်စု တစ်ခုကို ဖွဲ့စည်းသည်။
+4/5
 
 1839
 Laurel wreaths, symbolizing victory, and olive branches symbolizing peace, also adorn the rug's border along with acanthus leaves.
-လော်ရယ် ပန်းကုံးများ ၊ အောင်ပွဲများကို သင်္ကေတပြုကာ ၊ ငြိမ်းချမ်းရေးကို ကိုယ်စားပြုသည့် သံလွင်ခက်များသည်လည်း ၊ ကော်ဇော ၏ အနားသတ်ကို စပယ်ပင် အရွက်များဖြင့် အလှဆင်ထားသည်။
+လော်ရယ် ပန်းကုံးများသည် အောင်ပွဲများကို သင်္ကေတပြုကာ ၊ ငြိမ်းချမ်းရေးကို ကိုယ်စားပြုသည့် သံလွင်ခက်များနှင့်၊ ကော်ဇော ၏ အနားသတ်ကိုလည်း စပယ်ပင် အရွက်များဖြင့် အလှဆင်ထားသည်။
+3/5
 
 1840
 I've got more than a job
-ကျွန်တော့်မှာ အလုပ် တစ်ခုထက် ပိုပါတယ်
+ငါ့မှာ အလုပ် တစ်ခုထက် ပိုရှိပါတယ်
+4/5
 
 1841
 In November, we sent letters sharing with you a story about the Boys &amp; Girls Club, a wonderful, positive place for children and youth in our community.
-နိုဝင်ဘာလတွင် ၊ ကျွန်ုပ်တို့၏ အသိုင်းအဝိုင်းရှိ ကလေးသူငယ်များ နှင့် လူငယ်များ အတွက် သာယာကောင်းမွန်သော နေရာ ၊ အံ့အားသင့်စရာ တစ်ခု ၊Boys &amp; Girls Clubအကြောင်း ပုံပြင် တစ်ပုဒ်ကို မင်းနဲ့အတူ ဝေမျှဖို့ ကျွန်တော်တို့ စာတွေ ပို့ခဲ့တယ်။
+နိုဝင်ဘာလတွင် ၊ ကျွန်ုပ်တို့၏ အသိုင်းအဝိုင်းရှိ ကလေးသူငယ်များ နှင့် လူငယ်များ အတွက် သာယာကောင်းမွန်သော နေရာ ၊ အံ့အားသင့်စရာ တစ်ခု ဖြစ်သည့်၊ Boys &amp; Girls Clubအကြောင်း ဇာတ်လမ်းတစ်ပုဒ်ကို သင့်ကို ဝေမျှဖို့ ကျွန်ုပ်တို့ စာတွေ ပို့ခဲ့ပါတယ်။
+3/5
 
 1842
 His sense of good fortune helped him to be the most beloved dean ever to serve at our law school.
-သူ၏ ကောင်းမွန်တဲ့ ကံကြမ္မာက သူ့ကို ငါတို့ ဥပဒေ ကျောင်းမှာ တာဝန်ထမ်းဖူးသမျှ အချစ်ဆုံး ဌာနမှူးဖြစ်လာအောင် ကူညီပေးခဲ့တယ်။
+သူ့ရဲ့ ကောင်းမွန်တဲ့ ကံကြမ္မာကို အာရုံခံနိုင်မှုက သူ့ကို ငါတို့ ဥပဒေ ကျောင်းမှာ တာဝန်ထမ်းဖူးသမျှတွေထဲမှာ ချစ်စရာအကောင်းဆုံး ဌာနမှူးဖြစ်လာအောင် ကူညီပေးခဲ့တယ်။
+3/5
 
 1843
 Enclosed is a reply card and envelope with the hope that you will consider beginning 1994 with a gift to IU.
-အထဲမှာရှိတာက အိုင်ယူ ကို လက်ဆောင် တစ်ခု နှင့်အတူ ၁၉၉၄ ခုနှစ် အစတွင် သင် စဉ်းစားမည်ဟု မျှော်လင့်ချက်ပါရှိသော အကြောင်းပြန်သည့် ကဒ် နှင့် စာအိတ် တစ်ခု ဖြစ်သည်။
+အထဲမှာပူးတွဲပါရှိတာက အိုင်ယူ ကို လက်ဆောင်တစ်ခု ပေးခြင်းနှင့်အတူ ၁၉၉၄ ခုနှစ် ကို သင် စတင်ရန် စဉ်းစားမည်ဟု မျှော်လင့်လျက် အကြောင်းပြန်သည့် ကဒ် နှင့် စာအိတ် တစ်ခု ဖြစ်သည်။
+3/5
 
 1844
 Your contributions to the Annual Fund at the Maennerchor Society level have provided significant assistance to the school.
-မန်းနားခါ လူမှုအဖွဲ့ အဆင့်ရှိ နှစ်စဉ်ရံပုံငွေသို့ သင်၏ ပံ့ပိုးမှုများသည် ကျောင်းအတွက် သိသာထင်ရှားသော အကူအညီများ ပေးဆောင်ခဲ့ပါသည်။
+မန်းနားခါ လူမှုအဖွဲ့ အဆင့်ရှိ နှစ်စဉ်ရံပုံငွေသို့ သင်၏ ပံ့ပိုးမှုများသည် ကျောင်းအတွက် သိသာထင်ရှားသော အကူအညီများ ဖြစ်စေခဲ့ပါသည်။
+4/5
 
 1845
 Upcoming events you'll not want to miss
-လာမည့် အဖြစ်အပျက်တွေက သင် လက်လွတ်မခံချင်ဖြစ်လိမ့်မည်။
+သငိ လက်လွတ်မခံချင်မယ့် မကြာမီလာမည့် ပွဲများ
+4/5
 
 1846
 We rely on you and other generous friends to provide the remaining 38 percent.
-ကျွန်ုပ်တို့က ကျန်ရှိသော ၃၈ ရာခိုင်နှုန်းကို ပံ့ပိုးပေးရန် သင်နှင့် အခြား ရက်ရောသော မိတ်ဆွေများကို အားကိုးပါသည်။
+ကျန်ရှိသော ၃၈ ရာခိုင်နှုန်းကို ပံ့ပိုးပေးရန် သင်နှင့် အခြား ရက်ရောသော မိတ်ဆွေများကို ကျွန်ုပ်တို့က အားကိုးပါသည်။
+4/5
 
 1847
 You may also take advantage of our special 2-year membership offer for $30, a savings of almost 60% off our regular 2 year rate.
-ကျွန်ုပ်တို့၏ ပုံမှန် ၂ နှစ် နှုန်းထားထက် ၆၀% နီးပါး ချွေတာမှု တစ်ခု ၊ $၃၀ ဖြင့် ကျွန်ုပ်တို့၏ အထူးသီးသန့် ၂-နှစ် အသင်းဝင်ခြင်း ကမ်းလှမ်းချက်ကို သင်လည်း အသုံးချနိုင်ပါသည်။
+ကျွန်ုပ်တို့၏ ပုံမှန် ၂ နှစ် နှုန်းထားထက် ၆၀% နီးပါး ချွေတာမှု တစ်ခု ၊ $၃၀ ဖြင့် ကျွန်ုပ်တို့၏ အထူး ၂-နှစ် အသင်းဝင်ကြေး ကမ်းလှမ်းချက်ကိုလည်း သင် အခွင့်ကောင်းယူအသုံးပြုနိုင်ပါသည်။
+4/5
 
 1848
 Your support of the museum's Annual Operating Campaign helps to attract significant works to the collection and present community-wide special exhibitions.
-ပြတိုက်၏ နှစ်ပတ်လည် လည်ပတ်လှုပ်ရှားမှု ကမ်ပိန်း၏ သင်၏ပံ့ပိုးမှုသည် စုစည်းမှုနှင့် ရပ်ရွာ-အနှံ့ အထူး ပြပွဲများထံ သိသာထင်ရှားသော လက်ရာများကို ဆွဲဆောင်ရန် ကူညီပေးပါသည်။
+ပြတိုက်၏ နှစ်ပတ်လည် လည်ပတ်လှုပ်ရှားမှု ကမ်ပိန်းအား သင်၏ပံ့ပိုးမှုသည်  အသိုင်းအဝိုင်း-အနှံ့ အထူး ပြပွဲများ တင်ဆက်နှင့် စုဆောင်းမှုထဲသို့ သိသာထင်ရှားသော လက်ရာများကို ဆွဲဆောင်ထည့်သွင်းရန် ကူညီပေးပါသည်။
+3/5
 
 1849
 With your involvement, we can help kids - like the little boy pictured on this page-become better citizens.
-မင်းရဲ့ ပါဝင်ပတ်သက်မှုနဲ့အတူ ၊ ဒီ စာမျက်နှာမှာဖော်ပြထားတဲ့ ကလေးငယ်လေးလိုမျိုး- ကလေးတွေကို - ပိုမိုကောင်းမွန်တဲ့ နိုင်ငံသားတွေ ဖြစ်လာအောင် ကူညီပေးနိုင်ပါတယ်။
+သင့်ရဲ့ ပါဝင်ပတ်သက်မှုနဲ့အတူ -  ဒီ စာမျက်နှာမှာဖော်ပြထားတဲ့ ကလေးငယ်လေးလိုမျိုး - ကလေးတွေကို ပိုမိုကောင်းမွန်တဲ့ နိုင်ငံသားတွေ ဖြစ်လာအောင် ကူညီပေးနိုင်ပါတယ်။
+4/5
 
 1850
 The thirteen yarn colors of the magnificent rug symbolize the original thirteen colonies of this nation.
-ခမ်းနားထည်ဝါသော ကော်ဇော၏ ဆယ်သုံးခု ချည် အရောင်သည် ဤ လူမျိုး၏ မူလ ဆယ့်သုံးကြိမ်မြောက် ကိုလိုနီများကို အမှတ်အသားပြုလုပ်ထားသည်။
+ခမ်းနားထည်ဝါသော ကော်ဇော၏ ချည်ခင်အရောင်ဆယ့်သုံးခုသည် ဤတိုင်းပြည်၏ မူလ ကိုလိုနီဆယ့်သုံးခုကို အမှတ်သင်္ကေတပြုထားသည်။
+4/5
 
 1851
 This group of donors will directly help the Chancellor meet immediate needs of faculty, students, and staff.
-တက္ကသိုလ်အကြီးအကဲက တက္ကသိုလ်တစ်ခု၏မဟာဌာန ၊ ကျောင်းသားများ နှင့် ၊ ဝန်ထမ်းများ၏ လတ်တလော လိုအပ်ချက်များကို ဖြည့်ဆည်းဖို့ ဤ အလှူရှင် အုပ်စုသည် တိုက်ရိုက် ကူညီလိမ့်မည်။
+တက္ကသိုလ်အကြီးအကဲက မဟာဌာန ၊ ကျောင်းသားများ နှင့် ၊ ဝန်ထမ်းများ၏ လတ်တလော လိုအပ်ချက်များကို ဖြည့်ဆည်းဖို့ ဤ အလှူရှင် အုပ်စုသည် တိုက်ရိုက် ကူညီလိမ့်မည်။
+3/5
 
 1852
 Specifically, you will be joining a group of distinguished foundation executives, business leaders, scholars, development professionals and volunteers in the nonprofit sector ...
-အထူးသဖြင့် ၊ သင်သည် ထင်ရှားကျော်ကြားသော ဖောင်ဒေးရှင်း အမှုဆောင်များ ၊ စီးပွားရေး ခေါင်းဆောင်များ ၊ ပညာရှင်များ ၊ ဖွံ့ဖြိုးတိုးတက်ရေးဆိုင်ရာ ကျွမ်းကျင်ပညာရှင်များ နှင့် အကျိုးအမြတ်မယူသော ကဏ္ဍရှိ စေတနာ့ဝန်ထမ်းများ အဖွဲ့ တစ်ခု နှင့် ချိတ်ဆက်မည်ဖြစ်ပါသည် ...
+အထူးသဖြင့် ၊ သင်သည် ဂုဏ်သရေရှိ ဖောင်ဒေးရှင်း အမှုဆောင်များ ၊ စီးပွားရေး ခေါင်းဆောင်များ ၊ ပညာရှင်များ ၊ ဖွံ့ဖြိုးတိုးတက်ရေးဆိုင်ရာ ကျွမ်းကျင်ပညာရှင်များ နှင့် အကျိုးအမြတ်မယူသော ကဏ္ဍရှိ စေတနာ့ဝန်ထမ်းများ အဖွဲ့ တစ်ခု တွင် ပါဝင်ချိတ်ဆက်မည်ဖြစ်ပါသည် ...
+3/5
 
 1853
 Others continue to notice our success.
 အခြားသူများက ကျွန်ုပ်တို့၏ အောင်မြင်မှုကို ဆက်လက် သတိပြုမိကြသည်။
+4/5
 
 1854
 .. spiritual guidance and encouragement.
 .. ဝိညာဉ်ရေးရာ လမ်းညွှန်မှု နှင့် အားပေးမှု။
+4/5
 
 1855
 If we begin our new fiscal year with a deficit, this will be a real challenge.
-ကျွန်ုပ်တို့၏ ဘဏ္ဍာရေး နှစ်သစ်ကို ကျွန်ုပ်တို့က လိုငွေပြမှု တစ်ခု ဖြင့် စတင်ပါက၊ ဤသည်မှာ တကယ့် စိန်ခေါ်မှု တစ်ခု ဖြစ်လိမ့်မည်။
+ကျွန်တော်တို့၏ ဘဏ္ဍာရေး နှစ်သစ်ကို လိုငွေပြမှု တစ်ခု ဖြင့် ကျွန်တော်တို့ စတင်ပါက၊ အဲဒါဟာ တကယ့် စိန်ခေါ်မှု တစ်ခု ဖြစ်လိမ့်မယ်။
+4/5
 
 1856
 Although Rock 'n' Roll was racing down the fast lane like a candy apple VETTE, FOREVER PLAID believed in their music.
-ရော့ခ် အန် ရိုးလ် သည် သကြားလုံး ပန်းသီး ဗက်တ် တစ်လုံး ကဲ့သို့ အမြန်လမ်းပေါ်တွင် ပြေးနေသော်လည်း ၊ ဖော်အဲဗား ပလဲ့က်ဒ် သည် ၎င်းတို့၏ ဂီတကို ယုံကြည်ခဲ့သည်။
+ရော့ခ် အန် ရိုးလ် သည် သကြားလုံး ပန်းသီး ဗက်တ် တစ်စင်း ကဲ့သို့ အမြန်လမ်းပေါ်တွင် ပြေးနေသော်လည်း ၊ ဖော်အဲဗား ပလဲ့က်ဒ် သည် ၎င်းတို့၏ ဂီတကို ယုံကြည်ခဲ့သည်။
+3/5
 
 1857
 You already understand the importance of storytelling, poetry, song, and theatre in fostering empathy, compassion, and the imagination.
 စာနာမှု ၊ ကရုဏာ နှင့် ၊ စိတ်ကူးစိတ်သန်းများကို မွေးမြူရာတွင် ပုံပြင်ပြောခြင်း ၊ ကဗျာ ၊ သီချင်း ၊ နှင့် ပြဇာတ်များ၏ အရေးပါပုံကို သင် နားလည်ထားပြီး ဖြစ်သည်။
+4/5
 
 1858
 In the case of animals that are not recovered by-their owners, your Humane Society uses a wide variety of - services to aid those animals and give them a chance at a happy life.
-၎င်းတို့၏ ပိုင်ရှင်များမှ - ပြန်လည်ကောင်းမွန်ခြင်းမရှိသည့် တိရစ္ဆာန်များ ကိစ္စတွင်၊ သင်၏ လူသားဆန်သော လူ့အဖွဲ့အစည်းသည် ထို တိရစ္ဆာန်များကို ကူညီရန် နှင့် ပျော်ရွှင်သော ဘဝ တစ်ခု တွင် အခွင့်အရေး တစ်ခု ပေးရန်အတွက် ဝန်ဆောင်မှု များစွာကို အသုံးပြုပါသည်။
+၎င်းတို့၏ ပိုင်ရှင်များမှ - ပြန်လည် ခေါ်ယူခြင်းမရှိသည့် တိရစ္ဆာန်များ ကိစ္စတွင်၊ သင်၏ လူသားဆန်သော လူ့အဖွဲ့အစည်းသည် ထို တိရစ္ဆာန်များကို ကူညီရန် နှင့် ပျော်ရွှင်သော ဘဝ တစ်ခု ရရန် အခွင့်အရေး တစ်ခု ပေးရန်အတွက် ဝန်ဆောင်မှု များစွာကို အသုံးပြုပါသည်။
+3/5
 
 1859
 Will you add your dreams to ours?
-မင်းရဲ့ အိပ်မက်တွေကို ငါတို့ရဲ့ အိပ်မက်တွေထဲ ပေါင်းထည့်မှာလား။
+မင်းရဲ့ အိပ်မက်တွေကို ငါတို့ရဲ့ အိပ်မက်တွေထဲ ပေါင်းထည့်မှာလား?
+4/5
 
 1860
 00 Under 6 yr - Free Tour and Military Rate $3.
 00 ၆ နှစ်အောက် - အခမဲ့ ခရီးစဉ် နှင့် စစ်ရေးနှုန်း ၃$။
+3/5
 
 1861
 In their enlightened self-interest, they supported this fledgling organization, knowing it would benefit the city as a whole.
 ၎င်းတို့၏ ဉာဏ်အလင်းရရှိသော ကိုယ်ကျိုး-စီးပွားအတွက် ၊ ၎င်းတို့သည် မြို့ တစ်ခုလုံး အတွက် အကျိုးရှိမည်ကို သိ၍ ၊ ဤ ဖွဲ့စည်းခါစ အဖွဲ့အစည်းကို ပံ့ပိုးကူညီခဲ့ကြသည်။
+3/5
 
 1862
 We hope you will enjoy talking to them, but you can save the IRT administrative money by sending your gift in the return envelope today.
-သူတို့နဲ့ စကားပြောရတာ မင်း နှစ်သက်မယ်လို့ ငါ မျှော်လင့်ပါတယ်၊ ဒါပေမယ့် မင်း ဒီနေ့ပဲ ပြန်စာ စာအိတ်ထဲမှာ မင်းရဲ့ လက်ဆောင်ကို ပေးပို့ခြင်းဖြင့် အိုင်အာတီ စီမံခန့်ခွဲရေး ငွေကြေးကို သိမ်းဆည်းနိုင်ပါတယ်။
+သူတို့နဲ့ စကားပြောရတာ မင်း နှစ်သက်မယ်လို့ ငါ မျှော်လင့်ပါတယ်၊ ဒါပေမယ့် မင်း ဒီနေ့ပဲ ပြန်စာ စာအိတ်ထဲမှာ မင်းရဲ့ လက်ဆောင်ကို ပေးပို့ခြင်းဖြင့် IRT စီမံခန့်ခွဲရေး ငွေကြေးကို ချွေတာနိုင်ပါတယ်။
+4/5
 
 1863
 Forty years ago one student, Betty Groh Tower, entered the Medical Record Administration Program to become our first graduate.
-လွန်ခဲ့သော အနှစ် လေးဆယ်က ကျောင်းသားတစ်ဦး ၊ ဘက်တီ ဂရော့ တာဝါသည် ၊ ကျွန်ုပ်တို့၏ ပထမဆုံး ဘွဲ့ရပညာတတ် ဖြစ်လာရန် ဆေးမှတ်တမ်း စီမံခန့်ခွဲမှု အစီအစဉ်တွင် ဝင်ရောက်ခဲ့သည်။
+လွန်ခဲ့သော အနှစ် လေးဆယ်က ကျောင်းသူတစ်ဦး ၊ ဘက်တီ ဂရော့ တာဝါသည် ၊ ကျွန်ုပ်တို့၏ ပထမဆုံး ဘွဲ့ရ ဖြစ်လာရန် ဆေးမှတ်တမ်း စီမံခန့်ခွဲမှု အစီအစဉ်တွင် ဝင်ရောက်ခဲ့သည်။
+4/5
 
 1864
 The wonderful connections formed each day are made possible through the support of Society operations by organizations like yours!
-နေ့စဥ် ပေါ်ပေါက်နေသည့် အံ့သြဖွယ်ကောင်းသော ဆက်သွယ်မှုများသည် သင့်ကဲ့သို့သော အဖွဲ့အစည်းများ၏ လူမှုရေးဆိုင်ရာ  လုပ်ငန်းများကို ပံ့ပိုးပေးခြင်းဖြင့် ဖြစ်နိုင်ချေရှိသည်!
+နေ့စဥ် ပေါ်ပေါက်နေသည့် အံ့သြဖွယ်ကောင်းသော ဆက်သွယ်မှုများသည် သင့်ကဲ့သို့သော အဖွဲ့အစည်းများ၏ လူမှုရေးဆိုင်ရာ  လုပ်ငန်းများကို ပံ့ပိုးပေးခြင်းဖြင့် ဖြစ်ပေါ်လာခြင်းဖြစ်သည်!
+4/5
 
 1865
 With your contribution to the Library, you will become a member of the Citywide Friends.
-စာကြည့်တိုက် အတွက် သင်၏ ပံ့ပိုးကူညီမှုဖြင့် ၊ သင်သည် စီတီးဝှိုက် မိတ်ဆွေများ၏ အဖွဲ့ဝင် တစ်ယောက် ဖြစ်လာမည်ဖြစ်သည်။
+စာကြည့်တိုက် အတွက် သင်၏ လှူဒါန်းကူညီမှုဖြင့် ၊ သင်သည် စီတီးဝှိုက် မိတ်ဆွေများ၏ အဖွဲ့ဝင် တစ်ယောက် ဖြစ်လာမည်ဖြစ်သည်။
+4/5
 
 1866
 I will look for you on December 11th!
 ဒီဇင်ဘာ 11 ရက်နေ့မှာ မင်းကို ငါရှာမယ်!
+4/5
 
 1867
 William Lowe Bryan, the IU president whose dream of a broadly based university led to the founding of IU School of Medicine in 1903.
 ကျယ်ပြန့်သော အခြေဆိုက် တက္ကသိုလ် တစ်ခု အတွက် အိပ်မက်မက်ခဲ့သော အိုင်ယူ ဥက္ကဌ ဝီလီယမ် လိုဝီ ဘရိုင်ယန် သည် ၊ အိုင်ယူ ဆေးကျောင်းကို ၁၉၀၃ ခုနှစ်တွင် စတင်တည်ထောင်ခဲ့သည်။
+3/5
 
 1868
 Your contributed support directly benefits the IRT's outreach programs and leverages match gift monies.
 သင်၏ ပံ့ပိုးကူညီမှုမှ အိုင်အာတီ ၏ ဖြန့်ကျက်မှု အစီအစဉ်များနှင့် လက်ဆောင်ပေးငွေများနှင့် ကိုက်ညီသော အကျိုးကျေးဇူးများကို တိုက်ရိုက် အကျိုးပြုပါသည်။
+3/5
 
 1869
 Chairman of the Board of Trustees
-ထရပ်စပ်တီ ဘုတ်အဖွဲ့၏ သဘာပတိ
+ဘုတ်အဖွဲ့၏ ဥက္ကဌ
+3/5
 
 1870
 It is time for the proverbial LAST CALL!
-လက်စ် ကော ဆိုတဲ့ စကားပုံအတွက် အချိန်ဖြစ်သည်!
+နောက်ဆုံးအခွင့်အရေး ဆိုတဲ့ စကားပုံအတွက် အချိန်ပဲ!
+1/5
 
 1871
 Friends' programs such as Young Library Leaders and the Love is Reading Together Week target young people and instill library habits at an early age.
-လူငယ် စာကြည့်တိုက် ခေါင်းဆောင်များ နှင့် Love is Reading Together Week ကဲ့သို့သော သူငယ်ချင်းများ ၏ ပရိုဂရမ်များသည် လူငယ်များကို ပစ်မှတ်ထား ပြီး ငယ်ရွယ်စဉ်ကတည်းက စာကြည့်တိုက် အလေ့အထများ ရှိလာစေသည်။
+လူငယ် စာကြည့်တိုက် ခေါင်းဆောင်များ နှင့် Love is Reading Together Week ကဲ့သို့သော သူငယ်ချင်းများ ၏ အစီအစဉ်များသည် လူငယ်များကို ပစ်မှတ်ထား ပြီး ငယ်ရွယ်စဉ်ကတည်းက စာကြည့်တိုက် အလေ့အထများ ရှိလာစေသည်။
+3/5
 
 1872
 Last year, you generously donated $-.
 မနှစ်က ၊ သင် ရက်ရက်ရောရော $-  လှူဒါန်းခဲ့သည်။
+4/5
 
 1873
 .. why they have so little self-worth that they value the friendship of thieves and killers.
-.. အဘယ့်ကြောင့်ဆိုသော် သူတို့သည် သူခိုးနှင့် လူသတ်သမားတို့၏ ခင်မင်ရင်းနှီးမှုကို တန်ဖိုးထားရလောက်အောင် သူတို့သည် မိမိကိုယ်ကို -တန်ဖိုး နည်းလှသည်။
+.. အဘယ့်ကြောင့် သူတို့သည် သူခိုးနှင့် လူသတ်သမားတို့၏ ခင်မင်ရင်းနှီးမှုကို တန်ဖိုးထားရလောက်အောင် သူတို့သည် မိမိကိုယ်ကိုတန်ဖိုး နည်းလှသည်။
+2/5
 
 1874
 The deep blue rug is emblazoned with a full-color Presidential Seal encircled by fifty white stars.
-နက်ပြာရောင်ဖျော့ဖျော့ကို အဖြူရောင် ကြယ် ငါးဆယ်ဖြင့် ဝန်းရံထားသည့် ရောင်စုံ သမ္မတ တံဆိပ် တစ်ခု ဖြင့် အလှဆင်ထားသည်။
+နက်ပြာရောင် ကောဇောကို အဖြူရောင် ကြယ် ငါးဆယ်ဖြင့် ဝန်းရံထားသည့် ရောင်စုံ သမ္မတ တံဆိပ် တစ်ခု ဖြင့် အလှဆင်ထားသည်။
+3/5
 
 1875
 I am writing to thank you for your past gifts to the IUPUI University Libraries and to ask you to renew that support.
-အိုင်ယူပီယူအိုင် တက္ကသိုလ် စာကြည့်တိုက်များသို့ သင်၏ ပြီးခဲ့တဲ့ လက်ဆောင်များ အတွက် သင့်ကို ကျေးဇူးတင်ကြောင်း နှင့် အဆိုပါ အကူအညီကို သက်တမ်းတိုးရန် တောင်းဆိုအပ်ပါသည်လို့ ကျွန်တော် ရေးသားနေသည်။
+IUPUI တက္ကသိုလ် စာကြည့်တိုက်များသို့ သင်၏ ပြီးခဲ့တဲ့ လက်ဆောင်များ အတွက် သင့်ကို ကျေးဇူးတင်ကြောင်း နှင့် အဆိုပါ အကူအညီကို သက်တမ်းတိုးရန် တောင်းဆိုအပ်ပါသည်လို့ ကျွန်တော် စာရေးလိုက်ပါသည်။
+3/5
 
 1876
 It is critical that we educate Americans about the importance of Philanthropy that we develop a new generation of informed and committed leaders.
-ကျွန်ုပ်တို့သည် အသိဥာဏ် နှင့် ကတိသစ္စာပြုသော မျိုးဆက်သစ်ခေါင်းဆောင်များကို ပြုစုပျိုးထောင်ရန် ပရဟိတအလုပ်၏ အရေးပါမှုကို အမေရိကန်လူမျိုးများအား ကျွန်တော်တို့က အသိပညာပေးရာတွင် အရေးကြီးပါသည်။
+ကျွန်ုပ်တို့သည် အသိဥာဏ် နှင့် ကတိသစ္စာပြုသော မျိုးဆက်သစ်ခေါင်းဆောင်များကို ပြုစုပျိုးထောင်ရန် ပရဟိတအလုပ်၏ အရေးပါမှုကို အမေရိကန်များအား ကျွန်တော်တို့က အသိပညာပေးရန် အရေးကြီးပါသည်။
+3/5
 
 1877
 To assist you with your contribution, please feel free to call Kathy Dannels, Director of Development, at 924-6770 ext.
-သင့်အား ကူညီပံ့ပိုးမှုနှင့်အတူ သင့်ကို ကူညီပေးရန်အတွက် ၊ ၉၂၄-၆၇၇၀ အီးအိတ်စ်တီ တွင် ၊ ဖွံ့ဖြိုးတိုးတက်ရေး ဒါရိုက်တာ ၊ ကေသီ ဒန်းနဲလ်စ် ကို ဖုန်းခေါ်ဆိုပါ။
+သင်၏ ထည့်ဝင်ပံ့ပိုးမှုအတွက် သင့်ကို ကူညီပေးရန် ၊ ကေသီ ဒန်းနဲလ်စ်၊ ဖွံ့ဖြိုးတိုးတက်ရေး ဒါရိုက်တာ၊ ၉၂၄-၆၇၇၀ အီးအိတ်စ်တီ ကို ကျေးဇူးပြု၍ ဖုန်းခေါ်ဆိုပါ။
+3/5
 
 1878
 It would be wonderful if you could take the time to visit your School, and see for yourself the progress we have made over the years and share in the pride of our heritage!
-မင်းက မင်းရဲ့ ကျောင်းကို အချိန်ပေးပြီး လည်ပတ်နိုင်ပြီး နှစ်တွေတစ်လျှောက် ငါတို့လုပ်ခဲ့တဲ့ တိုးတက်မှုကို ကိုယ်တိုင်မြင်ပြီး ၊ ငါတို့ရဲ့ အမွေအနှစ်တွေကို ဂုဏ်ယူစွာ မျှဝေနိုင်မယ်ဆိုရင် ဒါဟာ အံ့သြစရာပါပဲ!
+မင်းက မင်းရဲ့ ကျောင်းကို အချိန်ပေးပြီး လည်ပတ်နိုင်ပြီး နှစ်တွေတစ်လျှောက် ငါတို့လုပ်ခဲ့တဲ့ တိုးတက်မှုကို ကိုယ်တိုင်ကြည့်ရှုပြီး ၊ ငါတို့ရဲ့ အမွေအနှစ်တွေကို ဂုဏ်ယူစွာ မျှဝေနိုင်မယ်ဆိုရင် အရမ်းကောင်းမှာပဲ!
+3/5
 
 1879
 Performing before more than 6,500 students from K-12, for state professional conferences, for a Pan-Am Media Event and for the U.S.
-ကေ-၁၂ မှ ကျောင်းသား ၆၅၀၀ ကျော် ရှေ့မှောက်တွင် ၊ နိုင်ငံတော်အဆင့် ကျွမ်းကျင်မှုဆိုင်ရာ ညီလာခံများ၊ ပန်း-အမ် မီဒီယာ ပွဲ နှင့် ယူအက်စ် ဖျော်ဖြေမည်
+ကေ-၁၂ မှ ကျောင်းသား ၆၅၀၀ ကျော် ရှေ့မှောက်တွင် ၊ နိုင်ငံတော်အဆင့် ကျွမ်းကျင်မှုဆိုင်ရာ ညီလာခံများ အတွက်၊ ပန်း-အမ် မီဒီယာ ပွဲ အတွက် နှင့် ယူအက်စ် အတွက် ဖျော်ဖြေခြင်းဖြစ်သည်။
+3/5
 
 1880
 Due to the generosity of Indiana tax law, a contribution to the University of any amount up to $200 will only cost you half that amount--less the deduction you claim on your federal tax return.
-အင်ဒီယားနား အခွန်ဥပဒေ၏ ရက်ရောမှုကြောင့် ၊ ဒေါ်လာ ၂၀၀ အထိ မည်သည့်ပမာဏမဆို တက္ကသိုလ်သို့ အလှူငွေထည့်ဝင်ခြင်း တစ်ခု သည် ထိုပမာဏ၏ ထက်ဝက်သာ ကုန်ကျပါမည်-- သင်၏ ပြည်ထောင်စု အခွန် ပြန်တမ်းတွင် သင် တောင်းဆိုထားသည့် နုတ်ယူငွေထက် လျော့နည်းပါသည်။
+Indiana အခွန်ဥပဒေ၏ ရက်ရောမှုကြောင့် ၊ ဒေါ်လာ ၂၀၀ အထိ မည်သည့်ပမာဏမဆို တက္ကသိုလ်သို့ အလှူငွေထည့်ဝင်ခြင်း တစ်ခု သည် ထိုပမာဏ၏ ထက်ဝက်သာ ကုန်ကျပါမည်-- သင်၏ ပြည်ထောင်စု အခွန် ပြန်တမ်းတွင် သင် တောင်းဆိုသည့် နုတ်ယူငွေထက် လျော့နည်းပါသည်။
+3/5
 
 1881
 This letter is to let you know that, while we've experienced some success this season, we still need your help to continue our record of strong fiscal management and vibrant theatrical productions.
-ဤစာတွင် ကျွန်ုပ်တို့သည် ဤရာသီတွင် အောင်မြင်မှုအချို့ကို တွေ့ကြုံခံစားခဲ့ရသော်လည်း၊ ကျွန်ုပ်တို့၏ ခိုင်မာသောဘဏ္ဍာရေးစီမံခန့်ခွဲမှု နှင့် တက်ကြွသော ပြဇာတ်ထုတ်မှုများ၏ မှတ်တမ်းကို ဆက်လက်ထိန်းသိမ်းရန် သင့်အကူအညီ လိုအပ်နေသေးကြောင်း ၊ သင့်အား အသိပေးအပ်ပါသည်။
+ဤစာသည် ကျွန်ုပ်တို့အနေဖြင့် ဤရာသီတွင် အောင်မြင်မှုအချို့ကို တွေ့ကြုံခံစားခဲ့ရသော်လည်း၊ ကျွန်ုပ်တို့၏ ခိုင်မာသောဘဏ္ဍာရေးစီမံခန့်ခွဲမှု နှင့် တက်ကြွသော ပြဇာတ်ထုတ်လုပ်မှုများ၏ မှတ်တမ်းကို ဆက်လက်ထိန်းသိမ်းရန် သင့်အကူအညီ လိုအပ်နေသေးကြောင်း ၊ သင့်အား အသိပေးရန်ဖြစ်ပါသည်။
+4/5
 
 1882
 Last year, more than 48,000 New York State children were abused and neglected -injured, molested, emotionally abused, denied adequate care and supervision.
-ပြီးခဲ့သောနှစ်တွင် ၊ နယူးယောက်ပြည်နယ်ရှိ ကလေး ၄၈,၀၀၀ ကျော်သည် မတော်မတရားပြုကျင့်ခံရ ပြီး လျစ်လျူရှုခံရကာ  - ဒဏ်ရာအနာတရများ ၊ နှိပ်စက်ညှဉ်းပန်းခံရခြင်း ၊ စိတ်ပိုင်းဆိုင်ရာ စော်ကားခံရခြင်း ၊ လုံလောက်သော စောင့်ရှောက်မှု နှင့် ကြီးကြပ်မှုကို ငြင်းပယ်ခံခဲ့ရခြင်းများ ရှိခဲ့သည်။
+ပြီးခဲ့သောနှစ်တွင် ၊ နယူးယောက်ပြည်နယ်ရှိ ကလေး ၄၈,၀၀၀ ကျော်သည် မတော်မတရားပြုကျင့်ခံရ ပြီး လျစ်လျူရှုခံရကာ  - ဒဏ်ရာအနာတရရခဲ့ခြင်း ၊ ဗလက္ကာရပြုခံရခြင်း ၊ စိတ်ပိုင်းဆိုင်ရာ စော်ကားခံရခြင်း ၊ လုံလောက်သော စောင့်ရှောက်မှု နှင့် ကြီးကြပ်မှုကို ငြင်းပယ်ခံခဲ့ရခြင်းများ ရှိခဲ့သည်။
+4/5
 
 1883
 And we've been doing it for more than 85 years.
 ပြီးတော့ ကျွန်တော်တို့ ဒါကို လုပ်လာတာ ၈၅ နှစ်ကျော်ပြီ။
+5/5
 
 1884
 One of the devastating consequences of heart disease is the irreparable damage it does to the heart muscle.
-နှလုံး ရောဂါ၏ ဆိုးရွားသော အကျိုးဆက်များထဲမှ တစ်ခုမှာ နှလုံး ကြွက်သားများကို ပြုပြင်၍မရသော ပျက်စီးမှု ဖြစ်သည်။
+နှလုံးရောဂါ၏ ဆိုးရွားသော အကျိုးဆက်များထဲမှ တစ်ခုမှာ နှလုံး ကြွက်သားများကို ပြုပြင်၍မရသော ပျက်စီးမှု ဖြစ်စေခြင်းဖြစ်သည်။
+4/5
 
 1885
 I ask you to please give today to the IRT and help them continue the marvelous work they have been producing for 26 years.
-ဒီနေ့ အိုင်အာတီ ကို ကျေးဇူးပြုပြီး သူတို့ကို ၂၆ နှစ်ကြာ ထုတ်လုပ်ခဲ့တဲ့ အံ့ဖွယ်လက်ရာတွေကို ဆက်လက်ကူညီပေးဖို့ တောင်းဆိုပါရစေ။
+ဒီနေ့ သူတို့ ၂၆ နှစ်ကြာ ထုတ်လုပ်ခဲ့တဲ့ အံ့ဖွယ်လက်ရာတွေကို ဆက်လက်လုပ်ကိုင်နိုင်ဖို့ IRT ကို ကျေးဇူးပြုပြီး လှူဒါန်းပေးဖို့ သင့်ကို ကျွန်တော် တောင်းဆိုပါရစေ။
+4/5
 
 1886
 I hope you will help us continue the Olympic tradition of excellence.
-ထူးချွန်သော အိုလံပစ် အစဉ်အလာကို ဆက်လက်ထိန်းသိမ်းရန် သင်သည် ကျွန်ုပ်တို့အား ကူညီနိုင်လိမ့်မည်ဟု ကျွန်တော် မျှော်လင့်ပါသည်။
+ထူးချွန်သော အိုလံပစ် အစဉ်အလာကို ဆက်လက်ထိန်းသိမ်းရန် သင်သည် ကျွန်ုပ်တို့အား ကူညီနိုင်လိမ့်မည်ဟု ကျွန်ုပ် မျှော်လင့်ပါသည်။
+4/5
 
 1887
 Since 1914, Civic has maintained its uniqueness by staying true to its
-၁၉၁၄ ခုနှစ် ကတည်းက ၊ စီဗစ် သည် ၎င်းကို သစ္စာစောင့်သိခြင်းဖြင့် ၎င်း၏ ထူးခြားမှုကို ထိန်းသိမ်းခဲ့သည်
+၁၉၁၄ ခုနှစ် ကတည်းက ၊ Civic သည် ၎င်းကို သစ္စာစောင့်သိခြင်းဖြင့် ၎င်း၏ ထူးခြားမှုကို ထိန်းသိမ်းခဲ့သည်
+1/5
 
 1888
 ..one you would be proud to be part of and support?
-.. တစ်ခုက မင်းရဲ့ တစ်စိတ်တစ်ပိုင်းဖြစ်ရတာ ဂုဏ်ယူရမှာလား ပြီးတော့ ထောက်ပံ့ပေးရမှာလား။
+.. တစ်ခုက သင့်အနေနဲ့ ထောက်ပံ့ပေးတာနဲ့ တစ်စိတ်တစ်ပိုင်းဖြစ်ရတာ အတွက် ဂုဏ်ယူမယ့် ဟာတစ်ခုလား?
+4/5
 
 1889
 You are important to us and the I.U.
 မင်းက ငါတို့နဲ့ အိုင်ယူ အတွက် အရေးကြီးတယ်။
+4/5
 
 1890
 ..the world's most thoughtful and motivating nature writers.
-.. ကမ္ဘာပေါ်တွင် တွေးခေါ်မှုအရှိဆုံး နှင့် စိတ်အားထက်သန်သော သဘာဝစာရေးဆရာများ။
+.. ကမ္ဘာပေါ်တွင် တွေးခေါ်မှုအရှိဆုံး နှင့် စိတ်အားတက်ကြွမှုအပေးဆုံး သဘာဝ စာရေးဆရာများ။
+3/5
 
 1891
 Funds are needed here for use as seed money as we work toward establishing projects that should become self-supporting for the school.
-ကျောင်း အတွက် ကိုယ်တိုင်-ထောက်ပံ့မှုဖြစ်လာစေမည့် ပရောဂျက်များ ထူထောင်ရန် ကျွန်ုပ်တို့ လုပ်ဆောင်နေချိန်တွင် ရန်ပုံငွေအဖြစ် အသုံးပြုရန် အတွက် ရန်ပုံငွေများ လိုအပ်ပါသည်။
+ကျောင်း အတွက် ကိုယ်တိုင်-ထောက်ပံ့မှုဖြစ်လာစေမည့် ပရောဂျက်များ ထူထောင်ရန် ကျွန်ုပ်တို့ လုပ်ဆောင်နေချိန်တွင် မတည်ရန်ပုံငွေအဖြစ် အသုံးပြုရန် အတွက် ရန်ပုံငွေများ လိုအပ်ပါသည်။
+4/5
 
 1892
 When Urban left for Vietnam, we'd only been married a short time, JoAnn said.
-အာဗန် သည် ဗီယက်နမ်သို့ ထွက်ခွာသွားသောအခါတွင် ၊ ကျွန်ုပ်တို့သည် အချိန်တို တစ်ခု အတွင်း လက်ထပ်ခဲ့ကြသည်ဟု ၊ ဂျိုအန်း က ဆိုသည်။
+Urban သည် ဗီယက်နမ်သို့ ထွက်ခွါသွားသောအချိန်တွင် ၊ ကျွန်မတို့ လက်ထပ်ခဲ့ပြီးတာ သိပ်မကြာသေးဘူး ဟု JoAnn က ဆိုခဲ့သည်။
+4/5
 
 1893
 The landmark acquisition in December of 75 rare and important hanging scrolls and folding screens is evidence of the commitment to build the IMA's permanent collection of world art.
-ရှားပါး ပြီး အရေးကြီးသော တွဲလောင်း ယင်းလိပ်များနှင့် ခေါက်ထားသော စခရင် ၇၅ ခု၏ ဒီဇင်ဘာတွင် အထင်ကရ ဝယ်ယူမှုမှာ အိုင်အမ်အေ ၏ အမြဲတမ်း ကမ္ဘာ့ အနုပညာကို စုစည်းမှု အား တည်ဆောက်ရန် ကတိကဝတ်၏ သက်သေဖြစ်သည်။
+ရှားပါး ပြီး အရေးကြီးသော တွဲလောင်း ယင်းလိပ်များနှင့် ခေါက်ထားသော စခရင် ၇၅ ခု၏ ဒီဇင်ဘာတွင် အထင်ကရ ဝယ်ယူမှုမှာ ကမ္ဘာ့ အနုပညာကို အမြဲတမ်း စုစည်းမှု အား တည်ဆောက်ရန် အိုင်အမ်အေ ၏ ကတိကဝတ်၏ သက်သေဖြစ်သည်။
+3/5
 
 1894
 Unfortunately, our view of the importance of philanthropy is not shared by all Americans.
-ကံမကောင်းစွာဖြင့် ၊ ပရဟိတလုပ်ငန်းများ၏ အရေးကြီးပုံအား ကျွန်ုပ်တို့၏ အမြင်ကို အမေရိကန်အားလုံးက မမျှဝေပါ။
+ကံမကောင်းစွာဖြင့် ၊ ပရဟိတလုပ်ငန်းများ၏ အရေးကြီးပုံအပေါ် ကျွန်ုပ်တို့၏ အမြင်ကို အမေရိကန်အားလုံးက မမျှဝေပါ။
+3/5
 
 1895
 I hope to hear from you soon.
 မင်းဆီက မကြာခင် ကြားရဖို့ ငါ မျှော်လင့်တယ်။
+4/5
 
 1896
 As a Nussbaum member you have helped us save endangered animals--and their homes.
-နပ်စ်ဘောင်မ် အဖွဲ့ဝင် တစ်ဦးအနေဖြင့် သင်သည် ကျွန်ုပ်တို့အား မျိုးသုဉ်းလုနီးပါးဖြစ်နိုင်သော  တိရစ္ဆာန်များနှင့် -- ၎င်းတို့၏နေအိမ်များကို ကယ်တင်ရန် ကူညီပေးခဲ့ပါသည်။
+Nussbaum အဖွဲ့ဝင် တစ်ဦးအနေဖြင့် သင်သည် မျိုးသုဉ်းလုနီးပါးဖြစ်နိုင်သော  တိရစ္ဆာန်များနှင့် -- ၎င်းတို့၏နေအိမ်များကို ကယ်တင်ရန် ကျွန်ုပ်တို့အား ကူညီပေးခဲ့ပါသည်။
+4/5
 
 1897
 Civic's revenue comes from full houses, workshop and program tuitions, facility rental, foundations, corporate sponsors and individual contributions from supporters like you.
-စီဗစ် ၏ ၀င်ငွေသည် အိမ်အပြည့်၊ အလုပ်ရုံဆွေးနွေးပွဲ နှင့် အစီအစဉ်ကျသော ကျူရှင်များ၊ စက်ရုံ ငှားရမ်းမှု၊ ဖောင်ဒေးရှင်းများ၊ ကော်ပိုရိတ် စပွန်ဆာများ နှင့် သင်ကဲ့သို့ ထောက်ခံသူများထံမှ တစ်ဦးချင်း ပံ့ပိုးမှုများမှ ရရှိပါသည်။
+စီဗစ် ၏ ၀င်ငွေသည် ရုံပြည့်များ၊ အလုပ်ရုံဆွေးနွေးပွဲ နှင့် အစီအစဉ် ကျူရှင်များ၊ စက်ရုံ ငှားရမ်းမှု၊ ဖောင်ဒေးရှင်းများ၊ ကော်ပိုရိတ် စပွန်ဆာများ နှင့် သင်ကဲ့သို့ ထောက်ခံသူများထံမှ တစ်ဦးချင်း ပံ့ပိုးမှုများမှ ရရှိပါသည်။
+3/5
 
 1898
 Each July we celebrate our state's heritage at the Society's Hoosier History Festival.
 ဇူလိုင်လတိုင်းတွင် ကျွန်ုပ်တို့၏ ပြည်နယ် ၏ အမွေအနှစ်များကို ဟိုးစီးရား လူမှုဆိုင်ရာ သမိုင်းပွဲတော်တွင် ကျင်းပပါသည်။
+4/5
 
 1899
 Student tuition has been raised 12% for 1992-92, a significant increase.
-၁၉၉၂-၉၂ တွင် ကျောင်းသား ကျူရှင်သည် သိသာသော တိုးတတ်မှု တစ်ခု ၊ ၁၂% တိုးခဲ့သည်။
+၁၉၉၂-၉၂ တွင် ကျောင်းသား ကျောင်းလခသည် သိသာသော မြင့်တက်မှု တစ်ခု ၊ ၁၂% တိုးခဲ့သည်။
+3/5
 
 1900
 00 invested in a job-training program for a person on welfare saves $3.
 00 သက်သာချောင်ချိရေးတွင် လူတစ်ဦး အတွက် အလုပ်-လေ့ကျင့်ရေး ပရိုဂရမ် တစ်ခု တွင် ရင်းနှီးမြှုပ်နှံပါက $ ၃ သက်သာသည်။
+2/5

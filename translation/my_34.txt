@@ -1,449 +1,499 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 3301
 When they undergo training they can be quite pleasant.
-လေ့ကျင့်ရေး ဝင်ပြီဆိုရင် သူတို့ ကျေနပ်ကြမှာပါ။
+သင်တန်းတက်ပြီဆိုရင် သူတို့ ကျေနပ်ကြမှာပါ။
+4/5
 
 3302
 The day care is open every day for children under the age of five only.
 နေ့ကလေးထိန်းကျောင်းက ငါးနှစ်အောက် ကလေးတွေအတွက်ပဲ နေ့စဉ်ဖွင့်တာပါ။
+5/5
 
 3303
 They do let them go more than twice a week if the senior citizens are up to it.
-သက်ကြီးရွယ်အိုတွေက ပိုအဆင်ပြေမယ်ဆိုရင် တစ်ပတ်ကို နှစ်ခါ လွှတ်တယ်။
+သက်ကြီးရွယ်အိုတွေက ဆန္ဒရှိတယ်ဆိုရင် တစ်ပတ်ကို နှစ်ခါ လွှတ်တယ်။
+5/5
 
 3304
 They refer to it as a senior day care but it is called the senior center.
-သက်ကြီးရွယ်အို စောင့်ရှောက်ရေး လို့ဆိုပေမဲ့ သက်ကြီးရွယ်အို စင်တာလို့ခေါ်တယ်။
+သက်ကြီးရွယ်အို စောင့်ရှောက်ရေး လို့ဆိုပေမဲ့ သက်ကြီးရွယ်အို စင်တာလို့ခေါ်ပါတယ်။
+5/5
 
 3305
 I think it's crazy that one lawsuit can go on so many years.
-အမှုတစ်ခုက နှစ်ပေါင်းများစွာကြာနိုင်တယ်ဆိုတာတော့ တော်တော်ရူးကြောင်ကြောင်နိုင်တယ်လို့ထင်တာပဲ။
+အမှုတစ်ခုက နှစ်ပေါင်းများစွာကြာနိုင်တယ်ဆိုတာ တော်တော်ရူးကြောင်ကြောင်နိုင်တယ်လို့ငါထင်တာပဲ။
+5/5
 
 3306
 I think it's nuts that it can last so long.
-အဲဒါက အချိန်အကြာကြီးယူတယ်ဆိုတာ ရူးကြောင်ကြောင်နိုင်တာလို့ထင်တာပဲ။
+အဲဒါက အချိန်အကြာကြီးကြာတယ်ဆိုတာ ရူးကြောင်ကြောင်နိုင်တာလို့ထင်တာပဲ။
+5/5
 
 3307
 It only lasts a week.
 အဲဒါက တစ်ပတ်ပဲ ကြာတာပါ။
+5/5
 
 3308
 That is what they had been striving for.
-အဲဒါက သူတို့ ကြိုးစားနေခဲ့ရတဲ့ဟာပဲ။
+အဲဒါက သူတို့ ကြိုးစားနေခဲ့တဲ့ဟာပဲ။
+5/5
 
 3309
 That was never what they wanted.
-ဒါက သူတို့လိုချင်တာ ဘယ်တုန်းကမှမဟုတ်ခဲ့ဘူး။
+အဲဒါက သူတို့လိုချင်တဲ့ဟာ ဘယ်တုန်းကမှမဟုတ်ခဲ့ဘူး။
+5/5
 
 3310
 They achieved their goal.
 သူတို့ ရည်မှန်းချက် အောင်မြင်ခဲ့တယ်။
+5/5
 
 3311
 Half of all gun misfires result from single-hand use.
-သေနတ်ကျည်မထွက်တဲ့အကြောင်း အားလုံးရဲ့ တစ်ဝက်က လက်တစ်ဖက်တည်း သုံးလို့ပဲ။
+သေနတ်ကျည်မထွက်တဲ့အကြောင်းရင်းအားလုံးရဲ့ တစ်ဝက်က လက်တစ်ဖက်တည်း သုံးလို့ပဲ။
+5/5
 
 3312
 The best way forward for gun control is to use both feet.
 ရှေ့လျှောက် သေနတ်ကို ထိန်းချုပ်ဖို့ အကောင်းဆုံးနည်းလမ်းကတော့ ခြေနှစ်ဖက်စလုံးကို အသုံးပြုတာပါ။
+5/5
 
 3313
 Use both hands if you want to practice gun control.
 သေနတ်ထိန်းချုပ်တာ လေ့ကျင့်ချင်ရင် လက်နှစ်ဖက်စလုံးကို အသုံးပြုပါ။
+5/5
 
 3314
 I do not know where it comes from but it is swift.
 အဲဒါ ဘယ်ကထွက်လာမှန်းမသိဘူး မြန်လိုက်တာ။
+5/5
 
 3315
 It comes by fast but I kinda know where it may be coming from.
-အဲဒါကမြန်လိုက်တာ ဘယ်ကထွက်လောက်လဲဆိုတာတော့ ငါသိတယ်။
+အဲဒါက ထွက်လာတာ မြန်တယ် ဒါေပမယ့် ဘယ်က ေနထွက်လာလောက်လဲဆိုတာတော့ ငါသိသလိုလိုရှိတယ်။
+5/5
 
 3316
 It comes like molasses and I know exactly when it will be coming.
 သကာရည်လိုပဲရောက်လာတာ ဘယ်အချိန်ရောက်လာမလဲဆိုတာ ငါ အတိအကျသိတယ်။
+5/5
 
 3317
 Correct the one you had was cordless.
 မင်းမှာရှိခဲ့တဲ့ ကြိုးမဲ့ ကို ပြင်လိုက်ပါ။
+3/5
 
 3318
 The one you had was definitely a corded version only.
 မင်းမှာရှိခဲ့တဲ့ဟာက ကြိုးနဲ့ဟာပဲဖြစ်ရမယ်။
+5/5
 
 3319
 You might have had one with an optional cord.
-ပြောင်းတပ်လို့ရတဲ့ ကြိုးနဲ့ဟာ မင်းမှာရှိခဲ့တာဖြစ်ရမယ်။
+မင်းမှာရှိခဲ့တဲ့ဟာက ပြောင်းတပ်လို့ရတဲ့ ကြိုးနဲ့ဟာ ဖြစ်ရမယ်။
+5/5
 
 3320
 I don't know much about it.
 အဲဒီအကြောင်း ငါ သိပ်မသိဘူး။
+5/5
 
 3321
 I'm ignorant in matters of love.
-အချစ်ရေးနဲ့ပါတ်သက်ပြီး ငါသိပ်မသိဘူး။
+အချစ်ရေးနဲ့ပါတ်သက်ပြီး ငါလျစ်လျူရှုထားတယ်း။
+5/5
 
 3322
 I've been studying it for years.
-အဲဒီအကြောင်းကို ငါလေ့လာနေတာ နှစ်တွေများပြီ။
+အဲဒီအကြောင်းကို ငါလေ့လာနေတာ နှစ်အ ေတာ်ကြာပြီ။
+5/5
 
 3323
 I think she knows that she was awesome.
-သူက အရမ်းမိုက်တယ်ဆိုတာ သူ့ကိုယ်သူသိတယ်လို့ ငါထင်တယ်။
+သူအရမ်းမိုက်တယ်ဆိုတာ သူမကိုယ်သူမသိတယ်လို့ ငါထင်တယ်။
+5/5
 
 3324
 No she was horrible.
-မဟုတ်ပါဘူး၊ သူက ကြောက်စရာကြီးပါ။
+မဟုတ်ပါဘူး၊ သူမက အရမ်းဆိုးပါတယ်။
+5/5
 
 3325
 Yes she was very good.
-ဟုတ်တယ်၊ သူက အရမ်းကောင်းတယ်။
+ဟုတ်တယ်၊ သူမက အရမ်းကောင်းတယ်။
+5/5
 
 3326
 Are you saying the students or the teacher's aide did it?
-ကျောင်းသားလား၊ ဆရာ့လက်ထောက် လုပ်ခဲ့တာကို ပြောတာလား။
+ကျောင်းသားကလား၊ ဆရာ့လက်ထောက်ကလား အဲဒါကို လုပ်ခဲ့တာလို့ မင်းက ဆိုလိုချင်တာတာလား?
+5/5
 
 3327
 Is it the teachers or the parents?
-ဆရာတွေလား၊ မိဘတွေလား။
+အဲဒါ ဆရာတွေလား၊ မိဘတွေလား?
+5/5
 
 3328
 What are you implying about the parents and the teachers?
-မိဘတွေနဲ့ ဆရာတွေနဲ့ပတ်သက်ပြီး မင်း ဘာကိုဆိုလိုချင်တာလဲ။
+မိဘတွေ၊ ဆရာတွေနဲ့ပတ်သက်ပြီး မင်းက ဘာကိုဆိုလိုချင် ေနတာလဲ။
+5/5
 
 3329
 He suggested buying a vacuum.
-ဖုန်စုပ်စက်ဝယ်လို့ သူက အကြံပေးတာ။
+ဖုန်စုပ်စက်ဝယ်လို့ သူက အကြံပေးခဲ့တယ်။
+5/5
 
 3330
 He suggested finding a mop.
-ကြမ်းတိုက်တံ ရှာဖို့ သူက အကြံပေးတာ။
+ကြမ်းတိုက်တံ ရှာဖို့ သူက အကြံပေးခဲ့တယ်။
+5/5
 
 3331
 He wanted to clean up the blood with a mop.
-သူက သွေးတွေကို ကြမ်းတိုက်တံနဲ့ သန့်ရှင်းရေးလုပ်စေချင်တာ။
+သူက သွေးတွေကို ကြမ်းတိုက်တံနဲ့ သန့်ရှင်းရေးလုပ်ချင်ခဲ့တယ်။
+5/5
 
 3332
 The shooting was at least 100 miles from where I live.
-ပစ်ခတ်မှုက ကျွန်တော်နေတဲ့နေရာနဲ့ အနည်းဆုံး မိုင်၁၀၀ အကွာမှာဖြစ်ခဲ့တာ။
+ပစ်ခတ်မှုက ကျွန်တော်နေတဲ့နေရာနဲ့ အနည်းဆုံး မိုင်၁၀၀ အကွာမှာဖြစ်ခဲ့တယ်။
+5/5
 
 3333
 The shooting was close to my house and it makes me scared to go outside.
-ပစ်ခတ်မှုက ကျွန်တော့် အိမ်နဲ့နီးတော့ ကျွန်တော်ြဖင့်ကြောက်လို့ အပြင်တောင်မထွက်ရဲဘူး။
+ပစ်ခတ်မှုက ကျွန်တော့် အိမ်နဲ့နီးတော့ ကျွန်တော်ကြောက်လို့ အပြင်တောင်မထွက်ရဲခဲ့ဘူး။
+5/5
 
 3334
 There was a shooting close to my home, it is really not good in this area.
 ကျွန်တော့်အိမ်နားမှာ ပစ်ခတ်မှုဖြစ်ခဲ့တာ ၊ ဒီဧရိယာအတွက်တော့ တကယ်မကောင်းဘူ။
+5/5
 
 3335
 I am thinking of looking at a V6.
-ဗွီဆစ် ကြည့်မလို့ စဉ်းစားနေတာ။
+V6 တစ်စီး ကြည့်မလို့ ငါစဉ်းစားနေတာ။
+5/5
 
 3336
 I think a V6 is the best way to go.
-ဗွီဆစ်က သွားဖို့အကောင်းဆုံးပဲလို့ ထင်တယ်။
+V6 က ရွေးဖို့ အသင့်ဆုံးပဲလို့ ငါထင်တယ်
+5/5
 
 3337
 I would never consider a V6.
-ဗွီဆစ်ကို တစ်ခါမှမစဉ်းစားခဲ့မိဘူး။
+V6 ကို ငါ ဘယ်တော့မှစဉ်းစား မှာမဟုတ်ဘူး။
+5/5
 
 3338
 I disagree with you, it is very consistent.
-မင်းနဲ့ငါ သဘောထားမတူဘူး၊ အဲဒါက အရမ်းခိုင်မာတယ်။
+မင်းနဲ့ငါ သဘောထားမတူဘူး၊ အဲဒါက အရမ်း တသမတ်တည်းဖြစ်တယ်။
+4/5
 
 3339
 I think you may be correct about its consistency.
-အဲဒီ ခိုင်မာတဲ့ကိစ္စက မင်းမှန်ရင်လည်းမှန်မှာပေါ့။
+အဲဒါရဲ့ တသမတ်တည်းဖြစ်မှုနဲ့ပတ်သတ်ပြီး မင်းမှန်ရင်လည်းမှန်မှာပေါ့။
+4/5
 
 3340
 You are correct about it not be consistent.
-အဲဒါ မခိုင်မာဘူးဆိုတဲ့အကြောင်းက မင်းမှန်ပါတယ်။
+အဲဒါ တသမတ်တည်းမဟုတ်ဘူးဆိုတာ မင်းမှန်ပါတယ်။
+4/5
 
 3341
 I am strongly against drug testing, there is no doubt in my mind about it.
-ဆေးစစ်တာကို ပြင်းပြင်းထန်ထန် ကန့်ကွက်ပါတယ်၊ အဲဒါကို သံသယကိုမရှိတာပါ။
+ဆေးစစ်တာကို ငါပြင်းပြင်းထန်ထန် ကန့်ကွက်တယ်၊ အဲဒါနဲ့ပတ်သက်ပြီး ငါသံသယကိုမရှိတာပါ။
+5/5
 
 3342
 I guess I would be fine with being drug tested.
-ဆေးစစ်ခံရတာ ကျွန်တော် အဆင်ပြေလိမ့်မယ်လို့ ယူဆတယ်။
+ဆေးစစ်ခံရတာ ငါ့အနေနဲ့အဆင်ပြေလိမ့်မယ်လို့ ငါထင်ပါတယ်။
+5/5
 
 3343
 I think so but I have not gone through my emotions with regards to drug testing.
-ထင်တာပဲ ဒါပေမဲ့ ဆေးစစ်တာနဲ့ပါတ်သက်ပြီး ငါ့စိတ်တွေ ဘယ်လိုခံစားရမလဲတော့ မဆန်းစစ်ရသေးဘူး။
+ငါလဲအဲလိုပဲထင်တာပဲ ဒါပေမယ့် ဆေးစစ်တာနဲ့ပါတ်သက်ပြီး ငါ့စိတ်တွေ ဘယ်လိုခံစားရမလဲတော့ မဆန်းစစ်ရသေးဘူး။
+5/5
 
 3344
 I am attempting to hang on.
-ငါ သေချာလုပ်ဖို့ ကြိုးစားနေတာပါ။
+အားတင်းထားဖို့ ငါကြိုးစားနေတာပါ။
+5/5
 
 3345
 I really am doing my best.
 ငါ တကယ်ကို အကောင်းဆုံးလုပ်နေတာပါ။
+5/5
 
 3346
 I will let go and never look back.
 ငါ လက်လွှတ်လိုက်ပြီး ပြန်မလှည့်ကြည့်တော့ဘူး။
+5/5
 
 3347
 Is your puppy a good boy?
 မင်းခွေးလေးက လိမ္မာတဲ့ကောင်လေးလား။
+5/5
 
 3348
 What kind of cat did you rescue?
 မင်းကယ်ဆယ်လိုက်တာ ဘယ်လိုကြောင်မျိုးလဲ။
+5/5
 
 3349
 What kind of young dog do you have?
 မင်းမှာ ဘယ်လို ခွေးငယ်မျိုးရှိလဲ။
+5/5
 
 3350
 How many children do you have?
-မင်းမှာ ကလေးဘယ်နှယောက်ရှိလဲ။
+မင်းမှာ ကလေးဘယ်နှစ်ယောက်ရှိလဲ။
+5/5
 
 3351
 I am sorry to hear that you were not able to have children.
 မင်းကလေးမရနိုင်ဘူးလို့ကြားရတာ စိတ်မကောင်းပါဘူး။
+5/5
 
 3352
 You stated you have children, what are their ages?
-မင်းမှာ ကလေးတွေရှိတယ်လို့ ပြောခဲ့တယ်နော်၊ သူတို့ကအသက်ဘယ်လောက်ရှိကြပြီလဲ။
+မင်းမှာ ကလေးတွေရှိတယ်လို့ ပြောခဲ့တယ်နော်၊ သူတို့ကအသက်ဘယ်လောက်ရှိကြပြီလဲ?
+5/5
 
 3353
 They may not have been the smartest but they were very friendly and were interested in those that study.
-သူတို့က စမတ်အဖြစ်ဆုံးတွေတော့ မဟုတ်ပေမဲ့ ခင်မင်စရာကောင်းတယ် ပြီးတော့ လေ့လာတဲ့အရာအပေါ်မှာလည်း စိတ်ဝင်စားမှုရှိကြတယ်။
+သူတို့က အ ေတာ်ဆုံးတွေတော့ မဟုတ်ပေမဲ့ အရမ်းခင်ဖို့ကောင်းတယ် ပြီးတော့ လေ့လာတဲ့အရာအပေါ်မှာလည်း စိတ်ဝင်စားမှုရှိကြတယ်။
+5/5
 
 3354
 They were really smart but played dumb when around others they did not know very well.
-သူတို့က အရမ်းစမတ်ဖြစ်ပေမဲ့ သူတို့နဲ့မသိတဲ့သူတွေကြားမှာတော့ အူတူတူအတတ ဖြစ်နေခဲ့တယ်။
+သူတို့က အရမ်း ေတာ်ကြ ပေမဲ့ သူတို့နဲ့မသိတဲ့သူတွေကြားမှာတော့ ခပ်တုံးတုံးပုံစံပဲ နေခဲ့ကြတယ်။
+5/5
 
 3355
 They were the beyond brilliant but detested anyone that put effort into studying.
-သူတို့က အတိုင်းထက်အလွန်တော်ကြပေမဲ့ စာကြိုးစားတဲ့သူတိုင်းကို ရွံမုန်းတယ်။
+သူတို့က အတိုင်းထက်အလွန်တော်ကြပေမဲ့ စာလုပ်ဖို့ တမင်အားထည့်ပြီးလုပ်တဲ့လူတိုင်းကိုကျေတာ့ အရမ်းမုန်းကြတယ်။
+5/5
 
 3356
 The skunk was waiting for us to return to the camp site.
-စခန်းချတဲ့နေရာကိုပြန်ဖို့ စကင့်က ကျွန်တော်တို့ကိုစောင့်နေတယ်။
+ငါတို့ စခန်းချတဲ့နေရာကိုပြန်ဖို့ကို  skunk က စောင့်နေခဲ့တယ်။
+4/5
 
 3357
 We found a goat at the camp site after we had already turned out the lights.
 ငါတို့မီးတွေပိတ်ပြီးမှ စခန်းချတဲ့နေရာမှာ ဆိတ်တစ်ကောင်တွေ့ခဲ့တယ်။
+5/5
 
 3358
 When we came back from an event we found a skunk.
-ပွဲတစ်ခုကပြန်လာတော့ စကင့်တစ်ကောင်ကိုတွေ့ခဲ့တယ်။
+ပွဲတစ်ခုကပြန်လာတော့ skunk တစ်ကောင်ကိုတွေ့ခဲ့တယ်။
+4/5
 
 3359
 He has learned from the older male children but all of my offspring outshine.
-သူက အကြီးအစ်ကိုတွေဆီကနေ သင်ယူခဲ့ပေမဲ့ ကျွန်တော့ကလေးတွေအားလုံးက ပိုထူးချွန်တယ်။
+သူက တခြားအစ်ကိုတွေဆီကနေ သင်ယူခဲ့ပေမဲ့ ကျွန်တော့ကလေးတွေအားလုံးက ပိုထူးချွန်တယ်။
+4/5
 
 3360
 I am very proud of how much my children know.
 ကျွန်တော့် ကလေး ဘယ်လောက်တတ်သိတယ်ဆိုတာကို ကျွန်တော် ဂုဏ်ယူတယ်။
+5/5
 
 3361
 My kids are truly idiotic.
-ကျွန်တော့်ကလေးတွေက တကယ့် ငတုံးတွေပဲ။
+ကျွန်တော့်ကလေးတွေက တကယ့်ငတုံးတွေပဲ။
+5/5
 
 3362
 People constraining the amount of garbage is closer to the issue than the weight of the actual garbage.
-အမှိုက်ပမာဏကို ကန့်သတ်ထားသူတွေက အမှန်တကယ် အမှိုက်အလေးချိန်ထက် ပြဿနာနှင့် ပိုနီးစပ်ပါတယ်။ 
+အမှိုက်ပမာဏကို ကန့်သတ်တဲ့သူတွေက အမှန်တကယ်အမှိုက်ရဲ့အလေးချိန်ထက် ပြဿနာနဲ့ ပိုနီးစပ်တယ်။ 
+4/5
 
 3363
 People do not need to worry about the amount of garbage as long as they dispose of it properly.
 အမှိုက်ကို စနစ်တကျ စွန့်ပစ်နေသမျှ အမှိုက်ပမာဏကို စိတ်ပူစရာမလိုဘူး။
+5/5
 
 3364
 People need to consider both the volume and the weight of the garbage they are producing.
 လူတွေက သူတို့ ပစ်လိုက်တဲ့အမှိုက် ပမာဏရော အလေးချိန်ရောကို စဉ်းစားဖို့လိုတယ်။
+5/5
 
 3365
 Concerned about the local places being affected by national news.
 နိုင်ငံသတင်းတွေကြောင့် ပြည်တွင်းကနေရာတွေ ထိခိုက်မှာ စိတ်ပူရတယ်။
+4/5
 
 3366
 I could care less what the national news covers with concerns about our local areas.
-နိုင်ငံ့သတင်းမှာ ငါတို့ရဲ့ ဒေသခံဧရိယာအကြောင်းတွေနဲ့ ပြည့်နေတာကို ငါတော့ သိပ်ဂရုမစိုက်နိုင်ဘူး။
+နိုင်ငံ့သတင်းမှာ ငါတို့ရဲ့ ဒေသခံနယ် မြေ တွေ အကြောင်း ဘာတွေပါလဲဆိုတာနဲ့ ပတ်သက်ပြီး ငါတော့ သိပ်ဂရုမစိုက်ပါဘူး။
+4/5
 
 3367
 The national news outlets make our local places seem backwards.
 နိုင်ငံ့သတင်း အစီအစဉ်တွေက ငါတို့ရဲ့ ဒေသနေရာတွေကို ပြောင်းပြန်ဖြစ်နေတယ်ထင်ရအောင် လုပ်နေတယ်။
+4/5
 
 3368
 Do not worry, if there is a mistake I will help take the blame.
-စိတ်မပူပါနဲ့၊ အမှားအယွင်းတစ်ခုခုရှိခဲ့ရင် အပြစ်တင်ဖို့ ငါ ကူညီပါမယ်။
+စိတ်မပူပါနဲ့၊ အမှားအယွင်းတစ်ခုခုရှိခဲ့ရင် ငါပဲ အပြစ်တင်ခံလိုက်ပါမယ်။
+5/5
 
 3369
 If there is an error it belongs to you.
 အမှားအယွင်းတစ်ခုခုရှိခဲ့ရင် မင်းနဲ့ပဲ ဆိုင်တယ်။
+5/5
 
 3370
 If you made a mistake you should take ownership of it.
 မင်း အမှားအယွင်းတစ်ခုခုလုပ်ခဲ့ရင် မင်းတာဝန်ယူသင့်တယ်။
+5/5
 
 3371
 The seams are done in a very skillful way.
 ချုပ်ရိုးချုပ်သားတွေက အရမ်း လက်ရာကောင်းတယ်။
+5/5
 
 3372
 The seams were done in a rush and look very sloppy.
 ချုပ်ရိုးချုပ်သားတွေက ကြမ်းတယ် မြင်ရတာ တော်တော်မသေသပ်ဘူး။
+5/5
 
 3373
 They took a long time to finish the seams.
-ချုပ်ရိုးတွေပြီးအောင် သူတို့က အချိန်အကြာကြီးယူခဲ့တယ်။
+ချုပ်ရိုးတွေပြီးအောင် သူတို့ အချိန်အကြာကြီးယူခဲ့တယ်။
+5/5
 
 3374
 Your time keeps increasing every year.
 မင်းရဲ့အချိန်က တစ်နှစ်ထက်တစ်နှစ်တိုးလာတယ်။
+5/5
 
 3375
 Your time never goes above three days.
 မင်းရဲ့အချိန်က သုံးရက်အထက်ကို ဘယ်တော့မှကျော်မသွားဘူး။
+5/5
 
 3376
 Your vacation time increases at the city jobs.
-မင်းရဲ့ အားလပ်ရပ် အချိန်က မြို့ပြအလုပ်တွေမှာ တိုးလာတယ်။
+မင်းရဲ့ အားလပ်ရက် အချိန်က မြို့ပြအလုပ်တွေမှာ တိုးလာတယ်။
+5/5
 
 3377
 Being in the country makes you live in constant fear of things just like that.
-ဒီတိုင်းပြည်မှာနေရတာက ဒီလိုမျိုး အကြောက်တရားနဲ့ မင်းအမြဲတစေနေရစေလိမ့်မယ်။
+နယ်မှာနေရတာက အဲဒီလိုမျိုး အကြောာက်တရားနဲ့ အမြဲနေ နေရသလိုပဲ နေရစေတယ်။
+5/5
 
 3378
 What is great about being in the country is you do not have to fret over things like that.
-နယ်တစ်ခုမှာနေရတာ ဘာကအရမ်းကောင်းတာလဲ ဆိုတာ ဒါမျိုးတွေအတွက် သင်စိတ်ပူစရာမလိုတာကိုပြောတာပါ။
+နယ်မှာနေရတာ ဘာအရမ်းကောင်းတာလဲ ဆိုတော့ ဒါမျိုးတွေအတွက် စိတ်ပူစရာမလိုတာကိုပြောတာပါ။
+5/5
 
 3379
 What is really swell is in the country you do not have to worry about that like you would in a city.
-အကောင်းဆုံးက ဘာလဲဆိုတော့ နယ်မှာက မြို့ကြီးမှာနေသလို စိတ်ပူစရာမလိုဘူး။
+အရမ်းကောင်းတာက ဘာလဲဆိုတော့ နယ်မှာက မြို့ကြီးမှာနေသလို စိတ်ပူစရာမလိုဘူး။
+5/5
 
 3380
 That seems like either a lot of fun or rrally boring.
-ပျော်စရာတွေအများကြီးရှိရင်ရှိ ဒါမှမဟုတ် အလွန်ပျင်းဖို့ကောင်းမှာပဲ။
+ပျော်စရာတွေအများကြီးရှိရင်ရှိ ဒါမှမဟုတ် အရမ်းပျင်းဖို့ကောင်းမှာပဲ။
+5/5
 
 3381
 That sounds like a great adventure.
 ကြီးကျယ်တဲ့ စွန့်စားမှုတစ်ခုဖြစ်တဲ့ ပုံပဲ။
+5/5
 
 3382
 That sounds like an awful experience.
 ဆိုးရွားတဲ့ အတွေ့အကြုံတစ်ခုဖြစ်တဲ့ ပုံပဲ။
+5/5
 
 3383
 I don't dress up when I work at home.
-အိမ်မှာပဲ အလုပ်လုပ်ရင် အင်္ကျီ လဲစရာမလိုဘူး။
+အိမ်မှာ အလုပ်လုပ်ရင် ငါ ဝတ်ကောင်းစားလှ မဝတ်ဘူး။
+5/5
 
 3384
 I don't wear anything other than sweats when I work at home.
-အိမ်မှာပဲ အလုပ်လုပ်ရင် အိမ်နေရင်းအဝတ်အစားတွေကလွဲရင် တခြားဟာမဝတ်ဖြစ်ဘူး။
+အိမ်မှာ အလုပ်လုပ်ရင် အိမ်နေရင်းအဝတ်အစားတွေကလွဲရင် တခြားဟာ ငါမဝတ်ဘူး။
+4/5
 
 3385
 I still wear dresses when I'm working at home because I feel fancier.
-အိမ်မှာပဲ အလုပ်လုပ်ရင်လည်း အင်္ကျီလဲဖြစ်တယ် ပိုပြီးတော့ အာရုံလာလို့လေ။
+အိမ်မှာ အလုပ်လုပ်ရင်လည်း အင်္ကျီလဲဖြစ်တယ် ပိုပြီးတော့ အာရုံလာလို့လေ။
+3/5
 
 3386
 Currently I have a sibling residing in Germany.
 လက်ရှိ ကျွန်တော့်မှာ ဂျာမနီမှာ နေနေတဲ့ မွေးချင်းတစ်ယောက်ရှိတယ်။
+5/5
 
 3387
 I have a sister that is right now in Cuba.
 ကျွန်တော့်မှာ ကျူးဘားမှာ အခုနေနေတဲ့ ညီမတစ်ယောက်ရှိတယ်။
+5/5
 
 3388
 I have a sister that speaks German.
 ကျွန်တော့်မှာ ဂျာမန်စကားပြောတတ်တဲ့ ညီမတစ်ယောက်ရှိတယ်။
+5/5
 
 3389
 I might be able to get my daughter there.
 ငါ့သမီးကို ဟိုကို လိုက်ပို့ဖြစ်လောက်တယ်။
+5/5
 
 3390
 It is a little harder for me to get my daughter there.
 ငါ့သမီးကို ဟိုကို လိုက်ပို့ဖို့က ငါ့အတွက် နည်းနည်းတော့ခက်တယ်။
+5/5
 
 3391
 My daughter has her own way to get there now that she can drive.
-ငါ့သမီးက သူ့နည်းသူ့ဟန်နဲ့ အခု ဟိုကိုရောက်သွားတာက သူကကားမောင်းတတ်တယ်လေ။
+ငါ့သမီးက ကားမောင်းတတ်တယ် ေတာ့ သူ့နည်းသူ့ဟန်နဲ့ အခု ဟိုကိုရောက် ေအာင်သွားတတ်တယ်။
+5/5
 
 3392
 I hope you have a miserable summer break.
-မင်းမှာ စိတ်ဆင်းရဲစရာကောင်းတဲ့ နွေရာသီနားရက်ရှိဖို့ မျှော်လင့်တယ်။
+မင်းအတွက် စိတ်ဆင်းရဲစရာကောင်းတဲ့ နွေရာသီနားရက်ဖြစ်ပါစေလို့ ငါ မျှော်လင့်ပါတယ်။
+4/5
 
 3393
 Indeed summer will be here soon.
 သေချာတာပေါ့ ဒီမှာ နွေရာသီရောက်တော့မယ်။
+5/5
 
 3394
 Yes, have a pleasant summer.
 ဟုတ်ကဲ့၊ သာယာတဲ့နွေရာသီဖြစ်ပါစေ။
+5/5
 
 3395
 Having a place to live is a dream come true.
-နေစရာနေရာတစ်ခု ရရှိခြင်းက အိမ်မက်က တကယ်ဖြစ်လာတာပါ။
+နေစရာနေရာတစ်ခု ရရှိခြင်းဟာ အိမ်မက်က တကယ်ဖြစ်လာတာပါ။
+5/5
 
 3396
 I don't really care if i have a place to live.
 ငါ့မှာ နေစရာနေရာတစ်ခု ရှိရှိ မရှိရှိ ငါဂရုမစိုက်ဘူး။
+5/5
 
 3397
 It's nice to have a place to live.
 နေစရာနေရာတစ်ခုရှိတာက ကောင်းပါတယ်။
+5/5
 
 3398
 It would be easy to find out if the corporation was financed.
-ကော်ပိုရေးရှင်းကို ငွေကြေးပံ့ပိုးခဲ့သလားဆိုတာ သိရှိဖို့ လွယ်ကူပါလိမ့်မယ်။
+ကော်ပိုရေးရှင်းက ငွေကြေး အထောက်အပံ့ ရခဲ့သလားဆိုတာ ဖော်ထုတ်ဖို့ လွယ်ကူပါလိမ့်မယ်။
+5/5
 
 3399
 It would make me angry to find out that they had financed the corporation.
-သူတို့က ကော်ပိုရေးရှင်းကို ငွေကြေးပံ့ပိုးခဲ့တာကို သိရှိရရင် ငါတော့ ဒေါသထွက်ရလိမ့်မယ်။
+သူတို့က ကော်ပိုရေးရှင်းကို ငွေကြေးပံ့ပိုးခဲ့တာကို သိရရင် ငါတော့ ဒေါသထွက်ရလိမ့်မယ်။
+5/5
 
 3400
 It wouldn't bother me if the corporation was financed.
-ကော်ပိုရေးရှင်းကို ငွေကြေးပံ့ပိုးခဲ့တယ်ဆိုရင်လည်း ငါ့အတွက်တော့ အနှောက်အယှက်မဖြစ်ဘူး။
+ကော်ပိုရေးရှင်းက ငွေကြေး အထောက်အပံ့ရခဲ့တယ်ဆိုရင်လည်း ငါ့အတွက်တော့ အနှောက်အယှက်မဖြစ်ဘူး။
+5/5

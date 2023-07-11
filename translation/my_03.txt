@@ -1,449 +1,510 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 201
 So he stayed in Augusta after that?
-ဒါဆို အဲဒီနောက်ပိုင်း အော်ဂတ်စထာ မှာ သူနေခဲ့တာလား။
+ဒါဆို အဲဒီနောက်ပိုင်း Augusta မှာ သူနေခဲ့တာလား။
+#5/5
 
 202
 Her sister's husband was light-skinned too.
 သူ့အစ်မ ယောက်ျားကလဲ အသားဖြူတယ်။
+#5/5
 
 203
 Anyway it got up to, we had about uh, ah, I don't remember the numbers.
 ဘယ်လိုပဲဖြစ်ဖြစ် ဒီအထိ ရောက်ပြီးသွားပြီ၊ ငါတို့ဆီမှာ၊ အဲ ဂဏန်းတွေကို တော့ ငါမမှတ်မိဘူး။
+#5/5
 
 204
 Anyway, they come up with this invention of the high O2 regulator.
-ဘယ်လိုပဲဖြစ်ဖြစ်၊ သူတို့ အိုတူး ထိန်းညှိစက် တီထွင်လာတယ်။
+ဘယ်လိုပဲဖြစ်ဖြစ်၊ သူတို့ O2 ထိန်းညှိစက် တီထွင်လာတယ်။
+#5/5
 
 205
 And so, we moved to Las Vegas, NV, and I reported, just like I did in Washington, to a certain address in downtown Las Vegas.
-ဒါပြီးတော့ ငါတို့ လက်စ်ဗီးဂတ် အန်ဗွီ ကို ပြောင်းရွှေ့ခဲ့ကြတယ်၊ ပြီးတော့ ငါ ဝါရှင်တန်မှာ နေခဲ့တုန်းကလိုမျိုး လက်စ်ဗီးဂတ် မြို့လယ်ခေါင်က နေရာတစ်နေရာကို အစီရင်ခံခဲ့တယ်။
+ဒါပြီးတော့ ငါတို့ Las Vegas NV ကို ပြောင်းရွှေ့ခဲ့ကြတယ်၊ ပြီးတော့ ငါ Washington မှာ နေခဲ့တုန်းကလိုမျိုး Las Vegas မြို့လယ်ခေါင်က နေရာတစ်နေရာကို အစီရင်ခံခဲ့တယ်။
+#5/5
 
 206
 Ah, fourth grade was a lot of fun.
 လေးတန်းတုန်းက အတော်ပျော်စရာကောင်းခဲ့တယ်။
+#5/5
 
 207
 It's like one file with a whole bunch of tabs, of different, you know, each tab has like a different spreadsheet on it.
 အဲဒါက ကတ်ပြားအများကြီး ပါတဲ့ ဖိုင်တစ်ခုနဲ့ တူတယ်၊ သိတယ်မလား၊ ကတ်ပြား တစ်ခုချင်းစီတိုင်းမှာ မတူညီတဲ့ စာရင်းဇယား တခုစီပါတယ်။
+#4/5
 
 208
 Anyhow, so I finished came home at 6:30 today and that was my day.
 ဒီလိုနဲ့ပဲ ဒီနေ့ ၆း၃၀ မှာ ငါအားလုံးပြီးပြီး အိမ်ပြန်ရောက်လာတယ် ဒါကတော့ ငါ့နေ့ပဲ ဖြစ်တယ်။
+#5/5
 
 209
 I don't care how you get it done.
 ဒါကို မင်းဘယ်လို ပြီးအောင်လုပ်မလဲ ဆိုတာ ငါ ဂရုမစိုက်ဘူး။
+#5/5
 
 210
 And so she sat back down, and, you know, they were still chatting, and they could still see this person, and this person was walking really, really fast.
 သူက အေးအေးလူလူ ပြန်ထိုင်နေလိုက်တယ်၊ ပြီးတော့၊ မင်းသိလား၊ သူတို့ စကားဆက်ပြောနေကြပြီးတော့ အဲဒီလူကို ဆက်မြင်နေရသေးတယ်၊ ပြီးတော့ အဲဒီလူက တကယ်ကို မြန်မြန် လမ်းလျှောက်နေတယ်။
+#5/5
 
 211
 And they moved to Mallard Creek in Charlotte.
-ပြီးတော့ သူတို့ ရှားလော့ထ် မှာရှိတဲ့ မယ်လာ့ဒ်ခရိခ် ကို ပြောင်းရွှေ့ခဲ့ကြတယ်။
+ပြီးတော့ သူတို့ Charlotte မှာရှိတဲ့ Mallard Creek ကို ပြောင်းရွှေ့ခဲ့ကြတယ်။
+#5/5
 
 212
 And, uh, if it surged and just kept surging it would go 'whish,' and, like it was going to pull your head off.
 ပြီးတော့ အဲ ဒါက တဟုန်ထိုး မြင့်တက်လာပြီးတော့ ဆက်မြင့်တက်နေလျှင် ဝှစ်ခနဲ ဖြစ်သွားပြီးတော့ ဒါက မင်းခေါင်းကို ဆွဲဖြုတ်လိုက်သလိုမျိုးဖြစ်မယ်။
+#5/5
 
 213
 Where he was a , he was a minister's son, so he had, they had property, and stuff, and they were very well-connected in the community and very, held in high esteem.
 အဲဒီမှာ သူက ဝန်ကြီးတစ်ယောက်ရဲ့ သားဖြစ်ပြီး သူ့မှာ၊ သူတို့မှာ အိမ်ခြံမြေ ပိုင်ဆိုင်မှုတွေ စသည်ဖြင့် ရှိတယ်၊ ပြီးတော့ သူတို့က အသိုင်းအဝိုင်းထဲမှာ အချိတ်အဆက် ကောင်းပြီးတော့ အထင်ကြီး လေးစားတာ ခံကြရတယ်။
+#5/5
 
 214
 I don't have enough information.
 ငါ့မှာ လုံလောက်တဲ့ သတင်းအချက်အလက် မရှိဘူး။
+#5/5
 
 215
 And I um, I didn't know how much detail he wanted.
 ပြီးတော့ ငါ အမ် သူ ဘယ်လောက် အသေးစိတ် လိုချင်သလဲဆိုတာ ငါမသိဘူး။
+#5/5
 
 216
 I'll call you back in about an hour, he says.
 ငါ တစ်နာရီလောက်နေရင် မင်းကို ပြန်ခေါ်လိုက်မယ်လို့ သူကပြောတယ်။
+#5/5
 
 217
 Of course, they questioned me there, why I went.
 ဒါပေါ့၊ အဲဒီမှာ ငါ ဘာကြောင့်သွားခဲ့တယ် ဆိုတာ သူတို့ ငါ့ကို မေးခွန်းထုတ်တယ်။
+#5/5
 
 218
 And um, it's different, like under each client, is all their files.
 ပြီးတော့ အမ် ဒါက မတူဘူး၊ ဖောက်သည် တစ်ယောက်ချင်းစီအောက်မှာ သူတို့ ဖိုင်တွဲတွေအားလုံး ရှိတယ်။
+#5/5
 
 219
 It's like more simplified, like the one that she had given me was all detailed and complicated and the second one is all simple.
 ဒါက ပိုရိုးရှင်းပုံပေါ်တယ်၊ သူ ငါ့ကို ပေးခဲ့တဲ့တစ်ခုက အားလုံး အသေးစိတ်ပြီး ရှုပ်ထွေးနေပြီးတော့ ဒုတိယတစ်ခုကတော့ အားလုံးရိုးရှင်းတယ်။
+#5/5
 
 220
 Cause they didn't actually live in Augusta, they lived in, well you know, Augusta was still a city-town during that time, even though to people in big cities like this Augusta isn't that big.
-ဘာလို့လဲဆိုတော့ သူတို့ အော်ဂတ်စထာထဲမှာမှ တကယ်မနေခဲ့တာ၊ မင်းသိတယ်မလား၊ အော်ဂတ်စထာက အဲဒီအချိန်တုန်းက မြို့တော်လိုလို မြို့လိုလိုပဲ ရှိသေးတာ၊ ဒီလိုမြို့တော်ကြီးတွေမှာနေတဲ့ လူတွေအတွက်က အော်ဂတ်စထာက သိပ်မကြီးပါဘူး။
+ဘာလို့လဲဆိုတော့ သူတို့ Augusta ထဲမှာမှ တကယ်မနေခဲ့တာ၊ မင်းသိတယ်မလား၊ Augusta က အဲဒီအချိန်တုန်းက မြို့တော်လိုလို မြို့လိုလိုပဲ ရှိသေးတာ၊ ဒီလိုမြို့တော်ကြီးတွေမှာနေတဲ့ လူတွေအတွက်က အော်ဂတ်စထာက သိပ်မကြီးပါဘူး။
+#5/5
 
 221
 Late 1962, uh, I got orders to go to Washington, D.C.
-၁၉၆၂ နောက်ပိုင်းမှာ ဝါရှင်တန် ဒီစီ ကို သွားဖို့ ငါ ညွှန်ကြားချက်တွေ ရတယ်။
+၁၉၆၂ နောက်ပိုင်းမှာ Washington DC ကို သွားဖို့ ငါ ညွှန်ကြားချက်တွေ ရတယ်။
+#5/5
 
 222
 When DOT took his property, we moved to a smaller, smaller area in Concord where you are not allowed to have animals because it's zoned and so that's the end of the animal story.
-ဒီအိုတီ က သူ့ရဲ့ ပိုင်ဆိုင်မှုတွေ ယူသွားတဲ့အခါ ငါတို့က ကွန်ကော့ဒ် မှာရှိတဲ့ နယ်ပယ် သတ်မှတ်ထားလို့ တိရိစ္ဆာန်တွေ ထားဖို့ ခွင့်မပြုတဲ့ ပို ပိုသေးတဲ့ အရပ်‌‌‌ဒေသ တစ်ခုဆီ ရွေ့ပြောင်းခဲ့ကြတယ်၊ အဲဒါနဲ့ပဲ တိရိစ္ဆာန်တွေအကြောင်း အဆုံးသတ်ခဲ့တယ်။
+DOT က သူ့ရဲ့ ပိုင်ဆိုင်မှုတွေ ယူသွားတဲ့အခါ ငါတို့က Concorde မှာရှိတဲ့ နယ်ပယ် သတ်မှတ်ထားလို့ တိရိစ္ဆာန်တွေ ထားဖို့ ခွင့်မပြုတဲ့ ပို ပိုသေးတဲ့ အရပ်‌‌‌ဒေသ တစ်ခုဆီ ရွေ့ပြောင်းခဲ့ကြတယ်၊ အဲဒါနဲ့ပဲ တိရိစ္ဆာန်တွေအကြောင်း အဆုံးသတ်ခဲ့တယ်။
+#5/5
 
 223
 Anyway, we deployed and I can tell now be, because of this that, that, that, uh, we deployed to Kadina, Okinawa, and this was in 1968.
-ဘယ်လိုပဲဖြစ်ဖြစ် ငါတို့ တပ်ဖြန့်ခဲ့ပြီး အခု ငါပြောနိုင်တာက အဲဒါကြောင့်လဲ အိုကီနာဝါ မှာရှိတဲ့ ကဒီနာ ကို ငါတို့ တပ်ဖြန့်ခဲ့တယ်၊ ဒါက ၁၉၆၈ လောက်က ဖြစ်တယ်။
+ဘယ်လိုပဲဖြစ်ဖြစ် ငါတို့ တပ်ဖြန့်ခဲ့ပြီး အခု ငါပြောနိုင်တာက အဲဒါကြောင့်လဲ Okinawa မှာရှိတဲ့ Kadina ကို ငါတို့ တပ်ဖြန့်ခဲ့တယ်၊ ဒါက ၁၉၆၈ လောက်က ဖြစ်တယ်။
+#5/5
 
 224
 He told me what exactly he needed and that he did need it by today.
 သူက တိတိကျကျ ဘာလိုအပ်သလဲနဲ့ ဒီနေ့ အဲဒါကို လိုအပ်တယ်ဆိုတာကို ငါ့ကို ပြောခဲ့တယ်။
+#5/5
 
 225
 She had gone already and she told me just don't worry about it.
-သူထွက်သွားခဲ့ပြီးပြီ ပြီးတော့ သူက ငါ့ကို မစိုးရိမ်ဖို့ ပြောခဲ့တယ်။
+သူမထွက်သွားခဲ့ပြီးပြီ ပြီးတော့ သူမက ငါ့ကို မစိုးရိမ်ဖို့ ပြောခဲ့တယ်။
+#5/5
 
 226
 This is just, you know, Look you're in trouble.
 ဒါကတော့၊ မင်းသိပါတယ်၊ ကြည့်ပါလား မင်းဒုက္ခရောက်နေတာ။
+#5/5
 
 227
 My, my mother wound up not being one of his favorites early on and, ah, so she was relegated to working in the fields whereas some of the other kids didn't work in the fields.
 ငါ့ အမေက စောစောပိုင်းကစပြီး သူရဲ့ အချစ်ဆုံးတွေထဲက တစ်ယောက် မဟုတ်ခဲ့ဘူး၊ အဲ၊ ဒါကြောင့် သူကို လယ်တောတွေထဲမှာ အလုပ်လုပ်ဖို့ လက်လွှဲထားခဲ့ပြီး တခြားကလေးတစ်ချို့ ကတော့ လယ်တောတွေထဲမှာ အလုပ်မလုပ်ခဲ့ကြဘူး။
+#5/5
+
 
 228
 And so you know, eventually, you know, you know, they kept asking people around, and nobody knew where they were, and eventually, you know, they just reconciled themselves that they just wouldn't see Joe again.
-ဒီတော့ သိလား၊ နောက်ဆုံးတော့ သိလား၊ သူတို့ ဝန်းကျင်မှာရှိတဲ့ လူတွေကို ဆက်မေးနေခဲ့လဲ ဘယ်သူကမှ သူတို့ဘယ်မှာလဲဆိုတာကို မသိကြဘူး၊ ပြီးတော့ နောက်ဆုံးမှာ ဂျိုးကို နောက်ထပ်မတွေ့နိုင်တော့ဘူးတာကို သူတို့ ကိုယ်တိုင် လက်ခံလိုက်ကြတယ်။
+ဒီတော့ သိလား၊ နောက်ဆုံးတော့ သိလား၊ သူတို့ ဝန်းကျင်မှာရှိတဲ့ လူတွေကို ဆက်မေးနေခဲ့လဲ ဘယ်သူကမှ သူတို့ဘယ်မှာလဲဆိုတာကို မသိကြဘူး၊ ပြီးတော့ နောက်ဆုံးမှာ Joe ကို နောက်ထပ်မတွေ့နိုင်တော့ဘူးတာကို သူတို့ ကိုယ်တိုင် လက်ခံလိုက်ကြတယ်။
+#5/5
+
 
 229
 I told them my sister's.
 ငါ သူတို့ကို ငါ့အစ်မရဲ့ ဟာလို့ ပြောတယ်။
+#5/5
 
 230
 And she said then her mama, her mama leaned forward, and she looked and she said, Walks like him.
 ပြီးတော့ သူက သူ့အမေကို ပြောတယ် သူ့အမေက ရှေ့ကိုတိုးပြီးတော့ ကြည့်ပြီး သူ့လို လမ်းလျှောက်တယ်လို့ ပြောတယ်။
+#5/5
 
 231
 I had to start training in course.
 ငါ သင်ရိုးကို လေ့ကျင့်မှု စခဲ့တယ်။
+#5/5
 
 232
 you know, and she's stuffing the petals up there and I didn't really know of any consequences.
 သိလား၊၊ ပြီးတော့ သူက ပွင့်ချပ်တွေကို အပေါ်မှာ သိပ်ထည့်နေပြီး ဘယ်လို အကျိုးဆက်တွေရှိလဲ ငါ တကယ်မသိခဲ့ဘူး။
+#5/5
 
 233
 Well anyway, I went back to my, my desk.
 ကောင်းပြီ ဘယ်ပဲဖြစ်ဖြစ်၊ ငါ့ရဲ့ စာရေးစားပွဲဆီ ငါပြန်လာခဲ့တယ်။
+#5/5
 
 234
 Ah, another thing that happened there that I thought was interesting was one of the first memories of my sister, and that was in that very same backyard.
 အဲ၊ အဲဒီမှာဖြစ်ပျက်ခဲ့တာတွေအထဲ ငါ့အတွက် တခြားစိတ်ဝင်စားဖို့ ကောင်းတာတစ်ခုက ငါ့အစ်မကို ပထမဆုံး မှတ်မိတာထဲကတစ်ခု ဖြစ်တယ်၊ ပြီးတော့ အဲဒီ အိမ်နောက်ဖေးခြံလေးထဲမှာပဲ ဖြစ်ခဲ့တာ။
+#5/5
 
 235
 Now that's how classified it was.
 ကဲ ဒါကတော့ အဲဒါကို ဘယ်လောက် လျို့ဝှက်ထားတယ် ဆိုတာပဲ။
+#5/5
 
 236
 So all that stressing and I mean, I had every reason to stress today, it was like, you're giving something you don't know how to do, and it's like here do it.
 ဒါ့ကြောင့် အဲဒီ စိတ်ဖိစီးစရာတွေ အများကြီးပဲ၊ ဆိုလိုတာက ငါ့မှာ ဒီနေ့ စိတ်ဖိစီးရတဲ့ အကြောင်းပြချက်အစုံ ရှိတယ်၊ ဒါဘာလိုမျိုးလဲဆိုတော့၊ မင်း ဘယ်လိုလုပ်ရမယ်ဆိုတာ မသိတဲ့ တစုံတရာကိုပေးပြီးတော့ ရော့ ဒီမှာ ကြည့်လုပ်ဆိုပြီး။
+#5/5
 
 237
 So now, here it is, he wants it today.
 ဒါ့ကြောင့် ကဲ၊ ရော့ ဒီမှာ၊ သူ ဒါကို ဒီနေ့လိုချင်တယ်။
+#5/5
 
 238
 And unfortunately we moved again.
 ပြီးတော့ ကံမကောင်းစွာနဲ့ဘဲ ငါတို့ နောက်တစ်ခါ ထပ်ပြောင်းရွှေ့ကြရတယ်။
+#5/5
 
 239
 They didn't want to stay captive.
 သူတို့က အဖမ်းဆီးခံအနေနဲ့ ဆက်ပြီး မနေချင်တော့ဘူး။
+#5/5
 
 240
 So it took me like, an hour to two hours just to find what I needed.
 ဒါ့ကြောင့် ငါလိုအပ်တာကို ရှာဖို့တောင် တစ်နာရီ နှစ်နာရီ လောက်အထိ အချိန်ကြာတယ်။
+#5/5
 
 241
 Physiological support differs from life support in that he handles the altitude chambers which run pilots up to 80 thousand feet in high altitude chambers, and brings him back down.
-လေယာဉ်မှူးက ပင်လယ်ရေမျက်နှာပြင်အထက် ပေရှစ်သောင်းအထိ ပျံသန်းပြီး ပြန်ဆင်းလာတာကို ထိန်းချုပ်ရတာမှာ စိတ်ပိုင်းဆိုင်ရာပံ့ပိုးမှုက ဘဝအထောက်အပံ့ နဲ့ကွဲပြားတယ်။
+လေယာဉ်မှူးက ပင်လယ်ရေမျက်နှာပြင်အထက် ပေရှစ်သောင်းအထိ ပျံသန်းပြီး ပြန်ဆင်းလာတာကို ထိန်းချုပ်ရတာမှာ ခနာကိုယ် ဆိုင်ရာပံ့ပိုးမှုက အသက်အထောက်အပံ့ နဲ့ကွဲပြားတယ်။
+#4/5
 
 242
 I didn't really know Mrs. Faulk very well she was about 80 and, ah, she was a nice person I had seen her a few times but I was really nervous about that.
 မစ္စစ် ဖော့လ်ခ် ကို ငါတကယ် ကောင်းကောင်း မသိဘူး သူက အသက်ရှစ်ဆယ်လောက်ရှိတယ် အကြိမ် အနည်းငယ်သာ မြင်ဖူးပြီး ငါ တကယ် ဒါနဲ့ပတ်သက်ပြီး စိုးရိမ်ကြောင့်ကြရပေမဲ့ သူက လူကောင်းတစ်ယောက်ဖြစ်တယ်။
+#5/5
 
 243
 And, uh, they moved downtown and, there was, uh, and it's still like this in Augusta, this big street downtown called Broad Street, and it really was just this broad street in a downtown area.
-ပြီးတော့ အာ သူတို့ မြို့လယ်ခေါင်ကို ရွှေ့ခဲ့ကြပြီးတော့ ရှိခဲ့တယ် အာ ပြီးတော့ အော်ဂတ်စထာ တုန်းကလိုမျိုးဘဲ ဒီမြို့လယ်လမ်းမကြီးကို ဘရုတ်ဒ် လမ်းလို့ ခေါ်တယ် ပြီးတော့  မြို့လယ်ခေါင် ဧရိယာမှာ ဒီ ဘရုတ်ဒ် လမ်းက တကယ်ကို ရှိတယ်။
+ပြီးတော့ အာ သူတို့ မြို့လယ်ခေါင်ကို ရွှေ့ခဲ့ကြပြီးတော့ ရှိခဲ့တယ် အာ ပြီးတော့ Augusta တုန်းကလိုမျိုးဘဲ ဒီမြို့လယ်လမ်းမကြီးကို ဘရုတ်ဒ် လမ်းလို့ ခေါ်တယ် ပြီးတော့  မြို့လယ်ခေါင် ဧရိယာမှာ ဒီ ဘရုတ်ဒ် လမ်းက တကယ်ကို ရှိတယ်။
+#4/5
 
 244
 We lived off, um, 85 in Mallard Creek where currently the 485 is now cause then the like last ten years we had to move because of the 485.
-လွန်ခဲ့တဲ့ ဆယ်နှစ် ငါတို့ ပြောင်းရွှေ့ခဲ့ကြတုန်းက ၄၈၅ ဖြစ်လို့ အခု လက်ရှိ ၄၈၅ ဖြစ်တဲ့ ၈၅ မယ်လ်လာ့ဒ် ခရိ မှာ ငါတို့ နေတယ်။
+လွန်ခဲ့တဲ့ ဆယ်နှစ် ငါတို့ ပြောင်းရွှေ့ခဲ့ကြတုန်းက ၄၈၅ ဖြစ်လို့ အခု လက်ရှိ ၄၈၅ ဖြစ်တဲ့ ၈၅ Mallard Creek မှာ ငါတို့ နေတယ်။
+#5/5
+
 
 245
 That was my messed up.
 ဒါက ငါ့ကို စိတ်ညစ်သွားစေတယ်။
+#5/5
 
 246
 Boss, he was like with split personality man.
 ဘော့စ်၊ သူက ကွဲပြားတဲ့ ကိုယ်ရည်ကိုယ်သွေးရှိတဲ့ အမျိုးသား နဲ့ တူတယ်။
+#4/5
 
 247
 She's like, But you need to look here, look here, she's gives me like three different places to look in the computer.
 မင်း ဒီမှာကြည့် ဒီမှာ ကြည့်ဖို့ လိုအပ်တယ် သူက ကွန်ပျူတာထဲမှာရှာဖို့ မတူညီတဲ့ နေရာ သုံးနေရာလိုမျိုး ငါ့ကို ပေးတယ်။
+#5/5
 
 248
 He's old enough to be my daddy.
-သူက ငါ့အဖေဖြစ်ဖို့ လုံလောက်တယ်။
+သူက ငါ့အဖေေလာက် အသက်ကြီးပီလို့ပြောလို့ရတယ်။
+#4/5
 
 249
 Everything is linked, and gosh, I don't even know how long.
 အရာရာတိုင်းက ချိတ်ဆက်နေပြီးတော့ ဘယ်လောက်ကြာမယ်ဆိုတာတောင်မှ ငါ မသိဘူး။
+#5/5
 
 250
 This time I wasn't even happy that she was there because I was so stressed out.
 ဒီအချိန်က ငါစိတ်ဖိစီးသောကရောက်နေလို့ သူဒီမှာ ရှိနေတာတောင်မှ ငါမပျော်ဘူး။
+#5/5
 
 251
 and that's a lot of it is due to the fact that the mothers are on drugs
 ပြီးတော့ ဒါတွေ အများကြီးက အမေတွေ မူးယစ်ဆေးစွဲနေတဲ့ အချက်အလက်တွေကြောင့် ဖြစ်တယ်
+#5/5
 
 252
 yeah it's real nice has it been raining
 မိုးရွာသွားတာ တကယ် ကောင်းတယ်
+#5/5
 
 253
 oh what human life is worth and whether or not you can rehabilitate somebody
 မင်း တစ်စုံတစ်ယောက် ကို ပြန်လည်ထူထောင် ပေးနိုင်လား မပေးနိုင်လား နဲ့ပတ်သက်ပြီးတော့ လူ့ဘဝတန်ဖိုးက ဘာလဲ
+#4/5
 
 254
 oh boy you do have a strange wiring problem there
-ဒီမှာ ထူးဆန်းတဲ့ လျှပ်စစ်ဝါယာကြိုး ပြဿနာ မင်းလုပ်ဖို့ရှိတယ်
+ဒီမှာ ထူးဆန်းတဲ့ လျှပ်စစ်ဝါယာကြိုး ပြဿနာ မင်းဆီမှာရှိနေတယ်
+#5/5
 
 255
 sounds like a lot of fun yeah it's amazing to me how how many things they would allow
-ပျော်ရွှင်ဖွယ်ရာအသံတွေက သူတို့ ဘယ်လိုအရာတွေကို ဘယ်လောက်များခွင့်ပြုထားသလဲဆိုတာ ငါ့ကို အံ့ဩစေတယ်
+ပျော်ဖို့ကောင်းတယ်လို့ထင်တယ် သူတို့ ဘယ်လိုအရာတွေကို ဘယ်လောက်များခွင့်ပြုထားသလဲဆိုတာ ငါ့ကို အံ့ဩစေတယ်
+#4/5
 
 256
 yeah exactly i mean by the time you get through outfitting yourself and then having to go sweat doing it uh you could you could go on a Club med uh  everything inclusive vacati on
-အတိအကျ ဆိုလိုတာက အားလပ်ရက်အပါအဝင် အရာရာတိုင်းမှာ  မင်းကိုယ်တိုင် ဝတ်စားဆင်ယင်ပြီးတော့ ချွေးထွက်များလာတဲ့အခါ ကလပ်မက်ဒ် ကို သွားလို့ရတယ်။
+ဟုတ်တယ် တကယ်ပဲ ဆိုလိုတာက အားလပ်ရက်အပါအဝင် အရာရာတိုင်းမှာ  မင်းကိုယ်တိုင် ဝတ်စားဆင်ယင်ပြီးတော့ ချွေးထွက်များလာတဲ့အခါ Club med ကို သွားလို့ရတယ်။
+#2/5
+
 
 257
 oh it was Snake River oh Snake River with a lot of snakes in it
-ဒါက စနိတ် မြစ်ဘဲ အဲအထဲမှာ မြွေတွေအများကြီးနဲ့ စနိတ်မြစ်
+ဒါက Snake မြစ်ဘဲ အဲအထဲမှာ မြွေတွေအများကြီးနဲ့ Snake မြစ်
+#5/5
+
 
 258
 yeah i have a credit union
 ငါ့မှာ အကျိုးအမြတ်မယူဘဲ အကြွေးချေးပေးတဲ့ အဖွဲ့အစည်းတစ်ခု ရှိတယ်
+#5/5
 
 259
 exactly it's it's an active state it's not something that you can kind of you know be passively involved in and expect to do any good really i don't think
 တိတိကျကျဆိုရင် ဒါက တက်ကြွတဲ့ အခြေအနေဘဲ မင်းသိသလို ပါဝင်ခိုင်းနိုင်တဲ့ တစုံတရာ မဟုတ်ဘူး ပြီးတော့ ငါ တကယ် မတွေးမိတဲ့ ကောင်းတာတစ်ခုခု လုပ်ဖို့ မျှော်လင့်တယ်
+#4/5
 
 260
 oh but anyway anyway um my kids are now twenty one and twenty four so i don't have to
 အိုး ဒါပေမဲ့ ဘယ်လိုနည်းနဲ့ဖြစ်ဖြစ် ဘယ်လိုနည်းနဲ့ဖြစ်ဖြစ် ငါ့ကလေးတွေက အခု နှစ်ဆယ် နဲ့ နှစ်ဆယ့်လေး ဖြစ်တယ် ဒါ့ကြောင့် ငါမလိုဘူး
+#5/5
+
 
 261
 yeah uh-huh yeah well this is Fresno uh-huh
-ရေ့ အာ ဟ ရေ့ ကောင်းပြီ ဒါ ဖရက်စ်နို မြို့ဘဲ အာ ဟ
+ရေ့ အာ ဟ ရေ့ ကောင်းပြီ ဒါ Fresno မြို့ဘဲ အာ ဟ
+#4/5
 
 262
 yeah people who who could be at work at any time or whose decisions could be clouded if they had to make a decision
 အချိန်မရွေး အလုပ်မှာရှိနိုင်တဲ့ လူတွေက သူတို့ ဆုံးဖြတ်ချက်တစ်ခု ချရမယ်ဆိုရင် သူတို့ ဆုံးဖြတ်ချက်တွေက တိမ်မြုပ်သွားတယ်
+#4/5
 
 263
 no they're still they're still on tour they've been touring since late sixties
-မဟုတ်ဘူး နှစ်ခြောက်ဆယ်နှောင်းပိုင်းကတည်းက ခရီးသွားနေတဲ့ သူတို့ဟာ သူတို့ဟာ ခရီးမှာဘဲ ရှိသေးတယ်။
+မဟုတ်ဘူး နှစ်ခြောက်ဆယ်နှောင်းပိုင်းကတည်းက Tour ထွက်နေတာ သူတို့ဟာ သူတို့ဟာ အခုထိ ရှိသေးတယ်။
+#5/5
 
 264
 how would you do aerobics
 မင်း အေရိုးဗစ် ဘယ်လိုလုပ်လဲ
+#5/5
 
 265
 and that what i think is gonna be really interesting is what we do about it i mean we are gonna have to change the people who represent us
 ပြီးတော့ ငါတွေးမိတဲ့ တကယ်စိတ်ဝင်းစားဖို့ကောင်းတာက ဘာလဲဆိုတော့ ဒါနဲ့ပတ်သက်ပြီး ငါတို့ ဘာလုပ်ရမလဲ ငါဆိုလိုတာ ငါတို့ ကို ကိုယ်စားပြုမဲ့ လူတွေကို ငါတို့ ပြောင်းလဲပေးရလိမ့်မယ်
+#5/5
 
 266
 well that's a good one i hadn't thought about that yeah
 ကောင်းပြီ ဒါက ကောင်းတဲ့အရာဘဲ ဒါနဲ့ပတ်သက်ပြီး ငါမတွေးမိဘူး
+#5/5
 
 267
 and they can be very nice too after after they've been trained
 ပြီးတော့ သူတို့ လေ့ကျင့်မှုပြီးသွားတဲ့နောက် သူတို့လည်းဘဲ အလွန် ကောင်းလာနိုင်တယ်
+#5/5
 
 268
 day care  two days a week they call it senior citizen day care but she goes to the senior citizen center
 သူတို့က တစ်ပတ်ကို နှစ်ရက် သက်ကြီးရွယ်အိုတွေကို နေ့ပိုင်းစောင့်ရှောက်ဖို့ခေါ်တယ် ဒါပေမဲ့ သူက သက်ကြီးနိုင်ငံသားစင်တာကို သွားတယ်
+#5/5
 
 269
 and it can go on for ten twenty years i i think this is a little ridiculous
 ပြီးတော့ ဒါက ဆယ်နှစ် နှစ် နှစ်ဆယ် ဆက် သွားနိုင်လို့ ဒါက နည်းနည်း ရယ်စရာကောင်းတယ်လို့ ငါ ငါ ထင်တယ်
+#4/5
 
 270
 that was their goal oh
 ဒါက သူတို့ရဲ့ ပန်းတိုင်ဖြစ်တယ်
+#5/5
 
 271
 gun control means using two hands
 လက်နက် ထိန်းချုပ်တယ်ဆိုတာ လက်နှစ်ဖက် အသုံးပြုခြင်းကို ဆိုလိုတယ်။
+#5/5
 
 272
 and uh but it suddenly comes from somewhere i don't know where it comes from but
 ပြီးတော့ အာ ဒါပေမဲ့ ဒါက ရုတ်တရက် ဘယ်နေရာကလာလဲဆိုတာ ငါမသိတဲ့ တစ်နေရာရာက လာတယ်။
+#4/5
 
 273
 yeah you you must've had a cordless
 မင်း မင်းမှာ ကြိုးမဲ့ တစ်ခု ရှိကို ရှိရမယ်။
+#5/5
 
 274
 no in fact i'm not even familiar with it i don't think
 မဟုတ်ဘူး အမှန်တော့ ဒါနဲ့ မရင်းနှီးတာတောင်မှ ငါ မတွေးမိဘူး။
+#5/5
 
 275
 yeah she was great you know she
-အင်း သူက ကောင်းပါတယ် သိလား သူ
+အင်း သူမက ကောင်းပါတယ် သိလား သူ
+#5/5
 
 276
 are you saying the teachers or the parents
-ဆရာများ ဒါမှမဟုတ် မိဘများလို့ မင်းပြောလိုက်လား။
+ဆရာများ ဒါမှမဟုတ် မိဘများလို့ မင်းဆိုလိုတာလား
+#5/5
 
 277
 yeah he suggested just getting uh um a uh um a mop like you would use
 သူက မင်းသုံးသလိုမျိုး တံမြက်စည်း တစ်ချောင်း ရဖို့သာ အဆိုပြုတယ်။
+#5/5
 
 278
 its really bad out here we just had a freeway shooting about three blocks from our house
 ငါတို့ အိမ်ကနေ သုံး ဘလော့လောက်မှာ အဝေးပြေး ပစ်ခတ်မှု တစ်ခု ရှိခဲ့လို့ ဒီနားမှာ တကယ် ဆိုးတယ်။
+#5/5
 
 279
 besides i probably would look at something uh maybe a a V six
-ငါ တစ်ခုခုကို ကြည့်မိမယ် ထင်တယ် အာ ဗီ စစ် တစ်ခု ဖြစ်နိုင်တယ်
+ငါ တစ်ခုခုကို ကြည့်မိမယ် ထင်တယ် အာ V 6 တစ်ခု ဖြစ်နိုင်တယ်
+#5/5
+
 
 280
 uh-huh that's true it is it's not really uh consistent
 အာ ဟ ဒါ အမှန်ဘဲ ဒါက တကယ်ကို အာ မကိုက်ညီဘူး။
+#4/5
 
 281
 well i guess it would i guess so well i don't know i i i really haven't sorted out all my feelings on the drug testing uh i'm totally straight would never consider using drugs
-တော်တော်ကောင်းတယ် လို့ ငါ ခန့်မှန်းတယ် ဆေးစစမ်းသုံးချိန်မှာ ငါ့ ခံစားချက်အားလုံးက တကယ်ကို အစီအစဉ် တကျ မဟုတ်တာကို ငါ မသိခဲ့ဘူး အာ ငါ ဘာမှ မရောဘဲ ဆေးသုံးဖို့ကို ဘယ်တော့မှ မဆုံးဖြတ်ဘူး။
+ငါ ငါအဲလိုထင်တယ် ငါမသိဘူး ဆေးသုံးတာစစ်ဆေးတာကို ငါဘယ်လိုခံစားရတယ်ဆိုတာ မရှင်းသေးဘူး ငါကတော့ ဆေးသုံးဖို့ဘယ်ေတာ့မှ ဆုံးဖြတ်မှာမဟုတ်ဘူး။
+#4/5
+
 
 282
 i'm trying to hang in there
-အဲဒီမှာ ချိတ်ထားဖို့ ငါကြိုးစားနေတယ်။
+အဲဒီမှာဆက်နေနေဖို့ ငါကြိုးစားနေတယ်။
+#4/5
 
 283
 yes oh what sort of puppy do you have
 ဟုတ်ကဲ့ အိုး မင်းမှာ ဘယ်ခွေးအမျိုးအစား ရှိတာလဲ
+#5/5
 
 284
 well you said you have kids how old
 ကောင်းပြီ မင်းမှာ ဘယ်အရွယ်ရောက်နေတဲ့ ကလေးရှိတယ်ဆိုတာကို မင်းပြောတယ်
+#4/5
 
 285
 they probably weren't the most brilliant people in the world but they uh were very personable and took uh a interest in people who were willing to study
 သူတို့က ကမ္ဘာမှာ ဉာဏ်အကောင်းဆုံးသူတွေ မဟုတ်ပေမဲ့ သူတို့က အတော် ကြည့်ကောင်းပြီးတော့ လေ့လာချင်စိတ်ရှိတဲ့ လူတွေကို စိတ်ဝင်စားမှုတစ်ခု ပေးတယ်။
+#4/5
 
 286
 one time we did go that thing uh there we came back from an event and turned the lights on around the camp site and there's a skunk right
 တစ်ခါတုန်းကပေါ့ ငါတို့ ဒီတစ်နေရာကို သွားခဲ့တာ၊ အဲဒီပွဲတစ်ခုက ပြန်လာပြီးတော့ စခန်းတဝိုက် မီးတွေ ဖွင့်လိုက်တော့ အနံ့ပြင်းကောင် တစ်ကောင် ရောက်နေတာ။
+#5/5
 
 287
 you know all my children excel they're they're really good and i guess no he learns from the older boys too but
 ငါ့ကလေးတွေအားလုံး သူတို့ သူတို့ တကယ်ကောင်းတာ မင်းသိပါတယ် ပြီးတော့ အသက်ပိုကြီးတဲ့ ကောင်လေးတွေဆီကနေ သူ မသင်ယူဘူးလို့ ငါ ခန့်မှန်းတယ် ဒါပေမဲ့။
+#5/5
 
 288
 and it would also cause people to compact their garbage more uh and uh and limiting the volume is probably a little bit closer to the real problem than limiting the weight
 ပြီးတော့ ဒါက လူတွေကို သူတို့ရဲ့ အမှိုက်တွေ ပိုကျစ်လစ်သွားစေပြီးတော့ အာ ပြီးတော့ အာ ပြီးတော့ ထုထည်ပမာဏကို ကန့်သတ်ခြင်းက အလေးချိန်ကို ကန့်သတ်ခြင်းထက် တကယ့်ပြဿနာနဲ့ နည်းနည်း ပိုနီးစပ်စေနိုင်တယ်။
+#4/5
 
 289
 care about how the national news affects the local area
-နိုင်ငံတော်နဲ့ဆိုင်သော သတင်းတွေဟာ ဒေသနယ်ပယ်တွေကို ဘယ်လို ထိခိုက်မှုရှိလဲဆိုတာနဲ့ ပတ်သက်ပြီး ဂရုစိုက်ပါ။
+နိုင်ငံတော်နဲ့ဆိုင်သော သတင်းတွေဟာ ဒေသနယ်ပယ်တွေကို ဘယ်လို သက်ရောက်မှုရှိလဲဆိုတာနဲ့ ပတ်သက်ပြီး ဂရုစိုက်ပါ။
+#5/5
+
 
 290
 so if there's a mistake it's your mistake i guess
 ဒါ့ကြောင့် အမှားတစ်ခုရှိမယ်ဆိုရင် ငါခန့်မှန်းရသလောက်တော့ မင်းရဲ့ အမှားဘဲ ဖြစ်မယ်။
+#5/5
 
 291
 you know especially making the seams and things like that you know it's it's got such a professional finish on them
-မင်းက အထူးသဖြင့် ချုပ်ရိုးလုပ်ရတာ သိပြီးတော့ အဲဒါတွေက သူတို့အတွက် ကျွမ်းကျွမ်းကျင်ကျင် ပြီးမြောက်တယ်ဆိုတာ မင်း သိပါတယ်
+မင်းသိတဲ့အတိုင်းပဲ အထူးသဖြင့် ချုပ်ရိုးလုပ်ရတာ အဲဒါတွေက သူတို့အတွက် ကျွမ်းကျွမ်းကျင်ကျင် ပြီးမြောက်တယ်ဆိုတာ မင်း သိပါတယ်
+#4/5
 
 292
 yeah yeah my place you get two weeks when you start and then every every year they give you an extra day until you've got four weeks
-ငါ့ နေရာကို မင်းစလာဖို့ နှစ်ပတ် ရတယ် ပြီးတော့ မင်း ​နှစ်တိုင်း လေးပတ်ရသည့်တိုင် သူတို့ မင်းကို အပိုတစ်ရက်ပေးတယ်။
+ငါ့ နေရာကို မင်းစလာဖို့ နှစ်ပတ် ရတယ် ပြီးတော့ မင်း နှစ်တိုင်း လေးပတ်ရသည့်တိုင် သူတို့ မင်းကို အပိုတစ်ရက်ပေးတယ်။
+#4/5
 
 293
 uh that's what's nice about living more in the country you don't have to worry about any of that
-ဘာကိုမှ စိတ်ပူစရာမလိုတဲ့ နိုင်ငံထဲမှာ နေရတာ ဘယ်လောက်ပိုကောင်းလဲ
+အာ့ မြို့ပြင်ပမှာနေရတာကောင်းတဲ့အချက်က အဲတာတွေတခုမှ စိတ်ပူစရာမလိုဘူး။
+#5/5
 
 294
 oh oh my word well that sounds adventuresome
-အိုး အိုး စွန့်စားခန်းလို့ ထင်ရတဲ့ ငါ့စကားလုံးက ကောင်းပါတယ်
+အိုး အိုး ဘုရားရေ ကြားရတာအဲတာစိတိလှုပ်ရှားဖို့ကောင်းတဲ့ပုံပဲ။
+#5/5
 
 295
 but no we usually you know skirt and skirt and blouse or suit or dress is is what you see down here so it's nice with me working at home because i can wear pants
-ဒါပေမဲ့  မဟုတ်ဘူး ငါတို့ များသောအားဖြင့် မင်းသိတဲ့ စကတ်ကို သိပြီးတော့ စကတ် နဲ့ အင်္ကျီ ဒါမှမဟုတ် ဝတ်စုံ ဒါမှမဟုတ် အဝတ်အစား က မင်း ဒီမှာဘာမြင်လဲ ဒါ့ကြောင့် ငါက ဘောင်းဘီဝတ်ထားလို့ အိမ်မှာ ငါနဲ့ အလုပ်လုပ်ရတာ ကောင်းတယ်
+ဒါပေမဲ့  မဟုတ်ဘူး ငါတို့ များသောအားဖြင့် မင်းသိတဲ့ စကတ်ကို သိပြီးတော့ စကတ် နဲ့ အင်္ကျီ ဒါမှမဟုတ် ဝတ်စုံ ဒါမှမဟုတ် အဝတ်အစား အဲဒီမှာဝတ်ရတာမြင်တဲ့အတိုင်း၌ဲ ဒါ့ကြောင့်  အိမ်မှာ ငါက ဘောင်းဘီဝတ်ပီး အလုပ်လုပ်ရတာ ကောင်းတယ်
+#5/5
+
 
 296
 and now i have got a sister in Germany
 ပြီးတော့ အခု ဂျာမနီ မှာ အစ်မတစ်ယောက်ရတယ်
+#5/5
 
 297
 i have a younger daughter now and uh i it's kind of hard to get her  get her there and everything but i am going to to uh
 အခု ငါ့မှာ သမီးငယ်တစ်ယောက်ရှိတယ် ပြီးတော့ အာ ငါ သူမ ဆီ သူမဆီကို ရောက်ဖို့ အရာရာတိုင်း ခဲယဉ်းပေမဲ့ ငါ သွားနေတယ်
+#4/5
 
 298
 yeah have a nice summer
 ကောင်းသော နွေရာသီဖြစ်ပါစေ
+#5/5
 
 299
 yeah there there's something about having a place to live i don't know
-ဒီမှာ ငါမသိတဲ့ နေလို့ရတဲ့ နေရာတစ်ခုရှိခြင်းနဲ့ ပတ်သက်လို့ တစုံတခု ရှိတယ်
+ဒီမှာ ငါမသိတဲ့ နေလို့ရတဲ့ နေရာတစ်ခုရှိခြင်းနဲ့ ပတ်သက်လို့ တမျိုးပဲ
+#5/5
+
 
 300
 yeah yeah i you know i i wouldn't even mind so much if they had a um corporation that is financed
 ငါ မင်း သိပါတယ် သူတို့မှာ ငွေကြေးထောက်ပံ့တဲ့ ကော်ပိုရေးရှင်း ရှိရင်တောင် ငါ ငါ သိပ် စိတ်မဝင်စားဘူး
+#4/5

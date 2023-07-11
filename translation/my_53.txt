@@ -1,449 +1,504 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 5201
 He completely and quite clearly, understood the situation.
 သူက အခြေအနေကို လုံးဝ ရှင်းရှင်းကြီး ၊ နားလည်ခဲ့တယ်။
+#5/5
 
 5202
 He did not understand the circumstances because he was ignorant of all the facts.
 သူက အချက်အလက် အားလုံးကို မသိရှိခဲ့ သောကြောင့် သူက အခြေအနေကို နားမလည်ခဲ့ဘူး။
+#5/5
 
 5203
 I do not believe you understand the entirety of the situation.
 အခြေအနေ တစ်ခုလုံးကို မင်း နားလည်မယ်လို့ ငါ မယုံကြည်ဘူး။
+#5/5
+
 
 5204
 She had told him that she was pressured.
 သူမ ဖိအားပေးခံရတယ် လို့ သူမက သူ့ကို ပြောခဲ့သည်။
+#5/5
 
 5205
 She was feeling relaxed, as she relayed to him.
-သူမက သူ့ကို လက်ဆင့်ကမ်းခဲ့ သောကြောင့် ၊ သူမက စိတ်အေးလက်အေး ခံစားခဲ့ရသည်။
+သူမကသူ့ကို စိတ်အေးလက်အေးဖြင့်လက်ဆင့်ကမ်းခဲ့ သည်။ 
+#5/5
 
 5206
 She was pressed because she had many deadlines coming soon.
-သူမ မှာ မကြာမီ သတ်မှတ်ကုန်ဆုံးချိန် အများကြီး ရှိနေသောကြောင့် သူမကို ဖိနှိပ်ခဲ့သည်။
+သူမ မှာ မကြာမီ သတ်မှတ်ကုန်ဆုံးချိန် အများကြီး ရှိနေသောကြောင့် သူသညိ ဖိအားပေးခံခဲ့ရသည်။
+#5/5
 
 5207
 Lord Julian got off the Arabella as soon as he possibly could, leaving Miss Bishop alone.
-သခင် ဂျူလီယန် သည် အာရာဘဲလာ မှ တတ်နိုင်သမျှ အမြန်ဆုံး ထွက်လာခဲ့ပြီး ၊ မစ် ဘစ်လျှော့ ကို တစ်ယောက်တည်း ထားခဲ့သည်။
+သခင် Julian သည် Arabella မှ တတ်နိုင်သမျှ အမြန်ဆုံး ထွက်လာခဲ့ပြီး ၊ Miss Bishop ကို တစ်ယောက်တည်း ထားခဲ့သည်။
+#5/5
 
 5208
 Lord Julian stayed on the Arabella in hopes to provide Miss Bishop with a ride free from interference.
-သခင် ဂျူလီယန် သည် မစ် ဘစ်လျှော့ကို အနှောင့်အယှက် မှ ကင်းလွတ်သော စီးနင်းမှု တစ်ခု ကို ပေးဖို့ ရန် မျှော်လင့်ချက်များ ဖြင့် အာရာဘဲလာပေါ်တွင် နေခဲ့သည်။
+သခင် Julian သည် Miss Bishop ကို အနှောင့်အယှက် မှ ကင်းလွတ်သော စီးနင်းမှု တစ်ခု ကို ပေးဖို့ ရန် မျှော်လင့်ချက်များ ဖြင့် Arabellaပေါ်တွင် နေခဲ့သည်။
+#5/5
 
 5209
 Lord Julian was very interested in Miss Bishop, one may say he fancied her.
-သခင် ဂျူလီယန် သည် မစ် ဘစ်လျှော့ ကို အလွန် စိတ်ဝင်စားခဲ့ပြီး ၊ သူက သူမကို နှစ်သက်ခဲ့တယ်လို့ တစ်ယောက်က ပြောနိုင်ပါသည်။
+သခင် Julian သည် မစ် ဘစ်လျှော့ ကို အလွန် စိတ်ဝင်စားခဲ့ပြီး ၊ သူက သူမကို နှစ်သက်ခဲ့တယ်လို့ တစ်ယောက်က ပြောနိုင်ပါသည်။
+#5/5
 
 5210
 He had moved his shoulders in a sign of acceptance.
 လက်ခံကြောင်း အရိပ်အယောင် တစ်ခု ဖြင့် သူက သူ့ပုခုံးကို ရွှေ့ခဲ့တယ်။
+#4/5
 
 5211
 He told them that he could see it but it was not a big deal in the end.
-သူက ထိုအရာကို မြင်နိုင်သည် ဟု သူက သူတို့ကို ပြောခဲ့ သော်လည်း အဆုံးတွင် ထိုအရာသည် ကြီးကျယ်သော ကိစ္စ တစ်ခု မဟုတ်ခဲ့ဘူး။
+သူက ထိုအရာကို နားလည်နိုင်သည် ဟု သူက သူတို့ကို ပြောခဲ့ သော်လည်း အဆုံးတွင် ထိုအရာသည် ကြီးကျယ်သော ကိစ္စ တစ်ခု မဟုတ်ခဲ့ဘူး။
+#5/5
 
 5212
 It was clear that staying could have helped me, so no question was ever posed.
-နေထိုင်ပေးခြင်းက ငါ့ကို အကူအညီပေးနိုင်တယ် ဆိုတာ ရှင်းပါတယ် ၊ ဒါကြောင့် မေးခွန်းတွေ အမြဲ မတင်ပြပါနဲ့။
+နေထိုင်ပေးခြင်းက ငါ့ကို အကူအညီပေးနိုင်တယ် ဆိုတာ ရှင်းပါတယ် ၊ ဒါကြောင့်မေးခွန်းမထုတ်ခဲ့ကြဘူး။
+#5/5
 
 5213
 He spoke and Lord Julian raised his lion.
-သူ စကားပြောခဲ့ ပြီးနောက် သခင် ဂျူလီယန်က သူ၏ ခြင်္သေ့ကို မွေးမြူခဲ့တယ်။
+သူ စကားပြောခဲ့ ပြီးနောက် သခင် Julian က သူ၏ ခြင်္သေ့ကို မွေးမြူခဲ့တယ်။
+#3/5
 
 5214
 He was speaking in a Russian accent.
 သူသည် ရုရှားလေယူလေသိမ်းဖြင့် ပြောနေခဲ့သည်။
+#5/5
 
 5215
 His accents were unbelievable when he spoke.
 သူ စကားပြောခဲ့ ချိန်တွင် သူ၏ လေယူလေသိမ်းက မယုံနိုင်စရာ ဖြစ်နေခဲ့သည်။
+#5/5
 
 5216
 His lordship had replied after a little bit of time.
 အချိန် အနည်းငယ်ကြာ ပြီးနောက် သူ၏ သခင်က အကြောင်းပြန်ခဲ့သည်။
+#5/5
 
 5217
 The lord was only taking his time because he needed to think of a witty response.
 သူသည် လိမ္မာပါးနပ်သော တုံ့ပြန်မှု တစ်ခု ကို တွေးတောရန် လိုအပ်ခဲ့ သောကြောင့် သခင်က သူ၏ အချိန်ကို ယူနေခြင်း သာ ဖြစ်တယ်။
+#5/5
 
 5218
 The lordship replied immediately and only figuratively.
 သခင်က တင်စားသောအားဖြင့် သာလျှင် ချက်ချင်း အကြောင်းပြန်ခဲ့သည်။
+#5/5
 
 5219
 He wants to see you about the Old Bear and not about the Old Wolf.
 အိုး ဝု့ဖ် နဲ့ ပတ်သက်တာ မဟုတ်ဘဲ အိုး ဘီးယား နဲ့ ပတ်သက်ပြီး မင်းကို သူ တွေ့ချင်တာပါ။
+#5/5
 
 5220
 He wants to see you about the Old Wolf.
 အိုး ဝု့ဖ် နဲ့ ပတ်သက်ပြီး သူက မင်းကို တွေ့ချင်တယ်။
+#5/5
 
 5221
 He wants to see you today about the Old Wolf.
 ဒီနေ့ အိုး ဝု့ဖ် နဲ့ ပတ်သက်ပြီး သူက မင်းကို တွေ့ချင်တယ်။
+#5/5
 
 5222
 His choice was between buying 12 chickens or 3 oxen.
 သူ၏ ရွေးချယ်မှုသည် ကြက် ၁၂ကောင် သို့မဟုတ် နွားထီး ၃ကောင် ဝယ်ယူခြင်း နှစ်ခုကြား၌ ရှိသည်။
+#5/5
 
 5223
 His lordship believed that either choice would have had a substantial impact.
 သူ၏ သခင်က ရွေးချယ်မှု တစ်ခုခုသည် ကြီးမားသော အကျိုးသက်ရောက်မှု တစ်ခု ရှိလာလိမ့်မယ် ဆိုတာကို ယုံကြည်ခဲ့သည်။
+#4/5
 
 5224
 Whether or not he chose to act, his lordship did not believe it would have changed anything.
-သူသည် လုပ်ဆောင် ရန် ရွေးချယ်ခဲ့သည်ဖြစ်စေ မရွေးချယ်သည်ဖြစ်စေ ၊ သူ၏ သခင်သည် ထိုအရာက တစ်စုံတစ်ရာ ပြောင်းလဲသွားလိမ့်မည် ဟု မယုံကြည်ခဲ့ပေ။
+သူလုပ်ဆောင် ရန် ရွေးချယ်ခဲ့သည်ဖြစ်စေ မရွေးချယ်သည်ဖြစ်စေ ၊ သခင်ကြီးသည် ထိုအရာက တစ်စုံတစ်ရာ ပြောင်းလဲသွားလိမ့်မည် ဟု မယုံကြည်ခဲ့ပေ။
+#4/5
 
 5225
 Peter is hated by the Bishop.
-ပီတာကို ဘစ်လျှော့က မုန်းခဲ့သည်။
+Peter ကို Bishop က မုန်းခဲ့သည်။
+#5/5
 
 5226
 The Bishop and Peter are lovers.
-ဘစ်လျှော့ နဲ့ ပီတာက ချစ်သူတွေ ဖြစ်ပါတယ်။
+Bishop နဲ့ Peter က ချစ်သူတွေ ဖြစ်ပါတယ်။
+#5/5
 
 5227
 The Bishop hates Peter because he is emotionally unstable.
-ဘစ်လျှော့ က ပီတာကို စိတ်ပိုင်းဆိုင်ရာ မတည်မငြိမ်ဖြစ်နေ လို့ မုန်းတယ်။
+Bishop က Peter ကို စိတ်ပိုင်းဆိုင်ရာ မတည်မငြိမ်ဖြစ်နေ လို့ မုန်းတယ်။
+#5/5
 
 5228
 All the questions were quickly decided on and a resolution was quickly created.
 မေးခွန်း အားလုံးကို လျင်မြန်စွာ ဆုံးဖြတ် ပြီးနောက် အဖြေ တစ်ခု ကို အမြန် ဖန်တီးခဲ့သည်။
+#5/5
 
 5229
 Ogle had many concerns, of which had yet to be satiated.
-အို့ဂဲလ် မှာ စိတ်ကျေနပ်မှု မရ သေး သော ၊ စိုးရိမ်ပူပန်မှုတွေ အများကြီး ရှိခဲ့သည်။
+Ogle မှာ စိတ်ကျေနပ်မှု မရ သေး သော ၊ စိုးရိမ်ပူပန်မှုတွေ အများကြီး ရှိခဲ့သည်။
+#5/5
 
 5230
 Ogle mentioned that the people asking the questions did not know what they were talking about.
-မေးခွန်းတွေ မေးမြန်းတဲ့ လူတွေက သူတို့ ဘာအကြောင်း ပြောနေခဲ့ကြတယ် ဆိုတာကို မသိခဲ့ဘူးလို့ အို့ဂဲလ်က ပြောခဲ့တယ်။
+မေးခွန်းတွေ မေးမြန်းတဲ့ လူတွေက သူတို့ ဘာအကြောင်း ပြောနေခဲ့ကြတယ် ဆိုတာကို မသိခဲ့ဘူးလို့ Ogle က ပြောခဲ့တယ်။
+#5/5
 
 5231
 Bishop was a sinister individual with no mercy.
-ဘစ်လျှော့သည် ကရုဏာမရှိ ၍ ယုတ်မာသော ပုဂ္ဂိုလ် တစ်ယောက် ဖြစ်ခဲ့သည်။
+Bishop သည် ကရုဏာမရှိ ၍ ယုတ်မာသော ပုဂ္ဂိုလ် တစ်ယောက် ဖြစ်ခဲ့သည်။
+#5/5
 
 5232
 Pitt did not say anything to them.
-ပစ်ဒ်က သူတို့ကို ဘာမှ မပြောခဲ့ဘူး။
+Pitt က သူတို့ကို ဘာမှ မပြောခဲ့ဘူး။
+#5/5
 
 5233
 Pitt had altered the other that they would likely be playing into Bishop's plans.
-ပစ်ဒ်သည် သူတို့က ဘစ်လျှော့ ၏ အစီအစဉ်တွင် ပါဝင်နိုင်ဖွယ်ရှိသည်ကို အခြားသူကို ပြောင်းလဲခဲ့သည်။
+Pitt သည် သူတို့က ဘစ်လျှော့ ၏ အစီအစဉ်တွင် ပါဝင်နိုင်ဖွယ်ရှိသည်ကို အခြားသူကို ပြောင်းလဲခဲ့သည်။
+#4/5
 
 5234
 Captain Blood was notoriously good at promoting morale.
-ကပ္ပတိန် ဘလတ်သည် အထူးသဖြင့် စိတ်ဓာတ်မြှင့်တင်ရာတွင် ကျော်ကြားခဲ့သည်။
+ကပ္ပတိန် Bloodသည် အထူးသဖြင့် စိတ်ဓာတ်မြှင့်တင်ရာတွင် ကျော်ကြားခဲ့သည်။
+#5/5
 
 5235
 He looked rather sad and remained quiet beside the Captain.
 သူသည် အတော်လေး ဝမ်းနည်းနေပုံရ ပြီး ကပ္ပတိန် ဘေးနားမှာ ငြိမ်ငြိမ်လေးနေခဲ့သည်။
+#5/5
 
 5236
 He shouted in shock as he stooped beside the Captain.
 သူသည် ကပ္ပတိန် ဘေးနားတွင် ဝပ်တွားခဲ့ ရင်း တုန်လှုပ်ပြီး အော်ခဲ့သည်။
+#5/5
 
 5237
 He is absolutely neither right nor wrong.
 သူက လုံးဝ မမှန်သလို မှားလည်းမမှားဘူး။
+#5/5
 
 5238
 He is both right and wrong.
 သူက မှန်လည်းမှန်နိုင်တယ် ပြီးတော့ မှားလည်းမှားနိုင်တယ်။
+#5/5
 
 5239
 He might be right, and he might be wrong.
 သူက မှန်နိုင်တယ် ၊ နောက်ပြီး သူက မှားနိုင်တယ်။
+#5/5
 
 5240
 He did not like what you said.
 သင် ပြောခဲ့တာကို သူက မနှစ်သက်ခဲ့ဘူး။	
+#5/5
+
 
 5241
 He is going to punish you for those words.
 ထို စကားလုံးတွေ အတွက် သူက မင်းကို အပြစ်ပေးဖို့ ရှိတယ်။
+#5/5
 
 5242
 He really enjoyed what you said.
 မင်း ပြောခဲ့ လို့ သူ တကယ် ပျော်ရွှင်ခဲ့တယ်။
+#5/5
 
 5243
 He had acted rather terrible to her.
 သူသည် သူမကို အလွန် ကြောက်စရာကောင်းအောင် ပြုမူခဲ့သည်။
+#4/5
+
 
 5244
 She had hidden the fact that she may have resented how he acted.
 သူမက သူ ဘယ်လို ပြုမူခဲ့သလဲဆိုတာကို နားကြည်းခဲ့တယ်ဆိုတဲ့ အချက်ကို သူမက ဖုံးကွယ်ထားခဲ့သည်။
+#5/5
 
 5245
 She loved the words in which he spoke to her.
 သူက သူမကို ပြောခဲ့တဲ့ စကားလုံးတိုင်းကို သူမက ချစ်ခဲ့သည်။
+#5/5
 
 5246
 A hundred men were reportedly on the frigate that left the harbour yesterday evening.
-မနေ့က ညနေပိုင်းတွင် ဆိပ်ကမ်းမှ ထွက်ခွာလာသော ဖရီးဂိတ်သင်္ဘောပေါ်တွင် ယောက်ျား တစ်ရာယောက် ရှိကြောင်းသတင်းရရှိခဲ့သည်။
+မနေ့က ညနေပိုင်းတွင် ဆိပ်ကမ်းမှ ထွက်ခွာလာသော frigate သင်္ဘောပေါ်တွင် ယောက်ျား အယောက် တစ်ရာရှိကြောင်းသတင်းရရှိခဲ့သည်။
+#5/5
 
 5247
 A hundred women, two feral cats, and no men were reportedly on the frigate that left the harbour yesterday evening.
-မနေ့က ညနေပိုင်းတွင် ဆိပ်ကမ်းမှ ထွက်ခွာလာသော ဖရီးဂိတ်သင်္ဘောပေါ်တွင်  အမျိုးသမီး တစ်ရာယောက် ၊ ကြောင်ရိုင်း နှစ်ကောင် ၊ နှင့် အမျိုးသား တစ်ဉီးမှ မရှိကြောင်း သတင်းရရှိခဲ့သည်။
+မနေ့က ညနေပိုင်းတွင် ဆိပ်ကမ်းမှ ထွက်ခွာလာသော frigate သင်္ဘောပေါ်တွင်  အမျိုးသမီး တစ်ရာယောက် ၊ ကြောင်ရိုင်း နှစ်ကောင် ၊ နှင့် အမျိုးသား တစ်ဉီးမှ မရှိကြောင်း သတင်းရရှိခဲ့သည်။
+#5/5
 
 5248
 All of the men were under six feet tall.
 ယောက်ျား အားလုံးသည် အရပ် ခြောက် ပေ အောက် ရှိကြ၏။
+#5/5
 
 5249
 He was wrong and she said nothing.
 သူက မှားခဲ့ ပြီး သူမက ဘာမှ မပြောခဲ့ဘူး။
+#5/5
 
 5250
 She fixed his issue.
 သူမက သူ၏ ပြဿနာကို ရှင်းပေးခဲ့သည်။
+#5/5
 
 5251
 She was always tasked with correcting him.
 သူမက သူ့ကို ပြုပြင်ဖို့ အမြဲ တာဝန်ပေးခဲ့သည်။
+#5/5
 
 5252
 Julian looked serious but was actually amused.
-ဂျူလီယန်က လေးနက်နေ ပေမယ့် တကယ် ရယ်မောနေခဲ့သည်။
+Julian က လေးနက်တဲ့ပုံပေါက်နေပေမယ့် တကယ် ရယ်မောနေခဲ့သည်။
+#5/5
 
 5253
 Julian thought the situation was funny.
-ဂျူလီယန်က အခြေအနေကို ရယ်စရာလို့ ထင်ခဲ့တယ်။
+Julian က အခြေအနေကို ရယ်စရာလို့ ထင်ခဲ့တယ်။
+#5/5
 
 5254
 Julian was being clear about his feelings.
-ဂျူလီယန်က သူ၏ ခံစားချက်တွေနဲ့ ပတ်သက်ပြီး ရှင်းပါတယ်။
+Julian က သူ၏ ခံစားချက်တွေနဲ့ ပတ်သက်ပြီး ရှင်းပါတယ်။
+#5/5
 
 5255
 She also would have remembered the music if she had been able.
 သူမက တတ်နိုင်လျှင် သူမသည် ဂီတကို လည်း မှတ်မိနေလိမ့်မယ်။
+#5/5
 
 5256
 She would have remembered the words if she had been able.
 သူမက တတ်နိုင်လျှင် သူမသည် စကားလုံးတွေကို မှတ်မိနေလိမ့်မယ်။
+#5/5
 
 5257
 She wouldn't have recalled anything, even if she had been able.
 သူမက တတ်နိုင်လျှင်ပင် ၊ သူမ ဘာမှ မမှတ်မိတော့ပါ။
+#5/5
 
 5258
 He attempted to hide a villainous face with a less sinister facade.
-အနည်းငယ် ယုတ်မာသော မျက်နှာစာ တစ်ခု နှင့်အတူ လူဆိုး တစ်ယောက်ကို ဖွက်ပေးရန် သူက ကြိုးစားခဲ့သည်။
+သူသည် လူဆိုးဆန်သည့် သူ၏မျက်နှာကို အနည်းငယ်ဖြေလျှော့ပီး ဖုန်းကွယ်ရန်ကြိုးစားခဲ့သည်။
+# 4/5
 
 5259
 He had nothing to hide and provided an appearance that was genuine.
 သူ့မှာ ဖုံးကွယ် ရန် ဘာမှ မရှိခဲ့ဘူး ပြီးတော့ စစ်မှန်တဲ့ အသွင်အပြင် တစ်ခုကို ထောက်ပံ့ပေးခဲ့တယ်။
+#4/5
 
 5260
 His toxicity came from a painful upbringing.
-သူ၏ အဆိပ်သည် နာကျင်စွာ ကြီးထွားလာမှု တစ်ခု ဖြစ်လာသည်။
+သူ၏ အဆိပ်သည် နာကျင်စွာ ကြီးပြင်းခဲ့သောကလေးဘဝမှ စတင်ခဲ့သည်။ 
+#5/5
 
 5261
 He didn't smile at all.
 သူ လုံးဝ မပြုံးခဲ့ဖူး။
+#5/5
 
 5262
 He kept his mouth closed as he smiled a bit.
 သူက အနည်းငယ် ပြုံးရင်း သူက သူ၏ ပါးစပ်ကို ပိတ်ထားခဲ့သည်။
+#5/5
 
 5263
 He smiled a bit.
 သူ အနည်းငယ် ပြုံးခဲ့သည်။
+#5/5
 
 5264
 The lordship just took my advice and carried his acts accordingly.
 အရှင်သခင်က ကျွန်ုပ်၏ အကြံဉာဏ်ကို ခံယူ ပြီးနောက် သူ၏ လုပ်ဆောင်မှုများကို လျော်ညီစွာ ဆောင်ရွက်ခဲ့သည်။
+#5/5
 
 5265
 While the lordship was very smart, his grave mistake of not listening to my counsel will spell the end of the kingdom.
-အရှင်သခင်သည် အလွန် ထက်မြက် စဉ်အတွင်း ၊ ကျွန်ုပ်၏ အကြံကို နားမထောင်ခြင်း၏ သူ၏ ကြီးလေးသာ အမှားသည် နိုင်ငံတော်၏ အဆုံးသတ်ကို တာဝန်ယူရလိမ့်မယ်။
+အရှင်သခင်သည် အလွန် ထက်မြက် သော်လည်း ၊ ကျွန်ုပ်၏ အကြံကို နားမထောင်ခြင်း၏ သူ၏ ကြီးလေးသာ အမှားကြောင့် နိုင်ငံတော်၏ အဆုံးသတ်သွားမည်ဖြစ်သည်။
+#4/5
 
 5266
 Your lordship has chosen to act in a manner against my advice.
 သင်၏ အရှင်သခင်က ကျွန်ုပ်၏ အကြံကို ဆန့်ကျင်တဲ့ ပုံစံ တစ်ခု နဲ့ ပြုမူရန် ရွေးချယ်ခဲ့တယ်။
+#5/5
 
 5267
 The Arabella often took on only the finest of crew members.
-အာရာဘဲလာသည် သင်္ဘောအမှုထမ်းများ၏ အကောင်းဆုံးကို သာလျှင် မကြာခဏ ယူဆောင်ခဲ့သည်။
+Arabellaသည် အကောငိးဆုံးသင်္ဘောအမှုထမ်းများကိုသာလျှင် မကြာခဏ ခေါိဆောင်ခဲ့သည်။
+#5/5
+
 
 5268
 The Arabella was no where to be seen in the Port Royal harbor as it was too small to fit the large ship.
-ထိုအရာက သင်္ဘောကြီးများနှင့် အံဝင်ခွင်ကျဖြစ် ရန် အလွန်သေးငယ် သောကြောင့် အာရာဘဲလာသည် ပေါ့ ရိုင်ရယ် ဆိပ်ကမ်းတွင် မြင်ဖို့ရန် အဲ့နေရာမှာ မရှိခဲ့ဘူး
+ထိုအရာက သင်္ဘောကြီးများနှင့် အံဝင်ခွင်ကျဖြစ် ရန် အလွန်သေးငယ် သောကြောင့် Arabellaသည် ပေါ့ ရိုင်ရယ် ဆိပ်ကမ်းတွင် မြင်ဖို့ရန် အဲ့နေရာမှာ မရှိခဲ့ဘူး
+#4/5
 
 5269
 The ship named Arabella had docked at the great harbor of Port Royal.
-အာရာဘဲလာ အမည်ရှိ အဆိုပါ သင်္ဘောသည် ပေါ့ ရိုင်ရယ် ၏ ကြီးမားသော ဆိပ်ကမ်းတွင် ဆိုက်ကပ်ခဲ့သည်။
+Arabella အမည်ရှိ အဆိုပါ သင်္ဘောသည် ပေါ့ ရိုင်ရယ် ၏ ကြီးမားသော ဆိပ်ကမ်းတွင် ဆိုက်ကပ်ခဲ့သည်။
+#5/5
 
 5270
 He gave a big hug to Lord Julian.
-သူသည် သခင် ဂျူလီယန်ကို ကြီးမားသော ပွေ့ဖက်မှု တစ်ခုကို ပေးခဲ့ပါသည်။
+သူသည် သခင် Julian ကို ကြီးမားသော ပွေ့ဖက်မှု တစ်ခုကို ပေးခဲ့ပါသည်။
+#4/5
 
 5271
 He tossed it to Lord Julian.
-သူသည် ထိုအရာကို သခင် ဂျူလီယန်ဆီ ပစ်ပေးခဲ့သည်။
+သူသည် ထိုအရာကို သခင် Julian ဆီ ပစ်ပေးခဲ့သည်။
+#5/5
 
 5272
 He whirled towards Lord Julian.
-သူသည် သခင် ဂျူလီယန် ဆီသို့ လှည့်ပတ်သွားခဲ့သည်။
+သူသည် သခင် Julian ဆီသို့ လှည့်ပတ်သွားခဲ့သည်။
+#5/5
 
 5273
 Good-evening to you, he mentioned to him.
 မင်္ဂလာ ညနေခင်းပါ လို့ ၊ သူက သူ့ကို ပြောခဲ့သည်။
+#5/5
 
 5274
 He had said good morning to him out of respect.
 သူက သူ့ကို လေးစားသမှုဖြင့် မင်္ဂလာ နံနက်ခင်းပါ ဟု ပြောခဲ့သည်။
+#5/5
 
 5275
 He had wished him a good morning.
 ကောင်းသော နံနက်ခင်း တစ်ခု ဖြစ်ပါစေ လို့ သူက သူ့ကို ဆုတောင်းပေးခဲ့တယ်။
+#5/5
 
 5276
 He was not affected at all.
 သူ့ကို လုံးဝ မထိခိုက်ခဲ့ဘူး။
+#5/5
 
 5277
 He was shocked and taken aback.
 သူသည် အံ့အားသင့် ပြီး ထိတ်လန့်တုန်လှုပ်ခဲ့သည်။
+#5/5
 
 5278
 His reaction showed that he was deeply hurt.
 သူ၏ တုံ့ပြန်မှုသည် သူ အလွန် စိတ်ထိခိုက်ခဲ့ကြောင်း ပြသခဲ့သည်။
+#5/5
 
 5279
 He asked because he was rather shocked about the whole situation.
-သူသည် အ​ခြေအ​နေ တစ်ခုလုံးနဲ့ ပတ်သက်ပြီး အတော်လေး တုန်လှုပ်နေခဲ့ သောကြောင့် သူက မေးမြန်းခဲ့သည်။
+သူသည် အခြေအနေ တစ်ခုလုံးနဲ့ ပတ်သက်ပြီး အတော်လေး တုန်လှုပ်နေခဲ့ သောကြောင့် သူက မေးမြန်းခဲ့သည်။
+#5/5
 
 5280
 He had shouted a question.
 သူက မေးခွန်း တစ်ခုကို အော်မေးလိုက်သည်။
+#5/5
 
 5281
 He never posed a question as he remained silent.
 သူက နှုတ်ဆိတ် ကျန်ရစ် သောကြောင့် သူ ဘယ်တော့မှ မေးခွန်း တစ်ခု မမေးခဲ့ဘူး။
+#4/5
 
 5282
 Neither one of us knows Colonel Bishop.
 ငါတို့ထဲက တစ်ယောက်မှ ကိုလိုနယ် ဘစ်လျှော့ ကို မသိကြဘူး။
+#5/5
 
 5283
 We are acquainted with Colonel Bishop.
 ကျွန်တော်တို့ ကိုလိုနယ် ဘစ်လျှော့ နဲ့ ရင်းနှီးတယ်။
+#5/5
 
 5284
 We are also acquainted with Captain Blood.
-ကျွန်တော်တို့ ကပ္ပတိန် ဘလတ် နဲ့ လည်း ရင်းနှီးတယ်။
+ကျွန်တော်တို့ ကပ္ပတိန် Blood နဲ့ လည်း ရင်းနှီးတယ်။
+#5/5
 
 5285
 Pitt wore a Batman suit.
-ပစ်ဒ်က ဘတ်မန်း ဝတ်စုံ တစ်စုံကို ဝတ်ဆင်ခဲ့သည်။
+Pitt က Batman ဝတ်စုံ တစ်စုံကို ဝတ်ဆင်ခဲ့သည်။
+#5/5
 
 5286
 Pitt wore a shirt and breeches.
-ပစ်ဒ်က ရှပ်အင်္ကျီ တစ်ထည် နှင့် ဘောင်းဘီတိုကို ဝတ်ဆင်ခဲ့သည်။
+Pittက ရှပ်အင်္ကျီ တစ်ထည် နှင့် ဘောင်းဘီတိုကို ဝတ်ဆင်ခဲ့သည်။
+#5/5
 
 5287
 Pitt wore a white shirt and brown breeches.
-ပစ်ဒ်က အဖြူရောင် ရှပ်အင်္ကျီ တစ်ထည် နှင့် အညိုရောင် ဘောင်းဘီတိုကို ဝတ်ဆင်ခဲ့သည်။
+Pittက အဖြူရောင် ရှပ်အင်္ကျီ တစ်ထည် နှင့် အညိုရောင် ဘောင်းဘီတိုကို ဝတ်ဆင်ခဲ့သည်။
+#5/5
 
 5288
 Blood said that there would not be any signs given and that the others would have to just figure it out for themselves.
-ဘလတ်က ပေးထားသော မည်သည့် လက္ခဏာများမှ ရှိလိမ့်မည် မဟုတ် ပြီးတော့ အခြားအရာများက သူတို့ကိုယ်တိုင် အတွက် ထိုအရာကို အဖြေရှာရလိမ့်မည်ကို  ပြောခဲ့သည်။
+Bloodက ပေးထားသော မည်သည့် လက္ခဏာများမှ ရှိလိမ့်မည် မဟုတ် ပြီးတော့ အခြားအရာများက သူတို့ကိုယ်တိုင် အတွက် ထိုအရာကို အဖြေရှာရလိမ့်မည်ကို  ပြောခဲ့သည်။
+#4/5
 
 5289
 Blood was engaged in a high-stakes poker game.
-ဘလတ်သည် လောင်းကြေးမြင့် ဖဲချပ် ဂိမ်း တစ်ခု တွင် ပါဝင်ခဲ့သည်။
+Bloodသည် လောင်းကြေးမြင့် ဖဲချပ် ဂိမ်း တစ်ခု တွင် ပါဝင်ခဲ့သည်။
+#4/5
 
 5290
 He had given off a sigh as Blood mentioned something about a signal.
-ဘလတ်သည် အချက်ပြမှု တစ်ခုနဲ့ ပတ်သက်လို့ တစ်စုံတစ်ခုကို ပြောနေခဲ့ သောကြောင့် သူသည် သက်ပြင်း တစ်ချက် ချလိုက်သည်။
+Bloodသည် အချက်ပြမှု တစ်ခုနဲ့ ပတ်သက်လို့ တစ်စုံတစ်ခုကို ပြောနေခဲ့ သောကြောင့် သူသည် သက်ပြင်း တစ်ချက် ချလိုက်သည်။
+#4/5
 
 5291
 I always knew you were easily scared, Peter.
-ပီတာ ၊ မင်း လွယ်လွယ်လေး ကြောက်တတ်တယ် ဆိုတာ ငါ အမြဲတမ်း သိခဲ့တယ်။
+Peter ၊ မင်း လွယ်လွယ်လေး ကြောက်တတ်တယ် ဆိုတာ ငါ အမြဲတမ်း သိခဲ့တယ်။
+#5/5
 
 5292
 I had never known Peter to be scared.
-ငါ က ပီတာကို ကြောက်ရမယ်လို့ ဘယ်တုန်းကမှ မသိခဲ့ဘူး။
+ငါ က Peter ကို ကြောက်တတ်တယ်လို့ ဘယ်တုန်းကမှ မသိခဲ့ဘူး။
+#5/5
 
 5293
 They heard the gunshot and knew it was headed in their direction.
 သူသည် သေနတ်သံကို ကြားခဲ့ ပြီးနောက် ဒါဟာ သူတို့၏ ဉီးတည်ချက်ကို ဉီးတည်နေသည်ကို သိခဲ့သည်။
+#5/5
 
 5294
 Each ship had two hundred passengers.
 သင်္ဘော တစ်စီးစီမှာ ခရီးသည် နှစ်ရာ ပါခဲ့တယ်။
+#5/5
 
 5295
 No ships were visible anywhere.
-ဘယ်နေရာမှာမဆို သင်္ဘောတွေကို မမြင်နိုင်ပါ။
+ဘယ်နေရာမှာမှ သင်္ဘောတွေကို မမြင်နိုင်ခဲ့ပါ။
+#5/5
 
 5296
 Three white ships came.
 သင်္ဘော အဖြူရောင် သုံးစီး လာခဲ့တယ်။
+#5/5
 
 5297
 Captain Blood had never spoken to Wolverstone before.
-ကပ္ပတိန် ဘလတ်က ဝူဗာစတုန်းကို အရင်က ဘယ်တုန်းကမှ စကားမပြောဖူးဖူး။
+ကပ္ပတိန် Blood က Wolverstone ကို အရင်က ဘယ်တုန်းကမှ စကားမပြောဖူးဖူး။
+#5/5
 
 5298
 Captain Blood had spoken about the incident to Wolverstone previously.
-ကပ္ပတိန် ဘလတ်က ဝူဗာစတုန်းကို အရင်တုန်းက အဖြစ်အပျက်တွေ အကြောင်း ပြောပြခဲ့တယ်။
+ကပ္ပတိန် Blood က Wolverstone ကို ဒီအဖြစ်အပျက်အကြောင်း အရင်တုန်းက ပြောပြခဲ့တယ်။
+#4/5
+# Review
 
 5299
 The opportunity was then and now.
 အခွင့်အရေးက နောင်ရော အခုရော ရှိတယ်။
+#5/5
 
 5300
 People from the forecastle were joining the men in the waist.
 သင်္ဘောဦးပိုင်း မှ လူများက အလယ်က လူများကို ဆက်သွယ်နေတယ်။
+#4/5

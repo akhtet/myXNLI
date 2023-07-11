@@ -1,449 +1,502 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 1201
 29 for furniture and silver, Tai Sing Company at 122 for porcelain.
-ပရိဘောဂနဲ့ ငွေထည်ပစ္စည်း ၂၉ခု၊ တိုင်စင်း ကုမ္ပဏီ ကြွေထည်ပစ္စည်း ၁၂၂ခု။
+ပရိဘောဂနဲ့ ငွေထည်ပစ္စည်း ၂၉ခု၊ Ta Sing ကုမ္ပဏီ ကြွေထည်ပစ္စည်း ၁၂၂ခု။
+#5/5
 
 1202
 Little is known of the earliest Stone Age inhabitants of Europe's southwestern extremity.
-လစ်တယ်ဆိုတာ ဥရောပရဲ့ အနောက်တောင်ဘက် အစွန်းဆုံးရှိ အစောဆုံး ကျောက်ခေတ်မှာ နေထိုင်သူတွေလို့ သိကြတယ်။
+ ဥရောပရဲ့ အနောက်တောင်ဘက် အစွန်းဆုံးရှိ အစောဆုံး ကျောက်ခေတ်မှာ နေထိုင်သူတွေ အကြောင်းကိုာနည်းနည်းပဲသိကြတယ်။
+#5/5
 
 1203
 Kilometer 7 sees a right turn to the 18-hole Pok-Ta-Pok golf course, which is located on a large land-mass that juts out into the lagoon.
-ကီလိုမီတာ ၇ သည် ရေကန်ဘက်ကို ထိုးထွက်နေသော မြေထုကြီးပေါ်မှာ တည်ရှိနေတဲ့ ၁၈-ဟိုး ဖေါ့-ထ-ဖေါ့ ဂေါက်ကွင်းဘက်ဆီကို ညာကွေ့ တစ်ကွေ့မှာ မြင်ရသည်။ 
+ကီလိုမီတာ ၇ သည် ရေကန်ဘက်ကို ထိုးထွက်နေသော မြေထုကြီးပေါ်မှာ တည်ရှိနေတဲ့ ၁၈ ကျင်း Pok-Ta-Pok ဂေါက်ကွင်းဘက်ဆီကို ညာကွေ့ တစ်ကွေ့မှာ မြင်ရသည်။ 
+#5/5
 
 1204
 Dam Square was landlocked for the first time in its history.
-ဒမ်စကွဲသည် သူ့ရဲ့ သမိုင်းရာဇဝင်တွင် ပထမဆုံးအကြိမ် ကုန်းပတ်လည်ဝန်းရံလျှက်ရှိသည်။
+Dam Square သည် သူ့ရဲ့ သမိုင်းရာဇဝင်တွင် ပထမဆုံးအကြိမ် ကုန်းပတ်လည်ဝန်းရံလျှက်ရှိသည်။
+#4/5
 
 1205
 Just so long as you don't object to being shown up by the resident ten-year-old experts.
-မင်း မကန့်ကွက်သရွေ့တော့ ဆယ်နှစ်တာ ကျွမ်းကျင်မှုရှိတဲ့ နေထိုင်သူတွေ ပေါ်ပေါက်နေဦးမှာပဲ။
+ဆယ်နှစ်အရွယ် ဆရာပေါက်စလေးတွေ မင်းကို ဆရာလုပ်တာကို မင်း မကန့်ကွက်သရွေ့ပေါ
+#4/5
 
 1206
 Colenia de Sant Jordi is lined with hotels and villas, but it seems a rather half-hearted attempt at a resort.
-ကိုလယ်နီယာ ဒဲ စန့် ဂျော်ဒန်သည် ဟိုတယ်များနှင့် စံအိမ်တော်များ နှင့်အတူ ချိတ်ဆက်ထားပေမယ့်လည်း အပန်းဖြေနေရာ တစ်ခု မှာ စိတ်မပါ့တပါ ကြံစည်အားထုတ်နေပုံပေါက်နေသည်။
+Colemia de Sanr Jordi သည် ဟိုတယ်များနှင့် စံအိမ်တော်များ နှင့်အတူ ချိတ်ဆက်ထားပေမယ့်လည်း အပန်းဖြေနေရာ တစ်ခု မှာ စိတ်မပါ့တပါ ကြံစည်ပြုလုပ်ထားသည့် ပုံပေါက်နေသည်။
+#5/5
 
 1207
 Today the site is called the Temple of Heaven Park (Tiantan Gongyuan).
 ဒီနေ့မှာတော့ ဒီတည်နေရာကို Temple of Heaven Park (Tiantan Gongyuan)လို့ ခေါ်ပါတယ်။
+#5/5
 
 1208
 For film buffs, the most interesting display will be the collection of old nickelodeons, autoscopes, and movieola machines that projected the very first moving pictures.
-ရုပ်ရှင်ရိုက်သူများအတွက်၊ စိတ်ဝင်စားစရာ အကောင်းဆုံး ပြသမှာမှာတော့ နစ်ကယ်လိုဒီယမ် အဟောင်း စုစည်းမှု၊ အော်တိုစကုပ်တွေ၊ ပြီးတော့ ပထမဆုံး ရွေ့လျားမှု ပုံရိပ်တွေကို အစီစဉ်တကျ လုပ်ပေးတဲ့ မူဗွီအိုလာစက်တွေ ဖြစ်ပါလိမ့်မယ်။
+ရုပ်ရှင်ရိုက်သူများအတွက်၊ စိတ်ဝင်စားစရာ အကောင်းဆုံး ပြသမှာမှာတော့ nickelodeons အဟောင်း စုစည်းမှု၊ autoscopes တွေ ၊ ပြီးတော့ ပထမဆုံး ရွေ့လျားမှု ပုံရိပ်တွေကို အစီစဉ်တကျ လုပ်ပေးတဲ့ movieola စက်တွေ ဖြစ်ပါလိမ့်မယ်။
+#4/5
 
 1209
 Such boats were developed to allow quick access to incoming ships.
 အဝင်သင်္ဘောများကို အမြန် ဝင်ရောက်ဖို့ ခွင့်ပြုရန် ဒီလှေတွေကို တီထွင်ခဲ့တာပါ။
+#4/5
 
 1210
 Continuing east, you pass the unprepossessing modern faaade of the Komische Oper, one of Berlin's most important opera companies.
 အရှေ့ကို ဆက်သွားရင်၊ ဘာလင်ရဲ့ အရေးကြီးဆုံး ကဇာတ်ရုံ ကုမ္ပဏီတစ်ခုဖြစ်တဲ့ Komische Operရဲ့ ဆွဲဆောင်မှုမရှိတော့တဲ့ ခေတ်ကုန်မှုကို ဖြတ်သွားရလိမ့်မယ်။
+#4/5
 
 1211
 Miramar, a pleasant residential quarter with fine family homes, benefits from its position alongside the Isla Grande commuter airport.
-ကောင်းမွန်သော မိသားစု အိမ်ရာများနှင့်အတူ နှစ်လိုဖွယ်ကောင်းသော နေထိုင်ရာ ရက်ကွက် တစ်ခုဖြစ်သည့် မီးရာမာသည်၊ သူနဲ့ ကပ်လျက်ရှိသော အီစလာဂရမ်းတက် ခရီးသည်ပို့ဆောင်ရေး လေဆိပ်မှ အကျိုးကျေးဇူးများ ရရှိသည်။
+ကောင်းမွန်သော မိသားစု အိမ်ရာများနှင့်အတူ နှစ်လိုဖွယ်ကောင်းသော နေထိုင်ရာ ရက်ကွက် တစ်ခုဖြစ်သည့် Miramar သည်၊ သူနဲ့ ကပ်လျက်ရှိသော Isla Grande ခရီးသည်ပို့ဆောင်ရေး လေဆိပ်မှ အကျိုးကျေးဇူးများ ရရှိသည်။
+#4/5
 
 1212
 If you're looking for an evening alternative to Harvard Square, head to Hispanic-flavored Inman Square, located down Cambridge Street.
-တကယ်လို့ မင်းဟာ ဟားဗတ်စကွဲမှာ သမားရိုးကျမဟုတ်တဲ့ ညနေခင်း တစ်ခုကို ရှာဖွေနေတယ်ဆိုရင် ၊ ကိမ်းဘရတ်လမ်းမှာ တည်ရှိတဲ့ ဟစ်စပန်းနစ်-ဖလေးဘာ အင်မာ စကွဲကို ဦးတည်ပြီးသွားပါ။
+တကယ်လို့ မင်းဟာ Harvard Square မှာ သမားရိုးကျမဟုတ်တဲ့ ညနေခင်း တစ်ခုကို ရှာဖွေနေတယ်ဆိုရင် ၊ Cambridge Street မှာ တည်ရှိတဲ့ Hispanic-flavoured Inman Square ဦးတည်ပြီးသွားပါ။
+#5/5
 
 1213
 The Great Depression hit California hard.
-ကြီးမားသော စီးပွားရေးကပ်ကြီးဟာ ကယ်လီဖိုးနီဂယားကို ပြင်းထန်စွာ ထိုးနှက်သွားတယ်။
+ကြီးမားသော စီးပွားရေးကပ်ကြီးဟာ California ကို ပြင်းထန်စွာ ထိုးနှက်သွားတယ်။
+#5/5
 
 1214
 In 1847, a savage uprising known as the Caste War saw Mayan rebels massacre white settlers and take control of nearly two-thirds of the peninsula.
-၁၈၄၇တွင်၊ Caste Warဟု လူသိများသော လူရိုင်းများ ပုန်ကန်ထကြွမှု တစ်ခုတွင် မာယန် သူပုန်များသည် အခြေချနေထိုင်သူ လူဖြူများကို အစုလိုက်အပြုံလိုက် သတ်ဖြတ်ပြီးနောက် ကျွန်းဆွယ်၏ သုံးပုံ နှစ်ပုံနီးပါးလောက်ကို ထိန်းချုပ်သိမ်းပိုက်ခဲ့သည်။
+၁၈၄၇တွင်၊ Caste Warဟု လူသိများသော လူရိုင်းများ ပုန်ကန်ထကြွမှု တစ်ခုတွင် Mayan သူပုန်များသည် အခြေချနေထိုင်သူ လူဖြူများကို အစုလိုက်အပြုံလိုက် သတ်ဖြတ်ပြီးနောက် ကျွန်းဆွယ်၏ သုံးပုံ နှစ်ပုံနီးပါးလောက်ကို ထိန်းချုပ်သိမ်းပိုက်ခဲ့သည်။
+#4/5
 
 1215
 Leaf monkeys and long-tailed macaques are among the wildlife.
 သစ်ရွက်စားမျောက်များနှင့် အမြီးရှည်မျောက်များသည် တောရိုင်းတိရစ္ဆာန်များတွင် ပါဝင်ပါသည်။
+#5/5
 
 1216
 You'll find these in various sizes and with different decoration.
 မင်း အဲဒါတွေကို အရွယ်အစား မျိုးစုံနဲ့ ထူးခြားတဲ့ တန်ဆာဆင်ယင်မှုများနဲ့ တွေ့ရလိမ့်မယ်။
+#5/5
 
 1217
 Nearby Xlapak has only one major structure, a palace, but Labna, the final Puuc site on the tour, has a number of structures to explore.
 နန်းတော် တစ်ခု ဖြစ်သော ၊ Xlapak အနီးအနားတွင် အဓိက တည်ဆောက်ပုံ တစ်ခုတည်းသာ ရှိသော်လည်း၊ ခရီးစဉ်ရဲ့ နောက်ဆုံး Puuc တည်နေရာဖြစ်သော Labna မှာတော့ စူးစမ်းရှာဖွေရန် တည်ဆောက်ပုံများစွာ ရှိပါသည်။
+#4/5
 
 1218
 The spirit of liberalism prevalent in Europe was tardy in reaching Spain.
 ဥရောပမှာ ပျံ့နှံ့နေတဲ့ လစ်ဘရယ်နိုင်ငံရေးဝါဒက စပိန်ကို ရောက်ဖို့ နောက်ကျနေတယ်။
+#4/5
 
 1219
 Cynicism dissolves with your first taste of the town's gentle ambience, created by a clever combination of the comforts of sophisticated modernity with the simpler joys of the wilderness at its back door.
 မြို့၏ အနောက်ဘက်တံခါးရှိ မထွန်ယက်မစိုက်ပျိုးသော ဥယျာဉ်ဒေသ၏ ရိုးရှင်းသော ပျော်ရွှင်မှုများနှင့် ခေတ်မှီဆန်းသစ်ပြီး သက်တောင့်သက်သာရှိခြင်းများ၏ ကောင်းမွန်သော ပေါင်းစပ်ခြင်း တစ်ခု ဖြင့် ဖန်တီးထားသော မြို့၏ နူးညံ့သိမ်မွေ့သော ဓလေ့စရိုက်ကို ပထမဆုံးအကြိမ် သိရှိသွားမှုက အဆိုးမြင်ဝါဒကို အရည်ပျော်ဝင်သွားစေသည်။
+#4/5
 
 1220
 Still there is shade and a flower garden in the middle of the square where locals and visitors alike rendezvous for lunch or dinner dates.
 ရင်ပြင်ရဲ့အလယ်မှာ ဒေသခံတွေနဲ့ ဧည့်သည်တွေက နေ့လည်စာ ဒါမှမဟုတ် ညစာစားဖို့ ဆုံတွေ့နေကျနေရာဖြစ်တဲ့ အရိပ်အာဝါသရတဲ့ ပန်းဥယျာဉ်တစ်ခု ရှိနေတုန်းပါပဲ။
+#4/5
 
 1221
 The edifice links two identical churches, the Franzesischer Dom (or French Cathedral) to the north, built for the immigrant Huguenots, and the Deutscher Dom (German Cathedral) to the south.
 တထပ်တည်းချွတ်စွပ်တူသော ခရစ်ယာန်ဘုရားကျောင်း နှစ်ခုကို ဆက်သွယ်ထားသော အဆောက်အဦးသည်၊ မြောက်ဘက်တွင် Franzesischer Dom (or French Cathedral)၊ တောင်ဘက်တွင် Deutscher Dom (German Cathedral)ရွှေ့ပြောင်းလာရောက်နေထိုင်သူ ပြင်သစ်ခရစ်ယာန်ဘာသာဝင်များအတွက် ဆောက်လုပ်ထားပါသည်။
+#4/5
+
 
 1222
 At night there are many good restaurants, clubs, and theaters to enjoy, and by day there is the glorious beach, complete with an amusement pier, antique carousel, and the nearby shopping arcades.
 ညဘက်တွင် ကောင်းမွန်သော စာသောက်ဆိုင်များ၊ ကလပ်များနှင့် သာယာကြည်နူးရန် ကဇာတ်ရုံများစွာ ရှိပြီးတော့ နေ့ဘက်တွင် ခမ်းနားလှပသော ကမ်းခြေ၊ အပန်းဖြေရန် ဆိပ်ခံတံတားနှင့် ပြည့်စုံမှု၊ အနီးနားတွင် ရှေးဟောင်းပစ္စည်းများ ဝယ်ယူနိုင်သော ဈေးဆိုင်တန်းများလည်း ရှိပါသည်။
+#5/5
 
 1223
 Visitors can also see a 28-minute  virtual history  multimedia film about Barcino-Barcelona.
 ဧည့်သည်များသည် ဘာစီနို-ဘာဆယ်လိုနာ အကြောင်း ၂၈ မိနစ်ကြာ သမိုင်းကြောင်းရုပ်ရှင်ကိုလည်း ကြည့်ရှုနိုင်ပါသည်။
+#4/5
 
 1224
 Beside the cruise port is Flag Hill, rising 700 ft (214 m) above sea level.
-ပင်လယ်အပျော်စီးခရီး သင်္ဘောဆိပ်ကမ်းဘေးတွင် ပင်လယ်ရေမျက်နှာပြင် အထက် ပေ ၇၀၀ (၂၁၄ မီတာ) မြင့်တက်နေသော ဖလက် ဟေးရှိသည်။  
+ပင်လယ်အပျော်စီးခရီး သင်္ဘောဆိပ်ကမ်းဘေးတွင် ပင်လယ်ရေမျက်နှာပြင် အထက် ပေ ၇၀၀ (၂၁၄ မီတာ) မြင့်တက်နေသော Flag Hill ရှိသည်။  
+#5/5
 
 1225
 One is cautioned about eating food openly, as the monkeys are likely to view this as an invitation to dine.
 မျောက်များက ၎င်းကို ထမင်းစားရန် ဖိတ်ခေါ်ခြင်း တစ်ခု အဖြစ် ရှုမြင်ကြသောကြောင့် ၊ အစားအစာ ပွင့်လင်းစွာစားခြင်းနဲ့ ပတ်သက်ပြီး သတိပေးတားမြစ်သည်။
+#4/5
 
 1226
 Underneath the bridges in the harbor is a small island called Potter's Cay.
-ဆိပ်ကမ်းရှိ တံတားများအောက်တွင် ပေါ်တာ ကေး လို့ ခေါ်တဲ့ ကျွန်းငယ် တစ်ခု ရှိတယ်။
+ဆိပ်ကမ်းရှိ တံတားများအောက်တွင် Potter Quay လို့ ခေါ်တဲ့ ကျွန်းငယ် တစ်ခု ရှိတယ်။
+#5/5
 
 1227
 s great historic moment came in 1864, when its capital, Charlottetown, hosted a meeting of Maritime leaders with delegates from Ontario and Quebec to chart the path to Canada's federal status as a united dominion.
 ၁၈၆၄ခုနှစ်တွင် ၎င်း၏ မြို့တော် Charlottetown၌ ကနေဒါနိုင်ငံ၏ ဗဟိုအစိုးရနှင့်ဆိုင်သော အဆင့်အတန်းကို စည်းလုံးသော အုပ်ချုပ်မှု တစ်ခု အဖြစ် လမ်းကြောင်းမှတ်သားရန် Ontarioနှင့် Quebecမှ ကိုယ်စားလှယ်များနှင့်အတူ ပင်လယ်ရေကြောင်းခေါင်းဆောင်များ၏ အစည်းအဝေးတစ်ခုကို လက်ခံကျင်းပခဲ့ချိန်သည် မဟာသမိုင်းတွင်သော ကာလတစ်ခုသို့ ရောက်ရှိခဲ့သည်။
+#4/5
 
 1228
 Amsterdam has many facets, almost as many as the diamonds for which the city is famous.
 အမ်စတာဒမ်တွင် မျက်နှာသွင်ပြင် များစွာ ရှိပြီး စိန်များစွာ ရှိသောကြောင့် မြို့သည် ကျော်ကြားသည်။
+#5/5
 
 1229
 Another important defeat took place at Rocroi, in Flanders, in 1643, when Spanish troops, never to regain their former glory, were routed by the French.
-၁၆၄၃ ခုနှစ်၊ ဖလန်ဒါရှိ၊ ရော့ခရိုမှာ ဖြစ်ပွားခဲ့သော တခြား အရေးကြီးတဲ့ ရှုံးနိမ့်မှုကတော့ ပြင်သစ်က ညွှန်ကြားခဲ့သော စပိန်စစ်သားများ ဝင်ရောက်လာခဲ့ချိန်မှာ သူတို့ရဲ့ မူလ ဂုဏ်ကျက်သရေထင်ပေါ်ကျော်ကြားမှုကို ဘယ်တော့မှ ပြန်မရနိုင်တော့ပေ။
+၁၆၄၃ ခုနှစ Flander  ရှိ ၊ Rocroi မှာ ဖြစ်ပွားခဲ့သော တခြား အရေးကြီးတဲ့ ရှုံးနိမ့်မှုကတော့ ပြင်သစ်က ညွှန်ကြားခဲ့သော စပိန်စစ်သားများ ဝင်ရောက်လာခဲ့ချိန်မှာ သူတို့ရဲ့ မူလ ဂုဏ်ကျက်သရေထင်ပေါ်ကျော်ကြားမှုကို ဘယ်တော့မှ ပြန်မရနိုင်တော့ပေ။
+#5/5
+
 
 1230
 Next to the church is all that remains of Contra-Aquincum an excavated square with benches and a small display of tablets and reliefs found on the site.
 ခရစ်ယာန်ဘုရားကျောင်းဘေးတွင် ခုံတန်းရှည်များ နှင့်အတူ တူးဖော်ထားသော ရင်ပြင်တစ်ခု Contra-Aquincum၏ အကြွင်းအကျန်များ နှင့် သေးငယ်သော ကျောက်စာတိုင် ပြသမှုများ ပြီးတော့ အဆိုပါ နေရာတွင် ကယ်ဆယ်ရေးစခန်းများ အားလုံး ရှိပါသည်။
+#4/5
 
 1231
 Look out for coconut rum and other fruit rums there's a tremendous variety.
 အုန်းသီးရမ်နှင့် အခြားအသီးရမ်များကို ရှာကြည့်ပါ များပြားလှသော အမျိုးအစားများ ရှိပါသည်။
+#5/5
 
 1232
 There are also plenty of venues for more  risque  or avant-garde performances.
 ပိုမို ပွင့်လင်းတာမျိုး ဒါမှမဟုတ် အတွေးအမြင်သစ်ကို ဖော်ဆောင်တဲ့ ဖျော်ဖြေရေးအနုပညာများအတွက် ပြသကျင်းပဖို့ နေရာများစွာလည်း ရှိပါတယ်။
+#5/5
 
 1233
 The heart of ancient Athens was centered around the dome of the Acropolis, with sacred temples built atop the rock and the town built on its undulating flanks.
-ရှေးဟောင်း အေသင်မြို့၏ နှလုံးသားကို ကျောက်တုံးများပေါ်တွင် တည်ဆောက်ထားသော အထွတ်အမြတ်ထားရာ ဘုရားကျောင်းများနှင့် လှိုင်းတံပိုးများပေါ်တွင် တည်သောမြို့ နှင့်အတူ ၊ အခရိုပေါလစ်၏ အမိုးခုံးနားတွင် အလယ်၌ထားရှိခဲ့သည်။
+ရှေးဟောင်း အေသင်မြို့၏ နှလုံးသားကို ကျောက်တုံးများပေါ်တွင် တည်ဆောက်ထားသော အထွတ်အမြတ်ထားရာ ဘုရားကျောင်းများနှင့် လှိုင်းတံပိုးများပေါ်တွင် တည်သောမြို့ နှင့်အတူ ၊ Acropolis ၏ အမိုးခုံးနားတွင် အလယ်၌ထားရှိခဲ့သည်။
+#5/5
 
 1234
 Under the altar, a silver disc surrounds a hole marking the place where, tradition says, Jesus's cross was raised alongside those of the two thieves on either side.
 ယဇ်ပလ္လင်အောင်တွင်၊ ငွေရောင် အပြား တစ်ခုသည် ထိုနေရာကို အမှတ်အသားပြုသော အပေါက်တစ်ခုကို ဝန်းရံထားပြီး ၊ ထိုနေရာကို ၊ ပုံမှန်အားဖြင့် ယေရှု၏လက်ဝါးကပ်တိုင်သည် တစ်ဖက်တစ်ချက်စီတွင် သူခိုးနှစ်ဦးနှင့်အတူ မြှောက်ကိုင်ထားသည်ဟု ပြောကြသည်။
+#5/5
 
 1235
 Open spaces discovered since the 1960s are now believed to be used for  ball games,  which had an important though as yet only poorly understood ceremonial purpose in Indian culture.
 ၁၉၆၀ခုနှစ်ကတည်းက ရှာဖွေတွေ့ရှိခဲ့သော ပွင့်လင်းသော နေရာများသည် ယခုအချိန်တွင် အိန္ဒိယ ယဉ်ကျေးမှုတွင် နားမလည်နိုင်လောက်အောင် အရေးကြီးသည့် အခမ်းအနားရည်ရွယ်ချက်တစ်ခုရှိသော်လည်း ဘောလုံးပွဲများအတွက် အသုံးပြုသည်ဟု ယုံကြည်ရသည်။
+#5/5
 
 1236
 Away from the coast, the terrain slopes through pines, mimosa, eucalyptus, and heather to an altitude of nearly 915 m (3,000 ft).
 ကမ်းရိုးတန်းနှင့် အဝေးတွင်၊ ထင်းရှူးပင်များ၊ ထိကရုံးကြီး၊ ယူကလစ်ပင်နှင့် ဟက်သာပင်တို့ကို ဖြတ်၍ အမြင့် ၉၁၅ မီတာ (ပေ ၃၀၀၀) နီးပါး တောင်စောင်းများရှိပါသည်။
+#5/5
 
 1237
 The Saronic islands have a longer season stretching from April to October.
-ဆာရွန်နစ်ကျွန်းများတွင် ဧပြီလမှ အောက်တိုဘာလအထိ ရှည်လျားသော ရာသီဥတု တစ်ခု ရှိပါသည်။
+Saronic ကျွန်းများ တွင် ဧပြီလမှ အောက်တိုဘာလအထိ ရှည်လျားသော ရာသီဥတု တစ်ခု ရှိပါသည်။
+#5/5
 
 1238
 Ask your travel agency or the Berlin tourist office for details of upcoming programs, and book in advance where possible.
-မင်းရဲ့ ကမ္ဘာလှည့်ခရီးသွားရုံးခန်းကိုဖြစ်ဖြစ် လာမယ့် ပရိုဂရမ်ရဲ့ အသေးစိတ်အတွက် ဘာလင် ကမ္ဘာလှည့်ခရီးသွားရုံးခန်းကိုဖြစ်ဖြစ် မေးမြန်းပြီး ဖြစ်နိုင်ရင် ကြိုတင်စာရင်းသွင်းထားပါ။
+မင်းရဲ့ ကမ္ဘာလှည့်ခရီးသွားရုံးခန်းကိုဖြစ်ဖြစ် လာမယ့် အစီအစဉ်ရဲ့ အသေးစိတ်အတွက် ဘာလင် ကမ္ဘာလှည့်ခရီးသွားရုံးခန်းကိုဖြစ်ဖြစ် မေးမြန်းပြီး ဖြစ်နိုင်ရင် ကြိုတင်စာရင်းသွင်းထားပါ။
+#5/5
 
 1239
 Hundreds of day-trippers cruise to both islands, eager to do it all before they have to get back on the boat.
 ကျွန်းနှစ်ခုစလုံးကို ရက်ပေါင်းများစွာ ပင်လယ်ခရီး အပျော်ခရီးထွက်သူများသည် သူတို့လှေပေါ် မတက်ခင်မှာ အားလုံးကို လုပ်ဆောင်ကြရန် စိတ်အားထက်သန်ကြသည်။
+#5/5
 
 1240
 Back in town, a waterfront stroll takes you through Chinatown on Jalan Bandar.
-မြို့ထဲပြန်ရင်၊ ဂျာလန် ဘန်ဒါမှာရှိတဲ့ တရုတ်တန်းတလျှောက်ကနေ အေးအေးဆေးဆေး လမ်းလျှောက်လို့ရတဲ့ ကမ်းနားတစ်ခုရှိတယ်။
+မြို့ထဲပြန်ရင်၊ Jalan Bandar မှာရှိတဲ့ တရုတ်တန်းတလျှောက်ကနေ အေးအေးဆေးဆေး လမ်းလျှောက်လို့ရတဲ့ ကမ်းနားတစ်ခုရှိတယ်။
+#5/5
 
 1241
 The nearest facilities can be found at Mount Parnassus (from December-March), a two-hour drive from the city.
 မြို့ကနေ နှစ်နာရီကြာ ကားမောင်းသွားရင် Mount Parnassus(ဒီဇင်ဘာလမှ မတ်လအတွင်း)မှာ အနီးဆုံး အဆောက်အအုံတွေကို တွေ့ရနိုင်တယ်။
+#5/5
 
 1242
 You'll be able to play alongside the  high rollers  at the roulette or craps tables or put a few coins in the slot machines.
 မင်း ဘောလုံးမှာ ဂဏန်းတွေရေးပြီး ဆုံလည်ဘီးပေါ်ကို ပစ်ချရတဲ့ လောင်းကစားမျိုး၊ မဟုတ်ရင် အန်စာတုံးနှစ်ခုနဲ့ ကစားရတဲ့ စားပွဲတွေ၊ ဒါမှမဟုတ် အကြွေစေ့ထည့်ပြီး ကစားရတဲ့ စက်တွေမှာ အကြွေစေ့သုံးပြီး ကစားလို့ ရတယ်။
+#5/5
 
 1243
 Museums are superbly laid out, and most provide leaflets (usually in German, but often in English and French) with detailed information about the exhibits; you will find honesty boxes for payment freely dotted about.
 ပြတိုက်များသည် အလွန်ကောင်းမွန်စွာ ခင်းကျင်းပြသထား ပြီးတော့ အများစုသည် ပြပွဲပစ္စည်းများနှင့် ပတ်သက်သော အသေးစိတ် အချက်အလက်များနှင့် စာရွတ်စာတမ်းများကို (များသောအားဖြင့် ဂျာမန်ဘာသာနဲ့ ဆိုပေမယ့် မကြာခဏတော့ အင်္ဂလိပ်နှင့် ပြင်သစ်လိုပါ) စီစဉ်ထားပါသည်၊ လွတ်လပ်စွာ ငွေပေးချေမှုအတွက် မှန်ကန်စွာလုပ်ပေးသည့် သေတ္တာများကိုလည်း တွေ့ရပါလိမ့်မည်။
+#5/5
 
 1244
 This is a newcomer to Hungary, and you will have to drive some way out of town if you want to play.
-ဟန်ဂေရီဆီကို လူသစ်တစ်ယောက်ရောက်ပြီး၊ မင်း ကစားချင်ရင်တော့ မြို့ပြင်ကို တခြားလမ်းကနေ မောင်းသွားရလိမ့်မယ်။
+ဟန်ဂေရီ ဆီကို လူသစ်တစ်ယောက်ရောက်ပြီး၊ မင်း ကစားချင်ရင်တော့ မြို့ပြင်ကို တခြားလမ်းကနေ မောင်းသွားရလိမ့်မယ်။
+#5/5
 
 1245
 Later it held courts of law, and justice was dispensed here.
 နောက်ပိုင်းမှာ အဲဒါကို တရားရုံးတွေမှာ ကျင်းပလာလို့၊ အဲ့နေရာမှာ တရားမျှတမှု ပေါ်ပေါက်လာခဲ့တယ်။
+#5/5
 
 1246
 The roads twist and turn around sharp bends and roll up and over undulations.
 လမ်းတွေက ချွန်ထက်နေတဲ့ အချိုးအကွေ့တွေနဲ့ ရစ်ပတ်နေပြီး မို့မောက်လိုက်နိမ့်သွားလိုက် ဖြစ်နေတယ်။
+#5/5
 
 1247
 Just east of the Star Ferry terminal, you'll come to City Hall.
-စတား ဖယ်ရီ ဘူတာရုံရှေ့ရောက်ရင်၊ စီးတီး ဟောကို ရောက်လိမ့်မယ်။
+Star Ferry ဘူတာရုံရှေ့ရောက်ရင်၊ City Hall ကို ရောက်လိမ့်မယ်။
+#5/5
 
 1248
 there are almost no traces of it in Beijing today.
-ယနေ့တွင် ဘေဂျင်းမှာ သဲလွန်စဟာ မရှိတော့သလောက်ပါပဲ။
+ယနေ့တွင် ပေကျင်း မှာ သဲလွန်စဟာ မရှိတော့သလောက်ပါပဲ။
+#5/5
 
 1249
 Without doubt, the initial lure of the city is its numerous historic buildings.
 သံသယမဖြစ်နဲ့၊ မြို့ရဲ့ ကနဦး ဆွဲဆောင်မှုက ရှေးဟောင်းသမိုင်းဝင် အဆောက်အဦး တော်တော်များများကြောင့် ဖြစ်တယ်။
+#5/5
 
 1250
 The principal shopping and strolling avenues are the elegant Passeig de Gracia, Barcelona's version of the Champs d'Elysee, and pedestrian-only Rambla de Catalunya, an uptown segment of La Rambla.
 အဓိက ဈေးဝယ်ခြင်းနှင့် အေးအေးလူလူ လမ်းလျှောက်ချင်သူများအတွက် လမ်းများသည် Champs d'Elysee၏ Barcelonaဗာရှင်းဖြစ်သည့် Passeig de Graciaက အံဝင်ဂွင်ကျဖြစ်စေပြီး ခြေကျင် သွားလာချင်သူများအတွက် Rambla de Catalunyaသည် La Rambla၏ မြို့ငယ် အစိတ်အပိုင်း တစ်ခုဖြစ်ပါသည်။
+#5/5
 
 1251
 Many state and local governments have additional audit requirements.
 ပြည်နယ်တွေအများအပြားနဲ့ ဒေသအစိုးရတွေဆီမှာ အပိုဆောင်း စာရင်းစစ် လိုအပ်ချက်တွေ ရှိကြတယ်။
+#5/5
 
 1252
 Human resources systems were consolidated and new corporate structures were quickly defined to ensure continued support to the enlarged customer base.
 လူ့စွမ်းအား အရင်းအမြစ် စနစ်များကို ပေါင်းစည်းခဲ့ပြီး ကျယ်ပြန့်လာသော ဖောက်သည်များကို အခြေခံပြီး ဆက်လက် အကူအညီပေးဖို့ သေချာစေရန် ပေါင်းစည်းထားသော ဖွဲ့စည်းတည်ဆောက်ပုံ အသစ်ကို လျင်မြန်စွာ သတ်မှတ်ခဲ့သည်။
+#5/5
 
 1253
 Although funding strategies can be improved, funding is available for this work.
-ရန်ပုံငွေဆိုင်ရာ မဟာဗျူဟာတွေ တိုးတက်နေပေမယ့်လည်း၊ ဒီလုပ်ငန်းအတွက် ရန်ပုံငွေ ရရှိနိုင်တယ်။
+ရန်ပုံငွေဆိုင်ရာ မဟာဗျူဟာတွေ ပိုတိုးတက်အောင်လုပ်နိုင်ပေမယ့်လည်း၊ ဒီလုပ်ငန်းအတွက် ရန်ပုံငွေ ရရှိနိုင်တယ်။
+#5/5
 
 1254
 The information security group conducts between 8 and 12 sessions a month.
 သတင်းအချက်အလက် လုံခြုံရေး အဖွဲ့သည် တစ်လလျှင် အစည်းအဝေး ၈ကြိမ်ကနေ ၁၂ကြိမ်အထိ ကျင်းပသည်။
+#5/5
 
 1255
 The statistics on rural routes presented in this paper are based on the 1989 National Mail Count data.c
 ဒီစာတမ်းတွင် ဖော်ပြထားသော ကျေးလက်ဒေသ လမ်းကြောင်းများဆိုင်ရာ အချက်အလက်များသည် ၁၉၈၉ National Mail Count data.cပေါ်တွင် အခြေခံထားပါသည်။
+#5/5
 
 1256
 Executives could also receive a rating of provisional or fail for each element.
 အလုပ်အမှုဆောင်အဖွဲ့များသည် အပိုင်း တစ်ခုချင်းစီအတွက် ယာယီ အဆင့်သတ်မှတ်ချက် တစ်ခု သို့မဟုတ် ပျက်ကွက်ကျရှူံးခြင်းကို လည်း လက်ခံရရှိနိုင်ပါသည်။
+#5/5
 
 1257
 However, preliminary engineering was accomplished earlier.
-သို့သော်၊ မူလ အင်ဂျင်နီယာပညာကို အစောပိုင်းက ပြီးမြောက်ခဲ့သည်။
+သို့သော်၊ မူလ အင်ဂျင်နီယာပညာ ကို အစောပိုင်းက ပြီးမြောက်ခဲ့သည်။
+#4/5
 
 1258
 In lieu of establishing either completely centralized or decentralized CIO organizations, leading organizations manage their information resources through a combination of such structures.
 ပြည့်စုံသော ဗဟိုအုပ်ချုပ်မှုဖြစ်ဖြစ် စီအိုင်အို အဖွဲ့အစည်းများကို လွဲပြောင်းပေးသည်ဖြစ်စေ lieu တည်ထောင်ခြင်းတွင်၊ ထိုကဲ့သို့သော တည်ဆောက်ပုံများကို ပေါင်းစပ်ခြင်း တစ်ခုမှ တဆင့် သူတို့၏ အချက်အလက် အရင်းအမြစ်များကို အဖွဲ့အစည်းများက ဦးဆောင် စီမံခန့်ခွဲပါသည်။
+#4/5
 
 1259
 Since Title 7 requires the validity of travel claims to be established prior to certification for payment, we believe that listing all expenses individually on the travel voucher helps satisfy this requirement.
 ခေါင်းစဉ် ၇ သည် ငွေပေးချေဖို့အတွက် ထောက်ခံချက်ရရန် ဦးစားပေး တည်ဆောက်ထားရန် ခရီးသွားတောင်းဆိုမှုများ၏ မှန်ကန်မှုကို လိုအပ်သောကြောင့်၊ ထိုလိုအပ်ချက်များကို ပြေလည်စေရန် ခရီးသွားဘောက်ချာတွင် ကုန်ကျစရိတ် အားလုံးကို တစ်ခုချင်းစီ စာရင်းပြုစုခြင်းက ကူညီပေးနိုင်သည်ဟု ငါတို့က ယုံကြည်ပါသည်။
+#5/5
 
 1260
 Our examination of the original studies used in this analysis finds that the health endpoints that are potentially affected by the GAM issues  reduced hospital admissions in both the Base and Alternative Estimates
-အဆိုပါ စိစစ်ချက်တွင် အသုံးပြုထားသော မူလလေ့လာမှုများ၏ စာမေးပွဲများသည် ဂျီအေအမ် ပြဿနာများကြောင့် ထိခိုက်နိုင်ချေရှိသော ကျန်းမာရေးဆိုင်ရာ အဆုံးအဖြတ်များက အခြေခံ နှင့် အလှည့်ကျဆိုင်ရာ ခန့်မှန်းချက် နှစ်ခုလုံးတွင် ဆေးရုံဝင်ခွင့်များကို လျော့နည်းစေကြောင်း တွေ့ရှိရပါသည်။
+အဆိုပါ စိစစ်ချက်တွင် အသုံးပြုထားသော မူလလေ့လာမှုများ၏ စာမေးပွဲများသည် GAM ပြဿနာများကြောင့် ထိခိုက်နိုင်ချေရှိသော ကျန်းမာရေးဆိုင်ရာ အဆုံးမှတ် နှင့် အလှည့်ကျဆိုင်ရာ ခန့်မှန်းချက် နှစ်ခုလုံးတွင် ဆေးရုံဝင်ခွင့်များကို လျော့နည်းစေကြောင်း တွေ့ရှိရပါသည်။
+#5/5
 
 1261
 Consequently, government decisionmakers and managers are adopting new ways of thinking, considering different ways of achieving goals, and using new information to guide decisions.
 အကျိုးဆက်အားဖြင့် ၊ အစိုးရ၏ ဆုံးဖြတ်ချက်ချသူများနှင့် စီမံခန့်ခွဲသူများသည် ဆန်းသစ်သော တွေးခေါ်နည်းများ ၊ အောင်မြင်မှု ပန်းတိုင်သို့ မတူညီသော စဉ်းစားပုံ နည်းလမ်းများ ၊ နှင့် ဆုံးဖြတ်ချက်များကို ဉီးဆောင်ရန် အချက်အလက် အသစ်များ အသုံးပြုခြင်းတို့ကို အတည်ပြုနေကြသည်။
+#5/5
 
 1262
 Case files may need to be translated for those clients who read a language other than English.
 အင်္ဂလိပ်မဟုတ်တဲ့ တခြားဘာသာစကားကို ဖတ်တဲ့ ဖောက်သည်တွေအတွက် ဖြစ်ရပ်မှန် ဖိုင်တွေကို ဘာသာပြန်ထားဖို့ လိုအပ်တယ်။
+#5/5
 
 1263
 This applies to both C-R relationships defined by a single C-R function and those defined by a pooling of multiple C-R functions.
-စီ-အာ ဖန်ရှင်တစ်ခုတည်းဖြင့် သတ်မှတ်ထားသော စီ-အာ ဆက်ဆံရေးနှင့် စီ-အာ ဖန်ရှင်များစွာကို ပေါင်းစည်းခြင်းဖြင့် သတ်မှတ်ထားသော စီ-အာ ဆက်ဆံရေး နှစ်ခုစလုံးကို သုံးထားပါသည်။
+C-R ဖန်ရှင်တစ်ခုတည်းဖြင့် သတ်မှတ်ထားသော C-R ဆက်ဆံရေးနှင့် C-R ဖန်ရှင်များစွာကို ပေါင်းစည်းခြင်းဖြင့် သတ်မှတ်ထားသော C-R ဆက်ဆံရေး နှစ်ခုစလုံးကို သုံးထားပါသည်။
+#5/5
 
 1264
 A subject that is discussed during the entry interview is the household's reaction to advertising mail.
 ဝင်ခွင့်အင်တာဗျူးအတွင်း ဆွေးနွေးရမယ့် ဘာသာရပ်ကတော့ ကြော်ငြာမေးလ်တွေအပေါ် အိမ်ထောင်စုတွေရဲ့ တုံ့ပြန်မှုဖြစ်တယ်။
+#5/5
 
 1265
 Other efforts currently under way or planned include the
 နည်းလမ်းအောက်က လက်ရှိ ကြိုးစားအားထုတ်မှု သို့မဟုတ် စီစဉ်ထားသည်များ ပါဝင်သည်။
+#5/5
 
 1266
 189 and the user costs are estimated in the same way.
 ၁၈၉နှင့် သုံးစွဲသူ ကုန်ကျစရိတ်များကို တူညီသော နည်းလမ်းအတိုင်း ခန့်မှန်းထားပါသည်။
+#5/5
 
 1267
 Include such factors as short time frames, the deletion of original computer files, and the lack of access to needed documents.
 အချိန်တို သတ်မှတ်ခြင်းများ၊ မူရင်းကွန်ပြူတာဖိုင်များကို ဖျက်ပစ်ခြင်းနှင့် လိုအပ်သောစာရွက်စာတမ်းများကို ဝင်ရောက်ခွင့် အားနည်းခြင်း စသည့်အချက်များ ပါဝင်သည်။
+#5/5
 
 1268
 Figure 4 shows the supply curve of workshare services.
-ရုပ်ပုံ ၄သည် ဝေါ့ရှဲ ဝန်ဆောင်မှု၏ ထောက်ပံ့မှု မျဉ်းကွေးကို ဖော်ပြထားည်။
+ရုပ်ပုံ ၄သည် Workshare ဝန်ဆောင်မှု၏ ထောက်ပံ့မှု မျဉ်းကွေးကို ဖော်ပြထားည်။
+#5/5
 
 1269
 For example, in GGD, a design study was done as a separate job, culminating
-ဥပမာအားဖြင့်၊ ဂျီဂျီဒီတွင် ဒီဇိုင်းလေ့လာမှုသည် သီးခြား အလုပ်တစ်ခုအဖြစ် အဆုံးစွန် လုပ်ဆောင်ခဲ့သည်။
+ဥပမာအားဖြင့်၊ GOD တွင် ဒီဇိုင်းလေ့လာမှုသည် သီးခြား အလုပ်တစ်ခုအဖြစ် အဆုံးစွန် လုပ်ဆောင်ခဲ့သည်။
+#5/5
 
 1270
 Then, the same representative who made the initial visit revisits the new provider to answer questions and discuss any problems noted in the claims sample.
 ထို့နောက်၊ ကနဦးလည်ပတ်မှုပြုလုပ်ခဲ့သော အဆိုပါ ကိုယ်စားလှယ်ကပင် မေးခွန်းများဖြေကြားရန်နှင့် တောင်းဆိုမှုနမူနာတွင် ဖော်ပြထားသည့် ပြဿနာများကို ဆွေးနွေးရန် ပံ့ပိုးပေးသူအသစ်ထံ သွားရောက်ကြည့်ရှုပါသည်။
+#5/5
 
 1271
 Not only does saving affect the stock of wealth, but wealth in turn influences the choice to save.
-စုဆောင်းခြင်းသည် ချမ်းသာကြွယ်ဝမှု လက်ကျန်ကို အကျိုးသက်ရောက်ရုံသာမက၊ ချမ်းသာကြွယ်ဝမှုသည် စုဆောင်းရန် ရွေးချယ်မှုကို လွှမ်းမိုးမှုအဖြစ် ပြောင်းလဲသွားသည်။
+စုဆောင်းခြင်းသည် ချမ်းသာကြွယ်ဝမှု လက်ကျန်ကို အကျိုးသက်ရောက်ရုံသာမက၊ ချမ်းသာကြွယ်ဝမှုသည် စုဆောင်းရန် ရွေးချယ်မှုကို လွှမ်းမိုးမှုအဖြစ် သက်ရောက်မှုရှိသည်။
+#4/5
 
 1272
 All nine responding agencies report participation in a
 တုံ့ပြန်သည့် အေဂျင်စီ ၉ခုစလုံးသည် ပူးပေါင်းပါဝင်သည်ကို အကြောင်းကြားသည်။
+#5/5
 
 1273
 Since 1996, households' wealthincome ratio has increased rapidly-peaking at 6.4 in 1999.
 ၁၉၉၆ခုနှစ်မှစပြီး၊ အိမ်ထောင်စုများ၏ ကြွယ်ဝမှု ဝင်ငွေ အချိုးသည် ၁၉၉၉ခုနှစ်တွင် ၆ ဒသမ ၄ အထိ လျှင်မြန်စွာ မြင့်တက်လာခဲ့သည်။
+#5/5
 
 1274
 For example, one organization that we studied had experienced two mergers that required the company to quickly integrate the new businesses and restructure to meet growing business needs.
 ဥပမာအားဖြင့်၊ ကျွန်ုပ်တို့လေ့လာခဲ့သည့် အဖွဲ့အစည်းတစ်ခုသည် လုပ်ငန်းအသစ်များကို လျင်မြန်စွာပေါင်းစပ်နိုင်ရန် ကုမ္ပဏီက လိုအပ်သည့် ပေါင်းစပ်မှုနှစ်ခုနှင့် တိုးပွားလာသောစီးပွားရေးလိုအပ်ချက်များကိုဖြည့်ဆည်းနိုင်ရန် ပြန်လည်ဖွဲ့စည်းခဲ့သည်ကို အတွေ့အကြုံရရှိခဲ့သည်။
+#5/5
 
 1275
 In the subclass approach, the basic and the workshare category are each given a percentage markup over cost, in order to obtain their average rate.
-subclass ချဉ်းကပ်နည်းတွင်၊ အခြေခံနှင့် ဝေါ့ရှဲအမျိုးအစားသည် ၎င်းတို့၏ ပျမ်းမျှနှုန်းထားကို ရရှိရန်အတွက် ကုန်ကျစရိတ်ပေါ်မှာ ရာခိုင်နှုန်းတစ်ခုစီကို သတ်မှတ်ပေးထားပါသည်။
+subclass ချဉ်းကပ်နည်းတွင်၊ အခြေခံနှင့် Workshare အမျိုးအစားသည် ၎င်းတို့၏ ပျမ်းမျှနှုန်းထားကို ရရှိရန်အတွက် ကုန်ကျစရိတ်ပေါ်မှာ ရာခိုင်နှုန်းတစ်ခုစီကို သတ်မှတ်ပေးထားပါသည်။
+#5/5
 
 1276
 It is the duty of a CIO to manage expectations and help ensure that all members of a CIO organization have a clear understanding of their responsibilities.
-စီအိုင်အို အဖွဲ့အစည်းတစ်ခု၏ အဖွဲ့ဝင်များအားလုံးသည် သူတို့၏တာဝန်များကို ရှင်းလင်းစွာ နားလည်သဘောပေါက်မှုရရှိစေရန်အတွက် ကူညီပေးရန်နှင့် မျှော်မှန်းထားသည်များကို စီမံခန့်ခွဲပေးရန်သည် စီအိုင်အိုတစ်ယောက်၏ တာဝန်ဖြစ်ပါသည်။
+စီအိုင်အို အဖွဲ့အစည်းတစ်ခု၏ အဖွဲ့ဝင်များအားလုံးသည် သူတို့၏တာဝန်များကို ရှင်းလင်းစွာ နားလည်သဘောပေါက်မှုရရှိစေရန်အတွက် ကူညီပေးရန်နှင့် မျှော်မှန်းထားသည်များကို စီမံခန့်ခွဲပေးရန်သည် စီအိုင်အို တစ်ယောက်၏ တာဝန်ဖြစ်ပါသည်။
+#5/5
 
 1277
 the design, we were concerned that payment would be authorized before verifying that the travel actually took place.
 အဆိုပါ ဒီဇိုင်း သည် ၊ အမှန်တကယ် ခရီးသွားဖြစ်ခဲ့ကြောင်း မစစ်ဆေးမီ ငွေပေးချေမှုကို တရားဝင်ခွင့်ပြုလိုက်မည်ကို ကျွန်ုပ်တို့ စိုးရိမ်ပူပန်ခဲ့ရပါသည်။
+#5/5
 
 1278
 19 Assuming four months of work prior to contract award, a total elapsed time of 13 months would have been necessary to retrofit this 675 MWe boiler.
-၁၉ ကြိုတင် စာချုပ်ချုပ်ဆိုရန် အလုပ်ချိန် လေးလကြာမည်ဟု ယူဆပါက ၊ ဤ ၆၇၅ အမ်ဒဗလျူအီး ဘွိုင်လာကို ပြန်လည်ပြင်ဆင်ရန် စုစုပေါင်း ကြာမြင့်ချိန် ၁၃ လ လိုအပ်မည်ဖြစ်ပါသည်။
+၁၉ ကြိုတင် စာချုပ်ချုပ်ဆိုရန် အလုပ်ချိန် လေးလကြာမည်ဟု ယူဆပါက ၊ ဤ ၆၇၅ MWE boiler ကို ပြန်လည်ပြင်ဆင်ရန် စုစုပေါင်း ကြာမြင့်ချိန် ၁၃ လ လိုအပ်မည်ဖြစ်ပါသည်။
+#5/5
 
 1279
 Technology is highly integrated with the business processes in these organizations because technology is viewed as an enabler for the business, not just a tool.
 နည်းပညာသည် ကိရိယာတစ်ခုမျှသာမဟုတ်ဘဲ၊ စီးပွားရေးလုပ်ငန်းအတွက် အထောက်အကူတစ်ခုအဖြစ် ရှုမြင်သောကြောင့် နည်းပညာကို ဤအဖွဲ့အစည်းများတွင် စီးပွားရေးလုပ်ငန်းစဉ်များနှင့် မြင့်မားစွာပေါင်းစပ်ထားပါသည်။
+#5/5
 
 1280
 However, the SAB, supported by recent literature addressing this issue (Rossi et al.
-သို့သော်လည်း၊ အက်စ်အေဘီသည်၊ ဤပြဿနာ(Rossi et alကို မကြာသေးခင်က ဖြေရှင်းထားသည့် စာပေများဖြင့် ပံ့ပိုးပေးထားခဲ့သည်။  
+သို့သော်လည်း၊ SAN သည်၊ ဤပြဿနာ(Rossi et alကို မကြာသေးခင်က ဖြေရှင်းထားသည့် စာပေများဖြင့် ပံ့ပိုးပေးထားခဲ့သည်။  
+#5/5
 
 1281
 As a simple example, suppose the cost of worksharing is 10a and the cost of basic mail is 16a.
-ရိုးရှင်းတဲ့ ဥပမာ တစ်ခုအနေနဲ့၊ အလုပ်ခွဲဝေမှုရဲ့ ကုန်ကျစရိတ်က ၁၀အေ ပြီးတော့ အခြေခံ မေးလ်ရဲ့ ကုန်ကျစရိတ်က ၁၆အေ လို့ ထားပါတော့။
+ရိုးရှင်းတဲ့ ဥပမာ တစ်ခုအနေနဲ့၊ အလုပ်ခွဲဝေမှုရဲ့ ကုန်ကျစရိတ်က 10a ပြီးတော့ အခြေခံ မေးလ်ရဲ့ ကုန်ကျစရိတ်က 16a လို့ ထားပါတော့။
+#5/5
 
 1282
 The shortage of skilled IT workers in the current market environment is often a major reason for leading organizations to outsource.
-လက်ရှိဈေးကွက်ပတ်ဝန်းကျင်တွင် ကျွမ်းကျင် အိုင်တီ အလုပ်သမားများ ရှားပါးခြင်းသည် မကြာခဏဆိုသလို အဖွဲ့အစည်းများကို ပြင်ပအရင်းအမြစ်အဖြစ် ဦးဆောင်ရန်အတွက် အဓိကအကြောင်းရင်းတစ်ခုဖြစ်သည်။
+လက်ရှိဈေးကွက်ပတ်ဝန်းကျင်တွင် ကျွမ်းကျင် အိုင်တီ အလုပ်သမားများ ရှားပါးခြင်းသည် မကြာခဏဆိုသလို အဖွဲ့အစည်းများကို ပြင်ပအရင်းအမြစ်အသုံးချရန် အဓိကအကြောင်းရင်းတစ်ခုဖြစ်သည်။
+#4/5
 
 1283
 Two concepts that appear often in the literature may be useful in informing future research.
 စာပေတွင် မကြာခဏ တွေ့ရလေ့ရှိသော အယူအဆ နှစ်ခုက နောက်နောင် သုတေသနပြုတဲ့နေရာမှာ အသုံးဝင်နိုင်တယ်။
+#5/5
 
 1284
 It is not possible to know the extent or direction of the bias in the total incidence change based on the general application of a single C-R function everywhere.
-နေရာတိုင်းတွင် စီ-အာ ဖန်ရှင်တစ်ခုတည်း၏ ယေဘုယျအသုံးချမှုအပေါ် အခြေခံ၍ စုစုပေါင်း ဖြစ်ပွားမှုပမာဏ ပြောင်းလဲမှုတွင် ဘက်လိုက်မှု၏ဦးတည်ရာလမ်းကြောင်း သို့မဟုတ် ပမာဏကို သိရှိရန် မဖြစ်နိုင်ပါ။
+နေရာတိုင်းတွင် C-R ဖန်ရှင်တစ်ခုတည်း၏ ယေဘုယျအသုံးချမှုအပေါ် အခြေခံ၍ စုစုပေါင်း ဖြစ်ပွားမှုပမာဏ ပြောင်းလဲမှုတွင် ဘက်လိုက်မှု၏ဦးတည်ရာလမ်းကြောင်း သို့မဟုတ် ပမာဏကို သိရှိရန် မဖြစ်နိုင်ပါ။
+#5/5
 
 1285
 The lines composed of boxes show the welfare level of all mailers combined and the lines composed of diamonds show the technical losses (if negative) of shifting the work to another party.
 သေတ္တာများဖြင့် ဖွဲ့စည်းထားသည့် လိုင်းများသည် ပေါင်းစပ်ထားသော စာပို့သူအားလုံး၏ လူမှုဖူလုံရေးအဆင့်ကို ပြသပြီး စိန်များဖြင့် ဖွဲ့စည်းထားသော လိုင်းများသည် အခြားပါတီသို့ အလုပ်ပြောင်းခြင်း၏ နည်းပညာဆိုင်ရာ ဆုံးရှုံးမှုများကို (အနုတ်လက္ခဏာဖြစ်လျှင်) ပြသသည်။
+#5/5
 
 1286
 Based on this risk assessment, Centrelink developed a range of specific prevention strategies aimed at educating beneficiaries and employers on income reporting requirements.
-ဤအန္တရာယ်အကဲဖြတ်မှုအပေါ်အခြေခံ၍၊ စန်တာလင့်ဒ်သည် ဝင်ငွေအစီရင်ခံခြင်းဆိုင်ရာ လိုအပ်ချက်များအပေါ် အလုပ်သမားများနှင့် ပညာရေးပိုင်းဆိုင်ရာ အကျိုးခံစားခွင့်ရှိသူများအတွက် ရည်ရွယ်ထားသည့် တိတိကျကျသတ်မှတ်ထားသော ကာကွယ်တားဆီးခြင်းမဟာဗျူဟာများကို တီထွင်ခဲ့သည်။
+ဤအန္တရာယ်အကဲဖြတ်မှုအပေါ်အခြေခံ၍၊ Centrelink သည် ဝင်ငွေအစီရင်ခံခြင်းဆိုင်ရာ လိုအပ်ချက်များအပေါ် အလုပ်သမားများနှင့် ပညာရေးပိုင်းဆိုင်ရာ အကျိုးခံစားခွင့်ရှိသူများအတွက် ရည်ရွယ်ထားသည့် တိတိကျကျသတ်မှတ်ထားသော ကာကွယ်တားဆီးခြင်းမဟာဗျူဟာများကို တီထွင်ခဲ့သည်။
+#5/5
 
 1287
 This allowed demonstrations of the design before the companies made more costly investments in manufacturing equipment and tooling to build production representative prototypes for the demonstration phase.
 လက်တွေ့လုပ်ပြခြင်းအဆင့်အတွက် ထုတ်လုပ်မှုကိုယ်စားလှယ် ရှေးဦးမူလပုံစံများကို တည်ဆောက်ရန်အတွက် ကုမ္ပဏီများသည် ကိရိယာများထုတ်လုပ်မှုတွင် ကုန်ကျစရိတ်များသော ရင်းနှီးမြှုပ်နှံမှုများကို မပြုလုပ်မီ ဒီဇိုင်း၏ သရုပ်ပြသင်ကြားခြင်းများကို ခွင့်ပြုခဲ့သည်။
+#5/5
 
 1288
 The technical cost effects, due to the work being done by a party that may do it at a higher cost, are also calculated in the same way as before.
 ပါတီ တစ်ခု က ပိုမိုမြင့်မားသော ကုန်ကျစရိတ် တစ်ခု ဖြင့် ထိုအရာကို ပြုလုပ်ခဲ့သည့် အလုပ်ကြောင့် ၊ နည်းပညာပိုင်းဆိုင်ရာ ကုန်ကျစရိတ် အကျိုးသက်ရောက်မှုသည် ၊ အရင်တုန်းကလို တူညီသောနည်းလမ်းနှင့် လည်း တွက်ချက်ခဲ့ပါသည်။
+#5/5
 
 1289
 To do otherwise would send a troubling message to GAO's employees, the press, and the public.
-ဒီလိုမှ မဟုတ်ရင် ဂျီအေအိုရဲ့ အလုပ်သမားများ ၊ စာနယ်ဇင်းများ နှင့် အများပြည်သူဆီကို စိတ်အနှောင့်အယှက်ဖြစ်စေမယ့် မက်ဆေ့ချ် တစ်ခု ပို့လိမ့်မယ်။
+ဒီလိုမှ မဟုတ်ရင် GAO ရဲ့ အလုပ်သမားများ ၊ စာနယ်ဇင်းများ နှင့် အများပြည်သူဆီကို စိတ်အနှောင့်အယှက်ဖြစ်စေမယ့် မက်ဆေ့ချ် တစ်ခု ပို့လိမ့်မယ်။
+#5/5
 
 1290
 Practice 4: Manage Risk on a Continuing Basis
 လက်တွေ့ ၄။ ဆက်လက်ဖြစ်ပွားနေသော အခြေခံအကြောင်းရင်း တစ်ခု ပေါ်တွင် အခက်အခဲကို စီမံခန့်ခွဲပါ။
+#5/5
 
 1291
 South Carolina's collaborative efforts produced another success the following year.
-တောင် ကာရိုလိုင်းနား၏ ပူးပေါင်း ကြိုးစားအားထုတ်မှုသည် နောက်နှစ်တွင် နောက်ထပ် အောင်မြင်မှုကို ထပ်မံရရှိခဲ့သည်။
+တောင် ကာရိုလိုင်းနား ၏ ပူးပေါင်း ကြိုးစားအားထုတ်မှုသည် နောက်နှစ်တွင် နောက်ထပ် အောင်မြင်မှုကို ထပ်မံရရှိခဲ့သည်။
+#5/5
 
 1292
 A county employee will be on hand to assist litigants with their research as well.
 ခရိုင် ဝန်ထမ်း တစ်ဦးသည် တရားလိုများကို ၎င်းတို့၏ သုတေသနပြုရာတွင်လည်း ကူညီပေးလိမ့်မည်။
+#5/5
 
 1293
 , the Regional Haze RIA and the NOx SIP Call RIA), the low-end estimate of benefits assumed a threshold in PM health effects at 15 :g/m3.
-the Regional Haze RIA and the NOx SIP Call RIA)၊ အကျိုးအမြတ်၏ အနိမ့်ဆုံး ခန့်မှန်းချက်သည် ပီအမ် ကျန်းမာရေး အကျိုးသက်ရောက်မှုများကို ၁၅ :ဂျီ/အမ်၃ တွင် အကန့်အသတ်တစ်ခုဟု ယူဆပါသည်။
+the Regional Haze RIA and the NOx SIP Call RIA)၊ အကျိုးအမြတ်၏ အနိမ့်ဆုံး ခန့်မှန်းချက်သည် PM ကျန်းမာရေး အကျိုးသက်ရောက်မှုများကို 15 : g/m3 တွင် အကန့်အသတ်တစ်ခုဟု ယူဆပါသည်။
+#5/5
 
 1294
 Some facility owners have been innovative in their construction plans to minimize down time.
 တချို့သော အဆောက်အအုံပိုင်ရှင်တွေဟာ အချိန်ကုန်သက်သာစေဖို့ သူတို့ရဲ့ ဆောက်လုပ်ရေး အစီအစဉ်တွေကို ဆန်းသစ်တီထွင်ခဲ့ကြတယ်။
+#5/5
+
 
 1295
 The CIO and decision-making authorities decide what type of work is appropriate to outsource and what type of work is best performed internally.
-စီအိုင်အိုနှင့် ဆုံးဖြတ်ချက်ချသော အာဏာပိုင်များသည် မည်သည့်အလုပ်အမျိုးအစားကို ပြင်ပအရင်းအမြစ်အနေနဲ့ သင့်လျော်ကြောင်းနှင့် မည်သည့်အလုပ်အမျိုးအစားသည် အတွင်းပိုင်းတွင် အကောင်းဆုံးလုပ်ဆောင်နိုင်သည်ကို ဆုံးဖြတ်သည်။
+စီအိုင်အို နှင့် ဆုံးဖြတ်ချက်ချသော အာဏာပိုင်များသည် မည်သည့်အလုပ်အမျိုးအစားကို ပြင်ပအရင်းအမြစ်အနေနဲ့ သင့်လျော်ကြောင်းနှင့် မည်သည့်အလုပ်အမျိုးအစားသည် အတွင်းပိုင်းတွင် အကောင်းဆုံးလုပ်ဆောင်နိုင်သည်ကို ဆုံးဖြတ်သည်။
+#5/5
 
 1296
 According to a Board official, the Board's section 605(b) certifications were not provided separately to the Small Business Administration (SBA) Chief Counsel for Advocacy.
-ဘုတ်အဖွဲ့မှ အမှုဆောင်တစ်ဦး၏ ပြောကြားချက်အရ၊ ဘုတ်အဖွဲ့၏ ပုဒ်မ ၆၀၅(ခ) အသိအမှတ်ပြုလက်မှတ်များကို တရားရုံးရှေ့နေရာထူးအတွက် အသေးစားစီးပွားရေးလုပ်ငန်း စီမံခန့်ခွဲရေး (အက်စ်ဘီအေ) ရှေ့နေချုပ် အကြံပေးအရာရှိထံ သီးခြားပေးအပ်ထားခြင်း မရှိပါ။
+ဘုတ်အဖွဲ့မှ အမှုဆောင်တစ်ဦး၏ ပြောကြားချက်အရ၊ ဘုတ်အဖွဲ့၏ ပုဒ်မ 605(b) အသိအမှတ်ပြုလက်မှတ်များကို တရားရုံးရှေ့နေရာထူးအတွက် အသေးစားစီးပွားရေးလုပ်ငန်း စီမံခန့်ခွဲရေး (SBA) ရှေ့နေချုပ် အကြံပေးအရာရှိထံ သီးခြားပေးအပ်ထားခြင်း မရှိပါ။
+#5/5
 
 1297
 In addition, program personnel conduct various workshops for and make educational materials available to new providers.
 ထို့အပြင်၊ ပရိုဂရမ်ဝန်ထမ်းများသည် အမျိုးမျိုးသော အလုပ်ရုံများကို ဦးစီးရှေ့ဆောင်ပြီး ပံ့ပိုးသူအသစ်များအတွက် ပညာရေးဆိုင်ရာပစ္စည်းများကို ရရှိစေရန် ဆောင်ရွက်ပေးပါသည်။
+#5/5
 
 1298
 When a match occurs for hotel and certain other charges, a verification of the actual trip would be made.
 ဟိုတယ်နဲ့ အခြားသော အဖိုးအခတွေ သေချာကိုက်ညီမှုကို တွေ့ရှိရတဲ့အခါ၊ အမှန်တကယ် ခရီးစဉ်ရဲ့ အတည်ပြုခြင်း တစ်ခုကို လုပ်ဆောင်ပေးလိမ့်မယ်။
+#5/5
 
 1299
 49 A wage premium allows cream skimmers to obtain an efficiency/cost advantage simply by paying the prevailing wage.
-၄၉ အာမခံသွင်းထားတဲ့ လုပ်အားခသည် ခရင်မ် စကင်မာတွေကို လက်ရှိ လုပ်အားခကို ပေးခြင်းအားဖြင့် ကုန်ကျစရိတ် သက်သာစေဖို့ /အချိန်တိုတိုနဲ့ အကျိုးများစွာ ရရှိဖို့ကို ခွင့်ပြုပေးတယ်။
+49 အာမခံသွင်းထားတဲ့ လုပ်အားခသည် cream skimmers တွေကို လက်ရှိ လုပ်အားခကို ပေးခြင်းအားဖြင့် ကုန်ကျစရိတ် သက်သာစေဖို့ /အချိန်တိုတိုနဲ့ အကျိုးများစွာ ရရှိဖို့ကို ခွင့်ပြုပေးတယ်။
+#5/5
 
 1300
 For example, employees could be required to use the agencydesignated charge card for hotel and certain other costs.
 ဥပမာအားဖြင့်၊ အလုပ်သမားများသည် ဟိုတယ်နှင့် အခြားသော ကုန်ကျစရိတ်များအတွက် အေဂျင်စီမှ သတ်မှတ်ထားသော အခကြေးငွေကတ်ကို အသုံးပြုပေးရန် လိုအပ်ပါသည်။
+#5/5

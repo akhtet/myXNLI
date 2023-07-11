@@ -1,450 +1,499 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 3601
 I think I preferred outdoor dogs like the Cocker Spaniel I used to have.
 ငါ့မှာရှိခဲ့ဖူးတဲ့ နားရွက်ဖား ခွေးစုတ်ဖွားလိုမျိုး ပြင်ပခွေးတွေကို ငါ ပိုသဘောကျမယ်လို့ ငါထင်တယ်။
+5/5
 
 3602
 The background check cannot get done that quickly.
-နောက်ခံစစ်ဆေးမှုကို မြန်မြန် လုပ်လို့ မရနိုင်ဘူး။
+နောက် ေကြာင်းရာဇဝင် စစ်ဆေးမှုကို အဲဒီေလာက် မြန်မြန် လုပ်လို့ မရနိုင်ဘူး။
+5/5
 
 3603
 The background check will take over a month.
-နောက်ခံစစ်ဆေးမှုသည် တစ်လကျော် ကြာလိမ့်မည်။
+နောက် ေကြာင်းရာဇဝင် စစ်ဆေးမှုသည် တစ်လကျော် ကြာလိမ့်မည်။
+5/5
 
 3604
 They will supposedly do a background check over the next seven days.
-သူတို့သည် နောက် ခုနစ်ရက်ကျော်ကြာ နောက်ခံစစ်ဆေးမှုတစ်ခု လုပ်မည်ဟု ယူဆရသည်။
+သူတို့သည် နောက် ခုနစ်ရက်ကြာ အတွင်း နောက် ေကြာင်းရာဇဝင် စစ်ဆေးမှုတစ်ခု လုပ်မည်ဟု ယူဆရသည်။
+5/5
 
 3605
 Flying would be a lot safer to get there.
-ပျံသန်းခြင်းက အဲဒီကိုရောက်ဖို့ ပိုလုံခြုံလိမ့်မယ်။
+ေလယာဥ်စီးသွားတာက အဲဒီကိုရောက်ဖို့ ပို ေဘးကင်းလုံခြုံလိမ့်မယ်။
+5/5
 
 3606
 I can't wait to get off the plane and enjoy myself once we get there.
-ငါတို့ အဲဒီကိုရောက်တာနဲ့ ချက်ချင်း ကိုယ့်ဟာကို ပျော်ရွှင်ဖို့ ငါတော့ လေယာဉ်ပေါ်ကဆင်းဖို့ မစောင့်နိုင်တော့ဘူး။
+ငါတို့ အဲဒီကိုရောက်တာနဲ့ချက်ချင်း ငါပျော်ရွှင်ဖို့ ငါတော့ လေယာဉ်ပေါ်ကဆင်းဖို့ မစောင့်နိုင်တော့ဘူး။
+4/5
 
 3607
 I would never fly.
-ငါဘယ်တော့မှ ထွက်မပြေးဘူး။
+ငါဘယ်တော့မှ ေလ ယာဥ်မစီးဘူးး။
+5/5
 
 3608
 I was wrong that juries are always twelve people.
-တရားသူကြီးတွေအဖွဲ့က အမြဲတမ်း လူဆယ့်နှစ်ယောက်ရှိတယ်လို့ထင်တာ ငါမှားခဲ့တယ်။
+ဂျူရီလူကြီးအဖွဲ့က အမြဲတမ်း လူဆယ့်နှစ်ယောက်ရှိတယ်လို့ထင်တာ ငါမှားခဲ့တယ်။
+5/5
 
 3609
 The jury is always 13 people.
-တရားသူကြီးအဖွဲ့က အမြဲတမ်း ၁၃ ယောက်ရှိတယ်။
+ဂျူရီလူကြီးအဖွဲ့က အမြဲတမ်း ၁၃ ယောက်ရှိတယ်။
+5/5
 
 3610
 They can pick however many people they want on the jury.
-သို့သော်လည်း တရားသူကြီးအဖွဲ့မှာ သူတို့ လိုချင်တဲ့ လူများစွာကို သူတို့ ရွေးချယ်နိုင်တယ်။
+သူတို့ လိုချင်တဲ့လူ ဘယ် ေလာက်များများဖြစ်ဖြစ် ဂျူရီလူကြီးအဖွဲ့မှာ သူတို့ ရွေးချယ် ထည့်သွင်းနိုင်တယ်။
+5/5
 
 3611
 Grand Rapids is a beautiful place.
-ဂရမ့်ရပ်ပစ်စ် သည် လှပသောနေရာတစ်ခုဖြစ်သည်။
+Grand Rapids သည် လှပသောနေရာတစ်ခုဖြစ်သည်။
+5/5
 
 3612
 We don't have a son.
 ငါတို့မှာ သားတစ်ယောက် မရှိဘူး။
+5/5
 
 3613
 We went to Grand Rapids to see our son graduate.
-ငါတို့သား ဘွဲ့ရတာကိုကြည့်ဖို့ ဂရမ့်ရပ်ပစ်စ်ကို ငါတို့ သွားခဲ့ကြတယ်။
+ငါတို့သား ဘွဲ့ရတာကိုကြည့်ဖို့ Grand Rapids ကို ငါတို့ သွားခဲ့ကြတယ်။
+5/5
 
 3614
 She didn't care at all about credit unions.
 သူမသည် အကျိုးအမြတ်မယူတဲ့ ငွေကြေးအဖွဲ့အစည်းများကို လုံးဝဂရုမစိုက်ဘူး။
+2/5
 
 3615
 She was interested in credit unions.
 သူမသည် အကျိုးအမြတ်မယူတဲ့ ငွေကြေးအဖွဲ့အစည်းများကို စိတ်ဝင်စားခဲ့သည်။
+2/5
 
 3616
 She was interested in learning more about how credit unions made their money.
-သူမသည် အကျိုးအမြတ်မယူတဲ့ ငွေကြေးအဖွဲ့အစည်းများက သူတို့၏ငွေကို မည်သို့ပြုလုပ်သည်ကို ပိုမိုသင်ယူလေ့လာရန် စိတ်ဝင်စားသည်။
+သူမသည် အကျိုးအမြတ်မယူတဲ့ ငွေကြေးအဖွဲ့အစည်းများက မည်သည့်နည်းဖြင့် ဝင် ေငွရသည်ကို မည်သို့ပြုလုပ်သည်ကို ပိုမိုသင်ယူလေ့လာရန် စိတ်ဝင်စားသည်။
+3/5
 
 3617
 All I see are people sitting and talking about their problems.
-ငါတွေ့သမျှ လူတွေက သူတို့ရဲ့ ပြဿနာတွေကို ထိုင်ပြီးပြောနေကြတယ်။
+ငါတွေ့တာက ေတာ့ လူတွေက သူတို့ရဲ့ ပြဿနာတွေကို ထိုင်ပြီးပြောနေကြ တာပဲေတွ့တယ်။
+5/5
 
 3618
 Only a few people will actually talk about issues they are having.
-လူအနည်းစုကသာ သူတို့မှာရှိတဲ့ အကြောင်းကိစ္စတွေအကြောင်း အမှန်တကယ် ပြောပြတယ်။
+လူအနည်းစုကသာ သူတို့မှာဖြစ် ေနတဲ့ ပြဿနာတွေအကြောင်း အမှန်တကယ် ပြောပြတယ်။
+5/5
 
 3619
 People never seem to just sit and talk about their problems and worries.
 လူတွေဟာ သူတို့ရဲ့ ပြဿနာတွေနဲ့ စိုးရိမ်ပူပန်မှုတွေကို ထိုင်ပြီး ပြောနေပုံမရဘူး။
+5/5
 
 3620
 Did you attend the camp about wilderness?
-မင်း ကန္တာရတွေထဲမှာ  အပျော်စခန်းကို သွားခဲ့ဖူးလား။
+မင်း ကန္တာရတွေထဲမှာ  အပျော်စခန်းကို သွားခဲ့တာလား?
+3/5
 
 3621
 Did you go to the indoor camp?
-မင်း မိုးလုံလေလုံ အပျော်စခန်းကို သွားဖူးလား။
+မင်း မိုးလုံလေလုံ အပျော်စခန်းကို သွားခဲ့လား။
+4/5
 
 3622
 I thought you went to the camp.
 မင်း အပျော်စခန်းကို သွားခဲ့တယ်လို့ ငါ ထင်ခဲ့တယ်။
+4/5
 
 3623
 It is slowly getting worse.
 အဲဒါက တဖြည်းဖြည်း ပိုဆိုးလာနေတယ်။
+5/5
 
 3624
 It seems to be getting worse.
 အဲဒါက ပိုဆိုးလာနေပုံရတယ်။
+5/5
 
 3625
 It's getting better.
-အဲဒါက ပိုကောင်းလာပြီ။
+အဲဒါက ပိုကောင်းလာတယ်။
+5/5
 
 3626
 How are you Mary?
-မေရီ မင်း နေကောင်းလား
+မေရီ မင်း နေကောင်းလား?
+5/5
 
 3627
 How is your day going?
-မင်းရဲ့တစ်နေ့တာက ဘယ်လိုနေလဲ။
+မင်းရဲ့တစ်နေ့တာက ဘယ်လိုနေလဲ?
+5/5
 
 3628
 Plano, Texas is an awesome place.
 ဖလေ့နို၊ တက္ကဆက် သည် ခမ်းနားသော နေရာတစ်ခုဖြစ်သည်။
+4/5
 
 3629
 Chaos is all you get from it.
-အဲဒါကနေ မင်း ရသမျှအားလုံးက ပရမ်းပတာဖြစ်တယ်။
+အဲဒါကနေ မင်း ရသမျှက ပရမ်းပတာ သာဖြစ်တယ်။
+4/5
 
 3630
 It is very calm and doesn't cause any problems.
-အဲဒါက အလွန်အေးဆေးပြီး ဘာပြဿနာတွေမှ မဖြစ်ဘူး။
+အဲဒါက အလွန်အေးဆေးပြီး ဘာပြဿနာတွေမှ မဖြစ် ေစဘူး။
+4/5
 
 3631
 Some people like the chaos it creates.
-လူတချို့က အဲဒါကို ဖန်တီးထားတဲ့ ပရမ်းပတာတွေကို ကြိုက်တယ်။
+လူတချို့က အဲဒါက ဖန်တီးထားေပးတဲ့ ပရမ်းပတာတွေကို ကြိုက်တယ်။
+4/5
 
 3632
 I have already seen Darkman about 4 times.
-ငါ ဒါ့ခ်မန်းန် ကို လေး ကြိမ်လောက်ကြည့်ဖူးတယ်။
+ငါ Darkman ကို လေး ကြိမ်လောက်ကြည့်ပြီးပြီ။
+5/5
 
 3633
 I haven't seen Darkman yet so I decided to get it to watch tonight.
-ဒါ့ခ်မန်းန် ကို ငါ မကြည့်ရသေးတဲ့အတွက် ဒီညကြည့်ဖို့ ငါ ဆုံးဖြတ်လိုက်တယ်။
+Darkman ကို ငါ မကြည့်ရသေးတဲ့အတွက် ဒီညကြည့်ဖို့ ငါ ဆုံးဖြတ်လိုက်တယ်။
+4/5
 
 3634
 I heard that Darkman was a good movie.
-ဒါ့ခ်မန်းန် က ဇာတ်ကားကောင်းတစ်ကားဖြစ်တယ်လို့ ငါ ကြားတယ်။
+Darkman က ဇာတ်ကားကောင်းတစ်ကားဖြစ်တယ်လို့ ငါ ကြားခဲ့တယ်။
+5/5
 
 3635
 I have been reading since I can remember.
-ငါမှတ်မိနိုင်ကတည်းက ငါ ဖတ်ပြီးပြီ။
+ငါမှတ်မိနိုင်တဲ့အရွယ်ကတည်းက ငါ ဖတ်ပြီးပြီ။
+4/5
 
 3636
 I was an English major so I like reading.
 ငါက အင်္ဂလိပ်စာအဓိကဆိုတော့ ငါက စာဖတ်ရတာ ကြိုက်တယ်။
+5/5
 
 3637
 I was an English major that led me to poverty which is why I cannot stand to touch a single novel.
-လုံးချင်း ဝတ္ထုတစ်ပုဒ်ကို ထိဖို့ ငါ ဘာ့ကြောင့် သည်းမခံနိုင်လဲဆို ငါ့ကို ဆင်းရဲတွင်းသို့ ပို့ဆောင်ပေးသည်မှာ ငါက အင်္ဂလိပ်စာအဓိကမို့ ဖြစ်တယ်။
+လုံးချင်း ဝတ္ထုတစ်ပုဒ်ကို ထိဖို့ ငါ ဘာ့ကြောင့် သည်းမခံနိုင်လဲဆို ငါ့ကို ဆင်းရဲတွင်းကို ပို့ခဲ့တာ ငါက အင်္ဂလိပ်စာအဓိကမို့ ဖြစ်တယ်။
+5/5
 
 3638
 He stole the parrot.
 သူ ကြက်တူရွေးကို ခိုးခဲ့တယ်။
+5/5
 
 3639
 I could not believe he paid $1800 for a parrot.
 ကြက်တူရွေးတစ်ကောင်အတွက် သူက ဒေါ်လာ ၁၈၀၀ ပေးခဲ့တာကို ငါ မယုံနိုင်ဘူး။
+5/5
 
 3640
 The parrot was beautiful with multiple colors.
 ကြက်တူရွေးက အရောင်မျိုးစုံနဲ့ လှပတယ်။
+5/5
 
 3641
 Having a yard is not all fun and games but I do enjoy it.
-ခြံတစ်ခြံရှိခြင်းသည် ပျော်စရာကောင်းပြီး ကစားနည်းတွေ လုံးဝ မဟုတ်ပေမဲ့ ငါက အဲဒါတွေနဲ့ ပျော်တယ်။
+ခြံတစ်ခြံရှိခြင်းသည် ပျော်စရာကောင်း လုံးဝ မဟုတ်ပေမဲ့ ငါက အဲဒါတွေနဲ့ ပျော်တယ်။
+4/5
 
 3642
 I do not wish to lose it but that is what could happen when you own a yard.
 ငါက ဒါကို ဆုံးရှုံးဖို့ မဆုတောင်းပေမဲ့ ဒါက မင်းခြံတစ်ခြံပိုင်ဆိုင်ရင် ဘာဖြစ်နိုင်မလဲဆိုတာ ဖြစ်တယ်။
+4/5
 
 3643
 When you own your own piece of land you have nothing to lose anymore.
 မင်းကိုယ်ပိုင်မြေကွက်ကို မင်းပိုင်ရင် မင်း ဘာမှ ထပ်ပြီး ဆုံးရှုံးစရာ မရှိတော့ဘူး။
+5/5
 
 3644
 After they tell you what to do, you go ahead and do it yourself.
-မင်းဘာလုပ်ရမယ်ဆိုတာ သူတို့ပြောပြီးတဲ့နောက် ၊ အဲဒါကို မင်းကိုယ်တိုင် သွားပြီးလုပ်ပါ။
+မင်းဘာလုပ်ရမယ်ဆိုတာ သူတို့ပြောပြီးသွားရင် ၊ အဲဒါကို မင်းကိုယ်တိုင် သွားပြီးလုပ်ပါ။
+5/5
 
 3645
 They don't tell you how to do it at all.
 မင်း အဲဒါတွေကို ဘယ်လိုလုပ်ရမယ်ဆိုတာ သူတို့ လုံးဝမပြောပြဘူး။
+5/5
 
 3646
 They give decent instructions on how to go about it.
 အဲဒါကို ဘယ်လိုလုပ်မလဲဆိုတာကို သူတို့က သင့်တင့်လျောက်ပတ်သော လမ်းညွှန်ချက်များ ပေးခဲ့သည်။
+5/5
 
 3647
 Minorities may have the upper advantage in this case.
-လူနည်းစုများသည် ဒီကိစ္စမှာ အကျိုးကျေးဇူး ရှိကောင်းရှိသည်။
+လူနည်းစုများသည် ဒီကိစ္စမှာ အသာစီးရတဲ့ အားသာချက် ရှိကောင်းရှိလိမ့်မည်။
+5/5
 
 3648
 Unfortunately, you are stuck being a minority.
 ကံမကောင်းစွာပဲ၊ မင်းသည် လူနည်းစုတစ်ယောက်ဖြစ်ခြင်းမှာ ပိတ်မိနေသည်။
+4/5
 
 3649
 You are not a minority.
 မင်းဟာ လူနည်းစုတစ်ယောက်မဟုတ်ဘူး။
+5/5
 
 3650
 I like the coverage it has because I never have time to sit and read the paper.
 ငါ့မှာ စာတမ်းကို ထိုင်ပြီးဖတ်ဖို့ ဘယ်တော့မှ အချိန်မရှိလို့ အဲဒါမှာပါတဲ့ လွှမ်းခြုံမှုကို ကြိုက်တယ်။
+5/5
 
 3651
 I take at least an hour a day to read the paper just so I dont have to watch it.
-စာတမ်းကိုဖတ်ဖို့ တစ်ရက်ကို အနည်းဆုံး တစ်နာရီလောက် ငါ အချိန်ယူရတယ်ဆိုတော့ အဲဒါကို ငါ ကြည့်စရာမလိုတော့ဘူး။
+သတင်းစာကိုဖတ်ဖို့ တစ်ရက်ကို အနည်းဆုံး တစ်နာရီလောက် ငါ အချိန်ယူတယ်ဆိုတော့ အဲဒါကို ငါ ကြည့်စရာမလိုတော့ဘူး။
+5/5
 
 3652
 They cover a lot more than you will get from the paper.
 သူတို့သည် စာတမ်းမှ မင်းရမှာထက် အများကြီး အကျုံးဝင်သည်။
+2/5
 
 3653
 It has nothing to do with anyone involved in the legal system.
 တရားစီရင်ရေးစနစ်မှာပါဝင်တဲ့ ဘယ်သူနဲ့မှ မသက်ဆိုင်ဘူး။
+4/5
 
 3654
 It's everyone involved in the legal system.
 အဲဒါက တရားစီရင်ရေးစနစ်မှာ ပါဝင်တဲ့သူတိုင်း ဖြစ်တယ်။
+4/5
 
 3655
 Most of the legal system is involved, a majority being that of police.
 တရားစီရင်ရေးစနစ်အများစုပါဝင်ပြီး ၊ အများစုက ရဲတွေဖြစ်သည်။
+3/5
 
 3656
 I am not a rap fan but I do like some of the songs they have.
 ငါက ရက်ပ် အားပေးသူ တစ်ယောက် မဟုတ်ပေမယ့် သူတို့ထဲက တချို့သီချင်းတွေကို ငါ ကြိုက်တယ်။
+4/5
 
 3657
 I love rap but their songs are horrible.
 ငါ ရက်ပ်ကို သဘောကျပေမယ့် သူတို့ရဲ့ သီချင်းတွေက အလွန် ဆိုးရွားတယ်။
+5/5
 
 3658
 They had a few number one hits.
-သူတို့မှာ လူသိများ ရောင်းရပြီး နံပါတ်တစ်ဖြစ်ခဲ့တဲ့ သီချင်း အနည်းငယ် ရှိခဲ့တယ်။
+သူတို့မှာ လူသိများ ရောင်းရဆုံး နံပါတ်တစ်ဖြစ်ခဲ့တဲ့ သီချင်း အနည်းငယ် ရှိခဲ့တယ်။
+5/5
 
 3659
 From what I have come across it sounds like accomplishment.
 ငါကြုံဖူးသမျှထဲမှာ အဲဒါက အောင်မြင်မှုလို့ ထင်ရတယ်။
+4/5
 
 3660
 I have gathered from the meeting that things went very well.
-အစည်းအဝေးမှ အရမ်းကောင်းတဲ့ အရာတွေကို ငါ စုစည်းခဲ့တယ်။
+အစည်းအဝေးက ေန ငါမှန်းကြည့်လို့ရတာက ေတာ့ အားလုံး ေချာေချာ ေမွ့ေမွ့ ဖြစ်ခဲ့တဲ့ပုံပါပဲ။ 
+4/5
 
 3661
 I have heard nothing but complaints to be honest.
 ရိုးရိုးသားသားပြောရရင် မကျေနပ်တဲ့တိုင်ကြားစာတွေကလွဲလို့ ဘာမှမကြားရပါဘူး။
+4/5
 
 3662
 Testing does take time especially with the construction of building concrete holes.
-ကွန်ကရစ်တွင်းအဆောက်အအုံများ တည်ဆောက်ရင် အထူးသဖြင့် စမ်းသပ်ခြင်းမှာ အချိန်ယူသည်။
+စမ်းသပ်ခြင်းက အထူးသဖြင့် ကွန်ကရစ်တွင်း ေတွ တည်ဆောက်ရင် အချိန်ယူသည်။
+4/5
 
 3663
 They need to give it time for the concrete to set before beginning any tests.
-သူတို့ မည်သည့်စမ်းသပ်မှုမှမစတင်မီ ကွန်ကရစ်မာစေဖို့ အဲဒါကို အချိန်ပေးရန် လိုအပ်သည်။
+မည်သည့်စမ်းသပ်မှုမှမစတင်မီ ကွန်ကရစ်မာစေဖို့ သူတို့ အချိန်ပေးရန် လိုအပ်သည်။
+4/5
 
 3664
 Time is not needed when building something out of concrete, it dries quick and can be tested right away.
-အဲဒါက မြန်မြန်ခြောက်ပြီး ချက်ချင်း စမ်းသပ်နိုင်တော့ ၊ ကွန်ကရစ်နဲ့ တစ်ခုခုကို တည်ဆောက်တဲ့အခါ အချိန်က မလိုအပ်ဘူး။
+မြန်မြန်ခြောက်ပြီး ချက်ချင်း စမ်းသပ်နိုင်တော့ ၊ ကွန်ကရစ်နဲ့ တစ်ခုခုကို တည်ဆောက်တဲ့အခါ အချိန်က မလိုအပ်ပါဘူး။
+4/5
 
 3665
 Sometimes it is in house people who assist you.
-တစ်ခါတရံ အဲဒါက မင်းကို ကူညီမဲ့ လူတွေက အိမ်က ဖြစ်တယ်။
+တစ်ခါတရံ  မင်းကို ကူညီတာတဲ့ လူတွေက အိမ်က ဖြစ်တယ်။
+2/5
 
 3666
 They never use in house people to assist you.
 မင်းကိုကူညီဖို့ အိမ်ကလူတွေကို သူတို့က ဘယ်တော့မှ မသုံးဘူး။
+2/5
 
 3667
 You certainly need help if you are trying to handle X amount of dollars.
-ဒေါ်လာ အိပ်က်စ် ပမာဏကို ကိုင်တွယ်ရန် မင်း ကြိုးစားနေရင် မင်းက သေချာပေါက် အကူအညီ လိုအပ်မည်။
+ဒေါ်လာ X ပမာဏကို စီမံကိုင်တွယ်ရန် မင်း ကြိုးစားနေတာဆိုရင် မင်းက သေချာပေါက် အကူအညီ လိုအပ်တယ်။
+4/5
 
 3668
 At the time that I became a member there was at least twenty five hundred individuals.
-ငါအဖွဲ့ဝင်တစ်ယောက်ဖြစ်တဲ့အချိန်မှာ အနည်းဆုံး လူ နှစ်ထောင့်ငါးရာရှိခဲ့တယ်။
+ငါအဖွဲ့ဝင်တစ်ယောက်ဖြစ်လာခဲ့တဲ့အချိန်မှာ လူ နှစ်ထောင့်ငါးရာ အနည်းဆုံး ရှိခဲ့တယ်။
+4/5
 
 3669
 I think when I joined there was at least a few people that I knew.
 အဲဒီမှာ ငါ ပါဝင်ခဲ့တုန်းကတော့ အနည်းဆုံး ငါသိတဲ့လူအနည်းငယ်ရှိမယ်လို့ ငါ ထင်တယ်။
+4/5
 
 3670
 There is only at the most one hundred people that ever joined.
 အမြဲ ပါဝင်တာက လူ တစ်ရာ အများဆုံးသာ ရှိတယ်။
+4/5
 
 3671
 I really don't even know what I would pick.
 ငါ ဘာကိုရွေးရမှန်းတောင်မှ ငါ တကယ်မသိတော့ဘူး။
+5/5
 
 3672
 I would choose I'll Fly Away.
-အိုင်လ် ဖလိုင်း အဝေး ကို ငါ ရွေးမယ်။
+I'll Fly Away  ကို ငါ ရွေးမယ်။
+4/5
 
 3673
 I'll Fly Away is my favorite movie and I watch it weekly.
-အိုင်လ် ဖလိုင်း အဝေး သည် ငါအကြိုက်ဆုံးဇာတ်ကားဖြစ်ပြီး ငါ အပတ်စဉ်ကြည့်ပါသည်။
+I'll Fly Away က ငါအကြိုက်ဆုံးဇာတ်ကားဖြစ်ပြီး ငါ အပတ်စဉ်ကြည့်တယ်။
+4/5
 
 3674
 The price is pretty good.
 ဈေးက တော်တော်ကောင်းတယ်။
+4/5
 
 3675
 We are definitely going to get it to watch our local news.
-ငါတို့ရဲ့ပြည်တွင်းသတင်းတွေကို ကြည့်ဖို့ ငါတို့ အဲဒါကို သေချာပေါက် ရရမယ်။
+ငါတို့ရဲ့ပြည်တွင်းသတင်းတွေကို ကြည့်ဖို့ ငါတို့ အဲဒါကို သေချာပေါက် ယူမယ်။
+4/5
 
 3676
 We don't want it because we like local news and it doesn't get local stations.
-ငါတို့ ပြည်တွင်းသတင်းများကို နှစ်သက်ပြီး ဒါတွေက ပြည်တွင်း ထုတ်လွှင့်မှုဌာန တွေမှာ မရသောကြောင့် ငါတို့ အဲဒါကို မလိုချင်တော့ဘူး။
+ငါတို့ ပြည်တွင်းသတင်းများကို နှစ်သက်ပြီး ဒါတွေက ပြည်တွင်း ထုတ်လွှင့်မှုဌာန တွေမှာ မရသောကြောင့် ငါတို့ အဲဒါကို မလိုချင်ဘူး။
+4/5
 
 3677
 After he snapped out of it he seemed to be himself again.
-အဲဒီအရာထဲကနေ သူ ရုန်းထွက်ပြီးတဲ့နောက် သူသည် သူ့ကိုယ်သူ ပြန်မြင်လာပုံရသည်။
+အဲဒီအရာထဲကနေ သူ ရုန်းထွက်ပြီးတဲ့နောက် သူသည် သူ့အရ ကိုယ်သူ ပြန်မြင်လာပုံရသည်။
+2/5
 
 3678
 He never snapped out of it.
 အဲဒီအရာထဲကနေ ဘယ်တော့မှ သူ ရုန်းမထွက်ခဲ့ဘူး။
+2/5
 
 3679
 He was only out of it for about 2 minutes.
 သူ အဲဒီကနေ သွားတာ ၂ မိနစ်လောက်သာ ရှိသေးတယ်။
+4/5
 
 3680
 That problem has an easy solution.
-ထိုပြဿနာမှာ လွယ်ကူသော အဖြေတစ်ခုရှိသည်။
+ထိုပြဿနာတွင် လွယ်ကူသော ေဖြရှင်းနည် တစ်ခုရှိသည်။
+4/5
 
 3681
 There is no problem.
 ပြဿနာမရှိပါဘူး။
+5/5
 
 3682
 What are you looking for when you shop around for something?
-မင်း တစ်စုံတစ်ခု ဝယ်တုန်းက မင်းဘာကိုရှာနေတာလဲ။
+မင်း တစ်စုံတစ်ခု ဝယ်တုန်းက မင်းဘာကိုရှာတာလဲ?
+4/5
 
 3683
 Talking to you has been very annoying.
 မင်းနဲ့စကားပြောရတာ တော်တော်စိတ်ရှုပ်စရာဖို့ကောင်းတယ်။
+4/5
 
 3684
 This has been a nice talk.
 ဒါက ကောင်းတဲ့ ဟောပြောပွဲတစ်ခုဖြစ်တယ်။
+2/5
 
 3685
 We will talk again soon.
-ငါတို့ မကြာခင်မှာ နောက်တစ်ကြိမ် ပြောမယ်။
+ငါတို့ မကြာခင်မှာ နောက်တစ်ကြိမ် စကားပြောကြဦးမယ် ေနာ်။
+4/5
 
 3686
 Anderson beat out Reagan.
-အန်းဒါဆန် က ရေဂန် ကို အနိုင်ယူသည်။
+အန်ဒါဆန် က ရေဂန် ကို အနိုင်ယူသည်။
+4/5
 
 3687
 Anderson ran against Reagan as an independent.
-အန်းဒါဆန် သည် ရေဂန် ကို တစ်သီးပုဂ္ဂလအရွေးချယ်ခံသူတစ်ယောက်အဖြစ် ဆန့်ကျင်ခဲ့သည်။
+အန်းဒါဆန် သည် ရေဂန် ကို တစ်သီးပုဂ္ဂလ သမ္မတ ေလာင်းအဖြစ် ယှဉ်ပြိုင် ခဲ့သည်။
+4/5
 
 3688
 There were other independent tickets that ran as well.
-မှောင်ခိုကုန်ကူးတဲ့ တခြားသီးခြားဖြစ်သော လက်မှတ်တွေလည်း ကောင်းစွာ ရှိခဲ့တယ်။
+တခြားတစ်သီးပုဂ္ဂလ သမ္မတ ေလာင်း ေတွ ဝင်ပြိုင်ခဲ့တာလည်း ရှိခဲ့တယ်။
+4/5
 
 3689
 Even if it is not required it should be done.
 အဲဒါက မလိုအပ်ရင်တောင်မှ အဲဒါကို လုပ်သင့်တယ်။
+4/5
 
 3690
 It is strange that the state doesn't require it.
 ပြည်နယ်က အဲဒါကို မလိုအပ်တာ ထူးဆန်းတယ်။
+4/5
 
 3691
 That makes sense that the state requires it.
-အဲဒါကို ပြည်နယ်က လိုအပ်တယ်လို့ အဓိပ္ပာယ်ရတယ်။
+အဲဒါကို ပြည်နယ်က လိုအပ်တယ်ဆိုတာ အဓိပ္ပာယ်ရှိတယ်။
+4/5
 
 3692
 The are more economical because they are really good on gas.
-သူတို့က ဓာတ်ငွေ့အတွက် တကယ် ကောင်းသောကြောင့် ပိုသက်သာတာတွေရှိတယ်။
+အဲဒါေတွက ဆီစား အရမ်းသက်သာတာေကြာင့် စီးပွားေရးတွက် ေခပိုကိုက်တယ်။
+4/5
 
 3693
 The gas mileage is terrible and I'm constantly paying for gas.
-ဓာတ်ငွေ့ခရီးမိုင်ပေါင်းက ကြောက်မက်ဖွယ်ကောင်းတော့ ငါက ဓာတ်ငွေ့အတွက် အဆက်မပြတ်ပေးနေရတယ်။
+ဆီစားက အရမ်းကြမ်းတာေကြာင့် ငါ့မှာ ဆီဖိုးပဲ အမြဲေပးေနရတယ်။
+4/5
 
 3694
 They are also the best looking cars around.
 သူတို့သည် အနီးတစ်ဝိုက်တွင် ကြည့်လို့အကောင်းဆုံးကားများလည်း ဖြစ်ကြသည်။
+4/5
 
 3695
 A couple years ago I studied in London for a semester.
 လွန်ခဲ့တဲ့ နှစ်နှစ်လောက်က ငါ လန်ဒန်မှာ နှစ်ဝက်စာသင်ကာလအထိ ပညာသင်ခဲ့တယ်။
+5/5
 
 3696
 I have never studied abroad before.
 ငါ အရင်က နိုင်ငံရပ်ခြားမှာ ပညာမသင်ဖူးဘူး။
+5/5
 
 3697
 London schools are the best.
 လန်ဒန်ကျောင်းများသည် အကောင်းဆုံးဖြစ်သည်။
+5/5
 
 3698
 The did the same thing as everyone else.
-သူတို့က တခြားသူတွေလို တူညီတဲ့အရာတွေ လုပ်ခဲ့တယ်။
+သူတို့က တခြားသူတွေအားလုံးလုပ်သလိုပဲ လုပ်ခဲ့တယ်။
+4/5
 
 3699
 Their way of using them was much better.
-သူတို့ကို အသုံးပြုတဲ့ သူတို့ရဲ့ နည်းလမ်းက ပိုကောင်းတယ်။
+သူတို့ကို အသုံးပြုတဲ့ သူတို့ရဲ့ နည်းလမ်းက အများကြီးပိုကောင်းတယ်။
+4/5
 
 3700
 They did things with them a little differently.
 သူတို့နဲ့ နည်းနည်းကွဲလွဲတဲ့ ကိစ္စတွေကို သူတို့ လုပ်ခဲ့တယ်။
-
+2/5

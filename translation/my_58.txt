@@ -1,71 +1,21 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 5701
 The Spartans killed many of the Persian army at Thermopylae.
-စပါတာတို့သည် သာမောပလီး တွင် ပါရှား စစ်တပ် အများအပြားကို သတ်ခဲ့သည်။
+စပါတန်များသည် သာမောပလီး တွင် ပါရှား စစ်တပ် အများအပြားကို သတ်ခဲ့သည်။
 5/5
 
 5702
 Otto Frank got captured on the second day.
-ဒုတိယနေ့တွင် အော်တိုဖရန့်ကို ဖမ်းဆီးရရှိခဲ့သည်။
+ဒုတိယနေ့တွင် Otto Frank ကို ဖမ်းဆီးရရှိခဲ့သည်။
 5/5
 
 5703
 Otto Frank hid for more than 25 months.
-အော်တိုဖရန့်သည် ၂၅ လကျော် ပုန်းအောင်းနေခဲ့သည်။
+Otto Frank သည် ၂၅ လကျော် ပုန်းအောင်းနေခဲ့သည်။
 5/5
 
 5704
 Otto Frank hid until the Nazis found him.
-အော်တိုဖရန့်က သူ့ကို နာဇီတွေ ရှာမတွေ့ခင်အထိ ပုန်းနေခဲ့တယ်။
+Otto Frank က သူ့ကို နာဇီတွေ ရှာမတွေ့ခင်အထိ ပုန်းနေခဲ့တယ်။
 5/5
 
 5705
@@ -75,7 +25,7 @@ The tea kettles are ugly and it's so boring to learn about them.
 
 5706
 You will like the tea kettles that are hundreds of years old.
-နှစ်ရာနဲ့ချီ သက်တမ်းရှိတဲ့ လက်ဖက်ရည်ခွက်တွေကို မင်း ကြိုက်လိမ့်မယ်။
+နှစ်ရာနဲ့ချီ သက်တမ်းရှိတဲ့ လက်ဖက်ရည်အိုး တွေကို မင်း ကြိုက်လိမ့်မယ်။
 5/5
 
 5707
@@ -175,17 +125,17 @@ There were racial protests in the 70's.
 
 5726
 Sqamish has never had a log-rolling contest.
-Sqamishတွင် သစ်လုံးလှိမ့် ပြိုင်ပွဲ တစ်ခုကို တစ်ခါမှ မပြုလုပ်ဖူးပါ။
+Sqamish တွင် သစ်လုံးလှိမ့် ပြိုင်ပွဲ တစ်ခုကို တစ်ခါမှ မပြုလုပ်ဖူးပါ။
 5/5
 
 5727
 Squamish is famous for log-rolling contests.
-Sqamishသည် သစ်လုံးလှိမ့် ပြိုင်ပွဲများ ကြောင့် ကျော်ကြားသည်။
+Squamish သည် သစ်လုံးလှိမ့် ပြိုင်ပွဲများ ကြောင့် ကျော်ကြားသည်။
 5/5
 
 5728
-Squamish is where log-rolling contests started.
-Sqamishတွင် သစ်လုံးလှိမ့် ပြိုင်ပွဲများကို စတင်ခဲ့သည်။ 
+Squamish is were log-rolling contests started.
+Squamish တွင် သစ်လုံးလှိမ့် ပြိုင်ပွဲများကို စတင်ခဲ့သည်။ 
 5/5
 
 5729
@@ -220,17 +170,17 @@ It never happens again.
 
 5735
 Coniera is 3 square miles.
-ကိုနီရာသည် ၃ စတုရန်းမိုင် ရှိသည်။
+Coniera သည် ၃ စတုရန်းမိုင် ရှိသည်။
 5/5
 
 5736
 Coniera is in the Atlantic Ocean.
-ကိုနီရာသည် အတ္တလန္တိတ် သမုဒ္ဒရာထဲတွင် ရှိသည်။
+Coniera သည် အတ္တလန္တိတ် သမုဒ္ဒရာထဲတွင် ရှိသည်။
 5/5
 
 5737
 Coniera is in the Sant Antoni Bay.
-ကိုနီရာသည် ဆန့် အန်တိုနီ ပင်လယ်အော်တွင် ရှိသည်။
+Coniera သည် ဆန့် အန်တိုနီ ပင်လယ်အော်တွင် ရှိသည်။
 5/5
 
 5738
@@ -269,19 +219,19 @@ The emperor traded for Persia.
 
 5744
 Hawthorne lived on Main Street.
-ဟောသရုန်းသည် မိန်း လမ်း တွင် နေထိုင်ခဲ့သည်။
+Hawthorne သည် မိန်း လမ်း တွင် နေထိုင်ခဲ့သည်။
 5/5
 
 
 5745
 Hawthorne lived on Pinckney Street for 7 years.
-ဟောသရုန်းသည် ပင့်ခ်နေ လမ်း တွင် ၇ နှစ် ကြာ နေထိုင်ခဲ့သည်။
+Hawthorne သည် Pinckney လမ်း တွင် ၇ နှစ် ကြာ နေထိုင်ခဲ့သည်။
 5/5
 
 
 5746
 Hawthorne lived on Pinckney Street.
-ဟောသရုန်းသည် ပင့်ခ်နေ လမ်း တွင် နေထိုင်ခဲ့သည်။
+Hawthorne သည် Pinckney လမ်း တွင် နေထိုင်ခဲ့သည်။
 5/5
 
 
@@ -366,17 +316,17 @@ There is only one tower and it's brand new.
 
 5762
 The Moors got economic help from Almohads.
-မောလ်များသည် အယ်မိုဟာဒ်များ ထံမှ စီးပွားရေး အကူအညီ ရခဲ့သည်။
+Moors များသည် အယ်မိုဟာဒ်များ ထံမှ စီးပွားရေး အကူအညီ ရခဲ့သည်။
 5/5
 
 5763
 The Moors got help from Almohads.
-မောလ်များသည် အယ်မိုဟာဒ်များ ထံမှ အကူအညီ ရခဲ့သည်။
+Moors များသည် အယ်မိုဟာဒ်များ ထံမှ အကူအညီ ရခဲ့သည်။
 5/5
 
 5764
 The Moors were independent and did it all alone.
-မောလ်များသည် မှီခိုခြင်းကင်း ပြီး အားလုံးကို ကိုယ့်ဟာကိုယ် ပြုလုပ်ခဲ့တယ်။
+Moors များသည် မှီခိုခြင်းကင်း ပြီး အားလုံးကို ကိုယ့်ဟာကိုယ် ပြုလုပ်ခဲ့တယ်။
 5/5
 
 5765
@@ -472,6 +422,7 @@ The Spanish people made a beachhead.
 5783
 It's much safer to cycle in Paris now compared to 10 years ago.
 ပါရီမှာ စက်ဘီးစီးတာက လွန်ခဲ့တဲ့ ၁၀ နှစ်နဲ့ ယှဉ်ရင် အခုဆို ပိုလုံခြုံတယ်။
+5/5
 
 5784
 It's safer to cycle in Paris.

@@ -1,449 +1,499 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 3701
 Some places will only ship their products by UPS media mail.
-အချို့သော နေရာများသည် ယူပီအက်စ် မီဒီယာ မေးလ်ဖြင့်သာ ၎င်းတို့၏ ထုတ်ကုန်များကို တင်ပို့လိမ့်မည်။
+အချို့သော နေရာများသည် UPS မီဒီယာ မေးလ်ဖြင့်သာ ၎င်းတို့၏ ထုတ်ကုန်များကို တင်ပို့လိမ့်မည်။
+5/5
 
 3702
 Some places will ship with UPS.
 အချို့ နေရာများကို ယူပီအက်စ် ဖြင့် ပို့ဆောင်ပေးပါမည်။
+5/5
 
 3703
 They will only use FedEx.
 ၎င်းတို့သည် ဖက်အိက်စ် ကိုသာ အသုံးပြုလိမ့်မည်။
+5/5
 
 3704
 I don't believe he wants to be in that position.
-ဒီလို အနေအထားမျိုးမှာ သူ ဖြစ်ချင်တာတွေဖြစ်လာဖို့ကို ကျွန်တော် မယုံကြည်ဘူး။ 
+ဒီလို အနေအထားမျိုး သူ ဖြစ်ချင်တယ်လို့ ကျွန်တော် မယုံကြည်ဘူး။ 
+4/5
 
 3705
 I don't think he wants to be king.
 သူက ဘုရင်ဖြစ်ချင်တယ်လို့ ငါ မထင်ဘူး။
+5/5
 
 3706
 I know he would love to do that!
-သူ ဒီလို လုပ်ရတာ ကြိုက်မယ်ဆိုတာ ငါ သိတယ်!
+သူ အဲဒီလို လုပ်ရတာ ကြိုက်မယ်ဆိုတာ ငါ သိတယ်!
+5/5
 
 3707
 I understand it very well.
 ကျွန်တော် ဒါကို အလွန် ကောင်းစွာ နားလည်ပါတယ်။
+5/5
 
 3708
 I was a little confused.
-ကျွန်တော် နည်းနည်း ရှုပ်သွားတယ်။ 
+ကျွန်တော် နည်းနည်း ရှုပ်သွားခဲ့တယ်။ 
+5/5
 
 3709
 I was confused about how it all happens.
 ဒါတွေ အာလုံး ဘယ်လို ဖြစ်တာလဲဆိုတာနဲ့ပတ်သက်ပြီး ကျွန်တော် ခေါင်းရှုပ်ခဲ့တယ်။
+5/5
 
 3710
 I also have a daughter that is younger than the boys.
-ယောက်ျားလေးတွေထက် ပိုငယ်တဲ့ သမီးလေး တစ်ယောက် လည်း ကျွန်တော့်မှာ ရှိတယ်။ 
+သားလေးတွေထက် ငယ်တဲ့ သမီးလေး တစ်ယောက် လည်း ကျွန်တော့်မှာ ရှိတယ်။ 
+5/5
 
 3711
 I have two boys that are both in their twenties.
-ကျွန်တော့်မှာ နှစ်ယောက်လုံး အသက်နှစ်ဆယ်ကျော်တဲ့ ကောင်လေး နှစ်ယောက် ရှိတယ်။ 
+ကျွန်တော့်မှာ နှစ်ယောက်လုံး အသက်နှစ်ဆယ်ကျော်တဲ့ သားလေး နှစ်ယောက် ရှိတယ်။ 
+5/5
 
 3712
 My boys are twelve and sixteen years old.
-ကျွန်တော် ၏ ကောင်လေးတွေက ဆယ့်နှစ်နှစ် နှင့် ဆယ့်ခြောက်နှစ် ပါ။
+ကျွန်တော့်ရဲ့ ကောင်လေးတွေက အသက် ဆယ့်နှစ်နှစ် နှင့် ဆယ့်ခြောက်နှစ် ပါ။
+5/5
 
 3713
 I knew instantly that the name was Piece of Parliament.
 အဆိုပါ နာမည်သည် လွှတ်တော် ၏ ငြိမ်းချမ်းရေး ဖြစ်ခဲ့တယ် ဆိုတာ ကျွန်တော် ချက်ချင်း သိခဲ့သည်။
+4/5
 
 3714
 I often have trouble recalling names on the spot.
 နာမည်တွေကို ချက်ချင်း ပြန်မှတ်မိဖို့ ကျွန်တော့် မကြာခဏ အခက်တွေ့တယ်။
+4/5
 
 3715
 The name escaped me at first but it is referred to as the Peace of Parliament.
 ပထမတော့ နာမည်ကို မေ့သွား ပေမယ့် ဒါက လွှတ်တော် ၏ ငြိမ်းချမ်းရေး အဖြစ် ရည်ညွှန်းသည်။
+4/5
 
 3716
 I am not able to use the cakes.
 ကျွန်တော် ကိတ်မုန့်တွေ မသုံးနိုင်တော့ဘူး။ 
+4/5
 
 3717
 I could never run out of ideas for cake!
 ကျွန်တော်က ကိတ်မုန့် အတွက် စိတ်ကူးတွေ ဘယ်တော့မှ မကုန်နိုင်ခဲ့ပါဘူး!
+4/5
 
 3718
 I wish I could do something with the cakes but I have no use for them.
 ကျွန်တော်က ကိတ်မုန့်တွေနဲ့ တစ်စုံတစ်ခု လုပ်မည်ကို ကျွန်တော် ဆန္ဒရှိ ပေမယ့် အဲဒါတွေ အတွက် ကျွန်တော်မှာ သုံးဖို့ မရှိပါ။ 
+4/5
 
 3719
 It's an automatic weapon made out of plastic.
-၎င်းသည် ပလတ်စတစ်ဖြင့် ပြုလုပ်ထားသော အလိုအလျောက်ပြုလုပ်ပေးသည့် လက်နက် တစ်ခု ဖြစ်သည်။
+၎င်းသည် ပလတ်စတစ်ဖြင့် ပြုလုပ်ထားသော အလိုအလျောက် လက်နက် တစ်ခု ဖြစ်သည်။
+3/5
 
 3720
 It's more durable than a metal weapon.
-၎င်းသည် သတ္တု လက်နက် တစ်ခု ထက် ပိုပြီး ကြာရှည်ခံပါသည်။
+၎င်းသည် သတ္တုနဲ့ လုပ်ထားတဲ့လက်နက် တစ်ခု ထက် ပိုပြီး ကြာရှည်ခံပါသည်။
+5/5
 
 3721
 The weapon is made from cardboard.
 လက်နက်ကို ကတ်ထူပြားဖြင့် ပြုလုပ်ထားသည်။
+5/5
 
 3722
 They have been a band for two years.
 သူတို့သည် နှစ်နှစ်ကြာ အဖွဲ့ တစ်ဖွဲ့ ဖြစ်သည်။
+3/5
 
 3723
 They play bluegrass music.
-သူတို့သည် ဘလူးဂရက်စ် သီချင်းကို တီးကြသည်။
+သူတို့သည် bluegrass ဂီတကို တီးခတ်ကြသည်။
+5/5
 
 3724
 They play jazz music.
 သူတို့သည် ဂျက်ဇ် ဂီတ ကို တီးခတ်ကြသည်။
+5/5
 
 3725
 The crowd is always dressed pretty casually.
-လူအုပ်ကြီးသည် အမြဲတမ်း ပေါ့ပေါ့ပါးပါး လှလှပပ ၀တ်ဆင်ထားသည်။
+လူအုပ်ကြီးသည် အမြဲတမ်း ပေါ့ပေါ့ပါးပါး ၀တ်ဆင်ထားသည်။
+4/5
 
 3726
 The crowd likes to get dressed up.
 လူအုပ်ကြီးသည် ၀တ်စားဆင်ယင်ခြင်းကို နှစ်သက်ကြသည်။
+5/5
 
 3727
 Their clothes are very stylish.
 သူတို့ရဲ့ အဝတ်အစားတွေက အရမ်း စတိုင်ကျတယ်။
+5/5
 
 3728
 I get along better with my girlfriend's daughter pretty well compared to my girlfriend.
 ကျွန်တော့် ရည်းစား ရဲ့သမီး သည် ကျွန်တော့် ရည်းစားနဲ့ နှိုင်းယှဉ်ရင် အတော်လေး လှပနေတာက ကျွန်တော်တော့ အတော်ကောင်းတာပါပဲ။
+2/5
 
 3729
 I have to take my girlfriend's daughter shopping for clothing before the school year starts each year.
 နှစ်စဉ် စာသင်နှစ် မစခင်မှာ ကျွန်တော့် ရည်းစားရဲ့ သမီးကို အဝတ်အစား အတွက် စျေးဝယ်ဖို့ ကျွန်တော်က ခေါ်သွားဖို့ရှိတယ်။
+4/5
 
 3730
 My girlfriend's daughter refuses to go shopping with me.
 ကျွန်တော့် ရည်းစားရဲ့ သမီးက ကျွန်တော်နဲ့ ဈေးဝယ် ထွက်ဖို့ ငြင်းတယ်။
+4/5
 
 3731
 really like books by PJ O'Rourke .
-ပီ ဂျေ အို' ရော့ခ် ရဲ့ စာအုပ်တွေကို အမှန်တကယ် ကြိုက်တယ်။
+PJ O'Rourke ရဲ့ စာအုပ်တွေကို တကယ် ကြိုက်တယ်။
+5/5
 
 3732
 I got a PJ O'Rourke book at the library yesterday.
-မနေ့က စာကြည့်တိုက်မှာ ပီ ဂျေ အို' ရော့ခ် စာအုပ်ကို ကျွန်တော် ရခဲ့ပါတယ်။
-
+မနေ့က စာကြည့်တိုက်မှာ PJ O'Rourke စာအုပ်ကို ကျွန်တော် ရခဲ့ပါတယ်။
+5/5 
+ 
 3733
 I never go to the library.
 ကျွန်တော် စာကြည့်တိုက်ကို ဘယ်တော့မှ မသွားဘူး။
+5/5
 
 3734
 I think it is close to twenty minutes but I'm not positive.
-မိနစ် နှစ်ဆယ် ရောက်တော့မယ်လို့ ကျွန်တော် ထင်ပေမယ့် အတိအကျတော့မဟုတ်ဘူး။
+မိနစ် နှစ်ဆယ် လောက်လို့ ကျွန်တော် ထင်ပေမယ့်  သေတော့မသေချာဘူး။
+5/5
 
 3735
 It is approximately twenty minutes.
 မိနစ် နှစ်ဆယ် ခန့် ကြာသည်။
+5/5
 
 3736
 It is exactly ten minutes long.
 ဆယ် မိနစ် တိတိ ကြာသည်။
+5/5
 
 3737
 It is pretty close to what I mean.
 ကျွန်တော် ဆိုလိုတာနဲ့ တော်တော်လေး နီးစပ်ပါတယ်။
+5/5
 
 3738
 No, that is not true at all.
 မဟုတ်ဘူး ၊ အဲဒါ လုံးဝ မမှန်ပါဘူး။
+5/5
 
 3739
 Yes, that is the truth.
 ဟုတ်တယ် ၊ အဲဒါ အမှန်တရားပဲ။
+5/5
 
 3740
 It is astounding how a little can produce a lot.
-အနည်းစုက အများကြီး ဘယ်လို ထွက်လာနိုင်တယ်ဆိုတာ အလွန်အံ့သြစရာပါပဲ။
+နည်းနည်းလေးကနေ အများကြီး ဘယ်လို ထွက်လာနိုင်တယ်ဆိုတာ အလွန်အံ့သြစရာပါပဲ။
+4/5
 
 3741
 People love finding out how much they can get out of so little.
-လူတွေက ဒါတွေသည် နည်းနည်းလေးကနေ ဘယ်လောက်များများ ရနိုင်လဲဆိုတာကို ရှာဖွေရတာကို နှစ်သက်ကြပါတယ်။
+လူတွေက နည်းနည်းလေးကနေ ဘယ်လောက်များများ ရနိုင်လဲဆိုတာကို ရှာဖွေရတာကို နှစ်သက်ကြပါတယ်။
+4/5
 
 3742
 There is no way that so little would be enough.
 ဒီလောက်နည်းနည်းနဲ့ လုံလောက်မယ့် နည်းလမ်း မရှိပါဘူး။
+4/5
 
 3743
 I knew ahead of time that someone would die and that it would be depressing.
-တစ်စုံတစ်ယောက် သေရမယ်ဆိုတာနဲ့ ဒါက စိတ်ပျက်စရာ ဖြစ်လိမ့်မယ်ဆိုတာကို ကျွန်တော် ကြိုသိခဲ့တယ်။
+တစ်စုံတစ်ယောက် သေရမယ်ဆိုတာနဲ့ အဲဒါက စိတ်ဓါတ်ကျစရာ ဖြစ်လိမ့်မယ်ဆိုတာကို ကျွန်တော် ကြိုသိခဲ့တယ်။
+5/5
 
 3744
 I was hoping that it would have some lighthearted moments.
 ပေါ့ပါးတဲ့ အခိုက်အတန့် အချို့ ရှိလိမ့်မယ်လို့ ကျွန်တော် မျှော်လင့်ခဲ့တယ်။
+5/5
 
 3745
 I was not expecting anyone to die.
-ဘယ်သူ့ကိုမှ သေဖို့ ကျွန်တော် မမျှော်လင့်ထားဘူး။
+တစ်ယောက်မှ သေမယ်လို့ ကျွန်တော် မမျှော်လင့်ထားခဲ့ဘူး။
+5/5
 
 3746
 Of course, getting out of each other's way.
 ဟုတ်ပါတယ် ၊ တစ်ယောက်ချင်းစီ၏ နည်းလမ်းတွေဆီမှ ထွက်ကြမယ်။
+2/5
 
 3747
 Yes getting in the way of each other.
 ဟုတ်တယ် တစ်ယောက်ချင်းစီ၏ နည်းလမ်းတွေဆီ ဝင်ရောက်နေတာ။
+2/5
 
 3748
 Yes, it could be seen as a barrier to each other.
 ဟုတ်တယ် ၊ တစ်ယောက်နဲ့တစ်ယောက် အတားအဆီး တစ်ခု အဖြစ် မြင်နိုင်တယ်။
+3/5
 
 3749
 I have a VCR that keeps breaking.
-ငါ့မှာ အဆက်ပြတ်နေတဲ့ ဗွီစီအာ တစ်ခု ရှိတယ်။
+ငါ့မှာ အမြဲတမ်း ပျက်နေတဲ့ VCR တစ်ခု ရှိတယ်။
+5/5
 
 3750
 My VCR works perfectly.
-ကျွန်ုပ်၏ ဗွီစီအာသည် ကောင်းမွန်စွာ အလုပ်လုပ်ပါသည်။
+ငါ့ရဲ့ VCR က လုံးဝအကောင်းပါပဲ။
+4/5
 
 3751
 The VCR only works for about a week and then it is broken again.
-ဗွီစီအာသည် တစ်ပတ်ခန့်သာ အလုပ်လုပ် ပြီးနောက် ၎င်းသည် ပျက်သွားပြန်သည်။
+VCR သည် တစ်ပတ်ခန့်သာ အလုပ်လုပ် ပြီးနောက် ပျက်သွားပြန်သည်။
+4/5
 
 3752
 All my sisters were younger than I.
 ကျွန်တော့် ညီမ အားလုံးက ကျွန်တော့် ထက် ငယ်တယ်။
+5/5
 
 3753
 I had older sisters.
 ကျွန်တော့်မှာ အစ်မတွေ ရှိတယ်။
+5/5
 
 3754
 My sisters were much older than me.
 ကျွန်တော့် အစ်မတွေက ကျွန်တော့်ထက် အများကြီး အသက်ကြီးတယ်။
+5/5
 
 3755
 I really didn't like the seminar that was done by satellite.
 ဂြိုလ်တုဖြင့် ပြုလုပ်တဲ့ ဆွေးနွေးပွဲကို ကျွန်တော် လုံးဝ မကြိုက်ခဲ့ဘူး။
+3/5
 
 3756
 I went to a seminar that was done by satellite.
 ဂြိုလ်တုနဲ့ လုပ်တဲ့ ဆွေးနွေးပွဲ တစ်ခု ကို ကျွန်တော် သွားခဲ့တယ်။
+3/5
 
 3757
 There were a lot of people attending the satellite seminar.
 လူအများအပြား တက်ရောက်ခဲ့ကြတဲ့ ဂြိုလ်တုအကြောင်း နှီးနှောဖလှယ်ပွဲ ရှိခဲ့တယ်။
+4/5
 
 3758
 It holds a lot more plants than you would think.
-မင်း ထင်ထားတာထက် အပင် အများကြီးကို ဆန့်ပါတယ်။
+မင်း ထင်ထားတာထက် အပင် အများကြီး ဆန့်ပါတယ်။
+5/5
 
 3759
 It is ridiculous that you can hardly fit any plants in there at all.
 ထိုနေရာတွင် မည်သည့်အပင်ကိုမဆို အံဝင်ခွင်ကျ မဖြစ်နိုင်သည်မှာ လုံးဝ ရယ်စရာကောင်းပါသည်။
+3/5
 
 3760
 The number of plants it can hold depends upon the types of plants you put in.
-၎င်းကို စိုက်နိုင်တဲ့ အပင် အရေအတွက်က သင်ထည့်ထားတဲ့ အပင် အမျိုးအစားပေါ် မူတည်ပါတယ်။
+အဲဒီထဲမှာ ဆန့်တဲ့ အပင် အရေအတွက်က ထည့်စိုက်တဲ့ အပင် အမျိုးအစားပေါ် မူတည်ပါတယ်။
+5/5
 
 3761
 I watched Dances with Wolves.
 ကျွန်တော် ဝံပုလွေများနှင့် ကခုန်ခြင်းကို ကြည့်ခဲ့တယ်။
+4/5
 
 3762
 I watched that Dances with Wolves movie on Friday night.
 ကျွန်တော် အဲဒီ ဝံပုလွေများနှင့် ကခုန်ခြင်း ဇာတ်ကားကို သောကြာနေ့ ညက ကြည့်ခဲ့တယ်။
+5/5
 
 3763
 I've never seen a Kevin Costner movie.
-ကီဗင် ကော့စ်နား ဇာတ်ကား တစ်ကား ကို ကျွန်တော် တစ်ခါမှ မကြည့်ဖူးဘူး။
+ကီဗင် ကော့စ်နား ဇာတ်ကား ကျွန်တော် တစ်ကားမှ မကြည့်ဖူးဘူး။
+5/5
 
 3764
 It's much cheaper to live here than any other state.
-တခြား ပြည်နယ်တွေထက် ဒီမှာ နေရတာ ပိုပြီး ဈေးသက်သာတယ်။
+တခြား ပြည်နယ်တွေထက် ဒီမှာ နေရတာ အများကြီးပိုပြီး ဈေးသက်သာတယ်။
+5/5
 
 3765
 It's not that expensive to live here.
-ဒီမှာ နေရတာ ဒါက စျေးမကြီးဘူး။
+ဒီမှာ နေရတာ အဲလောက် စျေးမကြီးပါဘူး။
+5/5
 
 3766
 This is the most expensive place you can live!
-ဤသည်မှာ သင် နေထိုင်နိုင်သော ဈေးအကြီးဆုံး နေရာ ဖြစ်သည်!
+ဒီနေရာက မင်းနေနိုင်တဲအထဲမှာ စျေးအကြီးဆုံးနေရာပဲ!
+4/5
 
 3767
 I believe it was out in the country.
-ထိုအရာသည် တိုင်းပြည်မှ ထွက်လာမယ်လို့ ကျွန်တော် ယုံကြည်တယ်။
+အဲဒါက ကျေးလက် တောဘက်မှာရှိခဲ့တာ လို့ ငါထင်တယ်။
+4/5
 
 3768
 I believe the new house is way out in the country, miles from anything.
-အိမ် အသစ် က ဘယ်အရာကမဆို မိုင်များစွာဝေးသော ၊ ဒီတိုင်းပြည်တွင် ထွက်လမ်းဖြစ်တယ် လို့ ငါ ယုံကြည်တယ်။
+အိမ် အသစ် က မြို့အပြင်ဘက် ဟိုးအဝေးကြီး တောဘက်မှာ။
+4/5
 
 3769
 It's right in the middle of the city.
-၎င်းက မြို့၏ အလယ်မှာ တည့်တည့်မတ်မတ် ရှိတယ်။
+၎င်းက မြို့ အလယ်ခေါင်တည့်တည့်မှာ ရှိတယ်။
+4/5
 
 3770
 I wish that this did not have to happen since it was so discouraging.
-အရမ်း စိတ်ပျက်စရာကောင်းတဲ့အတွက် ဒါကို မဖြစ်စေပါနဲ့လို့ ကျွန်တော် ဆုတောင်းတယ်။
+အရမ်း စိတ်ပျက်စရာကောင်းတဲ့အတွက် အဲဒီကိစ္စ မဖြစ်ခဲ့ဘူးလို့ပဲ ကျွန်တော် ဆုတောင်းတယ်။
+4/5
 
 3771
 Yeah it made it without a single scratch!
-ဒါဟာ တစ်ခုတည်းသော ခြစ်ရာ တစ်ချက် မရှိဘဲ ၎င်းကို လုပ်ထားတာ ဟုတ်တယ်!
+ခြစ်ရာ ပွန်းရာ တစ်ခုမှ မရှိဘဲနဲ့ ထွက်လာခဲ့တယ်!
+3/5
 
 3772
 Yes is have surely gone through a lot.
-ဟုတ်ကဲ့ အများကြီး ဖြတ်သန်းခဲ့ရမှာ သေချာပါတယ်။
+ဟုတ်တယ် အများကြီး ဖြတ်သန်းခဲ့ရမှာ သေချာပါတယ်။
+3/5
 
 3773
 They do it every year for Memorial Day.
-သူတို့သည် အောက်မေ့ဖွယ် နေ့ အတွက် နှစ်စဉ် ဒါကို လုပ်ကြတယ်။
+အောက်မေ့ဖွယ်နေ့ အတွက် နှစ်စဉ် သူတို့အဲဒါကို လုပ်ကြတယ်။
+4/5
 
 3774
 They have a big parade every Memorial Day.
-အောက်မေ့ဖွယ် နေ့ တိုင်းတွင် သူတို့မှာ ကြီးမားသော ချီတက်ပွဲ တစ်ခု ရှိသည်။
+အောက်မေ့ဖွယ် နေ့ တိုင်းတွင် သူတို့မှာ ကြီးကျယ်သော ချီတက်ပွဲ တစ်ခု ရှိသည်။
+5/5
 
 3775
 They stopped doing it 10 years ago.
 သူတို့သည် လွန်ခဲ့တဲ့ ၁၀ နှစ်လောက် ကတည်းက ထိုအရာ ပြုလုပ်ခြင်းကို ရပ်ခဲ့ကြသည်။
+4/5
 
 3776
 Yes, yours has four doors.
-ဟုတ်တယ် ၊ မင်းဟာက တံခါး လေးပေါက် ရှိတယ်။
+ဟုတ်တယ် ၊ မင်းဟာမှာက တံခါး လေးပေါက် ရှိတယ်။
+5/5
 
 3777
 You only have one door.
-မင်းမှာ တံခါး တစ်ခုသာ ရှိတယ်။
+မင်းမှာ တံခါး တစ်ခုပဲ ရှိတယ်။
+4/5
 
 3778
 Your car is larger than mine, with four doors.
-တံခါးလေးပေါက်နှင့် ၊ မင်း ကားက ငါဟာ ထက် ပိုကြီးတယ်။
+မင်း ကားက ငါ့ဟာ ထက် ပိုကြီးတယ်၊ တံခါးလေးပေါက်နဲ့။
+5/5
 
 3779
 I bought a farm in Texas 10 years ago.
 လွန်ခဲ့တဲ့ ၁၀ နှစ်က တက္ကဆက်ပြည်နယ် မှာ ခြံ တစ်ခြံ ကျွန်တော် ဝယ်ခဲ့တယ်။
+5/5
 
 3780
 I have a farm here in Texas.
-ကျွန်တော်မှာ တက္ကဆက် က ဒီမှာ ခြံ တစ်ခြံ ရှိတယ်။
+ကျွန်တော့်မှာ ဒီ တက္ကဆက်မှာ ခြံ တစ်ခြံ ရှိတယ်။
+5/5
 
 3781
 I have never been to Texas
-ကျွန်တော် တက္ကဆက်ကို မရောက်ဖူးဘူး
+ကျွန်တော် တက္ကဆက်ကို တစ်ခါမှ မရောက်ဖူးဘူး
+5/5
 
 3782
 I do not like to go when something is released the night of but rather wait a week to see it.
-ညက တစ်စုံတစ်ခု ထုတ်ပြန်ခဲ့ချိန်မှာ ကျွန်တော် မသွားချင်ပေမယ့် အဲဒါကို သိရဖို့ တစ်ပတ်လောက် စောင့်ရတယ်။
+စ ပြပြခြင်း ညမှာသွားကြည့်တာကို ငါမကြိုက်ဘူး၊ တစ်ပတ်လောက်စောင့်ပြီးမှပဲ သွားကြည့်တယ်။ 
+3/5
 
 3783
 I was there on opening night of course!
-သင်တန်း ဖွင့်တဲ့ညမှာ ကျွန်တော် အဲဒီမှာ ရှိခဲ့တယ်!
+စ ပြပြချင်းညမှာ ငါရှိခဲ့တာပေါ့!
+3/5
 
 3784
 It was a great time especially since it was a week after it was released.
 အထူးသဖြင့် ၎င်းကို ထုတ်ပြန်ခဲ့ပြီးနောက် သီတင်းပတ် တစ်ပတ် ကြာခဲ့သည်ဆိုကတည်းက ဒါဟာ အချိန်ကောင်း တစ်ခု ဖြစ်ခဲ့သည်။
+4/5
 
 3785
 I bet you taught yourself how to do that.
-အဲဒါကို ဘယ်လို လုပ်ရမလဲ ဆိုတာကို မင်း ကိုယ်တိုင် သင်ယူခဲ့တယ်လို့ ငါ ထင်ပါတယ်။
+အဲဒါကို မင်း ကိုယ့်ဘာသာကိုယ် လုပ်တတ်ခဲ့တာ လို့ ငါထင်တယ်။
+3/5
 
 3786
 That is so lame, I am glad you dont know how to do it.
-အရမ်းမိုက်တယ် ၊ မင်း ဘယ်လို လုပ်ရမှန်း မသိလို့ ငါ ဝမ်းသာတယ်။
+အဒါက အရမ်းပိန်းပါတယ်ကွာ ၊ မင်း အဲဒါကို ဘယ်လို လုပ်ရမှန်း မသိလို့ ငါ ဝမ်းသာတယ်။
+3/5
 
 3787
 Where did you learn how to do that?
-ဒီလို လုပ်နည်းကို မင်း ဘယ်မှာ လေ့လာခဲ့လဲ။
+အဲဒါလုပ်နည်းကို မင်း ဘယ်မှာ သင်ခဲ့တာလဲ?
+4/5
 
 3788
 Some stores carry exercise equipment.
-အချို့ ဆိုင်များတွင် လေ့ကျင့်ခန်း ကိရိယာများ ဆောင်ထားကြသည်။
+တချို့ဆိုင်တွေမှာ ကိုယ်ကာယလေ့ကျင့်ရေး ပစ္စည်းတွေတင်တယ်။
+5/5
 
 3789
 Some stores have yoga mats and training guides.
-အချို့ ဆိုင်များတွင် ယောဂ ဖျာများ နှင့် လေ့ကျင့်ခန်း လမ်းညွှန်များ ရှိသည်။
+တချို့ဆိုင်တွေမှာ ယောဂ ဖျာ နဲ့ လေ့ကျင့်ခန်း လမ်းညွှန် တွေရှိတယ်။
+5/5
 
 3790
 You have to order exercise stuff online, since no stores carry it.
-စတိုးဆိုင်များတွင် ၎င်းကို မဆောင်ထား သောကြောင့် ၊ မင်းက လေ့ကျင့်ခန်း ပစ္စည်းများကို အွန်လိုင်းမှ မှာယူရန် လိုအပ်ပါသည်။
+စတိုင်းဆိုင်တွေမှာ လေ့ကျင့်ခန်း ပစ္စည်းတွေ မတင်တာကြောင့် မင်း အွန်လိုင်းကနေ မှာရလိမ့်မယ်။
+4/5
 
 3791
 Both of these options should pay well over normal market rate over the next decade.
-ဤ ရွေးချယ်မှု နှစ်ခုစလုံးသည် လာမည့် ဆယ်စုနှစ် အလွန်မှာ ပုံမှန် စျေးကွက်နှုန်းထက် ကောင်းစွာ ပေးချေသင့်သည်။
+ဒီ ရွေးချယ်မှု နှစ်ခုလုံးက နောက်ဆယ်နှစ်ကျော်အကြာမှာ  ပုံမှန် စျေးကွက်ပေါက်စျေးထက် ကောင်းကောင်းပိုမြတ်နိုင်လိမ့်မယ်။
+4/5
 
 3792
 Eventually this position should have much better salary options than the alternative.
-နောက်ဆုံးတွင် ဤ ရာထူးသည် အခြားရွေးချယ်စရာများ ထက် ပိုမိုကောင်းမွန်သော လစာ ရွေးချယ်ခွင့် ရှိသင့်သည်။
+နောက်ဆုံးတွင် ဤ ရာထူးသည် အခြားရာထူးထက် ပိုကောင်းတဲ့ လစာ ရွေးချယ်စရာများ ရှိသင့်သည်။
+3/5
 
 3793
 We should be able to offer similar salary options eventually.
-အလားတူ လစာ ရွေးချယ်ခွင့်များကို နောက်ဆုံးတွင် ကျွန်တော်တို့ ပေးဆောင်နိုင်ရပါမည်။
+အလားတူ လစာ ရွေးချယ်ခွင့်များကို နောက်ဆုံးတွင် ကျွန်တော်တို့ ပေးနိုင်ရပါမည်။
+4/5
 
 3794
 This empowers people and makes them feel great about things!
 ဒါက လူတွေကို ခွန်အားဖြစ်စေ ပြီး အကြောင်အရာတွေ နဲ့ပတ်သက်ပြီး ဒါတွေကို ကောင်းကောင်းခံစားစေတယ်!
+3/5
 
 3795
 This is just making people feel bad and guilty.
-ဒါက လူတွေကို မကောင်းအောင် နှင့် စိတ်မသိုးမသန့်ဖြစ်အောင် လုပ်လိုက်တာပဲ ဖြစ်တယ်။
+ဒါက လူတွေကို စိတ်မကောင်းအောင် နှင့် အပြစ်ရှိသလိုခံစားရအောင် လုပ်နေတာပဲ ဖြစ်တယ်။
+4/5
 
 3796
 This is making people donate more than they can afford, just because they feel bad for the poor people.
-သူတို့သည် ဆင်းရဲသားတွေ အတွက် စိတ်မကောင်းဖြစ်မိ တာကြောင့် ၊ လူတွေက သူတို့ တတ်နိုင်တာထက် ပိုလှူကြဖို့ ပြုလုပ်နေကြတယ်။
+ဆင်းရဲသားတွေအတွက် စိတ်မကောင်းဖြစ်တာကြောင့် လူတွေက သူတို့တတ်နိုင်တာထက် ပိုပြီးလှူမိအောင် လုပ်နေတယ်။
+3/5
 
 3797
 We don't have any holidays at all!
-ကျွန်ုပ်တို့တွင် အားလပ်ရက် လုံးဝ မရှိပါ!
+ငါတို့မှာ အားလပ်ရက် လုံးဝ မရှိဘူး!
+4/5
 
 3798
 We get paid our full amount on all the holidays, even the day before and after Christmas.
-ခရစ္စမတ် မတိုင်မီနှင့် နောက်နေ့များတွင်ပင် ၊ အားလပ်ရက်များ အားလုံးတွင် ကျွန်ုပ်တို့၏ ငွေပမာဏကို အပြည့် ကျွန်တော်တို့ ပေးချေရပါသည်။
+အားလပ်ရက်များ အားလုံးအပါအဝင် ခရစ္စမတ်မတိုင်မီနဲ့ နောက်နေ့တွေမှာတောင်မှ ကျွန်ုပ်တို့၏ ငွေပမာဏကို အပြည့် ကျွန်ုပ်တို့ ရပါသည်။
+4/5
 
 3799
 We get some holidays off through the year.
-ကျွန်ုပ်တို့သည် တစ်နှစ်ပတ်လုံး အားလပ်ရက် အချို့ ရရှိသည်။
+ကျွန်ုပ်တို့သည် တစ်နှစ်ပတ်လုံးမှာ အားလပ်ရက် အချို့ ရရှိသည်။
+4/5
 
 3800
 We have way more money than we'd ever need!
-ကျွန်ုပ်တို့တွင် အမြဲ လိုအပ်သည်ထက် ငွေများ ပိုရသည့် နည်းလမ်း ကျွန်ုပ်တို့တွင် ရှိသည်။
+ငါတို့မှာ ငါတို့တသက်လုံးလိုမယ့်ပိုက်ဆံထက်ကို ပိုများတဲ့ ပိုက်ဆံတွေရှိတယ်!
+4/5

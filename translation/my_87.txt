@@ -1,450 +1,507 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 8601
 Charles Lane sold cars.
-ချာလီစ်လိန်းသည် ကားများကို ရောင်းချခဲ့သည်။
+Charles Lane သည် ကားများကို ရောင်းချခဲ့သည်။
+# 4/5
 
 8602
 Charles Lane won a Pulitzer.
-ချာလီစ်လိန်းသည် ပူလစ်ဇာဆုကို ရရှိခဲ့သည်။
+Charles Lane သည် Pulitzer ဆု ကို ရရှိခဲ့သည်။
+# 4/5
 
 8603
 Some contemporary opponents of theism have a financial stake in discrediting the logic of this cosmological argument.
 ထာဝရဘုရားသခင်ကို သက်ဝင်ယုံကြည်ကိုးကွယ်သည့် ဘာသာတရား၏ အချို့ခေတ်ပြိုင် ပြိုင်ဘက်များတွင် အဆိုပါ စကြာဝဠာဗေဒဆိုင်ရာ ငြင်းဆိုချက်၏ ယုတ္တိဗေဒတရားကို အယုံအကြည်ကင်းမဲ့ လက်မခံဘဲ ဘဏ္ဍာရေးဆိုင်ရာ ရင်းနှီးမြှုပ်နှံငွေရှိသည်။
+# 1/5
 
 8604
 The logic of this cosmological argument has been attacked many times by opponents.
 အဆိုပါ စကြာဝဠာဗေဒဆိုင်ရာ ငြင်းဆိုချက်၏ ယုတ္တိဗေဒတရားကို ပြိုင်ဘက်များက အကြိမ်ကြိမ် တိုက်ခိုက်ခဲ့ကြသည်။
+# 2/5
 
 8605
 This cosmological argument has been accepted and approved by everyone who reads it.
 အဆိုပါ စကြာဝဠာဗေဒဆိုင်ရာ ငြင်းဆိုချက်၏ ယုတ္တိဗေဒတရားကို ဖတ်ရှုသူတိုင်းက လက်ခံပြီး ထောက်ခံအတည်ပြုထားသည်။
+# 2/5
 
 8606
 Talmudic has all of those problems.
-ရှေးဂျူးဥပဒေများနှင့် ဓလေ့ထုံးတမ်းများတွင် အဆိုပါ ပြဿနာများအားလုံးရှိသည်။
+Talmudic တွင် အဆိုပါ ပြဿနာများအားလုံးရှိသည်။
+# 4/5
 
 8607
 Talmudic has no problems with poverty.
-ရှေးဂျူးဥပဒေများနှင့် ဓလေ့ထုံးတမ်းများတွင် ဆင်းရဲမွဲတေခြင်းနှင့်ပတ်သက်၍ ပြဿနာမရှိပါ။
+Talmudic ဆင်းရဲမွဲတေခြင်းနှင့်ပတ်သက်၍ ပြဿနာမရှိပါ။
+# 4/5
 
 8608
 Talmudic has no problems.
-ရှေးဂျူးဥပဒေများနှင့် ဓလေ့ထုံးတမ်းများတွင် ပြဿနာမရှိပါ။
+Talmudic များတွင် ပြဿနာများမရှိပါ။
+# 4/5
 
 8609
 The courthouse isn't the only political place in washington.
-တရားရုံးသည် ဝါရှင်တန်ရှိ နိုင်ငံရေးနှင့်သက်ဆိုင်သည့် တစ်ခုတည်းသောနေရာမဟုတ်ပါ။
+ဝါရှင်တန်တွင် တရားရုံးသည် နိုင်ငံရေးနှင့်သက်ဆိုင်သည့် တစ်ခုတည်းသောနေရာမဟုတ်ပါ။
+# 4/5
 
 8610
 The political day likely starts in the morning.
 နိုင်ငံရေးနေ့သည် နံနက်ပိုင်းတွင် စတင်ဖွယ်ရှိသည်။
+# 3/5
 
 8611
 There is a circus at the courthouse with clowns.
 တရားရုံးတော်တွင် လူရွှင်တော်များနှင့် ဆပ်ကပ်ပွဲတစ်ပွဲရှိသည်။
+# 4/5
 
 8612
 After this book is published, we will schedule a meeting and then continue our discussion.
-ဤစာအုပ်ထုတ်ဝေပြီးသွားလျှင်၊ ကျွန်တော်တို့ အစည်းအဝေးတစ်ခု စီစဉ်မည်ဖြစ်ပြီး ကျွန်တော်တို့ရဲ့ ဆွေးနွေးတိုင်ပင်မှုတွေကို ဆက်လက်ဆောင်ရွက်မည်။
+ဤစာအုပ်ထုတ်ဝေပြီးသွားလျှင်၊ ကျွန်တော်တို့ အစည်းအဝေးတစ်ခု စီစဉ်မည်ဖြစ်ပြီး ကျွန်တော်တို့​၏ ဆွေးနွေးတိုင်ပင်မှုများအား ဆက်လက်ဆောင်ရွက်မည်။
+# 4/5
 
 8613
 We certainly cannot continue this discussion until after the book is published.
-စာအုပ်ထုတ်ဝေပြီးသည့်တိုင်အောင် ဤဆွေးနွေးမှုကို ကျွန်တော်တို့ လုံးဝ ဆက်လုပ်နိုင်မှာမဟုတ်ဘူး။
+စာအုပ်ထုတ်ဝေမပြီးမချင်း ဤဆွေးနွေးမှုကို ကျွန်တော်တို့ လုံးဝ ဆက်လုပ်နိုင်မည်မဟုတ်ပါ။
+# 4/5
 
 8614
 We should have daily meeting to discuss this subject further, starting today.
-ဒီနေ့ကစပြီး၊ ဒီအကြောင်းအရာကို နောက်ထပ်ဆွေးနွေးဖို့ ငါတို့ နေ့စဉ် အစည်းအဝေးလုပ်သင့်တယ်။
+ဒီအကြောင်းအရာကို ဆက်ဆွေးနွေးဖို့ ဒီနေ့ကစပြီး ငါတို့ နေ့စဉ်အစည်းအဝေးလုပ်သင့်တယ်။
+# 4/5
 
 8615
 Most people have heard the Tripp recordings.
-ထရစ်ပ် အသံဖိုင်များကို လူအများစုက ကြားဖူးကြမှာပါ။ 
+Tripp အသံဖိုင်တွေကို လူအများစုက ကြားဖူးကြပြီးဖြစ်တယ်။
+# 4/5
 
 8616
 Trip's conversations can be listened to.
-ထရစ်ပ်၏ ပြောဆိုချက်များကို နားထောင်နိုင်ပါသည်။
+Tripp ၏ ပြောဆိုချက်များကို နားထောင်နိုင်ပါသည်။
+# 4/5
 
 8617
 Tripp's conversations have never been listened to.
-ထရစ်ပ်၏ ပြောဆိုချက်များကို တခါမှ နားမထောင်ရသေးပါ။
+Tripp ၏ ပြောဆိုချက်များကို တခါမှ နားမထောင်ရသေးပါ။
+# 4/5
 
 8618
 Kevin Lamarque has taken many photos of Bill Clinton including one in the Slate Table of Contents.
-ကီဗင်လာမာ့ခ်သည် စလေ့မာတိကာရှိ ဓာတ်ပုံအပါအဝင် ဘီလ်ကလင်တန်၏ ဓာတ်ပုံများစွာကို ရိုက်ကူးခဲ့သည်။
+Kevin Lamarque သည် Slate Table of Contents ရှိ ဓာတ်ပုံအပါအဝင် Bill Clinton ၏ ဓာတ်ပုံများစွာကို ရိုက်ကူးခဲ့သည်။
+# 4/5
 
 8619
 Photograph of Bill Clinton on the Vanity Fair Table of Contents by Ralph Emerson/AP News.
-ရပ်အီမာဆန်/အေပီ သတင်းဌာနမှ ရိုက်ကူးထားသော ဗန်နတီဖဲရားမာတိကာရှိ ဘီလ်ကလင်တန်၏ ဓာတ်ပုံ။
+Ralph Emerson/AP သတင်းဌာနမှ ရိုက်ကူးထားသော Vanity Fair Table of Contents မှ Bill Clinton ၏ ဓာတ်ပုံ။
+# 4/5
 
 8620
 The Slate Table of Contents includes a photograph of President Clinton.
-စလေ့မာတိကာတွင် သမ္မတကလင်တန်၏ ဓာတ်ပုံတစ်ပုံ ပါရှိသည်။
+Slate Table of Confents တွင် သမ္မတကလင်တန်၏ ဓာတ်ပုံတစ်ပုံ ပါရှိသည်။
+# 4/5
 
 8621
 The budget is choosing things with a lot of risk.
 ခန့်မှန်းခြေရသုံးငွေအသုံးစရိတ်သည် စွန့်စားမှုများသော အရာများကို ရွေးချယ်နေခြင်းဖြစ်သည်။
+# 2/5
+# Need more background context to check accuracy.
 
 8622
 The budget is making some interesting moves.
 ခန့်မှန်းခြေရသုံးငွေအသုံးစရိတ်နှင့် စိတ်ဝင်စားဖွယ်ကောင်းသော ကြိုးပမ်းမှုများကို ပြုလုပ်နေတယ်။
+# 2/5
+# Need more background context to check accuracy.
 
 8623
 The budget is physically coming to destroy the capital.
 ခန့်မှန်းခြေရသုံးငွေအသုံးစရိတ်သည် ငွေအရင်းအနှီးကို အမှန်တကယ် ပျောက်ပျက်လာစေသည်။
+# 2/5
+# Need more background context to check accuracy.
 
 8624
 It's less than News Quiz can promise about Fox.
-နယူးကွတ်စ် သတင်းပဟေဠိ ဖောက်စ် အကြောင်း အလားအလာပြုနိုင်သည့်အောက်လျော့သည်။
+ဤအရာသည်  New Quiz က ကတိပြုပေးနိုင်သော Fox အကြောင်းအောက်လျော့နည်းသည်။
+# 3/5
 
 8625
 It's more than News Quiz can assure about Fox.
-နယူးကွတ်စ် သတင်းပဟေဠိက ဖောက်စ် အကြောင်း အသေအချာအာမခံနိုင်သည်ထက်ပိုသည်။
+ဤအရာသည်  New Quiz က အာမခံပေးနိုင်သော Fox အကြောင်းထက် ပိုသည်။
+# 3/5
 
 8626
 It's probably more than News Quiz can say about Fox/
-ဖောက်စ် အကြောင်း နယူးကွတ်စ် သတင်းပဟေဠိပြောနိုင်တာထက်ပို၍ ပိုနိုင်တယ်/
+ဤအရာသည်  New Quiz က ပြောနိုင်တဲ့ Fox အကြောင်းထက် ပိုနိုင်လောက်သည်/
+# 3/5
 
 8627
 Kennedy favors federal rights.
-ကနေဒီသည် ဖက်ဒရယ်အခွင့်အရေးများကို ထောက်ခံသည်။
+Kennedy သည် ဖက်ဒရယ်အခွင့်အရေးများကို ထောက်ခံသည်။
+# 4/5
 
 8628
 Kennedy favors states rights when it comes to abortion.
-ကိုယ်ဝန်ဖျက်ချခြင်းနှင့် ပတ်သက်လာလျှင် ကနေဒီသည် ပြည်နယ်များ၏ အခွင့်အရေးများကို ထောက်ခံသည်။
+ကိုယ်ဝန်ဖျက်ချခြင်းနှင့် ပတ်သက်လာလျှင် Kennedy သည် ပြည်နယ်များ၏ အခွင့်အရေးများကို ထောက်ခံသည်။
+# 4/5
 
 8629
 Kennedy favors states' rights.
-ကနေဒီသည် ပြည်နယ်များ၏ အခွင့်အရေးများကို ထောက်ခံသည်။
+Kennedy သည် ပြည်နယ်များ၏ အခွင့်အရေးများကို ထောက်ခံသည်။
+# 4/5
 
 8630
 Morris said he had bad motives.
-မောရစ်က သူမှာ မကောင်းတဲ့ ရည်ရွယ်ချက်တွေရှိတယ်လို့ ဆိုပါတယ်။
+သူ့မှာ မကောင်းတဲ့ ရည်ရွယ်ချက်တွေရှိတယ်လို့ Moris က ပြောခဲ့တယ်။
+# 4/5
 
 8631
 Morris said he was doing that to help the economy.
-မောရစ်က သူဟာ စီးပွားရေးကို ကူညီဖို့ ဒါကို လုပ်ဆောင်နေတယ်လို့ ပြောခဲ့တယ်။
+Morris က သူဟာ စီးပွားရေးကို ကူညီဖို့ ဒါကို လုပ်ဆောင်နေတယ်လို့ ပြောခဲ့တယ်။
+# 4/5
 
 8632
 Morris says he was doing something good.
-မောရစ်က သူဟာ ကောင်းမွန်တဲ့ ကိစ္စတစ်ခု ဆောင်ရွက်နေတယ်လို့ ပြောတယ်။
+Morris က သူဟာ ကောင်းမွန်တဲ့ ကိစ္စတစ်ခု ဆောင်ရွက်နေတယ်လို့ ပြောခဲ့တယ်။
+# 4/5
 
 8633
 The WHO does not have a strategy for treatin tuberculosis.
 ကမ္ဘာ့ကျန်းမာရေးအဖွဲ့တွင် တီဘီရောဂါကို ကုသရန် မဟာဗျူဟာတစ်ခု မရှိပါ။
+# 4/5
 
 8634
 The WHO has a strategy for treating tuberculosis that can save over ten million lives.
-ကမ္ဘာ့ကျန်းမာရေးအဖွဲ့တွင် လူ့အသက်ပေါင်း ဆယ်သန်းကျော်ကို ကယ်တင်နိုင်သည့် တီဘီရောဂါကိုကုသမည့် မဟာဗျူဟာတစ်ခု ရှိသည်။
+ကမ္ဘာ့ကျန်းမာရေးအဖွဲ့တွင် လူ့အသက်ပေါင်း ဆယ်သန်းကျော်ကို ကယ်တင်နိုင်မည့် တီဘီရောဂါကိုကုသသည့် မဟာဗျူဟာတစ်ခု ရှိသည်။
+# 4/5
 
 8635
 The WHO has a strategy that can save millions from tuberculosis.
-ကမ္ဘာ့ကျန်းမာရေးအဖွဲ့တွင် တီဘီရောဂါမှ သန်းပေါင်းများစွာ ကယ်တင်နိုင်သည့် မဟာဗျူဟာတစ်ခု ရှိသည်။
+ကမ္ဘာ့ကျန်းမာရေးအဖွဲ့တွင် သန်းပေါင်းများစွာကို တီဘီရောဂါမှ ကယ်တင်နိုင်သည့် မဟာဗျူဟာတစ်ခု ရှိသည်။
+# 4/5
 
 8636
 Weisberg  wrote about the elections.
-ဝီစ်ဘာ့ဂျ်သည် ရွေးကောက်ပွဲများအကြောင်း ရေးသားခဲ့သည်။
+Weisberg သည် ရွေးကောက်ပွဲများအကြောင်း ရေးသားခဲ့သည်။
+# 4/5
 
 8637
 Weisberg wrote about dogs.
-ဝီစ်ဘာ့ဂျ်သည် ခွေးများအကြောင်း ရေးသားခဲ့သည်။
+Weisberg သည် ခွေးများအကြောင်း ရေးသားခဲ့သည်။
+# 4/5
 
 8638
 Weisberg wrote about the presidential election.
-ဝီစ်ဘာ့ဂျ်သည် သမ္မတရွေးကောက်ပွဲအကြောင်း ရေးသားခဲ့သည်။
+Weisberg သည် သမ္မတရွေးကောက်ပွဲအကြောင်း ရေးသားခဲ့သည်။
+# 4/5
 
 8639
 The cover story is about clowns.
-မျက်နှာဖုံးဆောင်းပါးဟာ လူရွှင်တော်တွေအကြောင်းပဲ။
+မျက်နှာဖုံးဆောင်းပါးသည် လူရွှင်တော်များအကြောင်းဖြစ်သည်။
+# 4/5
 
 8640
 The cover story shows how infants think about things.
 မျက်နှာဖုံးဆောင်းပါးသည် မွေးကင်းစကလေးငယ်များ အရာဝတ္ထုများအကြောင်း မည်ကဲ့သို့ တွေးတောသည်ကို ဖော်ပြထားသည်။
+# 4/5
 
 8641
 The cover story talks about how infants make decisions.
 မျက်နှာဖုံးဆောင်းပါးသည် မွေးကင်းစကလေးငယ်များ မည်ကဲ့သို့ ဆုံးဖြတ်ချက်များချသည်ကို ဆွေးနွေးထားသည်။
+# 4/5
 
 8642
 Pollution is a limiting factor for population growth.
-ပတ်ဝန်းကျင်ညစ်ညမ်းမှုသည် လူဦးရေတိုးပွားလာမှုအတွက် အကန့်အသတ်ဖြစ်စေသော အကြောင်းတစ်ခု ဖြစ်သည်။
+ပတ်ဝန်းကျင်ညစ်ညမ်းမှုသည် လူဦးရေတိုးပွားလာမှုအတွက် အကန့်အသတ်ဖြစ်စေသော အကြောင်းတစ်ခု ဖြစ်သည်။
+# 4/5
 
 8643
 Population growth is similar to inverse pollution.
 လူဦးရေတိုးပွားလာမှုသည် ပြောင်းပြန်ပတ်ဝန်းကျင်ညစ်ညမ်းမှုနှင့် ဆင်တူသည်။
+# 4/5
 
 8644
 There is no relation between population growth and pollution.
 လူဦးရေတိုးပွားလာမှုနှင့် ပတ်ဝန်းကျင်ညစ်ညမ်းမှုကြား ဆက်စပ်မှုမရှိပါ။
+# 4/5
 
 8645
 Clinton was entirely faithful to his wife during their long marriage.
-သူတို့ရဲ့ ရှည်လျားလှတဲ့ အိမ်ထောင်သက်အတွင်းမှာ ကလင်တန်ဟာ သူရဲ့ ဇနီးအပေါ် လုံးဝ သစ္စာရှိခဲ့တယ်။
+သူတို့ရဲ့ ရှည်လျားလှတဲ့ အိမ်ထောင်သက်အတွင်းမှာ Clinton က သူရဲ့ ဇနီးအပေါ် လုံးဝ သစ္စာရှိခဲ့တယ်။
+# 4/5
 
 8646
 Clinton's adversaries attempted to disgrace him, and also to impeach him.
-ကလင်တန်ရဲ့ ပြိုင်ဘက်ရန်သူများဟာ သူ့ကို အရှက်တကွဲနဲ့ဂုဏ်သရေပျက်အောင် ကြိုးစားခဲ့ကြတယ်၊ ပြီးတော့ သူ့ကို ရုံးတင်တရားစွဲဆိုဖို့လည်း ကြိုးစားခဲ့ကြတယ်။
+Clinton ရဲ့ ပြိုင်ဘက်ရန်သူတွေဟာ သူ့ကို အရှက်တကွဲနဲ့ဂုဏ်သရေပျက်အောင် ကြိုးစားခဲ့ကြတယ်၊ ပြီးတော့ သူ့ကို ရုံးတင်တရားစွဲဆိုဖို့လည်း ကြိုးစားခဲ့ကြတယ်။
+# 4/5
 
 8647
 Clinton's affair with Lewinsky was a moral disgrace for the Democratic Party and caused the defeat of Gore when he ran for president.
-ဒီမိုကရက်တစ်ပါတီအတွက် လူဝင်စကီနှင့် ကလင်တန်ရဲ့ ကိစ္စဟာ သိက္ခာပျက်ယွင်းမှုအရှက်ရစရာ တစ်ခု ဖြစ်ပြီး သမ္မတလောင်းအဖြစ်ဝင်ရောက်၍ သူယှဉ်ပြိုင်သောအခါ ဂိုးကို ရှုံးနိမ့်စေခဲ့သည်။
+Clinton ရဲ့ Lewinsky နဲ့ဖောက်ပြန်မှုကိစ္စဟာ ဒီမိုကရက်တစ်ပါတီအတွက် သိင်္က္ခာကျ အရှက်ကွဲစရာ တစ်ခု ဖြစ်ပြီး သမ္မတလောင်းအဖြစ်ဝင်ရောက်၍ ယှဉ်ပြိုင်သောအခါ Gore ကို ရှုံးနိမ့်စေခဲ့သည်။
+# 4/5
 
 8648
 Bradley was from Arkansas.
-ဘရတ်ဒလီသည် အာကင်ဆောပြည်နယ်မှ ဖြစ်သည်။
+Bradley အာကင်ဆောပြည်နယ်မှ ဖြစ်သည်။
+#4/5
 
 8649
 Bradley was from Missouri.
-ဘရတ်ဒလီသည် မစ်ဆူရီပြည်နယ်မှ ဖြစ်သည်။
+Brdley မစ်ဆူရီပြည်နယ်မှ ဖြစ်သည်။
+# 4/5
 
 8650
 Bradley was from the east side of St Louis.
-ဘရတ်ဒလီသည် စိန့်လူးဝစ်မြို့၏ အရှေ့ဘက်ခြမ်းမှ ဖြစ်သည်။
+Bradley သည်စိ န့်လူးဝစ်မြို့၏ အရှေ့ဘက်ခြမ်းမှ ဖြစ်သည်။
+# 4/5
 
 8651
 Can you explain to me why that option is preferable to becoming a fur coat?
 သားမွေးကုတ်အင်္ကျီတစ်ထည် ဖြစ်လာဖို့ ဘာကြောင့် ဒီရွေးချယ်မှုဟာ ပိုပြီးကောင်းမွန်သင့်တော်တယ်ဆိုတာ ခင်ဗျား ကျွန်တော့်ကို ရှင်းပြပေးနိုင်မလား။
+# 3/5
+# Might want to check background context again to ensure accuracy.
 
 8652
 If the animal is already dead and the fur is going to be discarded and burned if it isn't used, is turning it into a fur coat the best option and a form of recycling?
-တိရိစ္ဆာန်ဟာ သေပြီးသွားပြီး သားမွေးတွေကို စွန့်ပစ်မယ် ပြီးတော့ အသုံးမပြုဘဲ မီးရှို့ပစ်မယ်ဆိုရင်၊ ဒါကို သားမွေးကုတ်အင်္ကျီအဖြစ် ပြောင်းလဲတာဟာ အကောင်းဆုံးရွေးချယ်စရာဖြစ်သလား ပြီးတော့ ပြန်လည်အသုံးပြုတဲ့ ပုံစံတစ်ခုလား။
+အကယ်၍ တိရိစ္ဆာန်ဟာ သေပြီးသားဖြစ်ပြီး သားမွေးတွေကို စွန့်ပစ်ဖြစ်မယ် ပြီးတော့ အသုံးမပြုလို့ မီးရှို့ပစ်မယ်ဆိုရင်၊ ဒါကို သားမွေးကုတ်အင်္ကျီအဖြစ် ပြောင်းလဲတာဟာ အကောင်းဆုံးရွေးချယ်စရာဖြစ်ပြီး ပြန်လည်အသုံးပြုတဲ့ ပုံစံတစ်ခုလား။
+# 3/5
 
 8653
 That type of fur coat has been banned and therefore it is not an option.
 ဒီလိုအမျိုးအစား သားမွေးကုတ်အင်္ကျီကို တားမြစ်ထားတာဆိုတော့ ဒီဟာက ရွေးချယ်စရာတစ်ခု မဟုတ်ဘူး။
+# 4/5
 
 8654
 Despite USA Today's profits, the paper still is famous for negative media coverage.
-ယူအက်စ်အေတူဒေး၏ အမြတ်အစွန်းများစွာရှိသော်လည်း၊ စာတမ်းသည် အပျက်သဘောဆောင်သော သတင်းမီဒီယာဖော်ပြမှုအဖြစ် ကျော်ကြားနေဆဲဖြစ်သည်။
+USA Today ၏ အမြတ်အစွန်းများစွာရှိသော်လည်း၊ စာတမ်းသည် အပျက်သဘောဆောင်သော သတင်းမီဒီယာဖော်ပြမှုအဖြစ် ကျော်ကြားနေဆဲဖြစ်သည်။
+# 4/5
 
 8655
 Since 2010 when USA Today has posted a profit, they still receive attention for their media criticism.
-ယူအက်စ်အေတူဒေးသည် အမြတ်အစွန်းကို တင်သည့်အချိန် ၂၀၁၀ခုနှစ်ကတည်းက၊ ၎င်းတို့၏ သတင်းမီဒီယာ ဝေဖန်မှုအတွက် ၎င်းတို့သည် အာရုံစိုက်ခံနေရဆဲဖြစ်သည်။
+USA Today က အမြတ်အစွန်းကို ဖော်ပြခဲ့သည့် ၂၀၁၀ခုနှစ်ကတည်းက၊ ၎င်းတို့၏ သတင်းမီဒီယာ ဝေဖန်မှုအတွက် ၎င်းတို့သည် အာရုံစိုက်ခံနေရဆဲဖြစ်သည်။
+# 4/5
 
 8656
 USA Today has lost money every year recently but is still thought of in a positive light.
-မကြာသေးခင်နှစ်များတွင် ယူအက်စ်အေတူဒေးသည် နှစ်စဉ် ငွေကြေးများ ဆုံးရှုံးနေသော်လည်း အကောင်းမြင်စိတ်ဖြင့် စဉ်းစားနေဆဲဖြစ်သည်။
+မကြာသေးခင်နှစ်များတွင် USA Today သည်း နှစ်စဉ် ငွေကြေးများ ဆုံးရှုံးနေသော်လည်း ကောင်းသည့်ဖက်မှ ထင်မြင်ခံရဆဲဖြစ်သည်။
+# 4/5
 
 8657
 This short story writing technique is succinct and limited to two paragraphs.
 ဤဝတ္ထုတိုရေးနည်းသည် လိုရင်းတိုရှင်းဖြစ်ပြီး စာပိုဒ်နှစ်ပိုဒ်ထိသာ ကန့်သတ်ထားသည်။
+# 4/5
 
 8658
 This story writing technique pays off when you reach the third paragraph.
-ခင်ဗျား တတိယစာပိုဒ်ကို ရောက်သည့်အခါ ဤဝတ္ထုရေးနည်းသည် အကျိုးရှိသည်။
+သင် တတိယစာပိုဒ်ကို ရောက်သည့်အခါ ဤဝတ္ထုရေးနည်းသည် အကျိုးရှိသည်။
+# 3/5
 
 8659
 With this story writing technique, you risk your readers losing interest or being confused, because the subject isn't revealed until the third paragraph.
-ဤဇာတ်လမ်းရေးနည်းနှင့်ဆို၊ ခင်ဗျားရဲ့ စာဖတ်ပရိတ်သတ်တွေ စိတ်ဝင်စားမှုလျော့နည်းသွားမလား ဒါမှမဟုတ် ရှုတ်ထွေးသွားမလားဆိုတာ ခင်ဗျား အရဲစွန့်ရမယ်၊ ဘာလို့လဲဆိုတော့ တတိယအပိုဒ်ထိတိုင်အောင် အကြောင်းကိစ္စကို ဖော်ပြမထားလို့ပဲ။
+ဤဝတ္ထုတိုရေးနည်းနှင့်ဆိုလျှင် သင်၏ စာဖတ်ပရိတ်သတ်များ စိတ်ဝင်စားမှုလျော့နည်းခြင်း သို့မဟုတ် နားလည်မှုရှုပ်ထွေးခြင်း အလားအလာများဖြစ်နိုင်သည်။ အဘယ့်ကြောင့်ဆိုသော် တတိယအပိုဒ်ရောက်သည့်တိုင်အောင် ဇာတ်ကြောင်းကို မဖော်ပြနိုင်၍ဖြစ်သည်။
+# 4/5
 
 8660
 It costs six dollars to keep a microwave.
 မိုက်ခရိုဝေ့မီးဖိုတစ်လုံးကို ထားရှိဖို့ ခြောက်ဒေါ်လာကုန်ကျတယ်။
+# 4/5
 
 8661
 Keeping an old microwave is worth six dollars.
 မိုက်ခရိုဝေ့မီးဖိုအဟောင်းတစ်လုံး ထိန်းသိမ်းထားတာ ခြောက်ဒေါ်လာတန်တယ်။
+# 3/5
 
 8662
 The monetary cost of keeping a microwave is twelve dollars.
 မိုက်ခရိုဝေ့မီးဖိုတစ်လုံး ထိန်းသိမ်းထားရှိရန် ငွေကြေးကုန်ကျစရိတ်မှာ တစ်ဆယ့်နှစ်ဒေါ်လာဖြစ်သည်။
+# 4/5
 
 8663
 Sabol does not need to take all those pit stops.
-ဆဲဘောသည် အဆိုပါ ဓာတ်ဆီ ဖြည့်ရန်၊ ဘီးလဲရန် စသည်တို့အတွက် ခရီးတစ်ထောက်ရပ်နားရန်နေရာများ အားလုံးတွင် ရပ်နားရန်မလိုအပ်ပါ။
+Sabol သည် အဆိုပါ ခရီးတစ်ထောက်ရပ်နားရန်နေရာများ အားလုံးတွင် ရပ်နားရန်မလိုအပ်ပါ။
+# 4/5
 
 8664
 Sabol mentioned that now and again he has to make a pit stop.
-ဆဲဘောက သူသည် မကြာခဏ ဓာတ်ဆီ ဖြည့်ရန်၊ ဘီးလဲရန် စသည်တို့အတွက် ခရီးတစ်ထောက်ရပ်နားရသည်ဟု ထုတ်ဖော်ပြောဆိုခဲ့သည်။
+သူ မကြာခဏ ခရီးတစ်ထောက်ရပ်နားရန်လိုသည်ဟု Sabol က ထုတ်ဖော်ပြောဆိုခဲ့သည်။
+# 4/5
 
 8665
 Sabol remarked that he does not need to take any breaks.
-ဆဲဘောက သူသည် အနားယူရပ်နားရန် မလိုအပ်ကြောင်း မှတ်ချက်ပြုသည်။
+Sabol က သူသည် အနားယူရပ်နားရန် မလိုအပ်ကြောင်း မှတ်ချက်ပြုသည်။
+# 4/5
 
 8666
 No activities excrete fluid.
 မည်သည့် လှုပ်ရှားဆောင်ရွက်မှုများမှ အရည်များကို မစွန့်ထုတ်ပါ။
+# 4/5
 
 8667
 Some activities excrete blood.
 လှုပ်ရှားဆောင်ရွက်မှုအချို့သည် သွေးများကို စွန့်ထုတ်သည်။
+# 4/5
 
 8668
 Some activities excrete fluids.
 လှုပ်ရှားဆောင်ရွက်မှုအချို့သည် အရည်များကို စွန့်ထုတ်သည်။
+# 4/5
 
 8669
 The NEA is too busy to ask detailed questions concerning literature on their surveys.
-အန်အီးအေသည် ၎င်းတို့၏ ဆန်းစစ်လေ့လာချက်များအပေါ် စာပေနှင့်သက်ဆိုင်သည့် အသေးစိတ်မေးခွန်းများကို မေးမြန်းရန် အလွန်အလုပ်များလွန်းသည်။
+NEA သည် ၎င်းတို့၏ စစ်တမ်းကောက်ယူချက်များနှင့်သက်ဆိုင်သည့် စာပေများအပေါ် အသေးစိတ်မေးခွန်းများမေးမြန်းရန် အလွန်အလုပ်များလွန်းသည်။
+# 4/5
 
 8670
 The NEA survey asked 30 questions about literature and what types of books were read in the past year.
-အန်အီးအေစစ်တမ်းသည် စာပေနှင့် ယမန်နှစ်က မည်သည့်စာအုပ်အမျိုးအစားများကို ဖတ်ရှုခဲ့သည်တို့နှင့်ပတ်သက်၍ မေးခွန်းပေါင်း ၃၀ မေးမြန်းခဲ့သည်။
+NEA စစ်တမ်းသည် စာပေနှင့် ယမန်နှစ်က မည်သည့်စာအုပ်အမျိုးအစားများကို ဖတ်ရှုခဲ့သည်တို့နှင့်ပတ်သက်၍ မေးခွန်းပေါင်း ၃၀ မေးမြန်းခဲ့သည်။
+# 4/5
 
 8671
 The NEA survey has only one question concerning books.
-အန်အီးအေစစ်တမ်းတွင် စာအုပ်များနှင့် သက်ဆိုင်သည့် မေးခွန်းတစ်ခုသာလျှင်ပါရှိသည်။
+NEA စစ်တမ်းတွင် စာအုပ်များနှင့် သက်ဆိုင်သည့် မေးခွန်းတစ်ခုသာ ပါရှိသည်။
+# 4/5
 
 8672
 First Wives Club is a happily-ever-after, romance movie about the enduring love of marrying your first boyfriend.
-ဖက်စ်ဝှိုက်ကလပ်သည် မင်းရဲ့ ပထမဆုံးချစ်သူနှင့် လက်ထပ်သည့် ခိုင်မြဲသောအချစ် အကြောင်း ထာဝရသာယာပျော်ရွှင်ဖွယ်၊ ကြည်နူးဖွယ်အချစ်ဇာတ်လမ်း တစ်ပုဒ်ဖြစ်သည်။
+First Wives Club သည် သင်၏ ပထမဆုံးချစ်သူနှင့် လက်ထပ်သည့် ခိုင်မြဲသောအချစ် အကြောင်း ထာဝရသာယာပျော်ရွှင်ဖွယ်၊ ကြည်နူးဖွယ်အချစ်ဇာတ်လမ်း တစ်ပုဒ်ဖြစ်သည်။
+# 4/5
 
 8673
 The movie, First Wives Club, set film industry records as the highest grossing women's film on it's first weekend.
-ဖက်စ်ဝှိုက်ကလပ်၊ရုပ်ရှင်သည်၊ ၎င်း၏ ပထမသတင်းပတ်ကုန်ရက်များတွင် ဝင်ငွေအကောင်းဆုံးအမျိုးသမီး ရုပ်ရှင်အဖြစ် ရုပ်ရှင်လောကတွင်မှတ်တန်းဝင်ခဲ့သည်။
+First Wives Club ရုပ်ရှင်သည်၊ ၎င်း၏ ပထမသတင်းပတ်ကုန်ရက်များတွင် ဝင်ငွေအကောင်းဆုံးအမျိုးသမီး ရုပ်ရှင်အဖြစ် ရုပ်ရှင်လောကတွင်မှတ်တန်းဝင်ခဲ့သည်။
+# 4/5
 
 8674
 The stars and the acting, more than the plot line of First Wives Club, helped to set record box office sales.
-ဖက်စ်ဝှိုက်ကလပ်၏ ဇာတ်လမ်းဇာတ်ကွက်ထက်ပို၍၊ သရုပ်ဆောင်အနုပညာရှင်များနှင့် သရုပ်ဆောင်ပိုင်းတို့သည်၊ လက်မှတ်ရုံ အရောင်းစံချိန်တင်ရန် ကူညီပေးခဲ့သည်။ 
+First Wives Club ၏ ဇာတ်လမ်းဇာတ်ကွက်ထက်ပို၍၊ သရုပ်ဆောင်အနုပညာရှင်များနှင့် သရုပ်ဆောင်ပိုင်းတို့သည်၊ လက်မှတ်ရုံ အရောင်းစံချိန်တင်ရန် ကူညီပေးခဲ့သည်။
+# 4/5
 
 8675
 This applies on the web.
-၎င်းသည် ဝက်ဘ်ပေါ်တွင် အကျုံးဝင်သည်။ 
+၎င်းသည် web ပေါ်တွင် အကျုံးဝင်သည်။ 
+# 4/5
 
 8676
 This currently does not apply on the Web.
-၎င်းသည် လောလောဆယ် ဝက်ဘ်ပေါ်တွင် အကျုံးမဝင်ပါ။
+၎င်းသည် လောလောဆယ် web ပေါ်တွင် အကျုံးမဝင်ပါ။
+# 4/5
 
 8677
 This may apply in some cases on the Web.
-၎င်းသည် ဝက်ဘ်ပေါ်ရှိ အချို့ကိစ္စများတွင် အကျုံးဝင်နိုင်သည်။
+၎င်းသည် web ပေါ်ရှိ အချို့ကိစ္စများတွင် အကျုံးဝင်နိုင်သည်။
+# 4/5
 
 8678
 Woodward has an interesting insight into Colin Powell's personal life and reveals many secrets in his recent book.
-ဝုဒ်ဝါဒ်သည် ကောလင်းပေါင်ဝဲလ်၏ ကိုယ်ပိုင်ဘဝကို စိတ်ဝင်စားဖွယ်ကောင်းသော အမြင်ရှိခဲ့ပြီး သူ၏ လတ်တလောစာအုပ်တွင် လျှို့ဝှက်ချက်များစွာကို ဖော်ထုတ်ပြထားသည်။
+Woodward တွင် Colin Powell ၏ ကိုယ်ပိုင်ဘဝကို စိတ်ဝင်စားဖွယ်ကောင်းသော အမြင်ရှိခဲ့ပြီး သူ၏ လတ်တလောစာအုပ်တွင် လျှို့ဝှက်ချက်များစွာကို ဖော်ထုတ်ပြထားသည်။
+# 4/5
 
 8679
 Woodward has never met Colin Powell and has no idea who he is.
-ဝုဒ်ဝါဒ်သည် ကောလင်း ပိုဝဲလ် နှင့် တခါမျှတွေ့ဆုံးဖူးခြင်း မရှိပါ ပြီးတော့လည်း သူ မည်သူမည်ဝါဖြစ်သည်ဆိုသည်ကိုလည်း မသိရှိပါ။
+Woodword သည် Colin Powell နှင့် တခါမျှတွေ့ဆုံးဖူးခြင်း မရှိပဲ ယင်း မည်သူမည်ဝါဖြစ်သည်ဆိုသည်ကိုလည်း မသိရှိပါ။
+# 4/5
 
 8680
 Woodward wrote a book about Colin Powell.
-ဝုဒ်ဝါဒ်သည် ကောလင်းပေါင်ဝဲလ်အကြောင်း စာအုပ်တစ်အုပ် ရေးသားခဲ့သည်။
+Woodword သည် Colin Powell အကြောင်း စာအုပ်တစ်အုပ် ရေးသားခဲ့သည်။
+# 4/5
 
 8681
 The USDA says police need to help them.
-ရဲတပ်ဖွဲ့က သူတို့ကို ကူညီဖို့လိုတယ်လို့ ယူအက်စ်ဒီအေက ပြောကြားသည်။
+ရဲတပ်ဖွဲ့က သူတို့ကို ကူညီဖို့လိုတယ်လို့ USDA က ပြောကြားသည်။
+# 4/5
 
 8682
 The USDA says they need a bigger force.
-ယူအက်စ်ဒီအေက သူတို့သည် ပိုမိုကြီးမားသော အင်အားတစ်ရပ်လိုအပ်သည်ဟု ပြောကြားသည်။
+USDA က သူတို့သည် ပိုမိုကြီးမားသော အင်အားတစ်ရပ်လိုအပ်သည်ဟု ပြောကြားသည်။
+# 4/5
 
 8683
 The USDA says they need looser enforcement.
-ယူအက်စ်ဒီအေက သူတို့သည် အနည်းငယ်မတင်းကျပ်သော ပြဋ္ဌာန်းချက်လိုအပ်သည်ဟု ပြောကြားသည်။
+USDA က သူတို့သည် ပို၍ဖြေလျော့သော ပြဋ္ဌာန်းချက်လိုအပ်သည်ဟု ပြောကြားသည်။
+# 4/5
 
 8684
 None of them have succeeded.
-သူတို့တွေထဲက ဘယ်သူ့မှ မအောင်မြင်ကြဘူး။
+သူတို့တွေထဲက ဘယ်သူ့မှ မအောင်မြင်ခဲ့ကြဘူး။
+# 4/5
 
 8685
 Some of them have been successful during the examination.
-သူတို့ထဲက အချို့ စာမေးပွဲမှာ အောင်မြင်ကြတယ်။
+သူတို့ထဲက အချို့ စာမေးပွဲအတွင်းမှာ အောင်မြင်ကြတယ်။
+# 3/5
 
 8686
 Some of them have been successful.
 သူတို့ထဲက အချို့က အောင်မြင်ကြတယ်။
+# 4/5
 
 8687
 Jon Benet Ramsey's half-brother was not in town when the murder was committed.
-ဂျွန်ဘီနတ်ရမ်စီ၏ ဖအေတူမအေကွဲညီသည် လူသတ်မှုကျူးလွန်ချိန်တွင် မြို့တွင် ရှိမနေပါ။
+Jon Benet Ramsey's ၏ ဖအေတူမအေကွဲညီသည် လူသတ်မှုကျူးလွန်ချိန်၌ မြို့တွင် ရှိမနေပါ။
+# 4/5
+# Is it an assumption in the translation that half-brother/sister is from same father? Please check and correct accordingly - eg. from same mother or from same father.
 
 8688
 Jon Benet Ramsey's half-sister has a strong alibi for the fact that she was out of town when the crime was committed.
-ဂျွန်ဘီနတ်ရမ်စီ၏ ဖအေတူမအေကွဲညီမသည် ရာဇဝတ်မှုဖြစ်ပွားချိန်တွင် သူမသည် မြို့ပြင်တွင်ရှိနေသည်ဆိုသော အချက်အတွက် ခိုင်လုံသော အလီဘိုင်ရှိသည်။
+Jon Benet Ramsey ၏ ဖအေတူမအေကွဲညီမသည် ရာဇဝတ်မှုဖြစ်ပွားချိန်တွင် သူမသည် မြို့ပြင်တွင်ရှိနေသည်ဆိုသော အချက်အတွက် ခိုင်လုံသော အထောက်အထားရှိသည်။
+# 4/5
+# Is it an assumption in the translation that half-brother/sister is from same father? Please check and correct accordingly - eg. from same mother or from same father.
 
 8689
 There is enough evidence to arrest Jon Benet Ramsey's half brother as the murderer.
-လူသတ်သမားအဖြစ် ဂျွန်ဘီနတ်ရမ်စီ၏ ဖအေတူမအေကွဲညီကို ဖမ်းဆီးရန် သက်သေအထောက်အထားခိုင်ခိုင်လုံလုံရှိတယ်။
+Jon Benet Ramsey ၏ ဖအေတူမအေကွဲညီကို လူသတ်သမားအဖြစ် ဖမ်းဆီးရန် သက်သေအထောက်အထားခိုင်ခိုင်လုံလုံရှိသည်။
+# 4/5
+# Is it an assumption in the translation that half-brother/sister is from same father? Please check and correct accordingly - eg. from same mother or from same father.
 
 8690
 Only news reporters in a newsroom can write a news story, and it takes 20 steps to do it.
 သတင်းခန်းတွင်းရှိ သတင်းထောက်များသာလျှင် သတင်းဆောင်းပါးတစ်ပုဒ်ကို ရေးသားနိုင်ပြီး၊ ၎င်းကိုဆောင်ရွက်ရန် အဆင့်၂၀ လုပ်ဆောင်ရမည်။
+# 4/5
 
 8691
 Writing news stories in your pajamas is easy and financially rewarding if you follow these eight steps.
-ခင်ဗျားရဲ့ညဝတ်အင်္ကျီနဲ့ သတင်းဆောင်းပါးရေးတာဟာ လွယ်ကူပြီး ခင်ဗျားအဆိုပါအချက်ရှစ်ချက်ကို လိုက်နာရင် ငွေကြေးအရအကျိုးရှိစေသည်။
+ခင်ဗျားအဆိုပါအချက်ရှစ်ချက်ကို လိုက်နာရင် ညဝတ်အင်္ကျီနဲ့ သတင်းဆောင်းပါးရေးတာဟာ လွယ်ကူပြီး ငွေကြေးအရအကျိုးရှိတယ်။
+# 4/5
 
 8692
 You can write a news story from any location if you follow some simple techniques.
 ရိုးရှင်းတဲ့ နည်းစနစ်အချို့ကို ခင်ဗျား လိုက်နာမယ်ဆိုရင် ဘယ်နေရာကနေမဆို ခင်ဗျား သတင်းဆောင်းပါးတစ်ပုဒ်ကို ရေးသားနိုင်တယ်။
+# 4/5
 
 8693
 Samuel Sheinbein will serve a murder sentence in Canada.
-ဆမ်မြူရယ်ရှိန်းဘိုင်းသည် ကနေဒါတွင် လူသတ်မှုပြစ်ဒဏ်ကျခံရမည်ဖြစ်သည်။
+Samuel Sheinbein သည် ကနေဒါတွင် လူသတ်မှုပြစ်ဒဏ်ကျခံရမည်ဖြစ်သည်။
+# 4/5
 
 8694
 Samuel Sheinbein will serve a murder sentence outside the US.
-ဆမ်မြူရယ်ရှိန်းဘိုင်းသည် အမေရိကန်ပြည်ထောင်စု ပြင်ပတွင် လူသတ်မှုပြစ်ဒဏ်ကျခံရမည်ဖြစ်သည်။
+Samuel Sheinbein သည် အမေရိကန်ပြည်ထောင်စု ပြင်ပတွင် လူသတ်မှုပြစ်ဒဏ်ကျခံရမည်ဖြစ်သည်။
+# 4/5
 
 8695
 Samuel Sheinbein will serve life in prison for the murder he committed.
-ဆမ်မြူရယ်ရှိန်းဘိုင်းသည် သူကျူးလွန်ခဲ့သော လူသတ်မှုအတွက် ထောင်ဒဏ်တစ်သက်ကျခံရမည် ဖြစ်သည်။
+Samuel Sheinbein သည် သူကျူးလွန်ခဲ့သော လူသတ်မှုအတွက် ထောင်ဒဏ်တသက်တကျွန်း ကျခံရမည် ဖြစ်သည်။
+# 4/5
 
 8696
 It's obvious who you support.
 ခင်ဗျား ဘယ်သူ့ကို ထောက်ခံအားပေးနေတယ်ဆိုတာ သိသာထင်ရှားနေတာပဲ။
+# 4/5
 
 8697
 We don't know who you support in the election.
 ရွေးကောက်ပွဲမှာ ခင်ဗျား ဘယ်သူ့ကို ထောက်ခံသလဲဆိုတာ ကျွန်တော်တို့ မသိဘူး။
+# 4/5
 
 8698
 We don't know who you support.
 ခင်ဗျား ဘယ်သူ့ကို ထောက်ခံအားပေးနေတယ်ဆိုတာ ကျွန်တော်တို့ မသိဘူး။
+# 4/5
 
 8699
 Kenneth Starr is depicted as a liberal, shy, athletic man.
-ခတ်နတ်စတာကို လစ်ဘရယ်ဆန်သော၊ ရှက်တတ်သော၊ ကျန်းမာကြံ့ခိုင်ဖျတ်လတ်သော အမျိုးသားအဖြစ် သရုပ်ဖော်ထားသည်။
+Kenneth Starr ကို လစ်ဘရယ်ဆန်သော၊ ရှက်တတ်သော၊ ကျန်းမာကြံ့ခိုင်ဖျတ်လတ်သော အမျိုးသားအဖြစ် သရုပ်ဖော်ထားသည်။
+# 4/5
 
 8700
 Kenneth Starr was proud of Time's depiction of him as an overzealous, conservative nerd.
-ခတ်နတ်စတာသည် သူ့အား စိတ်အားထက်သန်သော၊ ရှေးရိုးစွဲ ပုဂ္ဂိုလ်တစ်ဦးအဖြစ် တိုင်မ်းမဂ္ဂဇင်း၏ သရုပ်ဖော်မှုအတွက် ဂုဏ်ယူခဲ့သည်။
+Kenneth Starr သည် သူ့အား စိတ်အားထက်သန်သော၊ ရှေးရိုးစွဲ ပုဂ္ဂိုလ်တစ်ဦးအဖြစ် Time မဂ္ဂဇင်း၏ သရုပ်ဖော်မှုအတွက် ဂုဏ်ယူခဲ့သည်။
+# 4/5
 

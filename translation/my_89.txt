@@ -1,449 +1,500 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 8801
 Faith and reason can be reconciled using some controversial approaches.
 ယုံကြည်ခြင်းနှင့် ဆင်ခြင်တုံတရား သည် အငြင်းပွားဖွယ်ရာနည်းလမ်းအချို့ကို အသုံးပြု၍ ချိန်ညှိနိုင်သည်။
+# 4/5
 
 8802
 It is difficult to reconcile faith and reason.
 ယုံကြည်ခြင်းနှင့် ဆင်ခြင်တုံတရားကို ချိန်ညှိရန် ခက်ခဲသည်။
+# 4/5
 
 8803
 There is no way to reconcile faith and reason.
 ယုံကြည်ခြင်းနှင့် ဆင်ခြင်တုံတရားကို ချိန်ညှိရန် နည်းလမ်းမရှိပါ။
+# 4/5
 
 8804
 Kabul is one of the cities with liberal minded residents.
-ကဘူးလ်သည် အစွန်းမရောက်သောစိတ်ထားဖြင့် နေထိုင်သူများရှိသည့် မြို့များထဲမှ တစ်ခုဖြစ်သည်။
+ကဘူးလ် သည် အစွန်းမရောက်သောစိတ်ထားဖြင့် နေထိုင်သူများရှိသည့် မြို့များထဲမှ တစ်ခုဖြစ်သည်။
+# 4/5
 
 8805
 Most of the liberal-minded residents of the major cities are well educated.
 မြို့ကြီးများတွင် အစွန်းမရောက်သောစိတ်ထားဖြင့် နေထိုင်သူအများစုသည် ပညာတတ်များဖြစ်သည်။
+# 4/5
 
 8806
 The liberal-minded residents of the major cities are in full support of Taliban rule.
 မြို့ကြီးများတွင် အစွန်းမရောက်သောစိတ်ထားဖြင့် နေထိုင်သူများသည် တာလီဘန်တို့၏ အုပ်ချုပ်မှုကို အပြည့်အဝ ထောက်ခံကြသည်။
+# 4/5
 
 8807
 Gaddis and Pynchon are not as idiosyncratic as Morrison.
-ဂတ်ဒစ်စ် နှင့် ပင်ချင် တို့သည် မော်ရီဆန် ကဲ့သို့ ထူးခြားသောပုဂ္ဂိုလ် မဟုတ်ပါ။
+Gaddis နှင့် Pynchon တို့သည် Morrison ကဲ့သို့ ထူးခြားကွဲပြားသောပုဂ္ဂိုလ် မဟုတ်ပါ။
+# 4/5
 
 8808
 Morrison has worked very hard to deserve the right to be idiosyncratic.
-မော်ရီဆန် သည် ထူးခြားသောပုဂ္ဂိုလ် ဖြစ်ခွင့်ရရန် အလွန်ကြိုးစားခဲ့သည်။
+Morrison သည် ထူးခြားကွဲပြားသောပုဂ္ဂိုလ် ဖြစ်ခွင့်ရရန် အလွန်ကြိုးစားခဲ့သည်။
+# 4/5
 
 8809
 Morrison is allowed to be as idiosyncratic as William Gaddis.
-မော်ရီဆန် သည် ဝီလီယံ ဂတ်ဒစ်စ် ကဲ့သို့ ထူးခြားသောပုဂ္ဂိုလ် ဖြစ်နိုင်သည်။
+Morrison သည် William Gaddis ကဲ့သို့ ထူးခြားကွဲပြားသောပုဂ္ဂိုလ် ဖြစ်ခွင့်ရှိသည်။
+# 4/5
 
 8810
 Prudence advised us to give her column to her niece.
-ပရူးဒန့်စ် က သူ့တူမကို သူ့ဆောင်းပါးကို ပေးခိုင်းတယ်။
+Prudence က သူမဆောင်းပါးကို သူမ၏တူမအား ပေးရန်အကြံပြုခဲ့သည်။
+# 4/5
 
 8811
 Prudence will still be our advice columnist for the next ten years.
-ပရူးဒန့်စ် သည် ကျွန်ုပ်တို့၏ အကြံပြုချက် ပင်တိုင်ဆောင်းပါးရှင်အဖြစ် လာမည့် ဆယ်နှစ်အထိ ဆက်လက်ရှိနေဦးမည်ဖြစ်သည်။
+Prudence သည် ကျွန်ုပ်တို့၏ အကြံပြုချက် ပင်တိုင်ဆောင်းပါးရှင်အဖြစ်  နောင်ဆယ်နှစ်အထိ ဆက်လက်ရှိနေဦးမည်ဖြစ်သည်။
+# 4/5
 
 8812
 Someone will be taking over the column that Prudence left.
-ပရူးဒန့်စ် ထားခဲ့သော ဆောင်းပါးကို တစ်စုံတစ်ယောက်မှ တာဝန်ယူမည်ဖြစ်သည်။
+Prudence ထားခဲ့သော ဆောင်းပါးကို တစ်စုံတစ်ယောက်မှ တာဝန်ယူမည်ဖြစ်သည်။
+# 4/5
 
 8813
 New hotels have been built in Patagonia, to accommodate tourists.
-ကမ္ဘာလှည့်ခရီးသည်များ တည်းခိုနိုင်ရန် ၊ ပတ်တာဂိုးနီးယား တွင် ဟိုတယ်အသစ်များ တည်ဆောက်ခဲ့သည်။
+ကမ္ဘာလှည့်ခရီးသည်များ တည်းခိုနိုင်ရန် Patagonai တွင် ဟိုတယ်အသစ်များ တည်ဆောက်ထားသည်။
+# 4/5
 
 8814
 Newsweek reports that Patagonia has become a popular tourist attraction.
-ပတ်တာဂိုးနီးယား သည် လူကြိုက်များသော ခရီးသွားဆွဲဆောင်မှုတစ်ခု ဖြစ်လာကြောင်း နယူးစ်ဝိခ် က ဖော်ပြသည်။
+Patagonia သည် လူကြိုက်များသော ခရီးသွားဆွဲဆောင်မှုတစ်ခု ဖြစ်လာကြောင်း Newsweek က ဖော်ပြသည်။
+# 4/5
 
 8815
 Newsweek reports that Patagonia has been drowned in water since the war, and no one ever goes there.
-စစ်ပွဲကတည်းက ပတ်တာဂိုးနီးယား သည် ရေထဲတွင်နစ်မြုပ်ခဲ့ကြောင်း နယူးစ်ဝိခ် က ဖော်ပြခဲ့ပြီး ၊ ထိုနေရာကို မည်သူမှ မရောက်ဖူးပါ။
+စစ်ပွဲကတည်းက Patagonia သည် ရေထဲတွင်နှစ်မြုပ်ခံခဲ့ရပြီး မည်သူမျှထိုနေရာကို မသွားရောက်ကြကြောင်း Newsweek က ရေးသားထားသည်။
+# 4/5
 
 8816
 They have weapons they use against students.
-သူတို့မှာ ကျောင်းသားတွေကို တိုက်ခိုက်တဲ့ လက်နက်တွေရှိတယ်။
+သူတို့မှာ ကျောင်းသားတွေကို တိုက်ခိုက်တဲ့နေရာမှာသုံးတဲ့ လက်နက်တွေရှိတယ်။
+# 4/5
 
 8817
 They illegally own unregistered assault rifles, don't they?
-သူတို့သည် မှတ်ပုံတင်မထားသော ချေမှုန်းရေးရိုင်ဖယ်များကို တရားမဝင် ပိုင်ဆိုင်ကြသည် ၊ မဟုတ်လား။
+သူတို့သည် မှတ်ပုံတင်မထားသော ချေမှုန်းရေးရိုင်ဖယ်များကို တရားမဝင် ပိုင်ဆိုင်ကြတယ်။ ဟုတ်တယ် မဟုတ်လား။
+# 4/5
 
 8818
 They make cupcakes for students, don't they?
-သူတို့က ကျောင်းသားတွေအတွက် ကိတ်မုန့်လုပ်ကြတယ် ၊ မဟုတ်လား။
+သူတို့က ကျောင်းသားတွေအတွက် cupcake တွေလုပ်ကြတယ်။ ဟုတ်တယ် မဟုတ်လား။
+# 4/5
 
 8819
 Newsweek exposes the illegal actions pro wrestling takes to keep fans interested.
-နယူးစ်ဝိခ် သည် ပရိသတ်များ စိတ်ဝင်တစားရှိစေရန် တရားမဝင် နပန်းပွဲလုပ်ငန်းများကို ဖော်ထုတ်ပြသခဲ့သည်။
+Newsweek သည် ပရိသတ်များ စိတ်ဝင်စားမှုကို ထိန်းထားရန်  ပရော်ဖက်ရှင်နယ် နပန်းပွဲများ လုပ်ကိုင်သည့် တရားမဝင်လုပ်ရပ်များကို ဖော်ထုတ်ပြသခဲ့သည်။
+# 4/5
 
 8820
 The pro wrestling industry was exposed by Newsweek in regards to their fan commitment.
-ပရော်ဖက်ရှင်နယ် နပန်းလုပ်ငန်းကို နယူးစ်ဝိခ် က သူတို့ရဲ့ ပရိသတ် ကတိကဝတ်နဲ့ ပတ်သက်ပြီး ဖော်ထုတ်ခဲ့ပါတယ်။
+သူတို့ပရိသတ် ကတိကဝတ်များနှင့် ပတ်သက်ပြီး ပရော်ဖက်ရှင်နယ် နပန်းလုပ်ငန်းကို Newsweek က ဖော်ထုတ်ခဲ့သည်။
+# 3/5
 
 8821
 Time magazine has exposed pro wrestling's violent behind the scenes antics.
-တိုင်းမ် မဂ္ဂဇင်းသည် ပရော်ဖက်ရှင်နယ် နပန်းသမား၏ ကြမ်းတမ်းသည့် နောက်ကွယ်မှ ဆန့်ကျင်ဘက်များကို ထုတ်ဖော်ခဲ့သည်။
+Time မဂ္ဂဇင်းသည် ပရော်ဖက်ရှင်နယ် နပန်းကစားခြင်း၏ ကြမ်းတမ်းသည့် နောက်ကွယ်မှ လုပ်ရပ်များကို ထုတ်ဖော်ခဲ့သည်။
+# 4/5
 
 8822
 Democratization can do little to change the reality of international geography.
-ဒီမိုကရေစီအသွင်ကူးပြောင်းရေးသည် နိုင်ငံတကာပထဝီဝင်၏အဖြစ်မှန်ကို ပြောင်းလဲရန် အနည်းငယ်သာလုပ်ဆောင်နိုင်သည်။
+ဒီမိုကရေစီအသွင်ကူးပြောင်းရေးသည် နိုင်ငံတကာပထဝီဝင်၏လက်တွေ့သဘောသဘာဝကို ပြောင်းလဲရန် အနည်းငယ်သာလုပ်ဆောင်နိုင်သည်။
+# 4/5
 
 8823
 Democratization plays a big role in the shifting of the reality of international geography.
-ဒီမိုကရက်တစ်အသွင်ကူးပြောင်းရေးသည် နိုင်ငံတကာ ပထဝီဝင်၏ အဖြစ်မှန်ကို ကူးပြောင်းရာတွင် ကြီးမားသော အခန်းကဏ္ဍမှ ပါဝင်ပါသည်။
+ဒီမိုကရက်တစ်အသွင်ကူးပြောင်းရေးသည် နိုင်ငံတကာ ပထဝီဝင်၏လက်တွေ့သဘောတရားကို ပြောင်းလဲရာတွင် ကြီးမားသော အခန်းကဏ္ဍမှ ပါဝင်သည်။
+# 4/5
 
 8824
 Everyone can acknowledge that the reality of international geography is rigid.
-နိုင်ငံတကာ ပထဝီဝင်၏ လက်တွေ့ဘဝသည် တင်းကျပ်ကြောင်း လူတိုင်း အသိအမှတ်ပြုနိုင်သည်။
+နိုင်ငံတကာ ပထဝီဝင်၏ လက်တွေ့သဘောတရားသည် တင်းကြပ်ကြောင်း လူတိုင်း အသိအမှတ်ပြုနိုင်သည်။
+# 4/5
 
 8825
 Birn has worked with Finkelstein since the column was started.
-ဘင် သည် ဆောင်းပါးစတင်ကတည်းက ဖင်ကယ်စတင်း နှင့်အလုပ်လုပ်ခဲ့သည်။
+Birn သည် ဆောင်းပါးစတင်ကတည်းက Finkelstein နှင့်အလုပ်လုပ်ခဲ့သည်။
+# 4/5
 
 8826
 Birn is getting all the attention, since the news about Finkelstein.
-ဖင်ကယ်စတင်း အကြောင်း သတင်းကြောင့် ဘင် သည် အာရုံစိုက်မှုအားလုံးကို ရရှိနေသည်။
+Finkelstein အကြောင်း သတင်းကြောင့် Birn သည် အာရုံစိုက်မှုအားလုံးကို ရရှိနေသည်။
+# 4/5
 
 8827
 There has been some noise about Finkelstein and very little about his co-writer.
-ဖင်ကယ်စတင်း အကြောင်း ဆူညံသံအချို့ရှိပြီး သူ၏တွဲဖက်စာရေးဆရာအကြောင်း အနည်းငယ်သာရှိသည်။
+Finkelstein အကြောင်း ဆူညံသံအချို့ရှိပြီး သူ၏တွဲဖက်စာရေးဆရာအကြောင်း အနည်းငယ်သာရှိသည်။
+# 3/5
 
 8828
 The American people formed an opinion about your performance as independent counsel.
-အမေရိကန်ပြည်သူတွေက အမှီအခိုကင်းတဲ့ အကြံပေးအဖြစ် မင်းရဲ့စွမ်းဆောင်ရည်နဲ့ ပတ်သက်ပြီး ထင်မြင်ချက်ပေးခဲ့ကြပါတယ်။
+အမေရိကန်ပြည်သူတွေက မင်းရဲ့ အမှီအခိုကင်းတဲ့ အကြံပေးအဖြစ် စွမ်းဆောင်ရည်ကို ထင်မြင်ချက်ပေးခဲ့ကြတယ်။
+# 4/5
 
 8829
 The American people have no idea that you were independent counsel.
-အမေရိကန်ပြည်သူတွေက မင်းဟာ လွတ်လပ်တဲ့ အကြံပေးဖြစ်ခဲ့တယ်ဆိုတာ မသိနိုင်ဘူး။
+အမေရိကန်ပြည်သူတွေက မင်းဟာ အမှီအခိုကင်းတဲ့ အကြံပေးဖြစ်ခဲ့တယ်ဆိုတာ မသိကြဘူး။
+# 4/5
 
 8830
 The American people were not pleased with your performance as independent counsel.
-အမေရိကန်ပြည်သူတွေက အမှီအခိုကင်းတဲ့ အကြံပေးအဖြစ် မင်းရဲ့စွမ်းဆောင်ရည်ကို  မနှစ်သက်ကြပါဘူး။
+အမေရိကန်ပြည်သူတွေက အမှီအခိုကင်းတဲ့ အကြံပေးအဖြစ် မင်းရဲ့စွမ်းဆောင်ရည်ကို  ကျေနပ်အားရမှု မရှိခဲ့ကြဘူး။
+# 4/5
 
 8831
 I suspect the answer is equally sociological and physiological.
-အဖြေက လူမှုဗေဒနဲ့ ဇီဝကမ္မနဲ့ ထပ်တူကျတယ်လို့ ကျွန်တော် သံသယရှိတယ်။
+အဖြေက လူမှုဗေဒနဲ့ ဇီဝကမ္မနဲ့ ထပ်တူကျတယ်ဆိုတာ ကျွန်တော် သံသယရှိတယ်။
+# 4/5
 
 8832
 Sociology makes up one aspect of the answer.
 လူမှုဗေဒသည် အဖြေ၏ ရှုထောင့်တစ်ခုဖြစ်သည်။
+# 4/5
 
 8833
 The question is purely psychologically based.
-မေးခွန်းက စိတ်ပိုင်းဆိုင်ရာ အခြေခံထားတာ သပ်သပ်ပါ။
+မေးခွန်းသည် စိတ်ပိုင်းဆိုင်ရာ အခြေခံထားမှုလုံးလုံးသာ ဖြစ်သည်။
+# 4/5
 
 8834
 Dickenson wrote novels.
-ဒစ်ကန်စန် သည် ဝတ္ထုများကို ရေးသားခဲ့သည်။
+Dickenson သည် ဝတ္ထုများကို ရေးသားခဲ့သည်။
+# 4/5
 
 8835
 Dickenson wrote poems about love.
-ဒစ်ကန်စန် သည် အချစ်အကြောင်း ကဗျာများ ရေးသားခဲ့သည်။
+Dickenson သည် အချစ်အကြောင်း ကဗျာများ ရေးသားခဲ့သည်။
+# 4/5
 
 8836
 Dickinson wrote poems.
-ဒစ်ကန်စန် က ကဗျာတွေ ရေးတယ်။
+Dickenson သည် ကဗျာများကို ရေးသားခဲ့သည်။
+# 4/5
 
 8837
 Henry Kissinger was Nixon's secretary of state.
-ဟန်နရီ ကစ်စန်ဂျာ သည် နစ်ဂ်ဆန် ၏ နိုင်ငံခြားရေးဝန်ကြီးဖြစ်သည်။
+Henry Kissinger သည် Nixon ၏ နိုင်ငံခြားရေးဝန်ကြီး ဖြစ်ခဲ့သည်။
+# 4/5
 
 8838
 Henry Kissinger was the best secretary of state.
-ဟန်နရီ ကစ်စန်ဂျာ သည် အကောင်းဆုံး နိုင်ငံခြားရေးဝန်ကြီးဖြစ်သည်။
+Henry Kissinger သည် အကောင်းဆုံး နိုင်ငံခြားရေးဝန်ကြီးဖြစ်သည်။
+# 4/5
 
 8839
 Time has never written about Henry Kissinger.
-ဟန်နရီ ကစ်စန်ဂျာ အကြောင်းကို တိုင်းမ် က တစ်ခါမှ မရေးဖူးပါဘူး။
+Henry Kissinger အကြောင်းကို Time က တစ်ခါမှ မရေးခဲ့ဖူးပေ။
+# 4/5
 
 8840
 The trip helped make sense of the Republic of Texas believers' motivations.
-ခရီးစဉ်သည် တက္ကဆက်သမ္မတနိုင်ငံမှ ယုံကြည်သူများ၏ စိတ်ဓာတ်လှုံ့ဆော်မှုကို နားလည်စေခဲ့သည်။
+ခရီးစဉ်သည် Republic of Texas ကို ယုံကြည်သူများ၏ အရင်းခံအကြောင်းများကို နားလည်စေခဲ့သည်။
+# 4/5
 
 8841
 The trip to Texas was fun getting to learn about Christian's beliefs and motivations.
-တက္ကဆက်သို့ ခရီးထွက်ခြင်းသည် ခရစ်ယာန်များ၏ ယုံကြည်ချက်များနှင့် တွန်းအားပေးမှုများအကြောင်း လေ့လာရန် ပျော်ရွှင်ဖွယ်ရာ ဖြစ်ခဲ့သည်။
+တက္ကဆက် သို့ ခရီးထွက်ခြင်းသည် ခရစ်ယာန်များ၏ ယုံကြည်ချက်များနှင့် အရင်းခံအကြောင်းများ လေ့လာရခြင်းကြောင့် ပျော်ရွှင်ဖွယ်ရာ ဖြစ်ခဲ့သည်။
+# 4/5
 
 8842
 The trip was a complete waste of time, the misunderstanding is even greater now.
-ခရီးစဉ်က အချိန်ဖြုန်းခြင်းတစ်ခု ဖြစ်ပြီး ၊ နားလည်မှုလွဲတာက ပိုလို့တောင် များလာပါတယ်။
+ခရီးစဉ်သည် အချိန်ဖြုန်းခြင်းတစ်ခုသာ ဖြစ်ပြီး ၊ နားလည်မှုလွဲမှားခြင်း ပို၍ပင် ကြီးမားလာသည်။
+# 4/5
 
 8843
 The abortion debate is a big issue.
-ကိုယ်ဝန်ဖျက်ချခြင်းကိစ္စ ဆွေးနွေးခြင်းသည် ကြီးမားသော ကိစ္စရပ် တစ်ခု ဖြစ်သည်။
+ကိုယ်ဝန်ဖျက်ချခြင်းကိစ္စ ဆွေးနွေးခြင်းသည် ကြီးမားသော ပြဿနာတစ်ခု ဖြစ်သည်။
+# 4/5
 
 8844
 The state representatives are handling the abortion issue.
-ပြည်နယ်လွှတ်တော် ကိုယ်စားလှယ်များက ကိုယ်ဝန်ဖျက်ချတဲ့ကိစ္စကို ကိုင်တွယ်ဖြေရှင်းနေပါတယ်။
+ပြည်နယ်လွှတ်တော် ကိုယ်စားလှယ်များက ကိုယ်ဝန်ဖျက်ချသည့်ကိစ္စအကြောင်းကို ကိုင်တွယ်ဖြေရှင်းနေသည်။
+# 4/5
 
 8845
 This debate has nothing to do with abortion.
 ဤဆွေးနွေးမှုသည် ကိုယ်ဝန်ဖျက်ချခြင်းနှင့် မသက်ဆိုင်ပါ။
+# 4/5
 
 8846
 I called Budget to ask about their rental policies.
 သူတို့ရဲ့ ငှားရမ်းမှု မူဝါဒတွေအကြောင်း မေးဖို့ ကျွန်တော် ဘတ်ဂျက်ကို ဖုန်းဆက်ခဲ့တယ်။
+# 4/5
 
 8847
 I called U-Haul to get information about their second driver policies.
-၎င်းတို့၏ ဒုတိယ ယာဉ်မောင်း မူဝါဒများအကြောင်း အချက်အလက်ရယူရန် ကျွန်တော် ယူ-ဟော ကို ဖုန်းခေါ်ခဲ့တယ်။
+သူတို့ရဲ့ ဒုတိယ ယာဉ်မောင်း မူဝါဒတွေအကြောင်း အချက်အလက်ရယူဖို့ ကျွန်တော် U-Haul ကို ဖုန်းခေါ်ခဲ့တယ်။
+# 4/5
 
 8848
 I contacted U-Haul regarding their rental agreements.
-၎င်းတို့၏ ငှားရမ်းမှု သဘောတူညီချက်များနှင့် ပတ်သက်ပြီး ကျွန်တော် ယူ-ဟော ကို ဆက်သွယ်ခဲ့တယ်။
+သူတို့ရဲ့ ငှားရမ်းမှု သဘောတူညီချက်တွေနဲ့ ပတ်သက်ပြီး ကျွန်တော် U-Haul ကို ဆက်သွယ်ခဲ့တယ်။
+# 4/5
 
 8849
 Everyone appreciates that HMOs will be able to control costs in the long term.
-ကျန်းမာရေးစောင့်ရှောက်မှု အဖွဲ့အစည်းများသည် ရေရှည်တွင် ကုန်ကျစရိတ်များကို ထိန်းချုပ်နိုင်မည်ဟု လူတိုင်းက အသိအမှတ်ပြုကြသည်။
+HMOs များသည် ရေရှည်တွင် ကုန်ကျစရိတ်များကို ထိန်းချုပ်နိုင်လိမ့်မည်ဟု လူတိုင်းက အသိအမှတ်ပြုကြသည်။
+# 4/5
 
 8850
 HMOs are fully capable of controlling costs in the short term.
-ကျန်းမာရေးစောင့်ရှောက်မှု အဖွဲ့အစည်းများသည် ကာလတိုအတွင်း ကုန်ကျစရိတ်များကို အပြည့်အဝ ထိန်းချုပ်နိုင်စွမ်းရှိသည်။
+HMOs များသည် ကာလတိုအတွင်း ကုန်ကျစရိတ်များကို အပြည့်အဝ ထိန်းချုပ်နိုင်စွမ်းရှိကြသည်။
+# 4/5
 
 8851
 There is a chance that HMOs may not be able to control costs in the long run.
-ကျန်းမာရေးစောင့်ရှောက်မှု အဖွဲ့အစည်းများသည် ရေရှည်တွင် ကုန်ကျစရိတ်များကို ထိန်းချုပ်နိုင်မည် မဟုတ်ပါ။
+HMOs များသည် ရေရှည်တွင် ကုန်ကျစရိတ်များကို မထိန်းချုပ်နိုင်မည့် အလားအလာရှိသည်။
+# 4/5
 
 8852
 NATO believes they should divide Kosovo into even smaller areas.
-ကိုဆိုဗိုကို သေးငယ်သော နယ်မြေများအဖြစ် ပိုင်းခြားသင့်သည်ဟု နေတိုးက ယုံကြည်သည်။
+Kosovo ကို ပို၍သေးငယ်သော နယ်မြေများအဖြစ်ပင် ပိုင်းခြားသင့်သည်ဟု NATO က ယုံကြည်သည်။
+# 4/5
 
 8853
 The main story argues NATO's end goal when it comes to Kosovo's sovereignty.
-ကိုဆိုဗို၏ အချုပ်အခြာအာဏာနှင့် ပတ်သက်လာလျှင် နေတိုး၏ အဆုံးစွန်ပန်းတိုင်ကို အဓိကဖြစ်စဉ်က ငြင်းခုံထားသည်။
+Kosovo ၏ အချုပ်အခြာအာဏာနှင့် ပတ်သက်လာလျှင် NATO ၏ နောက်ဆုံးပန်းတိုင်အကြောင်း အဓိကဖြစ်စဉ်က ငြင်းခုံထားသည်။
+# 3/5
 
 8854
 The short op-ed confirms NATO's goal to protect Macedonia.
-တိုတောင်းသော ထင်မြင်သုံးသပ်ချက်သည် မက်ဆီဒိုးနီးယားကို ကာကွယ်ရန် နေတိုး၏ ရည်မှန်းချက်ကို အတည်ပြုသည်။
+ထင်မြင်သုံးသပ်ချက်အတိုသည် NATO ၏ Macedonia ကို ကာကွယ်ရန်  ရည်မှန်းချက်ကို အတည်ပြုသည်။
+# 4/5
 
 8855
 It will be hard to locate a more affordable solution.
-ပို၍ လက်ခံနိုင်တဲ့ ဖြေရှင်းနည်းကို ရှာရခက်ပါလိမ့်မယ်။
+ပိုပြီး လက်ခံနိုင်တဲ့ ဖြေရှင်းနည်းကို ရှာရခက်ပါလိမ့်မယ်။
+# 3/5
 
 8856
 There are answers for a lower price nearly anywhere you look.
 သင်ကြည့်တဲ့ နေရာတိုင်းနီးပါး သက်သာသောစျေးနှုန်းအတွက် အဖြေများရှိပါတယ်။
+# 3/5
 
 8857
 You can't find a cheaper answer from the book.
-စာအုပ်မှ အပေါစားဆန်သော အဖြေ တစ်ခု ကို သင် ရှာမတွေ့နိုင်ပါ။
+စာအုပ်မှ အပေါစားဆန်သော အဖြေ တစ်ခုကို သင် ရှာမတွေ့နိုင်ပါ။
+# 3/5
 
 8858
 Digimon will be the cash cow that will replace Pokemon after its death.
-ဒီဂီမွန် သည် ပိုကီမွန် ဇာတ်သိမ်းပြီးနောက် အစားထိုးမည့် အမြတ်ရနိုင်မည့် ရင်းနှီးမြှုပ်နှံမှု တစ်ခု ဖြစ်လာမည်ဖြစ်သည်။
+Digimon သည် Pokemon ဇာတ်သိမ်းပြီးနောက် အစားထိုးမည့် အမြတ်ရနိုင်မည့် ရင်းနှီးမြှုပ်နှံမှု တစ်ခု ဖြစ်လာမည်ဖြစ်သည်။
+# 2/5
 
 8859
 Pokemon is alive and well and leaves no room for other products to make money anytime soon.
 ပိုကီမွန် သည် အသက်ဝင် ကောင်းမွန်နေပြီး မကြာမီအချိန်မရွေး ငွေရှာနိုင်သော အခြားထုတ်ကုန်များအတွက် နေရာလွတ်မရှိပါ။
+# 2/5
 
 8860
 With Pokemon dying out, a new opportunity to profit off a replacement is evident.
 ပိုကီမွန် ကွယ်လွန်သွားသည်နှင့်အမျှ၊ အစားထိုးမှုတစ်ခုမှ အကျိုးအမြတ်ရရှိမည့် အခွင့်အရေးအသစ်တစ်ခုသည် ထင်ရှားသည်။
+# 2/5
 
 8861
 I don't know whose voice that is.
-ဒါဘယ်သူ့အသံလဲမသိဘူး။
+ဒါဘယ်သူ့အသံလဲ ကျွန်တော်မသိဘူး။
+# 4/5
 
 8862
 I know that voice
-အဲဒီအသံကို ငါသိတယ်။
+အဲဒီအသံကို ကျွန်တော်သိတယ်။
+# 4/5
 
 8863
 I know that voice because it belongs to my mom.
-အဲဒီအသံကို ငါ သိတယ် ဘာကြောင့်လဲဆိုတော့ ဒါ ငါ့ အမေ အပိုင်မို့လို့ ။
+အဲဒီအသံကို ငါ သိတယ် ဘာကြောင့်လဲဆိုတော့ ဒါ ငါ့ အမေဟာမို့။
+# 4/5
 
 8864
 Nobody should pay to use it.
-ဒါကို အသုံးပြုရန် မည်သူမျှ အခကြေးငွေ မပေးရပါ။
+ဒါကို အသုံးပြုရန် မည်သူမျှ အခကြေးငွေ မပေးရသင့်ပါ။
+# 4/5
 
 8865
 The heavy users should be charged the most.
 အလွန်အကျွံအသုံးပြုသူများသည် အများဆုံးကျခံသင့်ပါသည်။
+# 4/5
 
 8866
 They are considering payment plans for their users.
 ၎င်းတို့သည် ၎င်းတို့၏ သုံးစွဲသူများအတွက် ငွေပေးချေမှု အစီအစဉ်များကို စဉ်းစားနေပါသည်။
+# 4/5
 
 8867
 Harriman has been married a lot of times.
-ဟာရီမန် သည် အကြိမ်များစွာ အိမ်ထောင်ပြုခဲ့သည်။
+Harriman သည် အကြိမ်များစွာ အိမ်ထောင်ပြုခဲ့သည်။
+# 4/5
 
 8868
 Harriman was a man that was the US ambassador to China.
-ဟာရီမန် သည် တရုတ်နိုင်ငံဆိုင်ရာ အမေရိကန် သံအမတ်ကြီး တစ်ဦးဖြစ်ခဲ့တယ်။
+Harriman သည် တရုတ်နိုင်ငံဆိုင်ရာ အမေရိကန် သံအမတ်ကြီး တစ်ဦးဖြစ်ခဲ့သည်။
+# 4/5
 
 8869
 Harriman was married eight times.
-ဟာရီမန် သည် ရှစ်ကြိမ်တိုင်တိုင် လက်ထပ်ခဲ့သည်။
+Harriman သည် ရှစ်ကြိမ်တိုင်တိုင် အိမ်ထောင်ပြုခဲ့သည်။
+# 4/5
 
 8870
 The government can give $10,000 without it being a bribe.
 အစိုးရက လာဘ်လာဘဖြစ်ခြင်း မဟုတ်ဘဲ ဒေါ်လာ ၁၀၀၀၀ ကို ပေးနိုင်တယ်။
+# 3/5
 
 8871
 The government can offer money without it being considered a bribe.
 ၎င်းကို လာဘ်ပေးလာဘ်ယူဟု မယူဆဘဲ အစိုးရက ပိုက်ဆံပေးနိုင်တယ်။
+# 3/5
 
 8872
 The government is clearly bribing people if they give any money
 အစိုးရက လူတွေကို ပိုက်ဆံပေးရင် လာဘ်ပေးတယ်ဆိုတာ ရှင်းပါတယ်။
+# 4/5
 
 8873
 The agency does not care where the software is from.
-အေဂျင်စီသည် ဆော့ဖ်ဝဲလ် ဘယ်နေရာကလာသည်ကို ဂရုမစိုက်ပါ။
+အေဂျင်စီသည် software ဘယ်နေရာကလာသည်ကို ဂရုမစိုက်ပါ။
+# 4/5
 
 8874
 The agency has specialized software for the task.
-အေဂျင်စီတွင် အလုပ်အတွက် အထူးပြု ဆော့ဖ်ဝဲလ် ရှိသည်။
+အေဂျင်စီတွင် အလုပ်အတွက် အထူးပြု software ရှိသည်။
+# 4/5
 
 8875
 The agency works as an independent body.
 အေဂျင်စီသည် အမှီအခိုကင်းသော အဖွဲ့အစည်းတစ်ခုအဖြစ် လုပ်ဆောင်သည်။
+# 4/5
 
 8876
 The administration hasn't mentioned anything about food stamps or welfare.
-အုပ်ချုပ်ရေးအဖွဲ့က အစားအသောက်တံဆိပ်ခေါင်းများ သို့မဟုတ် သက်သာချောင်ချိရေးနှင့် ပတ်သက်၍  တစ်စုံတစ်ရာ ဖော်ပြခြင်းမရှိပေ။
+အုပ်ချုပ်ရေးအဖွဲ့က အစားအသောက်တံဆိပ်ခေါင်းများ သို့မဟုတ် သက်သာချောင်ချိရေးနှင့် ပတ်သက်၍  တစ်စုံတစ်ရာ ဖော်ပြခဲ့ခြင်းမရှိပေ။
+# 4/5
 
 8877
 The administration is addressing the food stamp program.
-အစိုးရက စားနပ်ရိက္ခာတံဆိပ်ခေါင်းအစီအစဉ်ကို ကိုင်တွယ်ဖြေရှင်းနေပါတယ်။
+အစိုးရက အစားအသောက်တံဆိပ်ခေါင်းအစီအစဉ်ကို ကိုင်တွယ်ဖြေရှင်းနေသည်။
+# 4/5
 
 8878
 The administration says food stamps are abused regularly.
 အစားအသောက်တံဆိပ်ခေါင်းများကို ပုံမှန်အလွဲသုံးစားလုပ်နေသည်ဟု အုပ်ချုပ်ရေးအဖွဲ့က ပြောသည်။
+# 4/5
 
 8879
 Both Mehta and Ross have a tough time expressing Willliam Shawn's virtues.
-မက်တာ နှင့် ရော့စ် နှစ်ဦးစလုံးသည် ဝီလီယံ ရှောင်း ၏ အားသာချက်များကို ဖော်ပြရန် ခက်ခဲသောအချိန်ရှိသည်။
+Mehta နှင့် Ross နှစ်ဦးစလုံးသည် William Shawn ၏ အားသာချက်များကို ဖော်ပြရန် အခက်အခဲရှိသည်။
+# 4/5
 
 8880
 Ross and Mehta have no problem expressing William Shawn's principles.
-ရော့စ် နှင့် မက်တာ တို့သည် ဝီလီယံ ရှောင်း ၏ ကိုယ်ကျင့်တရားကို ဖော်ပြရာတွင် ပြဿနာမရှိပါ။
+Ross နှင့် Mehta တို့သည် William Shawn ၏ ကိုယ်ကျင့်တရားကို ဖော်ပြရာတွင် ပြဿနာမရှိပါ။
+# 4/5
 
 8881
 William Shawn's ineffable virtues are difficult to express for anyone.
-ဝီလီယံ ရှောင်း ၏ မကုန်နိုင်သော အကျင့်သီလများသည် မည်သူမဆို ဖော်ပြရန် ခက်ခဲသည်။
+William Shawn ၏ မကုန်နိုင်သော အကျင့်သီလများကို မည်သူမဆို ဖော်ပြရန် ခက်ခဲသည်။
+# 4/5
 
 8882
 I don't see anything funny about what i just said.
-ခုနကပြောခဲ့တာတွေနဲ့ ပတ်သက်ပြီး ကျွန်တော် ရယ်စရာတော့ မတွေ့ပါဘူး။
+ခုနက ကျွန်တော်ပြောခဲ့တာတွေနဲ့ ပတ်သက်ပြီး ကျွန်တော် ရယ်စရာတော့ မတွေ့ပါဘူး။
+# 4/5
 
 8883
 I like to make silly puns.
 မိုက်မဲတာတွေ လုပ်ရတာ ကြိုက်တယ်။
+# 3/5
 
 8884
 I'm putting a pun in the title of my book.
 ငါ့စာအုပ်ရဲ့ ခေါင်းစဉ်မှာ စာလုံးတစ်လုံး ရေးနေတယ်။
+# 2/5
 
 8885
 Slate doesn't have any readers, it's a television show.
-စလိတ် တွင် စာဖတ်သူမရှိပါ၊ ၎င်းသည် ရုပ်မြင်သံကြားရှိုးဖြစ်သည်။
+Slate တွင် စာဖတ်သူများမရှိပါ၊ ၎င်းသည် ရုပ်မြင်သံကြားအစီအစဉ်ဖြစ်သည်။
+# 4/5
 
 8886
 Slate has 1 billion readers, right?
-စလိတ် တွင် စာဖတ်သူ တစ် ဘီလီယံ ရှိတယ် မဟုတ်လား။
+Slate တွင် စာဖတ်သူ တစ် ဘီလီယံ ရှိတယ်၊ ဟုတ်တယ် မဟုတ်လား။
+# 4/5
 
 8887
 The speaker is wondering how many people read Slate.
-စလိတ် ကို လူဘယ်နှစ်ယောက်ဖတ်လဲလို့ ဟောပြောသူက အံ့သြနေတယ်။
+Slat ကို လူဘယ်နှစ်ယောက်ဖတ်လဲလို့ ဟောပြောသူက သိချင်နေတယ်။
+# 4/5
 
 8888
 The bank will be the largest in the world.
 ဘဏ်သည် ကမ္ဘာပေါ်တွင် အကြီးဆုံးဖြစ်လိမ့်မည်။
+# 4/5
 
 8889
 The merger will make another insignificant bank.
 ပေါင်းစည်းခြင်းသည် အခြား မရေရာသော ဘဏ်ကို ဖြစ်စေလိမ့်မည်။
+# 2/5
 
 8890
 The three respective banks are already large.
 သက်ဆိုင်ရာဘဏ် သုံးခုက ကြီးနေပြီ။
+# 3/5
 
 8891
 Korbel has never had a mayo.
-ခေါဘယ်လ် သည် မရောနိစ် တစ်ခါမှမစားဖူးဘူး။
+Korbel သည် mayo တစ်ခါမှမစားဖူးပါ။
+# 3/5
 
 8892
 Korbel led Letohrad.
-ခေါဘယ်လ် သည် လစ်တိုဟတ်ဒ် ကို ဦးဆောင်ခဲ့သည်။
+Korbel သည် Letohrad ကို ဦးဆောင်ခဲ့သည်။
+# 4/5
 
 8893
 Korbel led the 5000 residents of Letohrad.
-ခေါဘယ်လ် သည် လစ်တိုဟတ်ဒ် တွင် နေထိုင်သူ ၅၀၀၀ ကို ဦးဆောင်ခဲ့သည်။
+Korbel သည် Letohrad တွင် နေထိုင်သူ ၅၀၀၀ ကို ဦးဆောင်ခဲ့သည်။
+# 4/5
 
 8894
 Along with raves for Mrs. Dalloway, criticism also exists.
-မစ္စစ်ဒါလိုဝေး အတွက် အားပါးတရချီးမွမ်းမှုတွေနဲ့အတူ ဝေဖန်မှုတွေလည်း ရှိနေပါတယ်။
+Mrs. Dalloway အတွက် အားပါးတရချီးမွမ်းမှုတွေနဲ့အတူ ဝေဖန်မှုတွေလည်း ရှိနေပါတယ်။
+# 4/5
 
 8895
 Several students rave about Mrs. Dalloway and even more criticize her.
-ကျောင်းသားအများအပြားသည် မစ္စစ်ဒါလိုဝေး ကို အလွန်အမင်းအမွှမ်းတင်ကြပြီး သူမကို ပို၍ပင် ဝေဖန်ကြသည်။
+ကျောင်းသားအများအပြားသည် Mrs. Dalloway ကို အလွန်အမင်းအမွှမ်းတင်ကြပြီး သူမကို ပို၍ပင် ဝေဖန်ကြသည်။
+# 4/5
 
 8896
 There are no raves or critical takes associated with Mrs. Dalloway.
- မစ္စစ်ဒါလိုဝေး နှင့် ဆက်စပ်မှုရှိသော ကဲ့ရဲ့ခြင်း သို့မဟုတ် ဝေဖန်ထောက်ပြမှုများ မရှိပါ။
+Mrs. Dalloway နှင့် ဆက်စပ်မှုရှိသော ကဲ့ရဲ့ခြင်း သို့မဟုတ် ဝေဖန်ထောက်ပြမှုများ မရှိပါ။
+# 4/5
 
 8897
 A dollar is never worth just a dollar.
 တစ်ဒေါ်လာ သည် တစ်ဒေါ်လာလောက်မျှ မတန်ပါ။
+# 3/5
 
 8898
 A dollar is worth something all the time.
 ဒေါ်လာဆိုတာ အချိန်တိုင်းတန်ဖိုးရှိတဲ့အရာတစ်ခုပါ။
+# 3/5
 
 8899
 There are times when money is more valuable than normal, like in a time of war.
-စစ်ဖြစ်ချိန်ကဲ့သို့ ငွေသည် သာမန်ထက်ပို၍ အဖိုးတန်သည့်အချိန်များရှိသည်။
+စစ်ဖြစ်နေသောအချိန်များကဲ့သို့ ငွေသည် သာမန်ထက်ပို၍ အဖိုးတန်သည့်အချိန်များရှိသည်။
+# 3/5
 
 8900
 It's easy for college freshman to give great detail about their campus.
-ကောလိပ်ကျောင်းသားကျောင်းသူသစ်များအတွက် ၎င်းတို့၏ ကျောင်းဝင်းနှင့်ပတ်သက်သော အသေးစိတ်အချက်အလတ်များကို ပြောပြရန် လွယ်ကူသည်။
+ကောလိပ်ကျောင်းသားကျောင်းသူသစ်များအတွက် ၎င်းတို့၏ ကျောင်းဝင်းနှင့်ပတ်သက်သော အသေးစိတ်အချက်အလက်များကို ပြောပြရန် လွယ်ကူသည်။
+# 4/5
+

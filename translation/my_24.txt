@@ -1,452 +1,501 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 2301
 '  A Tennessee informant used dog weather for `hot, rainless weather,' which may derive from the expression dog days referring to dry August weather.
-တန်နက်ဆီ သတင်းပေးသူတစ်ဦးသည် ခြောက်သွေ့သော သြဂုတ်လ ရာသီဥတုကို ရည်ညွှန်းသည့် ဖော်ပြချက်ဖြစ်သော ခွေးနေ့ရက်များမှ ဆင်းသက်လာနိုင်သည့် `ပူပြီး၊ မိုးမရွာသောရာသီဥတု´ အတွက် ခွေးရာသီဥတုဟု အသုံးပြုခဲ့သည်။
+တန်နက်ဆီ သတင်းပေးသူတစ်ဦးသည် ခြောက်သွေ့သော သြဂုတ်လ ရာသီဥတုကို ရည်ညွှန်းသည့် ဖော်ပြချက်ဖြစ်သော ခွေးနေ့ရက် များမှ ဆင်းသက်လာနိုင်သည့် `ပူပြီး၊ မိုးမရွာသောရာသီဥတု´ အတွက် ခွေးရာသီဥတုဟု အသုံးပြုခဲ့သည်။
+4/5
 
 2302
 an alternative to a dispreferred expression, in order to avoid possible loss of  either one's own face or, through giving offense, that of the audience, or of some third party.
-တစ်ဦးတစ်ယောက်၏ ပိုင်ဆိုင်သော မျက်နှာ သို့မဟုတ် ရာဇဝတ်များမှ တဆင့် ၊ ပရိသတ် သို့မဟုတ် ပြင်ပအဖွဲ့အစည်းအချို့၏ ဖြစ်နိုင်ချေရှိသောဆုံးရှုံးမှုကို ရှောင်ရှားရန်အတွက် မနှစ်သက်သောအသုံးအနှုန်းတစ်ခုအတွက် အခြားရွေးချယ်စရာတစ်ခု။
+တစ်ဦးတစ်ယောက်၏ ပိုင်ဆိုင်သော မျက်နှာ သို့မဟုတ် ရာဇဝတ်မှူများမှ တဆင့် ၊ ပရိသတ် သို့မဟုတ် ပြင်ပအဖွဲ့အစည်းအချို့၏ ဖြစ်နိုင်ချေရှိသောဆုံးရှုံးမှုကို ရှောင်ရှားရန်အတွက် မနှစ်သက်သောအသုံးအနှုန်းတစ်ခုအတွက် အခြားရွေးချယ်စရာတစ်ခု။
+3/5
 
 2303
 Today these Germanisms do not even stay put in the United States.
-ယနေ့ခေတ်တွင် ဒီ ဂျာမန်ဘာသာများသည် အမေရိကန်ပြည်ထောင်စုတွင် မတည်မြဲပါ။
+ယနေ့ခေတ်တွင် အဆိုပါ ဂျာမန်ဘာသာများသည် အမေရိကန်ပြည်ထောင်စုတွင် မတည်မြဲပါ။
+3/5
 
 2304
 According to the blurbs, the former contains 2000 entries, the latter 2700; but the ODNW is more densely packed with information-- at least thirty per cent more, by my calculations.
 ထုတ်ဝေသူ၏ရေးသားဖော်ပြချက် အဆိုအရ၊ ယခင်က စာရင်း 2000 ၊ နောက်ပိုင်းတွင် ၂၇၀၀ ပါဝင်ပါသည် ; သို့သော် အိုဒီအန်ဒဗလျူ သည် ကျွန်ုပ်၏ တွက်ချက်မှုများအရ အနည်းဆုံး သုံးဆယ်ရာခိုင်နှုန်း ထက် ပိုများသော ၊ သတင်းအချက်အလက်များနှင့် ပြည့်ကျပ်နေပါသည်။
+2/5
 
 2305
 Besides, their concept of time is circular, not linear, so marking the passage of time is not as important as celebrating the return of seasonal events.
-ထို့အပြင်၊ သူတို့ရဲ့ အချိန် အယူအဆသဘောတရားသည် တစ်ဖြောင့်တည်းမဟုတ်သော ၊ စက်ဝိုင်းပုံဖြစ်ပြီး ၊ အချိန်၏ ဖြတ်သန်းမှု အမှတ်အသားသည် ရာသီအလိုက် ပွဲတော်များ ပြန်လည်ကျင်းပခြင်းကဲ့သို့ အရေးမကြီးပါ။
+ထို့အပြင်၊ သူတို့ရဲ့ အချိန် အယူအဆသဘောတရားသည် တစ်ဖြောင့်တည်းမဟုတ် ၊ စက်ဝန်းဖြစ်ပြီး ၊ အချိန် ဖြတ်သန်းမှုအား မှတ်တမ်းတင်မှုသည် ရာသီအလိုက် ပွဲတော်များ ပြန်လည်ကျင်းပခြင်းကဲ့သို့ အရေးမကြီးပါ။
+4/5
 
 2306
 It is a way of saying,  I am an outlaw, a mountain man!
-ငါကတောင်ပေါ်သားတယောက် ၊ တရားမဝင်ဘူးလို့ ၊ ပြောနည်းတစ်ခုပါပဲ။
+ဒါဟာ တနည်းအားဖြင့် ငါဟာ တောင်ပေါ်သားတယောက် ၊ တောပုန်းတစ်ယောက်လို့ ၊ ပြောလိုက်တာပါပဲ!
+4/5
 
 2307
 These things are outside of man, while style is man himself.
 ဒီအရာများသည် လူနဲ့ မပတ်သက် ၊ အမူအရာက လူ ကိုယ်တိုင် ဖြစ်သည်။
+3/5
 
 2308
 Say break, steak, but bleak and streak.
 ကျိုးပဲ့နေသော ၊ အကင်၊ ဒါပေမယ့် အေးစက်စက်နိုင် ပြီး အမှုန်အစ လို့ ပြောပါ။
+3/5
 
 2309
 For example, some have derivations distinctly removed from the equipment used or the court on which the game is played.
 ဥပမာအားဖြင့်၊ ကွဲပြားစွာ ဆင်းသက်လာသော အချို့ကို အသုံးပြုသည့် စက်ကိရိယာ သို့မဟုတ် ဂိမ်းကစားသည့် တရားရုံးမှ ဖယ်ရှားထားသည်။
+2/5
 
 2310
 As for challenges, I am currently looking for a word that can be cut into two successively smaller forms.
 စိန်ခေါ်မှုများအတွက် ၊ ကျွန်ုပ်သည် ဆက်တိုက် အသေးစား ပုံစံ နှစ်မျိုး ခွဲနိုင်သော စကားလုံးတစ်လုံးကို လောလောဆယ် ရှာဖွေနေပါသည်။
+4/5
 
 2311
 For example, diagnosis was borrowed from a Greek word (which, incidentally, did not mean the same thing); two hundred years afterwards, the verb diagnose --a back formation --was coined.
-ဥပမာအားဖြင့်၊ ရောဂါရှာဖွေခြင်းသည် ဂရိစကားလုံးမှ ငှားယူထားခြင်းဖြစ်သည်  (စကားမစပ် ၊ ထိုအချက်မှာ တူညီသောအရာကို ဆိုလိုခြင်းမဟုတ်ပါ) ; အနှစ် နှစ်ရာကြာပြီးနောက်၊ --နောက်ကျောဖွဲ့စည်းမှု -- ကြိယာဖြစ်သော ရောဂါရှာဖွေခြင်းကို စကားလုံးထွင်ခဲ့ခြင်းဖြစ်ပါသည်။
+ဥပမာအားဖြင့်၊ ရောဂါရှာဖွေခြင်းသည် ဂရိစကားလုံးမှ ငှားယူထားခြင်းဖြစ်သည်  (စကားမစပ် ၊ ထိုအချက်မှာ တူညီသောအရာကို ဆိုလိုခြင်းမဟုတ်ပါ) ; အနှစ် နှစ်ရာကြာပြီးနောက်၊ ကြိယာဖြစ်သော ရောဂါရှာဖွေခြင်း --နောက်ပြန်ဖွဲ့စည်းမှု -- ကို စကားလုံးထွင်ခဲ့ခြင်းဖြစ်ပါသည်။
+4/5
 
 2312
 To put the matter differently, I could write an essay called  The Perils of Literacy  or  A Little Literacy Is a Dangerous Thing.
-ဒီကိစ္စကို မတူအောင်လုပ်ဖို့ဆိုရင် စာတက်မြောက်ခြင်း၏အန္တရာယ်များ သို့မဟုတ် အနည်းငယ်တက်မြောက်ခြင်းသည် အန္တရာယ်ရှိသောအရာဖြစ်တယ် လို့ ခေါ်တဲ့ စာစီစာကုံး ရေးနိုင်ခဲ့တယ်။
+ဒီကိစ္စကို မတူအောင်လုပ်ဖို့ဆိုရင် စာတက်မြောက်ခြင်း၏အန္တရာယ်များ သို့မဟုတ် အနည်းငယ်တက်မြောက်ခြင်းသည် အန္တရာယ်ရှိသောအရာဖြစ်တယ် လို့ ခေါ်တဲ့ စာစီစာကုံး ကို ငါ ရေးလိုက်နိုင်တယ်။
+3/5
 
 2313
 I hope to live to the year 2000 to help with the Yiddish Guide .  I am sure that Yiddish will still be around, surviving its detractors, as it has for a thousand years.
-ရဟူဒီ ဘာသာစကား လမ်းညွှန် ကိုကူညီရန် ၂၀၀၀ နှစ်အထိ အသက်ရှင်ရန် မျှော်လင့်ပါသည်။ အနှစ်တစ်ထောင်ရှိပြီ ဖြစ်သည့်အတိုင်း ၎င်း၏ နှောင့်ယှက်သူများကို လွတ်မြောက်စေမည့် ရဟူဒီ ဘာသာစကား သည် အနီးတစ်ဝိုက်တွင် ရှိနေဦးမည်ဟု ကျွန်ုပ်ယုံကြည်ပါသည်။
+ရဟူဒီ ဘာသာစကား လမ်းညွှန် ကိုကူညီရန် ၂၀၀၀ နှစ်အထိ အသက်ရှင်ရန် ကျွန်ုပ်မျှော်လင့်ပါသည်။ အနှစ်တစ်ထောင်ရှိပြီ ဖြစ်သည့်အတိုင်း ၎င်းအား နှောင့်ယှက်သူများမှ လွတ်မြောက်ရှင်သန်ခဲ့သည့် ရဟူဒီ ဘာသာစကား သည် ဆက်လက် ရှိနေဦးမည်ဟု ကျွန်ုပ်ယုံကြည်ပါသည်။
+4/5
 
 2314
 (It has been said, not altogether jokingly, that if the Japanese were required to pay a license fee for every English word they used, their trade surplus would vanish.)
-(ဂျပန်လူမျိုးများသည် အင်္ဂလိပ်စကားလုံးတိုင်းအတွက် လိုင်စင်ကြေး တစ်ခု ပေးဆောင်ဖို့ လိုအပ်မည်ဆိုလျှင်၊ ၎င်းတို့၏ ကုန်သွယ်မှု ပိုငွေသည် ပျောက်ကွယ်သွားမည်ဆိုတာက လုံးလုံး ရယ်စရာမဟုတ်ဟု ဆိုပါသည်။)
+(ဂျပန်လူမျိုးများသည် သူတို့အသုံးပြုသည့် အင်္ဂလိပ်စကားလုံးတိုင်းအတွက် လိုင်စင်ကြေး တစ်ခုသာ ပေးဆောင်ဖို့ လိုအပ်မည်ဆိုလျှင်၊ ၎င်းတို့၏ ကုန်သွယ်မှု ပိုငွေသည် ပျောက်ကွယ်သွားမည်ဟု, လုံးလုံး ရယ်စရာအဖြစ်မဟုတ်သော်လည်း,  ဆိုပါသည်။)
+4/5
 
 2315
 Speakers who want to impress their audiences know they have to telegraph key points and facts, then announce them, then repeat, dramatize, explain, and embellish.
-သူတို့၏ပရိသတ်များကို အထင်ကြီးစေလိုသော ဟောပြောသူများက သူတို့သည် အဓိကအချက်များနှင့် အချက်အလက်များကို ကြေးနန်းရိုက်ရန် လိုအပ်ကြောင်း သိကြပြီး၊ ထို့နောက် ၎င်းတို့ကို ကြေညာကာ ထပ်ခါထပ်ခါ၊ သရုပ်ဖော်ခြင်း၊ ရှင်းပြခြင်းနှင့် အလှဆင်ခြင်းတို့ ပြုလုပ်ရမည်ဖြစ်သည်။
+သူတို့၏ပရိသတ်များကို အထင်ကြီးစေလိုသော ဟောပြောသူများက သူတို့သည် အဓိကအချက်များနှင့် အချက်အလက်များကို ကြေးနန်းရိုက်ရန် လိုအပ်ကြောင်း၊ ထို့နောက် ၎င်းတို့ကို ကြေညာကာ ထပ်ခါထပ်ခါ၊ သရုပ်ဖော်ခြင်း၊ ရှင်းပြခြင်းနှင့် အလှဆင်ခြင်းတို့ ပြုလုပ်ရမည်ကို သိကြသည်။
+4/5
 
 2316
 It is curious to note that terms not appearing on the list included slow learner, neurological handicap, brain injury, and educational handicap.
-နှေးကွေးသော သင်ယူသူ ၊ အာရုံကြောဆိုင်ရာ ချို့ယွင်းချက်၊ ဦးနှောက်ထိခိုက်ဒဏ်ရာရမှုနှင့် ပညာရေးဆိုင်ရာ ချို့ယွင်းချက် တို့ ပါဝင်သော စာရင်းတွင် မပါဝင်သည့် စည်းကမ်းချက်များကို မှတ်သားရန်  လေ့လာဆည်းပူးသည်။
+နှေးကွေးသော သင်ယူသူ ၊ အာရုံကြောဆိုင်ရာ ချို့ယွင်းချက်၊ ဦးနှောက်ထိခိုက်ဒဏ်ရာရမှုနှင့် ပညာရေးဆိုင်ရာ ချို့ယွင်းချက် တို့ ပါဝင်သော စာရင်းတွင် မပါဝင်သည့် အသုံးအနှုန်းများကို မှတ်သားရန်  လေ့လာဆည်းပူးသည်။
+3/5
 
 2317
 But this gloss on the dedication is omitted in the review, leaving the reader no wiser than before.
 အပ်နှံခြင်းဆိုင်ရာ အဆိုပါ ရှင်းလင်းချက်အား သုံးသပ်ချက်တွင် ချန်လှပ်ထားပေမယ့် ၊ စာဖတ်သူက ယခင်ကထက် နားလည်ဖို့ ခက်ခဲစေတယ်။
+2/5
 
 2318
 In the closing years of the 19th century there was much discussion concerning the word
 19 ရာစု၏နောက်ဆုံးနှစ်များတွင် စကားလုံးနှင့်ပတ်သက်ပြီး ဆွေးနွေးမှုများစွာရှိခဲ့သည်
+4/5
 
 2319
 The Cambridge University Press has seen fit to honor the 200th anniversary of Boswell's Life of Johnson with a collection of fourteen essays on the biographer and his subject.
-ကင်းဘရစ်ချ် တက္ကသိုလ် စာနယ်ဇင်း သည် Boswell's Life of Johnson ၏ နှစ် ၂၀၀ ပြည့် နှစ်ပတ်လည် အထိမ်းအမှတ် အတ္ထုပတ္တိနှင့် သူ၏ ဘာသာရပ်ဆိုင်ရာ အက်ဆေး ဆယ့်လေးခုကို စုစည်းမှုဖြင့် ဂုဏ်ပြုရန် သင့်လျော်ပါသည်။
+ကင်းဘရစ်ချ် တက္ကသိုလ် ပုံနှိပ်တိုက် သည် Boswell's Life of Johnson ၏ နှစ် ၂၀၀ ပြည့် နှစ်ပတ်လည် အထိမ်းအမှတ် အတ္ထုပတ္တိနှင့် သူ၏ ဘာသာရပ်ဆိုင်ရာ အက်ဆေး ဆယ့်လေးခုကို စုစည်းမှုဖြင့် ဂုဏ်ပြုရန် သင့်လျော်သည်ဟု မြင်သည်။
+3/5
 
 2320
 I was puzzled by Rebecca Christian's mention in  Blessed Be the Words That Bind' [XVI,3] of  Vikki Carr's song, `Is That All There Is?
 ဗစ်ကီ ကာ ၏သီချင်း Blessed Be the Words That Bind' [XVI,3] တွင် ရေဗက္ကာ ခရစ်ယာန် ၏ဖော်ပြခြင်းကြောင့် စိတ်ရှုပ်ခဲ့ရပါသည်၊ ဒါတွေအားလုံးရှိတယ်။
+1/5
 
 2321
 But they have one private, hidden name which remains a family secret.
-ဒါပေမယ့်  သူတို့မှာ မိသားစုလျှို့ဝှက်ထားဆဲဖြစ်သော  သီးသန့်လျှို့ဝှက်အမည်တစ်ခုရှိသည်။
+ဒါပေမယ့်  သူတို့မှာ မိသားစုလျှို့ဝှက်ထားချက်ဖြစ်သော  သီးသန့်လျှို့ဝှက်အမည်တစ်ခုရှိသည်။
+4/5
 
 2322
 In most common use are the words in the third group that originally define sexual acts.
 လိင်ပိုင်းဆိုင်ရာ အပြုအမူများကို မူလက သတ်မှတ်ထားသော တတိယအုပ်စုတွင် အသုံးများသော စကားလုံးများဖြစ်သည်။
+3/5
 
 2323
 Some names, although they may be objectionable, are not changed.
 အချို့သောအမည်များကို ကန့်ကွက်နိုင်သော်လည်း သူတို့မပြောင်းလဲခဲ့ပါ။
+3/5
 
 2324
 The King James Bible, which contains many such archaisms, has preserved them for modern English; wherefore more commonly appears in the tautology whys and wherefores .
 ကိုးကွယ်ယုံကြည်မှုများစွာ ပါဝင်သော ၊ ဂျိမ်း ဘုရင်  သမ္မာကျမ်းစာသည် ၊ သူတို့ကို ခေတ်မီ အင်္ဂလိပ်ဘာသာအတွက် ထိန်းသိမ်းထားသည်၊ ထို့ကြောင့် ထပ်တူအဓိပ္ပါယ်ထပ်မံဖော်ပြရာ တွင် အဘယ်ကြောင့်နည်း။
+1/5
 
 2325
 As a proud Scot myself, I feel that a much more probable reason for this apparent lack of linguistic ambition is to be found in the regional dialect.
 ကျွန်တော်ကိုယ်တိုင် ဂုဏ်ယူသော စကော့တစ်ဉီးအနေဖြင့်၊ ဒီ ဘာသာဗေဒဆိုင်ရာ ရည်မှန်းချက် သိသာစွာ မရှိခြင်းအတွက် ပိုမိုဖြစ်နိုင်ချေရှိသော အကြောင်းရင်း များစွာကို ဒေသအလိုက် ဒေသန္တရ ဘာသာစကားတွင် တွေ့ရှိရမည်ကို ကျွန်တော် ခံစားသိရှိသည်။
+4/5
 
 2326
 I have never understood why the International Phonetic Alphabet is not used in English dictionaries of all sorts, but this is beyond the scope of our remarks in this review.
-နိုင်ငံတကာ အသံထွက် ဗျည်းအက္ခရာကို အင်္ဂလိပ်အဘိဓာန်များတွင်  အမျိုးအစားအားလုံးကို အဘယ်ကြောင့် အသုံးမပြုရသနည်းကို ဘယ်တော့မှ နားမလည်းခဲ့ပေမယ့် ၊ ဒီသုံးသပ်ချက်တွင် ကျွန်ုပ်တို့၏ မှတ်ချက်များ၏ အတိုင်းအတာထက် ကျော်လွန်နေပါသည်။
+နိုင်ငံတကာ အသံထွက် ဗျည်းအက္ခရာကို အင်္ဂလိပ်အဘိဓာန်  အမျိုးအစားများအားလုံးတွင် အဘယ်ကြောင့် အသုံးမပြုရသနည်းကို ဘယ်တော့မှ နားမလည်းခဲ့ပေမယ့် ၊ ဒီဟာက ကျွန်ုပ်တို့၏ ဤသုံးသပ်ချက်ပါ မှတ်ချက်များ၏ အတိုင်းအတာထက် ကျော်လွန်နေပါသည်။
+3/5
 
 2327
 But such acknowledgments do not qualify as dedications in the sense generally understood and in the book at hand in particular.
 ဒါပေမယ့်  ထိုသို့သော အသိအမှတ်ပြုမှုများသည် ယေဘုယျအားဖြင့် နားလည်သဘောပေါက်သည့် သဘောနှင့် အထူးသဖြင့် လက်ထဲတွင်ရှိသောစာအုပ်တွင် အပ်နှံမှုများအဖြစ် အရည်အချင်းမပြည့်မီပါ။
+1/5
 
 2328
 (a) Change each d or t in the target to c.
 (အေ)ပစ်မှတ်ရှိ ဒီ  သို့မဟုတ် တီ  တစ်ခုစီကို စီ  သို့ပြောင်းပါ။ 
+4/5
 
 2329
 '  Another example comes from VIP `Vasoactive Intestinal Poly-peptide.
 နောက်ထပ် ဥပမာသည် Vasoactive Intestinal Poly-peptide ဗွီအိုင်ပီ မှလာသည်။
+4/5
 
 2330
 Grammar and glamour are historically the same word.
-သဒ္ဒါစာအုပ် နှင့် မက်မောဖွယ်ရာ တို့သည် သမိုင်းကြောင်းအရ တူညီသောစကားလုံးဖြစ်သည်။
+သဒ္ဒါ နှင့် မက်မောဖွယ်ရာ တို့သည် သမိုင်းကြောင်းအရ တူညီသောစကားလုံးဖြစ်သည်။
+4/5
 
 2331
 As all the time I was kneeling with my forehead on the wood in front of me, and was thinking of myself as praying, I was a little ashamed.
-တစ်ချိန်လုံး ငါက ငါ့ရှေ့က သစ်သားပေါ်မှာ ခေါင်းနဲ့ ဒူးထောက်နေရပြီး ၊ ငါဟာ့ငါ ဆုတောင်းမယ်လို့ တွေးမိတာကို  ၊ ငါနည်းနည်းရှက်သွားတယ်။
+တစ်ချိန်လုံး ငါက ငါ့ရှေ့က သစ်သားပေါ်မှာ ခေါင်းနဲ့ ဒူးထောက်နေနေခဲ့ပြီး ၊ ဆုတောင်းနေတယ်လို့ ငါ့ကိုယ်ငါတွေးမိတာကို  ၊ ငါနည်းနည်းရှက်သွားခဲတယ်။
+4/5
 
 2332
 If adjectives soften ethnic terms, nouns can harden them.
-နာမဝိသေသနများသည် လူမျိုးရေးအသုံးအနှုန်းများကို ပျော့ပြောင်းစေပါက နာမ်များသည် သူတို့ကို ခိုင်မာစေနိုင်သည်။
+နာမဝိသေသနများသည် လူမျိုးရေး အသုံးအနှုန်းများကို ပျော့ပြောင်းစေပါက နာမ်များသည် သူတို့ကို မာကျောစေနိုင်သည်။
+3/5
 
 2333
 Nothing underscores the subtle complexities of language more strikingly than the miscommunications that occur among pilots, crew members, and air traffic controllers.
 လေယာဉ်မှူးများ၊ လေယာဉ်အမှုထမ်းများနှင့် လေကြောင်းထိန်းချုပ်ရေးမှူးများ ကြားတွင် ဖြစ်ပေါ်သည့် မှားယွင်းသော ဆက်သွယ်မှုများထက် ဘာသာစကား၏ သိမ်မွေ့ရှုပ်ထွေးမှုများကို သိသိသာသာ ပေါ်လွင်စေသောအရာမရှိပါ။
+4/5
 
 2334
 consistency is a form of ritualism.
-ညီညွတ်ခြင်းသည် ထုံးတမ်းဓလေ့ ရဲ့ပုံစံတစ်မျိုးဖြစ်သည်။
+ညီညွတ်ခြင်းသည် ထုံးတမ်းဓလေ့ ၏ ပုံစံတစ်မျိုးဖြစ်သည်။
+2/5
 
 2335
 Some of the book's lexical entries are questionable.
 စာအုပ်၏ အဘိဓာန်ပါ၀င်ချက်အချို့မှာ မေးခွန်းထုတ်စရာဖြစ်သည်။
+4/5
 
 2336
 Make my coat look new, dear, sew it!
-ငါ့ကိုကုတ်အင်္ကျီအသစ်  ချုပ်ပေးပါ ချစ်လေး။ 
+ငါ့ကုတ်အင်္ကျီ ကို အသစ်လိုဖြစ်အောင်လုပ်ပေးပါ အချစ်လေး၊ ချုပ်ပေး!
+4/5
 
 2337
 In modern French novels about military experiences, however, one may find a soldier proposing to his buddies,  Allons, les gars.
 သို့ရာတွင် ၊ စစ်ရေးအတွေ့အကြုံများနှင့်ပတ်သက်၍ ခေတ်သစ်ပြင်သစ်ဝတ္ထုများတွင်မူ၊ သူ၏အပေါင်းအဖော်ဖြစ်သော အယ်လန်များ၊ les gars ထံ အဆိုပြုသည့် စစ်သားတစ်ဦးကို တွေ့ရှိနိုင်သည်။
+3/5
 
 2338
 said my wife, raising an eyebrow.
-ကျွန်တော့် ဇနီးက မျက်ခုံးပင့် ပြီး ပြောခဲ့တယ်။
+မျက်ခုံးပင့် ပြီး ကျွန်တော့် ဇနီးက ပြောခဲ့တယ်။
+4/5
 
 2339
 One of the latest words to enter the Abbreviation Cycle of Redundancy Race is Missouri .  The  Show-Me  state gained statehood in 1821.
-Abbreviation Cycle of Redundancy Race ကို ဝင်ရောက်ရန် လိတ်တတ်စ်အဖြစ်ဆုံး စကားလုံးများထဲမှတစ်ခုမှာ မစ်ဆူရီ  ဖြစ်သည်။ Show-Me  stateသည် ၁၈၂၁ ခုနှစ်တွင် နိုင်ငံတော်အာဏာကို ရရှိခဲ့သည်။
+Abbreviation Cycle of Redundancy Race ကို ဝင်ရောက်ရန် နောက်ဆုံးအဖြစ်ဆုံး စကားလုံးများထဲမှတစ်ခုမှာ မစ်ဆူရီ  ဖြစ်သည်။ Show-Me  stateသည် ၁၈၂၁ ခုနှစ်တွင် ပြည်နယ်အဆင့်ကို ရရှိခဲ့သည်။
+4/5
 
 2340
 Continence, after all, is a virtue, or so say those who do not have it imposed on them.
 မြဲမြံခြင်းသည် သီလဖြစ်သည်၊ သို့တည်းမဟုတ် ထိုသူတို့အပေါ်၌ စွဲလမ်းမှု မရှိသောသူများဟု ဆိုအပ်ပေသည်။
+1/5
 
 2341
 In a book dealing with a subject of this sort one must be extremely careful to cleave to rigid definitions of the key terms ( euphemism, dysphemism, taboo , etc.) and not deviate from them.
 ဒီအမျိုးအစားနှင့်ပတ်သက်သော ဘာသာရပ်ဆိုင်ရာ စာအုပ်တစ်အုပ်တွင် အဓိကအသုံးအနှုန်းများ ၏ တင်းကျပ်သော အဓိပ္ပါယ်ဖွင့်ဆိုချက်များကို (စကားနု စကားယဉ်၊ ကမောက်ကမ၊ တားမြစ်ချက်၊ စသည်) စွဲစွဲမြဲမြဲ စွဲကိုင်ထားပြီး ၎င်းတို့နှင့် သွေဖည်မသွားစေရန် အလွန်သတိထားရပါမည်။
+3/5
 
 2342
 And we know that Professor Honey has it right when he writes about
-ပရော်ဖက်ဆာ ဟန်နီ က သူ ဟိုလိုလိုဒီလိုလို ရေးတဲ့အခါ အဲဒါမှန်တယ်ဆိုတာ ငါတို့သိတယ်
+ပရော်ဖက်ဆာ ဟန်နီ က သူ ရေးတဲ့အခါ အဲဒါမှန်တယ်ဆိုတာ ငါတို့သိတယ်
+3/5
 
 2343
 Lil Armstrong, who was the pianist for the session, improvised the answer,  That's named `Muskrat Ramble'; isn't that right, Red?
 အဆိုပါ ကဏ္ဍ အတွက် စန္ဒယားဆရာဖြစ်သူ လီလာ အမ်းစထရောင်း က ၊ `မတ်ခရက် ရမ်ဘယ်' လို့ ခေါ်တဲ့ အဲ့ဒါကို လက်တန်းတီးမှုတ်ကာ ပြန်ဖြေကြားခဲ့သည် က မှန်တယ်မဟုတ်လား ၊ ရက်ဒ် ?
-
+3/5
 
 2344
 The next week, my nephew asked for an acoustic guitar for his birthday.
-နောက်အပတ်ကျတော့ ကျွန်တော့်တူလေးက သူ့မွေးနေ့အတွက် လျှပ်စစ်တူရိယာမဟုတ်တဲ့ ဂစ်တာ တစ်လက်ကို တောင်းတယ်။
+နောက်အပတ်ကျတော့ ကျွန်တော့်တူလေးက သူ့မွေးနေ့အတွက် ဂစ်တာ တစ်လက်ကို တောင်းတယ်။
+4/5
 
 2345
 Blood and flood are not like food,
 သွေး နှင့် ရေကြီးခြင်းက စားစရာ ကဲ့သို့ မဟုတ်ဘူး၊
+4/5
 
 2346
 One of the linguistic phenomena to have emerged during the last hundred years or so is the acceptance of the notion that an important step in solving problems lies in naming them.
 လွန်ခဲ့သော နှစ်ပေါင်းတစ်ရာကျော်အတွင်း ပေါ်ပေါက်လာခဲ့သည့် ဘာသာစကားဆိုင်ရာ ဖြစ်စဉ်များထဲမှ တစ်ခုမှာ သို့မဟုတ် ပြဿနာများကို ဖြေရှင်းရာတွင် အရေးကြီးသော အဆင့်မှာ ၎င်းတို့ကို အမည်ပေးခြင်းတွင် ရှိသည်ဟူသော အယူအဆကို လက်ခံခြင်းပင်ဖြစ်သည်။
+3/5
 
 2347
 There are nationalities and ethnic groups so confident, so satisfied with themselves that ethnic epithets either bounce off them like pebbles off an elephant or are adopted as amusing or even ornamental.
 တိုင်းရင်းသားလူမျိုးတို့၏ ရိုးရာအကများသည် ဆင်ပေါ်က ကျောက်စရစ်ခဲများကဲ့သို့ ပေါက်ထွက်ခြင်း သို့မဟုတ် ရယ်မောစရာ သို့မဟုတ် တန်ဆာဆင်ခြင်းအဖြစ် မွေးစားခြင်းခံရသည်ကို သူတို့ကိုယ်တိုင် ကျေနပ်မှုရှိနေကြသော ၊ အလွန် ယုံကြည်ချက်ရှိသော လူမျိုးစုများနှင့် တိုင်းရင်းသားလူမျိုးစုများ ရှိကြပါသည်။
+2/5
 
 2348
 The dictionaries I have checked are silent--improperly so, I think--on these senses.
-ကျွန်ုပ်စစ်ဆေးထားသော ဆုံးဖြတ်ချက်များသည် အသံတိတ်နေသည် -- ဒီလို အာရုံခံစားမှုတွေကို ငါ မသင့်လျော်စွာ စဉ်းစားမိတယ်။
+ကျွန်ုပ်စစ်ဆေးထားသော အဘိဓါန်များသည် အသံတိတ်နေသည် -- ဒီလို အာရုံခံစားမှုတွေကို ငါ မသင့်လျော်စွာ စဉ်းစားမိတယ်။
+1/5
 
 2349
 Goistering was a curious term for loud feminine laughter; a bad worker was called  his excuse might well be, Old Laurence has got hold of me today!
 Goistering သည် ကျယ်လောင်သော မိန်းမဆန်သော ရယ်မောခြင်းအတွက် စပ်စပ်စုစုနိုင်သော အသုံးအနှုန်းဖြစ်သည်၊ မကောင်းတဲ့ အလုပ်သမားတစ်ယောက်ကို သူ့အကြောင်းပြချက်နဲ့သူ ခေါ်တာဖြစ်ကောင်းဖြစ်နိုင်တယ် လို့ ၊ အိုး လော်ရင့်စ် က ဒီနေ့ ငါ့ကို လက်ဆုပ်လက်ကိုင်ပြခဲ့တယ်။
+3/5
 
 2350
 He rhymed it with pandemonium ; judging from the lawsuits which proliferate over condominium parking spaces, balcony barbecues, and pets pooping in the halls, he might have been right to use the neologism.
-ကွန်ဒိုမီနီယံ ကားပါကင် နေရာများ ၊ လသာဆောင် အသားကင်ခန်းမ ၊ နှင့် ခန်းမအတွင်း အိမ်မွေးတိရစ္ဆာန်များ ဝမ်းလျှောခြင်းစသည့် ပျံ့နှံ့နေသည့် အမှုများမှ စီရင်ချက်ချရာတွင် ၊ သူသည် ၎င်းကို ဝရုန်းသုန်းကား ကာရံလိုက်ထားတယ် ၊ သူသည် ဝေါဟာရသစ်  ကို အသုံးပြုရန် မှန်ကန်ပေလိမ့်မည်။
+ကွန်ဒိုမီနီယံ ကားပါကင် နေရာများ ၊ လသာဆောင် အသားကင်များ ၊ နှင့် ခန်းမအတွင်း အိမ်မွေးတိရစ္ဆာန်များ အညစ်အကြေးစွန့်ခြင်းစသည့် ပျံ့နှံ့နေသည့် အမှုများမှ စီရင်ချက်ချရာတွင် ၊ သူသည် ၎င်းကို ဝရုန်းသုန်းကား ကာရံလိုက်ထားတယ် ၊ သူသည် ဝေါဟာရသစ်  ကို အသုံးပြုရန် မှန်ကန်ပေလိမ့်မည်။
+3/5
 
 2351
 She insisted that he fly home  means `She wanted him to fly home,' though whether he actually did or not would be revealed in a later chapter.
-သူအိမ်ပြန်ပြေးသည် ဆိုသည်မှာ 'သူမက သူကို အိမ်ပြန်စေချင်သည်' ဟု အခိုင်အမာဆိုသည်၊ သို့သော် သူတကယ်လုပ်သည်ဖြစ်စေ၊ မလုပ်သည်ဖြစ်စေ နောက်ပိုင်းအခန်းများတွင် ဖော်ပြမည်ဖြစ်သည်။
+သူ့ကိုအိမ်ပြန်ဟုသူက အတင်းအကျပ်ဆိုခဲ့သည် ဆိုသည်မှာ 'သူမက သူ့ကို အိမ်ပြန်စေချင်သည်' ဟု ဆိုလိုခြင်းဖြစ်သည်၊ သို့သော် သူတကယ်လုပ်ခဲ့သည်၊ မလုပ်ခဲ့သည်ကို နောက်ပိုင်းအခန်းများတွင် ဖော်ပြမည်ဖြစ်သည်။
+4/5
 
 2352
 One rares back and uses this phrase when one finds himself in surroundings of unaccustomed elegance, such as sipping an aperitif in an elegant restaurant with a bevy of tuxedoed waiters dancing attendance.
 တက်စီးဒုတ်  စားပွဲထိုးများသည် ကခုန်မှုနှင့်အတူ ခမ်းနားသော စားသောက်ဆိုင်တွင် အချိုရည်သောက်ခြင်းကဲ့သို့ လူတစ်ဦးသည် သမရိုးကျမဟုတ်သော ကျက်သရေရှိသော ပတ်ဝန်းကျင်တွင် သူ့ကိုယ်သူ တွေ့ရှိသောအခါတွင် ရှားပါးပြီး ဤစကားစုကို အသုံးပြုသည်။
+2/5
 
 2353
 In 1972, Phillip Morris, Inc.'s Miller Brewing Co. acquired the Lite beer label in a buyout of Meister Brau Inc.
 ၁၉၇၂ ခုနှစ်တွင် ဖိလစ်  မောရစ်, အိုင်အမ်စီ . ၏ မီလာ ဘရူးအင်း စီအို . သည် မိုက်စတာ ဘရောက် အိုင်အမ်စီ . ၏ အဝယ်လိုက်ခြင်းဖြင့် လိုက်ဒ်  ဘီယာတံဆိပ်ကို ဝယ်ယူခဲ့သည်။
+2/5
 
 2354
 [XVIII,4] refers to huevos in its slang sense, `balls,' not its literal sense, `eggs.
 [အိတ်စ်ဗွီအိုင်အိုင်အိုင်၊၄] huevos သည် ၊ ၎င်း၏ ပကတိ အာရုံခံစားမှုဖြစ်သော `ဥ´ကို မဟုတ်ပဲ ၊ ၎င်း၏ဘန်းစကားအရ 'ဘောလုံး' ကို ရည်ညွှန်းသည်။
+1/5
 
 2355
 Consider this figure in light of the fact that the largest English dictionary--now out of print--had 600,000 or so entries, including many obsolete forms.
-အကြီးဆုံးအင်္ဂလိပ်အဘိဓာန်--ယခု ပုံနှိပ်မဟုတ်တော့-- အသုံးမပြုတော့သော ပုံစံများစွာ အပါအဝင် ၆၀၀၀၀၀ သို့မဟုတ် ဤမျှလောက် ထည့်သွင်းမှုများ ရှိသည်ဟူသောအချက်ကို အခြေခံ၍ သုံးသပ်ကြည့်ပါ။
+အကြီးဆုံးအင်္ဂလိပ်အဘိဓာန်--ယခု ထပ်မံပုံမနှိပ်တော့-- အသုံးမပြုတော့သော ပုံစံများစွာ အပါအဝင် ၆၀၀၀၀၀ သို့မဟုတ် ဤမျှလောက် ထည့်သွင်းမှုများ ရှိသည်ဟူသောအချက်ကို အခြေခံ၍ သုံးသပ်ကြည့်ပါ။
+3/5
 
 2356
 Still others will simply marvel at the use of language and wonder just where our analytical side ends and our emotional side begins.
 အခြားသူများမှာ ဘာသာစကား အသုံးပြုခြင်းကို ရိုးရိုးရှင်းရှင်း အံ့ဩသွားကာ ကျွန်ုပ်တို့၏ ခွဲခြမ်းစိတ်ဖြာမှုဘက်မှ အဆုံးသတ်ပြီး ကျွန်ုပ်တို့၏ စိတ်ခံစားမှုဆိုင်ရာ ဘက်ခြမ်းက စတင်သည်ကို အံ့သြသွားမည်။
+2/5
 
 2357
 schlock `shoddy, cheaply produced merchandise.
-အပေါစား `အမိုက်စား၊ ဈေးပေါပေါဖြင့် ထုတ်လုပ်ထားသော ကုန်ပစ္စည်း။
+အပေါစား `အညံ့စား၊ ဈေးပေါပေါဖြင့် ထုတ်လုပ်ထားသော ကုန်ပစ္စည်း။
+4/5
 
 2358
 'Without this explanation, the information that surname is from French surnom seems to me to be of very little interest.
-အဆိုပါ ရှင်းပြချက်မပါဘဲ မျိုးရိုးအမည်သည် ပြင်သစ်မျိုးရိုး မှလာသော အချက်အလက်များသည် ကျွန်ုပ်ကို စိတ်ဝင်စားမှုနည်းပါးစေသည်။
+အဆိုပါ ရှင်းပြချက်မပါဘဲ မျိုးရိုးအမည်သည် ပြင်သစ်မျိုးရိုး မှလာသည်ဟူသော အချက်အလက်များသည် ကျွန်ုပ်ကို စိတ်ဝင်စားမှုနည်းပါးစေသည်။
+3/5
 
 2359
 To the horror of some Western readers, however, he was at least once quoted out of context as having threatened to  bury  America.
-သို့ရာတွင် အနောက်တိုင်းစာဖတ်သူအချို့၏ ထိတ်လန့်စရာမှာ၊  အမေရိကကို သင်္ဂြိုဟ်ရန် ခြိမ်းခြောက်မှုအဖြစ် အနည်းဆုံး တစ်ကြိမ်သာ စကားစပ်မိခဲ့ခြင်းဖြစ်သည်။
+သို့ရာတွင် အနောက်တိုင်းစာဖတ်သူအချို့အား ထိတ်လန့်စရာဖြစ်ခဲ့သည်မှာ၊  အမေရိကကို သင်္ဂြိုဟ်ရန် ခြိမ်းခြောက်မှုအဖြစ် အနည်းဆုံး တစ်ကြိမ်သာ စကားစပ်မိခဲ့ခြင်းဖြစ်သည်။
+3/5
 
 2360
 Mr. Kaplan's generation has largely died off, and its progeny have become Americanized.
 မစ္စတာ ကပလန်၏ မျိုးဆက်သည် အကြီးအကျယ် ဆုံးပါးသွားခဲ့ပြီး ၎င်း၏ မျိုးရိုးသည် အမေရိကန်ဖွားများ ဖြစ်လာခဲ့သည်။
+2/5
 
 2361
 Sometimes you have to believe that all English speakers should be committed to an asylum.
-တခါတရံတွင် အင်္ဂလိပ်စကားပြောသူအားလုံးကို ခိုလှုံခွင့် တစ်ခု အတွက် ကတိကဝတ်ပြုသင့်တယ်လို့ မင်းယုံကြည်ရမည်။
+အင်္ဂလိပ်စကားပြောသူအားလုံးကို အရူးထောင်ကို ပို့သင့်တယ် လို့ တခါတရံတွင် သင်ယုံကြည်ရမည်။
+4/5
 
 2362
 The twelve articles collected under the general rubrics of Contexts of responsiveness, Listener response and communication, and Responsive readers have mixed success in dealing with the subject.
 တုံ့ပြန်မှုဆိုင်ရာ အကြောင်းအရာများ၊ နားထောင်သူ တုံ့ပြန်မှုနှင့် ဆက်သွယ်ရေး နှင့် တုံ့ပြန်မှုဆိုင်ရာ ယေဘူယျအခြေခံစည်းမျဉ်းများ အောက်တွင် စုဆောင်းထားသော ဆောင်းပါး ၁၂ ပုဒ်နှင့် တုံ့ပြန်မှုရှိသော စာဖတ်သူများသည် အကြောင်းအရာနှင့် ပတ်သက်သော အောင်မြင်မှုများ ရောနှောထားသည်။
+2/5
 
 2363
 '  It is remarkable that this anomaly still persists, even in many modern sources.
-ခေတ်သစ်အရင်းအမြစ်များစွာတွင်ပင် ဤကွဲလွဲချက်သည် ဆက်လက်တည်ရှိနေသေးသည်မှာ မှတ်သားစရာပင်။
+ခေတ်ပေါ်အရင်းအမြစ်များစွာတွင်ပင် ဤကွဲလွဲချက်သည် ဆက်လက်တည်ရှိနေသေးသည်မှာ မှတ်သားစရာပင်။
+4/5
 
 2364
 Spanish cursing and swearing is inventive-- echar sapos y culebras literally, means `to throw out frogs and snakes.
-စပိန်ဘာသာစကားနှင့် ကျိန်ဆဲခြင်းနှင့် ဆဲဆိုခြင်းသည် တီထွင်မှု  ဖြစ်သည် -- echar sapos y culebras စာသားအရ "ဖားနှင့်မြွေများကို ဖယ်ထုတ်ခြင်း" ဟု အဓိပ္ပာယ်ရသည်။
+စပိန်ဘာသာစကားနှင့် ကျိန်ဆဲခြင်းနှင့် ဆဲဆိုခြင်းသည် တီထွင်ဖန်တီးမှုပါသည် -- echar sapos y culebras မှာ "ဖားနှင့်မြွေများဖြင့် ပစ်ပေါက်ခြင်း" ဟု တိုက်ရိုက် အဓိပ္ပာယ်ရသည်။
+4/5
 
 2365
 196), for instance, we learn that  the original lingua franca (Italian, Frankish language) was a hybrid language.
-၁၉၆) ဥပမာအားဖြင့်၊ မူရင်း ဖရန်ကာ ဘာသာစကား (အီတလီ၊ ဖရန့်ခ်ဘာသာစကား) သည် ပေါင်းစပ်ဘာသာစကားတစ်ခုဖြစ်ကြောင်း ကျွန်ုပ်တို့ သိရှိလာရသည်။
+၁၉၆) ဥပမာအားဖြင့်၊ မူရင်း ဖရန်ကာ ဘာသာစကား (အီတလီ၊ ဖရန့်ခ်ဘာသာစကား) သည် ပေါင်းစပ်ဘာသာစကားတစ်ခုဖြစ်ကြောင်း ကျွန်ုပ်တို့ သိရှိရသည်။
+4/5
 
 2366
 rom the beginning people had to have names to identify themselves.
 ရွမ် မူလအစလူသားတွေမှာ သူတို့ကိုယ်သူတို့ ခွဲခြားသိမြင်ဖို့ နာမည်တွေရှိခဲ့ကြတယ်။
+1/5
 
 2367
 Words are, generally speaking, old.
 ယေဘုယျအားဖြင့်ပြောရရင်တော့ စကားလုံးတွေက ဟောင်းနေပါပြီ။
+4/5
 
 2368
 (Before continuing, the reader may wish to try this feat, too.)
 (မဆက်ခင် ၊ စာဖတ်သူလည်း ဒီလုပ်ဆောင်ချက်ကို ကြိုးစားချင်စိတ်ရှိနိုင်သည်။)
+4/5
 
 2369
 grantsmanship a form of panhandling in which the participants are very well dressed.
 အလွန်ကောင်းမွန်စွာဝတ်ဆင်ထားသော ပါဝင်သူများသည် လမ်းမှာတောင်းရမ်းခြင်း ပုံစံ ထောက်ပံ့ကြေး တစ်ခု ဖြစ်သည်။
+2/5
 
 2370
 In this way, the spelling of a word often relates to that of other words belonging to the same paradigm, or to its own history.
 ဒီနည်းအားဖြင့် စကားလုံးတစ်လုံး၏ စာလုံးပေါင်းသည် တူညီသော နမူနာ သို့မဟုတ်  ၎င်း၏ ကိုယ်ပိုင် သမိုင်းကို ပိုင်ဆိုင်သော အခြားသောစကားလုံးများနှင့်  ဆက်စပ်နေတတ်သည်။
+3/5
 
 2371
 In response to Richard Lederer's call for submissions in a  most graceful and coherent eleven-word supersentence  contest [ The Glamour of Grammar,  XVI,4], I offer the
 တင်သွင်းခြင်းများ အတွက် Richard Lederer ၏ တောင်းဆိုမှုကို တုန့်ပြန်ရာတွင် ၊ အမွန်မြတ်ဆုံးနှင့် အဆက်အစပ်အရှိဆုံး စကားလုံး ၁၁ လုံးပါ အကြမ်းဖျင်းပြိုင်ပွဲ [The Glamour of Grammar, အိတ်ဗွီအိုင်,၄ ] ကို ကျွန်ုပ်ကမ်းလှမ်းသည်
+1/5
 #REVIEW
 
 2372
 The equally whimsical nature of the  definitions' defies description.
 အဓိပ္ပါယ်ဖွင့်ဆိုချက်များ၏ ထူးဆန်းသောသဘောသဘာဝသည် ဖော်ပြချက်ကို အညီအမျှ ဆန့်ကျင်သည်။
+3/5
 
 2373
 The  an inadvertent omission of a hyphen from the computer's mass of coded mathematical ascent guidance instructions.
 သင်္ချာ တိုးတတ်မှု လမ်းညွှန် ညွှန်ကြားချက်များကို ကွန်ပျူတာဖြင့် လျှို့ဝှက်ရေးထားသည်များမှ hyphen တစ်ခုကို အမှတ်မထင် ချန်လှပ်ထားသည်။
+1/5
 
 2374
 In a sense, it seems illogical that we have retained the historic spellings for Spenser's works yet use modern spellings for the titles of plays by his contemporary, William Shakespeare.
 တစ်နည်းအားဖြင့် စပန်ဆာ ၏ လက်ရာများအတွက် သမိုင်းဝင်စာလုံးပေါင်းများကို ဆက်လက်ထိန်းသိမ်းထားသော်လည်း ၎င်း၏ခေတ်ပြိုင် ဝီလျံရှိတ်စပီးယား ပြဇာတ်ခေါင်းစဉ်များအတွက် ခေတ်မီစာလုံးပေါင်းများကို အသုံးပြုထားခြင်းသည် ယုတ္တိမတန်ပါ။
+4/5
 
 2375
 Two reference librarians were at a loss as to how to begin a search.
-ရှာဖွေမှု စတင်ပုံ နှင့်ပတ်သက်၍ ထောက်ခံသူ စာကြည့်တိုက်မှူး နှစ်ဦး ဆုံးရှုံးမှု ဖြစ်ခဲ့သည်။
+ရှာဖွေမှု စတင်ပုံ နှင့်ပတ်သက်၍ ကိုးကား စာကြည့်တိုက်မှူး နှစ်ဦး ဆုံးရှုံးမှု ဖြစ်ခဲ့သည်။
+2/5
 
 2376
 Nothing comes from nothing, Lucretius argued two thousand years ago, and tautologists have proved him right.
-ဘယ်အရာကမှ ဘာမှမဖြစ်ပါဘူး၊ Lucretius က လွန်ခဲ့တဲ့နှစ်ပေါင်းနှစ်ထောင်က စောဒကတက်ခဲ့ပြီး ကျွမ်းကျင်ပညာရှင်တွေက သူ့ကို မှန်တယ်လို့ သက်သေပြခဲ့ပါတယ်။
+ဘယ်အရာမှ ဘယ်အရာကမှမလားဘူး၊ Lucretius က လွန်ခဲ့တဲ့နှစ်ပေါင်းနှစ်ထောင်က ငြင်းခုန်ခဲ့ပြီး ကျွမ်းကျင်ပညာရှင်တွေက သူ့ကို မှန်တယ်လို့ သက်သေပြခဲ့သည်။
+3/5
 
 2377
 Smacks of old fogeyism, does it not?
 အိုဟောင်းနေတဲ့ fogeyism  ရဲ့ အနံ့အသက်တွေ မဟုတ်ဘူးလား။
+2/5
 
 2378
 They teach us to be resolute, relentless, and resourceful.
 သူတို့သည် ကျွန်ုပ်တို့အား ပြတ်သားစေရန် ၊ မဆုတ်မနစ်စေရန် ၊ ရည်မွန်စေ ရန် သင်ပေးသည်။
+3/5
 
 2379
 I had not been on the Continent long when I wanted to buy some nylons for a girl friend.
-မိန်းကလေးသူငယ်ချင်းတစ်ယောက်အတွက် နိုင်လွန်အချို့ဝယ်ချင်တုန်းထဲက ငါတိုက်ကြီးထဲမရောက်တာကြာပါပြီ။
+မိန်းကလေးသူငယ်ချင်းတစ်ယောက်အတွက် နိုင်လွန်အချို့ဝယ်ချင်ခဲ့တုန်းက ငါတိုက်ကြီးထဲမရောက်တာကြာပါပြီ။
+3/5
 
 2380
 Its official name was Flavian Amphitheater , after the family name of its builder, the emperor Vespasian.
-၎င်း၏တရားဝင်အမည်မှာ ဖလက်ဗင် ပွဲကြည့်စင် ဖြစ်ပြီး ၊ ၎င်း တည်ဆောက်သူ ၏ မိသားစု အမည်မှာ ၊ ဧကရာဇ် ဗတ်ပစိုင်း ဖြစ်သည်။
+၎င်း၏တရားဝင်အမည်မှာ ဖလက်ဗင် ပွဲကြည့်စင် ဖြစ်ပြီး ၊ ၎င်း တည်ဆောက်သူ ၏ မိသားစု အမည် ၊ ဧကရာဇ် ဗတ်ပစိုင်း ဖြစ်သည်။
+3/5
 
 2381
 When Alice objected,  But that's a different kind of fastness,  he replied,  It was all kinds of fastness with me, I can assure you!
 အဲလစ် က ကန့်ကွက်သောအခါ၊ အဲဒါကခြားနားတဲ့ မြန်ဆန်မှုမျိုးဖြစ်ပေမယ့် ၊ ၎င်းက ငါနဲ့ အမျိုးမျိုးသော မြန်ဆန်မှု အားလုံး ဖြစ်တယ်ဆိုတာကို ငါမင်းကိုအာမခံနိုင်ပါသည်ဟု သူကပြန်ဖြေခဲ့သည်။
+2/5
 
 2382
 Here along Oil Creek, Indians skimmed the surface oil off the water for domestic uses, and white settlers bottled it for medicinal purposes and called it Seneca Oil.
-ဒီနေရာ ရေနံချောင်းတစ်လျှောက်တွင် ၊ အိန္ဒိယလူမျိုးများသည် အိမ်တွင်း  အသုံးပြုရန် အတွက် ရေမျက်နှာပြင်မှဆီမျာကို ဖယ်ထုတ်ကြပြီး အဖြူရောင်နယ်သစ်တွင် အခြေချနေထိုင်သူများသည် ဆေးဘက်ဆိုင်ရာ ရည်ညွှန်းချက်များအတွက် ၎င်းကို ပုလင်းထဲထည့် ပြီး ၎င်းကို ဆီနီကာဆီဟုခေါ်သည်။
+ဒီနေရာ ရေနံချောင်းတစ်လျှောက်တွင် ၊ အင်ဒီးယန်းများသည် အိမ်တွင်း  အသုံးပြုရန် အတွက် ရေမျက်နှာပြင်မှဆီမျာကို ခပ်ထုတ်ခဲ့ကြပြီး နယ်သစ်အခြေချနေထိုင်သူ လူဖြူများသည် ဆေးဘက်ဆိုင်ရာအသုံးပြုမှုများတွက် ၎င်းကို ပုလင်းသွတ်ခဲ့ပြီး ၎င်းကို ဆီနီကာဆီဟုခေါ်ခဲ့သည်။
+4/5
 
 2383
 Of course, not every typographical error should be ascribed to a hidden unconscious motive on the part of the typesetter (or typist).
-ဟုတ်ပါတယ် ၊ စာစီစာရိုက်အမှားတိုင်းသည် စာစီစာရိုက်သူ (သို့မဟုတ် စာစီစာရိုက်) ၏အစိတ်အပိုင်းတွင် ဖုံးကွယ်ထားသော မသိစိတ်အကြောင်းအရင်းတစ်ခုအဖြစ် ဖော်ပြသင့်ပါသည်။
+ဟုတ်ပါတယ် ၊ စာစီစာရိုက်အမှားတိုင်းသည် စာစီစာရိုက်သူ (သို့မဟုတ် စာစီစာရိုက်) ၏ ဖုံးကွယ်ထားသော မသိစိတ်အကြောင်းအရင်းတစ်ခုအဖြစ် မဖော်ပြသင့်ပါ။
+3/5
 
 2384
 Thus, it is possible to pick out the necessary morsels of information in noisy surroundings, if facial expressions, gestures and other contextual clues are taken into account.
 ထို့ကြောင့် မျက်နှာအမူအရာ၊ ကိုယ်ဟန်အမူအရာနှင့် အခြားအကြောင်းအရာဆိုင်ရာ သဲလွန်စများကို ထည့်သွင်းစဉ်းစားပါက ဆူညံသောပတ်ဝန်းကျင်တွင် လိုအပ်သော သတင်းအချက်အလတ်များကို ရွေးထုတ်နိုင်သည်။
+4/5
 
 2385
 Thus, one has a romantic poem written in Latin in which the first line contains the words for man and woman on opposite ends of the line.
-ထို့ကြောင့် ပထမစာကြောင်းတွင်ပါရှိသည် မျဉ်း၏အဆုံးဘက်တွင်  ယောက်ျားနှင့်မိန်းမ အတွက်  ဟူသော စကားလုံးများကို လက်တင်ဘာသာဖြင့် ရေးသားထားသော အချစ်ကဗျာတစ်ပုဒ် ရှိသည်။
+ထို့ကြောင့် ပထမစာကြောင်းတွင်ပါရှိသည့် စာကြောင်း၏အဆုံးဘက်တွင်  ယောက်ျားနှင့်မိန်းမ အတွက်  ဟူသော စကားလုံးများကို လက်တင်ဘာသာဖြင့် ရေးသားထားသော အချစ်ကဗျာတစ်ပုဒ် ရှိသည်။
+4/5
 
 2386
 As we all know, there is an enormous number of publications dealing with highly specialized areas.
 ကျွန်ုပ်တို့အားလုံးသိကြသည့်အတိုင်း၊ အထူးပြုနယ်ပယ်များနှင့် ပတ်သက်သည့် ပုံနှိပ်ထုတ်ဝေမှုများသည် များပြားလှသည်။
+3/5
 
 2387
 What are you doing becomes  Watch a dune.
 မင်းဘာလုပ်နေတာလဲ သဲသောင်ပို့ တစ်ခုကို ကြည့်ပါ။
+1/5
 # REVIEW
 
 2388
 The linguists who write books seem invariably to be scholars who are touting their own points of view, some of which are recondite, to say the least.
 စာအုပ်များရေးသားထားသော ဘာသာဗေဒပညာရှင်များသည် ကိုယ့်အမြင်ကိုနှိုင်းယှဉ်ပြတက်တဲ့ပညာရှင်တွေဖြစ်ပုံရပြီး အနည်းဆုံးပြောရလျှင်အချို့သောအရာများကိုပြန်လည်ပုံဖော်ထားသည်။
+1/5
 
 2389
 Pulse-tone  is not a technical term.
 Pulse-tone သည် နည်းပညာဆိုင်ရာ အသုံးအနှုန်း တစ်ခု မဟုတ်ပါ။
+4/5
 
 2390
 Seen any shepherds on Broadway lately or even mentioned in The New York Times?
-မကြာသေးမီက ဘရော့ဒ်ဝေး တွင် ဦးဆောင်သူတွေကို တွေ့ဖူးပါသလား သို့မဟုတ် နယူးယောက်တိုင်းမ်  တွင် ဖော်ပြဖူးပါသလား။
+မကြာသေးမီက Broadway တွင် ဦးဆောင်သူတွေကို တွေ့ဖူးပါသလား သို့မဟုတ် နယူးယောက်တိုင်းမ်  တွင် ဖော်ပြဖူးပါသလား။
+3/5
 
 2391
 One segment of the armed forces is the Construction Batallion, which was quickly abbreviated to C.B.
-လက်နက်ကိုင်တပ်ဖွဲ့များ၏ အစိတ်အပိုင်းတစ်ခုမှာ စီ.ဘီ  ဟု အတိုကောက်ခေါ်ဝေါ်သော ဆောက်လုပ်ရေးတပ်ရင်းဖြစ်သည်။
+လက်နက်ကိုင်တပ်ဖွဲ့များ၏ အစိတ်အပိုင်းတစ်ခုမှာ စီ.ဘီ  ဟု အလျင်အမြန် အတိုကောက်ခေါ်ဝေါ်သော ဆောက်လုပ်ရေးတပ်ရင်းဖြစ်သည်။
+4/5
 
 2392
 Skeat will not in this case ignore this note and repeat the offence at some future time.
 ဒီကိစ္စတွင် စကိတ်  သည် ဒီမှတ်စုကို လျစ်လျူရှုပြီး နောင်တစ်ချိန်တွင် ပြစ်မှုကို ထပ်လုပ်မည်မဟုတ်ပါ။
+4/5
 
 2393
 The law of trademarks, which fills more than two volumes of the Annotated U.S.
 ယူအက်စ် မှတ်ချက်ရေးသွင်းသည့် အတွဲနှစ်ခုထက်ပိုသော ကုန်သွယ်မှုအမှတ်တံဆိပ်ဥပဒေ။
+3/5
 
 2394
 Let it be remembered that they make no declarations.
-သူတို့ ကြေငြာချက်မထုတ်ဘူးဆိုတာ သတိရပါစေ။
+သူတို့ ကြေငြာချက်မထုတ်ဘူးရဆိုတာ အမှတ်တရရှိပါစေ။
+4/5
 
 2395
 From the five pages of personal acknowledgments (as opposed to a mere two pages of bibliography), it should be clear that the dictionary rests largely on original research.
 ပုဂ္ဂိုလ်ရေးဆိုင်ရာ အသိအမှတ်ပြုချက်များ၏ စာမျက်နှာငါးမျက်နှာမှ (ကျမ်းကိုးစာရင်း၏ စာမျက်နှာနှစ်မျက်နှာမျှသာနှင့် ဆန့်ကျင်ဘက် အဖြစ်) ၊ အဘိဓာန်သည် မူရင်း သုတေသနအပေါ်တွင် များစွာတည်နေကြောင်း ရှင်းရှင်းလင်းလင်းဖြစ်သင့်သည်။
+3/5
 
 2396
 I can sympathize, therefore, with their rejection of the term Negro as a racist term.
 ထို့ကြောင့် နီဂရိုးဟူသောအသုံးအနှုန်းကို လူမျိုးရေးခွဲခြားသည့်အသုံးအနှုန်းအဖြစ် သူတို့ရဲ့ ငြင်းပယ်မှုနဲ့အတူ ကျွန်တော်စာနာနိုင်သည် ။
+3/5
 
 2397
 Mr. Nields replied,  I'm perfectly happy to use the expression `lengthy statements.
-မစ္စတာ နီးရားစ်  က `ရှည်လျားတဲ့ ထုတ်ပြန်ချက်စကားအသုံးအနှုန်းကို သုံးရတာ  အရမ်းပျော်တယ်  ဟု ပြန်ပြောသည်။
+မစ္စတာ နီးရားစ်  က `ရှည်လျားတဲ့ ထုတ်ပြန်ချက်များ စကားအသုံးအနှုန်းကို သုံးရမှ  အရမ်းပျော်ပါတယ်  ဟု ပြန်ပြောသည်။
+3/5
 
 2398
 For example, a program chairman prepared in longhand a few laudatory introductory remarks about a   ..
 ဥပမာအားဖြင့် ပရိုဂရမ် ဥက္ကဌ တစ်ဦး သည် ....... နှင့်ပတ်သတ်ပြီး ရှည်လျားသော ချီးကျူးစရာ မိတ်ဆက်စကားအချို့ကို ပြင်ဆင်ခဲ့သည်။
+3/5
 
 2399
 Deborah Cameron and Deborah Hills (`Listening in': negotiating relationships between listeners and presenters on radio phone-in programmes ) have studied the output of LBC Radio, London's  all-talk  station, which I have listened to with interest.
-ဒဲဘိုရာ ကင်မရွန်  နှင့် ဒဲဘိုရာ ဟေးလ်စ်  (နားဆင်ခြင်း : ရေဒီယို ဖုန်းဖြင့်ပရိုပရမ်များတွင် နားထောင်သူများနှင့် တင်ဆက်သူများကြား ဆက်ဆံရေးညှိနှိုင်းခြင်း)သည် ကျွန်တော်စိတ်ဝင်တစား နားထောင်ခဲ့သည့် လန်ဒန်၏ စကားပြောဌာနအားလုံး  အယ်လ်ဘီစီ ရေဒီယို၏ ထွက်ရှိမှုကို လေ့လာခဲ့သည်။ 
+ဒဲဘိုရာ ကင်မရွန်  နှင့် ဒဲဘိုရာ ဟေးလ်စ်  (နားဆင်ခြင်း : ရေဒီယို ဖုန်းဖြင့်ပရိုပရမ်များတွင် နားထောင်သူများနှင့် တင်ဆက်သူများကြား ဆက်ဆံရေးညှိနှိုင်းခြင်း)သည် ကျွန်တော်စိတ်ဝင်တစား နားထောင်ခဲ့သည့် လန်ဒန်၏ စကားပြောဌာနအားလုံး  အယ်လ်ဘီစီ ရေဒီယို၏ ထွက်ရှိမှုကို လေ့လာခဲ့သည်။ 
+3/5
 
 2400
 Such a composition would no doubt leave the impression that the string section had suddenly caught fire.
 ထိုသို့သော ပေါင်းစပ်ဖွဲ့စည်းမှု တစ်ခု က ကြိုးတန်းအပိုင်း ရုတ်တရက် မီးလောင်းသွားသည်ဟူသော ထင်မြင်ချက်ကို ချန်ထားခဲ့သည်မှာ သံသယဖြစ်ဖွယ်မရှိပေ။
+3/5

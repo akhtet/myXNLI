@@ -1,450 +1,501 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 8701
 Time magazine did a profile of Kenneth Starr.
-ထိုင်းမ် မဂ္ဂဇင်းသည် ခန်းန်နသ် စတား ၏ ပရိုဖိုင် တစ်ခုကို ပြုလုပ်ခဲ့သည်။
+Time မဂ္ဂဇင်းသည် Kenneth Starr ၏ ပရိုဖိုင် တစ်ခုကို ပြုလုပ်ခဲ့သည်။
+# 4/5
 
 8702
 The Senate did not want a new agency to look after nuclear weapons research.
-အထက်လွှတ်တော် သည် နျူကလီးယားလက်နက် သုတေသနကို ဂရုစိုက်ရန် အေဂျင်စီအသစ်ကို မလိုလားပါ။
+နျူကလီးယားလက်နက် သုတေသနကို ဂရုစိုက်မည့် အေဂျင်စီအသစ်ကို အထက်လွှတ်တော်က မလိုချင်ပါ။
+# 4/5
 
 8703
 The Senate felt a new agency should look over the research of nuclear weapons.
-နျူကလီးယားလက်နက်သုတေသနကို အေဂျင်စီအသစ်တစ်ခုက ကြည့်ရှုစစ်ဆေးသင့်တယ်လို့ အထက်လွှတ်တော် က ယူဆပါတယ်။
+နျူကလီးယားလက်နက်သုတေသနကို အေဂျင်စီအသစ်တစ်ခုက ကြည့်ရှုစစ်ဆေးသင့်သည်ဟု အထက်လွှတ်တော်က ထင်မြင်သည်။
+# 4/5
 
 8704
 The Senate suggested a new agency look over nuclear weapons research.
-အေဂျင်စီအသစ်တစ်ခုက နျူကလီးယားလက်နက် သုတေသနပြုမှု ကို ကြည့်ရှုစစ်ဆေးဖို့ အထက်လွှတ်တော် က အကြံပြုခဲ့သည်။
+အေဂျင်စီအသစ်တစ်ခုက နျူကလီးယားလက်နက် သုတေသနပြုမှုကို ကြည့်ရှုစစ်ဆေးရန် အထက်လွှတ်တော် က အကြံပြုခဲ့သည်။
+# 4/5
 
 8705 
 Junk yards are storage facilities with clean, new, products stored in neat columns.
-ဂျန့်ယာဒ်စ် များသည် သန့်ရှင်းသပ်ရပ်သော ကော်လံများတွင် သိမ်းဆည်းထားသော သန့်ရှင်းသော၊ အသစ်၊ ထုတ်ကုန်များပါရှိသော သိုလှောင်ရုံများဖြစ်သည်။
+အသုံးအဆောင်များစွန့်ပစ်သည့် အမှိုက်ပုံများသည် သန့်ရှင်းသော၊ သစ်လွင်သော ကုန်ပစ္စည်းများကို အတန်းလိုက် သပ်ရပ်စွာသိမ်းဆည်းထားသည့် သိုလှောင်ရုံများဖြစ်သည်။
+# 4/5
 
 8706
 Sometimes precious items that evoke strong memories of past historical events are found in the wreckage of the junk yards.
-တခါတရံတွင် အတိတ်သမိုင်းဝင်ဖြစ်ရပ်များကို အမှတ်ရစေမည့် အဖိုးတန်ပစ္စည်းများကို အမှိုက်ပုံကြီး၏ အပျက်အစီးများထဲတွင် တွေ့ရှိရတတ်သည်။
+တခါတရံတွင် အတိတ်သမိုင်းဝင်ဖြစ်ရပ်များကို အမှတ်ရစေမည့် အဖိုးတန်ပစ္စည်းများကို အမှိုက်ပုံကြီးများ၏ အပျက်အစီးများထဲတွင် တွေ့ရှိရတတ်သည်။
+# 4/5
 
 8707
 The evidence is the wreckage in the junk yards of history.
-အထောက်အထားများသည် သမိုင်း၏ အပျက်အစီးများထဲမှ အပျက်အစီးများဖြစ်သည်။
+သက်သေအထောက်အထားသည် သမိုင်းအမှိုက်ပုံများ၏ အပျက်အစီးများဖြစ်သည်။
+# 3/5
 
 8708
 The Politicization of Nearly Everything goes on swiftly.
-အားလုံးနီးပါးရဲ့ နိုင်ငံရေးလုပ်ရှားမှု က အလျင်အမြန် နဲ့ ဆက်လုပ်နေတယ်။
+အရာအားလုံးနီးပါးကို နိုင်ငံရေးခေါင်းစဉ်လုပ်ပစ်မှုသည် အလျင်အမြန်ဖြစ်ပေါ်နေသည်။
+# 4/5
 
 8709
 The Politicization of Nearly Everything has come to a stand still.
-အားလုံးနီးပါးရဲ့ နိုင်ငံရေးလုပ်ရှားမှု က ငြိမ်သက်သွားပါပြီ။
+အရာအားလုံးနီးပါးကို နိုင်ငံရေးခေါင်းစဉ်လုပ်ပစ်မှုသည် ရပ်တန့်သွားပြီဖြစ်သည်။
+# 4/5
 
 8710
 The Politicization of Nearly Everything is nearly done.
-အားလုံးနီးပါးရဲ့ နိုင်ငံရေးလုပ်ရှားမှု က ပြီးခါနီးပါပြီ။
+အရာအားလုံးနီးပါးကို နိုင်ငံရေးခေါင်းစဉ်လုပ်ပစ်မှုသည် ပြီးဆုံးလုပြီ။
+# 4/5
 
 8711
 Technology gets boring after a while.
-နည်းပညာက အချိန်ကြာလာတဲ့အခါ ငြီးငွေ့လာတယ်။
+နည်းပညာက အချိန်ကြာလာတဲ့အခါ ငြီးငွေ့စရာကောင်းလားတယ်။
+# 4/5
 
 8712
 Technology is always fun!
-နည်းပညာသည် အမြဲပျော်စရာကောင်းသည်။
+နည်းပညာဟာ အမြဲပျော်စရာကောင်းတယ်။
+# 4/5
 
 8713
 Technology is boring if you don't keep changing it.
-မင်း ဒါကို ဆက် မပြောင်းရင် နည်းပညာက ပျင်းဖို့ကောင်းတယ်။
+မင်းပြောင်းလဲမှုတွေလုပ်မနေဘူးဆို နည်းပညာက ပျင်းဖို့ကောင်းတယ်။
+# 4/5
 
 8714
 All women today like to have a lot of meat on their bones.
-ယနေ့ခေတ် အမျိုးသမီးအားလုံးသည် ပြည့်ပြည့်ဖြိုးဖြိုးရှိကြသည်။
+ယနေ့ခေတ် အမျိုးသမီးအားလုံးသည် ယင်းတို့၏ အရိုးပေါ်တွင် အသားများစွားရှိချင်ကြသည်။
+# 4/5
 
 8715
 Many women today have tried some form of dieting at least once in their life.
-ယနေ့ခေတ် အမျိုးသမီး အများအပြား သည် သူတို့၏ ဘဝ မှာ အနည်းဆုံး တစ်ကြိမ် လောက် စားသောက်ခြင်း ပုံစံ တချို့ ကို စမ်းကြည့်ဖူးသည်။
+ယနေ့ခေတ် အမျိုးသမီး အများအပြားသည် ယင်းတို့၏ ဘဝတွင် စားသောက်ခြင်း ပုံစံတချို့ကို အနည်းဆုံး တစ်ကြိမ်ခန့်  စမ်းကြည့်ဖူးသည်။
+# 4/5
 
 8716
 Today's women like to have a slender body structure.
 ယနေ့ခေတ် အမျိုးသမီးများသည် သွယ်လျသော ခန္ဓာကိုယ်ဖွဲ့စည်းပုံတစ်ခု ရှိချင်ကြသည်။
+# 4/5
 
 8717
 Livingston's resignation has let Clinton appear forgiving.
-လစ်ဗင်စတန် ၏ ရာထူးမှ နုတ်ထွက်ခြင်းသည် ကလင်တန်ကို ခွင့်လွှတ်တယ်ဆိုတာ ထင်ရှားစေသည်။
+Livingston ရာထူးမှ နုတ်ထွက်ခြင်းသည် Clinton က ခွင့်လွှတ်ပုံပေါ်စေသည်။
+# 4/5
 
 8718
 Livingston's resignation made Clinton look bad.
-လစ်ဗင်စတန် ၏ ရာထူးမှ နုတ်ထွက်ခြင်းသည် ကလင်တန်ကို ဆိုးရွားစေသည်။
+Livingston ၏ ရာထူးမှ နုတ်ထွက်ခြင်းသည် Clinton ကို အမြင်ဆိုးစေသည်။
+# 4/5
 
 8719
 Livingston's resignation may have let Clinton appear generous.
-လစ်ဗင်စတန် ၏ ရာထူးမှ နုတ်ထွက်ခြင်းသည် ကလင်တန်အား ရက်ရောတဲ့ပုံ ပေါက်စေတယ်။
+Livingston ၏ ရာထူးမှ နုတ်ထွက်ခြင်းသည် Clinton အား ရက်ရောပုံ ပေါက်စေသည်။
+# 4/5
 
 8720
 Pundits say losers write history.
-အရှုံးသမားများက သမိုင်းရေးသည်ဟု ပဏ္ဍိတ များက ပြောသည်။
+အရှုံးသမားများက သမိုင်းကိုရေးသည်ဟု ပညာရှိများက ဆိုကြသည်။
+# 4/5
 
 8721
 Pundits say people who win the lottery tell history.
-ထီပေါက်တဲ့လူတွေက သမိုင်းကို ပြောတယ်လို့ ပဏ္ဍိတ များက ပြောကြသည်။
+ထီပေါက်သောသူများက သမိုင်းကို ပြောသည်ဟု ပညာရှိများက ဆိုကြသည်။
+# 4/5
 
 8722
 Pundits say the winners tell history.
-အောင်မြင်သူများက သမိုင်းကို ပြောပြတယ်လို့ ပဏ္ဍိတ များက ပြောကြသည်။
+အောင်မြင်သူများက သမိုင်းကို ပြောသည်ဟု ပညာရှိများက ပြောကြသည်။
+# 4/5
 
 8723
 Some students might have cheated at Edinburgh University.
-အချို့သော ကျောင်းသားများသည် အက်ဒင်းဘရာ့ တက္ကသိုလ်တွင် လိမ်လည်လှည့်ဖြားခဲ့တာဖြစ်နိုင်တယ်။
+Edinburgh တက္ကသိုလ်တွင် အချို့သော ကျောင်းသားများသည် မသမာမှုပြုလုပ်ကောင်းပြုလုပ်ခဲ့နိုင်သည်။
+# 4/5
 
 8724
 Some students might have cheated on their finals.
-အချို့သော ကျောင်းသားများသည် သူတို့၏ ဖိုင်နယ်ကို စာခိုးချခဲ့တာဖြစ်နိုင်တယ်။
+အချို့သော ကျောင်းသားများသည် ယင်းတို့၏ အတန်းတင်စာမေးပွဲတွင် မသမာမှုပြုလုပ်ကောင်းပြုလုပ်ခဲ့နိုင်သည်။
+# 4/5
 
 8725
 The university thinks art students cheated.
-တက္ကသိုလ်က အနုပညာကျောင်းသား တွေက လိမ်လည်လှည့်ဖြားခဲ့ကြတယ်လို့ ထင်တယ်။
+လူမှုရေးဘာသာရပ်ကျောင်းသားများက မသမာမှုပြုလုပ်ခဲ့သည်ဟု တက္ကသိုလ်က ထင်သည်။
+# 4/5
 
 8726
 Any other Republican fallback will not work now.
-အခြားသော ရီပတ်ဘလီကန်တို့၏ ဆုတ်ယုတ်မှု များသည် ယခု အလုပ်မဖြစ်ပါ။
+အခြားသော Republican မြုပ်ကွက်များ သည် ယခု ဖြစ်နိုင်တော့မည် မဟုတ်ပါ။
+# 4/5
 
 8727
 This is the ultimate Republican resort.
-ဒါက အကောင်းဆုံး ရီပတ်ဘလစ်ကန် အပန်းဖြေစခန်း ဖြစ်သည်။
+ဒါက အကောင်းဆုံး Republican နည်းလမ်း ဖြစ်သည်။
+# 4/5
 
 8728
 This is the worst and least effective Republican fallback.
-ဒါက အဆိုးဆုံးနှင့် ထိရောက်မှုအနည်းဆုံး ရီပတ်ဘလီကန်တို့၏ ဆုတ်ယုတ်မှုဖြစ်သည်။
+ဒါက အဆိုးဆုံးနှင့် ထိရောက်မှုအနည်းဆုံး Republican တို့၏ ဆုတ်ယုတ်မှုဖြစ်သည်။
+# 4/5
 
 8729
 People were not happy with how the NYPD handled the Amadou Diallo shooting.
-အန်န်ဝိုင်ဖီဒီ မှ အာမက်ဒူ ဒီအာလို ပစ်ခတ်မှုကို ကိုင်တွယ်ပုံကို လူတွေက မပျော်ရွှင်ခဲ့ကြပါ။
+Amadou Diallo ပစ်ခတ်မှုအား NYPD ကိုင်တွယ်ခဲ့ပုံကို လူများက မကျေနပ်ခဲ့ကြပေ။
+# 4/5
 
 8730
 Rudolph Giuliani apologized for how he handled the Amadou Diallo shooting.
-ရုဒေါ့ဖ် ဂျူလီယာနီ သည် အာမက်ဒူ ဒီအာလို ပစ်ခတ်မှုကို ကိုင်တွယ်ပုံအတွက် တောင်းပန်ခဲ့သည်။
+Amadou Diallo ပစ်ခတ်မှအား ကိုင်တွယ်ပုံအတွက် Rudolph Giuliani က တောင်းပန်ခဲ့သည်။
+# 4/5
 
 8731
 Rudolph Giuliani made a statement to the Newsweek concerning his handling of the Amadou Diallo shooting.
-ရုဒေါ့ဖ် ဂျူလီယာနီ သည် အာမက်ဒူ ဒီအာလို ပစ်ခတ်မှုကို သူ၏ ကိုင်တွယ်ပုံနှင့်ပတ်သက်၍ နယူးစ်ဝိခ် သို့ ထုတ်ပြန်ချက် တစ်ခု ပြုလုပ်ခဲ့သည်။
+Amadou Diallo ပစ်ခတ်မှုကို သူ၏ ကိုင်တွယ်ပုံနှင့်ပတ်သက်၍ Rudolph Giuliani က Newsweek သို့ ထုတ်ပြန်ချက် တစ်ခု ပြုလုပ်ခဲ့သည်။
+# 4/5
 
 8732
 Humans are the only creatures that do not have an immune system.
 လူသားများသည် ကိုယ်ခံအားစနစ်တစ်ခုမရှိသည့် သတ္တဝါများသာ ဖြစ်သည်။
+# 4/5
 
 8733
 Less people are getting sick these days because of improved hygiene.
-ဒီရက်ပိုင်းတွေမှာ တစ်ကိုယ်ရေသန့်ရှင်းမှုတိုးတက်ခြင်းကြောင့် လူများ ဖျားနာမှု နည်းပါးလာသည်။
+နောက်ပိုင်းကာလများတွင် တကိုယ်ရေသန့်ရှင်းမှုတိုးတက်လာခြင်းကြောင့် လူများ ဖျားနာမှု နည်းပါးလာသည်။
+# 4/5
 
 8734
 Our immune system was kept busy in the past.
 ကျွန်ုပ်တို့၏ ကိုယ်ခံအားစနစ်သည် အရင်က အလုပ်များနေခဲ့သည်။
+# 4/5
 
 8735
 James Surowiecki's Moneybox column is delivered five days a week.
-ဂျိမ်းစ် ဆူရိုဝီရာ့ကီ ၏ မန်းနီးဘောက်ဇ် သတင်းစာ ပင်တိုင်ဆောင်းပါးကို တစ်ပတ်လျှင် ငါးရက် ပေးပို့ပါသည်။
+James Surowiecki ၏ Moneybox သတင်းစာ ပင်တိုင်ဆောင်းပါးကို တစ်ပတ်လျှင် ငါးရက် ပေးပို့သည်။
+# 4/5
 
 8736
 James Surowiecki's Moneybox column is delivered on Saturdays and Sundays.
-ဂျိမ်းစ် ဆူရိုဝီရာ့ကီ ၏ မန်းနီးဘောက်ဇ် သတင်းစာ ပင်တိုင်ဆောင်းပါးကို စနေနေ့နှင့် တနင်္ဂနွေနေ့များတွင် ပေးပို့ပါသည်။
+James Surowiecki ၏ Moneybox သတင်းစာ ပင်တိုင်ဆောင်းပါးကို စနေနေ့နှင့် တနင်္ဂနွေနေ့များတွင် ပေးပို့ပါသည်။
+# 4/5
 
 8737
 Readers have given positive reviews of James Surowiecki's Moneybox column.
-စာဖတ်သူများသည် ဂျိမ်းစ် ဆူရိုဝီရာ့ကီ ၏ မန်းနီးဘောက်ဇ် သတင်းစာ ပင်တိုင်ဆောင်းပါးကို အပြုသဘောဆောင်သော သုံးသပ်ချက်များပေးထားသည်။
+စာဖတ်သူများသည် James Surowiecki ၏ Moneybox သတင်းစာ ပင်တိုင်ဆောင်းပါးကို အပြုသဘောဆောင်သော သုံးသပ်ချက်များပေးထားသည်။
+# 4/5
 
 8738
 John Kirkwood founded the ALA of Metropolitan Chicago.
-ဂျွန် ခါ့ကဝုစ် သည် မက်ထရိုဖို့လစ်တန် ချီကာဂို ၏ အေအယ်လ်အေ ကို တည်ထောင်ခဲ့သည်။
+John Kirkwood သည် Metropolitan Chicago ၏ ALA ကို တည်ထောင်ခဲ့သည်။
+# 4/5
 
 8739
 John Kirkwood is convinced that it is not a well defined area.
-ဂျွန် ခါ့ကဝုစ် သည် ၎င်းသည် ကောင်းစွာသတ်မှတ်ထားသောနေရာမဟုတ်ကြောင်း ယုံကြည်သည်။
+၎င်းသည် ကောင်းစွာအဓိပ္ပါယ်ဖွင့်ဆိုထားသည့်နေရာ မဟုတ်ဟု John Kirkwood က ယုံကြည်သည်။
+# 4/5
 
 8740
 John Kirkwood is not and was never associated with the ALA of Metropolitan Chicago.
-ဂျွန် ခါ့ကဝုစ် သည် မက်ထရိုဖို့လစ်တန် ချီကာဂို ၏ အေအယ်လ်အေ နှင့် ဘယ်တုန်းကမှ မဆက်စပ်ပါ။
+John Kirkwood သည် Metropolitan Chicago ၏ ALA နှင့် ဘယ်တုန်းကမှ မဆက်စပ်ခဲ့ပါ။
+# 4/5
 
 8741
 I am always satisfied with every person I meet.
 ငါ က ငါတွေ့တဲ့လူတိုင်းကို အမြဲကျေနပ်တယ်။
+# 4/5
 
 8742
 I have met unsatisfactory people in my life.
-ငါ့ဘဝမှာ မကျေနပ်စရာ ကောင်းတဲ့ လူတွေနဲ့ ငါ တွေ့ဖူးတယ်။
+ငါ့ဘဝမှာ မကျေနပ်စရာ ကောင်းတဲ့ လူတွေနဲ့ ငါ တွေ့ခဲ့ဖူးတယ်။
+# 4/5
 
 8743
 This is the most unsatisfactory person I have ever met in my life.
 ဒီလူဟာ ငါ့ဘဝမှာ ငါ ကြုံဖူးခဲ့ရတဲ့ မကျေနပ်စရာအကောင်းဆုံးလူဖြစ်တယ်။
+# 4/5
 
 8744
 It is hard to love a macroeconomist.
-မက်ခရိုစီးပွားရေးပညာရှင်တစ်ေယာက်ကို ချစ်ဖို့ ခက်တယ်။
+မက်ခရိုစီးပွားရေးပညာရှင်တစ်ယောက်ကို ချစ်ဖို့ ခက်တယ်။
+# 4/5
 
 8745
 The question is related to driving a truck.
-မေးခွန်းက ထရပ်ကားတစ်စင်း မောင်းနှင်ခြင်းနဲ့ သက်ဆိုင်သည်။
+မေးခွန်းသည် ထရပ်ကားတစ်စင်း မောင်းနှင်ခြင်းနှင့် သက်ဆိုင်သည်။
+# 4/5
 
 8746
 The question is related to love and macroeconomists.
-မေးခွန်းက အချစ်နဲ့ မက်ခရိုစီးပွားရေးပညာရှင်များနဲ့ ဆက်စပ်တယ်။
+မေးခွန်းသည် အချစ်နှင့် မက်ခရိုစီးပွားရေးပညာရှင်များနှင့် ဆက်စပ်သည်။
+# 4/5
 
 8747
 The government didn't like the King.
-အစိုးရ က ဘုရင် ကို မကြိုက်ဘူး။
+အစိုးရ က ဘုရင် ကို မကြိုက်ခဲ့ဘူး။
+# 4/5
 
 8748
 The government loved the king.
-အစိုးရ က ဘုရင် ကို ချစ်တယ်။
+အစိုးရ က ဘုရင် ကို ချစ်ခဲ့တယ်။
+# 4/5
 
 8749
 The government wanted the King to die.
-အစိုးရက ဘုရင်ကို သေစေချင်တယ်။
+အစိုးရက ဘုရင်ကို သေစေချင်ခဲ့တယ်။
+# 4/5
 
 8750
 I appreciate that, Sir; may I get another answer.
-အဲဒါကို ကျွန်တော်လေးစားပါတယ် ဆရာ၊ ငါ တခြား အဖြေရနိုင်မလား။
+အဲဒါကို ကျွန်တော်လေးစားပါတယ် ဆရာ။ ကျွန်တော် တခြား အဖြေရနိုင်မလား။
+# 4/5
 
 8751
 Thank you, Sir; that is the only answer I needed.
-ကျေးဇူးပါဆရာ၊ အဲဒါက ငါလိုအပ်တဲ့ တစ်ခုတည်းသော အဖြေဖြစ်တယ်။
+ကျေးဇူးပါဆရာ၊ အဲဒါက ကျွန်တော်လိုအပ်ခဲ့တဲ့ တစ်ခုတည်းသော အဖြေဖြစ်တယ်။
+# 4/5
 
 8752
 You will need to give me five answers in total, Sir.
-မင်း ငါ့ကို စုစုပေါင်း အဖြေငါးခု ပေးဖို့ လိုအပ်မယ် ဆရာ။
+ခင်ဗျား ကျွန်တော့်ကို စုစုပေါင်း အဖြေငါးခု ပေးဖို့ လိုအပ်မယ် ဆရာ။
+# 3/5
 
 8753
 Ames was arrested for selling classified information to the Soviets.
-အေ့မ်စ် သည် ဆိုဗီယက်စ် တို့အား အမျိုးအစားခွဲထားသော အချက်အလက်များကို ရောင်းချသည့်အတွက် ဖမ်းဆီးခံရသည်။
+Ames သည် ဆိုဗီယက်တို့အား ကန့်သန့်ထားသော သတင်အးချက်အလက်များကို ရောင်းချသည့်အတွက် ဖမ်းဆီးခံရသည်။
+# 4/5
 
 8754
 There is no way one can arrive at the answer.
 အဖြေကို ရောက်နိုင်မဲ့ နည်းလမ်း မရှိဘူး။
+# 4/5
 
 8755
 There may be more than one way to find the answer.
 အဖြေကိုရှာဖို့ နည်းလမ်းတစ်ခုထက်မက ရှိကောင်းရှိနိုင်ပါသည်။
+# 4/5
 
 8756
 Prudie gave up chewing bubble gum when he was in college.
-ပရူဒီ သည် သူ ကောလိပ်တက်တုန်းက ပီကေကို ဝါးခြင်းကို  စွန့်ပစ်ခဲ့သည်။
+Prudie သည် ပီကေဝါးခြင်းကို ယင်း ကောလိပ်တက်နေစဉ်အချိန်က  ရပ်ပစ်ခဲ့သည်။
+# 4/5
 
 8757
 Prudie thinks highly of people who chew bubble gum.
-ပရူဒီ သည် ပီကေ ဝါးသောလူများအပေါ် အလွန် စဉ်းစားသည်။
+Prudie သည် ပီကေဝါးသောလူများကို အထင်ကြီးသည်။
+# 3/5
 
 8758
 Prudie thinks that it is not a good thing to be seen chewing gum.
-ပရူဒီ က ပီကေကိုမြင်ရတာ ကောင်းတဲ့အရာတစ်ခု မဟုတ်ဘူးလို့ ထင်တယ်။
+ပီကေဝါးနေသည်ကို တွေ့မြင်ခံရခြင်းက ကောင်းတဲ့အရာတစ်ခု မဟုတ်ဟု Pudie က ထင်သည်။
+# 4/5
 
 8759
 It is not wise to blame others for your own imperfection.
-သင့်ကိုယ်ပိုင်မပြည့်စုံမှုအတွက် အခြားသူများကို အပြစ်ပုံချခြင်းသည် ပညာရှိရာမရောက်ပါ။
+သင့်ပုဂ္ဂလိက မပြည့်စုံမှုအတွက် အခြားသူများကို အပြစ်ပုံချခြင်းသည် ပညာရှိရာမရောက်ပါ။
+# 3/5
 
 8760
 One's own imperfection can lead to a bad situation.
-တစ်ဦးတစ်ယောက်၏ ကိုယ်ပိုင်မပြည့်စုံမှု သည် ဆိုးရွားသောအခြေအနေတစ်ခုသို့ ဦးတည်သွားစေနိုင်သည်။
+တစ်ဦးတစ်ယောက်၏ ပုဂ္ဂလိက မပြည့်စုံမှုသည် ဆိုးရွားသောအခြေအနေတစ်ခုသို့ ဦးတည်သွားစေနိုင်သည်။
+# 4/5
 
 8761
 The best thing to do for a situation tainted by your own imperfection is to run away from it.
-မင်းရဲ့ ကိုယ်ပိုင်မပြည့်စုံမှုတွေကြောင့် စွန်းထင်းနေတဲ့ အခြေအနေတစ်ခုအတွက် လုပ်ရမဲ့ အကောင်းဆုံးအရာက အဲဒီအရာကနေ အဝေးကို ထွက်ပြေးဖို့ ဖြစ်တယ်။
+သင်၏ ပုဂ္ဂလိက မပြည့်စုံမှုများကြောင့် စွန်းထင်းသွားသော အခြေအနေတစ်ခုအတွက် လုပ်ရမည့် အကောင်းဆုံးအရာသည် ထိုမှ အဝေးကို ထွက်ပြေးရန် ဖြစ်သည်။
+# 4/5
 
 8762
 Lamar Alexander's way out is not popular within the group.
-လာမာ အလက်ဇန်းဒါး၏ ထွက်ခွာမှုသည် အဖွဲ့အတွင်းမှာ နာမည်မကြီးပါ။
+Lamar Alexander ၏ ထွက်ခွာမှုသည် အဖွဲ့အတွင်းတွင် လူကြိုက်သိပ်မများပေ။
+# 4/5
 
 8763
 One should not waste time considering Lamar Alexander's way out.
-လာမာ အလက်ဇန်းဒါး ၏ ထွက်ခွာမှုကို စဉ်းစားရင်း အချိန်မဖြုန်းသင့်ပါဘူး။
+Lamar Alexander ၏ ထွက်ခွာမှုကို စဉ်းစားရင်း အချိန်မဖြုန်းသင့်ပေ။
+# 4/5
 
 8764
 There is some logic to Lamar Alexander's way out.
-လာမာ အလက်ဇန်းဒါး ၏ ထွက်ခွာမှုက ယုတ္တိအချို့ရှိသည်။
+Lamar Alexander ၏ ထွက်ခွာမှုက ယုတ္တိအချို့ရှိသည်။
+# 4/5
 
 8765
 Magazines like Slate can be damaged by disaggregating content.
-စလိတ်ထ် ကဲ့သို့သော မဂ္ဂဇင်းများသည် အကြောင်းအရာများကို ခွဲထုတ်ခြင်းဖြင့် ပျက်စီးနိုင်သည်။
+Slate ကဲ့သို့သော မဂ္ဂဇင်းများသည် အကြောင်းအရာများကို ခွဲထုတ်ခြင်းဖြင့် ပျက်စီးနိုင်သည်။
+# 3/5
 
 8766
 Slate has suffered in the past for disaggregating content.
-စလိတ်ထ် သည် အကြောင်းအရာများကို ခွဲထုတ်ခြင်းအတွက် အတိတ်တွင် ဒုက္ခရောက်သည်။
+Slat သည် အကြောင်းအရာများကို ခွဲထုတ်မှုကြောင့် အတိတ်တွင် ဒုက္ခရောက်ခဲ့သည်။
+# 4/5
 
 8767
 The disaggregation of content is a reader-magnet for magazines like Slate.
-အကြောင်းအရာများကို ခွဲထုတ်ခြင်းသည် စလိတ်ထ် ကဲ့သို့သော မဂ္ဂဇင်းများအတွက် စာဖတ်သူအားထားရာတစ်ခု ဖြစ်သည်။
+အကြောင်းအရာများကို ခွဲထုတ်ခြင်းသည် Slate ကဲ့သို့သော မဂ္ဂဇင်းများအတွက် စာဖတ်သူများကို ဆွဲဆောင်သည့်သံလိုက်သဖွယ် ဖြစ်သည်။
+# 4/5
 
 8768
 The only thing the postwar tract-home developments had were adults.
-စစ်ပြီးခေတ် အိမ်တွင်းတိုးတက်မှုများ ရှိခဲ့သည့် တစ်ခုတည်းသောအရာမှာ အရွယ်ရောက်ပြီးသူများဖြစ်သည်။
+စစ်ပြီးခေတ် အိမ်ယာအိမ်များ ရှိခဲ့သည့် တစ်ခုတည်းသောအရာမှာ အရွယ်ရောက်ပြီးသူများဖြစ်သည်။
+# 3/5
 
 8769
 They did a good job designing the kid cities in the postwar tract-home developments.
-သူတို့သည် စစ်ပြီးခေတ် အိမ်တွင်းတိုးတက်မှုများမှာ ကလေးမြို့များကို ဒီဇိုင်းထုတ်သည့် ကောင်းတဲ့ အလုပ်တစ်ခု ကို လုပ်ကြသည်။
+သူတို့သည် စစ်ပြီးခေတ် အိမ်ယာအိမ်များ ကလေးမြို့များကို ဒီဇိုင်းထုတ်သည့် ကောင်းတဲ့ အလုပ်တစ်ခု ကို လုပ်ကြသည်။
+# 2/5
 
 8770
 They hired seasoned architects to design the post-war tract-home developments.
-သူတို့သည် စစ်ပြီးခေတ် အိမ်တွင်းတိုးတက်မှုများကို ဒီဇိုင်းဆွဲရန် နှစ်ချို့ ဗိသုကာပညာရှင်များကို ငှားရမ်းကြသည်။
+သူတို့သည် စစ်ပြီးခေတ် အိမ်ယာအိမ်များကို ဒီဇိုင်းဆွဲရန် သမ္ဘာရင့် ဗိသုကာပညာရှင်များကို ငှားရမ်းခဲ့ကြသည်။
+# 4/5
 
 8771
 I have no objections to the communitarian explanation of Littleton.
-ငါ့မှာ လစ်ထယ့်တန် ၏ ကွန်မြူနစ်ဆိုင်ရာ ရှင်းလင်းချက်ကို ကန့်ကွက်စရာ မရှိဘူး။
+ကျွန်ုပ်တွင် Littleton ၏ ကွန်မြူနစ်ဆိုင်ရာ ရှင်းလင်းချက်ကို ကန့်ကွက်စရာ မရှိပါ။
+# 4/5
 
 8772
 It is true that parents are partly to blame.
-မိဘတွေက တစ်စိတ်တစ်ပိုင်း အပြစ်တင်တာ မှန်တယ်။
+မိဘများက တစ်စိတ်တစ်ပိုင်း အပြစ်တင်ဖွယ်ရာဖြစ်သည် ဆိုသည်မှာ မှန်သည်။
+# 4/5
 
 8773
 The communitarian explanation of Littleton puts blame on parents.
-လစ်ထယ့်တန် ၏ ကွန်မြူနစ်ဆိုင်ရာ ရှင်းလင်းချက်သည် မိဘများအပေါ် အပြစ်တင်သည်။
+Littleton ၏ ကွန်မြူနစ်ဆိုင်ရာ ရှင်းလင်းချက်သည် မိဘများအပေါ် အပြစ်တင်သည်။
+# 4/5
 
 8774
 It's obvious the consistent solution is always wrong.
-တသမတ်တည်း ဖြေရှင်းချက်က အမြဲတမ်းမှားနေတာ ထင်ရှားပါတယ်။
+တသမတ်တည်းဖြစ်သော ဖြေရှင်းနည်းသည် အမြဲမှားကြောင်း ထင်ရှားပါသည်။
+# 4/5
 
 8775
 When it comes to waste removal why is the consistent solution correct?
-အမှိုက်ဖယ်ရှားခြင်းနှင့်ပတ်သက်ပြီး တသမတ်တည်းဖြေရှင်းချက်က ဘာကြောင့် မှန်ကန်ရသလဲ။
+အမှိုက်ဖယ်ရှားခြင်းနှင့်ပတ်သက်ပြီး တသမတ်တည်းဖြေရှင်းနည်းက အဘယ်ကြောင့် မှန်ကန်ရသနည်း။
+# 4/5
 
 8776
 Why does the right solution so happen to be the most consistent?
-မှန်ကန်သောဖြေရှင်းချက်က ဘာကြောင့် အကိုက်ညီဆုံးဖြစ်သနည်း။
+မှန်ကန်သောဖြေရှင်းချက်က ဘာကြောင့် တသမတ်တည်းအဖြစ်ဆုံး ဖြစ်နေတတ်သနည်း။
+# 4/5
 
 8777
 The conventional wisdom about the musical Ragtime continues to rise.
 စည်းချက်သွက်လက် မြူးကြွသော စန္ဒရားနှင့် တွဲဖက်တီးသည့် တီးလုံးမျိုးနှင့် ပတ်သက်သော သမားရိုးကျ ပညာသည် ဆက်လက် တိုးမြင့်လာသည်။
+# 3/5
 
 8778
 The conventional wisdom about the musical Ragtime is not constant.
 စည်းချက်သွက်လက် မြူးကြွသော စန္ဒရားနှင့် တွဲဖက်တီးသည့် တီးလုံးမျိုးနှင့် ပတ်သက်သော သမားရိုးကျ ပညာသည် မတည်မြဲပါ။
+# 3/5
 
 8779
 Young adults do not know anything about the musical Ragtime.
-လူငယ်များသည် စည်းချက်သွက်လက် မြူးကြွသော စန္ဒရားနှင့် တွဲဖက်တီးသည့် တီးလုံးအကြောင်း ဘာမှမသိကြဘူး။
+လူငယ်များသည် Ragtime အကြောင်း ဘာမှမသိကြပေ။
+# 4/5
 
 8780
 Big contributors are always given special treatment at these events.
-ကူညီပံ့ပိုးသူကြီးများက ဒီပွဲတွေမှာ အထူးကုသမှု အမြဲပေးသည်။
+အကြီးစားကူညီပံ့ပိုးသူများကို ဤပွဲများတွင် အခွင့်ထူးခံဆက်ဆံရေး အမြဲပေးသည်။
+# 4/5
 
 8781
 Everyone contributes the same amount, in order to prevent special treatment.
-လူတိုင်းသည် အထူးကုသမှုကို ကာကွယ်ရန်အတွက် တူညီသောပမာဏကို ပံ့ပိုးပေးကြသည်။
+အခွင့်ထူးခံဆက်ဆံရေးကို ကာကွယ်ရန်အတွက် လူတိုင်းက တူညီသောပမာဏကို ပံ့ပိုးပေးကြသည်။
+# 4/5
 
 8782
 There is nothing new in this kind of treatment for big contributors.
-ပံ့ပိုးကူညီသူကြီးများကို ဒီလိုဆက်ဆံခြင်းသည် ဘာမှမထူးဆန်းဘူး။
+အကြီးစားပံ့ပိုးကူညီသူများကို ထိုသို့ဆက်ဆံခြင်းသည် ဘာမျှ အသစ်အဆန်းမဟုတ်ပေ။
+# 4/5
 
 8783
 Myst is a popular computer game about a person on an island.
-မစ်စ်ထ် သည် ကျွန်းတစ်ကျွန်းပေါ်ရှိ လူတစ်ဦးအကြောင်း လူကြိုက်များသော ကွန်ပျူတာဂိမ်းတစ်ခုဖြစ်သည်။
+Myst သည် ကျွန်းတစ်ကျွန်းပေါ်ရှိ လူတစ်ဦးအကြောင်း လူကြိုက်များသည့် ကွန်ပျူတာဂိမ်းတစ်ခုဖြစ်သည်။
+# 4/5
 
 8784
 Sadly, the computer game called Myst was never released into the public.
-ဝမ်းနည်းစရာမှာ မစ်စ်ထ် ဟုခေါ်သော ကွန်ပျူတာဂိမ်းကို လူသိရှင်ကြား ထုတ်ဖော်ခဲ့ခြင်း မရှိခဲ့ပါ။
+ဝမ်းနည်းစရာမှာ Myst ဟုခေါ်သော ကွန်ပျူတာဂိမ်းကို ဘယ်တုန်းကမှ လူသိရှင်ကြား ထုတ်ဝေခဲ့ခြင်း မရှိခဲ့ပေ။
+# 4/5
 
 8785
 The creators of Myst made over a billion dollars from selling their game.
-မစ်စ်ထ် ကို ဖန်တီးသူများသည် သူတို့၏ ဂိမ်းရောင်းချခြင်းမှ ဒေါ်လာ တစ်ဘီလီယံကျော် ရရှိခဲ့သည်။
+Myst ကို ဖန်တီးသူများသည် သူတို့၏ ဂိမ်းရောင်းချခြင်းမှ ဒေါ်လာ တစ်ဘီလီယံကျော် ရရှိခဲ့သည်။
+# 4/5
 
 8786
 Breakfast and lunch are the only meals that appear on TV.
-မနက်စာနှင့်နေ့လည်စာသည် တီဗွီ မှာ ပေါ်လာသည့် တစ်ခုတည်းသောအစားအစာဖြစ်သည်။
+မနက်စာနှင့်နေ့လည်စာတို့သည်သာ တီဗွီတွင်လာသည့် အစားအစာများဖြစ်သည်။
+# 3/5
+# Need to check context.
 
 8787
 People can watch dinners on TV.
-လူတွေက ညစာကို တီဗွီ မှာကြည့်နိုင်တယ်။
+လူတွေက ညစာတွေကို တီဗွီ မှာကြည့်နိုင်တယ်။
+# 3/5
+# Need to check context.
 
 8788
 TV dinners always show a family eating some meat dish.
-တီဗွီ ညစာများတွင် အသားဟင်းအချို့စားသော မိသားစုတစ်စု ကို အမြဲပြသသည်။
+တီဗွီ ညစာများတွင် အသားဟင်းအချို့စားနေသော မိသားစုတစ်စု ကို အမြဲပြသသည်။
+# 3/5
 
 8789
 The Anti-Defamation League's survey had participants from five American states.
-အသရေဖျက်မှုတိုက်ဖျက်ရေးအဖွဲ့ချုပ်၏ စစ်တမ်း တွင် အမေရိကန် ပြည်နယ် ငါးခု မှ ပါဝင်သူများ ရှိကြသည်။
+The Anti-Defamation League ၏ စစ်တမ်း တွင် အမေရိကန် ပြည်နယ် ငါးခု မှ ပါဝင်ခဲ့သူများ ရှိသည်။
+# 4/5
 
 8790
 The Anti-Defamation League's survey indicates that there is a gradual increase in hard core anti-Semites in America.
-အသရေဖျက်မှုတိုက်ဖျက်ရေးအဖွဲ့ချုပ်၏ စစ်တမ်းက အမေရိကတွင် ဂျူးလူမျိုးများအား အမာခံဆန့်ကျင်သူများ တဖြည်းဖြည်း တိုးလာကြောင်း ညွှန်ပြနေသည်။
+အမေရိကတွင် ဂျူးလူမျိုးများအား အမာခံဆန့်ကျင်သူများ တဖြည်းဖြည်း တိုးလာကြောင်း The Anti-Defamation League ၏ စစ်တမ်းက ညွှန်ပြနေသည်။
+# 4/5
 
 8791
 The Anti-Defamation League's survey shows that there is still some hard core anti-Semites in America.
-အသရေဖျက်မှု တိုက်ဖျက်ရေးအဖွဲ့ချုပ်၏ စစ်တမ်းက အမေရိကတွင် ဂျူးလူမျိုးများအား အမာခံဆန့်ကျင်သောသူအချို့ ရှိနေဆဲဖြစ်ကြောင်း ပြသသည်။
+အမေရိကတွင် ဂျူးလူမျိုးများအား အမာခံဆန့်ကျင်သောသူအချို့ ရှိနေဆဲဖြစ်ကြောင်း The Anti-Defamation League ၏ စစ်တမ်းက ပြသနေသည်။
+# 4/5
 
 8792
 She had brunette hair and some teeth in her mouth.
-သူမမှာ အနက်ရောင်ဆံပင်နှင့် သူမ၏ ပါးစပ်ထဲတွင် သွားအချို့ရှိသည်။
+သူမတွင် အညိုရင့်ရောင်ဆံပင်နှင့် သူမ၏ ပါးစပ်ထဲတွင် သွားအချို့ရှိသည်။
+# 4/5
 
 8793
 She liked to wear red lipstick and red clothes.
-သူမသည် အနီရောင် နှုတ်ခမ်းနီနှင့် အနီရောင်အဝတ်အစားကို ဝတ်ဆင်ရတာ နှစ်သက်သည်။
+သူမသည် အနီရောင် နှုတ်ခမ်းနီနှင့် အနီရောင်အဝတ်အစားများကို ဝတ်ဆင်ရတာ နှစ်သက်သည်။
+# 4/5
 
 8794
 She was completely bald, and she had no teeth at all.
-သူမသည် လုံးဝ ထိပ်ပြောင်ပြီးတော့ သူမမှာ သွားများ လုံးဝမရှိပေ။
+သူမသည် လုံးဝ ထိပ်ပြောင်သွားပြီး သူမမှာ သွားများ တစ်ချောင်းမှ မရှိပေ။
+# 4/5
 
 8795
 Sullivan does not know anything about equal treatment.
-ဆူလီဗန် သည် တန်းတူဆက်ဆံမှုနှင့်ပတ်သက်၍ ဘာမှမသိပါ။
+Sullivan သည် တန်းတူဆက်ဆံမှုနှင့်ပတ်သက်၍ ဘာမှမသိပါ။
+# 4/5
 
 8796
 Sullivan is confident that the mantra of equal treatment will end the argument.
-ဆူလီဗန်က တန်းတူရည်တူဆက်ဆံခြင်း ဖော်ပြချက်သည် အငြင်းပွားခြင်းကို အဆုံးသတ်လိမ့်မည်ဟု ယုံကြည်သည်။
+Sullivan က တန်းတူရည်တူဆက်ဆံခြင်း ဖော်ပြချက်သည် အငြင်းပွားခြင်းကို အဆုံးသတ်လိမ့်မည်ဟု ယုံကြည်သည်။
+# 4/5
 
 8797
 Sullivan uses the mantra of equal treatment after he realizes that he is losing the argument.
-ဆူလီဗန် သည် အငြင်းပွားခြင်း ရှုံးနိမ့်နေကြောင်း သူသိရှိပြီးနောက် တန်းတူရည်တူဆက်ဆံခြင်း ဖော်ပြချက်ကို အသုံးပြုခဲ့သည်။
+Sullivan သည် အငြင်းပွားခြင်း ရှုံးနိမ့်နေကြောင်း သူသိရှိပြီးနောက် တန်းတူရည်တူဆက်ဆံခြင်း ဖော်ပြချက်ကို အသုံးပြုခဲ့သည်။
+# 4/5
 
 8798
 It is rumored that Pynchon has a son and daughter.
-ဖင့်န်ချင် မှာ သားတစ်ယောက် နဲ့သမီးရှိတယ်လို့ ကောလဟာလတွေ ထွက်နေတယ်။
+Pynchon တွင် သားတစ်ယောက်နှင့် သမီးရှိသည်ဟု ကောလဟာလများ ထွက်နေသည်။
+# 4/5
 
 8799
 The public knows very little about Pynchon's private life.
-ဖင့်န်ချင် ၏ ကိုယ်ပိုင်ဘဝအကြောင်းကို လူအများက အနည်းငယ်သာ သိကြသည်။
+Pynchon ၏ ကိုယ်ပိုင်ဘဝအကြောင်းကို လူအများက အနည်းငယ်သာ သိကြသည်။
+# 4/5
 
 8800
 There is a popular TV show about Pynchon's private life, starring Pynchon himself.
-ဖင့်န်ချင် ကိုယ်တိုင်ပါဝင်သရုပ်ဆောင်ထားသော ဖင့်န်ချင် ၏ ကိုယ်ပိုင်ဘဝအကြောင်း နာမည်ကြီးတီဗီရှိုးတစ်ခုရှိသည်။
-
+Pynchon ကိုယ်တိုင်ပါဝင်သရုပ်ဆောင်ထားသော Pynchon ၏ ကိုယ်ပိုင်ဘဝအကြောင်း နာမည်ကြီးတီဗွီအစီအစဉ်တစ်ခုရှိသည်။
+# 4/5

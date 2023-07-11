@@ -1,53 +1,3 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 8901
 It's hard for college freshman to keep a diary.
 ပထမနှစ် ကောလိပ် ကျောင်းသားလေးများအတွက် ဒိုင်ယာရီ ရေးမှတ်ရန် ခက်ခဲတယ်။
@@ -80,7 +30,7 @@ I am quite certain that the residents are strongly against anything that would b
 
 8907
 Secretly the residents of Madrid and Atlanta practice their customs at home.
-မက်ဒရစ် နဲ့ အက်လန်တာ ဒေသခံတွေက သူတို့ရဲ့ ဓလေ့ထုံးတမ်းများကို အိမ်တွင် တိတ်တဆိတ် ကျင့်သုံးကြတယ်။
+မဒရစ် နဲ့ အတ္တလန်တာ ဒေသခံတွေက သူတို့ရဲ့ ဓလေ့ထုံးတမ်းများကို အိမ်တွင် တိတ်တဆိတ် ကျင့်သုံးကြတယ်။
 #5/5
 
 8908
@@ -135,17 +85,17 @@ The president will be surprised and upset by this news.
 
 8918
 All ivory-tower libertarians would have an emotional reaction to these ideas.
-ဆင်စွယ်မျှော်စင် လွတ်လပ်သော အတွေးအခေါ်သမား အားလုံးသည် ဤယူဆချက်များ အပေါ် စိတ်ခံစားမှု့အရ တုံ့ပြန်မှု ရှိကြပေမည်။
+Ivory-tower လစ်ဘရယ်သမား အားလုံးသည် ဤယူဆချက်များ အပေါ် စိတ်ခံစားမှု့အရ တုံ့ပြန်မှု ရှိကြပေမည်။
 #4/5
 
 8919
 Ivory-tower libertarians would be interested in these issues.
-ဆင်စွယ်မျှော်စင် လွတ်လပ်သော အတွေးအခေါ်သမားများသည် ဤပြဿနာများကို စိတ်ဝင်စားကြလိမ့်မည်။
+Ivory-tower လစ်ဘရယ်သမား များသည် ဤပြဿနာများကို စိတ်ဝင်စားကြလိမ့်မည်။
 #4/5
 
 8920
 These issues would not cause ivory-tower libertarians to think twice about them.
-ဒီပြဿနာများသည် ဆင်စွယ်မျှော်စင် လွတ်လပ်သော အတွေးအခေါ်သမားများကို နှစ်ခါပြန် စဉ်းစားစေမည် မဟုတ်ပါ။
+ဒီပြဿနာများသည် Ivory-tower လစ်ဘရယ်သမားများကို နှစ်ခါပြန် စဉ်းစားစေမည် မဟုတ်ပါ။
 #4/5
 
 8921
@@ -259,7 +209,7 @@ I was 12 when I went to see the living nativity.
 #5/5
 
 8943
-I went to the christmas pagent to see the living nativity.
+I wente to the christmas pagent to see the living nativity.
 ရှင်သန်သော ခရစ်တော်ဖွားမြင်တော်မူခန်း ကို ကြည့်ဖို့ ခရစ္စမတ်ပွဲကို သွားခဲ့တယ်။
 #5/5
 
@@ -440,27 +390,27 @@ It is very common for filmmakers to learn on the job.
 
 8979
 Rob Soderbergh is an award winning filmmaker.
-ရော့ဘ် ဆိုဒါဘက်ဂ် သည် ဆုရ ရုပ်ရှင်ဒါရိုက်တာ တစ်ဦး ဖြစ်သည်။
+Rob Soderbergh သည် ဆုရ ရုပ်ရှင်ဒါရိုက်တာ တစ်ဦး ဖြစ်သည်။
 #5/5
 
 8980
 Soderbergh is a filmmaker with the skill of learning on the job.
-ဆိုဒါဘက်ဂ် က အလုပ်လုပ်ရင်း သင်ယူတတ်မြောက်ထားတဲ့ ရုပ်ရှင်ရိုက်ကူးရေးသမား တစ်ဦး ဖြစ်တယ်။
+Soderbergh က အလုပ်လုပ်ရင်း သင်ယူတတ်မြောက်ထားတဲ့ ရုပ်ရှင်ရိုက်ကူးရေးသမား တစ်ဦး ဖြစ်တယ်။
 #5/5
 
 8981
 Clarke has worries about how we will respond to the recent violence.
-မကြာသေးမီက အကြမ်းဖက်မှုများကို ကျွန်ုပ်တို့ မည်သို့တုံ့ပြန်မည်ကို ကလက်ခ် က စိုးရိမ်ပူပန်လျက်ရှိတယ်။
+မကြာသေးမီက အကြမ်းဖက်မှုများကို ကျွန်ုပ်တို့ မည်သို့တုံ့ပြန်မည်ကို Clarke က စိုးရိမ်ပူပန်လျက်ရှိတယ်။
 #4/5
 
 8982
 Clarke has worries about our foreign policy.
-ကလက်ခ် က ကျွန်ုပ်တို့ရဲ့ နိုင်ငံခြားရေးမူဝါဒနှင့် ပတ်သက်ပြီး စိုးရိမ်ပူပန်မှု့များရှိသည်။
+Clarke က ကျွန်ုပ်တို့ရဲ့ နိုင်ငံခြားရေးမူဝါဒနှင့် ပတ်သက်ပြီး စိုးရိမ်ပူပန်မှု့များရှိသည်။
 #4/5
 
 8983
 Clarke knows everything will be fine.
-ကလက်ခ် က အရာအားလုံး အဆင်ပြေသွားမယ်ဆိုတာ သိတယ်။
+Clarke က အရာအားလုံး အဆင်ပြေသွားမယ်ဆိုတာ သိတယ်။
 #5/5
 
 8984
@@ -477,7 +427,6 @@ The Times said Bush needed to show honesty.
 The Times said Bush should just lie to everone.
 ဘုရှ် က လူတိုင်းကို လိမ်ညာသင့်တယ်လို့ တိုင်းမ်စ် က ဆိုခဲ့ပါတယ်။
 #5/5
-
 
 8987
 Bruce apologizes very often.

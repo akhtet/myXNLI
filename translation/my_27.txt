@@ -1,449 +1,499 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 2601
 It was difficult to get him out.
 သူ့ကို ထွက်သွားခိုင်းဖို့ ခက်တယ်။
+5/5
 
 2602
 There were instruments in the aircraft that melted.
-အရည်ပျော်နေတဲ့ လေယာဉ်ထဲမှာ ကိရိယာတွေ ရှိတေယ်။
+လေယာဉ်ထဲမှာ အရည်ပျော်နေတဲ့ ကိရိယာတွေ ရှိတယ်။
+5/5
 
 2603
 Alas, she was not able to understand clearly due to a language barrier.
-အဲလက်စ် ၊ ဘာသာစကား အခက်အခဲကြောင့် သူမ ရှင်းရှင်းလင်းလင်း နားမလည်နိုင်ဘူး။
+ဝမ်းနည်းစရာပါပဲ ၊ ဘာသာစကား အခက်အခဲကြောင့် သူမ ရှင်းရှင်းလင်းလင်း နားမလည်နိုင်ဘူး။
+4/5
 
 2604
 Indeed, she did not comprehend.
-တကယ်တော့ ၊ သူမ နားမလည်ခဲ့ဘူး။
+တကယ်ပါ ၊ သူမ နားမလည်ခဲ့ဘူး။
+5/5
 
 2605
 She knew exactly what we were talking about.
-ကျွန်တော်တို့ ပြောနေတဲ့အရာကို သူမ သေချာ သိခဲ့တယ်။
+ကျွန်တော်တို့ ပြောနေတဲ့အရာကို သူမ သေချောပေါက် သိခဲ့တယ်။
+5/5
 
 2606
 The bomb had been deactivated by the pilot.
-လေယာဉ်မှူးက ဗုံးကို ပိတ်ထားလိုက်ပြီးပြီ။
+လေယာဉ်မှူးက ဗုံးကို ဖြုတ်ထားလိုက်ပြီးပြီ။
+5/5
 
 2607
 The bomb had no chance of exploding.
 ဗုံး ပေါက်ကွဲဖို့ အလားအလာ မရှိခဲ့ဘူး။
+5/5
 
 2608
 There was a great danger of the bomb exploding.
-ဗုံးပေါက်ကွဲမှု ရဲ့ ကြီးမားတဲ့ အန္တရာယ် ရှိခဲ့တယ်။
+ဗုံးပေါက်ကွဲမှု ဖြစ်နိုင်တဲ့ ကြီးမားတဲ့ အန္တရာယ် ရှိခဲ့တယ်။
+5/5
 
 2609
 I'm not sure what this looks like to you.
-ဒါက မင်းနဲ့ ဘာတူတာလဲ ငါလည်း မသေချာဘူး။
+ဒါကို မင်းအနေနဲ့ ဘယ်လိုမြင်လဲ ငါလည်း မသေချာဘူး။
+5/5
 
 2610
 I'm trying to do this, obviously.
-ငါ ဒါကို လုပ်ဖို့ သိသိသာသာ ၊ ကြိုးစားနေတယ်။
+ငါ ဒါကို လုပ်ဖို့ ကြိုးစားနေတာ အသိသာကြီးပါ။
+5/5
 
 2611
 I'm trying to finish my project in the next week.
 ငါရဲ့ စီမံကိန်းကို နောက်အပတ်ထဲမှာ ပြီးဖို့ ကြိုးစားနေတယ်။
+5/5
 
 2612
 The goats escaped from the barn every day.
-ဆိတ်များ တင်းကုတ်မှ နေ့စဉ် လွတ်သွားခဲ့တယ်။
+ဆိတ်များ တင်းကုတ်မှ နေ့စဉ် လွတ်ထွက်ခဲ့တယ်။
+5/5
 
 2613
 The goats escaped often.
 ဆိတ်များ မကြာခဏ လွတ်သွားခဲ့တယ်။
+5/5
 
 2614
 The goats were kept safe and secure.
 ဆိတ်များကို လုံခြုံစိတ်ချရအောင် ထိန်းသိမ်းခဲ့တယ်။
+5/5
 
 2615
 I didn't hear her when she told everyone else.
-သူ လူတိုင်း ကို ပြောတဲ့အချိန်မှာ ငါ နားမထောင်ခဲ့ဘူး။
+သူ လူတိုင်း ကို ပြောခဲ့တဲ့အချိန်မှာ ငါ မကြားခဲ့ဘူး။
+5/5
 
 2616
 I heard everything she said.
 ငါ သူပြောနေတဲ့ အရာအားလုံးကို ကြားခဲ့တယ်။
+5/5
 
 2617
 I was talking to someone else at the time.
 အဲ့ဒီအချိန်မှာ တခြားတစ်ယောက်ကို ငါ စကားပြောနေခဲ့တယ်။
+5/5
 
 2618
 All of the doors were open.
-တံခါး အားလုံး ပွင့်ခဲ့တယ်။
+တံခါး အားလုံး ပွင့်နေခဲ့တယ်။
+5/5
 
 2619
 We had the keys with us.
-ကျွန်တော်တို့မှာ ကျွန်တော်တို့နဲ့အတူ သော့တွေ ပါခဲ့တယ်။
+ကျွန်တော်တို့နဲ့အတူ သော့တွေ ပါခဲ့တယ်။
+5/5
 
 2620
 We went in even though the doors were locked.
 တံခါးတွေ သော့ခတ်ထားသော်လည်း ကျွန်တော်တို့ ဝင်သွားခဲ့တယ်။
+5/5
 
 2621
 A couple of aircraft got lost because of the weather.
-ရာသီဉတုကြောင့် လေယာဉ် နှစ်စင်း ပျောက်ဆုံးခဲ့တယ်။
+ရာသီဉတုကြောင့် လေယာဉ် အချို့ ပျောက်ဆုံးခဲ့တယ်။
+5/5
 
 2622
 A couple of aircraft were lost.
-လေယာဉ် နှစ်စင်း ပျောက်ဆုံးခဲ့တယ်။
+လေယာဉ် အချို့ ပျောက်ဆုံးခဲ့တယ်။
+5/5
 
 2623
 We've never lost an aircraft.
 ကျွန်တော်တို့ လေယာဉ် တစ်စင်းမှ မပျောက်ဆုံးခဲ့ပါဘူး။
+5/5
 
 2624
 I don't need any help.
 ငါ ဘာအကူအညီမှ မလိုဘူး။
+5/5
 
 2625
 It is a big job that I need done.
 ဒါက ငါ လုပ်ဖို့လိုတဲ့ အလုပ်ကြီးပဲ။
+5/5
 
 2626
 There is something I need done.
 ငါ လုပ်ဖို့ လိုတာ တစ်ခုခုရှိတယ်။
+5/5
 
 2627
 I feel confident that the totals are all I need to get this figured out.
-စုစုပေါင်း ကတော့ ငါ ဒါကို ဖြေရှင်းဖို့ လိုတဲ့ အားလုံးပဲလို့ ငါ ယုံကြည်တယ်။
+ပေါင်းထားသော အရာတေွဟာ ငါ ဒါကို ဖြေရှင်းဖို့ လိုတဲ့ အားလုံးပဲလို့ ငါ ယုံကြည်တယ်။
+5/5
 
 2628
 I have no clue what to do with just the totals please give me more details to figure out this mess.
-ဒီ စုစုပေါင်းတွေနဲ့ ဘာလုပ်ရမယ်ဆိုတဲ့ သဲလွန်စ မရှိဘူး ကျေးဇူးပြုပြီး ဒီအရှုပ်ကို ဖြေရှင်းဖို့ ငါ့ကို အသေးစိတ်အချက်အလက်တွေ ပိုပေးပါ။
+ဒီ စုစုပေါင်းတွေနဲ့ ဘာလုပ်ရမယ်ဆိုတာ ငါမသိဘူး ကျေးဇူးပြုပြီး ဒီအရှုပ်ကို ဖြေရှင်းဖို့ ငါ့ကို အသေးစိတ်အချက်အလက်တွေ ပိုပေးပါ။
+5/5
 
 2629
 I will calculate it based off of the totals.
 စုစုပေါင်းတွေပေါ် အခြေခံပြီး ငါ တွက်ပေးမယ်။
+5/5
 
 2630
 He was so excited and bursting with joy that he practically knocked the door off it's frame.
-သူ အလွန် စိတ်လှုပ်ရှားပြီး ပျော်ရွှင်မှုတွေ လျှံထွက်လာသောကြောင့် တံခါးကို လက်တွေ့ ခေါက်လိုက်တယ် အဲ့ဒါက တံခါးဘောင် ဖြစ်တယ်။
+သူ အလွန် စိတ်လှုပ်ရှားပြီး ပျော်ရွှင်လွန်ကဲစွာဖြင့် တံခါးကို လက်တွေ့ ခေါက်လိုက်ရာ တံခါးဘောင် ပြုတ်ထွက်သွားသည်။
+5/5
 
 2631
 He was trying not to make us feel guilty but we knew we had caused him trouble.
-သူက ကျွန်တော်တို့ကို စိတ်မသိုးမသန့် မဖြစ်ဖို့ ကြိုးစားနေခဲ့ သော်လည်း ကျွန်တော်တို့ သူ့ကို ဒုက္ခဖြစ်စေခဲ့တာ ကျွန်တော်တို့ သိခဲ့တယ်။
+သူက ကျွန်တော်တို့ကို အပြစ်ရှိသလိုခံစားရအောင် ကြိုးစားနေခဲ့ သော်လည်း ကျွန်တော်တို့ သူ့ကို ပြဿနာဖြစ်စေခဲ့တာ ကျွန်တော်တို့ သိခဲ့တယ်။
+5/5
 
 2632
 Just by the look on his face when he came through the door I just knew that he was let down.
 တံခါးက သူ ဝင်လာတဲ့အခါ သူရဲ့မျက်နှာကို တစ်ချက်မျှကြည့်ရုံနဲ့ သူ စိတ်ပျက်လက်ပျက်ဖြစ်လာတာ ငါ သိခဲ့တယ်။
+5/5
 
 2633
 I dont have a particular store.
 ငါ့မှာ သီးသန့် စတိုးဆိုင် မရှိပါဘူး။
+5/5
 
 2634
 I have 1 specific store.
 ငါ့မှာ သတ်သတ်မှတ်မှတ် စတိုးဆိုင် ၁ဆိုင် ရှိတယ်။
+5/5
 
 2635
 There are a lot of stores.
 စတိုးဆိုင်တွေ အများကြီးပဲ။
+5/5
 
 2636
 It flies over 20,000 miles an hour.
 တစ်နာရီမှာ  မိုင် ၂၀,၀၀၀ အထက် ပျံသန်းတယ်။
+5/5
 
 2637
 It only travels 10,000 miles an hour.
 တစ်နာရီမှာ မိုင် ၁၀,၀၀၀ သာလျှင် သွားတယ်။
+5/5
 
 2638
 The jet flies 20,000 miles an hour.
 ဂျက်လေယာဉ်ဟာ တစ်နာရီမှာ မိုင် ၂၀,၀၀၀ ပျံသန်းတယ်။
+5/5
 
 2639
 Rudolph Anderson was nowhere to be found, so we only had one U2's.
-ရူဒေါ့ အန်ဒါဆန် ကို ဘယ်နေရာမှာမှ ရှာမတွေ့ခဲ့ဘူး ၊ ဒါကြောင့် ကျွန်တော်တို့မှာ ယူတူး တစ်ယောက်ပဲ ရှိခဲ့တယ်။
+Rudolph Anderson ကို ဘယ်နေရာမှာမှ ရှာမတွေ့ခဲ့ဘူး ၊ ဒါကြောင့် ကျွန်တော်တို့မှာ U2 တစ်ယောက်ပဲ ရှိခဲ့တယ်။
+5/5
 
 2640
 Rudolph Anderson was part of three U2's.
-ရူဒေါ့ အန်ဒါဆန် ဟာ ယူတူး သုံးယောက်ထဲက တစ်ယောက်ပေါ့။
+Rudolph Anderson ဟာ U2 သုံးယောက်ထဲက တစ်ယောက်ပေါ့။
+5/5
 
 2641
 We were blessed to have Rudolph Anderson help with the U2's.
-ယူတူး နဲ့အတူ ရူဒေါ့ အန်ဒါဆန် ရဲ့ အကူအညီ ရတာ ကျွန်တော်တို့အတွက် မင်္ဂလာပါပဲ။
+U2 နဲ့အတူ Rudolph Anderson ရဲ့ အကူအညီ ရတာ ကျွန်တော်တို့အတွက် မင်္ဂလာပါပဲ။
+5/5
 
 2642
 He gets a lot of help.
 သူ အကူအညီ အများကြီး ရတယ်။
+5/5
 
 2643
 He gets help with his meals and clothes.
 သူရဲ့ အစားအသောက်နှင့် အဝတ်အစားများအတွက် အကူအညီ ရတယ်။
+5/5
 
 2644
 He is very independent.
 သူ အရမ်း လွတ်လပ်တယ်။
+5/5
 
 2645
 She was gone without a trace.
 သဲလွန်စ မရှိဘဲ သူမ ပျောက်သွားခဲ့တယ်။
+5/5
 
 2646
 She was still in the vicinity.
 သူမ အနီးနားပတ်ဝန်းကျင်မှာ ရှိနေသေးတယ်။
+5/5
 
 2647
 We thought she left but she remained.
-ကျွန်တော်တို့က သူ ထွက်သွားပြီ ထင်ခဲ့ပေမယ့် သူ ရှိနေခဲ့တယ်။
+ကျွန်တော်တို့က သူမ ထွက်သွားပြီ ထင်ခဲ့ပေမယ့် သူမ ရှိနေခဲ့တယ်။
+5/5
 
 2648
 Ramona was on the floor curled up in a fetal position.
-ရာမိုနာ သည် သန္ဓေသားအနေအထားနဲ့ ကြမ်းပြင်ပေါ်မှာ ကွေးကွေးလေးလှဲနေတယ်။
+Ramona သည် သန္ဓေသားအနေအထားနဲ့ ကြမ်းပြင်ပေါ်မှာ ကွေးကွေးလေးလှဲနေတယ်။
+5/5
 
 2649
 Ramona was silently judging me.
-ရာမိုနာ က ငါ့ကို တိတ်တဆိတ် အကဲခတ်နေတယ်။
+Ramona က ငါ့ကို တိတ်တဆိတ် အကဲခတ်နေတယ်။
+5/5
 
 2650
 Ramona was upright while I was there in awe.
-ငါက အဲ့ဒီမှာ အံ့ဩကြောက်ရွံ့ဖြစ်နေစဉ် ရာမိုနာ ကတော့ တည်ကြည်တယ်။
+ငါက အဲ့ဒီမှာ အံ့ဩနေစဉ် Ramona ကတော့ တည်ကြည်တယ်။
+5/5
 
 2651
 I don't need to deal with that.
 ငါ အဲ့ဒါကို ဖြေရှင်းဖို့ မလိုဘူး။
+5/5
 
 2652
 I will look through this.
-ငါ ဒီကနေ ကြည့်မယ်။
+ငါ ဒါတွေအကုန် ကြည့်ထားလိုက်မယ်။
+5/5
 
 2653
 I'll look through these reports.
-ငါ ဒီ အစီအရင်ခံစာတွေကနေ ကြည့်မယ်။
+ငါ ဒီ အစီအရင်ခံစာတွေကနေ ကြည့်ထားလိုက်မယ်။
+5/5
 
 2654
 She ate a lot of food, but still kept her weight down.
 သူမ အစားအစာတွေ အများကြီး စားခဲ့တယ် ၊ ဒါပေမယ့် သူမရဲ့ ကိုယ်အလေးချိန်ကို လျှော့ချထားနိုင်တုန်းပဲ။
+5/5
 
 2655
 She did not weigh much at all.
-သူ ကိုယ်အလေးချိန် လုံးဝ မချိန်ခဲ့ဘူး။
+သူမ ကိုယ်အလေးချိန် အများကြီးမရှိခဲ့ဘူး။
+5/5
 
 2656
 She was very happy.
-သူ အရမ်းပျော်တယ်။
+သူမ အရမ်းပျော်ခဲ့တယ်။
+5/5
 
 2657
 We were supposed to look at the flying plane.
-ပျံသန်းနေတဲ့ လေယာဉ်ကို ကြည့်ဖို့ ကျွန်တော်တို့ကို အကြံပြုတယ်။
+ပျံသန်းနေတဲ့ လေယာဉ်ကို ကြည့်ဖို့ ကျွန်တော်တို့ကြည့်ခဲ့ရမှာ။
+5/5
 
 2658
 We were supposed to look at what was flying.
-ဘာ ပျံသန်းနေတယ် ကြည့်ဖို့ ကျွန်တော်တို့ကို အကြံပြုတယ်။
+ဘာတွေ ပျံသန်းနေတယ် ဆိုတာ ကျွန်တော်တို့ကြည့်ခဲ့ရမှာ။။
+5/5
 
 2659
 We were told not to look outside.
 အပြင်ကို မကြည့်ဖို့ ကျွန်တော်တို့ကို ပြောတယ်။
+5/5
 
 2660
 He was too afraid to burn anything so he just flushed it.
 သူ တစ်ခုခုကို မီးရှို့ဖျက်ဆီးရမှာ ကြောက်လို့ ရေအိမ်ထဲ ပစ်ပြီး ရေဆွဲချလိုက်တယ်။
+5/5
 
 2661
 He would burn the paper.
 သူ စာရွက်တွေကို မီးရှို့ဖျက်ဆီးလိမ့်မယ်။
+5/5
 
 2662
 He would write a dream on the paper and then burn it.
-သူ စာရွက်ပေါ်မှာ စိတ်ကူးတစ်ခု ရေးလိုက်ပြီးနောက် အဲ့ဒါကို မီးရှို့လိုက်လိမ့်မယ်။
+သူ စာရွက်ပေါ်မှာ စိတ်ကူးတစ်ခု ရေးလိုက်ပြီးနောက် အဲ့ဒါကို မီးရှို့လိုက်တတ်တယ်။
+5/5
 
 2663
 He continued to live in Augusta even after the attacks.
-ထိုးနှက်ခံရပြီးနောက်တောင်မှ သူ အော်ဂတ်စ်တာ မှာ ဆက်နေခဲ့တယ်။
+ထိုးနှက်ခံရပြီးနောက်တောင်မှ သူ Augusta မှာ ဆက်နေခဲ့တယ်။
+5/5
 
 2664
 He continued to live in Augusta.
-သူ အော်ဂတ်စ်တာ မှာ ဆက်လက် နေထိုင်ခဲ့တယ်။
+သူ Augusta မှာ ဆက်လက် နေထိုင်ခဲ့တယ်။
+5/5
 
 2665
 He moved outside of Augusta right away.
-သူ အော်ဂတ်စ်တာ အပြင်သို့ ချက်ချင်း ပြောင်းရွှေ့ခဲ့တယ်။
+သူ Augusta အပြင်သို့ ချက်ချင်း ပြောင်းရွှေ့ခဲ့တယ်။
+5/5
 
 2666
 I never asked where they were going.
 သူတို့ သွားနေတဲ့ နေရာကို ငါ ဘယ်တုန်းကမှ မမေးခဲ့ဘူး။
+5/5
 
 2667
 They always let us know where they were and where they were going.
 သူတို့က သူတို့ ရှိတဲ့ နေရာ နှင့် သွားနေတဲ့ နေရာကို ကျွန်တော်တို့ကို အမြဲ အသိပေးတယ်။
+5/5
 
 2668
 They never told us where they were going.
 သူတို့ သွားနေတဲ့နေရာကို ကျွန်တော်တို့ကို ဘယ်တော့မှ မပြောခဲ့ဘူး။
+5/5
 
 2669
 Ramona has lived in Concord all her life.
-ရာမိုနာသည် သူမရဲ့ ဘဝတလျှောက်လုံး ကွန်ကော့ မှာ နေခဲ့သည်။
+Ramona သည် သူမရဲ့ ဘဝတလျှောက်လုံး Concord မှာ နေခဲ့သည်။
+5/5
 
 2670
 Ramona has never been to Concord.
-ရာမိုနာ ကွန်ကော့ကို မရောက်ဖူးဘူး။
+Ramona သည် Concord ကို မရောက်ဖူးဘူး။
+5/5
 
 2671
 Ramona is located in Concord.
-ရာမိုနာ သည် ကွန်ကော့မှာ တည်ရှိသည်။
+Ramona သည် Concord မှာ တည်ရှိသည်။
+5/5
 
 2672
 I was in Special Activities for years.
 ကျွန်တော် အထူးလှုပ်ရှားမှုဌာနမှာ နှစ်ပေါင်းများစွာ ရှိခဲ့တယ်။
+5/5
 
 2673
 I've never had a job.
 ကျွန်တော် အလုပ် မရှိဖူးဘူး။
+5/5
 
 2674
 My favorite job was in Special Activities.
 ကျွန်တော် အကြိုက်ဆုံးအလုပ်ကတော့ အထူးလှုပ်ရှားမှုဌာနတွင် ဖြစ်ပါတယ်။
+5/5
 
 2675
 They won't pay for anything forus.
-ကျွန်တော်တို့ အတွက် သူတို့ ဘာမှ ပေးလိမ့်မယ်မဟုတ်ဘူး။
+ကျွန်တော်တို့ အတွက် သူတို့ ဘာမှ ငွေခြေပေးလိမ့်မယ်မဟုတ်ဘူး။
+5/5
 
 2676
 They're paying for housing for me and my siblings.
-ကျွန်တော်နှင့် ကျွန်တော့် မွေးချင်းညီအစ်ကိုမောင်နှမများရဲ့ အိမ်ရာအတွက် သူတို့ ပေးတယ်။
+ကျွန်တော်နှင့် ကျွန်တော့် မွေးချင်းညီအစ်ကိုမောင်နှမများရဲ့ အိမ်ရာအတွက် သူတို့ ငွေခြေပေးတယ်။
+5/5
 
 2677
 They're paying for housing.
-အိမ်ရာအတွက် သူတို့ ပေးတယ်။
+အိမ်ရာအတွက် သူတို့ ငွေခြေပေးတယ်။
+5/5
 
 2678
 Kennedy told our troops to look for missiles.
-ကန်နဒီ က ကျွန်တော်တို့ တပ်များကို ဒုံးကျဉ်ရှာဖို့ ပြောခဲ့တယ်။
+Kennedy က ကျွန်တော်တို့ တပ်များကို ဒုံးကျဉ်ရှာဖို့ ပြောခဲ့တယ်။
+5/5
 
 2679
 They didn't stop any ships because they didn't want conflict.
-သူတို့ ဘယ်သင်္ဘောကိုမှ မရပ်ခဲ့ဘူး ဘာကြောင့်လဲဆိုတော့ သူတို့ ရန်ပွဲ မဖြစ်ချင်ဘူး။
+သူတို့ ရန်ပွဲ မဖြစ်ချင်လို့ သူတို့ ဘယ်သင်္ဘောကိုမှ မရပ်ခဲ့ဘူး ။
+5/5
 
 2680
 They found 20 missiles on the ship.
 သူတို့ သင်္ဘောပေါ်မှာ ဒုံးကျဉ် အခု ၂၀ တွေ့ခဲ့တယ်။
+5/5
 
 2681
 The man entered the courtroom.
-လူကြီးတစ်ယောက် တရားခွင် ကို ဝင်လာခဲ့တယ်။
+ထိုလူ တရားခွင် ကို ဝင်လာခဲ့တယ်။
+5/5
 
 2682
 The man entered the room.
-လူကြီးတစ်ယောက် အခန်းထဲကို ဝင်လာခဲ့တယ်။
+ထိုလူ အခန်းထဲကို ဝင်လာခဲ့တယ်။
+5/5
 
 2683
 The man ran the other way.
-လူကြီးတစ်ယောက် တခြားလမ်းကို ပြေးသွားခဲ့တယ်။
+ထိုလူ တခြားလမ်းကို ပြေးသွားခဲ့တယ်။
+5/5
 
 2684
 It took a long time to drive to my grandparent's house.
-ကျွန်တော့်ရဲ့ အဖိုးအဖွားအိမ်ကို ကားမောင်းသွားတာ အချိန်အတော်ကြာခဲ့တယ်။
+ကျွန်တော့်ရဲ့ အဖိုးအဖွားအိမ်ကို ကားမောင်းသွားတာ အချိန်အတော်ကြသွားခဲ့ရတယ်။
+5/5
 
 2685
 My grandparents were a very loving couple.
-ကျွန်တော့်ရဲ့ အဖိုးနဲ့အဖွားဟာ အလွန်ချစ်စရာကောင်းတဲ့ စုံတွဲတစ်တွဲ ဖြစ်တယ်။
+ကျွန်တော့်ရဲ့ အဖိုးနဲ့အဖွားဟာ အလွန်ချစ်တတ်တဲ့ စုံတွဲတစ်တွဲ ဖြစ်တယ်။
+5/5
 
 2686
 My grandparents were always very cranky and we never liked going to their house.
 ကျွန်တော့်ရဲ့ အဖိုးအဖွားများဟာ အလွန်စိတ်ဆိုးလွယ်ကြပြီး သူတို့ အိမ်ကို သွားရတာ ကျွန်တော်တို့ ဘယ်တုန်းကမှ မကြိုက်ခဲ့ဘူး။
+5/5
 
 2687
 I didn't remember it at all.
 ငါ အဲ့ဒါကို လုံးဝ သတိမရခဲ့ဘူး။
+5/5
 
 2688
 That's probably the reason I remembered his name.
 ဒါက ငါ သူ့ နာမည်ကို မှတ်မိရတဲ့ အကြောင်းအရင်းဖြစ်နိုင်တယ်။
+5/5
 
 2689
 That's probably why I recalled that.
 ဒါက ငါ အဲ့ဒါကို ပြန်လည်မှတ်မိနိုင်တဲ့ အကြောင်းအရင်းဖြစ်နိုင်တယ်။
+5/5
 
 2690
 It makes you feel great.
 အဲ့ဒါက မင်းကို ပျော်ရွှင်စေတယ်။
+5/5
 
 2691
 It makes you feel horrible.
 အဲ့ဒါက မင်းကို ကြောက်ရွံ့စေတယ်။
+5/5
 
 2692
 You feel better after an hour.
 တစ်နာရီကြာပြီးနောက် မင်း နေကောင်းလာမယ်။
+5/5
 
 2693
 You can go home if you want to.
 မင်း သွားချင်ရင် အိမ်ကို သွားနိုင်တယ်။
+5/5
 
 2694
 You can leave.
 မင်း ထွက်သွားနိုင်တယ်။
+5/5
 
 2695
 You need to stay in that exact spot!
 မင်း အဲ့ဒီနေရာအတိအကျမှာ နေဖို့လိုတယ်။
+5/5
 
 2696
 I could have finished entering it in later.
-နောက်ကျမှ အဲ့ဒါကို ထည့်တာ ပြီးစီးခဲ့တယ်။
+နောက်ကျမှ အဲ့ဒါကို ပြီးစီးအောင် ငါထည့်ပေးခဲ့လို့ရတယ်။
+5/5
 
 2697
 I entered it in all on time.
-ငါ အဲ့ဒါကို အားလုံးထဲ အချိန်ကိုက် ထည့်သွင်းခဲ့တယ်။
+ငါ အဲ့ဒါအားလုံးကို အချိန်ကိုက် ထည့်သွင်းခဲ့တယ်။
+5/5
 
 2698
 I ran out of time to enter it all in.
-အဲ့ဒါကို ထည့်သွင်းဖို့ ငါ အချိန်ကုန်ခဲ့တယ်။
+အဲ့ဒါကို ငါထည့်သွင်းဖို့ အချိန်ကုန်သွားခဲ့တယ်။
+5/5
 
 2699
 The atomic bomb has no trigger.
 အဏုမြူဗုံးမှာ စနက်တံ မပါပါဘူး။
+5/5
 
 2700
 The trigger detonates the bomb when it's pulled.
 စနက်တံကို ဆွဲလိုက်တဲ့အခါ ဗုံးကို ပေါက်ကွဲစေတယ်။
+5/5

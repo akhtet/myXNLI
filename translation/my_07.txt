@@ -1,450 +1,503 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 601
 Diego followed her instructions and at the top of the hill he found beautiful roses of Castile, still covered with dew.
-ဒီယေဂို သည် သူမ၏ ညွှန်ကြားချက်များကို လိုက်နာပြီး သူ သည် တောင်ထိပ်တွင် နှင်းမှုန်များဖြင့် ဖုံးလွှမ်းနေသေးသော ကပ်စတီးရေး ၏ လှပသော နှင်းဆီပန်းများကို တွေ့ရှိခဲ့သည် ။
+Diego သည် သူမ၏ ညွှန်ကြားချက်များကို လိုက်နာပြီး သူ သည် တောင်ထိပ်တွင် နှင်းမှုန်များဖြင့် ဖုံးလွှမ်းနေသေးသော Castile ၏ လှပသော နှင်းဆီပန်းများကို တွေ့ရှိခဲ့သည် ။
+#5/5
+
 
 602
 But in homes in which family members are preoccupied with the computer, especially the Internet, time spent communicating and enjoying joint leisure activities declines.
 ဒါပေမယ့် အိမ်တွင် အထူးသဖြင့် အင်တာနက်ကို ကွန်ပြူတာ မှာ ထည့်သွင်းပြီး အသုံးပြုလာခြင်းဟာ မိသားစုဝင်တွေ ဆက်ဆံပြောဆိုခြင်း နှင့် ပျော်ပျော်ပါးပါး အပန်းဖြေတဲ့ လှုပ်ရှားမှုတွေကို ဖြတ်သန်းရတဲ့ အချိန်တွေ လျော့နည်းလာပါတယ် ။
+#5/5
 
 603
 The southwestern region with the most researched and documented wedding customs is New Mexico, because the descendents of the early Hispanos have been conscious of describing and writing down their traditions.
-အနောက်တောင်ပိုင်း ဒေသ သည် သုတေသနပြုပြီး မှတ်တမ်းတင်ထားသော မင်္ဂလာပွဲ ဓလေ့များ အများဆုံး ရှိသည့်  နယူးမက္ကဆီကို ဖြစ်ပြီး ၊ အကြောင်းမှာ အစောပိုင်း ဟစ်စပန်နိုတို့ ၏ မျိုးရိုးများ သည် ၎င်းတို့၏ ဓလေ့ထုံးတမ်းများ ကို ဖော်ပြရန် နှင့် ရေးသားရန် သတိ ရှိသောကြောင့် ဖြစ်သည် ။
+အနောက်တောင်ပိုင်း ဒေသ သည် သုတေသနပြုပြီး မှတ်တမ်းတင်ထားသော မင်္ဂလာပွဲ ဓလေ့များ အများဆုံး ရှိသည့်  New Mexico ဖြစ်ပြီး ၊ အကြောင်းမှာ အစောပိုင်း Hispanos တို့ ၏ မျိုးရိုးများ သည် ၎င်းတို့၏ ဓလေ့ထုံးတမ်းများ ကို ဖော်ပြရန် နှင့် ရေးသားရန် သတိ ရှိသောကြောင့် ဖြစ်သည် ။
+#4/5
 
 604
 Finally she and Juan Osito, her son, are able to run away from the bear and go live in the palace with her father.
-နောက်ဆုံးမှာ သူမနဲ့ ဟွမ် အိုစီတို တို့ပဲ ဖြစ်ပါတယ် ၊ သူမ သားတော် သည် ဝက်ဝံ ထံမှ ပြေး၍ သူမ၏ အဖေ နှင့်အတူ နန်းတော် ၌ နေထိုင်သည် ။
+နောက်ဆုံးမှာ သူမနဲ့  သူမ သားတော် Juan Osito တို့ သည် ဝက်ဝံ ထံမှ ထွက်ပြေး၍ သူမ၏ အဖေ နှင့်အတူ နန်းတော် ၌ သွားနေထိုင်သည် ။
+#4/5
 
 605
 Today the term barbacoa is used only to mean the cooking of meat in a pit, also called pit cooking.
-ယနေ့ခေတ်တွင် ဘာဘာကိုး ဆိုသော အသုံးအနှုန်း ကို တွင်း ထဲတွင် အသား ချက်ပြုတ်ခြင်း ဟု အဓိပ္ပာယ်ရပြီး ၊ တွင်းချက်ပြုတ်ခြင်း ဟု ခေါ်သည် ။
+ယနေ့ခေတ်တွင် barbacoa ဆိုသော အသုံးအနှုန်း ကို တွင်း ထဲတွင် အသား ချက်ပြုတ်ခြင်း ဟု အဓိပ္ပာယ်ရပြီး ၊ တွင်းချက်ပြုတ်ခြင်း ဟု ခေါ်သည် ။
+#4/5
 
 606
 But now Maxwell enters and invents a  wee creature,  later dubbed Maxwell's demon.
-ဒါပေမယ့် အခု မက်စ်ဝဲလ် ဟာ နောက်ပိုင်းတွင် မက်စ်ဝဲလ် ရဲ့ နတ်ဆိုး လို့ ခေါ်သည့် သေးငယ်သော သတ္တဝါ တစ်ကောင် ကို တီထွင်လိုက်ပါသည် ။
+ဒါပေမယ့် အခု မက်စ်ဝဲလ် ဟာ နောက်ပိုင်းတွင် Maxwell ရဲ့ နတ်ဆိုး လို့ ခေါ်သည့် သေးငယ်သော သတ္တဝါ တစ်ကောင် ကို တီထွင်လိုက်ပါသည် ။
+#5/5
 
 607
 And yet, today the common assumption is that our officials may be trusted with a precise racial and ethnic map of the American nation.
 သို့သော်လည်း ယနေ့တွင် ဘုံယူဆချက် မှာ ကျွန်တော်တို့၏ အရာရှိများ သည် အမေရိကန် နိုင်ငံ၏ တိကျသော လူမျိုးရေး နှင့် လူမျိုးစုနှင့်ဆိုင်သော မြေပုံ ကို ယုံကြည်နိုင်သည် ။
+#4/5
 
 608
 Parents who throw up their hands in desperation and search through their own parents' or grandparents' shelves for a more  tried and true  vision will  nd themselves mired in the same conundrum.
 ပိုကြိုးစားပြီး စစ်မှန်သော အမြင်အတွက် သူတို့ရဲ့ မိဘတွေ နဲ့ အဖိုးအဖွားတွေ ရဲ့ စင်ပေါ်ကနေ အသည်းအသန် လက်လှမ်းပြနေတဲ့ မိဘတွေဟာ တူညီသော ပဟေဠိပြဿနာတွေ မှာ သူတို့ကိုယ်သူတို့ နစ်မွန်းနေကြလိမ့်မယ် ။
+#4/5
 
 609
 For the community of nations, so recognized, equality'let us, say, with regard to voting rights in the General Assembly of the United Nations'becomes a norm readily enforced.
-နိုင်ငံအသိုက်အဝန်း အတွက် ၊ အသိအမှတ်ပြုခံရပြီး ၊ မဲပေးပိုင်ခွင့် နှင့် ပတ်သက်၍ တန်းတူညီမျှမှုရှိသော ၊ စံနှုန်းအဖြစ် ကမ္ဘာ့ကုလသမဂ္ဂ ၏ အထွေထွေညီလာခံ တွင် အလွယ်တကူ ပြဋ္ဌာန်းနိုင်စေရန် ဖြစ်သည် ။
+နိုင်ငံများအသိုက်အဝန်း အတွက် ၊ အသိအမှတ်ပြုခံရပြီး ၊ မဲပေးပိုင်ခွင့် နှင့် ပတ်သက်၍ တန်းတူညီမျှမှုရှိသော ၊ စံနှုန်းအဖြစ် ကမ္ဘာ့ကုလသမဂ္ဂ ၏ အထွေထွေညီလာခံ တွင် အလွယ်တကူ ပြဋ္ဌာန်းနိုင်စေရန် ဖြစ်သည် ။
+#4/5
 
 610
 Thus, I am assuming that P is an allosteric enhancer of the reaction.
-ထို့ကြောင့် ၊ ပီ သည် တုံ့ပြန်မှု ၏ အယ်လိုစတီးရစ် မြှင့်တင်မှု ဖြစ်သည် ဟု ကျွန်တော် ယူဆပါသည် ။
+ထို့ကြောင့် ၊ P သည် တုံ့ပြန်မှု ၏ allpsteric မြှင့်တင်မှု ဖြစ်သည် ဟု ကျွန်တော် ယူဆပါသည် ။
+#5/5
 
 611
 The rabbis were not impressed by these signs.
 ဂျူးဘာသာရေးခေါင်းဆောင်များသည် ဤလက္ခဏာများကို အထင်မကြီးကြပါ။
+#5/5
 
 612
 The late eighteenth century was indeed a marvelously simplistic time.
 ဆယ့်ရှစ် ရာစု နှောင်းပိုင်း သည် အမှန်တကယ် ကို အံ့သြဖွယ်ကောင်းသော ရိုးရှင်းသော အချိန် ဖြစ်သည်။
+#5/5
 
 613
 The immediate task is finishing the war and reuniting the nation.
 ချက်ချင်းလုပ်ဆောင်ရမည့် တာဝန် မှာ စစ်ပွဲကို ပြီးမြောက်စေပြီး နိုင်ငံ ပြန်လည်ပေါင်းစည်းရေး ဖြစ်သည်။
+#5/5
 
 614
 Descriptions of the wetback experience have been chronicled and narrated in corridos (ballads) and novels.
-ဝက်ဘက် အတွေ့အကြုံ ၏ ဖော်ပြချက်များအား စင်္ကြံ ( ဇာတ်လမ်းကဗျာများ ) နှင့် ဝတ္ထုများတွင် မှတ်တမ်းတင်ပြီး ဇာတ်ကြောင်းပြောပြထားသည် ။
+wetback အတွေ့အကြုံ ၏ ဖော်ပြချက်များအား စင်္ကြံ ( ဇာတ်လမ်းကဗျာများ ) နှင့် ဝတ္ထုများတွင် မှတ်တမ်းတင်ပြီး ဇာတ်ကြောင်းပြောပြထားသည် ။
+#5/5
 
 615
 The problem of exploitation in apparently voluntary sexual relations has long been with us.
 စိတ်ဆန္ဒအရ လိင်ဆက်ဆံမှုတွင် အမြတ်ထုတ်ခြင်း ပြဿနာသည် ကျွန်ုပ်တို့နှင့်အတူ ရှိနေသည်မှာ ကြာပါပြီ ။
+#5/5
 
 616
 If we think we are bound by a certain take on the world that prevailed in 1787, 1791, or 1868, then we should decide whose sentiments matter.
 ကျွန်ုပ်တို့သည် ၁၇၈၇၊ ၁၇၉၁ သို့မဟုတ် ၁၈၆၈ တွင် အောင်နိုင်ခဲ့သော ကမ္ဘာကြီးအပေါ် တစ်စုံတစ်ရာသော သေချာမှု ဖြင့် ချည်နှောင်ထားသည်ဟု ကျွန်ုပ်တို့ ယူဆပါက၊ ကျွန်ုပ်တို့ သည် ထို ခံယူချက် အကြောင်းအရာများ ဆုံးဖြတ်သင့်သည် ။
+#4/5
 
 617
 While this is being done prayers are recited.
 ဒီလိုလုပ်နေချိန်မှာတွင် ဆုတောင်းတွေ ကို ရွတ်ပြတယ် ။
+#5/5
 
 618
 Sitting alone as a circuit judge, Chief Justice Taney interpreted the constitutional provision to require congressional authorization for suspending the writ.
-တိုက်နယ်တရားသူကြီးအဖြစ် တစ်ယောက်တည်းထိုင်ကာ တရားသူကြီးချုပ် တန်နီ သည် အမိန့်စာချွန်အား ဆိုင်းငံ့ထားရန် အတွက် လွှတ်တော်၏ ခွင့်ပြုချက် လိုအပ်ရန် ဖွဲ့စည်းပုံ အခြေခံဥပဒေပါ ပြဋ္ဌာန်းချက် ကို ဘာသာပြန်ဆိုခဲ့သည် ။
+တိုက်နယ်တရားသူကြီးအဖြစ် တစ်ယောက်တည်းထိုင်ကာ တရားသူကြီးချုပ် Taney သည် အမိန့်စာချွန်အား ဆိုင်းငံ့ထားရန် အတွက် လွှတ်တော်၏ ခွင့်ပြုချက် လိုအပ်ရန် ဖွဲ့စည်းပုံ အခြေခံဥပဒေပါ ပြဋ္ဌာန်းချက် ကို ဘာသာပြန်ဆိုခဲ့သည် ။
+#5/5
 
 619
 Dominant Mendelian gene, you see, easily selected once the right environmental conditions arose.
-အင်အားကြီးသော မန်ဒါလီယန် ဗီဇရင်းမြစ်သည်၊  မှန်ကန်သော ပတ်ဝန်းကျင် အခြေအနေများ ပေါ်ပေါက်လာသည် နှင့် တစ်ချိန်တည်း အလွယ်တကူ ရွေးချယ်နိုင်သည် ။
-# Dropped "you see" in translation
+အင်အားကြီးသော Mendelian ဗီဇရင်းမြစ်သည် သင်မြင်သည့်အတိုင်း  မှန်ကန်သော ပတ်ဝန်းကျင် အခြေအနေများ ပေါ်ပေါက်လာသည် နှင့် တစ်ချိန်တည်း အလွယ်တကူ ရွေးချယ်နိုင်သည် ။
+#4/5
 
 620
 The vaquero or buckaroo is a westerner and the cowboy is a southerner.
-ဗစ်ကဲရို သို့မဟုတ် ဘူကာရို သည် အနောက်တိုင်းသား ဖြစ်ပြီး ကောင်းဘွိုင် သည် တောင်ပိုင်းသား ဖြစ်သည် ။
+vaquero သို့မဟုတ် buckaroo သည် အနောက်တိုင်းသား ဖြစ်ပြီး ကောင်းဘွိုင် သည် တောင်ပိုင်းသား ဖြစ်သည် ။
+#5/5
 
 621
 Chinese cooking lands in Cuba, and Cuban-Chinese cuisine is invented.
-ကျူးဘားရှိ တရုတ်ဟင်းချက်သည့် နယ်မြေများ တွင် ကျူးဘား-တရုတ် ဟင်းလျာများကို တီထွင်ခဲ့သည် ။
+တရုတ် ဟင်းလျာချက်နည်းသည် Cuba သို့ရောက်ရှိလာပီး Cuba-တရုတ် ဟင်းလျာများ ဖန်တီးမှုဖြစ်ပေါ်ခဲ့သည်။
+#5/5
 
 622
 And, of course, the great monuments to the eighteenth-century understanding of freedom are the Constitution and the Bill of Rights.
 စင်စစ်၊ တစ်ဆယ့်ရှစ် ရာစု က လွတ်လပ်မှု ကို နားလည်ခြင်း အတွက် ကြီးမားသော အထိမ်းအမှတ်များ မှာ ဖွဲ့စည်းပုံအခြေခံဥပဒေ နှင့် အခွင့်အရေးများဆိုင်ရာ ဥပဒေကြမ်းဖြစ်သည် ။
+#4/5
 
 623
 Members of car clubs are referred to as  clubbers,  and they compete for trophies, ride in car caravans, and often participate in fund-raising events.
 ကား ကလပ်အသင်းများ၏ အဖွဲ့ဝင်များ ကို အဖွဲ့ဝင်များ များအဖြစ် ရည်ညွှန်းကြပြီး ဆုဖလားများအတွက် ယှဉ်ပြိုင်ကြကာ ၊ ကား ယာဥ်တန်းများ ဖြင့် စီးနင်းကာ ၊ ရံပုံငွေရှာဖွေသည့်ပွဲများတွင် မကြာခဏ ပါဝင်လေ့ရှိကြသည် ။
+#5/5
 
 624
 During the preschool and elementary school years, thought is largely tied to the here-and-now.
 မူကြို နှင့် အခြေခံ မူလတန်း စာသင်နှစ်များအတွင်း ၊ အတွေးအမြင် သည် ဒီအချိန်ဒီနေရာနှင့် များစွာ ဆက်စပ်နေပါသည် ။
+#5/5
 
 625
 1 People do a better job than computers of adjusting fabric alignment through sewing machines and compensating for prior sewing and cutting errors.
-အပ်ချုပ်စက်များမှတစ်ဆင့် အထည်များ ချိန်ညှိခြင်း နှင့် ကြိုတင်အပ်ချုပ်ခြင်း နှင့် ဖြတ်စ အမှားများအတွက် လျော်ကြေးပေးခြင်းများကို အလိုက်သင့် ပြင်ဆင်ရာတွင် လူများသည် ကွန်ပျူတာများ ထက် ပိုမိုကောင်းမွန်သော အလုပ် ကို လုပ်သည် ။
+အပ်ချုပ်စက်များမှတစ်ဆင့် အထည်များ ချိန်ညှိခြင်း နှင့် ကြိုတင်အပ်ချုပ်ခြင်း နှင့် ဖြတ်စ အမှားများအတွက် ပြန်လည်ကာမိစေရန် အလိုက်သင့် ပြင်ဆင်ရာတွင် လူများသည် ကွန်ပျူတာများ ထက် ပိုမိုကောင်းမွန်သော အလုပ် ကို လုပ်သည် ။
+#4/5
 
 626
 Children would knock on the doors of their neighbors and
 ကလေးတွေက သူတို့ အိမ်နီးချင်းတွေရဲ့ တံခါးများကို လာခေါက်လိမ့်မယ် ပြီးတော့
+#5/5
 
 627
 The legal philosophy of the Confederacy triumphed, both in substance and in style.
 ကွန်ဖက်ဒရိတ် ၏ ဥပဒေရေးရာ အတွေးအခေါ် သည် အနှစ်သာရ အားဖြင့် လည်းကောင်း ၊ ပုံစံ အားဖြင့် လည်းကောင်း အောင်ပွဲခံခဲ့သည် ။
+#5/5
 
 628
 It was not a bicultural or binational position, but rather a position between cultures, a  hanging in space  position.
-၎င်းသည် ယဉ်ကျေးမှုပေါင်းစပ်ခြင်း တစ်ခု သို့မဟုတ် လူမျိုးနှစ်ခုပေါင်းစပ်သော အနေအထား မဟုတ် ၊ သော်လည်း ယဉ်ကျေးမှုများ အကြား အနေအထား တစ်ခု ၊ အာကာသ အနေအထား တွင် တွဲလောင်း တစ်ခု ဖြစ်သည် ။
+၎င်းသည် ယဉ်ကျေးမှုနှစ်ခုပေါင်းစပ်ခြင်း တစ်ခု သို့မဟုတ် လူမျိုးနှစ်ခုပေါင်းစပ်သော အနေအထား မဟုတ် ၊ သော်လည်း ယဉ်ကျေးမှုများ အကြား အနေအထား တစ်ခု ၊ အာကာသ အနေအထား တွင် တွဲလောင်း တစ်ခု ဖြစ်သည် ။
+#5/5
 
 629
 61 Although eventually young people  gure out that effort can compensate for low ability, girls may conclude that mastering complex math is not worth the cost'extremely high effort.
-နောက်ဆုံးတွင် လူငယ်များသည် ထို အားထုတ်မှု က စွမ်းရည်နိမ့်ကျမှု အတွက် လျော်ကြေးပေးမည် ဟု တွေးတောကြ သော်လည်း၊ ရှုပ်ထွေးသောသင်္ချာ ကို ကျွမ်းကျင်အောင်ပြုလုပ်ခြင်း သည် ကုန်ကျစရိတ် အလွန်မြင့်မားသော အားထုတ်မှု နှင့် မထိုက်တန်ကြောင်း မိန်းကလေးများက ကောက်ချက်ချနိုင်သည် ။
+နောက်ဆုံးတွင် လူငယ်များသည် ထို အားထုတ်မှု က စွမ်းရည်နိမ့်ကျမှု အတွက် ကာမိစေမည်ဟု တွေးတောကြ သော်လည်း၊ ရှုပ်ထွေးသောသင်္ချာ ကို ကျွမ်းကျင်အောင်ပြုလုပ်ခြင်း သည် ကုန်ကျစရိတ် အလွန်မြင့်မားသော အားထုတ်မှု နှင့် မထိုက်တန်ကြောင်း မိန်းကလေးများက ကောက်ချက်ချနိုင်သည် ။
+#4/5
 
 630
 It would get really big, take us from our beds and never bring us back home  (November 1974).
 တကယ့်ကို ကြီးကြီးမားမား ဖြစ်သွားလိမ့်မယ် ၊ ငါတို့ကို ငါတို့ရဲ့ အိပ်ယာကနေ ခေါ်သွား ပြီး ဘယ်တော့မှ ငါတို့ကို အိမ်ပြန်မပို့ဘူး (နိုဝင်ဘာ ၁၉၇၄) ။
+#5/5
 
 631
 The same is true of the sense of nationhood.
 အမျိုးသားရေး သဘောတရား ရဲ့ မှန်ကန်မှု မှာလည်း တူတူပါပဲ ။
+#5/5
 
 632
 C. P. Snow wrote of the two cultures, science and the humanities, never to mix.
-စီ. ပီ. စနိုး သည် ယဉ်ကျေးမှု နှစ်ခု ၊ သိပ္ပံ နှင့် လူမှုပညာရပ်များကို ၊ ဘယ်တော့မှ ရောနှောရန် မရှိအောင် ရေးခဲ့သည် ။
+C.P. Snow သည် ယဉ်ကျေးမှု နှစ်ခု ၊ သိပ္ပံ နှင့် လူမှုပညာရပ်များကို ၊ ဘယ်တော့မှ ရောနှောရန် မရှိအောင် ရေးခဲ့သည် ။
+#5/5
 
 633
 This is most apparent in colonnades, which Vincent Scully has likened to hoplites massed in a phalanx.
-ဗင်းဆင့် စကူလီ သည် ရှေးခေတ်ဂရိခြေလျင်တပ်များ တစ်ခုအတွင်း စုပြုံနေသော ရှေးခေတ်ဂရိစစ်သားများ နှင့် နှိုင်းယှဉ်ထားသည့် ၊ ကော်လံတန်းများ တွင် အထင်ရှားဆုံးဖြစ်သည် ။
+Vincent Scully သည် ရှေးခေတ်ဂရိခြေလျင်တပ်များ တစ်ခုအတွင်း စုပြုံနေသော ရှေးခေတ်ဂရိစစ်သားများ နှင့် နှိုင်းယှဉ်ထားသည့် ၊ ကော်လံတန်းများ တွင် အထင်ရှားဆုံးဖြစ်သည် ။
+#5/5
 
 634
 Note that a very simple, compact description has captured these features of the nonequilibrium system, and work can be extracted as the gas system flows to equilibrium.
 အလွန် ရိုးရှင်းပြီး ၊ ကျစ်လျစ်သော ဖော်ပြချက် သည် ဟန်ချက်မညီသည့် စနစ် ၏ ဤ အင်္ဂါရပ်များ ကို ဖမ်းယူထားပြီး ၊ အလုပ် က ဓာတ်ငွေ့ စနစ် ကို ဟန်ချက်ညီခြင်း ဆီသို့ စီးဆင်းအောင်  ထုတ်ယူနိုင်သည်ကို သတိပြုပါ ။
+#4/5
 
 635
 I, in turn, happen to have desires such that I would be happier with rather more pears than apples.
 တစ်ဖန် ကျွန်တော့် မှာ ပန်းသီးထက် သစ်တော်သီး နဲ့ ပိုပျော်ချင်စရာကောင်းသော ဆန္ဒတွေ ရှိလာတယ် ။
+#4/5
 
 636
 In eVect, as we shall see later, biospheres may maximize the average sustained growth of their own  dimensionality.
-အီဗက် မှာ ၊ နောင်ပိုင်း တွင် ကျွန်ုပ်တို့ တွေ့မြင်ရမည့် အတိုင်း ၊ ဇီဝနယ်မြေများ သည် ၎င်းတို့၏ ကိုယ်ပိုင် အတိုင်းအတာ ၏ ပျမ်းမျှ တိုးတက်မှု ကို အမြင့်မားဆုံး တည်တံ့စေနိုင်သည် ။
+Evect မှာ ၊ နောင်ပိုင်း တွင် ကျွန်ုပ်တို့ တွေ့မြင်ရမည့် အတိုင်း ၊ ဘိုင်အိုစပီးယားများ သည် ၎င်းတို့၏ ကိုယ်ပိုင် အတိုင်းအတာ ၏ ပျမ်းမျှ တိုးတက်မှု ကို အမြင့်မားဆုံး တည်တံ့စေနိုင်သည် ။
+#5/5
+
 
 637
 The sense of common destiny is nowhere better expressed than in the Jewish  Kol Jehudim eruvim ze bze [All Jews are responsible for each other].
-ဂျူးလူမျိုးများ ၏ ကောလ ယေဟုဒိမ် အီယူဗန် ဇီ ဘီးစ် တွင် ယေဘူယျ ကံကြမ္မာရဲ့ ခံစားမှု ကို ဖော်ပြခြင်း ထက် မည်သည့်နေရာတွင်မျှ ပိုကောင်းကြောင်း ဖော်ပြခြင်းမရှိပါ [ဂျူး အားလုံး သည် အချင်းချင်းတွင် တာဝန်ရှိသည်] ။
+ဂျူးလူမျိုးများ ၏ Kol Jehudim eruvim ze bze တွင် ယေဘူယျ ကံကြမ္မာရဲ့ ခံစားမှု ကို ဖော်ပြခြင်း ထက် မည်သည့်နေရာတွင်မျှ ပိုကောင်းကြောင်း ဖော်ပြခြင်းမရှိပါ [ဂျူး အားလုံး သည် အချင်းချင်းတွင် တာဝန်ရှိသည်] ။
+#5/5
 
 638
 The compromises and obligations of life under the law hardly makes sense to individuals standing alone, preoccupied by their own values and their own needs.
 ဥပဒေ အောက်တွင် ရှိသော ဘဝ ၏ အပေးအယူများ နှင့် တာဝန်ဝတ္တရားများ သည် ၊ ၎င်းတို့၏ ကိုယ်ပိုင် တန်ဖိုးများ နှင့် ၎င်းတို့၏ ကိုယ်ပိုင် လိုအပ်ချက်များ ဖြင့် နစ်မွန်းနေသူ တစ်ဦးချင်းစီ အတွက် အဓိပ္ပါယ်မရှိသလောက်ပါပဲ ။
+#5/5
 
 639
 Conversely, if new precedents never sent out ripples, the common law could hardly evolve at all.
 အပြန်အလှန်အားဖြင့် ၊ အစဥ်အလာ အသစ်များ သည် လှိုင်းဂယက်များ ကို ဘယ်တော့မှ မထုတ်လွှတ်ပါက ၊ ယေဘူယျ ဥပဒေ သည် လုံးဝ ပြောင်းလဲသွားမည်မဟုတ်ပါ ။
+#4/5
 
 640
 Names, such as  Sad Girl
 ဝမ်းနည်းစရာ မိန်းကလေး ကဲ့သို့သော နာမည်များ
+#5/5
 
 641
 A renowned proponent of Mexican Spanish folklore in the Southwest and California was Charles F. Lummis (1859-1928), a self-taught photographer, ethnologist, musicologist, journalist, and the founder of the Southwest Museum in Los Angeles.
-အနောက်တောင်ပိုင်း နှင့် ကယ်လီဖိုးနီးယား ရှိ မက္ကဆီကန် စပိန် ရိုးရာပုံပြင်များ ၏ နာမည်ကြီး ထောက်ခံသူမှာ ချားလ် အက်ဖ်. လားမန့်စ် (၁၈၅၉-၁၉၂၈) သည် ၊ ကိုယ်တိုင်သင်ကြားသော ဓာတ်ပုံဆရာ၊ လူမျိုးရေး ၊ ဂီတပညာရှင် ၊ သတင်းစာဆရာ နှင့် လော့စ်အိန်ဂျလိစ် ရှိ အနောက်တောင်ပိုင်း ပြတိုက်ကို တည်ထောင်သူ တစ်ဦး ဖြစ်သည် ။
+အနောက်တောင်ပိုင်း နှင့် California ရှိ မက္ကဆီကန် စပိန် ရိုးရာပုံပြင်များ ၏ နာမည်ကြီး ထောက်ခံသူမှာ Charles F. Lummis (၁၈၅၉-၁၉၂၈) သည် ၊ ကိုယ်တိုင်သင်ကြားသော ဓာတ်ပုံဆရာ၊ လူမျိုးရေး ၊ ဂီတပညာရှင် ၊ သတင်းစာဆရာ နှင့် လော့စ်အိန်ဂျလိစ် ရှိ အနောက်တောင်ပိုင်း ပြတိုက်ကို တည်ထောင်သူ တစ်ဦး ဖြစ်သည် ။
+#5/5
 
 642
 Intuitively, it seems unlikely that such a planet of nonliving complex entities could have arisen spontaneously since the big bang.
-ပင်ကိုယ်အားဖြင့် ၊ ဤကဲ့သို့သော သက်ရှိမဟုတ်သော ရှုပ်ထွေးသော ကမ္ဘာဂြိုဟ်ကြီး သည် ပေါက်ကွဲပြီး ကတည်းက သူ့အလိုလို ဖြစ်ပေါ်လာနိုင်သည် ဟု မဖြစ်နိုင်ဘူးလို့ ထင်ပါတယ် ။
+ပင်ကိုယ်အားဖြင့် ၊ ဤကဲ့သို့သော သက်ရှိမဟုတ်သော ရှုပ်ထွေးသော ကမ္ဘာဂြိုဟ်ကြီး သည် မဟာပေါက်ကွဲမှုကြီးပြီး ကတည်းက သူ့အလိုလို ဖြစ်ပေါ်လာနိုင်သည် ဟု မဖြစ်နိုင်ဘူးလို့ ထင်ပါတယ် ။
+#5/5
 
 643
 So we are entering an entirely new domain.
 ထို့ကြောင့် ကျွန်ုပ်တို့သည် လုံးဝ နယ်ပယ် အသစ် တစ်ခု သို့ ဝင်ရောက်နေပါသည် ။
+#5/5
 
 644
 The general principle of equal treatment, as we have elaborated it, lends itself to the argument for limiting freedom of speech.
 တန်းတူရည်တူ ဆက်ဆံခြင်းဆိုင်ရာ ယေဘူယျ အခြေခံသဘောတရား သည် ၊ ကျွန်ုပ်တို့ ၎င်း ကို အသေးစိတ်ဖော်ပြထားသည့် အတိုင်း ၊ လွတ်လပ်စွာပြောဆိုခွင့် ကို ကန့်သတ်ခြင်း အတွက် အငြင်းအခုံ ကို အထောက်အကူပြုပါသည်။
+#5/5
 
 645
 Publications by early American travelers to the Southwest and Mexico depict the Spanish Mexicans in not only horrendous terms, but with extreme passion.
 အနောက်တောင် နှင့် မက္ကဆီကို သို့ အမေရိကန် ခရီးသည်များ ၏ အစောပိုင်း ထုတ်ဝေမှုများ သည် စပိန်မက္ကဆီကန်လူမျိုးများ ကို ကြောက်မက်ဖွယ်ကောင်းသော အသုံးအနှုန်းများ ဖြင့်သာမက ၊ အလွန်အမင်း စိတ်အားထက်သန်မှု ဖြင့် ပုံဖော်ထားသည် ။
+#4/5
 
 646
 He eventually added a cloister, a gallery, and a tower.
 နောက်ဆုံးတွင် သူ သည် ခရစ်ယာန်ဘုရားရှိခိုးကျောင်းဆောင် တစ်ခု ၊ ပြခန်း တစ်ခု ၊ နှင့် မျှော်စင် တစ်ခု တို့ကို ထည့်သွင်းခဲ့သည် ။
+#5/5
 
 647
 This is the way we live today, Gehry seems to be saying, why not enjoy it?
 ထိုအရာ သည်မှာ ယနေ့ ကျွန်ုပ်တို့ နေထိုင်ပုံ ၊ အဘယ်ကြောင့် ၎င်းကို မနှစ်သက်သနည်း ဟု ၊ Gehry က ပြောနေပုံရသည် ။
+#4/5
 
 648
 My favorite example remains the frog and the fly.
 ကျွန်တော့် အကြိုက်ဆုံး ဥပမာ ကတော့ ဖား နဲ့ ယင်ကောင် ကျန်ရစ်သည် ။
+#5/5
 
 649
 The energy of the total system would be lowered if the dipoles flipped orientation to come closer to one or the other of the ground energy states.
-ဒိုင်ပိုးစ် များသည် အခြားသော မြေပြင် စွမ်းအင် ပြည်နယ် တစ်ခု သို့မဟုတ် အခြားတစ်ခု နှင့် ပိုမိုနီးကပ်လာစေရန် လမ်းကြောင်းပြောင်းသွား ပါက စုစုပေါင်း စနစ် ၏ စွမ်းအင် လျော့ကျသွားမည်ဖြစ်သည် ။
+Dipoles များသည် အခြားသော မြေပြင် စွမ်းအင် ပြည်နယ် တစ်ခု သို့မဟုတ် အခြားတစ်ခု နှင့် ပိုမိုနီးကပ်လာစေရန် လမ်းကြောင်းပြောင်းသွား ပါက စုစုပေါင်း စနစ် ၏ စွမ်းအင် လျော့ကျသွားမည်ဖြစ်သည် ။
+#5/5
 
 650
 That is why it is disconcerting if dress and decor are not in harmony.
 ထို့ကြောင့် ဝတ်စားဆင်ယင်မှု နှင့် အပြင်အဆင် လိုက်လျောညီထွေမှု မရှိ ဖြစ်မည် ဆိုပါက ထိုအရာသည် စိတ်ပျက်စရာဖြစ်သည် ။
+#5/5
 
 651
 If Godzilla' is fitter when coupled to the first species' econeighbors than that species, that species goes extinct in its niche and is replaced by Godzilla'.
 အကယ်၍ ဂေါ်ဇီလာ သည် ထို မျိုးစိတ်များ ထက် ပထမ မျိုးစိတ်များ ၏ အိမ်နီးချင်းများ နှင့် ပေါင်းစည်း သောအခါ ပိုမိုသင့်လျော် ပါက ၊ ထို မျိုးစိတ်များ သည် ၎င်း၏ နယ်ပယ် တွင် မျိုးသုဉ်းသွားကာ ဂေါ်ဇီလာ ဖြင့် အစားထိုးသွားမည် ဖြစ်သည် ။
+#5/5
 
 652
 for in the image of God he made Adam.
 ဘုရားသခင် သည် အာဒံ ကို သူ ၏ ပုံသဏ္ဍာန်တော် နှင့်အညီ ဖန်ဆင်းတော်မူသည် ။
+#5/5
 
 653
 Adobe homes and buildings provide a sense of security and protection from outside noise with their two-to-four-foot thick walls.
-အုတ် အိမ်များ နှင့် အဆောက်အဦများ သည် သူတို့၏ နှစ်ပေ မှ လေးပေ အထူရှိသော နံရံများဖြင့် ပြင်ပမှ ဆူညံသံများ ကို လုံခြုံမှု နှင့် အကာအကွယ် ခံစားတတ်မှုကို ပေးစွမ်းသည် ။
+အုတ် အိမ်များ နှင့် အဆောက်အဦများ သည် သူတို့၏ နှစ်ပေ မှ လေးပေ အထူရှိသော နံရံများဖြင့် ပြင်ပမှ ဆူညံသံများ ကို လုံခြုံမှု နှင့် အကာအကွယ်ရှိသည့် ခံစားတတ်မှုကို ပေးစွမ်းသည် ။
+#4/5
 
 654
 Pachucas were the girlfriends of the pachucos, but they also had a dress style all their own.
-ပါချူးကပ်စ် သည် မက္ကဆီကို-အမေရိကန် လူငယ် ဂိုဏ်းဝင်များ ၏ ရည်းစားများ ဖြစ်သည် ၊ သို့သော် သူတို့အားလုံး တွင် သူတို့၏ ကိုယ်ပိုင် ဝတ်စားဆင်ယင်မှု တစ်ခု ရှိသည် ။
+Pachucas သည် မက္ကဆီကို-အမေရိကန် လူငယ် ဂိုဏ်းဝင်များ ၏ ရည်းစားများ ဖြစ်သည် ၊ သို့သော် သူတို့အားလုံး တွင် သူတို့၏ ကိုယ်ပိုင် ဝတ်စားဆင်ယင်မှု တစ်ခု ရှိသည် ။
+#4/5
 
 655
 Lego World could build up the machine tools to build other objects including other tools.
-လီဂိုဝေါလ် သည် အခြား ကိရိယာများ အပါအဝင် အခြား အရာဝတ္ထုများ ကို တည်ဆောက်ရန် အတွက် စက်ကိရိယာများ ကို တည်ဆောက်နိုင်သည် ။
+Lego ကမ္ဘာ သည် အခြား ကိရိယာများ အပါအဝင် အခြား အရာဝတ္ထုများ ကို တည်ဆောက်ရန် အတွက် စက်ကိရိယာများ ကို တည်ဆောက်နိုင်သည် ။
+#4/5
+
 
 656
 That can be our control tower,  he suggests to Vance, pointing to a corner by a bookshelf.
 အဲဒါက ကျွန်တော် တို့ရဲ့ ထိန်းချုပ် မျှော်စင် ဖြစ်နိုင်တယ် ၊ စာအုပ်စင် က ထောင့် တစ်ခု ကို ညွှန်ပြပြီး ဗန်းစ် ကို အကြံပေးသည် ။
+#5/5
 
 657
 Thus, while there are vastly many diVerent proteins, the number of eVectively diVerent shapes may only be on the order of a hundred million.
 ထို့ကြောင့် ၊ များစွာသော ပရိုတင်း မျိုးကွဲများရှိနေ သော်လည်း ၊ မျိုးကွဲ ပုံသဏ္ဍာန် အရေအတွက် အတိအကျ သည် သန်းတစ်ရာ ၏ အစဉ်လိုက်သာ ဖြစ်နိုင်သည်။
+#5/5
 
 658
 The chaotic regime contrasts starkly with the ordered regime.
 ဖရိုဖရဲ အစိုးရ သည် အမိန့်ပေးထားသော အစိုးရ နှင့် လုံးဝ ဆန့်ကျင်ဘက်ဖြစ်သည် ။
+#4/5
 
 659
 Changes in the values of spins on the edges that change the areas and volumes of the tetrahedra can be thought of as deforming the geometry so that it warps in dierent ways.
 တက်ဒါဟီဒါ ၏ ဧရိယာများ နှင့် ထုထည်များ ကို ပြောင်းလဲစေသော အစွန်းများ ရှိ အလှည့်များ ၏ တန်ဖိုးများ တွင် အပြောင်းအလဲများ သည် ဂျီသြမေတြီ ကို ပုံပျက်စေသည် ဟု ယူဆနိုင်ပြီး ၎င်း သည် ကွဲပြားသော နည်းလမ်းများဖြင့် ပုံပျက်သွားစေသည် ။
+#5/5
 
 660
 I turn, in the final section of this chapter, to yet another puzzle concerning what I call a natural game.
 ဒီအခန်း ရဲ့ နောက်ဆုံး အပိုင်း မှာ ၊ သဘာဝ ဂိမ်း တစ်ခု လို့ ကျွန်တော် ခေါ်သော နောက်ထပ် ပဟေဋ္ဌိ တစ်ခု အကြောင်း ဆီကို ၊ ကျွန်တော် ပြောင်းလိုက်သည် ။
+#5/5
 
 661
 With the assassination in April 1865 of the man who had preached a new order of ideas, the United States became a country obsessed with power.
 ၁၈၆၅ ခုနှစ် ဧပြီလ တွင် အကြံအစည် အသစ်များ ကို ဟောပြောခဲ့သူ ၏ လုပ်ကြံသတ်ဖြတ်မှု နှင့်အတူ ၊ အမေရိကန်ပြည်ထောင်စု သည် အာဏာ ကို အစွဲအလမ်းကြီးသော နိုင်ငံ တစ်ခု ဖြစ်လာခဲ့သည် ။
+#5/5
 
 662
 She went on to write Mexican Village, a novel that incorporated many of the Mexican people's folk customs and traditions.
 သူမ သည် မက္ကဆီကို လူမျိုးများ ၏ ကျေးလက်ဓလေ့များ နှင့် ရိုးရာဓလေ့ များစွာ ကို ပေါင်းစပ်ထားသည့် ၊ မက္ကဆီကန် ကျေးရွာ ဝတ္ထု တစ်ပုဒ် ကို ဆက်လက် ရေးသားခဲ့သည် ။
+#5/5
 
 663
 22 Despite these strict legislated standards'with wage levels updated from time to time'widespread violations in apparel workplaces have become commonplace in the 1990s.
 ၂၂ ဤ တင်းကျပ်သော ဥပဒေပြု စံနှုန်းများ ကြားမှ လုပ်အားခ အဆင့်များ ကို အခါအားလျော်စွာ မွမ်းမံပြင်ဆင်ထား သော်လည်း ၊ အထည် လုပ်ငန်းခွင်များ တွင် အနှံ့အပြား ချိုးဖောက်မှုများ သည် ၁၉၉၀ ပြည့်လွန်နှစ်များတွင် ပုံမှန်တိုင်းလို ဖြစ်လာသည် ။
+#5/5
 
 664
 Thus, as the diversity of the objects in the web increases, the diversity of prospective niches for new goods and services increases even more rapidly!
-ထို့ကြောင့် ၊ ဝဘ် ရှိ အရာဝတ္ထုများ ၏ အမျိုးအစား တိုးလာသည် နှင့်အမျှ ကုန်စည် နှင့် ဝန်ဆောင်မှု အသစ်များ အတွက် အလားအလာရှိသော စီးပွားအခွင့်အလမ်းများ ကွဲပြားမှု သည် ပို၍ပင် လျင်မြန်စွာ တိုးလာပါသည် ။
+ထို့ကြောင့် ၊ ကွန်ယက် ရှိ အရာဝတ္ထုများ ၏ အမျိုးအစား တိုးလာသည် နှင့်အမျှ ကုန်စည် နှင့် ဝန်ဆောင်မှု အသစ်များ အတွက် အလားအလာရှိသော စီးပွားအခွင့်အလမ်းများ ကွဲပြားမှု သည် ပို၍ပင် လျင်မြန်စွာ တိုးလာပါသည် ။
+#5/5
 
 665
 The paradox of the American approach toward equality is that though we trail European societies in our concern about economic equality and wealth discrimination, we lead the world in other areas of egalitarian thinking.
-တန်းတူညီမျှမှု ဆီသို့ အမေရိကန် ချဉ်းကပ်မှု ၏ ဝိရောဓိ မှာ ကျွန်ုပ်တို့ သည် စီးပွားရေး တန်းတူညီမျှမှု နှင့် ချမ်းသာကြွယ်ဝမှုဆိုင်ရာ ခွဲခြားဆက်ဆံမှု နှင့်ပတ်သက်၍ ဥရောပ လူ့အဖွဲ့အစည်းများ ကို လိုက်နေသော်လည်း ၊ ကျွန်တော်တို့ သည် သာတူညီမျှ တွေးခေါ်မှုဆိုင်ရာ အခြား နယ်ပယ်များ တွင် ကမ္ဘာ ကို ဦးဆောင်နေသည် ။
+တန်းတူညီမျှမှု ဆီသို့ အမေရိကန် ချဉ်းကပ်မှု ၏ ဝိရောဓိ မှာ ကျွန်ုပ်တို့ သည် စီးပွားရေး တန်းတူညီမျှမှု နှင့် ချမ်းသာကြွယ်ဝမှုဆိုင်ရာ ခွဲခြားဆက်ဆံမှု နှင့်ပတ်သက်၍ ဥရောပ လူ့အဖွဲ့အစည်းများ ကိုအနောက်မှလိုက်နေရသော်လည်း ၊ ကျွန်တော်တို့ သည် သာတူညီမျှ တွေးခေါ်မှုဆိုင်ရာ အခြား နယ်ပယ်များ တွင် ကမ္ဘာ ကို ဦးဆောင်နေသည် ။
+#5/5
 
 666
 96 And parents and coaches who criticize rather than encourage and do not let players forget about defeat prompt intense anxiety in some youngsters.
 ၉၆ ပြီးတော့ အားပေးရမည့် အစား ကစားသမားများ အား ရှုံးနိမ့်မှု အား မေ့လျော့ခြင်း ထက် ဝေဖန်ကြသော မိဘများ နှင့် နည်းပြများ သည် အချို့သော လူငယ်များ တွင် ပြင်းထန်သော စိုးရိမ်ပူပန်မှု ကို လှုံ့ဆော်စေသည်။
+#5/5
 
 667
 If the initial expansion is exponential, then slows to linear, as in the inflationary hypothesis or perhaps in this purely quantum approach, then the particle-horizon problem may disappear.
 ကနဦး တိုးချဲ့ခြင်း သည် ထပ်ညွှန်းကိန်းဂဏန်း ဖြစ်လျှင် ၊ မျဉ်းကြောင်း သို့ နှေးသွားမည် ၊ ငွေကြေးဖောင်းပွမှု ကဲ့သို့ အယူအဆ သို့မဟုတ် ဤ ကွမ်တမ် ချဉ်းကပ်မှု သက်သက် ဖြစ်နိုင်သည် ၊ ထို့နောက် ဒြပ်မှုန်-မိုးကုတ်စက်ဝိုင်း ပြဿနာ ပျောက်ကွယ်သွားနိုင်သည် ။
+#5/5
 
 668
 In San Antonio the performance of Los Pastores at Our Lady of Guadalupe Church as been ongoing since 1913.
-ဆန် အန်တိုနီယို တွင် ၁၉၁၃ ခုနှစ် ကတည်းက ကျွန်ုပ်တို့ ၏ ဂွာဒါလူပီ အမျိုးသမီး ၏ ဘုရားကျောင်း တွင် လော့စ် ပက်စတိုရေး ၏ ဖျော်ဖြေတင်ဆက်မှု ကို ပြုလုပ်နေဆဲဖြစ်သည် ။
+San Antonio တွင် ၁၉၁၃ ခုနှစ် ကတည်းက ကျွန်ုပ်တို့ ၏ ဂွာဒါလူပီ အမျိုးသမီး ၏ ဘုရားကျောင်း တွင် လော့စ် ပက်စတိုရေး ၏ ဖျော်ဖြေတင်ဆက်မှု ကို ပြုလုပ်နေဆဲဖြစ်သည် ။
+#5/5
 
 669
 Of course, if we could not solve our chosen ways to make livings, we would be dead.
 ဒါပေါ့ ၊ ကျွန်ုပ်တို့ ရွေးချယ်ထားသော အသက်မွေးဝမ်းကြောင်း ပြုလုပ်ရန် နည်းလမ်းများ ကို မဖြေရှင်းနိုင် ပါက ၊ ကျွန်ုပ်တို့ သေဆုံးသွားနိုင်သည် ။
+#5/5
 
 670
 We observed subtly dierent shades of brown grass, trees, dirt, dust, hawks, mice, and agreed.)
 အညိုရောင် မြက် ၊ သစ်ပင်များ ၊ ဖုန်မှုန့်များ ၊ သိမ်းငှက်များ ၊ ကြွက်များ ၏ မတူညီသော အရိပ်များ ကို သိမ်မွေ့စွာ သတိပြုမိ ပြီး သဘောတူသည် ။
+#5/5
 
 671
 The arabesques and curlicues of the moldings and architectural ornaments in a French salon mirrored the flouncing ribbons that adorned the women's dresses and the frills of the men's shirts.
 ပြင်သစ် အလှပြင်ဆိုင် ရှိ ကနုတ်ပန်းများ နှင့် ပုံသွင်းထားသည့် အလှဆင်ထားသောကောက်ကြောင်းများ နှင့် ဗိသုကာအဆင်တန်ဆာများ သည် အမျိုးသမီးများ ၏ ၀တ်စုံများ နှင့် အမျိုးသားများ၏ ရှပ်အင်္ကျီများ ရဲ့ အနားတွန့်များ ကို စီခြယ်ထားသော ဖဲကြိုးများဖြင့် ထင်ဟပ်စေသည် ။
+#5/5
 
 672
 As with other  low-ability  groups, teachers often have lower expectations for transition-class students and teach them in a less stimulating fashion than they do other children.
 အခြား စွမ်းရည်နိမ့် အဖွဲ့များ ကဲ့သို့ပင် ၊ ဆရာများ သည် အကူးအပြောင်း-အတန်း ကျောင်းသားများ အတွက် မျှော်လင့်ချက် နည်းပါးကြ ပြီး သူတို့ကို အခြား ကလေးများ ထက် လှုံ့ဆော်မှု နည်းသော ပုံစံ တစ်ခု ဖြင့် သင်ကြားပေးသည် ။
+#5/5
 
 673
 They imagine a dyadic conception of government'the individual pitted against the state.
 သူတို့ သည် တစ်ဦးချင်း ဖက်ပြိုင်အံတုသည့် နိုင်ငံတော် ကို ဆန့်ကျင်ဘက်ပြုသော အစိုးရ ၏ ပြင်းထန်သော အတွေးအမြင် တစ်ခု လို့ ထင်မှတ်သည် ။
+#5/5
 
 674
 Children's earliest efforts at make-believe also reveal how challenging they  nd the task of detaching thought from reality.
 ကလေးများ ၏ အစောဆုံး ယုံကြည်မှု တည်ဆောက်ရာတွင် ကြိုးပမ်းမှုများ သည် လက်တွေ့ဘဝ မှ အတွေးများ ကို ဖယ်ထုတ်ရန် နှင့် သူတို့ အပေါ် မည်မျှ စိန်ခေါ်ကြကြောင်း ကိုလည်း ဖော်ပြသည် ။
+#5/5
 
 675
 Left to its own devices, this reaction is exergonic and, in the presence of excess trimers compared to the equilibrium ratio of hexamer to trimers, will flow exergonically toward equilibrium by synthesizing the hexamer.
-၎င်း၏ ကိုယ်ပိုင်စက် ပစ္စည်းများ တွင် ကျန်ရစ်သည် ၊ ဤ တုံ့ပြန်မှုသည် စွမ်းအင်ထုတ်ခြင်း ဖြစ်ပြီး ၊ ဟတ်ဇာမာ နှင့် ထရစ်မာများ ၏ မျှခြေ အချိုးအစား နှင့် နှိုင်းယှဉ် ပါက ပိုလျှံနေသော ထရစ်မာများ သည် ရှေ့မှောက်တွင် ၊ ဟတ်ဇာမာ ကို ပေါင်းစပ်ခြင်း ဖြင့် မျှခြေ ဆီသို့ စွမ်းအင်ထုတ်ပြီး စီးဆင်းလိမ့်မည် ။
+၎င်း၏ ကိုယ်ပိုင်စက် ပစ္စည်းများ တွင် ကျန်ရစ်သည် ၊ ဤ တုံ့ပြန်မှုသည် စွမ်းအင်ထုတ်ခြင်း ဖြစ်ပြီး ၊ hexamer နှင့် ထရစ်မာများ ၏ မျှခြေ အချိုးအစား နှင့် နှိုင်းယှဉ် ပါက ပိုလျှံနေသော ထရစ်မာများ သည် ရှေ့မှောက်တွင် ၊ ဟတ်ဇာမာ ကို ပေါင်းစပ်ခြင်း ဖြင့် မျှခြေ ဆီသို့ စွမ်းအင်ထုတ်ပြီး စီးဆင်းလိမ့်မည် ။
+#5/5
 
 676
 God is mentioned only as  nature's God,  by virtue of which every people is entitled to  a separate and equal station  in the community of nations.
 ဘုရားသခင် သည် သဘာဝတရား ၏ ဘုရားသခင် အဖြစ် သာလျှင် ဖော်ပြခြင်းခံရသည် ကို အရင်းခံ၍ လူမျိုးစု အသိုက်အဝန်း တွင် တန်းတူညီမျှသော အဆင့်အတန်း နှင့် လူတိုင်း သည် သီးခြားစီ ခံစားခွင့် ရှိသည် ။
+#5/5
 
 677
 More, we can actually predict their size distribution.
 နောက်ထပ် ၊ ကျွန်ုပ်တို့ သည် သူတို့ ၏ အရွယ်အစား ဖြန့်ဖြူးမှု ကို အမှန်တကယ် ခန့်မှန်းနိုင်သည် ။
+#5/5
 
 678
 H. H. Richardson's influence was considerably shorter-lived, but for at least 20 years Richardsonian Romanesque rolled over the United States like an  aesthetic Juggernaut,  in Cram's colorful phrase.
-အိတ် ၊ အိတ် ၊ ရစ်ချက်ဆန် ၏ လွှမ်းမိုးမှု သည် သိသိသာသာ တိုတောင်း သော်လည်း ၊ ခါရမ်း ၏ ရောင်စုံစကားစု တွင် ၊  ရစ်ချက်ဆန်နီရန် ရိုမန်နီစကွီး သည် ဂျက်ဂါနက် ရသပညာ တစ်ခု ကဲ့သို့ အမေရိကန်ပြည်ထောင်စု တွင် အနည်းဆုံး အနှစ် ၂၀ ကြာ ဖြတ်သန်းခဲ့သည် ။
+H. H. Richardson ၏ လွှမ်းမိုးမှု သည် သိသိသာသာ တိုတောင်း သော်လည်း ၊ ခါရမ်း ၏ ရောင်စုံစကားစု တွင် ၊  Richardsonian Romanasque သည် ကြီးမားသော ရသပညာ တစ်ခု ကဲ့သို့ အမေရိကန်ပြည်ထောင်စု တွင် အနည်းဆုံး အနှစ် ၂၀ ကြာ ဖြတ်သန်းခဲ့သည် ။
+#5/5
 
 679
 In turn, object must be on machine for minutes, then machine for minutes, and so on.
 တစ်ဖန် ၊ အရာဝတ္ထု သည် စက် ပေါ်တွင် မိနစ်များကြာနေမည် ၊ ပြီးရင် စက် သည် မိနစ်ပိုင်း အတွင်း ၊ နောက်ပြီးတော့ ။
+#5/5
 
 680
 One of the great interiors of this period is the main living space of the Tugendhat House, designed by Mies Van der Rohe in 1928.
-ဤ ကာလ ၏ ကြီးကျယ်သော အတွင်းပိုင်းများ ထဲမှ တစ်ခု သည် ၁၉၂၈ ခုနှစ် တွင် မိုက်စ် ဗန် ဒါ ရိုလ် မှ ဒီဇိုင်းထုတ်ထားသည့် တူဂန်းဟတ် အိမ် ၏ ၊ အဓိက နေထိုင်ရာ နေရာ ဖြစ်သည် ။
+ဤ ကာလ ၏ ကြီးကျယ်သော အတွင်းပိုင်းများ ထဲမှ တစ်ခု သည် ၁၉၂၈ ခုနှစ် တွင် Mird Van der Rohe မှ ဒီဇိုင်းထုတ်ထားသည့် Tugendhat အိမ် ၏ ၊ အဓိက နေထိုင်ရာ နေရာ ဖြစ်သည် ။
+#5/5
 
 681
 Economic growth is part and parcel of the creativity of the universe as a whole.
 စီးပွားရေး တိုးတက်မှု သည် စကြဝဠာ တစ်ခုလုံး ၏ တီထွင်ဖန်တီးမှု ၏ အစိတ်အပိုင်း တစ်ခု ကဲ့သို့ ဖြစ်သည် ။
+#4/5
 
 682
 The connection between the limited nation and unbounded equality has paradoxical overtones.
 အကန့်အသတ်ရှိသော နိုင်ငံ နှင့် အကန့်အသတ်မရှိသော တန်းတူညီမျှမှု ကြား ဆက်နွှယ်မှု မှာ ဝိရောဓိဆန်သော လေသံများ ရှိသည် ။
+#4/5
 
 683
 Hence, there is a countable, or denumerable, infinity of computer programs.
 ထို့ကြောင့် ၊ ကွန်ပျူတာ ပရိုဂရမ်များ ၏ အဆုံးမရှိ ၊ ရေတွက်နိုင်သော  ၊ သို့မဟုတ် အရေအတွက် သည် တစ်ခု ဖြစ်သည် ။
+#4/5
 
 684
 She should be able to do the assignment, just like everyone else!
 သူမ သည် အခြားသူများ နည်းတူ ၊ တာဝန် ကို ထမ်းဆောင်နိုင်ရမည် ။
+#5/5
 
 685
 In this poem, Joaquan lives and flees in a ship to Mexico or South America, and the body that is decapitated is actually that of his good friend Ramen.
-ဤ ကဗျာ တွင် ၊ ဂျိုအကွင် သည် မက္ကဆီကို သို့မဟုတ် တောင်အမေရိက သို့ သင်္ဘော ဖြင့် ထွက်ပြေး ပြီး ၊ ခေါင်းဖြတ်ထားသော ခန္ဓာကိုယ် သည် အမှန်တကယ် တွင် သူ၏ မိတ်ဆွေကောင်း ရာမန် ၏ ပုံစံ ဖြစ်သည် ။
+ဤ ကဗျာ တွင် ၊ Joaquan သည် မက္ကဆီကို သို့မဟုတ် တောင်အမေရိက သို့ သင်္ဘော ဖြင့် ထွက်ပြေး ပြီး ၊ ခေါင်းဖြတ်ထားသော ခန္ဓာကိုယ် သည် အမှန်တကယ် တွင် သူ၏ မိတ်ဆွေကောင်း Ramen ၏ ပုံစံ ဖြစ်သည် ။
+#5/5
 
 686
 Most homes will have a nativity scene, a nacimiento, set up for the prayers and singers.
-အိမ် အများစု တွင် ဝတ်ပြုဆုတောင်းသူများ နှင့် အဆိုတော်များ အတွက် တပ်ဆင်ထားသည့် ၊ နာစီမီရန်တို တစ်ခု ၊ ခရစ်တော်ဖွားမြင်တော်မူသည့် မြင်ကွင်း တစ်ခု ရှိလိမ့်မည် ။ 
+အိမ် အများစု တွင် ဝတ်ပြုဆုတောင်းသူများ နှင့် အဆိုတော်များ အတွက် တပ်ဆင်ထားသည့် ၊ nacimiento တစ်ခု ၊ ခရစ်တော်ဖွားမြင်တော်မူသည့် မြင်ကွင်း တစ်ခု ရှိလိမ့်မည် ။ 
+#5/5
 
 687
 Multiply the logarithm of the number of microstates per macrostate by the probability that the system is in that macrostate.
 စနစ်သည် ထို ကြီးမားသောအနေအထား ရှိဖြစ်နိုင်ခြေ ဖြင့် ကြီးမားသောအနေအထား တစ်ခုလျှင် ကြီးမားသောအနေအထားများ အရေအတွက် ၏ လော့ဂရစ်သမ်ကို တိုးပွားသည် ။
+#5/5
 
 688
 Indeed, the giant cold molecular clouds in galaxies, about degrees absolute in temperature, are highly complex mixtures of molecular species, many carbonaceous, as well as the birthplace of stars.
 အမှန်စင်စစ် ၊ အာကာသ ရှိ ဧရာမ အအေးဓာတ်ရှိသော မော်လီကျူး တိမ်တိုက်များ သည် ၊ အပူချိန် အကြွင်းမဲ့ အတိုင်းအတာခန့်ရှိပြီး ၊ မော်လီကျူး မျိုးစိတ်များ ၏ ရှုပ်ထွေးလွန်းသော ပေါင်းစပ်မှုများ ၊ ကာဗွန်နိတ်ဓာတ် များစွာ နှင့် ကြယ်များ ၏ မွေးရပ်မြေ လည်း ဖြစ်သည် ။
+#5/5
 
 689
 In the debates about the rights of New Orleans butchers before the Supreme Court, the notion of citizenship and its privileges became the stakeholder for any residual yearnings to express the rights of the nation.
-နိုင်ငံတော်တရားရုံးချုပ် ရှေ့တွင် နယူးအော်ရီလန်း သားသတ်သမားများ ၏အခွင့်အရေးများ နှင့်ပတ်သက်၍ အချေအတင်ဆွေးနွေးမှုများ တွင် ၊ နိုင်ငံသားဖြစ်မှု သဘောတရား နှင့် ၎င်း၏ အထူးအခွင့်အရေးများ သည် နိုင်ငံတော် ၏ အခွင့်အရေးများ ကို ဖော်ပြရန် ကျန်နေသော ဆန္ဒများ အတွက် သက်ဆိုင်သူ ဖြစ်လာခဲ့သည် ။
+နိုင်ငံတော်တရားရုံးချုပ် ရှေ့တွင် New Orleans သားသတ်သမားများ ၏အခွင့်အရေးများ နှင့်ပတ်သက်၍ အချေအတင်ဆွေးနွေးမှုများ တွင် ၊ နိုင်ငံသားဖြစ်မှု သဘောတရား နှင့် ၎င်း၏ အထူးအခွင့်အရေးများ သည် နိုင်ငံတော် ၏ အခွင့်အရေးများ ကို ဖော်ပြရန် ကျန်နေသော ဆန္ဒများ အတွက် သက်ဆိုင်သူ ဖြစ်လာခဲ့သည် ။
+#5/5
+
 
 690
 Parents who deliver praise not based on real attainment actually undermine their child's development.
 စစ်မှန်သော ကြိုးပမ်းမှုကို အခြေမခံဘဲ ချီးမွမ်း ပြောဆိုသော မိဘများ သည် သူတို့၏ ကလေး ၏ ဖွံ့ဖြိုးမှု ကို အမှန်တကယ် လျော့ပါးစေပါသည် ။
+#5/5
 
 691
 We are literally making our world together, we critters.
 ကျွန်ုပ်တို့ သည် ကျွန်ုပ်တို့၏ ကမ္ဘာ ကို တိုက်ရိုက် ပြုလုပ် ပေါင်းစည်းကာ ၊ ကျွန်ုပ်တို့ သည် အဆိုးမြင်သူများ ဖြစ်သည် ။
+#5/5
 
 692
 This is not to say that for the purpose of administrative efficiency, it would not make sense to divide functions between the federal and state governments.
 အုပ်ချုပ်ရေးပိုင်း ထိရောက်စေရန် ရည်ရွယ်ကာ ၊ ဖက်ဒရယ် နှင့် ပြည်နယ် အစိုးရများ အကြား လုပ်ငန်းဆောင်တာများ ကို ပိုင်းခြားရန် အဓိပ္ပာယ်မရှိ ဟု မဆိုလိုပါ ။
+#5/5
 
 693
 Indeed, Bios Group is involved in inventing and making them.
-အမှန်တကယ်ပင် ၊ ဘိုင်အိုစ် အဖွဲ့ သည် သူတို့ကို တီထွင်ဖန်တီးရာ တွင် ပါဝင်ပတ်သက်နေပါသည် ။
+အမှန်တကယ်ပင် ၊ Bios အဖွဲ့ သည် သူတို့ကို တီထွင်ဖန်တီးရာ တွင် ပါဝင်ပတ်သက်နေပါသည် ။
+#5/5
 
 694
 The symptoms of mal ojo are vomiting, diarrhea, loss of weight, and sometimes even death.
-မယ်လ်အိုဂျို ၏ လက္ခဏာများ မှာ အော့အန်ခြင်း ၊ ဝမ်းလျှောခြင်း ၊ ကိုယ်အလေးချိန် ကျခြင်း နှင့် တစ်ခါတစ်ရံ သေဆုံးခြင်း ပင် ဖြစ်သည် ။
+mal ojo ၏ လက္ခဏာများ မှာ အော့အန်ခြင်း ၊ ဝမ်းလျှောခြင်း ၊ ကိုယ်အလေးချိန် ကျခြင်း နှင့် တစ်ခါတစ်ရံ သေဆုံးခြင်း ပင် ဖြစ်သည် ။
+#5/5
 
 695
 The Mexican artist and printmaker Jose Guadalupe Posada started drawing calaveras during the late nineteenth century to coincide with this holiday.
-မက္ကဆီကို ပန်းချီဆရာ နှင့် ပုံနှိပ်သူ ဂျိုဆေး ဂွာဒါလူပီ ပိုဆာဒါ သည် ဤ အားလပ်ရက် နှင့် တစ်ထပ်တည်းကျရန် ၁၉ ရာစု နှောင်းပိုင်း အတွင်း ကာလာဗယ်ရာစ် ကို စတင် ရေးဆွဲခဲ့သည် ။
+မက္ကဆီကို ပန်းချီဆရာ နှင့် ပုံနှိပ်သူ Jose Guadalupe Posada သည် ဤ အားလပ်ရက် နှင့် တစ်ထပ်တည်းကျရန် ၁၉ ရာစု နှောင်းပိုင်း အတွင်း calaveras ကို စတင် ရေးဆွဲခဲ့သည် ။
+#5/5
 
 696
 Mastery of false belief shows that children regard beliefs as interpretations, not just re-ections, of reality.
 မှားယွင်းသော ယုံကြည်ချက် ၏ ကျွမ်းကျင်မှု သည် ကလေးများ သည် ယုံကြည်ချက်များ ကို အနက်ဖွင့်ဆိုချက်များ အဖြစ် မှတ်ယူကြပြီး ၊ လက်တွေ့ဘဝ တွင် ၊ ပြန်လည်ဖော်ပြခြင်းမျှသာ မဟုတ်ပါ ။
+#5/5
 
 697
 The naturalistic  pursuit of happiness,  celebrated in the Declaration, gives way to the quintessential creature of the law's definition'property.
 သဘာဝဆန်သော ပျော်ရွှင်မှုကို ရှာဖွေခြင်းသည် ၊ ကျော်ကြားသော တရားဝင်ကြေငြာချက် တွင် ၊ ပညတ်တရား ၏ အဓိပ္ပါယ် 'ပစ္စည်း' ၏ အလွန်အရေးကြီးသော သတ္တဝါတို့ အား လမ်းပေးသည် ။
+#4/5
 
 698
 Limpiar means to clean and a limpia is similar to a barrida.
-လင်ပီယာ ဆိုသည်မှာ သန့်ရှင်းစေရန် ဖြစ်ပြီး လင်ပီယာ တစ်ခု သည် ဘာရီဒါ တစ်ခု နှင့် ဆင်တူသည် ။
+Limpiar ဆိုသည်မှာ သန့်ရှင်းစေရန် ဖြစ်ပြီး Limpia တစ်ခု သည် barrida တစ်ခု နှင့် ဆင်တူသည် ။
+#5/5
 
 699
 Elves or leprechauns that Anthony John Campos refers to as little people, pichilingis are goblins who perform mischievous pranks.
-အန်တိုနီ ဂျွန် ကမ်းပိုစ့် က လူလေးများ အဖြစ် ရည်ညွှန်းသော နတ်သူငယ်များ သို့မဟုတ် မှင်စာများ ၊ ပစ်ချီလင်ဂစ် သည် ကျီစယ် နောက်ပြောင်မှုများ လုပ်ဆောင်သော နတ်ဆိုးများ ဖြစ်သည် ။
+Anthony John Campos  က လူလေးများ အဖြစ် ရည်ညွှန်းသော နတ်သူငယ်များ သို့မဟုတ် မှင်စာများ ၊ pichilingis သည် ကျီစယ် နောက်ပြောင်မှုများ လုပ်ဆောင်သော နတ်ဆိုးများ ဖြစ်သည် ။
+#5/5
 
 700
 72 And as I indicated in Chapter 2, the blend of warmth and expectations for mature behavior that make up authoritative parenting is linked to skilled peer interaction as well.
 ၇၂ အခန်း ၂ တွင် ကျွန်တော် ညွှန်ပြထားသည့် အတိုင်း ၊ တရားဝင် မိဘအုပ်ထိန်းမှု ဖြစ်စေသော ရင့်ကျက်သော အမူအကျင့် အတွက် နွေးထွေးမှု နှင့် မျှော်လင့်ချက်များ ရောယှက်မှု သည် ကျွမ်းကျင်သော ရွယ်တူချင်း အပြန်အလှန်ဆက်ဆံရေး နှင့်လည်း ချိတ်ဆက်ထားသည် ။
+#4/5

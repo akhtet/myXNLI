@@ -1,449 +1,499 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 4301
 Diego did not really want to follow her instructions.
-ဒီယေဂိုသည် သူမ၏ ညွှန်ကြားချက်များကို အမှန်တကယ် လိုက်နာရန် ဆန္ဒမရှိခဲ့ပါ။
+Diegoသည် သူမ၏ ညွှန်ကြားချက်များကို အမှန်တကယ် လိုက်နာရန် ဆန္ဒမရှိခဲ့ပါ။
+#5/5
 
 4302
 Diego refused to do what she said.
-ဒီယေဂိုက သူမပြောတဲ့အတိုင်း ပြုလုပ်ရန် ငြင်းဆိုခဲ့သည်။
+Diegoက သူမပြောတဲ့အတိုင်း ပြုလုပ်ရန် ငြင်းဆိုခဲ့သည်။
+#5/5
 
 4303
 There were roses on top of the hill.
 တောင်၏ ထိပ်မှာ နှင်းဆီပန်းတွေ ရှိခဲ့တယ်။
+#5/5
 
 4304
 Children can become addicted to using computers and browsing the internet.
 ကလေးများသည် ကွန်ပြူတာသုံးခြင်းနှင့် အင်တာနက် ရှာဖွေကြည့်ရှုခြင်း ကို စွဲလမ်းလာနိုင်သည်။
+#5/5
 
 4305
 Computers and the internet can cause family members to communicate less.
 ကွန်ပြူတာများနှင့် အင်တာနက်သည် မိသားစုဝင်အချင်းချင်းကို ဆက်သွယ်မှု နည်းပါးခြင်းကို ဖြစ်စေနိုင်ပါသည်။
+#5/5
 
 4306
 There is proof that computers and internet enhance communication within a family.
 ကွန်ပြူတာများနှင့် အင်တာနက်သည် မိသားစု တစ်စု အတွင်း ဆက်သွယ်မှုကို မြှင့်တင်ပေးကြောင်း အထောက်အထားရှိသည်။
+#5/5
 
 4307
 No records remain of the traditions of the early Hispanos.
 အစောပိုင်း ဟစ်စပန်နိုများ၏ ဓလေ့ထုံးတမ်းများသည် မှတ်တမ်းများ မကျန်ရစ်ခဲ့ပါ။
+#5/5
 
 4308
 The descendants of the early Hispanos wrote using quills.
-အစောပိုင်း ဟစ်စပန်နိုများ၏ သားစဉ်မြေးဆက်များသည် ငှက်တောင်များကို အသုံးပြု၍ ရေးသားခဲ့သည်။
+အစောပိုင်း Hispanosများ၏ သားစဉ်မြေးဆက်များသည် ငှက်တောင်များကို အသုံးပြု၍ ရေးသားခဲ့သည်။
+#5/5
 
 4309
 There is evidence that the descendants of the early Hispanos could write.
-အစောပိုင်း ဟစ်စပန်နိုများ၏ သားစဉ်မြေးဆက်များသည် ရေးသားနိုင်ကြောင်း အထောက်အထားများ ရှိသည်။
+အစောပိုင်း Hispanosများ၏ သားစဉ်မြေးဆက်များသည် ရေးသားနိုင်ကြောင်း အထောက်အထားများ ရှိသည်။
+#5/5
 
 4310
 Juan Osito is her son.
 ဂျန် အိုစီးတိုသည် သူမ၏ သား ဖြစ်သည်။
+#5/5
 
 4311
 They refuse to live with her father.
 သူတို့သည် သူတို့အဖေနဲ့ နေထိုင်ဖို့ ငြင်းဆန်ကြတယ်။
+#5/5
 
 4312
 They were almost caught by the bear.
 သူတို့ကို ဝက်ဝံက ဖမ်းလုနီးပါး ဖြစ်သွားခဲ့တယ်။
+#5/5
 
 4313
 The term barbacoa is used to mean roasting vegetables in the oven.
 ဘာဘာကိုး ဝေါဟာရသည် မီးဖို၌ ဟင်းသီးဟင်းရွက်များကို ကင်ခြင်းဟု ရည်ရွယ် အသုံးပြုကြသည်။
+#5/5
 
 4314
 The term barbacoa was first used in ancient Egypt.
 ဘာဘာကိုး ဝေါဟာရကို ရှေးခေတ် အီဂျစ်တွင် ပထမဆုံး အသုံးပြုခဲ့သည်။
+#5/5
 
 4315
 There are at least two terms that mean cooking of meat in a pit.
 တွင်းထဲတွင် အသား ချက်ပြုတ်ခြင်းကို ဆိုလိုသည့် ဝေါဟာရ အနည်းဆုံး နှစ်ခု ရှိသည်။
+#5/5
 
 4316
 Maxwell hated himself for creating that wee creature.
 မက်စ်ဝဲလ်သည် ထို သေးငယ်သော သတ္တဝါကို ဖန်တီးသည့်အတွက် သူ့ကိုယ်သူ မုန်းတီးခဲ့သည်။
+#5/5
 
 4317
 Owing to the lack of skill, Maxwell never invented anything in his whole life.
 ကျွမ်းကျင်မှု ကင်းမဲ့ခြင်း၏ အကြောင်းအရင်းသည် ၊ မက်စ်ဝဲလ်သည် သူ၏ တစ်သက်တာလုံးတွင် မည်သည့်အရာကိုမျှ မတီထွင်ခဲ့လို့ပါ။
+#5/5
 
 4318
 The Maxwell demon is the work and creation of Maxwell's.
 မက်စ်ဝဲလ် ဒယ်မွန်သည် မက်စ်ဝဲလ်၏ လက်ရာ နှင့် ဖန်တီးမှု ဖြစ်သည်။
+#5/5
 
 4319
 The assumption that officials have racial and ethnic maps is untrue.
 အာဏာပိုင်များတွင် ရှိသော မျိုးရိုးနှင့်ဆိုင်သော ယူဆချက်များ နှင့် လူမျိုးစု မြေပုံများသည် မမှန်ကန်ပါ။ 
+#5/5
 
 4320
 There is a common assumption about our officials.
 ကျွန်ုပ်တို့၏ အရာရှိများနှင့် ပတ်သက်၍ တူညီသော ယူဆချက် တစ်ခု ရှိသည်။
+#5/5
 
 4321
 There is no common assumption today.
 ယခုအချိန်တွင် သာမန် ယူဆချက် မရှိပါ။
+#5/5
 
 4322
 Due to their inflated ego, parents never give up or search for other clues.
 သူတို့ရဲ့ အစွန်းရောက်သော အတ္တကြောင့် ၊ မိဘတွေက တခြား သဲလွန်စတွေကို ရှာဖွေ ၍လည်းကောင်း ဘယ်တော့မှ အရှုံးမပေးကြဘူး။
+#4/5
 
 4323
 Now and again, some parents will try to find a better way from their own parents' lives.
 ယခု ထပ်ပြီးတော့ ၊ တစ်ချို့ မိဘတွေသည် ၎င်းတို့၏ ကိုယ်ပိုင် မိဘများ ၏ ဘဝမှ ပိုမိုကောင်းမွန်သော နည်းလမ်း တစ်ခုကို ရှာဖွေ ရန် ကြိုးစားလိမ့်မည်။
+#5/5
 
 4324
 Written manuals are passed down from grandparents to parents to children.
 ရေးထားသော လက်စွဲစာအုပ်များကို အဘိုးအဘွားများမှ မိဘများထံ သားသမီးများထံ လက်ဆင့်ကမ်းကြသည်။
+#5/5
 
 4325
 Each nation has a right to vote.
 လူမျိုးတိုင်းတွင် မဲပေးရန် အခွင့်အရေး တစ်ခု ရှိသည်။
+#5/5
 
 4326
 There are no voting rights.
 မဲပေးဖို့ အခွင့်အရေး မရှိဘူး။
+#5/5
 
 4327
 There are voting rights.
 မဲပေးဖို့ အခွင့်အရေး ရှိတယ်။
+#5/5
 
 4328
 I assume that P helps the reaction, like a catalyst would.
-ပီသည် ဓာတ်ကူပစ္စည်း တစ်ခု ဖြစ် သကဲ့သို့ ၊ တုံ့ပြန်မှုကို ကူညီပေးသည်ဟု ကျွန်တော် ယူဆပါသည်။
+ပီသည် ဓာတ်ကူပစ္စည်း တစ်ခု ကဲ့သို့ ၊ တုံ့ပြန်မှုကို ကူညီပေးသည်ဟု ကျွန်တော် ယူဆပါသည်။
+#5/5
 
 4329
 P more than doubles the rate of the reaction.
 ပီသည် တုံ့ပြန်မှု နှုန်းထား နှစ်ဆပိုများသည်။
+#5/5
 
 4330
 When P is added to the reaction, the reaction stops completely.
 ပီကို ​​တုံ့ပြန်မှုသို့ ပေါင်းထည့်သောအခါ ၊ တုံ့ပြန်မှုသည် လုံးဝ ရပ်တန့်သွားသည်။
+#5/5
 
 4331
 It was certain that the rabbis saw the signs.
 ရဟူဒီဘုန်းကြီးများသည် နမိတ်လက္ခဏာတွေကို မြင်ခဲ့သည်မှာ သေချာခဲ့သည်။
+#5/5
 
 4332
 The rabbis petitioned for the signs to be stripped down.
 ရဟူဒီဘုန်းကြီးများသည် နမိတ်လက္ခဏာတွေကို ဖယ်ရှားရန် အသနားခံခဲ့ကြသည်။
+#5/5
 
 4333
 The rabbis were not aware of the signs.
 ရဟူဒီဘုန်းကြီးများသည် နိမိတ်လက္ခဏာများကို သတိမထားမိခဲ့ကြပါ။
+#5/5
 
 4334
 Someone remembers late eighteenth century.
 တစ်စုံတစ်ယောက်သည် ဆယ့်ရှစ်ရာစုနှောင်းပိုင်းကို မှတ်မိသည်။
+#5/5
 
 4335
 The late eighteenth century was a time of peace.
 ဆယ့်ရှစ်ရာစုနှောင်းပိုင်းသည် ငြိမ်းချမ်းရေး ကာလ တစ်ခု ဖြစ်သည်။
+#5/5
 
 4336
 The late eighteenth century was complicated.
 ဆယ့်ရှစ်ရာစုနှောင်းပိုင်းတွင် ရှုပ်ထွေးခဲ့သည်။ 
+#5/5
 
 4337
 The war still rages on, but that needs to end.
 စစ်ပွဲက ပြင်းထန်နေသေး ပေမယ့် ၊ ဒါကို အဆုံးသတ်ဖို့ လိုပါတယ်။
+#5/5
 
 4338
 Thousands of people have died fighting in this war.
 ဒီစစ်ပွဲမှာ လူပေါင်း ထောင်နဲ့ချီပြီး တိုက်ခိုက် သေဆုံးခဲ့ရတယ်။
+#5/5
 
 4339
 We need to make sure that the war goes on for ages.
 စစ်ပွဲတွေ ခေတ်အဆက်ဆက် ဆက်လက်ဖြစ်နေတယ်ဆိုတာ ကျွန်တော်တို့ သေချာပြုလုပ်ဖို့ လိုတယ်။
+#5/5
 
 4340
 It takes a very good writer to describe the wetback experience.
 ထိုးစစ် အတွေ့အကြုံကို ဖော်ပြရန် အလွန်ကောင်းသော စာရေးဆရာ တစ်ယောက် လိုအပ်သည်။
+#5/5
 
 4341
 There are novels that feature descriptions of the wetback experience.
 ထိုးစစ် အတွေ့အကြုံကို ဖော်ပြသည့် အချက်အလက်တွေပါရှိသော ဝတ္ထုတွေ ရှိပါသည်။
+#5/5
 
 4342
 There hasn't been any writing that involves descriptions of the wetback experience.
 ထိုးစစ် အတွေ့အကြုံအကြောင်း ဖော်ပြချက်များ ပါဝင်သော မည်သည့် စာရေးခြင်းမှ မရှိသေးပါ။
+#5/5
 
 4343
 The problem of exploitation is getting better.
 ခေါင်းပုံဖြတ်ခြင်း၏ ပြဿနာက ပိုမိုကောင်းမွန်မှုကို ရရှိလာပါတယ်။
+#5/5
 
 4344
 There can be exploitation in sexual relations that are apparently voluntary.
 သိသာစွာ စိတ်ဆန္ဒအလျောက် လိင်ဆက်ဆံမှုတွင် အမြတ်ထုတ်ခြင်း ခံရနိုင်သည်။
+#5/5
 
 4345
 There is no exploitation in sexual relations that are voluntary.
 စိတ်ဆန္ဒအလျောက် လိင်ဆက်ဆံရာတွင် ခေါင်းပုံဖြတ်ခြင်း မရှိပါ။
+#5/5
 
 4346
 No one agreed on a take on the world in 1787.
 ၁၇၈၇ မှာ ကမ္ဘာကို သိမ်းပိုက်ဖို့ ဘယ်သူကမှ သဘောတူခဲ့တာ မဟုတ်ဘူး။
+#5/5
 
 4347
 People in 1787 thought the world was flat.
 ၁၇၈၇ မှာ လူတွေက ကမ္ဘာကြီး ပြားတယ်လို့ ထင်ခဲ့ကြတယ်။
+#5/5
 
 4348
 There were some schools of thought that prevailed in 1787.
 ၁၇၈၇ တွင် ခေတ်စားနေသော အတွေးအခေါ်နဲ့ ကျောင်းအချို့ရှိခဲ့သည်။
+#5/5
 
 4349
 No one prays.
 ဘယ်သူမှ ဆုတောင်းမပေးဘူး။
+#5/5
 
 4350
 Other things happen while prayers are said.
 ဆုတောင်းသူများက ဆုတောင်းနေစဉ်တွင် အခြားအရာများ ဖြစ်ပျက်ခဲ့သည်။
+#5/5
 
 4351
 Prayers are recited while clothes are washed.
 အဝတ်များကို လျှော်ဖွတ်နေစဉ် ဆုတောင်းသူများက ရွတ်ဆိုကြသည်။
+#5/5
 
 4352
 Taney said Congress could stop the writ for 10 miuntes.
-ကွန်ဂရက်လွှတ်တော်က ၁၀ မိနစ်ကြာ စာချွန်တော်ကို ရပ်တန့်နိုင်တယ်လို့ တိန်နေ က ပြောပါတယ်။
+ကွန်ဂရက်လွှတ်တော်က ၁၀ မိနစ်ကြာ စာချွန်တော်ကို ရပ်တန့်နိုင်တယ်လို့ Taney က ပြောခဲ့ပါတယ်။
+#5/5
 
 4353
 Taney said Congress had no power to stop the writ.
-ကွန်ဂရက်လွှတ်တော်မှာ စာချွန်တော်အမိန့်ကို ရပ်တန့်ဖို့ အာဏာမရှိဘူးလို့ တိန်နေ က ပြောပါတယ်။
+ကွန်ဂရက်လွှတ်တော်မှာ စာချွန်တော်အမိန့်ကို ရပ်တန့်ဖို့ အာဏာမရှိဘူးလို့ Taney က ပြောခဲ့ပါတယ်။
+#5/5
 
 4354
 Taney said congress could suspend the writ.
-ကွန်ဂရက်လွှတ်တော်က စာချွန်တော်ကို ဆိုင်းငံ့ထားနိုင်တယ်လို့ တိန်နေ က ပြောပါတယ်။
+ကွန်ဂရက်လွှတ်တော်က စာချွန်တော်ကို ဆိုင်းငံ့ထားနိုင်တယ်လို့ Taney က ပြောခဲ့ပါတယ်။
+#5/5
 
 4355
 The Mendelian gene remained dormant for centuries, before the right environmental conditions arose.
-မှန်ကန်သော ပတ်ဝန်းကျင် အခြေအနေများမပေါ်ပေါက်မီ ၊ မန်ဒါလီးယန်း ဗီဇသည် ရာစုနှစ်များစွာကြာအောင် ကိန်းဝပ်ငြိမ်သက် ကျန်ရစ်နေခဲ့သည်။
+မှန်ကန်သော ပတ်ဝန်းကျင် အခြေအနေများမပေါ်ပေါက်မီ ၊ Mendelian ဗီဇသည် ရာစုနှစ်များစွာကြာအောင် ကိန်းဝပ်ငြိမ်သက် ကျန်ရစ်နေခဲ့သည်။
+#5/5
 
 4356
 The environment was not always right for the dominant Mendelian gene.
-ပတ်ဝန်းကျင်သည် ဩဇာကြီးမားသော မန်ဒါလီးယန်း ဗီဇ အတွက် အမြဲ မသင့်တော်ပါ။
+ပတ်ဝန်းကျင်သည် ဩဇာကြီးမားသော Mendelian ဗီဇ အတွက် အမြဲ မသင့်တော်ပါ။
+#5/5
 
 4357
 The right environmental conditions for the dominant Mendelian gene never arose.
-ဩဇာကြီးမားသော မန်ဒါလီးယန်း ဗီဇ အတွက် မှန်ကန်သော ပတ်ဝန်းကျင် အခြေအနေသည် ဘယ်သောအခါမှ ပေါ်မလာပါ။
+ဩဇာကြီးမားသော Mendelian ဗီဇ အတွက် မှန်ကန်သော ပတ်ဝန်းကျင် အခြေအနေသည် ဘယ်သောအခါမှ ပေါ်မလာပါ။
+#5/5
 
 4358
 The cowboy is a northern guy.
 ကောင်းဘွိုင်က မြောက်ပိုင်းသား တစ်ယောက် ဖြစ်သည်။
+#5/5
 
 4359
 The cowboy is from the south.
 ကောင်းဘွိုင်က တောင်ပိုင်းမှ ဖြစ်သည်။
+#5/5
 
 4360
 The cowboy is from the southern US.
 ကောင်းဘွိုင်သည် ယူအက်စ် တောင်ပိုင်းမှ ဖြစ်သည်။
+#5/5
 
 4361
 Chinese cooks immigrated to Cuba.
 တရုတ်လူမျိုး ထမင်းချက်များသည် ကျူးဘားသို့ ပြောင်းရွှေ့နေထိုင်ကြသည်။
+#5/5
 
 4362
 Chinese food is only found in China.
 တရုတ်အစားအစာကို တရုတ်နိုင်ငံတွင်သာ တွေ့ရှိရသည်။
+#5/5
 
 4363
 There is a mixture in Chinese and Cuban cuisines.
 တရုတ် နှင့် ကျူးဘား ချက်ပြုတ်နည်းများတွင် အရောအနှော တစ်ခု ရှိသည်။
+#5/5
 
 4364
 No one in the eighteenth century understood freedom.
 ဆယ့်ရှစ်ရာစုတွင် မည်သူမျှ လွတ်လပ်မှုကို နားမလည်ခဲ့ပေ။
+#5/5
 
 4365
 People in the eighteenth century understood freedom.
 ဆယ့်ရှစ်ရာစုတွင် လူတွေဟာ လွတ်လပ်မှုကို နားလည်တယ်။
+#5/5
 
 4366
 The Constitution is preserved in a vacuum.
 ဖွဲ့စည်းပုံအခြေခံဥပဒေကို လစ်ဟာမှု တစ်ခု ဖြင့် ထိန်းသိမ်းထားသည်။
+#5/5
 
 4367
 Members of car clubs do competitions.
 ကားကလပ်၏ အသင်းဝင်များသည် ပြိုင်ပွဲများ ကျင်းပကြသည်။
+#5/5
 
 4368
 Members of car clubs do not ride.
 ကားကလပ်၏ အသင်းသားများ မစီးကြပါ။
+#5/5
 
 4369
 Members of car clubs sell cars.
 ကားကလပ်၏ အသင်းဝင်များသည် ကားများကို ရောင်းသည်။
+#5/5
 
 4370
 Preschool and elementary aged children often dream about the future.
 မူကြိုနှင့် မူလတန်း အရွယ် ကလေးများသည် အနာဂတ်နဲ့ ပတ်သက်ပြီး မကြာခဏ စိတ်ကူးကြသည်။
+#5/5
 
 4371
 Preschool kids cannot comprehend the future.
 မူကြို ကလေးများသည် အနာဂတ်ကို နားမလည်နိုင်ပါ။
+#5/5
 
 4372
 Preschool kids think mostly about today.
 မူကြို ကလေးများသည် ယနေ့ခေတ်အကြောင်းကို အများအားဖြင့် တွေးတတ်ကြသည်။
+#5/5
 
 4373
 It will take a long time before computers can fully replace humans in making clothes.
 ကွန်ပြူတာများသည် လူသားများကို အဝတ်အစားများ ဖန်တီးရာတွင် အပြည့်အ၀ အစားမထိုးနိုင်မီ အချိန်ကြာမြင့်မည်ဖြစ်သည်။
+#5/5
 
 4374
 People are better than computers at some sewing crafts.
 အချို့သော စက်ချုပ်သည့် လက်မှုပညာတွင် လူများသည် ကွန်ပျူတာများထက် ပိုကောင်းကြပါသည်။
+#5/5
 
 4375
 There is nothing that a human does that a computer is not better at.
 ကွန်ပျူတာ ပိုမကောင်းဘူးဆိုတာ လူတစ်ယောက်က ဘာမှ မလုပ်တာပဲဖြစ်တယ်။
+#5/5
 
 4376
 Children would go over to their neighbors houses.
 ကလေးတွေက သူတို့၏ အိမ်နီးနားချင်း အိမ်တွေဆီ သွားကြတယ်။
+#5/5
 
 4377
 Children would never set foot on their neighbors' property.
 ကလေးတွေဟာ သူတို့၏ အိမ်နီးနားချင်းတွေရဲ့ ပိုင်ဆိုင်မှုတွေ ပေါ်ကို ဘယ်တော့မှ ခြေမချဘူး။
+#5/5
 
 4378
 Children would use a special knocking signal on their neighbors' doors.
-ကလေးများသည် အိမ်နီးနားချင်းများ၏ တံခါးများကို ခေါက်သည့် အထူးအချက်ပြမှုကို အသုံးပြုကြသည်။
+ကလေးများသည် အိမ်နီးနားချင်းများ၏ တံခါးများကို ခေါက်သည့် အထူးအချက်ပြမှုကို အသုံးပြုကြလိမ့်မည်။
+#5/5
 
 4379
 Even though it triumphed, the legal philosophy was morally wrong.
 ၎င်းကို အောင်ပွဲခံသော်လည်း ၊ ဥပဒေဆိုင်ရာ အတွေးအခေါ်သည် အကျင့်စာရိတ္တအရ မှားယွင်းနေခဲ့သည်။
+#5/5
 
 4380
 The legal philosophy was defeated.
 ဥပဒေဆိုင်ရာ အတွေးအခေါ် က ရှုံးနိမ့်ခဲ့သည်။
+#5/5
 
 4381
 The legal philosophy won in substance and style.
 ဥပဒေဆိုင်ရာ အတွေးအခေါ်သည် အနှစ်သာရ နှင့် စတိုင်တွင် အနိုင်ရခဲ့သည်။
+#5/5
 
 4382
 It is public knowledge that there was only one culture.
 ထိုအရာသည် ယဉ်ကျေးမှု တစ်ခုပဲ ရှိခဲ့တယ်ဆိုတဲ့ လူထုနှင့်ဆိုင်တဲ့ အသိပညာ ဖြစ်သည်။
+#5/5
 
 4383
 The cultures shared some common practices and traditions.
 ယဉ်ကျေးမှုများသည် အများအားဖြင့် လက်တွေ့ဘဝ နှင့် ဓလေ့ထုံးတမ်း အချို့ကို မျှဝေကြသည်။
+#5/5
 
 4384
 There were two or more cultures involved, with different positions.
 မတူညီသော ရပ်တည်ချက်များဖြင့် ၊ ယဉ်ကျေးမှုနှစ်ခု သို့မဟုတ် နှစ်ခုထက်ပိုပြီး ပါဝင်ခဲ့သည်။
+#5/5
 
 4385
 Girls do not like math.
 မိန်းကလေးတွေက သင်္ချာကို သဘောမကျကျဘူး။
+#5/5
 
 4386
 Girls think math is easy.
 မိန်းကလေးတွေက သင်္ချာက လွယ်တယ်လို့ ထင်ကြတယ်။
+#5/5
 
 4387
 Girls think math is hard.
 မိန်းကလေးတွေက သင်္ချာက ခက်တယ်လို့ ထင်ကြတယ်။
+#5/5
 
 4388
 It always brought them back home.
 ၎င်းက အမြဲတမ်း သူတို့ကို အိမ်ကို ပြန်ခေါ်ခဲ့တယ်။
+#5/5
 
 4389
 It was scary when it got really big.
 ၎င်းက တကယ်ကြီးလာတော့ ကြောက်စရာကြီး ဖြစ်ခဲ့တယ်။
+#5/5
 
 4390
 They were removed from their beds.
-သူတို့သည် သူတို့ကုတင်ပေါ်ကနေ ဖယ်ထားလိုက်ကြတယ်။
+သူတို့ကို သူတို့ကုတင်ပေါ်ကနေ ဖယ်ထားလိုက်ခဲ့ကြတယ်။
+#5/5
 
 4391
 The same applies to the sense of national identity.
 အဆိုပါ တူညီချက်သည် အမျိုးသားရေး လက္ခဏာ ခံစားမှုကို အကျုံးဝင်စေသည်။
+#5/5
 
 4392
 The sense of nationhood depends on how well the economy is run.
 လူမျိုးရေးနှင့်ဆိုင်သော အာရုံခံစားမှုသည် စီးပွားရေး ဘယ်လောက်ကောင်းကောင်း လည်ပတ်နေလဲဆိုတဲ့အပေါ်မှာ မူတည်တယ်။
+#5/5
 
 4393
 This is applicable everywhere else save for the sense of nationhood.
 ၎င်းသည် လူမျိုးရေးနှင့်ဆိုင်သော အာရုံခံစားမှုအတွက် သက်သာသော အခြားနေရာတိုင်းနဲ့ သက်ဆိုင်ပါသည်။
+#4/5
 
 4394
 C. P. Snow never wrote about science and humanities.
 စီ ပီ စနိုးသည် သိပ္ပံ နှင့် လူသားမျိုးနွယ် အကြောင်းကို တစ်ခါမျှ မရေးခဲ့ဖူးပါ။
+#5/5
 
 4395
 Two cultures are science and humanities.
 ယဉ်ကျေးမှု နှစ်ခုမှာ သိပ္ပံနှင့် လူသားမျိုးနွယ်တို့ ဖြစ်သည်။
+#5/5
 
 4396
 What C. P. Snow wrote was incorrect.
 စီ ပီ စနိုး ရေးထားတာတွေက မှားနေခဲ့သည်။
+#5/5
 
 4397
 This is least apparent in colonnades.
 ၎င်းသည် တူညီသောအကွာအဝေးဖြင့်ဆောက်ထားတဲ့တိုင်လုံးများတွင် အနည်းဆုံးတော့ ထင်ရှားသည်။
+#5/5
 
 4398
 Vincent Scully is an expert on architecture.
 ဗင်းဆင့် စကားလီသည် ဗိသုကာပညာဆိုင်ရာ ကျွမ်းကျင်သူ တစ်ယောက် ဖြစ်သည်။
+#5/5
 
 4399
 Vincent Scully talked about colonnades.
 ဗင်းဆင့် စကားလီသည် တူညီသောအကွာအဝေးဖြင့်ဆောက်ထားတဲ့တိုင်လုံးတွေ အကြောင်း ပြောခဲ့သည်။
+#5/5
 
 4400
 It's all very complicated to explain.
 ဒါတွေ အားလုံးကို ရှင်းပြဖို့ အရမ်းရှုပ်ထွေးပါတယ်။
+#5/5

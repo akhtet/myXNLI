@@ -1,53 +1,3 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 5401
 I will go ashore in the small boat.
 ငါ လှေငယ်နဲ့ ကမ်းပေါ်သို့ သွားမယ်။
@@ -55,32 +5,32 @@ I will go ashore in the small boat.
 
 5402
 He said that he didn't have to go to Colonel Bishop to get orders.
-သူက အမိန့် ပေး ရန် ဗိုလ်မှူးကြီး ဘစ်လျှော့ ဆီသို့ သွားဖို့ မလိုအပ်ခဲ့ပါဘူးလို့ ပြောခဲ့တယ်။
+သူက အမိန့် ပေး ရန် ဗိုလ်မှူးကြီး Bishop ဆီသို့ သွားဖို့ မလိုအပ်ခဲ့ပါဘူးလို့ ပြောခဲ့တယ်။
 #5/5
 
 5403
 He told them he would go to Colonel Bishop for his orders.
-သူသည် သူ၏ အမိန့် အတွက် ဗိုလ်မှူးကြီး ဘစ်လျှော့ ဆီ သွားလိမ့်မည် ဟု သူက ထိုသူတို့ကို ပြောခဲ့သည်။
+သူသည် သူ၏ အမိန့် အတွက် ဗိုလ်မှူးကြီး Bishop ဆီ သွားလိမ့်မည် ဟု သူက ထိုသူတို့ကို ပြောခဲ့သည်။
 #5/5
 
 5404
 He told them he would go to Colonel Bishop tomorrow for his orders.
-သူက သူ၏ အမိန့် အတွက် ဗိုလ်မှူးကြီး ဘစ်လျှော့ ဆီသို့ မနက်ဖြန်မှ သွားလိမ့်မည် ဟု သူက ထိုသူတို့ကို ပြောခဲ့သည်။
+သူက သူ၏ အမိန့် အတွက် ဗိုလ်မှူးကြီး Bishop ဆီသို့ မနက်ဖြန်မှ သွားလိမ့်မည် ဟု သူက ထိုသူတို့ကို ပြောခဲ့သည်။
 #5/5
 
 5405
 Captain Blood hastily read what the other people were thinking.
-ကပ္ပတိန် ဘလတ်သည် အခြားသူများ တွေးတောနေသော အရာကို အလျင်အမြန် နားလည်သဘောပေါက်ခဲ့သည်။
+ကပ္ပတိန် Bloodသည် အခြားသူများ တွေးတောနေသော အရာကို အလျင်အမြန် နားလည်သဘောပေါက်ခဲ့သည်။
 #5/5
 
 5406
 Captain Blood, for the life of him, could not figure out what was on their minds.
-ကပ္ပတိန် ဘလတ်သည် မည်မျှကျိုးစားအားထုတ်ခဲ့သော်လည်း ထိုသူတို့ စိတ်ထဲမှာ ဘာရှိသလည်းကို နားမလည်နိုင်ခဲ့ပေ။
+ကပ္ပတိန် Bloodသည် မည်မျှကျိုးစားအားထုတ်ခဲ့သော်လည်း ထိုသူတို့ စိတ်ထဲမှာ ဘာရှိသလည်းကို နားမလည်နိုင်ခဲ့ပေ။
 #4/5
 
 5407
 It is true that Captain Blood knew how to read people from taking Psychology back at his university.
-ကပ္ပတိန် ဘလတ်သည် သူ့တက္ကသိုလ်တက်ခဲ့စဥ်က စိတ်ပညာကို သင်ယူဖူးပြီး ၄င်းကိုအသုံးချကာ လူအရိပ်အကဲ ကြည့်တတ်သည် ဆိုသည်မှာ အမှန်တရား ဖြစ်ပါတယ်။
+ကပ္ပတိန် Bloodသည် သူ့တက္ကသိုလ်တက်ခဲ့စဥ်က စိတ်ပညာကို သင်ယူဖူးပြီး ၄င်းကိုအသုံးချကာ လူအရိပ်အကဲ ကြည့်တတ်သည် ဆိုသည်မှာ အမှန်တရား ဖြစ်ပါတယ်။
 #5/5
 
 5408
@@ -100,17 +50,17 @@ She said that she never does her best.
 
 5411
 Colonel Bishop likely did not have anything to obtain.
-ဗိုလ်မှူးကြီး  ဘစ်လျှော့သည် တစ်ခုခု ရရှိ ရန် ဖြစ်နိုင်ဖွယ် မရှိခဲဘူး။
+ဗိုလ်မှူးကြီး  Bishopသည် တစ်ခုခု ရရှိ ရန် ဖြစ်နိုင်ဖွယ် မရှိခဲဘူး။
 #5/5
 
 5412
 Colonel Bishop said something that was to be apprehended with utmost disgust.
-ဗိုလ်မှူးကြီး  ဘစ်လျှော့က အလွန် မနှစ်မြို့စွာဖြင့် အဖမ်းခံရမည် ဖြစ်သော တစ်စုံတစ်ရာအကြောင်းကို ပြောခဲ့သည်။
+ဗိုလ်မှူးကြီး  Bishopက အလွန် မနှစ်မြို့စွာဖြင့် အဖမ်းခံရမည် ဖြစ်သော တစ်စုံတစ်ရာအကြောင်းကို ပြောခဲ့သည်။
 #5/5
 
 5413
 The Bishop was supposed to apprehend a criminal.
-ဘစ်လျှော့သည် ရာဇ၀တ်ကောင် တစ်ယောက်ကို ဖမ်းခဲ့ရမည်ဖြစ်သည်။
+Bishopသည် ရာဇ၀တ်ကောင် တစ်ယောက်ကို ဖမ်းခဲ့ရမည်ဖြစ်သည်။
 #5/5
 
 5414
@@ -150,55 +100,53 @@ He spoke with a soft tone.
 
 5421
 Jeremy shouted very loudly to get their attention.
-ဂျယ်ရမီသည် သူတို့၏ အာရုံစိုက်မှု ရရှိရန် အလွန် ကျယ်လောင်စွာ အော်ခဲ့သည်။
+Jeremy သည် သူတို့၏ အာရုံစိုက်မှု ရရှိရန် အလွန် ကျယ်လောင်စွာ အော်ခဲ့သည်။
 #5/5
 
 5422
 Jeremy was a pirate for his entire life.
-ဂျယ်ရမီသည် သူ၏ ဘဝ တစ်ခုလုံးမှာ ပင်လယ်ဓားပြ တစ်ဦး ဖြစ်ခဲ့သည်။
+Jeremy သည် သူ၏ ဘဝ တစ်ခုလုံးမှာ ပင်လယ်ဓားပြ တစ်ဦး ဖြစ်ခဲ့သည်။
 #5/5
 
 5423
 Julian got off his mount as he told him that he had nothing to show.
-သူ့မှာ ပြသ ရန် ဘာမှ မရှိပါ ဟု သူက သူ့ကို ပြောခဲ့ သောကြောင့် ဂျူလီယန်က သူ၏ တောင်ပေါ်ကနေ ဆင်းခဲ့သည်။
+သူ့မှာ ပြသ ရန် ဘာမှ မရှိပါ ဟု သူက သူ့ကို ပြောခဲ့ သောကြောင့် Julian က သူ၏ တောင်ပေါ်ကနေ ဆင်းခဲ့သည်။
 #5/5
 
 5424
 Lord Julian had ridden his companion.
-သခင် ဂျူလီယန်သည် သူ၏ အဖော်ကို စီးနင်းသွားခဲ့သည်။
+သခင် Julian သည် သူ၏ အဖော်ကို စီးနင်းသွားခဲ့သည်။
 #5/5
 
 5425
 The companion of Lord Julian was a horse.
-သခင် ဂျူလီယန် ၏ အဖော်သည် မြင်း တစ်ကောင် ဖြစ်ခဲ့သည်။
+သခင် Julian ၏ အဖော်သည် မြင်း တစ်ကောင် ဖြစ်ခဲ့သည်။
 #5/5
 
 5426
 Remaining silent, Wolverstone realized that it was impossible for them to get into range.
-ဝူဗာစတုန်းက သူတို့အတွက် အကွာအဝေးကို ရောက်ရန် မဖြစ်နိုင်ကြောင်း သဘောပေါက်လာခဲ့ကာ တိတ်တိတ်ဆိတ်ဆိတ်နေသည်။
+Wolverstone က သူတို့အတွက် အကွာအဝေးကို ရောက်ရန် မဖြစ်နိုင်ကြောင်း သဘောပေါက်လာခဲ့ကာ တိတ်တိတ်ဆိတ်ဆိတ်နေသည်။
 #4/5
 
 5427
 Wolverstone attempted to captain his ship and was really close to another battle.
-ဝူဗာစတုန်းသည် သူ၏ သင်္ဘောကို ဦးဆောင်ရန် ကြိုးပမ်းခဲ့ ပြီးနောက် အခြား တိုက်ပွဲ နှင့် အရမ်း နီးစပ်ခဲ့သည်။
+Wolverstone သည် သူ၏ သင်္ဘောကို ဦးဆောင်ရန် ကြိုးပမ်းခဲ့ ပြီးနောက် အခြား တိုက်ပွဲ နှင့် အရမ်း နီးစပ်ခဲ့သည်။
 #5/5
 
 5428
 Wolverstone let out a curse as they realized that there was another half-mile before they were in range.
-ဝူဗာစတုန်းသည် သူတို့ အကွာအဝေးသို့မရောက်မီ နောက်ထပ်မိုင်ဝက်ခန့်ရှိနေသည်ကို သိရှိသဖြင့် ကျိန်ဆဲခဲ့သည်။
+Wolverstone သည် သူတို့ အကွာအဝေးသို့မရောက်မီ နောက်ထပ်မိုင်ဝက်ခန့်ရှိနေသည်ကို သိရှိသဖြင့် ကျိန်ဆဲခဲ့သည်။
 #5/5
 
 5429
 Even women think that he over-does his chivalry.
 သူ၏ ယဥ်ကျေးစွာပြုမူဆက်ဆံပုံကို အမျိုးသမီးတွေကတောင် လွန်လွန်ကဲကဲဖြစ်နေတယ်လို့ ထင်တယ်။
 #5/5
-# REVIEW
 
 5430
 He certainly goes overboard with his chivalry.
 သူသည် ယဥ်ကျေးစွာပြုမူဆက်ဆံမှုတွင် လွန်လွန်ကဲကဲ ပြုမူတတ်သည်။
 #4/5
-# REVIEW
 
 5431
 He needs to learn to be a little more chivalrous.
@@ -227,27 +175,27 @@ I also rescued 15 other people.
 
 5436
 I rescued Miss Bishop and his lordship together.
-ကျွန်တော် မစ် ဘစ်လျှော့ နှင့် သူ၏ သခင်ကို အတူတကွ ကယ်ဆယ်ခဲ့သည်။
+ကျွန်တော် Miss Bishop နှင့် သူ၏ သခင်ကို အတူတကွ ကယ်ဆယ်ခဲ့သည်။
 #5/5
 
 5437
 Miss Bishop rescued me and his lordship.
-မစ် ဘစ်လျှော့ သည် ငါ နဲ့ သူ၏ သခင်ကို ကယ်ဆယ်ခဲ့တယ်။
+Miss Bishop သည် ငါ နဲ့ သူ၏ သခင်ကို ကယ်ဆယ်ခဲ့တယ်။
 #4/5
 
 5438
 Blood was asking because he was very intent on doing things his way.
-သူက သူ့နည်းလမ်းနဲ့ ပစ္စည်းတွေ ပြုလုပ်ခြင်းကို အလွန် စိတ်အားထက်သန်နေ သောကြောင့် ဘလတ်က မေးမြန်းခဲ့သည်။
+သူက သူ့နည်းလမ်းနဲ့ ပစ္စည်းတွေ ပြုလုပ်ခြင်းကို အလွန် စိတ်အားထက်သန်နေ သောကြောင့် Bloodက မေးမြန်းခဲ့သည်။
 #5/5
 
 5439
 Blood, without care, asked if he could.
-ဘလတ်က ဂရုမစိုက်ဘဲ သူလုပ်ခွင့်ရမလား ဟု မေးမြန်းခဲ့တယ်
+Bloodက ဂရုမစိုက်ဘဲ သူလုပ်ခွင့်ရမလား ဟု မေးမြန်းခဲ့တယ်
 #5/5
 
 5440
 But what if he can not? asked Blood, politely.
-ဒါပေမယ့် သူ မလုပ်နိုင်လျှင် ဘာလုပ်မလဲ လို့ ဘလတ်က ယဉ်ကျေးစွာ ၊ မေးမြန်းခဲ့သည်။
+ဒါပေမယ့် သူ မလုပ်နိုင်လျှင် ဘာလုပ်မလဲ လို့ Bloodက ယဉ်ကျေးစွာ ၊ မေးမြန်းခဲ့သည်။
 #5/5
 
 5441
@@ -267,47 +215,47 @@ I will never serve the king!
 
 5444
 Peter had an idea so genius that anyone would agree.
-ပီတာသည် မည်သူမဆို သဘောတူလိမ့်မည်ဖြစ်သော ဉာဏ်ကြီးရှင် ကဲ့သို့သော အကြံဉာဏ် တစ်ခု ရှိခဲ့သည်။
+Peter သည် မည်သူမဆို သဘောတူလိမ့်မည်ဖြစ်သော ဉာဏ်ကြီးရှင် ကဲ့သို့သော အကြံဉာဏ် တစ်ခု ရှိခဲ့သည်။
 #5/5
 
 5445
 Peter thought he could survive jumping off of a 3 story building.
-ပီတာသည် ၃ထပ် အဆောက်အဦတစ်ခုမှ ခုန်ချခြင်းက သူ အသက်ရှင်နိုင်မည်ဟု ထင်ခဲ့သည်။
+Peter သည် ၃ထပ် အဆောက်အဦတစ်ခုမှ ခုန်ချခြင်းက သူ အသက်ရှင်နိုင်မည်ဟု ထင်ခဲ့သည်။
 #5/5
 
 5446
 Peter was having a thought that seemed ignorant.
-ပီတာတွင် အသိပညာကင်းမဲ့ ဟန်ရှိသည့် အတွေးတစ်ခု ရှိနေခဲ့သည်။
+Peter တွင် အသိပညာကင်းမဲ့ ဟန်ရှိသည့် အတွေးတစ်ခု ရှိနေခဲ့သည်။
 #5/5
 
 5447
 Captain Blood and Lord Julian stood forty feet apart.
-ကပ္ပတိန် ဘလတ် နှင့် သခင် ဂျူလီယန်တို့သည် ပေလေးဆယ် အကွာတွင် မတ်တပ်ရပ်နေခဲ့တယ်။
+ကပ္ပတိန် Blood နှင့် သခင် Julianတို့သည် ပေလေးဆယ် အကွာတွင် မတ်တပ်ရပ်နေခဲ့တယ်။
 #5/5
 
 5448
 Captain Blood stood with Lord Julian next to him.
-ကပ္ပတိန် ဘလတ်သည် သူ့ဘေးတွင် သခင် ဂျူလီယန် နှင့်အတူ မတ်တပ်ရပ်နေခဲ့တယ်။
+ကပ္ပတိန် Blood သည် သူ့ဘေးတွင် သခင် Julian နှင့်အတူ မတ်တပ်ရပ်နေခဲ့တယ်။
 #5/5
 
 5449
 Lord Julian was stading on Captain Blood's right.
-သခင် ဂျူလီယန်သည် ကပ္ပတိန် ဘလတ်၏ ညာဖက်တွင် မတ်တပ်ရပ်နေခဲ့တယ်။
+သခင် Julian သည် ကပ္ပတိန် Blood၏ ညာဖက်တွင် မတ်တပ်ရပ်နေခဲ့တယ်။
 #5/5
 
 5450
 As the boat collided with the Arabella, there was a loud sound.
-လှေသည် အာရာဘဲလာနှင့် တိုက်မိ လိုက်သည့်အချိန်တွင် ကျယ်လောင်သော အသံ တစ်ခု ဖြစ်ခဲ့သည်။
+လှေသည် Arabella နှင့် တိုက်မိ လိုက်သည့်အချိန်တွင် ကျယ်လောင်သော အသံ တစ်ခု ဖြစ်ခဲ့သည်။
 #5/5
 
 5451
 The Arabella is a boat with a red exterior.
-အာရာဘဲလာသည် အပြင်ပန်း အနီရောင်နှင့် လှေ တစ်စင်း ဖြစ်ပါသည်။
+Arabella သည် အပြင်ပန်း အနီရောင်နှင့် လှေ တစ်စင်း ဖြစ်ပါသည်။
 #5/5
 
 5452
 The boat had purposefully collided with the Arabella knowing it was there.
-အဆိုပါ လှေသည် အာရာဘဲလာ ထိုနေရာတွင် ရှိနေသည်ကို သိသိနှင့် ရည်ရွယ်ချက်ရှိရှိ ဝင်တိုက်ခဲ့သည်။
+အဆိုပါ လှေသည် Arabella ထိုနေရာတွင် ရှိနေသည်ကို သိသိနှင့် ရည်ရွယ်ချက်ရှိရှိ ဝင်တိုက်ခဲ့သည်။
 #5/5
 
 5453
@@ -417,32 +365,32 @@ There was some foreign language in the pages before him.
 
 5474
 I admit that I have disagreed with Wolverstone before.
-ကျွန်တော် အရင်က ဝူဗာစတုန်း နဲ့ သဘောမတူဖူးကြောင်း ကျွန်တော် ဝန်ခံပါတယ်။
+ကျွန်တော် အရင်က Wolverstone နဲ့ သဘောမတူဖူးကြောင်း ကျွန်တော် ဝန်ခံပါတယ်။
 #5/5
 
 5475
 I completely side with Wolverstone on this matter.
-ကျွန်တော်က ဒီကိစ္စမှာ လုံးဝ ဝူဗာစတုန်း ဖက်ကပါ။
+ကျွန်တော်က ဒီကိစ္စမှာ လုံးဝ Wolverstone ဖက်ကပါ။
 #5/5
 
 5476
 I have never heard of a person called Wolverstone.
-ဝူဗာစတုန်းလို့ ခေါ်တဲ့ လူ တစ်ယောက်ကို ကျွန်တော် ဘယ်တုန်းကမှ မကြားဖူးဖူး။
+Wolverstone လို့ ခေါ်တဲ့ လူ တစ်ယောက်ကို ကျွန်တော် ဘယ်တုန်းကမှ မကြားဖူးဖူး။
 #5/5
 
 5477
 Ogle appears to be rather foolish, as one claimed.
-အို့ဂဲလ်သည် လူတစ်ယောက်က ပြောခဲ့သည့် အတိုင်း ၊ အလွန် မိုက်မဲပုံ ပေါ်သည်။
+Ogle သည် လူတစ်ယောက်က ပြောခဲ့သည့် အတိုင်း ၊ အလွန် မိုက်မဲပုံ ပေါ်သည်။
 #5/5
 
 5478
 Ogle was foolish in believing in the existence of Santa Claus.
-အို့ဂဲလ်က ဆန်တာကလော့ တကယ်ရှိသည်ဟု ယုံကြည်ခဲ့ရာတွင်တော့  မိုက်မဲခဲ့ပါသည်။
+Ogle က ဆန်တာကလော့ တကယ်ရှိသည်ဟု ယုံကြည်ခဲ့ရာတွင်တော့  မိုက်မဲခဲ့ပါသည်။
 #5/5
 
 5479
 One said that Ogle was certainly the smartest man he had ever met.
-အို့ဂဲလ်သည် သူတွေ့ဖူးသမျှထဲမှာ ဉာဏ်အကောင်းဆုံး အမျိုးသား ဖြစ်တယ်ဆိုတာ သေချာတယ် လို့ တစ်ယောက်က ပြောခဲ့သည်။
+Ogle သည် သူတွေ့ဖူးသမျှထဲမှာ ဉာဏ်အကောင်းဆုံး အမျိုးသား ဖြစ်တယ်ဆိုတာ သေချာတယ် လို့ တစ်ယောက်က ပြောခဲ့သည်။
 #5/5
 
 5480
@@ -462,57 +410,57 @@ The boat's cannons were currently unmanned.
 
 5483
 Blood got into a bathtub and sailed away.
-ဘလတ်က ရေချိုးကန် တစ်ခုထဲ ဆင်းသွား ပြီး အဝေးသို့ ရွက်လွှင့်ခဲ့သည်။
+Blood က ရေချိုးကန် တစ်ခုထဲ ဆင်းသွား ပြီး အဝေးသို့ ရွက်လွှင့်ခဲ့သည်။
 #5/5
 
 5484
 Blood got into a boat.
-ဘလတ်က လှေ တစ်စီး ပေါ် တက်သွားတယ်။
+Blood က လှေ တစ်စီး ပေါ် တက်သွားတယ်။
 #5/5
 
 5485
 Blood got into a purple boat.
-ဘလတ်က ခရမ်းရောင်ရှိသော လှေ တစ်စီး ပေါ် တက်သွားတယ်။
+Blood က ခရမ်းရောင်ရှိသော လှေ တစ်စီး ပေါ် တက်သွားတယ်။
 #5/5
 
 5486
 He encountered Miss Bishop.
-သူသည် မစ် ဘစ်လျှော့ နှင့် ပက်ပင်းတိုးခဲ့သည်။
+သူသည် မစ် Bishop နှင့် ပက်ပင်းတိုးခဲ့သည်။
 #5/5
 
 5487
 He never encountered Miss Bishop.
-သူသည် မစ် ဘစ်လျှော့ နှင့် ဘယ်တုန်းကမှ မတွေ့ခဲ့ပါ။
+သူသည် မစ် Bishop နှင့် ဘယ်တုန်းကမှ မတွေ့ခဲ့ပါ။
 #5/5
 
 5488
 Miss Bishop was wearing red shoes.
-မစ် ဘစ်လျှော့သည် အနီရောင် ဖိနပ်ကို ဝတ်ဆင်ထားခဲ့သည်။
+မစ် Bishopသည် အနီရောင် ဖိနပ်ကို ဝတ်ဆင်ထားခဲ့သည်။
 #5/5
 
 5489
 He told Ogle that his station is always in the galley.
-သူ၏ နေရာသည် ပြတိုက်တွင် အမြဲတမ်း ရှိပါတယ် ဆိုတာကို သူက အို့ဂဲလ်ကို ပြောခဲ့သည်။
+သူ၏ နေရာသည် ပြတိုက်တွင် အမြဲတမ်း ရှိပါတယ် ဆိုတာကို သူက Ogle ကို ပြောခဲ့သည်။
 #5/5
 
 5490
 He told Ogle that his station is on the gun-deck.
-သူ၏ တာ၀န်ကျရာနေရာသည် သေနတ်တပ်နေရာပါ ဆိုတာကို သူက အို့ဂဲလ်ကို ပြောခဲ့သည်။
+သူ၏ တာ၀န်ကျရာနေရာသည် သေနတ်တပ်နေရာပါ ဆိုတာကို သူက Ogle ကို ပြောခဲ့သည်။
 #5/5
 
 5491
 Ogle is always stationed on the gun-deck.
-အို့ဂဲလ်က သေနတ်တပ်နေရာမှာ အမြဲတမ်း တာ၀န်ကျသည်။
+Ogle က သေနတ်တပ်နေရာမှာ အမြဲတမ်း တာ၀န်ကျသည်။
 #5/5
 
 5492
 Captain Blood was nowhere to be found.
-ကပ္ပတိန် ဘလတ်ကို ဘယ်နေရာမှာမှ ရှာမတွေ့ခဲ့ဘူး။
+ကပ္ပတိန် Bloodကို ဘယ်နေရာမှာမှ ရှာမတွေ့ခဲ့ဘူး။
 #5/5
 
 5493
 He could see Captain Blood.
-သူ ကပ္ပတိန် ဘလတ်ကို မြင်နိုင်သည်။
+သူ ကပ္ပတိန် Blood ကို မြင်နိုင်သည်။
 #5/5
 
 5494
@@ -537,15 +485,15 @@ She went ahead of him by walking in the same direction.
 
 5498
 Wolverstone did not laugh.
-ဝူဗာစတုန်းက မရယ်မောခဲ့ဘူး။
+Wolverstone က မရယ်မောခဲ့ဘူး။
 #5/5
 
 5499
 Wolverstone laughed.
-ဝူဗာစတုန်းက ရယ်မောခဲ့သည်။
+Wolverstone က ရယ်မောခဲ့သည်။
 #5/5
 
 5500
 Wolverstone thought that was funny.
-ဝူဗာစတုန်းက အဲဒါကို ရယ်စရာလို့ ထင်ခဲ့တယ်။
+Wolverstone က အဲဒါကို ရယ်စရာလို့ ထင်ခဲ့တယ်။
 #5/5

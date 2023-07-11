@@ -1,76 +1,32 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 4901
 Blood was grumpy because he hadn't had anything to eat.
-သူ့မှာ စားစရာ တစ်ခုခု မရှိလို့ ဘလတ် စိတ်တိုခဲ့တယ်။
+သူ့ ဘာမှ မစားရခဲ့သေး လို့ Blood စိတ်တိုနေခဲ့တယ်။
+# 5/5
 
 4902
 Ogle didn't meet with any opposition when he was progressing.
-အို့ဂဲလ်က သူ အခြေအနေတိုးတတ်နေ ချိန်တွင် မည်သည့် အတိုက်အခံ နှင့်မျှ မတွေ့ခဲ့ဘူး။
+Ogle က သူ အခြေအနေတိုးတတ်နေ ချိန်တွင် မည်သည့် အတိုက်အခံ နှင့်မျှ မတွေ့ခဲ့ဘူး။
+# 4/5
 
 4903
 Ogle's advancement was blocked by blood, who looked sternly at him while he met him with argumentative intent.
-သူနဲ့ တွေ့ဆုံ ချိန်မှာ ငြင်းခုံစေရန် ရည်ရွယ်ချက်ဖြင့် သူ့ကို မလိုမုန်းထား ကြည့်တတ်သော ဘလတ်က အို့ဂဲလ်၏ တိုးတတ်မှုကို ပိတ်ပင်ခဲ့သည်။
+သူနဲ့ တွေ့ဆုံ ချိန်မှာ ငြင်းခုံစေရန် ရည်ရွယ်ချက်ဖြင့် သူ့ကို မလိုမုန်းထား ကြည့်တတ်သော Blood က Ogle၏ တိုးတတ်မှုကို ပိတ်ပင်ခဲ့သည်။
+# 5/5
 
 4904
 I accept it willingly.
 ငါ ဒါကို ကျေကျေနပ်နပ် လက်ခံတယ်။
+# 5/5
 
 4905
 I am not willing to accept it, but I could be convinced.
 ငါ ဒါကို လက်ခံ ရန် ဆန္ဒ မရှိ ပေမယ့် ၊ ငါ့ကိုယုံကြည်အောင်လုပ် နိုင်ပါတယ်။
+# 5/5
 
 4906
 I don't accept it willingly.
 ငါ ဒါကို ကျေကျေနပ်နပ် လက်မခံဘူး။
+# 5/5
 
 4907
 After a pause he said a murderer, I.
@@ -80,6 +36,7 @@ After a pause he said a murderer, I.
 4908
 He hadn't murdered anyone.
 သူ ဘယ်သူ့ကိုမှ သတ်ဖြတ်ခြင်း မရှိခဲ့ဘူး။
+# 5/5
 
 4909
 Immediately he said, A murderer, I.
@@ -89,366 +46,454 @@ Immediately he said, A murderer, I.
 4910
 I have been following him closely for a year without him knowing.
 ငါ သူ့ကို သူမသိပဲတစ်နှစ်ကြာတောင် နီးနီးကပ်ကပ် သူ့နောက်ကို လိုက်နေခဲ့တယ်။
+# 4/5
 
 4911
 I have only been following him for close to a week.
 ငါ  သူ့နောက် လိုက်နေတာ တစ်ပတ်နီးပါး သာလျှင် ရှိသေးတယ်။
+# 5/5
 
 4912
 Over the course of the past year I have been stalking him.
 ပြီးခဲ့သော တစ်နှစ်တာကာလ အတွင်း ငါ သူ့ကိုနောက်‌‌‌ယောင်ခံလိုက်နေခဲ့တယ်။
+# 5/5
 
 4913
 Miss Bishop walked through a group of men.
-မစ် ဘစ်လျှော့က ယောက်ျားအုပ်စု တစ်စု ကို ဖြတ်ပြီး လမ်းလျှောက်ခဲ့တယ်။
+Miss Bishop က ယောက်ျားအုပ်စု တစ်စု ကို ဖြတ်ပြီး လမ်းလျှောက်ခဲ့တယ်။
+# 5/5
 
 4914
 Miss Bishop walked through a group of twenty men.
-မစ်ဘစ်လျှော့က ယောက်ျား နှစ်ဆယ် ပါ အုပ်စု တစ်ခုကို ဖြတ်ပြီး လမ်းလျှောက်ခဲ့တယ်။
+Miss Bishop က ယောက်ျား နှစ်ဆယ် ပါ အုပ်စု တစ်ခုကို ဖြတ်ပြီး လမ်းလျှောက်ခဲ့တယ်။
+# 5/5
 
 4915
 Miss Bishop walked through a group of women, and there weren't any men present.
-မစ်ဘစ်လျှော့က မိန်းမ အုပ်စု တစ်စု ကို ဖြတ်ပြီး လမ်းလျှောက်ခဲ့ ပြီးနောက် ၊ အဲ့မှာ မည်သည့် အမျိုးသားများ ရှိနေခြင်း မရှိခဲ့ပေ။
+Miss Bishop မိန်းမ အုပ်စု တစ်စု ကို ဖြတ်ပြီး လမ်းလျှောက်ခဲ့ ပြီးနောက် ၊ အဲ့မှာ မည်သည့် အမျိုးသားများ ရှိနေခြင်း မရှိခဲ့ပေ။
+# 5/5
 
 4916
 His lordship told her that ships came from the Jamaica fleet.
-သူ၏ သခင်က သင်္ဘောများ ဂျမေကာ ရေတပ်သင်္ဘောအစု မှ ဆင်းသက်တယ်လို့ သူ့ကို ပြောခဲ့တယ်။
-#  His lordship, သခင်ကြီး ?
+သခင်ကြီးက သင်္ဘောများ ဂျမေကာ ရေတပ်သင်္ဘောအစု မှ ဆင်းသက်တယ်လို့ သူ့ကို ပြောခဲ့တယ်။
+# 5/5
 
 4917
 The ships of the Jamaica fleet impressed her, that's why she asked about them.
 ဂျမေကာ ရေတပ်သင်္ဘောအစု ၏ သင်္ဘောများ က သူမကို အထင်ကြီးစေတယ် ၊ ဒါကြောင့် သူမက ဒါတွေနဲ့ ပတ်သက်ပြီး မေးခဲ့တယ်။
+# 5/5
 
 4918
 They are ships of the American fleet, his lordship answered her.
-ဒါတွေက အမေရိကန် ရေတပ်သင်္ဘောအစု ၏ သင်္ဘောများ ဖြစ်ပါတယ် လို့ ၊ သူ၏ သခင်က သူ့ကို ပြန်ဖြေကြားခဲ့တယ်။
-#His lordship, သခငိကြီး ?
+ဒါတွေက အမေရိကန် ရေတပ်သင်္ဘောအစု ၏ သင်္ဘောများ ဖြစ်ပါတယ် လို့ ၊ သခင်ကြီးက သူ့ကို ပြန်ဖြေကြားခဲ့တယ်။
+# 5/5
 
 4919
 He liked the girl so he put himself in a bad position.
-သူက ကောင်မလေးကို သဘောကျခဲ့တယ် ဒါကြောင့် သူက သူကိုယ်တိုင်တောင် ကောင်းအောင် မနေခဲ့ဘူး။
 သူက ကောင်မလေးကို သဘောကျခဲ့တာကြောင့် သူ့အတွက် အခြေအနေဆိုး သူ့ဟာသူဖြစ်စေခဲ့တယ်။ 
+# 4/5
 
 4920
 He placed himself in a position for a girl that didn't pay attention to him.
 သူ့ကို အာရုံမရှိ တဲ့ မိန်းကလေး တစ်ယောက် အတွက် နေရာတစ်ခုမှာသူရောက်နေခဲ့တယ်။
+# 4/5
 
 4921
 He put himself in his current position for a girl that was obsessed with him.
 သူ့ကို စွဲလမ်းနေ တဲ့ မိန်းကလေး တစ်ယောက် အတွက် သူက သူ၏ လက်ရှိ နေရာမှာ သူ့ဟာသူ နေခဲ့တယ်။
+# 4/5
 
 4922
 You are definitely wrong.
 မင်း လုံးဝ မှားတယ်။
+# 5/5
 
 4923
 You may be right about several situations, but you may be wrong too.
-မင်း အခြေအနေ များစွာ နှင့်ပတ်သက်၍ မှန်ကောင်းမှန်နိုင် ပေမယ့် ၊ မင်း လည်းပဲ မှားနိုင်ပါတယ်။
+မင်း အခြေအနေ များစွာ နှင့်ပတ်သက်၍ မှန်ကောင်းမှန်နိုင် ပေမယ့် ၊ မင်း မှားနေတာလဲ ဖြစ်နိုင်ပါတယ်။
+# 5/5
 
 4924
 You may be wrong but it's possible that you're right
 မင်း မှား နိုင် သော်လည်း မင်း မှန်တယ် ဆိုတာ ဖြစ်နိုင်ပါတယ်။
+# 5/5
 
 4925
 I'm sure you didn't grant the King's commission to this man, he said cheerfully.
 မင်းက ဒီလူကို ဘုရင်ရဲ့ စုံစမ်းရေးအဖွဲ့ကို ဝင်ခွင့်မပြုတာ သေချာတယ် လို့ ၊ သူက ရွှင်မြူးစွာ ပြောပါတယ်။
+# 5/5
 
 4926
 His tone denounced the bitterness of his resentment.
 သူ၏ လေသံက သူ့ နာကြည်းမှု ၏ ခါးသီးမှုကို ထုတ်ဖော်ပြခဲ့တယ်။
+# 4/5
 
 4927
 You have granted, I am told, the King's commission to the man because of his bravery.
-မင်းက ဒီလူကို ဘုရင်ရဲ့ စုံစမ်းရေးအဖွဲ့ကို ဝင်ခွင့်ပြုတာ သူ၏ ရဲစွမ်းသတ္တိကြောင့် ဟု ၊ ငါက ပြောခဲ့သည်။
+မင်းက ဒီလူကို ဘုရင်ရဲ့ စုံစမ်းရေးအဖွဲ့ကို ဝင်ခွင့်ပြုတာ သူ၏ ရဲစွမ်းသတ္တိကြောင့် လို့ ငါကြားမိတယ်။
+# 4/5
 
 4928
 She was blue and she kept her eyes closed all the time.
 သူမ သည် အရမ်းဝမ်းနည်းခဲ့ ပြီးတော့ သူမက သူမ ၏ မျက်လုံးများ ကို တချိန်လုံး မှိတ်ထားခဲ့သည်။
+# 4/5
 
 4929
 She was very pale and she kept her eyes on her hands.
 သူမသည် အလွန်ဖြူဖျော့နေ ပြီး သူမက သူမ ၏ လက်ကို စိုက်ကြည့်နေခဲ့သည်။
+# 4/5
 
 4930
 She was very white because she used to live in a cold country.
 သူမက အေးတဲ့နိုင်ငံ တစ်နိုင်ငံ မှာ နေဖူး သောကြောင့် သူမ အလွန် ဖြူတယ်။
+# 4/5
 
 4931
 So they didn't tell you about our situation!
-ဒါကြောင့် သူတို့က ကျွန်တော်တို့ရဲ့ အခြေအနေ နဲ့ ပတ်သက်ပြီး မင်းကို မပြောခဲ့တာပါ!
+ဒါဆို သူတို့က ကျွန်တော်တို့ရဲ့ အခြေအနေ နဲ့ ပတ်သက်ပြီး မင်းကို မပြောခဲ့ဘူးပေါ့!
+# 4/5
 
 4932
 So they've told you about the difficult situation!
-ဒါကြောင့် သူတို့က ခက်ခဲတဲ့ အခြေအနေ နဲ့ ပတ်သက်ပြီး မင်းကို ပြောပီးပီပေါ့!
+ဒါကြောင့် သူတို့က ခက်ခဲတဲ့ အခြေအနေ နဲ့ ပတ်သက်ပြီး မင်းကို ပြောပြီးပြီပေါ့!
+# 4/5
 
 4933
 So you were told about that!
 အဲတော့ ဒါနဲ့ပတ်သက်ပြီး မင်းကို ပြောပြခဲ့တာပဲ!
+# 4/5
 
 4934
 He was angry because she always talks too much.
-သူမက အမြဲတမ်း အလွန်အကျွံ စကားပြော သောကြောင့် သူ ဒေါသထွက်ခဲ့သည်။
+သူမက အမြဲတမ်း စကားများများပြော သောကြောင့် သူ ဒေါသထွက်ခဲ့သည်။
+# 4/5
 
 4935
 He was very happy, so she wasn't worried about his anger.
 သူ အရမ်း ပျော်ခဲ့တယ် ၊ ဒါကြောင့် သူမ က သူ့ရဲ့ဒေါသနဲ့ပတ်သက်ပြီး စိုးရိမ်မှု မရှိခဲ့ပါဘူး။
+# 4/5
 
 4936
 She thought she may have provoked his anger.
 သူမ က သူ၏ ဒေါသ ကို နှိုးဆွနေတယ် လို့ သူမ ထင်ခဲ့သည်။
+# 5/5
 
 4937
 I am eternally thankful.
 ကျွန်တော်က ထာဝရ ကျေးဇူးတင်နေပါတယ်။
+# 5/5
 
 4938
 I am so happy and grateful for what you have done today.
 ဒီနေ့ မင်း လုပ်ခဲ့တာတွေ အတွက် ငါ အရမ်း ဝမ်းသာ ပြီး ကျေးဇူးတင်ပါတယ်။
+# 5/5
 
 4939
 I will forever be filled with malice and hatred.
 ငါက အငြိုး နှင့် အမုန်းတရား တို့နှင့် အမြဲ ပြည့်နှက်နေလိမ့်မယ်။
+# 5/5
 
 4940
 He wanted revenge more than anything else in the world.
 သူသည် ကမ္ဘာပေါ်ရှိ အခြားအရာများ ထက် ပိုပြီး လက်စားချေလိုတယ်။
+# 4/5
 
 4941
 He would forgo the blood due to him if his mom asked him to.
-သူ့အမေက သူ့ကို တောင်းဆို လျှင် သူ့ကြောင့် ဘလတ်ကို သူ လက်လွတ်လိုက်မှာ။
+သူ့အမေက သူ့ကို တောင်းဆို လျှင် သူ့ကြောင့် Bloodကို သူ လက်လွတ်လိုက်မှာ။
+# 4/5
 
 4942
 He would not give up the blood he thought due to him for his daughter, mom or niece.
-သူ၏ သမီး၊ အမေ ဒါမှမဟုတ် တူမ အတွက် သူ့ကြောင့်တော့ သူ ဘလတ်ကို အရှုံးပေးမှာမဟုတ်ဘူး လို့ ထင်တယ်။
+သူ၏ သမီး၊ အမေ ဒါမှမဟုတ် တူမ အတွက် သူ့ကြောင့်တော့ သူ သွေးချင်းတွေကို အရှုံးပေးမှာမဟုတ်ဘူး လို့ ထင်တယ်။
+# 3/5
 
 4943
 The Arabella came to a tiny city that was located on a barren land devoid of life.
-အာရာဘဲလာသည် လူသူကင်းမဲ့ ပြီး အသက်မဲံ့ခြောက်ကပ်နေတဲ့ ကုန်းမြေ ပေါ်တွင် တည်ရှိတဲ့ မြို့ငယ်လေး တစ်မြို့ဆီသို့ ရောက်လာခဲ့တယ်။
+Arabella သည် လူသူကင်းမဲ့ ပြီး အသက်မဲ့ခြောက်ကပ်နေတဲ့ ကုန်းမြေ ပေါ်တွင် တည်ရှိတဲ့ မြို့ငယ်လေး တစ်မြို့ဆီသို့ ရောက်လာခဲ့တယ်။
+# 5/5
 
 4944
 The Arabella was located just across the harbour's edge where the rest of the city was located.
-အာရာဘဲလာသည် မြို့၏ ကျန်ရှိတဲ့အပိုင်းမှာ တည်ရှိတဲ့ ဆိပ်ကမ်း ၏ အစွန်း တစ်ဖက်တွင် တည်ရှိခဲ့သည်။
+Arabellaသည် မြို့၏ ကျန်ရှိတဲ့အပိုင်းမှာ တည်ရှိတဲ့ ဆိပ်ကမ်း ၏ အစွန်း တစ်ဖက်တွင် တည်ရှိခဲ့သည်။
+# 5/5
 
 4945
 The city was a very popular location for trade as it was right near the water.
 အဆိုပါမြို့က ရေနဲ့ နီးတဲ့ အတွက်ကြောင့် ကုန်သွယ်ဖို့ အတွက် အရမ်း လူသိများတဲ့ နေရာ တစ်ခု ဖြစ်ခဲ့သည်။
+# 5/5
 
 4946
 I'm not ashamed of anything that I've done, considering the provocation I've received.
-ငါ ရတဲ့ ဒေါသကို ဆင်ခြင်ရင်း ၊ ငါ လုပ်ခဲ့သမျှ အရာရာကို ငါတော့ မရှက်ဘူး။
+ငါရတဲ့ ဒေါသဖြစ်စရာတွေကို စဥ်းစားကြည့်ရင် ၊ ငါ လုပ်ခဲ့သမျှ အရာရာကို ငါ မရှက်တော့ဘူး။
+# 4/5
 
 4947
 I'm very ashamed of everything, I need to apologize immediately.
 ငါ အားလုံးကို အရမ်း ရှက်မိပါတယ် ၊ ငါ ချက်ချင်း တောင်းပန် ရန် လိုတယ်။
+# 5/5
 
 4948
 I've done nothing at all that I am ashamed of because I was heavily provoked.
-ငါ့ကို ပြင်းပြင်းထန်ထန် လှုံ့ဆော်ခဲ့ ပေမယ့် ငါ ရှက်စရာကောင်းတာ တစ်ခုမှ လုပ်မထားဘူး။
+ငါ့ကို ပြင်းပြင်းထန်ထန် တိုက်ခိုက်ခဲ့ ပေမယ့် ငါ ရှက်စရာကောင်းတာ တစ်ခုမှ လုပ်မထားဘူး။
+# 4/5
 
 4949
 Blood was the captain of a ship and Wolverstone was his best friend.
-ဘလတ် သည် သင်္ဘော၏ ကပ္ပတိန် ဖြစ်ပြီး ဝူဗာစတုန်း သည် သူ၏ အကောင်းဆုံး သူငယ်ချင်း ဖြစ်ခဲ့တယ်။
+Blood သည် သင်္ဘော၏ ကပ္ပတိန် ဖြစ်ပြီး Wolverstone သည် သူ၏ အခင်ဆုံး သူငယ်ချင်း ဖြစ်ခဲ့တယ်။
+# 4/5
 
 4950
 Wolverstone had voiced his opinion in a tone that was slow as he made his way towards Blood.
-ဝူဗာစတုန်းသည် ဘလတ် ဆီသို့ သွားရင်း နှေးကွေးသော လေသံဖြင့် သူ၏ ထင်မြင်ချက်ကို ထုတ်ဖော်ခဲ့သည်။
+Wolverstone သည် Blood ဆီသို့ သွားရင်း နှေးကွေးသော လေသံဖြင့် သူ၏ ထင်မြင်ချက်ကို ထုတ်ဖော်ခဲ့သည်။
+# 4/5
 
 4951
 Wolverstone remained quiet as he made his way away from Blood.
-ဝူဗာစတုန်းသည် ဘလတ်ဆီ မှ ပြန်လာရင်း တိတ်ဆိတ်နေခဲ့သည်
+Wolverstoneသည် Blood ရဲ့အဝေးသို့ ထွက်လာရင်း တိတ်ဆိတ်နေခဲ့သည်
+# 4/5
 
 4952
 Back then you had great fortune.
-အဲဒီတုန်းက မင်း ကံကောင်းခဲ့တယ်။
+အဲဒီတုန်းက မင်း ချမ်းသာခဲ့တယ်။
+# 5/5
 
 4953
 In the past you were an unfortunate gentleman.
 အရင်တုန်းက မင်းက ကံမကောင်းတဲ့ လူတစ်‌ယောက် ဖြစ်ခဲ့တယ်။
+# 5/5
 
 4954
 You were unfortunate but now you have a better circumstance.
 မင်းက ကံမကောင်းခဲ့ ပေမယ့် အခုတော့ မင်းမှာ ပိုကောင်းတဲ့ အခြေအနေ တစ်ခု ရှိနေပြီ။
+# 5/5
 
 4955
 He had a beard that was a gold color.
-သူ့မှာ ရွှေရောင် ဖြစ်ဖူးတဲ့ မုတ်ဆိတ်မွေး ရှိခဲ့တယ်။
+သူ့မှာ ရွှေရောင် ဖြစ်တဲ့ မုတ်ဆိတ်မွေး ရှိခဲ့တယ်။
+# 5/5
 
 4956
 He had been growing his beard for years.
-နှစ်တွေ ကြာလာတော့ သူ့ရဲ့ မုတ်ဆိတ်မွေးတွေက ရှည်လာတယ်။
+သူ့က မုတ်ဆိတ်မွေးတွေကို နှစ်များစွာ အရှည်ထားခဲ့တယ်။
+# 4/5
 
 4957
 His face was clean-shaven.
-သူ့မျက်နှာက သန့် ပြီး ဖြူစင်နေတယ်။
+သူ့မျက်နှာကို ပြောင်အောင် ရိတ်ထားခဲ့တယ်။
+# 5/5
 
 4958
 The woman had had enough of their bad behavior.
-အမျိုးသမီးသည် သူတို့၏ မကောင်းတဲ့ အပြုအမူ လုံလုံလောက်လောက် ရရှိပြီး ဖြစ်သည်။
+ထိုအမျိုးသမီးသည် သူတို့၏ မကောင်းတဲ့ အပြုအမူတွေကို သည်းခံနိုင်စွမ်း ကျော်လွန်သွားပြီ ဖြစ်သည်။
+# 5/5
 
 4959
 The woman was angry and defensive.
-အမျိုးသမီးက ဒေါသထွက် ပြီး ခုခံခဲ့တယ်။
+ထိုအမျိုးသမီးက ဒေါသထွက် ပြီး ခုခံခဲ့တယ်။
+# 5/5
 
 4960
 The woman was so delighted that she was speechless!
-အမျိုးသမီးက အရမ်းပျော်သွားတယ် ဒါက သူမကို ပြောစရာစကားမဲ့ခဲ့တယ်!
+ထိုအမျိုးသမီးက စကားမပြောနိုင်လောက်အောင် အရမ်းပျော်သွားခဲ့တယ်!
+# 5/5
 
 4961
 Captain Blood bowed silently because he was a quiet man.
-ကပ္ပတိန် ဘလတ် က တိတ်တဆိတ်နေတတ်တဲ့ လူတစ်ယောက် ဖြစ်ခဲ့လို့ သူက တိတ်တိတ်လေး ဦးညွှတ်လိုက်ပါတယ်။
+ကပ္ပတိန် Blood က တိတ်တဆိတ်နေတတ်တဲ့ လူတစ်ယောက် ဖြစ်ခဲ့လို့ သူက တိတ်တိတ်လေး ဦးညွှတ်လိုက်ပါတယ်။
+#5/5
 
 4962
 Captain Blood completely ignored her presence and she didn't even notice him.
-ကပ္ပတိန် ဘလတ် က သူမ ရှိနေခြင်း ကို လုံးဝ လျစ်လျူရှုထား ပြီး သူမကလည်း သူ့ကိုတောင် သတိမထားမိဘူး။
+ကပ္ပတိန် Blood က သူမ ရှိနေခြင်း ကို လုံးဝ လျစ်လျူရှုထား ပြီး သူမကလည်း သူ့ကိုတောင် သတိမထားမိဘူး။
+#5/5
 
 4963
 She responded to Captain Blood's greeting in a formal and calm way.
-သူမက ကပ္ပတိန် ဘလတ် ၏ နှုတ်ဆက်ခြင်းကို သမားရိုးကျ ၍ တည်ငြိမ်သော နည်းလမ်း တစ်ခုဖြင့် တုန့်ပြန်ခဲ့သည်။
+သူမက ကပ္ပတိန် Blood ၏ နှုတ်ဆက်ခြင်းကို သမားရိုးကျ ၍ တည်ငြိမ်သော နည်းလမ်း တစ်ခုဖြင့် တုန့်ပြန်ခဲ့သည်။
+#5/5
 
 4964
 There had been problems with Bishop since the landing.
-ဘစ်လျှောက ဆင်းသက် ကတည်းက ပြဿနာတွေ ရှိခဲ့ပါတယ်။
+Bishop က ဆင်းသက် ကတည်းက ပြဿနာတွေ ရှိခဲ့ပါတယ်။
+#5/5
 
 4965
 There had been trouble with Bishop because nobody likes him.
-ဘစ်လျှောသည် သူ့ကို ဘယ်သူကမှ မကြိုက် သောကြောင့် ဒုက္ခရောက်ခဲ့တယ်။
+Bishop သည် သူ့ကို ဘယ်သူကမှ မကြိုက် သောကြောင့် ဒုက္ခရောက်ခဲ့တယ်။
+#4/5
 
 4966
 There were no problems, everything was perfectly fine.
 ပြဿနာမရှိပါဘူး ၊ အရာအားလုံး လုံးဝ ကောင်းခဲ့ပါတယ်။
+#5/5
 
 4967
 Ogle had been waiting a long time.
-အို့ဂဲလ်က အချိန်အတော်ကြာ စောင့်နေခဲ့တယ်။
+Ogle က အချိန်အတော်ကြာ စောင့်နေခဲ့တယ်။
+#5/5
 
 4968
 Ogle was losing his patience.
-အို့ဂဲလ်သည် သူ၏ သည်းခံနိုင်စွမ်း ပျောက်ဆုံးသွားခဲ့သည်။
+Ogle သည် သူ၏ သည်းခံနိုင်စွမ်း ပျောက်ဆုံးသွားခဲ့သည်။
+#5/5
 
 4969
 Ogle was peaceful and calm.
-အို့ဂဲလ်သည် ငြိမ်သက် ပြီး အေးချမ်းခဲ့သည်။
+Ogle သည် ငြိမ်သက် ပြီး အေးချမ်းခဲ့သည်။
+#5/5
 
 4970
 I don't think Lord Julian was sententious, he was so dumb!
-သခင် ဂျူလီယန်ကို ရက်စက်တယ်လို့ မထင်ပါဘူး ၊ သူက အရမ်း မိုက်တယ်!
+သခင် Julian ကို ပါးနပ်လိမ္မာတယ်လို့ မထင်ပါဘူး ၊ သူက အရမ်း တုံးတယ်!
+#5/5
 
 4971
 I think Lord Julian was sententious, as he used to be.
-သခင် ဂျူလီယန်ကို အရင်တုန်းကလိုပဲ ရက်စက်တယ်လို့ ထင်တယ်။
+သခင် Julian ကို အရင်တုန်းကလိုပဲ ပါးနပ်လိမ္မာတယ်လို့ ထင်တယ်။
+#5/5
 
 4972
 Lord Julian was sententious and wise, as I gather that he often was because of his position
-သခင် ဂျူလီယန်သည် ရက်စက် ပြီး ဉာဏ်ပညာရှိတယ် ၊ ဒါဟာ သူ၏ ရာထူးကြောင့် ဒီလို မကြာခဏ ဖြစ်ရတာလို့ ငါ ယုံကြည်တယ်။
+သခင် Julian သည် ပါးနပ်လိမ္မာပြီး ဉာဏ်ပညာရှိတယ်၊ သူ့ ရာထူးအရလဲ ငါက အဲလိုထင်တယ်။
+#3/5
 
 4973
 I could not possibly prove to you anything at all.
 ငါ မင်းကို တကယ်ကို ဘာမှ သက်သေမပြနိုင်ခဲ့ဘူး။
+#5/5
 
 4974
 I could prove this because of all the evidence I had collected without your knowledge.
 မင်း မသိဘဲ ငါစုဆောင်းထားတဲ့ အထောက်အထားတွေ အားလုံး ကြောင့် ဒါကို ငါ သက်သေပြနိုင်တယ်။
+#5/5
 
 4975
 I could prove to you the falsehoods that were present in the transactions.
 လုပ်ငန်းတွေမှာ ပါရှိနေတဲ့ အမှားတွေကို မင်းကို ငါသက်သေပြနိုင်တယ်။
+#5/5
 
 4976
 He did not ask any questions, since he knew he had picked the best way.
 သူသည် အကောင်းဆုံးနည်းလမ်းကို ရွေးချယ်ခဲ့သည်ကို သူသိသောကြောင့် ၊ သူက မည်သည့် မေးခွန်းမှ မမေးခဲ့ပေ။
+#5/5
 
 4977
 He wanted to know if there was a better way.
 ပိုပြီးကောင်းတဲ့ နည်းလမ်း တစ်ခု ရှိလျှင် သူက သိချင်ခဲ့တယ်။
+#4/5
 
 4978
 He was convinced that he had chosen the best way.
 သူသည် အကောင်းဆုံး နည်းလမ်းကို ရွေးချယ်ခဲ့ ကြောင်း သူ ယုံကြည်ခဲ့သည်။
+#5/5
 
 4979
 The person wanted a lover.
 အဲလူက ချစ်သူ တစ်ယောက် လိုချင်ခဲ့တယ်။
+#5/5
 
 4980
 The person was in a hurry.
 အဲလူက အလျင်လိုနေတယ်။
+#5/5
 
 4981
 The person was taking their time.
 အဲလူက သူတို့၏ အချိန်ကို ယူခဲ့တယ်။
+#4/5
 
 4982
 You must not look at the crisis happening at this very moment.
 မင်း ဒီအချိန်မှာ ဖြစ်နေတဲ့ အကျပ်အတည်းကို မကြည့်သင့်ဘူး။
+#5/5
 
 4983
 You need to pay more attention.
 မင်းက ပိုပြီး အာရုံစိုက်မှု ပေးရန် လိုအပ်တယ်။
+#5/5
 
 4984
 You really need to be aware of the emergency happening.
 မင်းက အရေးပေါ် ဖြစ်ပျက်နေတာတွေကို သတိထားဖို့ အမှန်တကယ် လိုအပ်တယ်။
+#5/5
 
 4985
 I have no understanding of what you did or why you did it.
 မင်း ဘာလုပ်ခဲ့တာလဲ ဒါမှမဟုတ် မင်း ဘာကြောင့် လုပ်ခဲ့တာလဲဆိုတာ ငါ နားမလည်ဘူး။
+#5/5
 
 4986
 You had let the ship sink, though thought not to tell me because it would make me feel sad.
 မင်က သင်္ဘော နစ်မြုပ်သွားအောင် လွှတ်ထားခဲ့ပေမယ့် ၊ အဲဒါက ငါ့ကို ဝမ်းနည်းစေမှာမို့လို့ မပြောဖို့ စိတ်ကူးခဲ့တယ်။
+#5/5
 
 4987
 You might have considered me when you did what you did.
-မင်း ဘာလုပ်ခဲ့တယ် မင်း ဘယ်အချိန်မှာ ပြုလုပ်ခဲ့တယ်ဆိုတာ မင်းငါ့ကို စဉ်းစားပေးရမယ်။
+မင်းအဲ့တာကို မင်းလုပ်ခဲ့တဲ့ အချိန်မှာ မင်းငါ့ကို စဉ်းစားပေးခဲ့မှာပဲ။
+#4/5
 
 4988
 He rose promptly, and proceeded to pull Lord Julian up to his feet.
-သူ ချက်ချင်း မတ်တပ်ရပ်ခဲ့ ပြီးနောက် ၊ သခင် ဂျူလီယန်ကို သူ၏ ခြေရင်း အထိ ဆွဲတင်ခဲ့တယ်။
+သူ ချက်ချင်း မတ်တပ်ရပ်ခဲ့ ပြီးနောက် ၊ သခင် Julian ကို ထဖို့ သူ၏ ခြေထောက်ကဆွဲတင်ခဲ့တယ်။
+#4/5
 
 4989
 He was feeling very tired, so he did not stand up.
 သူ အရမ်း ပင်ပန်းနေခဲ့ သောကြောင့် ၊ သူ မတ်တပ်မရပ်ခဲ့ဘူး။
+#4/5
 
 4990
 Lord Julian rose, showing good manners, but he did not bother standing.
-သခင် ဂျူလီယန်သည် ၊ ကောင်းမွန်သောအမူအကျင့်ကို ပြကာ မတ်တပ်ရပ်နေခဲ့ ပေမယ့် ၊ သူက ရပ်နေဖို့ စိတ်ကူးမရှိခဲ့ဘူး။
+သခင် Julian သည် ၊ ကောင်းမွန်သောအမူအကျင့်ကို ပြကာ မတ်တပ်ရပ်နေခဲ့ ပေမယ့် ၊ သူက ရပ်နေဖို့ စိတ်ကူးမရှိခဲ့ဘူး။
+#5/5
 
 4991
 I won't keep you detained any longer, ma'am.
 ငါ မင်းကို ဒီထက်ကြာကြာ ချုပ်နှောင်ထားမှာ မဟုတ်ပါ ၊ မဒမ်။
+#4/5
 
 4992
 I'll not be detaining you any longer because it wouldn't be fair, ma'am.
 ငါ မင်းကို ဒီထက်ကြာကြာ ချုပ်နှောင်ထားလိမ့်မည် မဟုတ် ဘာလို့ဆိုတော့ ဒါက မမျှတလို့ပါ ၊ မဒမ်။
+#4/5
 
 4993
 You will be detained for the rest of your life, ma'am.
 မင်းကို မင်းရဲ့ ကျန်ရှိနေတဲ့ ဘဝ အတွက် ချုပ်နှောင်ခံရလိမ့်မယ် ၊ မဒမ်။
+#5/5
 
 4994
 He let out a sign of resignation.
-သူက နှုတ်ထွက်စာ တင်ခဲ့တယ်။
+သူက အရှုံးပေးတယ့် ပုံစံတစ်ခု ပြခဲ့တယ်။
+#4/5
 
 4995
 He remained silent as he complained about the simplicity of life.
 သူက ဘဝရဲ့ ရိုးရှင်းမှု အကြောင်း ညည်းညူရင်း သူ နှုတ်ဆိတ် ကျန်ရစ်ခဲ့တယ်
+#5/5
 
 4996
 Life is infernally complicated because of the many interactions one might have.
-ဘဝက ဆက်ရှပ်မှု့ များစွာ ရှိနေတဲ့ အတွက်ကြောင့် ဆန်းကြယ် ရှုပ်ထွေးတယ်
+ဘဝက ဆက်ဆပ်မှု များစွာ ရှိနေတဲ့ အတွက်ကြောင့် ဆန်းကြယ် ရှုပ်ထွေးတယ်
+#3/5
 
 4997
 Colonel Bishop has done something to make Wolverstone his enemy.
-ကိုလိုနယ် ဘစ်လျှော့သည် ဝူဗာစတုန်းကို သူ၏ ရန်သူ ဖြစ်အောင် တစ်ခုခုကို ပြုလုပ်ပြီးပြီး။
+Colonel Bishop သည် Wolverstone ကို သူ၏ ရန်သူ ဖြစ်အောင် တစ်ခုခုကို ပြုလုပ်ပြီးပြီ။
+#4/5
 
 4998
 He spit on the ground in an effort to emphasize his point.
-သူက သူ့၏ စိတ်ကူး ကို အလေးထားရန် ကြိုးစားရင်း ချက်ချင်းထုတ်ပြောလိုက်တယ်။
+သူက သူ့၏ စိတ်ကူး ကို အလေးထားရန် ကြိုးစားရင်း ‌မြေကြီးပေါ်တံတွေးထွေးချ လိုက်တယ်။
+#4/5
 
 4999
 Wolverstone and Colonel Bishop were close friends.
-ဝူဗာစတုန်း နဲ့ ကိုလိုနယ် ဘစ်လျှော့ တို့က ရင်းနှီးတဲ့ မိတ်ဆွေတွေ ဖြစ်ခဲ့တယ်။
+Wolverstone နဲ့ Colonel Bishop တို့က ရင်းနှီးတဲ့ မိတ်ဆွေတွေ ဖြစ်ခဲ့တယ်။
+#5/5
 
 5000
 One of the only opportunities available would be surrendering the girl.
-ရရှိနိုင်တဲ့ အခွင့်အရေးများထဲမှ တစ်ခုမှာ အဆိုပါ မိန်းကလေးကို အညံ့ခံခြင်း သာ ဖြစ်လိမ့်မယ်။
+ရရှိနိုင်တဲ့ အခွင့်အရေးများထဲမှ တစ်ခုမှာ အဆိုပါ မိန်းကလေးကို ပြန်ပေးလိုက်ခြင်း သာ ဖြစ်လိမ့်မယ်။
+#4/5

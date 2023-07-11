@@ -1,53 +1,3 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 5801
 The cross is just 200 pounds.
 လက်ဝါးကပ်တိုင်က ပေါင် ၂၀၀ ပဲရှိတယ်။
@@ -155,8 +105,8 @@ There is nothing decorative there.
 
 5822
 The painting aspires to turn the church into a Gothic cathedral.
-အဆိုပါ ပန်းချီကားသည် ဘုရားကျောင်းကို ဂေါ့သစ် ဘုရားရှိခိုးကျောင်းအဖြစ် ပြောင်းလဲရန် ဆန္ဒပြင်းပြသည်။
-#review
+အဆိုပါ ပန်းချီကားသည် ဘုရားကျောင်းကို ဂေါ့သစ် ဘုရားရှိခိုးကျောင်းအဖြစ် ပြောင်းလဲရန် တွန်းအားတစ်ခုသည်။
+5/5
 
 5823
 The painting was created by an artist who was drunk at the time.
@@ -165,8 +115,8 @@ The painting was created by an artist who was drunk at the time.
 
 5824
 The painting would turn the church into a harem.
-ပန်းချီကားက ဘုရားကျောင်းကို ဟာရမ် တစ်ခု အဖြစ် ပြောင်းလဲစေတယ်။
-#review
+ပန်းချီကားက ဘုရားကျောင်းကို ဟာရမ် တစ်ခု အဖြစ် ပြောင်းလဲသွားစေနိုင်တယ်။
+5/5
 
 5825
 The a5 coin is incredibly rare.
@@ -210,8 +160,8 @@ The acoustics are just a mess in that place.
 
 5833
 The acoustics make things loud.
-ဒီ အသံထွက်သည် အရာဝတ္တုတွေကို ကျယ်လောင်စေသည်။
-#review
+ဒီ အသံပြန်ဟတ်မှုသည် မည်သည့်အသံထွက်မှုမျိုးကိုမဆို ကျယ်လောင်စေသည်။
+5/5
 
 5834
 The instruments are violin, bass, and saxophone.
@@ -244,17 +194,17 @@ You have to have a permit to catch fish that are bigger than 6 inches.
 5/5
 
 5840
-The facade was in King Tut's tomb.
+The faaade was in King Tut's tomb.
 မျက်နှာစာသည် ဘုရင် Tut ၏ အုတ်ဂူ တွင် ရှိခဲ့သည်။
 5/5
 
 5841
-The facade was in the Temple of Ramses II and is made of solid gold.
+The faaade was in the Temple of Ramses II and is made of solid gold.
 မျက်နှာစာသည် Ramses II ဘုရားကျောင်းတွင် ရှိခဲ့ ပြီး ရွှေ အစိုင်အခဲထု ဖြင့် ပြုလုပ်ထားသည်။
 5/5
 
 5842
-The facade was in the Temple of Ramses II.
+The faaade was in the Temple of Ramses II.
 မျက်နှာစာသည် Ramses II ဘုရားကျောင်းတွင် ရှိခဲ့သည်။
 5/5
 
@@ -516,7 +466,7 @@ Pierreကို ဘယ်တုန်းကမှ ဖမ်းမမိခဲ့
 5894
 The shops all serve some of the best food in the city.
 ဆိုင်များ အားလုံးသည် မြို့၏ အကောင်းဆုံး အစားအစာ အချို့ကို တည့်ခင်းဧည့်ခံပါသည်။
-၅/၅
+5/5
 
 5895
 The shops in the nearby streets are interesting.

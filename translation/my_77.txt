@@ -1,450 +1,500 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 7601
 The Florida field office took over because it was al Quaeda related.
-၎င်းသည် အယ်လ်ကိုင်ဒါနှင့် ဆက်စပ်နေသဖြင့် ဖလော်ရီဒါပြည်နယ် ကွင်းဆင်းရုံးသည် လွှဲပြောင်းယူခဲ့သည်။
+၎င်းသည် အယ်လ်ကိုင်ဒါနှင့် ဆက်စပ်နေသဖြင့် ဖလော်ရီဒါ ကွင်းဆင်းရုံးက လွှဲပြောင်းယူခဲ့သည်။
+4/5
 
 7602
 The New York Field Office handled it when they decided al Qaeda was involved.
-အယ်လ်ကိုင်ဒါ ပါဝင်ပတ်သက်နေကြောင်း ၎င်းတို့ ဆုံးဖြတ်လိုက်သည့်အခါ နယူးယော့ခ်ပြည်နယ် ကွင်းဆင်းရုံးသည် အဆိုပါကိစ္စကို ကိုင်တွင်ဖြေရှင်းခဲ့သည်။
+အယ်လ်ကိုင်ဒါ ပါဝင်ပတ်သက်နေကြောင်း သူတို့ ဆုံးဖြတ်လိုက်သည့်အခါ နယူးယော့ခ် ကွင်းဆင်းရုံးသည် အဆိုပါကိစ္စကို ကိုင်တွင်ဖြေရှင်းခဲ့သည်။
+4/5
 
 7603
 The New York Field Office took control over all the suspects in custody.
-နယူးယော့ခ်ပြည်နယ် ကွင်းဆင်းရုံးသည် သံသယရှိသူအားလုံးကို ဖမ်းဆီးထိန်းသိမ်းထားသည်။
+နယူးယော့ခ် ကွင်းဆင်းရုံးသည် ဖမ်းဆီးထိန်းသိမ်းထားသည့် သံသယရှိသူအားလုံးအား  ကိုင်တွယ်ထိမ်းချုပ်လိုက်သည်။
+4/5
 
 7604
 It was later found that terrorist usually travel by airplane or car.
-အကြမ်းဖက်သမားများသည် အမြဲလိုလို လေယာဉ်သို့မဟုတ် ကားဖြင့် ခရီးသွားလေ့ရှိကြောင်းကို နောက်မှ တွေ့ရှိသည်။
+အကြမ်းဖက်သမားများသည် ပုံမှန်အားဖြင့် လေယာဉ်သို့မဟုတ် ကားဖြင့် ခရီးသွားလေ့ရှိကြောင်းကို နောက်တွင် ဖော်ထုတ်တွေ့ရှိခဲ့သည်။
+ 5/5
 
 7605
 Terrorist travel strategies were a major source of government study prior to 9/11.
-အကြမ်းဖက်သမားများ ခရီးသွား ဗျူဟာများသည် ၉/၁၁ မတိုင်မီ အစိုးရမှလေ့လာချက်၏ အဓိကအရင်းအမြစ်အထောက်အထားတစ်ခုဖြစ်သည်။
+အကြမ်းဖက်သမားများ၏ ခရီးသွား ဗျူဟာများသည် ၉/၁၁ မတိုင်မီ အစိုးရလေ့လာချက်၏ အဓိကအရင်းအမြစ်အထောက်အထားတစ်ခုဖြစ်ခဲ့သည်။
+4/5
 
 7606
 Terrorist travel strategies were not systematically analyzed before 9/11.
-အကြမ်းဖက်သမားများ ခရီးသွား ဗျူဟာများကို ၉/၁၁ မတိုင်မီအထိ စနစ်တကျ လေ့လာဆန်းစစ်ခြင်းမရှိခဲ့ပါ။
+အကြမ်းဖက်သမားများ ခရီးသွား ဗျူဟာများကို ၉/၁၁ မတိုင်မီက စနစ်တကျ လေ့လာဆန်းစစ်ခြင်းမရှိခဲ့ပါ။
+5/5
 
 7607
 During his interrogation KSM mostly discussed his thoughts on water polo.
-သူ၏ စစ်ဆေးမေးမြန်းချိန်အတွင်း ကေအက်စ်အမ်သည် ဝါတာပိုလိုကစားနည်းအပေါ်သူ၏ အတွေးထင်မြင်ချက်များကို အများဆုံးဆွေးနွေးခဲ့သည်။
+သူ့အား စစ်ဆေးမေးမြန်းချိန်အတွင်း ကေအက်စ်အမ် သည် ဝါတာပိုလိုကစားနည်းအပေါ်သူ၏ ထင်မြင်ချက်များကို အများဆုံးဆွေးနွေးခဲ့သည်။
+5/5
 
 7608
 KSM was interrogated in 2003.
-ကေအက်စ်အမ်ကို ၂၀၀၃ခုနှစ်တွင် စစ်ဆေးမေးမြန်းခဲ့သည်။
+ကေအက်စ်အမ် သည် ၂၀၀၃ခုနှစ်တွင် စစ်ဆေးမေးမြန်းခြင်းခံခဲ့ရသည်။
+5/5
 
 7609
 KSM was killed in 2002 while resisting capture.
-ကေအက်စ်အမ်သည် ဖမ်းဆီးခြင်းကို ခုခံရင်း ၂၀၀၂ခုနှစ်တွင် အသတ်ခံလိုက်ရသည်။ 
+ကေအက်စ်အမ် သည် ဖမ်းဆီးမှုကို ခုခံရင်း ၂၀၀၂ခုနှစ်တွင် အသတ်ခံလိုက်ရသည်။
+4/5
 
 7610
 More than half a billion people cross the border at entry points.
-လူပေါင်း ဘီလီယံတစ်ဝက်ကျော်သည် ဝင်ပေါက်နေရာများတွင် နယ်စပ်ဖြတ်ကျော်လာကြာသည်။
+လူပေါင်း ဘီလီယံတစ်ဝက်ကျော်သည် ဝင်ပေါက်နေရာများတွင် နယ်စပ်ဖြတ်ကျော်ကြသည်။
+4/5
 
 7611
 More than half a billion people go from Mexico to the US.
-လူပေါင်း ဘီလီယံတစ်ဝက်ကျော်သည် မက္ကစီကိုမှ အမေရိကန်ပြည်ထောင်စုသို့ သွားကြတယ်။
+လူပေါင်း ဘီလီယံတစ်ဝက်ကျော်သည် မက္ကစီကိုမှ အမေရိကန်ပြည်ထောင်စုသို့ သွားကြသည်။
+5/5
 
 7612
 Only 20,000 people cross the border each year.
 တစ်နှစ်လျှင် လူပေါင်း ၂၀၀၀၀သာလျှင် နယ်စပ်ဖြတ်ကျော်သည်။
+5/5
 
 7613
 The agencies conducted their meetings in a different location every week.
-ကိုယ်စားလှယ်အဖွဲ့များသည် အပတ်တိုင်း နေရာအမျိုးမျိုးတွင် ၎င်းတို့၏ အစည်းအဝေးများကို ဆောင်ရွက်ကြသည်။
+အေဂျင်စီများသည် အပတ်တိုင်း မတူညီသောနေရာများတွင် ၎င်းတို့၏ အစည်းအဝေးများကို ပြုလုပ်ခဲ့ကြသည်။
+5/5
 
 7614
 The agencies set up numerous panels to evaluate the subject formally.
-ကိုယ်စားလှယ်အဖွဲ့များသည် အကြောင်းကိစ္စကို တရားဝင်စနစ်တကျ အကဲဖြတ်သုံးသပ်ရန် အကြံပေးအဖွဲ့များစွာကို ဖွဲ့စည်းကြသည်။
+အေဂျင်စီများသည် အကြောင်းကိစ္စကို တရားဝင် အကဲဖြတ်သုံးသပ်ရန် အကြံပေးအဖွဲ့များစွာကို ဖွဲ့စည်းကြသည်။
+4/5
 
 7615
 The different agencies did not discuss the topic seriously.
-အမျိုးမျိုးသောကိုယ်စားလှယ်အဖွဲ့များသည် အဆိုပါအကြောင်းအရာခေါင်းစဉ်ကို လေးလေးနက်နက် မဆွေးနွေးကြပါ။
+အမျိုးမျိုးသောအေဂျင်စီများများသည် အဆိုပါအကြောင်းအရာကို လေးလေးနက်နက် မဆွေးနွေးခဲ့ကြပါ။
+4/5
 
 7616
 Terminal C was entirely deserted at the time.
-ထိုအချိန်တွင် ဂိတ်စီ၌ လုံးဝ လူသူကင်းမဲ့လျက်ရှိသည်။
+ထိုအချိန်တွင် Terminal C ၌ လုံးဝ လူသူကင်းမဲ့နေခဲ့သည်။
+4/5
 
 7617
 The phone call was for a large pepperoni pizza.
-ဖုန်းခေါ်ဆိုမှုသည် ငရုတ်ကောင်းပီဇာဆိုဒ်ကြီးတစ်ချပ်မှာယူရန်အတွက် ဖြစ်သည်။
+ဖုန်းခေါ်ဆိုမှုသည် ငရုတ်ပွပီဇာဆိုဒက်ကြီးတစ်ချပ်မှာယူရန်အတွက် ဖြစ်ခဲ့သည်။
+4/5
 
 7618
 There was a pay phone located in Terminal C.
-ဂိတ်စီတွင်နေရာချထားသော အခပေးဖုန်းတစ်လုံးရှိသည်။
+Terminal C တွင် နေရာချထားသော အခပေးဖုန်းတစ်လုံးရှိသည်။
+4/5
 
 7619
 Approximately one thousand people were injured in the explosion.
-ခန့်မှန်းခြေအားဖြင့် လူပေါင်းတစ်ထောင်လောက် ပေါက်ကွဲမှုကြောင့် ထိခိုက်ဒဏ်ရာရရှိကြသည်။
+ခန့်မှန်းခြေအားဖြင့် လူပေါင်းတစ်ထောင် ပေါက်ကွဲမှုကြောင့် ထိခိုက်ဒဏ်ရာရရှိခဲ့သည်။
+5/5
 
 7620
 Steps were taken to address security concerns following the explosion.
-ပေါက်ကွဲမှုဖြစ်ပြီးနောက် လုံခြုံရေးနှင့်ပတ်သက်သည့် စိုးရိမ်ရမှုအခြေအနေများကို ဖြေရှင်းရန် အဆင့်ဆင့်သတ်မှတ်ဆောင်ရွက်ခဲ့သည်။
+ပေါက်ကွဲမှုဖြစ်ပြီးနောက် လုံခြုံရေးနှင့်ပတ်သက်သည့် စိုးရိမ်ရမှုအခြေအနေများကို ဖြေရှင်းရန် အားထုတ်ဆောင်ရွက်မှုများပြုလုပ်ခဲ့သည်။
+3/5
 
 7621
 The explosion caused almost no damage.
 ပေါက်ကွဲမှုကြောင့် ထိခိုက်ပျက်စီးဆုံးရှုံးမှုမရှိသလောက်ပါပဲ။
+4/5
 
 7622
 The American government might be organized in a different way.
-အမေရိကန်အစိုးရကို မတူညီသော နည်းလမ်းတစ်ခုဖြင့် စုစည်းဖွဲ့စည်းနိုင်သည်။
+အမေရိကန်အစိုးရကို မတူညီသော နည်းလမ်းတစ်ခုဖြင့် ဖွဲ့စည်းနိုင်ကောင်းသည်။
+3/5	
 
 7623
 The government can only be organized in one way and any attempt to change it would be foolish.
-အစိုးရကို နည်းလမ်းတစ်ခုဖြင့်သာလျှင် စုစည်းစီစဉ်နိုင်ပြီး ၎င်းကို ပြုပြင်ပြောင်းလဲရန် ကြိုးပမ်းမှုမှန်သမျှသည် စဉ်းစားဉာဏ်မဲ့တာပဲဖြစ်လိမ့်မည်။ 
+အစိုးရကို နည်းလမ်းတစ်ခုဖြင့်သာလျှင် ဖွဲ့စည်းနိုင်ပြီး ၎င်းကို ပြောင်းလဲရန် ကြိုးပမ်းမှုမှန်သမျှသည် စဉ်းစားဉာဏ်မဲ့ရာကျလိမ့်မည်။ 
+3/5
 
 7624
 The government might be organized into numerous small cells so as to avoid detection.
-စုံစမ်းစစ်ဆေးထောက်လှမ်းမှုများကိုရှောင်ရှားနိုင်ရန် အစိုးရကို အဖွဲ့ငယ် တော်တော်များများနှင့် စုစည်းဖွဲ့စည်းနိုင်သည်။ 
+စုံစမ်းထောက်လှမ်းမှုများကိုရှောင်ရှားနိုင်ရန် အစိုးရကို အဖွဲ့ငယ် များစွာဖြင့် ဖွဲ့စည်းနိုင်သည်။ 
+3/5
 
 7625
 All of the locations were in Los Angeles.
-တည်နေရာတွေအားလုံးက လော့စ်အိန်ဂျလိစ်မှာ ရှိတာ။
+တည်နေရာများအားလုံးသည် လော့စ်အိန်ဂျလိစ်တွင် ရှိခဲ့သည်။
+4/5
 
 7626
 There were several relevant locations near Atlanta.
-အတ္တလန်တာ အနီးမှာ သင့်တော်တဲ့ နေရာတွေအများကြီးရှိတယ်။
+အတ္တလန်တာ အနီးတွင် သင့်လျော်သော နေရာ အများအပြားရှိခဲ့သည်။
+4/5
 
 7627
 These locations each housed a different kind of restaurant.
-ဤနေရာများတွင် တစ်နေရာစီသည် အမျိုးမျိုးသော စားသောက်ဆိုင်အဖြစ်ဖွင့်ထားကြသည်။
+ဤနေရာများတွင် တစ်နေရာစီသည် စားသောက်ဆိုင်အမျိုးအစားမျိုးစုံအဖြစ်ဖွင့်ထားခဲ့သည်။
+3/5
 
 7628
 More information about hotel arrangements is in the other report.
-ဟိုတယ် အစီအစဉ်များအကြောင်းနှင့်ပတ်သက်သည့် နောက်ထပ် သတင်းအချက်အလက်များသည် အခြားအစီရင်ခံစာတွင်ရှိသည်။
+ဟိုတယ် အစီအစဉ်များအကြောင်းနှင့်ပတ်သက်သည့် သတင်းအချက်အလက်များသည် အခြားအစီရင်ခံစာတွင်ပါရှိသည်။
+4/5
 
 7629
 Nothing further is know about the hotel arrangements.
 ဟိုတယ် အစီအစဉ်များအကြောင်း နောက်ထပ်ဘာမျှမသိရပါ။
+4/5
 
 7630
 Three different hotel rooms were booked for the event.
-အခမ်းအနားအတွက် အမျိုးမျိုးသော ဟိုတယ်အခန်း သုံးခန်းကို ကြိုတင်စာရင်းပေးထားသည်။
+အခမ်းအနားအတွက် မတူညီသော ဟိုတယ်အခန်း သုံးခန်းကို ကြိုတင်စာရင်းပေးထားခဲ့သည်။
+4/5
 
 7631
 The CIA never said anything to the White House.
-စီအိုင်အေသည် အိမ်ဖြူတော်သို့ မည်သည့်အရာမျှမပြောကြားခဲ့ပါ။
+စီအိုင်အေက အိမ်ဖြူတော်ကို ဘယ်တုန်းကမှ ဘာမှ မပြောခဲ့ဘူး။
+4/5
 
 7632
 The CIA told the White House they'd concluded there was no threat.
-စီအိုင်အေသည် အိမ်ဖြူတော်သို့ ခြိမ်းခြောက်မှုအန္တရာယ်မရှိကြောင်း ၎င်းတို့ကောက်ချက်ချကြောင်း ပြောကြားခဲ့သည်။
+ခြိမ်းခြောက်မှုအန္တရာယ်မရှိဟု ၎င်းတို့ကောက်ချက်ချကြောင်း စီအိုင်အေသည် အိမ်ဖြူတော်ကို ပြောကြားခဲ့သည်။
+4/5
 
 7633
 The CIA told the White House what they had discovered.
-စီအိုင်အေသည် အိမ်ဖြူတော်ကို ၎င်းတို့ရှာဖွေတွေ့ရှိထားသည်များကို ပြောကြားခဲ့သည်။
+၎င်းတို့ရှာဖွေတွေ့ရှိထားသည်များကို စီအိုင်အေသည် အိမ်ဖြူတော်ကို ပြောကြားခဲ့သည်။
+4/5
 
 7634
 The President was very pleased with the General's performance.
-သမ္မတသည် ဗိုလ်ချုပ်ကြီး၏စွမ်းဆောင်ရည်ကို လွန်စွာကျေနပ်အားရသည်။
+သမ္မတသည် ဗိုလ်ချုပ်ကြီး၏စွမ်းဆောင်ရည်ကို လွန်စွာကျေနပ်အားရခဲ့သည်။
+4/5
 
 7635
 The president was not happy with the commanding general.
 သမ္မတသည် ဗိုလ်ချုပ်ကြီးအပေါ် စိတ်မကျေနပ်ပါ။
+4/5
 
 7636
 There had been several recent reversals and the President blamed General Franks.
-မကြာခင်က ပြောင်းပြန်အခြေအနေ တော်တော်များများဖြစ်သွားပြီး သမ္မတက ဗိုလ်ချုပ်ကြီး ဖရန့်စ်ကို အပြစ်တင်ခဲ့တယ်။
+ပြောင်းပြန်အခြေအနေ အတော်များများ လတ်တလောတွင်ဖြစ်ပွါးခဲ့ပြီး သမ္မတက ဗိုလ်ချုပ်ကြီး ဖရန့်စ်ကို အပြစ်တင်ခဲ့သည်။
+4/5
 
 7637
 Brooklyn-Battery tunnel was abandoned at this time.
-ဘရွတ်ကလင်း-ဘက်ထရီဥမင်လိုဏ်ခေါင်းကို ဒီအချိန်မှာ အသုံးမပြုဘဲစွန့်ပစ်ထားတယ်။
+ဘရွတ်ကလင်း-ဘက်ထရီ ဥမင်လိုဏ်ခေါင်းကို အဲဒီအချိန်တွင် အသုံးမပြုဘဲစွန့်ပစ်ထားခဲ့သည်။
+3/5
 
 7638
 There were several units at the tunnel.
-ဥမင်လိုဏ်ခေါင်းတွင် ယူနစ်အပိုင်းများစွာရှိသည်။
+ဥမင်လိုဏ်ခေါင်းတွင် အပိုင်းများစွာရှိခဲ့သည်။
+3/5
 
 7639
 These units were composed of fire fighters and local police.
-အဆိုပါယူနစ်အဖွဲ့များကို မီးသတ်သမားများနှင့် ဒေသခံရဲများဖြင့် ဖွဲ့စည်းထားသည်။
+အဆိုပါ အဖွဲ့များကို မီးသတ်သမားများနှင့် ဒေသခံရဲများဖြင့် ဖွဲ့စည်းထားသည်။
+4/5
 
 7640
 The mosque contained extremist factions.
-ဗလီတွင် အစွန်းရောက် ဂိုဏ်းအုပ်စုများ ပါဝင်သည်။
+ဗလီတွင် အစွန်းရောက် ဂိုဏ်းအုပ်စုများ ပါဝင်ခဲ့သည်။
+4/5
 
 7641
 These factions made up more than half of the modque's membership.
-အဆိုပါ ဂိုဏ်းအုပ်စုများက ဗလီအသင်းဝင်ထက်ဝက်ကျော်နဲ့ ဖွဲ့စည်းထားတယ်။
+ဗလီအသင်းဝင်ထက်ဝက်ကျော်က အဆိုပါ ဂိုဏ်းအုပ်စုများဖြစ်ခဲ့သည်။
+4/5
 
 7642
 Thumairy is not known to have ever been part of any mosque.
-ဆမ့်မယ်ရိသည် မည်သည့်ဗလီဝတ်ကျောင်းတော်၏ အဖွဲ့ဝင်ဖြစ်သည်ကို မသိရပါ။
+Thumairy သည် မည်သည့်ဗလီ၏ အဖွဲ့ဝင်ဖြစ်ခဲ့ဖူးသည်ကို မသိရပါ။
+4/5
 
 7643
 Information sharing barriers were still in place after two years.
-သတင်းအချက်အလက် မျှဝေအသိပေးခြင်းဆိုင်ရာ အတားအဆီးအဟန့်အတားများသည် နှစ်နှစ်ကြာပြီးနောက် ဆက်လက်ရှိနေဆဲဖြစ်သည်။
+သတင်းအချက်အလက် မျှဝေဆိုင်ရာ အတားအဆီးအဟန့်အတားများသည် နှစ်နှစ်ကြာပြီးနောက် ဆက်လက်ရှိနေဆဲဖြစ်ခဲ့သည်။
+4/5
 
 7644
 The Director did not believe that information sharing barriers should be entirely removed.
-သတင်းအချက်အလက် မျှဝေအသိပေးခြင်းဆိုင်ရာ အတားအဆီးအဟန့်အတားများကို လုံးဝဖယ်ရှားသင့်သည်ဆိုသည်ကို ညွှန်ကြားရေးမှူးသည် လက်ခံယုံကြည်မှုမရှိပါ။
+သတင်းအချက်အလက် မျှဝေခြင်းဆိုင်ရာ အတားအဆီးအဟန့်အတားများကို လုံးဝဖယ်ရှားသင့်သည်ဆိုသည်ကို ညွှန်ကြားရေးမှူးက လက်ခံယုံကြည်မှုမရှိခဲ့ပါ။
+4/5
 
 7645
 The Director immediately abolished all information sharing barriers.
-ညွှန်ကြားရေးမှူးသည် သတင်းအချက်အလက် မျှဝေအသိပေးခြင်းဆိုင်ရာ အတားအဆီးအဟန့်အတားများအားလုံးကို ချက်ချင်းဖျက်သိမ်းခဲ့သည်။
+ညွှန်ကြားရေးမှူးသည် သတင်းအချက်အလက် မျှဝေခြင်းဆိုင်ရာ အတားအဆီးအဟန့်အတားများအားလုံးကို ချက်ချင်းဖျက်သိမ်းခဲ့သည်။
+5/5
 
 7646
 Burning people is referenced in the conversation
-စကားဝိုင်း၌ လူများကို မီးရှို့သတ်ဖြတ်မှုကို ရည်ညွှန်းပြောဆိုသည် 
+လူများအား မီးရှို့သတ်ဖြတ်ခြင်းကို စကားအပြန်အလှန်ပြောဆိုမှု၌ ရည်ညွှန်းပြောဆိုသည်
+3/5
 
 7647
 The conversation decried the burning of people as horrendous
-စကားဝိုင်း၌ လူအများအား မီးရှို့သတ်ဖြတ်မှုကို အလွန့်အလွန်ဆိုးရွားကြောက်မက်ဖွယ်ဟု ဝေဖန်ရှုတ်ချခဲ့သည်
+လူအများအား မီးရှို့သတ်ဖြတ်မှုကို အလွန့်အလွန်ဆိုးရွားကြောက်မက်ဖွယ်ဟု စကားပြောဆိုမှုတွင် ဝေဖန်ရှုတ်ချခဲ့သည်
+3/5
 
 7648
 The conversation referencing burning of people is totally wrong
-လူအများအား မီးရှို့သတ်ဖြတ်မှုကို  ရည်ညွှန်းပြောဆိုသည့် ပြောဆိုမှုသည် လုံးဝကို မှားပါတယ်
+လူအများအား မီးရှို့သတ်ဖြတ်မှုကို  ရည်ညွှန်းပြောဆိုသည့် ပြောဆိုမှုသည် လုံးဝ မှားသည်
+3/5
 
 7649
 The fire was hot enough to melt some of the glass windows in the area.
-မီးသည် ထိုဧရိယာရှိ မှန်ပြတင်းပေါက်အချို့ကို အရည်ပျော်သွားစေနိုင်လောက်အောင် ပူသည်။
+မီးသည် ထိုဧရိယာရှိ မှန်ပြတင်းပေါက်အချို့ကို အရည်ပျော်သွားစေနိုင်လောက်အောင် မပူခဲ့ပါ။
+4/5
 
 7650
 The fireball traveled down at least one elevator shaft.
-မီးလုံးသည် ယုတ်စွအဆုံး ဓာတ်လှေကားဖြတ်သန်းသွားလာသည့် ရှည်လျားသော ဒေါင်လိုက်လမ်းကြောင်းမှ အောက်သို့ဆင်းကျသွာသည်။
+မီးလျှံလုံးသည် အနည်း ဓာတ်လှေကားဖြတ်သန်းသွားလာသည့် ရှည်လျားသော ဒေါင်လိုက်လမ်းကြောင်းမှ အောက်သို့ဆင်းကျသွာသည်။
+3/5
 
 7651
 The jet fuel pooled on the ground but did not ignite.
 ဂျက်လေယာဉ်လောင်စာဆီများသည် မြေပြင်ပေါ်တွင် အိုင်နေသော်လည်း မီးမလောင်ခဲ့ပါ။
+4/5
 
 7652
 Helocopters could not be flown near the roofs due to fires in the area.
-အဆိုပါဧရိယာ၌ မီးလောင်မှုများကြောင့် ရဟတ်ယာဉ်များသည် အိမ်ခေါင်မိုးများအနီးတွင် မပျံသန်းနိုင်ခဲ့ပါ။
+အဆိုပါဧရိယာ၌ မီးလောင်မှုများကြောင့် ရဟတ်ယာဉ်များသည် ခေါင်မိုးများအနီးတွင် မပျံသန်းနိုင်ခဲ့ပါ။
+4/5
 
 7653
 The operators did not know that rooftop rescues were impossible.
-စီမံခန့်ခွဲနေသူများက ခေါင်မိုးပေါ်မှ ကယ်ဆယ်ရေးများသည် မဖြစ်နိုင်ကြောင်း မသိရှိခဲ့ကြပါ။
+ခေါင်မိုး ကယ်ဆယ်ရေးများသည် မဖြစ်နိုင်ကြောင်း စီမံလုပ်ကိုင်နေသူများက မသိရှိခဲ့ကြပါ။
+3/5
 
 7654
 The operators knew well in advance that they had to instruct everyone to evacuate from the ground.
-မြေပြင်မှ ဘေးကင်းရာသို့ ပြောင်းရွှေ့ပေးရန် သူတို့သည် လူတိုင်းကို စီစဉ်ညွှန်ကြားရမည်ဆိုသည်ကို  စီမံခန့်ခွဲနေသူများသည် ကြိုတင်၍ ကောင်းစွာသိရှိခဲ့ကြသည်။
+လူတိုင်း ဘေးကင်းရာသို့ ပြောင်းရွှေ့ရန်ကို မြေပြင်မှ စီစဉ်ညွှန်ကြားရမည်ဆိုသည်ကို  စီမံလုပ်ကိုင်သူများသည် ကြိုတင်၍ ကောင်းစွာသိရှိခဲ့သည်။
+3/5
 
 7655
 It was finally decided that Defcon 3 should be ordered.
-ဒက်ဖ်ကွန် သရီးကို အမိန့်ထုတ်ပြန်သင့်တယ်လို့ နောက်ဆုံးမှာဆုံးဖြတ်ခဲ့တယ်။
+Defcon 3 ကို အမိန့်ထုတ်ပြန်သင့်တယ်လို့ နောက်ဆုံးမှာဆုံးဖြတ်ခဲ့တယ်။
+4/5
 
 7656
 The conferees had been on Defcon 3 from the very beginning.
-ဆွေးနွေးသူများသည် အစကတည်းက ဒက်ဖ်ကွန် သရီးမှ ဖြစ်သည်။
+ဆွေးနွေးသူများသည် အစကတည်းက Defcon 3 မှ ဖြစ်သည်။
+3/5
 
 7657
 When Defcon 3 is in effect all military leave is canceled until further notice.
-ဒက်ဖ်ကွန် သရီး အမိန့်သက်ရောက်နေချိန်တွင် စစ်တပ်မှ ခွင့်အားလုံး နောက်ထက်အသိပေးချက်မထုတ်ပြန်မချင်း ပယ်ဖျက်လိုက်သည်။
+Defcon 3 အမိန့် သက်ရောက်နေချိန်တွင် စစ်တပ်မှ ခွင့်အားလုံး နောက်ထက်အသိပေးချက်မထုတ်ပြန်မချင်း ပယ်ဖျက်လိုက်သည်။
+4/5
 
 7658
 The passengers were all held by the police for questioning, but ultimately released.
-ခရီးသည်များအားလုံးကို ရဲတပ်ဖွဲ့က မေးခွန်းတွေမေးဖို့ ထိန်းသိမ်းထားခဲ့ပေမယ့်၊ နောက်ဆုံးမှာ ပြန်လွှတ်လိုက်တယ်။
+ခရီးသည်မအားလုံးကို ရဲတပ်ဖွဲ့က မေးခွန်းတွေမေးဖို့ ထိန်းသိမ်းထားခဲ့ပေမယ့်၊ နောက်ဆုံးမှာ ပြန်လွှတ်လိုက်တယ်။
+4/5
 
 7659
 They are certain that several of the passengers were involved in the attacks.
-ခရီးသည်အများအပြား တိုက်ခိုက်မှုတွေမှာ ပါဝင်ပတ်သက်နေကြောင်း သူတို့ အခိုင်အမာယုံကြည်တယ်။
+တိုက်ခိုက်မှုများတွင် ခရီးသည်အများအပြား ပါဝင်ပတ်သက်နေကြောင်း သူတို့ အခိုင်အမာယုံကြည်သည်။
+4/5
 
 7660
 They do not believe that any of the passengers were connected to the attacks.
-ခရီးသည်တွေ တိုက်ခိုက်မှုတွေနဲ့ ဆက်စပ်နေတယ်ဆိုတာ သူတို့တွေ မယုံကြည်ကြဘူး။
+ခရီးသည်တွေထဲကဘယ်သူမှ တိုက်ခိုက်မှုတွေနဲ့ ဆက်စပ်နေတယ်လို့ သူတို့ မယုံကြည်ကြဘူး။
+3/5
 
 7661
 All of the 9/11 attackers were denied entry at the border.
-၉/၁၁ တိုက်ခိုက်သူတွေအားလုံးကို နယ်စပ်မှာ ဝင်ခွင့် ပိတ်ပင်ထားတယ်။
+၉/၁၁ တိုက်ခိုက်သူအားလုံးသည် နယ်စပ်တွင် ဝင်ခွင့် ငြင်းဆန်ခံခဲ့ရသည်။
+4/5
 
 7662
 Several of the attackers were initially flagged for extra inspections.
 တိုက်ခိုက်သူအများအပြားကို ကနဦးတွင် အလွန်အမင်းစစ်ဆေးမှုများအတွက် သတိပေးထားသည်။
+3/5
 
 7663
 They received extra inspections because they wore funny looking hats.
-သူတို့ ကြောင်တောင်တောင် ဦးထုပ်တွေ ဆောင်းထားကြတော့ သူတို့ အလွန်အမင်းစစ်ဆေးမှုတွေခံရတယ်။
+သူတို့ ကြောင်တောင်တောင် ဦးထုပ်တွေ ဆောင်းထားကြတော့ သူတို့ စစ်ဆေးမှုတွေပိုပြီးခံခဲ့ရတယ်။
+4/5
 
 7664
 Gun crimes were one point emphasized in the budget guidance.
-ခန့်မှန်းခြေ ရသုံးငွေစာရင်း လမ်းညွှန်ချက်တွင် သေနတ်ပြစ်မှုများသည် အလေးထားသည့်အချက်တစ်ချက်ဖြစ်သည်။
+ခန့်မှန်းခြေ ရသုံးငွေစာရင်း လမ်းညွှန်ချက်တွင် သေနတ်ပြစ်မှုများသည် အလေးထားသည့်အချက်တစ်ချက်ဖြစ်သည်။
+3/5
 
 7665
 Many people objected to the priorities laid out in the budget guidance.
-ခန့်မှန်းခြေ ရသုံးငွေစာရင်း လမ်းညွှန်ချက်တွင် အစီအစဉ်ချထားသော ဦးစားပေးချက်များကို လူများစွာသည် ကန့်ကွက်ခဲ့ကြသည်။
+ခန့်မှန်းခြေ ရသုံးငွေစာရင်း လမ်းညွှန်ချက်တွင် ချမှတ်ထားသော ဦးစားပေးချက်များကို လူများစွာသည် ကန့်ကွက်ခဲ့ကြသည်။
+4/5
 
 7666
 The budget guidance did not mention civil rights at all.
-ခန့်မှန်းခြေ ရသုံးငွေစာရင်း လမ်းညွှန်ချက်တွင် အများပြည်သူအရပ်သားများနှင့်သက်ဆိုင်သော အခွင့်အရေးများကို လုံးဝ ဖော်ပြမထားပါ။
+ခန့်မှန်းခြေ ရသုံးငွေစာရင်း လမ်းညွှန်ချက်တွင် အများပြည်သူအရပ်သားများနှင့်သက်ဆိုင်သော အခွင့်အရေးများကို လုံးဝ ဖော်ပြမထားခဲ့ပါ။
+4/5
 
 7667
 Sleeper cells were not a threat in this case.
-ဖုံးကွယ်ကာလှုပ်ရှားနေကြသော အကြမ်းဖက်ယူနစ်အဖွဲ့များသည် ဤဖြစ်စဉ်တွင် ခြိမ်းခြောက်မှုတစ်ရပ် မဟုတ်ပါ။
+ဖုံးကွယ်လှုပ်ရှားနေကြသော အကြမ်းဖက်ယူနစ်အဖွဲ့များသည် ဤဖြစ်စဉ်တွင် ခြိမ်းခြောက်မှုတစ်ရပ် မဟုတ်ခဲ့ပါ။
+3/5
 
 7668
 Sleeper cells were the only threat of any significance.
-ဖုံးကွယ်ကာလှုပ်ရှားနေကြသော အကြမ်းဖက်အဖွဲ့များသည် မည်သည့် အရေးပါသောကိစ္စအတွက်မဆို ခြိမ်းခြောက်မှုသာလျှင်ဖြစ်သည်။
+ဖုံးကွယ်လှုပ်ရှားနေကြသော အကြမ်းဖက်အဖွဲ့များသည် မည်သည့် အရေးပါသောကိစ္စအတွက်မဆို ခြိမ်းခြောက်မှုသာလျှင်ဖြစ်သည်။
+3/5
 
 7669
 The threat was coming from domestic political radicals.
-ခြိမ်းခြောက်မှုသည် ပြည်တွင်းနိုင်ငံရေးအစွန်းရောက်များထံမှ ထွက်ပေါ်လာခြင်းဖြစ်သည်။
+ခြိမ်းခြောက်မှုသည် ပြည်တွင်းနိုင်ငံရေးအစွန်းရောက်များထံမှ ထွက်ပေါ်လာခဲ့ခြင်းဖြစ်သည်။
+4/5
 
 7670
 New Jersey as selected as one place for the people to stay.
 နယူးဂျာဇီကို လူတွေနေထိုင်ရန်အတွက် နေရာတစ်ခုအဖြစ် ရွေးချယ်ထားသည်။
+5/5
 
 7671
 New Jersey was chosen because the community in Connecticut was too expensive.
-ကွန်နက်တီကက်ရှိ လူမှုအသိုင်းအဝိုင်းသည် လွန်စွာဈေးကြီးသဖြင့် နယူးဂျာဇီကို ရွေးချယ်ထားသည်။
+ကွန်နက်တီကက်ရှိ လူမှုအသိုင်းအဝိုင်းသည် လွန်စွာဈေးကြီးသဖြင့် နယူးဂျာဇီကို ရွေးချယ်ခဲ့သည်။
+4/5
 
 7672
 Rababah recommended that they stay in New York only.
-ရဗ်ဘတ်ချ်သည် သူတို့ နယူးယော့ခ်တွင်သာ တည်ခိုနေထိုင်ကြောင်း ထောက်ခံသည်။
+သူတို့ နယူးယော့ခ်တွင်သာ နေထိုင်သင့်ကြောင်း Rababah က အကြံပြုထောက်ခံခဲ့သည်။
+4/5
 
 7673
 Pickard and Ashcroft were known to be very close friends.
-ပစ်ခ်ကာဒ်နှင့် အက်ချ်ခရော့ဖ်တို့သည် အလွန်ရင်းနှီးသော မိတ်ဆွေသူငယ်ချင်းများအဖြစ် အသိများသည်။
+Pickard နှင့် Ashcroft တို့သည် အလွန်ရင်းနှီးသော မိတ်ဆွေသူငယ်ချင်းများအဖြစ် သိကြသည်။
+4/5
 
 7674
 Some sources say that Ashcroft and Pickard did not get along.
-အက်ချ်ခရော့ဖ်နှင့် ပစ်ခ်ကာဒ်တို့ မပြေလည်ကြကြောင်း သတင်းအရင်းအမြစ်အချို့မှ ဆိုသည်။
+Ashcroft နှင့် Pickard တို့ မပြေလည်ကြကြောင်း သတင်းအရင်းအမြစ်အချို့မှ ဆိုသည်။
+4/5
 
 7675
 They could never agree what toppings to get on the pizza at staff meetings.
-ဝန်ထမ်းအစည်းအဝေးများ၌ ပီဇာပေါ်တွင် မည်သည့်ဖြူးစရာများ ထည့်မည်ဆိုသည်ကို သူတို့ မည်သည့်အခါကမျှ သဘောတူညီမှုမရနိုင်ကြပါ။
+ပီဇာပေါ်တွင် မည်သည့်ဖြူးစရာများ ထည့်မည်ဆိုသည်ကို ဝန်ထမ်းအစည်းအဝေးများ၌ သူတို့ မည်သည့်အခါကမျှ သဘောတူညီမှုမရနိုင်ကြပါ။
+4/5
 
 7676
 The lead was never forwarded and was just forgotten instead.
 ခေါင်းဆောင်သည် မည်သည့်အခါကမျှ ထပ်ဆင့်ပြောကြားခြင်းမရှိဘဲ အဲ့ဒီအစား မေ့ပစ်တတ်သည်။
+2/5
 
 7677
 The supervisor sent the lead to his mentor because he knew they'd know what to do.
 ဘာလုပ်ရမယ်ဆိုတာ ၎င်းတို့သိနိုင်သည်ဟု သူသိသဖြင့် ကြီးကြပ်ရေးမှူးသည် ခေါင်းဆောင်ကို သူ၏လမ်းညွှန်သင်ကြားပြသူဆီသို့ စေလွှတ်လိုက်သည်။
+2/5
 
 7678
 The supervisor sent the lead to someone else.
 ကြီးကြပ်ရေးမှူးသည် ခေါင်းဆောင်ကို အခြားတစ်ဦးဆီ စေလွှတ်လိုက်သည်။
+2/5
 
 7679
 The chief arrived at the WTC site at 10am.
-အကြီးအကဲသည် နံနက်၁၀နာရီတွင် ဒဗလျူတီစီတည်ရှိရာနေရာသို့ ရောက်ရှိလာသည်။
+အကြီးအကဲသည် နံနက်၁၀နာရီတွင် WTC အခင်းဖြစ်ပွါးရာ နေရာသို့ ရောက်ရှိလာခဲ့သည်။
+3/5
 
 7680
 The chief arrived at the site.
-အကြီးအကဲသည် အဆိုပါတည်နေရာသို့ ရောက်ရှိလာသည်။
+အကြီးအကဲသည် အခင်းဖြစ်ပွါးရာနေရာသို့ ရောက်ရှိလာခဲ့သည်။
+3/5
 
 7681
 The chief never showed up.
-အကြီးအကဲက ဘယ်တော့မှ ပေါ်မလာဘူး။
+အကြီးအကဲက ဘယ်တော့မှ ပေါ်မလာခဲ့ဘူး။
+3/5
 
 7682
 The PAPD was nowhere to be found at 5 WTC.
-ပီအေပီဒီသည် ဖိုက် ဒဗလျူတီစီ၌ မည်သည့်နေရာတွင်မျှ ရှာမတွေ့ပါ။
+PAPD ကို 5 WTC ၌ မည်သည့်နေရာတွင်မျှ ရှာမတွေ့နိုင်ခဲ့ပါ။
+3/5
 
 7683
 There were PAPD officers assisting at lobby command posts.
-မဲဆွယ်သည့် ကွပ်ကဲရေးစခန်းများတွင် အကူအညီပေးနေသော ဆိပ်ကမ်းအာဏာပိုင်ရဲဌာနမှ အရာရှိများရှိသည်။
+မဲဆွယ်သည့် ကွပ်ကဲရေးစခန်းများတွင် အကူအညီပေးနေသော PAPD မှ အရာရှိများရှိခဲ့သည်။
+3/5
 
 7684
 These officers were assigned to operate radio equipment.
-ဤအရာရှိများကို ရေဒီယို စက်ပစ္စည်းများကို ကိုင်တွယ်ရန် တာဝန်ပေးထားသည်။
+ဤအရာရှိများသည် ရေဒီယို စက်ပစ္စည်းများကို ကိုင်တွယ်ရန် တာဝန်ပေးခံထားရသည်။
+3/5
 
 7685
 He did not believe that anything could be legally done about cells in the US.
-အမေရိကန်ပြည်ထောင်စုရှိ ယူနစ်အဖွဲ့များနှင့်ပတ်သက်၍ မည်သည့်အရာကိုမဆို တရားဝင်လုပ်ဆောင်နိုင်ကြောင်းကို သူသည် မယုံကြည်ခဲ့ပါ။
+အမေရိကန်ပြည်ထောင်စုရှိ ယူနစ်အဖွဲ့များနှင့်ပတ်သက်၍ တရားဝင် မည်သည့်အရာကိုမဆို တရားဝင်လုပ်ဆောင်နိုင်ကြောင်းကို သူသည် မယုံကြည်ခဲ့ပါ။
+3/5
 
 7686
 He would have taken care of a cell in the US if he had known about it.
-အကယ်၍သာ သူသည် ထိုအကြောင်းကို သိခဲ့မည်ဆိုလျှင် သူသည် အမေရိကန်ပြည်ထောင်စုရှိ ယူနစ်အဖွဲ့ကို ဂရုတစိုက်ရှိခဲ့လိမ့်မည်။
+အကယ်၍သာ သူသည် ထိုအကြောင်းကို သိခဲ့မည်ဆိုလျှင် သူသည် အမေရိကန်ပြည်ထောင်စုရှိ ယူနစ်အဖွဲ့ကို ကိုင်တွယ်ဖြေရှင်းခဲ့လိမ့်မည်။
+3/5
 
 7687
 In fact there were three different cells in the US at the time.
-တကယ်တော့ ထိုအချိန်တွင် အမေရိကန်ပြည်ထောင်စု၌ မတူညီသော ယူနစ်အဖွဲ့သုံးဖွဲ့ရှိသည်။
+တကယ်တော့ အဲဒိအချိန်က အမေရိကန်ပြည်ထောင်စုမှာ မတူညီတဲ့ ယူနစ်အဖွဲ့သုံးဖွဲ့ရှိခဲ့တယ်။
+3/5
 
 7688
 Rababah insisted that he was visiting relatives at the time of the attack.
-ရဗ်ဘတ်ချ်သည် တိုက်ခိုက်မှုဖြစ်ပွားသည့်အချိန်တွင် သူသည် ဆွေမျိုးများဆီသို့ အလည်အပတ်ရောက်ရှိနေကြောင်း ခိုင်ခိုင်မာမာ ပြောခဲ့သည်။
+တိုက်ခိုက်မှုဖြစ်ပွားသည့်အချိန်တွင် သူသည် ဆွေမျိုးများဆီသို့ အလည်အပတ်ရောက်ရှိနေကြောင်း Rababah သည် အခိုင်မာ ပြောခဲ့သည်။
+4/5
 
 7689
 Rababah's story did not convince everyone at the FBI.
-ရဗ်ဘတ်ချ်၏ အဖြစ်အပျက်သည် အက်ဖ်ဘီအိုင်ရှိလူတိုင်းကို လက်ခံယုံကြည်စေရန် မစည်းရုံးနိုင်ပါ။
+Rababah ၏ အဖြစ်အပျက်သည် အက်ဖ်ဘီအိုင်ရှိလူတိုင်းကို လက်ခံယုံကြည်စေရန် မစည်းရုံးနိုင်ခဲ့ပါ။
+3/5
 
 7690
 The FBI has rock solid evidence that Rababah was lying.
-ရဗ်ဘတ်ချ်သည် လိမ်ညာနေကြောင်း အက်ဖ်ဘီအိုင်တွင် တိကျခိုင်လုံသည့် သက်သေအထောက်အထားရှိသည်။
+Rababah  သည် လိမ်ညာနေကြောင်း FBI တွင် တိကျခိုင်လုံသည့် သက်သေအထောက်အထားရှိသည်။
+4/5
 
 7691
 The Chief of the FDNY could not be located until after noon.
-အက်ဖ်ဒီအန်ဝိုင်၏ အကြီးအကဲကို မွန်းတည့်ပြီးချိန်အထိ ရှာမတွေ့ရပါ။
+FDNY ၏ အကြီးအကဲကို မွန်းလွဲချိန်အထိ ရှာမတွေ့နိုင်ခဲ့ပါ။
+4/5
 
 7692
 The Mayor and Police Commissioner disagreed about how to proceed.
-မြို့တော်ဝန်နှင့် ရဲမင်းကြီးတို့သည် မည်သို့ဆက်လက်ဆောင်ရွက်မည်ဆိုသည့်ကိစ္စအပေါ် သဘောထားကွဲလွဲကြသည်။
+မြို့တော်ဝန်နှင့် ရဲမင်းကြီးတို့သည် မည်သို့ဆက်လက်ဆောင်ရွက်မည်ဟူသည့်ကိစ္စအပေါ် သဘောထားကွဲလွဲခဲ့ကြသည်။
+4/5
 
 7693
 The Police Commissioner and Mayor were involved in consultations.
 ရဲမင်းကြီးနှင့် မြို့တော်ဝန်တို့သည် ညှိနှိုင်းတိုင်ပင်ဆွေးနွေးမှုများတွင် ပါဝင်ခဲ့ကြသည်။
+4/5
 
 7694
 After 9/11 the effort increased dramatically.
-၉/၁၁ဖြစ်ပွားပြီးနောက် ဦးတည်ကြိုးပမ်းဆောင်ရွက်ချက်သည် သိသိသာသာတိုးမြင့်လာသည်။
+၉/၁၁ ဖြစ်ပွားပြီးနောက် ကြိုးပမ်းဆောင်ရွက်ချက်သည် သိသိသာသာတိုးမြင့်လာခဲ့သည်။
+4/5
 
 7695
 After 9/11 the effort was abandoned entirely in favor of different tactics.
-နည်းဗျူဟာ အမျိုးမျိုးအား ထောက်ခံသောအားဖြင့် ၉/၁၁ဖြစ်ပွားပြီးနောက် ဦးတည်ကြိုးပမ်းဆောင်ရွက်ချက်ကို လုံးဝ စွန့်လွှတ်ခဲ့သည်။
+နည်းဗျူဟာ အမျိုးမျိုးအား ထောက်ခံသောအားဖြင့် ၉/၁၁ ဖြစ်ပွားပြီးနောက် ကြိုးပမ်းဆောင်ရွက်ချက်ကို လုံးဝ စွန့်လွှတ်ခဲ့သည်။
+3/5
 
 7696
 Since 9/11 funding for the effort has increased by 120%.
-၉/၁၁ဖြစ်ပွားပြီးသည့် အချိန်ကတည်းက ဦးတည်ကြိုးပမ်းဆောင်ရွက်ချက်အတွက် ရန်ပုံငွေသည် ၁၂၀ရာခိုင်နှုန်း တိုးမြင့်လာသည်။
+ကြိုးပမ်းဆောင်ရွက်ချက်အတွက် ရန်ပုံငွေသည် ၉/၁၁ ဖြစ်ပွားပြီးသည့် အချိန်ကစပြီး ၁၂၀ရာခိုင်နှုန်း တိုးမြင့်လာသည်။
+3/5
 
 7697
 All of the hijackers were admitted on work visas.
-လေယာဉ်ပြန်ပေးသမားများအားလုံးကို အလုပ်ဗီဇာဖြင့် ဝင်ခွင့်ပြုထားသည်။
+လေယာဉ်ပြန်ပေးသမားများအားလုံးသည် အလုပ်ဗီဇာဖြင့် ဝင်ခွင့်ရခဲ့ခြင်းဖြစ်သည်။
+4/5
 
 7698
 Most of the hijackers were admitted as tourists.
-ပြန်ပေးသမားအများစုကို ကမ္ဘာလှည့်ခရီးသည်များအဖြစ် ဝင်ခွင့်ပြုထားသည်။
+ပြန်ပေးသမားအများစုကို ကမ္ဘာလှည့်ခရီးသည်များအဖြစ် ဝင်ခွင့်ပြုခဲ့ခြင်းဖြစ်သည်။
+4/5
 
 7699
 The hijackers made a point of visiting several well known tourist destinations after being admitted.
-ပြန်ပေးသမားသည် ဝင်ခွင့်ရပြီးသည့်နောက် လူသိများကျော်ကြားသော တိုးရစ်များလည်ပတ်ရာ ခရီးသွားနေရာတော်တော်များများသို့ သွားရောက်လည်ပတ်ထားကြသည်။
+ပြန်ပေးသမားသည် ဝင်ခွင့်ရပြီးသည့်နောက် လူသိများကျော်ကြားသော တိုးရစ်များလည်ပတ်ရာ ခရီးသွားနေရာတော်တော်များများသို့ သွားရောက်လည်ပတ်ခဲ့ကြသည်။
+4/5
 
 7700
 KSM always failed to get clean documents.
-ကေအက်စ်အမ်သည် အမြဲတမ်း ပြစ်ချက်ကင်းသော စာရွက်စာတမ်းများ မရရှိခဲ့ပါ။
+ကေအက်စ်အမ် သည် ပြစ်ချက်ကင်းသော စာရွက်စာတမ်းများ အမြဲတမ်းမရရှိခဲ့ပါ။
+3/5
 

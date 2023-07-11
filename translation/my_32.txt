@@ -1,449 +1,499 @@
-# INSTRUCTIONS FOR TRANSLATION QA
-#
-# There are 100 sentence blocks in this file. Each block has the following format.
-# - First line for sequence number, 
-# - Second line for English source sentence
-# - Third line for Myanmar translation -- You can overwrite it with your correction.
-# - Fourth line for the rating of final translation between (1-5) -- This is for you to add.
-# - Fifth line is a blank line for sepearating between the blocks
-#
-#  QA PROCEDURE:
-#  1. Do not add or remove any lines to this file (except for comments/notes that start with a #)
-#  2. Comments are optional translation notes for anything you want to discuss with the wider group.
-#     Any number of lines for comments (notes) can be added to the block by starting with a Hash #.    
-#  3. Do not correct the English sentence under any circumstances.
-#  4. Correct the Myanmar Translation if it is mistranslated, or can be improved.
-#     To correct, just overwrite the Myanmar sentence. DO NOT keep older versions of Myanmar Translation.
-#  5. Give a translation quality rating to the final version of the Myanmar sentence.
-#
-#     Translation rating is out of 5
-#         5/5 = Translation is perfect
-#         4/5 = Translation is somewhat unnatural, but the overall meaning is correct
-#         3/5 = Translation is partially correct, but missing some details
-#         2/5 = Translation is wrong or misleading
-#         1/5 = Translation is incomprehensible.
-# 
-# GENERAL TRANSLATION GUIDANCE:
-#   1. Don't miss any information in translation
-#   2. Don't add unnecessary information
-#   3. Take care to minimise spelling mistakes in Myanmar sentence
-#   4. Use the spoken or written style of Myanmar, depending on the English sentence (e.g. သည်၊ မည်၊ vs. တယ်၊ မယ်)
-#   5. If possible, use the Myanmar terms that directly align to English (i.e. avoid idiomatic translation)
-#
-# HOW TO HANDLE SPECIAL CASES:        
-#   1. English Terms: 
-#      If there is no commonly used Burmese word for an English term, just use the English words back in Myanmar Translation
-#      For example, it is OK to translate "England" as "အင်္ဂလန်" becuase the word exists in Burmese Literature.
-#      But names like "James Whitcomb Riley, Eugene V. Debs and Madam C.J" should be just used as-is in English in the translation.
-#      Likewise, for uncommon English words, it is OK to use them as English in the Translation.
-#
-#   2. Mistranslations due to cultural difference
-#     For example, "Indians" can refer to Native Indians, rather than အိန္ဒိယလူမျိုး that is closer to Burmese culture.
-#     If you are not sure, just use the English word "Indians"
-#
-#   3. Present Tense / Past Tense correctness
-#     Look out for mistakes in tenses. e.g. Go/Went/Gone = သွားသည်/သွားခဲ့သည်/သွားပြီးပြီ 
-#
-# The first 5 blocks have been already completed for you as an example. Start from the 6th block.
-# Don't worry if it is too hard to get the perfect translation. Just try to improve it. 
-# It is good enough if your FINAL translations can get to (4/5) rating.
-
 3101
 Did he remain in Augusta?
-သူက ဩဂတ်စတာမှာ ကျန်နေခဲ့တာလား။
+သူက Augusta မှာ ကျန်နေခဲ့တာလား?
+5/5
 
 3102
 Did he stay in Augusta after the riot?
-သူက အဓိကရုဏ်း အပြီးတွင် ဩဂတ်စတာတွင် နေခဲ့သလား။
+အဓိကရုဏ်း အပြီးမှာ သူက Augusta မှာ နေခဲ့တာလား?
+5/5
 
 3103
 I know he left Augusta immediately.
-သူသည် ဩဂတ်စတာက ချက်ချင်း ထွက်သွားတာကို ကျွန်တော် သိတယ်။
+သူ Augusta က ချက်ချင်း ထွက်သွားတာကို ကျွန်တော် သိတယ်။
+5/5
 
 3104
 Her brother in law was light colored.
 သူ၏ ယောက္ခမဖြစ်သူသည် အရောင် ဖြူဖျော့ခဲ့သည်။
+4/5
 
 3105
 her brother in law was swedish.
-သူ၏ ယောက်ဖသည် ဆွီဒင်လူမျိုး ဖြစ်ခဲ့သည်။
+သူမ၏ ခဲအိုသည် ဆွီဒင်လူမျိုး ဖြစ်ခဲ့သည်။
+5/5
 
 3106
 her sister wasn't married.
-သူမ အစ်မက လက်မထပ်ထားဘူး။
+သူမရဲ့ အစ်မက အိမ်ထောင်မကျခဲ့သေးဘူး။
+5/5
 
 3107
 I don't remember how many we had.
-ကျွန်တော်တို့ ဘယ်နှစ်ယောက်ရှိလဲတော့ ကျွန်တော် မမှတ်မိတော့ဘူး။
+ကျွန်တော်တို့ ဘယ်လောက်ရှိခဲ့လဲ ကျွန်တော် မမှတ်မိတော့ဘူး။
+4/5
 
 3108
 I don't remember how many workers we had.
-ကျွန်တော်တို့မှာ အလုပ်သမား ဘယ်နှစ်ယောက်ရှိလဲ ကျွန်တော် မမှတ်မိတော့ဘူး။
+ကျွန်တော်တို့မှာ အလုပ်သမား ဘယ်နှစ်ယောက်ရှိခဲ့လဲ ကျွန်တော် မမှတ်မိတော့ဘူး။
+5/5
 
 3109
 I know the exact numbers for everything
-အရာရာတိုင်း အတွက် တိကျသော ကိန်းဂဏာန်းတွေကို ငါ သိတယ်။
+အရာရာတိုင်း အတွက် ကိန်းဂဏာန်း အတိအကျကို ငါသိတယ်။
+5/5
 
 3110
 They invented a new regulator.
-သူတို့သည် ထိန်းညှိကိရိယာ အသစ် တစ်ခု ကို တီထွင်ခဲ့သည်။
+သူတို့သည် ထိန်းညှိကိရိယာ အသစ်တစ်ခု ကို တီထွင်ခဲ့သည်။
+5/5
 
 3111
 They invented a regulator that worked in space.
 သူတို့က အာကာသထဲမှာ အလုပ်လုပ်တဲ့ ထိန်းညှိကိရိယာ တစ်ခု ကို တီထွင်ခဲ့တယ်။
+5/5
 
 3112
 They still couldn't figure out how to make a high O2 regulator.
-မြင့်မားသော အိုတူး ထိန်းညှိကိရိယာ တစ်ခုကို မည်သို့ ပြုလုပ်ရမည်ကို သူတို့ မသိနိုင်သေးပါ။
+မြင့်မားတဲ့ O2 ထိန်းညှိကိရိယာ တစ်ခုကို မည်သို့ ပြုလုပ်ရမည်ကို သူတို့ မသိနိုင်သေးပါ။
+4/5
 
 3113
 I have never been to Los Vegas in my life.
 ကျွန်တော့် ဘဝမှာ လော့စ်ဗီးဂတ်စ်ကို တစ်ခါမှ မရောက်ဖူးဘူး။
+5/5
 
 3114
 I have worked in both Las Vegas and Washington.
 ငါ လော့စ်ဗီးဂတ်စ် နဲ့ ဝါရှင်တန် နှစ်ခုလုံးမှာ အလုပ်လုပ်ဖူးတယ်။
+5/5
 
 3115
 I worked as a cab driver in both of these cities.
-ဒီမြို့ နှစ်ခုလုံးမှာ တက္ကစီ ယာဉ်မောင်း တစ်ယောက် အဖြစ် ကျွန်တော် လုပ်ခဲ့တယ်။
+အဲဒီမြို့ နှစ်ခုလုံးမှာ တက္ကစီ ယာဉ်မောင်း တစ်ယောက် အဖြစ် ငါ လုပ်ခဲ့တယ်။
+5/5
 
 3116
 I hated every bit of school!
-ကျွန်တော် ကျောင်းစာတိုင်းကို မုန်းခဲ့တယ်!
+ငါ ကျောင်းနဲ့ပတ်သက်သမျှအရာအားလုံးကို မုန်းခဲ့တယ်!
+5/5
 
 3117
 I liked fourth grade because we had two recesses.
 ကျွန်တော်တို့မှာ မုန့်စားဆင်းချိန် နှစ်ချိန် ရှိခဲ့ သောကြောင့် ကျွန်တော် စတုတ္ထတန်းကို ကြိုက်ခဲ့တယ်။
+5/5
 
 3118
 I liked fourth grade.
 ကျွန်တော် စတုတ္ထတန်းကို သဘောကျတယ်။
+5/5
 
 3119
 The page is just  one list of numbers.
 ဒီ စာမျက်နှာသည် နံပါတ်များ၏ စာရင်း တစ်ခုမျှသာ ဖြစ်သည်။
+5/5
 
 3120
 The tabs have a lot of data.
 ကတ်ပြားများတွင် အချက်အလက် များစွာရှိသည်။
+3/5
 
 3121
 The tabs show the current balance of every account.
 ကတ်ပြားများသည် အကောင့်တိုင်း၏ လက်ရှိ လက်ကျန်ငွေကို ပြသသည်။
+3/5
 
 3122
 I decided to come home at lunch and take the rest of the day off.
-ကျွန်တော် နေ့လယ်စာ အတွက် အိမ်သို့ ပြန်ဖို့ ဆုံးဖြတ်ခဲ့ပြီး ဒီနေ့ကို အနားယူခဲ့သည်။
+ကျွန်တော် နေ့လယ်စာစားချိန်မှာအိမ်ပြန်ဖို့ ဆုံးဖြတ်ခဲ့ပြီး အဲဒီနေ့ကို အနားယူခဲ့သည်။
+5/5
 
 3123
 I didnt do anything significant after 6:30 today.
-ကျွန်တော် ဒီနေ့ ၆:၃၀ နောက်ပိုင်း ဘာမှ ထူးထူးခြားခြား မလုပ်ဖြစ်ခဲ့ဘူး။
+ကျွန်တော် ဒီနေ့ ၆:၃၀ နောက်ပိုင်း ဘာမှ မည်မည်ရရ မလုပ်ဖြစ်ခဲ့ဘူး။
+5/5
 
 3124
 I spent most of the day dealing with a complicated customer billing issue.
-ရှုပ်ထွေးသော ဖောက်သည် တစ်ယောက်၏ ငွေတောင်းခံမှု ပြဿနာ ကို ကိုင်တွယ်ဖြေရှင်းရာတွင် ကျွန်တော် ရက်များစွာ ကုန်ဆုံးခဲ့သည်။
+ဖောက်သည်တစ်ယောက်ရဲ့ ရှုပ်ထွေးတဲ့ ငွေတောင်းခံလွှာ ပြဿနာကို ဖြေရှင်းနေရတာနဲ့ပဲ ငါ အဲဒိနေ့ တစ်နေကုန်ခဲ့တယ်။
+5/5
 
 3125
 I don't care if you do it yourself or hire it out.
-သင်သည် ဒါကို သင်ကိုယ်တိုင် လုပ်လျှင် သို့မဟုတ် ဒါကို ငှားရမ်းမယ်ဆိုလျှင် ကျွန်တော် ဂရုမစိုက်ပါဘူး။
+အဲဒါကို မင်းကိုယ်တိုင်ပဲလုပ်လုပ် အပြင်လူပဲငှားငှား ငါဂရုမစိုက်ဘူး။
+5/5
 
 3126
 I don't care what your method is.
 မင်းရဲ့ နည်းလမ်းက ဘာလဲဆိုတာ ငါ ဂရုမစိုက်ဘူး။
+5/5
 
 3127
 I need to know exactly how you will do this.
 ဒါကို မင်း ဘယ်လိုလုပ်မယ်ဆိုတာ အတိအကျ ငါ သိဖို့ လိုတယ်။
+5/5
 
 3128
 She kept talking to her coworkers about the guy running away.
-သူမသည် ထွက်ပြေးသွားတဲ့ ကောင်လေး အကြောင်းကို သူမ၏ လုပ်ဖော်ကိုင်ဖက်တွေနဲ့ ဆက်လက် ပြောနေခဲ့တယ်။
+သူမသည် ထွက်ပြေးသွားတဲ့ ကောင်လေး အကြောင်းကို သူမ၏ လုပ်ဖော်ကိုင်ဖက်တွေနဲ့ ဆက်ပြောနေခဲ့တယ်။
+5/5
 
 3129
 She kept talking.
-သူမက ဆက်ပြောနေပါသည်။
+သူမက ဆက်ပြောနေခဲ့သည်။
+5/5
 
 3130
 She stayed silent and looked down at her desk.
-သူမ တိတ်တိတ်ဆိတ်ဆိတ် နေခဲ့ ပြီး သူမ၏ စားပွဲကို ငုံ့ကြည့်နေသည်။
+သူမ တိတ်ဆိတ်နေခဲ့ပြီး သူမ၏ စားပွဲကို ငုံ့ကြည့်နေခဲ့သည်။
+5/5
 
 3131
 They built a house on Mallard Creek.
-သူတို့သည် မာလဒ် ခရိခ်မှာ အိမ် တစ်လုံး ဆောက်ခဲ့တယ်။
+သူတို့သည် Mallard Creek မှာ အိမ် တစ်လုံး ဆောက်ခဲ့တယ်။
+5/5
 
 3132
 They never moved to Charlotte.
-သူတို့က ချားလော့ကို ဘယ်တော့မှ မပြောင်းခဲ့ဘူး။
+သူတို့ Charlotte ဘယ်တော့မှ မပြောင်းခဲ့ဘူး။
+5/5
 
 3133
 They then lived in Mallard Creek.
-ထို့နောက် သူတို့သည် မာလဒ် ခရိခ်တွင် နေထိုင်ခဲ့ကြသည်။
+ထို့နောက် သူတို့သည် Mallard Creek တွင် နေထိုင်ခဲ့ကြသည်။
+5/5
 
 3134
 If there is a surge of electricity, it's very dangerous to anyone around.
-လျှပ်စစ်မီးအား ချက်ချင်းတက်လာရင် ၊ ပတ်ဝန်းကျင်က လူတွေ အရမ်း အန္တရာယ်များတယ်။
+လျှပ်စစ်မီးအား ဆောင့်တက်လာရင် ၊ ပတ်ဝန်းကျင်က လူတွေအတွက် အရမ်း အန္တရာယ်များတယ်။
+5/5
 
 3135
 If there is a surge, there is a noise that accompanies it.
-လှိုင်းတစ်ခု ရှိခဲ့လျှင် ၊ ၎င်းတွင် ဆူညံသံ တစ်ခု လိုက်ပါလာသည်။
+ထိုးတက်လာနေပြီဆိုရင် သူနဲ့တူတူတွဲပါလာတဲ့ ဆူညံသံတစ်ခုရှိတယ်။
+4/5
 
 3136
 It will only surge once.
-တစ်ကြိမ်သာ လှိုင်းတက်လာလိမ့်မည်။
+တစ်ကြိမ်သာ ဆောင့်တက်လာလိမ့်မည်။
+4/5
 
 3137
 His dad was a Lutheran pastor.
-သူ၏ အဖေက လူသာရန် သင်းအုပ်ဆရာ တစ်ယောက် ဖြစ်ခဲ့တယ်။
+သူ၏ အဖေက Lutheran သင်းအုပ်ဆရာ တစ်ယောက် ဖြစ်ခဲ့တယ်။
+5/5
 
 3138
 His dad was a convict who never went to church.
-သူ၏ အဖေက ဘုရားကျောင်းကို တခါမှ မသွားဖူးတဲ့ ပြစ်မှုကျူးလွန်သူ တစ်ယောက် ဖြစ်ခဲ့တယ်။
+သူ့ရဲ့ အဖေက ဘုရားကျောင်းကို တခါမှ မသွားတဲ့ ပြစ်မှုကျူးလွန်သူ တစ်ယောက် ဖြစ်ခဲ့တယ်။
+5/5
 
 3139
 His dad was a pastor.
-သူ၏ အဖေက သင်းအုပ်ဆရာ တစ်ယောက် ဖြစ်ခဲ့တယ်။
+သူ့ရဲ့ အဖေက သင်းအုပ်ဆရာ တစ်ယောက် ဖြစ်ခဲ့တယ်။
+5/5
 
 3140
 I have all the information I could ever need.
-ကျွန်တော် အမြဲ လိုအပ်နေတဲ့ အချက်အလက်တွေ အကုန် ကျွန်တော့်မှာ ရှိတယ်။
+ကျွန်တော် လိုအပ်မယ့် သတင်းအချက်အလက်တွေ အကုန် ကျွန်တော့်မှာ ရှိတယ်။
+5/5
 
 3141
 I need more information to decide what kind of car to purchase.
-မည်သည့် ကား အမျိုးအစားကို ဝယ်ယူမည်ကို ဆုံးဖြတ် ရန် နောက်ထပ် အချက်အလက်များ ကျွန်တော် လိုအပ်ပါသည်။
+ဘယ်ကားအမျိုးအစားကို ဝယ်မလဲဆိုတာဆုံးဖြတ်ဖို့ နောက်ထပ် အချက်အလက်တွေ ငါလိုတယ်။
+4/5
 
 3142
 I need to gather more information about this thing.
-ကျွန်တော် ဒီအရာနဲ့ ပတ်သက်တဲ့ အချက်အလက်တွေ ပို စုဆောင်းဖို့လိုတယ်။
+ကျွန်တော် ဒီအရာနဲ့ ပတ်သက်တဲ့ သတင်းအချက်အလက်တွေ ပို စုဆောင်းဖို့လိုတယ်။
+5/5
 
 3143
 I didn't know if he wanted information about the travel times.
-ခရီးသွားချိန်နဲ့ ပတ်သက်တဲ့ အချက်အလက်တွေ သူ လိုချင်တယ်ဆိုလျှင် ကျွန်တော် မသိခဲ့ဘူး။
+ခရီးသွားချိန်နဲ့ ပတ်သက်တဲ့ အချက်အလက်တွေ သူ လိုချင်တယ်ဆိုတာ ငါ မသိခဲ့ဘူး။
+5/5
 
 3144
 I gave him every detail because I knew he wanted it.
-သူ ဒါကို လိုချင်တာ ကျွန်တော် သိခဲ့လို့ ကျွန်တော်က အသေးစိတ်အချက်တိုင်းကို သူ့ကို ပေးခဲ့တယ်။
+သူလိုချင်တယ်ဆိုတာ ငါ သိခဲ့လို့ အသေးစိတ်အချက်တိုင်းကို ငါသူ့ကို ပေးခဲ့တယ်။
+5/5
 
 3145
 I wasn't sure how in depth it should be.
-၎င်းသည် မည်ကဲ့သို့ လေးလေးနက်နက် ဖြစ်သင့်သည်ကို ကျွန်တော် မသေချာ ဖြစ်ခဲ့ပါသည်။
+အဲဒါက ဘယ် လောက် အ သေးစိတ်ဖြစ်သင့်လဲဆိုတာာ ငါ မသေချာခဲ့ဘူး
+4/5
 
 3146
 He said he would call once he got home.
-သူက အိမ်ရောက်တာနဲ့ သူ ချက်ချင်း ဖုန်းဆက်မယ်လို့ သူက ပြောခဲ့တယ်။
+အိမ်ရောက်တာနဲ့ သူ ချက်ချင်း ဖုန်းဆက်မယ်လို့ သူ ပြောခဲ့တယ်။
+5/5
 
 3147
 He said he'd return the call.
 သူ ဖုန်းပြန်ဆက်မယ်လို့ သူက ပြောခဲ့တယ်။
+5/5
 
 3148
 He said they were done speaking.
-သူတို့ ပြောပြီးကြပြီဟု သူက ပြောခဲ့တယ်။
+သူတို့ စကားပြောတာပြီးပြီလို့ သူက ပြောခဲ့တယ်။
+5/5
 
 3149
 They asked me why I had gone there.
 ကျွန်တော် ဘာလို့ အဲဒီကို သွားတာလဲလို့ သူတို့က ကျွန်တော့်ကို မေးခဲ့တယ်။
+5/5
 
 3150
 They asked why I went to the store.
 ကျွန်တော် ဘာလို့ စတိုးဆိုင်ကို သွားခဲ့တာလဲလို့ သူတို့က မေးခဲ့တယ်။
+5/5
 
 3151
 They asked why I'd stayed home.
-ကျွန်တော် ဘာလို့ အိမ်မှာ နေရလဲလို့ သူတို့က မေးခဲ့ကြတယ်။
+ကျွန်တော် ဘာလို့ အိမ်မှာ နေနေခဲ့လဲလို့ သူတို့က မေးခဲ့ကြတယ်။
+5/5
 
 3152
 They don't have any of the files.
 သူတို့တွင် မည်သည့် ဖိုင်မျှ မရှိပါ။
+5/5
 
 3153
 They keep all the files.
-သူတို့သည် ဖိုင်တွေ အားလုံးကို သိမ်းထားတယ်။
+ဖိုင်တွေ အားလုံးကို သူတို့သိမ်းထားတယ်။
+5/5
 
 3154
 They keep the medical and legal files all together.
-သူတို့သည် ဆေးဘက်ဆိုင်ရာ နှင့် ဥပဒေရေးရာ စာရွက်စာတမ်းများ အာလုံးကို အတူတကွ သိမ်းဆည်းထားသည်။
+သူတို့သည် ဆေးဘက်ဆိုင်ရာ နှင့် ဥပဒေဆိုင်ရာ စာရွက်စာတမ်းများ အာလုံးကို အတူတကွ သိမ်းဆည်းထားသည်။
+5/5
 
 3155
 She gave me two different versions.
 သူမက ကျွန်တော့်ကို မတူညီသော ဖော်ပြချက် နှစ်မျိုး ပေးခဲ့သည်။
+4/5
 
 3156
 She gave me two types of instructions and i prefered the detailed ones.
-သူမက ကျွန်တော့်ကို ညွှန်ကြားချက် နှစ်မျိုး ပေးခဲ့ပြီး အသေးစိတ် တစ်ခုကို ကျွန်တော် သဘောကျပါတယ်။
+သူမက ကျွန်တော့်ကို ညွှန်ကြားချက် နှစ်မျိုး ပေးခဲ့ပြီး အသေးစိတ်တဲ့ တစ်ခုကို ကျွန်တော် ပိုသဘောကျခဲ့ပါတယ်။
+5/5
 
 3157
 She only gave me one version and it was just a few lines lone.
 သူမက ကျွန်တော့်ကို ဖော်ပြချက် တစ်ခုပဲ ပေးခဲ့တယ် ပြီးတော့ အဲဒါက စာကြောင်းနည်းနည်းပဲရှိတယ်။
+4/5
 
 3158
 Augusta has 10,000 people in it.
-ဩဂတ်စတာတွင် လူ ၁၀,၀၀၀ ရှိသည်။
+Augusta တွင် လူ ၁၀,၀၀၀ ရှိသည်။
+5/5
 
 3159
 Augusta isn't a large city.
-ဩဂတ်စတာသည် ကြီးမားသော မြို့ တစ်ခု မဟုတ်ပါ။
+Augusta သည် ကြီးမားသော မြို့ တစ်ခု မဟုတ်ပါ။
+5/5
 
 3160
 They lived in the heart of Augusta.
 သူတို့သည် ဩဂတ်စတာ၏ အလယ်ဗဟိုတွင် နေထိုင်ခဲ့သည်။
+5/5
 
 3161
 I was told to go to DC.
-ဒီစီသို့ သွားရန် ကျွန်တော်က ပြောခဲ့သည်။
+ငါ့ကို DC ကို သွားခိုင်းခဲ့တယ်။
+4/5
 
 3162
 The army sent me to DC right away.
-စစ်တပ်က ချက်ချင်းပဲ ဒီစီသို့ ကျွန်တော့်ကို ပို့ခဲ့တယ်။
+စစ်တပ်က ငါ့ကို ချက်ချင်းပဲ ဒီစီ ကိုပို့ခဲ့တယ်။
+5/5
 
 3163
 They told me to go to Africa.
-သူတို့က အာဖရိကသို့ သွားရန် ကျွန်တော်ကို ပြောခဲ့သည်။ 
+အာဖရိကကို သွားဖို့ ငါ့ကို သူတို့က ပြောခဲ့တယ်။
+5/5
 
 3164
 Our house in Concord couldn't allow animals.
-ကွန်းကော့ ရှိ ကျွန်ုပ်တို့ အိမ်တွင် တိရစ္ဆာန်များကို ခွင့်မပြုနိုင်ပါ။
+Concord မှာရှိတဲ့ ငါတို့အိမ်မှာ တိရစ္ဆာန် ခေါ်လာခွင့်မပြုဘူး
+5/5
 
 3165
 Our house in Concord had 30000 acres and lots of animals.
-ကွန်းကော့ ရှိ ကျွန်ုပ်တို့အိမ်တွင် ဧက ၃၀၀၀၀ နှင့် တိရစ္ဆာန် များစွာ ရှိခဲ့သည်။
+Concord မှာရှိတဲ့ ငါတို့အိမ်က ဧက ၃၀၀၀၀ ကျယ်ပြီး  တိရစ္ဆာန်တွေ အများကြီးရှိခဲ့တယ်။
+5/5
 
 3166
 We sold all our animals when we moved to Concord.
-ကျွန်တော်တို့သည် ကွန်းကော့ ကို ပြောင်းလာတဲ့အခါ ကျွန်တော်တို့ တိရစ္ဆာန်တွေ အားလုံးကို ကျွန်တော်တို့က ရောင်းချခဲ့ပါတယ်။
+ငါတို့ Concord ကို ပြောင်းလာတဲ့အခါကျ တော့ ငါတို့ တိရစ္ဆာန်တွေ အားလုံးကို ရောင်းပစ်ခဲ့တယ်။
+5/5
 
 3167
 We deployed our forces in 1968.
-၁၉၆၈မှာ ကျနော်တို့တပ်တွေကို ကျွန်တော်တို့ တပ်ဖြန့်ခဲ့တယ်။
+၁၉၆၈မှာ ငါတို့တပ်တွေကို  တပ်ဖြန့်ခဲ့တယ်။
+4/5
 
 3168
 We never ended up deploying anyone.
-ကျွန်တော်တို့က လက်တွေ့အသုံးချနေသူများကို ဘယ်တော့မှ အဆုံးမသတ်ခဲ့ဘူး။
+ငါတို့ ဘယ်သူ့ကိုမှ  အသုံးမချဖြစ်ခဲ့ဘူး
+4/5
 
 3169
 We sent our troops to Japan in June 1968.
-ကျွန်တော်တို့သည် ၁၉၆၈ ခုနှစ် ဇွန်လတွင် ကျွန်ုပ်တို့၏ တပ်များကို ဂျပန်သို့ စေလွှတ်ခဲ့သည်။
+၁၉၆၈ ခုနှစ် ဇွန်လတွင် ကျွန်ုပ်တို့၏ တပ်များကို ဂျပန်သို့ စေလွှတ်ခဲ့သည်။
+5/5
 
 3170
 He said I could turn it in whenever.
-ကျွန်တော်တို့ အချိန်မရွေး ၎င်းကို လှည့်လို့ရတယ်လို့ သူက ပြောပါတယ်။
+ကျွန်တော်တို့ အချိန်မရွေး အဲဒါကို တင်လို့ရတယ်လို့ သူက ပြောခဲ့တယ်။
+5/5
 
 3171
 He told me I had to finish the whole project by 2pm.
-ငါတို့သည် ပရောဂျက် တစ်ခုလုံးကို နေ့လည် ၂ နာရီမှာ အပြီးသတ်ရမယ်လို့ သူက ငါတို့ကို ပြောခဲ့တယ်။
+ပရောဂျက် တစ်ခုလုံးကို နေ့လည် ၂ နာရီမှာ အပြီးသတ်ရမယ်လို့ သူက ငါကို ပြောခဲ့တယ်။
+5/5
 
 3172
 He told me it was urgent.
-ဒါက အရေးတကြီးဖြစ်ခဲ့တာလို့ သူက ငါ့ကို ပြောခဲ့တယ်။
+အဲဒါက အရေးတကြီးလိုတာလို့ သူက ငါ့ကို ပြောခဲ့တယ်။
+5/5
 
 3173
 She said I should just assume the school would be fine.
-ကျောင်းက အဆင်ပြေမယ်လို့ ကျွန်တော် ယူဆသင့်ကြောင့်ကို သူမက ပြောခဲ့သည်။
+ကျောင်းက အဆင်ပြေမယ်လို့ ကျွန်တော် ယူဆသင့်ကြောင်း သူမက ပြောခဲ့သည်။
+5/5
 
 3174
 She said I shouldn't fret.
 ကျွန်တော် စိတ်မပူသင့်ဘူးလို့ သူမက ပြောခဲ့တယ်။
+5/5
 
 3175
 She said it was time to panic.
 ထိတ်လန့်ဖို့ အချိန်ရောက်ပြီဟု သူမက ပြောခဲ့သည်။
+5/5
 
 3176
 You are in danger.
-မင်း အန္တရာယ် ရှိတယ်။
+မင်းမှာ အန္တရာယ်တစ်ခုခု ရှိနေပြီ။
+5/5
 
 3177
 You'll be just fine!
 မင်းအဆင်ပြေမှာပါ!
+5/5
 
 3178
 You're in danger of being deported.
 မင်းက ပြည်နှင်ဒဏ်ခံရဖို့ အန္တရာယ် ရှိနေတယ်။
+5/5
 
 3179
 My mom had to pick cotton and corn.
-အမေက ချည် နဲ့ ပြောင်းကို ခူးရသည်။
+အမေက ချည် နဲ့ ပြောင်းကို ခူးခဲ့ရသည်။
+5/5
 
 3180
 My mom was the golden child so she didn't have to work.
-အမေက ရွှေကဲ့သို့သော ကလေးတွေ ရှိခဲ့တာမလို့ သူမ အလုပ်လုပ်စရာမလိုခဲ့ပါဘူး။
+ငါ့အမေက ရွှေလိုဥခံထားခဲ့ရတဲ့ ကလေးမို့လို့ အလုပ်လုပ်စရာမလိုခဲ့ပါဘူး။
+5/5
 
 3181
 My mother had to work outside.
-ကျွန်တော့် အမေက အပြင်မှာ အလုပ်လုပ်ရတယ်။
+ငါ့ အမေက အပြင်မှာ အလုပ်လုပ်ခဲ့ရတယ်။
+5/5
 
 3182
 Joe was the only person who had a key to the break room.
-ဂျိုးသည် နားနေခန်း သော့ တစ်ချောင်း ရှိသော တစ်ဦးတည်းသော လူ ဖြစ်ခဲ့သည်။
+Joe သည် နားနေခန်းသော့ရှိသည့် တစ်ဦးတည်းသောသူ ဖြစ်ခဲ့သည်။
+5/5
 
 3183
 No mater how hard we tried we just couldnt get Joe to leave us alone.
-ဘယ်လောက်ပဲ ကြိုးစားကြိုးစား ဂျိုးကို ကျွန်တော်တို့ တစ်ယောက်တည်း ထားခဲ့ဖို့ မဖြစ်နိုင်ပါဘူး။
+ငါတို့ ဘယ်လောက်ပဲ ကြိုးစားကြိုးစား Joe က ငါတို့ကို အ နှောက်အယှက် မပေးပဲနေဖို့ ငါတို့ မလုပ်နိုင်ခဲ့ဘူး
+4/5
 
 3184
 One day Joe was just gone and nobody could figure out where he went.
-တစ်နေ့မှာ ဂျိုးက ထွက်သွားပြီး သူသည် ဘယ်ကိုသွားတယ်ဆိုတာ ဘယ်သူမှ မသိနိုင်ပါဘူး။
+တစ်နေ့မှာ Joe က ထွက်သွားခဲ့ပြီး သူ ဘယ်ကိုသွားတယ်ဆိုတာ ဘယ်သူမှ အဖြေမထုတ် နိုင်ခဲ့ဘူး။
+5/5
 
 3185
 I blamed it on my sister.
-ကျွန်တော်က ဒါကို ကျွန်တော့် ညီမလေးကို အပြစ်တင်ခဲ့တယ်။
+ကျွန်တော်က အဲဒါကို ကျွန်တော့် ညီမအပေါ် အပြစ်တင်ခဲ့တယ်။
+5/5
 
 3186
 I said it was mine.
-ဒါက ကျွန်တော့်ဟာဖြစ်ပါတယ်လို့ ကျွန်တော် ပြောခဲ့သည်။
+အဲဒါက ကျွန်တော့်ဟာပါလို့ ကျွန်တော် ပြောခဲ့တယ်။
+5/5
 
 3187
 I told them the dog belonged to my sister.
 ခွေးက ကျွန်တော့် ညီမ ပိုင်တယ်လို့ ကျွန်တော်က သူတို့ကို ပြောခဲ့တယ်။
+5/5
 
 3188
 She said her mom also walks on her tip toes.
-သူမ၏ အမေသည် သူမ ၏ ခြေဖျား ပေါ် လမ်းလျှောက်နေတယ်လို့လည်း သူမက ပြောခဲ့တယ်။
+သူမရဲ့ အမေကလည်း  ခြေဖျားနဲ့ လမ်းလျှောက်တယ်လို့ သူမက ပြောခဲ့တယ်။
+4/5
 
 3189
 She said her mom has the same walk.
-သူမက သူမ အမေနဲ့အတူတူလမ်းလျှောက်တာတွေရှိတယ်လို့ ပြောခဲ့တယ်။
+သူမအမေနဲ့သူမလမ်းလျှောက်တာတူတယ်လို့ သူမက ပြောခဲ့တယ်။
+4/5
 
 3190
 She said her mom is paralyzed and can't walk.
-သူမ ၏ အမေက လေဖြတ်ပြီး လမ်းမလျှောက်နိုင်ဘူးလို့ သူမက ပြောခဲ့တယ်။
+သူမရဲ့ အမေက လေဖြတ်ပြီး လမ်းမလျှောက်နိုင်ဘူးလို့ သူမက ပြောခဲ့တယ်။
+5/5
 
 3191
 I didn't need any preparation.
-ကျွန်တော် ဘာပြင်ဆင်မှုမှ မလိုဘူး။
+ကျွန်တော် ဘာပြင်ဆင်မှုမှ မလိုခဲ့ဘူး။
+5/5
 
 3192
 I had to learn how to complete the obstacle course.
-အခက်အခဲရှိသော သင်တန်းကို ပြီးမြောက်အောင်ဖို့ နည်းလမ်းကို ကျွန်တော် လေ့လာဖို့ ရှိတယ်။
+အခက်အခဲဖြတ် ကျော်ခြင်း သင်တန်းကို  ဘယ်လို ပြီးမြောက်အောင်မြင်အောင်လုပ်ရမလဲ ဆိုတာ ကျွန်တော် လေ့လာခဲ့ရတယ်။
+5/5
 
 3193
 I had to start preparing.
 ကျွန်တော် စတင် ပြင်ဆင်ခဲ့ရတယ်။
+5/5
 
 3194
 I didn't know she'd get very sick.
-သူမ အရမ်း ဖျားနေမှန်း ကျွန်တော် မသိခဲ့ပါ။
+သူမ အရမ်း ဖျားမယ်မှန်း ကျွန်တော် မသိခဲ့ဘူး။
+5/5
 
 3195
 I didn't know what would happen to her.
-သူမကို ဘာဖြစ်သွားတယ်ဆိုတာ ကျွန်တော် မသိခဲ့ပါ။
+သူမ ဘာဖြစ်မယ်ဆိုတာ ကျွန်တော် မသိခဲ့ဘူး။
+5/5
 
 3196
 I knew what was going to happen when she did that.
-သူမ ဒီလို လုပ်တဲ့အခါ ဘာဖြစ်မယ်ဆိုတာ ကျွန်တော် သိခဲ့တယ်။
+သူမ အဲဒီလို လုပ်တဲ့အခါ ဘာဖြစ်မယ်ဆိုတာ ကျွန်တော် သိခဲ့တယ်။
+5/5
 
 3197
 I refused to sit down again.
 ကျွန်တော်က နောက်ထပ် ထိုင်ဖို့ ငြင်းဆန်ခဲ့တယ်။
+5/5
 
 3198
 I returned to my seat.
 ကျွန်တော်က ကျွန်တော့် ထိုင်ခုံကို ပြန်လာခဲ့တယ်။
+5/5
 
 3199
 I went back and sat down because my boss told me to.
-ကျွန်တော့် သူဌေးက ကျွန်တော်ကို ပြောခဲ့သောကြောင့် ကျွန်တော် ပြန်လာခဲ့ ပြီး ထိုင်နေခဲ့တာပါ။
+ကျွန်တော့် သူဌေးက ကျွန်တော့်ကို ပြောလို့ ကျွန်တော် ပြန်လာခဲ့ ပြီး ထိုင်နေခဲ့တာပါ။
+5/5
 
 3200
 I have no memories of that house.
-ကျွန်တော့်တော့ အဲဒီ အိမ်မှာ အမှတ်ရစရာ မရှိပါဘူး။
+ကျွန်တော့်မှာ အဲဒီ အိမ်နဲ့ပတ်သက်ပြီး ဘာအမှတ်ရစရာမှ မရှိပါဘူး။
+5/5
