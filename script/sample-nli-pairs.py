@@ -2,7 +2,7 @@
 import sys, random
 
 USAGE = """
-python script/sample-devset.py sequence_file sample_size
+python script/sample-nli-pairs.py sequence_file sample_size
 """
 
 dev_sets = {
