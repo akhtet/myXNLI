@@ -8,11 +8,12 @@ from validate import analyze_file
 
 dev_file = 'xnli-original/xnli.dev.tsv'
 test_file = 'xnli-original/xnli.test.tsv'
-parallel_file = 'xnli-origin/xnli.15way.orig.tsv'
+parallel_file = 'xnli-original/xnli.15way.orig.tsv'
 
 trans_dir = 'translation'
 my_dev_file = 'output/my/my.genre.dev.tsv'
 my_test_file = 'output/my/my.genre.test.tsv'
+my_parallel_file = 'output/my/myxnli.16way.tsv'
 
 keyword_file = 'translation/keywords.csv'
 en_sentence_file = 'translation/english.txt'
@@ -64,6 +65,31 @@ def write_source_sentences(my_dict):
     for sent in my_dict:
         outfile.write(sent + '\n')
     outfile.close()
+
+def write_parallel_corpus(my_dict):
+    """
+    Writes parallel corpus including Myanmar sentences
+    """
+    with open(parallel_file, encoding='utf-8') as infile:
+
+        outfile = open(my_parallel_file, 'wt', encoding='utf-8')
+        print ('Writing ', my_parallel_file)
+
+        lang_head = infile.readline().strip().split('\t')
+        lang_head.insert(8, 'my')
+        outfile.write('\t'.join(lang_head) + '\n')
+
+        counter = 0
+        for line in infile.readlines():
+            cols = line.strip().split('\t')
+            en_source = cols[4]
+            my_target = my_dict.get(en_source, en_source)
+            cols.insert(8, my_target)
+            outfile.write('\t'.join(cols) + '\n')
+            counter += 1
+            if counter % 1000 == 0:
+                print (counter, end='\r')
+        outfile.close()
 
 
 def write_dataset(my_dict):
@@ -153,8 +179,15 @@ if __name__ == '__main__':
     # Build output files
     mydict, stats = build_dict()
     print(stats)
-    write_dataset(mydict)
-    write_source_sentences(mydict)
+
+    if 'parallel' in sys.argv:
+        write_parallel_corpus(mydict)
+    
+    if 'dataset' in sys.argv:
+        write_dataset(mydict)
+    
+    if 'source' in sys.argv:
+        write_source_sentences(mydict)
         
            
 
