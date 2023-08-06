@@ -2,16 +2,20 @@ from google.cloud import translate_v2 as translate
 
 import sys
 
+USAGE = """USAGE
+<script.py> [my|sw|ur]
+"""
+
 #export GOOGLE_APPLICATION_CREDENTIALS="<path>/<credential.json>"
 
 test_sets = {
     'my': {
-        'input': 'output/myxnli.test.tsv',
-        'output': 'output/raw.myxnli.trans.test.tsv',
+        'input': 'output/my/my.genre.test.tsv',
+        'output': 'output/my/raw.myxnli.trans.test.tsv',
         'lang_index': -1,
-        'label_index': 0,
-        'sentence1_index': 3,
-        'sentence2_index': 4    
+        'label_index': 1,
+        'sentence1_index': 4,
+        'sentence2_index': 5    
     },
     'sw': {
         'input': 'xnli-original/xnli.test.tsv',
