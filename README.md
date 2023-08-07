@@ -1,8 +1,12 @@
 # myXNLI
-Myanmar XNLI - Myanmar extension to XNLI Corpus
+Myanmar XNLI - Myanmar extension to the XNLI Corpus
 
-This project will add a Myanmar (Burmese) Corpus to the Cross Lingual NLI Corpus.
+The myXNLI dataset extends the XNLI Corpus with Myanmar (Burmese) language.
 The original XNLI Corpus and paper can be found at https://github.com/facebookresearch/XNLI
+
+For myXNLI, we translated all 7,500 sentence pairs from XNLI English dev/test sets into Myanmar. The labels from English dev/test sets are also reused for the Myanmar datasets.
+
+The dataset also includes the NLI training data in Myanmar which is created by machine-translating the MultiNLI training data from English into Myanmar. Similar to XNLI, we also reuse the existing labels for English training data for the Myanmar version.
 
 ## Downloads
 * Myanmar NLI Test Dataset - 5010 records [(tsv)](./output/my/my.genre.test.tsv)
