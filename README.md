@@ -5,10 +5,10 @@ This project will add a Myanmar (Burmese) Corpus to the Cross Lingual NLI Corpus
 The original XNLI Corpus and paper can be found at https://github.com/facebookresearch/XNLI
 
 ## Downloads
-* [Myanmar NLI Test Dataset](./output/my/my.genre.test.tsv)
-* [Myanmar NLI Validation Dataset](./output/my/my.genre.dev.tsv)
-* [Myannmar NLI Training Data](./output/my/my.genre.train.tsv.gz)
-* [Parallel Corpus 16 way](./output/my/myxnli.16way.tsv)
+* Myanmar NLI Test Dataset - 5010 records [(tsv)](./output/my/my.genre.test.tsv)
+* Myanmar NLI Validation Dataset - 1490 records [(tsv)](./output/my/my.genre.dev.tsv)
+* Myannmar NLI Training Data - 392,702 records [(tsv.gz)](./output/my/my.genre.train.tsv.gz)
+* Parallel Corpus 16 Languages [(tsv)](./output/my/myxnli.16way.tsv)
 
 ## Acknowledgements
 This dataset is contributed by the following volunteers.
