@@ -14,6 +14,12 @@ The dataset also includes the NLI training data in Myanmar which is created by m
 * Myannmar NLI Training Data - 392,702 records [(tsv.gz)](./output/my/my.genre.train.tsv.gz)
 * Parallel Corpus 16 Languages [(tsv)](./output/my/myxnli.16way.tsv)
 
+## NLI Format
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 
 ## Myanmar Translation Entry Format
 
@@ -42,20 +48,20 @@ line followed by another entry.
 ## Acknowledgements
 This dataset is contributed by the following volunteers.
 
-### Phase 1 - Initial Translation (Core Team)
+### Phase 1 - Core Translation Team
 * Aung Kyaw Htet
 * Aye Mya Hlaing
 * Hsu Myat Mo
 * Win Pa Pa
 * Yimon Shwe Sin
 
-### Phase 1 - Initial Translation (Extended Team)
+### Phase 1 - Extended Translation Team
 * Aye Nyein Mon
 * Ei Myat Myat Noe
 * Haymar Soe Naing
 * Hnin Nandar Zaw
-* Myint Wai
-* Win LL Phyu
+* Myint Wai*
+* Win LL* Phyu
 * Yadanar
 * Zaw Mee
 
