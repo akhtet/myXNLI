@@ -14,15 +14,16 @@ The dataset also includes the NLI training data in Myanmar which is created by m
 * Myannmar NLI Training Data - 392,702 records [(tsv.gz)](./output/my/my.genre.train.tsv.gz)
 * Parallel Corpus 16 Languages [(tsv)](./output/my/myxnli.16way.tsv)
 
-## NLI Format
+## NLI Example
 
 Premise  | Hypothesis | Label
 ------------- | ------------- | -------------
-သင် ဒီမှာေနစရာ မလုိပါဘူး။ | မင်း ထွက်သွားနုိင်တယ်။ | Entailment
-သင် ဒီမှာေနစရာ မလုိပါဘူး။ | မင်း သွားချင်ရင် အိမ်ကုိ သွားနုိင်တယ်။ | Neutral
-သင် ဒီမှာေနစရာ မလုိပါဘူး။ | မင်း အ့ဲဒီေနရာအတိအကျမှာ ေနဖုိ့လုိတယ်။ | Contradiction
-Content Cell  | Content Cell  | Content Cell
-Content Cell  | Content Cell  | Content Cell
+သင် ဒီမှာ‌နေစရာ မလိုပါဘူး။ | မင်း ထွက်သွားနိုင်တယ်။ | Entailment
+You don’t have to stay there. | You can leave.
+သင် ဒီမှာ‌နေစရာ မလိုပါဘူး။ | မင်း သွားချင်ရင် အိမ်ကို သွားနိုင်တယ်။ | Neutral
+You don’t have to stay there. | You can go home if you want to.
+သင် ဒီမှာ‌နေစရာ မလိုပါဘူး။ | မင်း အဲ့ဒီနေရာအတိအကျမှာ နေဖို့လိုတယ်။ | Contradiction
+You don’t have to stay there. | You need to stay in that exact spot! |
 
 ## Myanmar Translation Entry Format
 
