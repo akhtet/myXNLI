@@ -1,5 +1,5 @@
 # myXNLI
-Myanmar XNLI - Myanmar extension to the XNLI Corpus
+Myanmar XNLI - Myanmar Natural Language Inference Corpus
 
 The myXNLI dataset extends the XNLI Corpus with Myanmar (Burmese) language.
 The original XNLI Corpus and paper can be found at https://github.com/facebookresearch/XNLI
