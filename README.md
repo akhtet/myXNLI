@@ -4,8 +4,18 @@ Myanmar extension to XNLI Corpus
 This project will add a Burmese (Myanmar) Corpus to the Cross Lingual NLI Corpus.
 The original XNLI Corpus and paper can be found at https://github.com/facebookresearch/XNLI
 
-## Acknowledgements
+## Acknowledgement
+Contributed by the following volunteers
+
+### Dataset Build
+* Aung Kyaw Htet
 * Aye Mya Hlaing
+* Hsu Myat Mo
+* Yimon Shwe Sin
+* Win Pa Pa
+
+### Dataset Revision
+* Aung Kyaw Htet
 * Edward Law
 * Junie Soe
 * Thar Htet
@@ -14,8 +24,12 @@ The original XNLI Corpus and paper can be found at https://github.com/facebookre
 * Thiha Kyaw Zaw
 * Yair Pike
 * Yi Sandi Soe
-* Yimon Shwe Sin
-
+  
+### Sample Relabelling
+* Htet Cho
+* Lin Thurein Tun
+* Thein Than Phyo
+* Zay Ye Htut
 
 ## Myanmar Translation Instructions
 
