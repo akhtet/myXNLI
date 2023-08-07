@@ -41,10 +41,7 @@ Contributed by the following volunteers
 
 ## Myanmar Translation Entry Format
 
-Under `translation` folder, there are 100 files, each containing 100 blocks. Each block has a block number, an English sentence and a placeholder for Myanmar Translation.
-
-Use # to insert a comment line at the bottom of the each block.
-Any number of comment lines can be used as long as they are after the sequence number line.
+Under `translation` folder, there are 100 files, each containing 100 blocks. Each block has a block number, an English sentence and a placeholder for Myanmar Translation. An example entry in a translation file is describe below.
 
 ```
 114
@@ -53,3 +50,15 @@ We were watching something on TV.
 # REVIEW
 # This is a comment explaining details about the problem.
 ```
+
+
+The first line makes a reference to the line number of the English sentence in the XNLI corpus. 
+
+The second line contains the actual English sentence to be translated.
+
+The third line is reserved for Myanmar translation of the English sentence.
+
+Additional and optional lines for human translator notes are also allowed with a hash prefix (#). This is useful for flagging translations that require review or documenting any observations made during translation.
+
+Lastly, each entry in the file is separated by a blank
+line followed by another entry.
