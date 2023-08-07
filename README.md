@@ -16,10 +16,13 @@ The dataset also includes the NLI training data in Myanmar which is created by m
 
 ## NLI Format
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Premise  | Hypothesis | Label
+------------- | ------------- | -------------
+Content Cell  | Content Cell  | Content Cell
+Content Cell  | Content Cell  | Content Cell
+------------- | ------------- | -------------
+Content Cell  | Content Cell  | Content Cell
+Content Cell  | Content Cell  | Content Cell
 
 ## Myanmar Translation Entry Format
 
