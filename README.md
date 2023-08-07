@@ -4,6 +4,19 @@ Myanmar extension to XNLI Corpus
 This project will add a Burmese (Myanmar) Corpus to the Cross Lingual NLI Corpus.
 The original XNLI Corpus and paper can be found at https://github.com/facebookresearch/XNLI
 
+## Acknowledgements
+* Aye Mya Hlaing
+* Edward Law
+* Junie Soe
+* Thar Htet
+* Thein Aung Tan
+* Thidar Nwe
+* Thiha Kyaw Zaw
+* Yair Pike
+* Yi Sandi Soe
+* Yimon Shwe Sin
+
+
 ## Myanmar Translation Instructions
 
 Under `translation` folder, there are 100 files, each containing 100 blocks. Each block has a block number, an English sentence and a placeholder for Myanmar Translation.
