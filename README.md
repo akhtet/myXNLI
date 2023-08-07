@@ -6,8 +6,11 @@ The original XNLI Corpus and paper can be found at https://github.com/facebookre
 
 ## Downloads
 [Myanmar NLI Test Dataset](./output/my/my.genre.test.tsv)
+
 [Myanmar NLI Validation Dataset](./output/my/my.genre.dev.tsv)
+
 [Myannmar NLI Training Data](./output/my/my.genre.train.tsv.gz)
+
 [Parallel Corpus 16 way](./output/my/myxnli.16way.tsv)
 
 Read more [here](./README_2.md) # It works!
