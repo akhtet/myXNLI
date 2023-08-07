@@ -10,6 +10,7 @@ Contributed by the following volunteers
 ### Dataset Build
 * Aung Kyaw Htet
 * Aye Mya Hlaing
+* Aye Nyein Mon
 * Hsu Myat Mo
 * Yimon Shwe Sin
 * Win Pa Pa
@@ -25,7 +26,7 @@ Contributed by the following volunteers
 * Yair Pike
 * Yi Sandi Soe
   
-### Sample Relabelling
+### Sample Relabeling
 * Htet Cho
 * Lin Thurein Tun
 * Thein Than Phyo
