@@ -18,9 +18,9 @@ The dataset also includes the NLI training data in Myanmar which is created by m
 
 Premise  | Hypothesis | Label
 ------------- | ------------- | -------------
-Content Cell  | Content Cell  | Content Cell
-Content Cell  | Content Cell  | Content Cell
-------------- | ------------- | -------------
+သင် ဒီမှာေနစရာ မလုိပါဘူး။ | မင်း ထွက်သွားနုိင်တယ်။ | Entailment
+သင် ဒီမှာေနစရာ မလုိပါဘူး။ | မင်း သွားချင်ရင် အိမ်ကုိ သွားနုိင်တယ်။ | Neutral
+သင် ဒီမှာေနစရာ မလုိပါဘူး။ | မင်း အ့ဲဒီေနရာအတိအကျမှာ ေနဖုိ့လုိတယ်။ | Contradiction
 Content Cell  | Content Cell  | Content Cell
 Content Cell  | Content Cell  | Content Cell
 
