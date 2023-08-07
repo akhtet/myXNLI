@@ -11,9 +11,16 @@ Contributed by the following volunteers
 * Aung Kyaw Htet
 * Aye Mya Hlaing
 * Aye Nyein Mon
+* Ei Myat Myat Noe
+* Haymar Soe Naing
+* Hnin Nandar Zaw
 * Hsu Myat Mo
+* Myint Wai
 * Yimon Shwe Sin
 * Win Pa Pa
+* Wi LL Phyu
+* Yadanar
+* Zaw Mee
 
 ### Dataset Revision
 * Aung Kyaw Htet
