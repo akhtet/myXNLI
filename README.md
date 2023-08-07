@@ -14,40 +14,6 @@ The dataset also includes the NLI training data in Myanmar which is created by m
 * Myannmar NLI Training Data - 392,702 records [(tsv.gz)](./output/my/my.genre.train.tsv.gz)
 * Parallel Corpus 16 Languages [(tsv)](./output/my/myxnli.16way.tsv)
 
-## Acknowledgements
-This dataset is contributed by the following volunteers.
-
-### Initial Translation
-* Aung Kyaw Htet
-* Aye Mya Hlaing
-* Aye Nyein Mon
-* Ei Myat Myat Noe
-* Haymar Soe Naing
-* Hnin Nandar Zaw
-* Hsu Myat Mo
-* Myint Wai
-* Yimon Shwe Sin
-* Win Pa Pa
-* Win LL Phyu
-* Yadanar
-* Zaw Mee
-
-### Translation Revision
-* Aung Kyaw Htet
-* Edward Law
-* Junie Soe
-* Thar Htet
-* Thein Aung Tan
-* Thidar Nwe
-* Thiha Kyaw Zaw
-* Yair Pike
-* Yi Sandi Soe
-  
-### Sample Relabeling
-* Htet Cho
-* Lin Thurein Tun
-* Thein Than Phyo
-* Zay Ye Htut
 
 ## Myanmar Translation Entry Format
 
@@ -72,3 +38,41 @@ Additional and optional lines for human translator notes are also allowed with a
 
 Lastly, each entry in the file is separated by a blank
 line followed by another entry.
+
+## Acknowledgements
+This dataset is contributed by the following volunteers.
+
+### Phase 1 - Initial Translation (Core Team)
+* Aung Kyaw Htet
+* Aye Mya Hlaing
+* Hsu Myat Mo
+* Win Pa Pa
+* Yimon Shwe Sin
+
+### Phase 1 - Initial Translation (Extended Team)
+* Aye Nyein Mon
+* Ei Myat Myat Noe
+* Haymar Soe Naing
+* Hnin Nandar Zaw
+* Myint Wai
+* Win LL Phyu
+* Yadanar
+* Zaw Mee
+
+### Phase 3 - Translation Revision
+* Aung Kyaw Htet
+* Edward Law
+* Junie Soe
+* Thar Htet
+* Thein Aung Tan
+* Thidar Nwe
+* Thiha Kyaw Zaw
+* Yair Pike
+* Yi Sandi Soe
+  
+### Sample Relabeling
+* Htet Cho
+* Lin Thurein Tun
+* Thein Than Phyo
+* Zay Ye Htut
+
