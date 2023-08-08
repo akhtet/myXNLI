@@ -12,18 +12,18 @@ The dataset also includes the NLI training data in Myanmar which is created by m
 * Myanmar NLI Test Dataset - 5010 records [(tsv)](./output/my/my.genre.test.tsv)
 * Myanmar NLI Validation Dataset - 1490 records [(tsv)](./output/my/my.genre.dev.tsv)
 * Myannmar NLI Training Data - 392,702 records [(tsv.gz)](./output/my/my.genre.train.tsv.gz)
-* Parallel Corpus 16 Languages [(tsv)](./output/my/myxnli.16way.tsv)
+* Parallel Corpus in 16 Languages [(tsv)](./output/my/myxnli.16way.tsv)
 
 ## Myanmar NLI File Format
 
 Premise  | Hypothesis | Label | Genre
 ------------- | ------------- | ------------- | -------------
-သင် ဒီမှာ‌နေစရာ မလိုပါဘူး။ | မင်း ထွက်သွားနိုင်တယ်။ | Entailment | facetoface
+သင် ဒီမှာ‌နေစရာ မလိုပါဘူး။ | မင်း ထွက်သွားနိုင်တယ်။ | Entailment | face-to-face
 You don’t have to stay there. | You can leave. || facetoface
-သင် ဒီမှာ‌နေစရာ မလိုပါဘူး။ | မင်း သွားချင်ရင် အိမ်ကို သွားနိုင်တယ်။ | Neutral | facetoface
-You don’t have to stay there. | You can go home if you want to. || facetoface
-သင် ဒီမှာ‌နေစရာ မလိုပါဘူး။ | မင်း အဲ့ဒီနေရာအတိအကျမှာ နေဖို့လိုတယ်။ | Contradiction | facetoface
-You don’t have to stay there. | You need to stay in that exact spot! ||facetoface
+သင် ဒီမှာ‌နေစရာ မလိုပါဘူး။ | မင်း သွားချင်ရင် အိမ်ကို သွားနိုင်တယ်။ | Neutral | face-to-face
+You don’t have to stay there. | You can go home if you want to. ||
+သင် ဒီမှာ‌နေစရာ မလိုပါဘူး။ | မင်း အဲ့ဒီနေရာအတိအကျမှာ နေဖို့လိုတယ်။ | Contradiction | face-to-face
+You don’t have to stay there. | You need to stay in that exact spot! ||
 
 ## Myanmar Translation File Format
 
@@ -52,7 +52,7 @@ line followed by another entry.
 The translation revision was managed in a separate git repo https://github.com/akhtet/myTxQA
 
 ## Acknowledgements
-Each phase of dataset development is contributed by the following volunteers.
+Each phase of myXNLI dataset development is contributed by the following volunteers.
 
 ### Phase 1 - Core Translation Team
 * Aung Kyaw Htet
