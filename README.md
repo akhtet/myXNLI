@@ -13,13 +13,15 @@ The dataset also includes the NLI training data in Myanmar which is created by m
 * Myanmar NLI Validation Dataset - 1490 records [(tsv)](./output/my/my.genre.dev.tsv)
 * Myannmar NLI Training Data - 392,702 records [(tsv.gz)](./output/my/my.genre.train.tsv.gz)
 * Parallel Corpus in 16 Languages [(tsv)](./output/my/myxnli.16way.tsv)
+* HuggingFace [dataset](https://huggingface.co/datasets/akhtet/myXNLI)
+
 
 ## Myanmar NLI File Format
 
 Premise  | Hypothesis | Label | Genre
 ------------- | ------------- | ------------- | -------------
 သင် ဒီမှာ‌နေစရာ မလိုပါဘူး။ | မင်း ထွက်သွားနိုင်တယ်။ | Entailment | face-to-face
-You don’t have to stay there. | You can leave. || facetoface
+You don’t have to stay there. | You can leave. ||
 သင် ဒီမှာ‌နေစရာ မလိုပါဘူး။ | မင်း သွားချင်ရင် အိမ်ကို သွားနိုင်တယ်။ | Neutral | face-to-face
 You don’t have to stay there. | You can go home if you want to. ||
 သင် ဒီမှာ‌နေစရာ မလိုပါဘူး။ | မင်း အဲ့ဒီနေရာအတိအကျမှာ နေဖို့လိုတယ်။ | Contradiction | face-to-face
