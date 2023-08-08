@@ -15,6 +15,8 @@ The dataset also includes the NLI training data in Myanmar which is created by m
 * Parallel Corpus in 16 Languages [(tsv)](./output/my/myxnli.16way.tsv)
 * HuggingFace [dataset](https://huggingface.co/datasets/akhtet/myXNLI)
 
+This dataset is licensed under xxxx.
+
 ## Myanmar NLI File Format
 
 Sentence-1 (Premise)  | Sentence-2 (Hypothesis) | Label | Genre
@@ -72,7 +74,7 @@ Each phase of myXNLI dataset development is contributed by the following volunte
 * Yadanar Oo
 * Zaw Mee
 
-### Phase 3 - Translation Revision
+### Phase 2 - Translation Revision
 * Aung Kyaw Htet
 * Edward Law
 * Junie Soe
