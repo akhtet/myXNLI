@@ -4,7 +4,7 @@ Myanmar XNLI - Myanmar Natural Language Inference Corpus
 The myXNLI dataset extends the XNLI Corpus with Myanmar (Burmese) language.
 The original XNLI Corpus and paper can be found at https://github.com/facebookresearch/XNLI
 
-For myXNLI, we translated all 7,500 sentence pairs from XNLI English dev/test sets into Myanmar. The labels from English dev/test sets are also reused for the Myanmar datasets.
+For myXNLI, we human-translated all 7,500 sentence pairs from XNLI English dev/test sets into Myanmar. The labels from English dev/test sets are also reused for the Myanmar datasets.
 
 The dataset also includes the NLI training data in Myanmar which is created by machine-translating the MultiNLI training data from English into Myanmar. Similar to XNLI, we also reuse the existing labels for English training data for the Myanmar version.
 
@@ -14,7 +14,7 @@ The dataset also includes the NLI training data in Myanmar which is created by m
 * Myannmar NLI Training Data - 392,702 records [(tsv.gz)](./output/my/my.genre.train.tsv.gz)
 * Parallel Corpus 16 Languages [(tsv)](./output/my/myxnli.16way.tsv)
 
-## NLI Example
+## Myanmar NLI Example
 
 Premise  | Hypothesis | Label
 ------------- | ------------- | -------------
@@ -25,7 +25,7 @@ You don’t have to stay there. | You can go home if you want to.
 သင် ဒီမှာ‌နေစရာ မလိုပါဘူး။ | မင်း အဲ့ဒီနေရာအတိအကျမှာ နေဖို့လိုတယ်။ | Contradiction
 You don’t have to stay there. | You need to stay in that exact spot! |
 
-## Myanmar Translation Entry Format
+## Myanmar Translation File Format
 
 Under `translation` folder, there are 100 files, each containing 100 blocks. Each block has a block number, an English sentence and a placeholder for Myanmar Translation. An example entry in a translation file is describe below.
 
@@ -49,24 +49,26 @@ Additional and optional lines for human translator notes are also allowed with a
 Lastly, each entry in the file is separated by a blank
 line followed by another entry.
 
+The translation revision was managed in a separate git repo https://github.com/akhtet/myTxQA
+
 ## Acknowledgements
-This dataset is contributed by the following volunteers.
+Each phase of dataset development is contributed by the following volunteers.
 
 ### Phase 1 - Core Translation Team
 * Aung Kyaw Htet
 * Aye Mya Hlaing
 * Hsu Myat Mo
 * Win Pa Pa
-* Yimon Shwe Sin
+* Yi Mon Shwe Sin
 
 ### Phase 1 - Extended Translation Team
 * Aye Nyein Mon
 * Ei Myat Myat Noe
-* Haymar Soe Naing
+* Hay Mar Soe Naing
 * Hnin Nandar Zaw
-* Myint Wai*
-* Win LL* Phyu
-* Yadanar
+* Myint Myint Wai
+* Wai Lai Lai Phyu
+* Yadanar Oo
 * Zaw Mee
 
 ### Phase 3 - Translation Revision
@@ -79,7 +81,7 @@ This dataset is contributed by the following volunteers.
 * Thiha Kyaw Zaw
 * Yair Pike
 * Yi Sandi Soe
-  
+ 
 ### Sample Relabeling
 * Htet Cho
 * Lin Thurein Tun
