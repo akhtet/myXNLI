@@ -15,10 +15,9 @@ The dataset also includes the NLI training data in Myanmar which is created by m
 * Parallel Corpus in 16 Languages [(tsv)](./output/my/myxnli.16way.tsv)
 * HuggingFace [dataset](https://huggingface.co/datasets/akhtet/myXNLI)
 
-
 ## Myanmar NLI File Format
 
-Premise  | Hypothesis | Label | Genre
+Sentence-1 (Premise)  | Sentence-2 (Hypothesis) | Label | Genre
 ------------- | ------------- | ------------- | -------------
 သင် ဒီမှာ‌နေစရာ မလိုပါဘူး။ | မင်း ထွက်သွားနိုင်တယ်။ | Entailment | face-to-face
 You don’t have to stay there. | You can leave. ||
