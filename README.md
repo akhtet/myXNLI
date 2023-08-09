@@ -86,7 +86,7 @@ Each phase of myXNLI dataset development is contributed by the following volunte
 * Thiha Kyaw Zaw
 * Yair Pike
 * Yi Sandi Soe
-* 2 freelancers with the financial support from Macquarie University.
+* 2 Freelancers with the financial support from Macquarie University
   
  ### Sample Relabeling
 * Htet Cho
