@@ -13,11 +13,14 @@ The dataset also includes the NLI training data in Myanmar which is created by m
 * Myanmar NLI Validation Dataset - 1490 records [(tsv)](./output/my/my.genre.dev.tsv)
 * Myannmar NLI Training Data - 392,702 records [(tsv.gz)](./output/my/my.genre.train.tsv.gz)
 * Parallel Corpus in 16 Languages [(tsv)](./output/my/myxnli.16way.tsv)
-* HuggingFace [dataset](https://huggingface.co/datasets/akhtet/myXNLI)
+* HuggingFace [dataset](https://
+* huggingface.co/datasets/akhtet/myXNLI)
 
-This dataset is licensed under xxxx.
+This dataset is licensed under [Creative Commons Attribution-NonCommercial](./LICENSE)
 
 ## Myanmar NLI File Format
+
+Natural Language Inference (NLI) is an NLP task that requires recognising whether there is a logical entailment or contradiction between two natural language statements, or the lack thereof.
 
 Sentence-1 (Premise)  | Sentence-2 (Hypothesis) | Label | Genre
 ------------- | ------------- | ------------- | -------------
@@ -49,10 +52,9 @@ The third line is reserved for Myanmar translation of the English sentence.
 
 Additional and optional lines for human translator notes are also allowed with a hash prefix (#). This is useful for flagging translations that require review or documenting any observations made during translation.
 
-Lastly, each entry in the file is separated by a blank
-line followed by another entry.
+Lastly, each entry in the file is separated by a blank line followed by another entry.
 
-The translation revision was managed in a separate git repo https://github.com/akhtet/myTxQA
+The translation revision was carried out in a private git repo, but final revised translation files have been imported into this (myXNLI) repo.
 
 ## Acknowledgements
 Each phase of myXNLI dataset development is contributed by the following volunteers.
@@ -76,7 +78,7 @@ Each phase of myXNLI dataset development is contributed by the following volunte
 
 ### Phase 2 - Translation Revision
 * Aung Kyaw Htet
-* Edward Law
+* Htoo Htet Aung
 * Junie Soe
 * Thar Htet
 * Thein Aung Tan
