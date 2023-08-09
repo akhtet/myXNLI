@@ -1,26 +1,26 @@
-# myXNLI
-Myanmar XNLI - Myanmar Natural Language Inference Corpus
+# myXNLI - Myanmar Natural Language Inference Corpus
 
-The myXNLI dataset extends the XNLI Corpus with Myanmar (Burmese) language.
-The original XNLI Corpus and paper can be found at https://github.com/facebookresearch/XNLI
+Natural Language Inference (NLI) is an NLP task that requires recognising whether there is a logical entailment or contradiction between two natural language statements, or the lack thereof. 
 
-For myXNLI, we human-translated all 7,500 sentence pairs from XNLI English dev/test sets into Myanmar. The labels from English dev/test sets are also reused for the Myanmar datasets.
+The [Cross-lingual Natural Language Inference Corpus (XNLI)](https://github.com/facebookresearch/XNLI) already provides NLI benchmarking data in 15 other languages. 
+The myXNLI corpus extends XNLI with Myanmar (Burmese) language.
 
-The dataset also includes the NLI training data in Myanmar which is created by machine-translating the MultiNLI training data from English into Myanmar. Similar to XNLI, we also reuse the existing labels for English training data for the Myanmar version.
+For myXNLI, we human-translated all 7,500 sentence pairs from XNLI English dev and test sets into Myanmar. The NLI and Genre labels from English dev and test sets are also reused for the Myanmar datasets.
+
+The dataset also includes the NLI training data in Myanmar which is created by machine-translating the MultiNLI training data from English into Myanmar. Similar to XNLI, we also reuse the existing NLI and Genre labels for English training data for the Myanmar version.
+
+In addition to the NLI dev, test and training datasets, we also appended Myanmar translations to the XNLI 15-language parallel corpus, to create a 16-language parallel corpus.
 
 ## Downloads
 * Myanmar NLI Test Dataset - 5010 records [(tsv)](./output/my/my.genre.test.tsv)
 * Myanmar NLI Validation Dataset - 1490 records [(tsv)](./output/my/my.genre.dev.tsv)
 * Myannmar NLI Training Data - 392,702 records [(tsv.gz)](./output/my/my.genre.train.tsv.gz)
-* Parallel Corpus in 16 Languages [(tsv)](./output/my/myxnli.16way.tsv)
-* HuggingFace [dataset](https://
-* huggingface.co/datasets/akhtet/myXNLI)
+* Parallel Corpus in 16 Languages (ar, bg, de, el, en, es, fr, hi, my, ru, sw, th, tr, ur, vi, zh) [(tsv)](./output/my/myxnli.16way.tsv) 
+* HuggingFace [dataset](https://huggingface.co/datasets/akhtet/myXNLI)
 
 This dataset is licensed under [Creative Commons Attribution-NonCommercial](./LICENSE)
 
 ## Myanmar NLI File Format
-
-Natural Language Inference (NLI) is an NLP task that requires recognising whether there is a logical entailment or contradiction between two natural language statements, or the lack thereof.
 
 Sentence-1 (Premise)  | Sentence-2 (Hypothesis) | Label | Genre
 ------------- | ------------- | ------------- | -------------
@@ -33,7 +33,7 @@ You don’t have to stay there. | You need to stay in that exact spot! ||
 
 ## Myanmar Translation File Format
 
-Under `translation` folder, there are 100 files, each containing 100 blocks. Each block has a block number, an English sentence and a placeholder for Myanmar Translation. An example entry in a translation file is describe below.
+Under `translation` folder, there are 100 files, each containing 100 blocks. Each block has a block number, an English sentence and a placeholder for Myanmar Translation. An example entry in a translation file is described below.
 
 ```
 114
@@ -76,7 +76,7 @@ Each phase of myXNLI dataset development is contributed by the following volunte
 * Yadanar Oo
 * Zaw Mee
 
-### Phase 2 - Translation Revision
+### Phase 2 - Translation Revision Team
 * Aung Kyaw Htet
 * Htoo Htet Aung
 * Junie Soe
@@ -86,10 +86,10 @@ Each phase of myXNLI dataset development is contributed by the following volunte
 * Thiha Kyaw Zaw
 * Yair Pike
 * Yi Sandi Soe
- 
-### Sample Relabeling
+* 2 freelancers with the financial support from Macquarie University.
+  
+ ### Sample Relabeling
 * Htet Cho
 * Lin Thurein Tun
 * Thein Than Phyo
 * Zay Ye Htut
-
