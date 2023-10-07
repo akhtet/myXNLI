@@ -1,9 +1,13 @@
 from google.cloud import translate_v2 as translate
 
 import sys
+from dotenv import load_dotenv
 
 USAGE = """USAGE
-<script.py> [my|sw|ur]
+<script.py> [my|sw|ur|my-bleu] [resume|post]
+
+Translate test sets from myXNLI and XNLI to English (or Myanmar in the case of my-bleu).
+The script will keep a memory of previously translated sentences.
 """
 
 #export GOOGLE_APPLICATION_CREDENTIALS="<path>/<credential.json>"
@@ -17,6 +21,14 @@ test_sets = {
         'sentence1_index': 4,
         'sentence2_index': 5    
     },
+    'my-bleu': {
+        'input': 'output/my/my.genre.test.tsv',
+        'output': 'output/my/raw.myxnli.bleu.test.tsv',
+        'lang_index': -1,
+        'label_index': 1,
+        'sentence1_index': 2,
+        'sentence2_index': 3    
+    },    
     'sw': {
         'input': 'xnli-original/xnli.test.tsv',
         'output': 'output/raw.swxnli.trans.test.tsv',
@@ -71,6 +83,9 @@ def postprocess_line(line):
 
 if __name__ == '__main__':
    
+    # Required to load Google Cloud credentials
+    load_dotenv()
+
     lang = sys.argv[1]
     input_filename = test_sets[lang]['input']
     output_filename = test_sets[lang]['output']
@@ -125,7 +140,7 @@ if __name__ == '__main__':
                 gold_label = cols[label_index]
                 sentence1 = cols[sentence1_index]
                 sentence2 = cols[sentence2_index]
-                sentence1_en, sentence2_en = translate_all([sentence1, sentence2])
+                sentence1_en, sentence2_en = translate_all([sentence1, sentence2], target_language='my' if lang == 'my-bleu' else 'en')
 
                 out_cols = [
                     gold_label,
