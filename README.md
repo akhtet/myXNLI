@@ -11,7 +11,7 @@ The dataset also includes the NLI training data in Myanmar which is created by m
 
 In addition to the NLI dev, test and training datasets, we also appended Myanmar translations to the XNLI 15-language parallel corpus, to create a 16-language parallel corpus.
 
-## Paper
+## Publications
 
 Myanmar XNLI: Building a Dataset and Exploring Low-resource Approaches to Natural Language Inference with Myanmar
 https://www.researchsquare.com/article/rs-4329843/
