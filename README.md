@@ -13,8 +13,7 @@ In addition to the NLI dev, test and training datasets, we also appended Myanmar
 
 ## Publications
 
-Myanmar XNLI: Building a Dataset and Exploring Low-resource Approaches to Natural Language Inference with Myanmar
-https://www.researchsquare.com/article/rs-4329843/
+[Myanmar XNLI: Building a Dataset and Exploring Low-resource Approaches to Natural Language Inference with Myanmar](https://arxiv.org/abs/2504.09645)
 
 ## Downloads
 * Myanmar NLI Test Dataset - 5010 records [(tsv)](./output/my/my.genre.test.tsv)
